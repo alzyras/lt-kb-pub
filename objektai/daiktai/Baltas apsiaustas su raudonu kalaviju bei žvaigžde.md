@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-59680
   teiginys: 'Kristaus karių ordino broliai vilkėjo baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie objekto naudojimą ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

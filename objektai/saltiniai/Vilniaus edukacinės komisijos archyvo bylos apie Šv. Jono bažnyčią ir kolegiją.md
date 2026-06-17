@@ -22,7 +22,7 @@ tags:
   global_id: t-88487
   teiginys: 'Vilniaus edukacinės komisijos archyvo bylose buvo istoriniai-topografiniai duomenys apie Šv. Jono bažnyčią ir to paties vardo kolegiją.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą duomenų kilmę ir objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

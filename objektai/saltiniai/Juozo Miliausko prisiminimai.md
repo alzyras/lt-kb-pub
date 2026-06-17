@@ -34,7 +34,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-001
   global_id: t-78850
   teiginys: 'Juozas Miliauskas prisiminimuose aprašė, kaip Švėkšnos apylinkių miškuose rusų pajėgos užpuolė užvartomis sutvirtintą sukilėlių stovyklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -42,7 +42,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-002
   global_id: t-78851
   teiginys: 'Juozas Miliauskas rašė, kad antrą puolimo dieną šaudymas tęsėsi šešias valandas, o sukilėlių pusėje buvo du lengvai sužeisti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Cituojama „Juozo Miliausko prisiminimai“ ištrauka. „Juozo Miliausko prisi
 - t-005
   global_id: t-78854
   teiginys: 'Juozas Miliauskas prisiminimuose aprašė rusų pajėgų puolimą prieš medžių užvartomis sutvirtintą sukilėlių stovyklą Švėkšnos apylinkių miškuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Miliauskas|Juozas Miliauskas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 

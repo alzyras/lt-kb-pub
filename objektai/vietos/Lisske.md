@@ -14,7 +14,6 @@ tags:
   - miestas
   - pilis
   - privilegija
-  - vieta
 amziai:
   - 'XIII'
 ---

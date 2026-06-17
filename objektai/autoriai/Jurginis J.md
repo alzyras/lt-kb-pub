@@ -24,7 +24,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   global_id: t-64662
   teiginys: 'J. Jurginis nurodomas tarp autorių, siejusių paprotinę teisę su aukšta moters padėtimi senovės baltų šeimoje.'
   sudarymo_pagrindimas: 'Citata palaiko Jurginio įtraukimą į šio aiškinimo bibliografiją, bet reikia pašalinti triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   global_id: t-64663
   teiginys: 'J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: weak_person_mention'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
   pagrindžia:
     - c-003
 
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad rankraščių rinkiniai..., p. 183; Jurginis J. Dusburg
   global_id: t-64667
   teiginys: 'J. Jurginis siejo krivio vardą su vėlesniu bendruomenės seniūno arba vado pavadinimu.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų teiginį apie Jurginio pateiktą aiškinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]'
   pagrindžia:
     - c-002
 - susijęs iš Lietuvos TSR istorija: „Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.

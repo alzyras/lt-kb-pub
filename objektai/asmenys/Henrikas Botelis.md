@@ -34,7 +34,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   global_id: t-116281
   teiginys: 'Henrikas Botelis, Prūsijos maršalas, žuvo liepos 13 d. kautynėse prie Durbės upės Kuršo žemėje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Henriko Botelio pareigas, žūtį, datą ir vietą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
   temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1238 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Henriko Botelio pareigas, žūtį, datą ir vietą pagal citatą.'
@@ -46,7 +46,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   global_id: t-116283
   teiginys: 'Prūsams pareikalavus, broliai davė įkaitu maršalą Henriką Botelį, kad nelaisvėje esantys broliai liktų gyvi.'
   sudarymo_pagrindimas: 'Neaiškus įvardis pakeistas aiškiu asmens vardu ir vaidmeniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Notanga; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Notanga; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Taip „lauke prie Durbės upės“ žuvo Livonijos magistras Burchardas Hornhau
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Henriką Botelį ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apostazija|apostazija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.

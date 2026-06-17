@@ -27,7 +27,7 @@ Totoraitis, kuris beveik prieš 60 metų Šveicarijos Friburge pas prof. G.
   global_id: t-32156
   teiginys: 'J. Totoraitis Šveicarijos Friburge pas prof. G. Schnürerį parašė disertaciją, išspausdintą 1905 m.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie veiklą Friburge.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/J. Totoraitis|J. Totoraitis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Totoraitis|J. Totoraitis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Šveicarija'
   temporaliniai_duomenys: 'įvykio data: 1905 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata apie veiklą Friburge.'

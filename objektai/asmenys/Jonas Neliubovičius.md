@@ -29,7 +29,7 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   global_id: t-87728
   teiginys: '1607 m. Jonas Neliubovičius mūrinį namą su sklypu pardavė Vilniaus kanauninkui Vilčiopolskiui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'prekybos laikotarpis: 1607 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'

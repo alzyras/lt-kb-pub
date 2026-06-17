@@ -27,7 +27,7 @@ amziai:
   global_id: t-100223
   teiginys: 'Vytauto Didžiojo perijodo bibliografijoje nurodytas Z. Ivinskio straipsnis „Kovos bruožai dėl Žemaičių ir jų sienų“.'
   sudarymo_pagrindimas: 'Citata pagrindžia bibliografijos įrašą, o pradinė formuluotė yra OCR fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   pagrindžia:
     - c-001
 

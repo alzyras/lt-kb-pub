@@ -22,7 +22,7 @@ A. Gvagninio „Sarmatų Europos aprašymas“ aprašo Rytų Europos žemes, tau
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia susieti teiginį su konkrečiu šaltinio objektu ir pašalinti perteklinį kito autoriaus minėjimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Europa; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Europa; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
 

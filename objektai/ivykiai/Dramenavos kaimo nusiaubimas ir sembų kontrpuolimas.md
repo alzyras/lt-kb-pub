@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-89360
   teiginys: 'Broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių, bet grįžtančius juos užpuolė sembai.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir perteklinė pradžia; faktas sutrauktas į aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Dramenava; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Dramenava; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-89361
   teiginys: 'Henrikas Ulenbušas per sembų kontrpuolimą nepasitraukė ir pradėjo gintis, todėl kiti broliai grįžo į mūšio lauką.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veiksmų seką ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Ulenbušas|Henrikas Ulenbušas]]; mentioned_place: Kvedenava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Henrikas Ulenbušas|Henrikas Ulenbušas]]; mentioned_place: Kvedenava; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

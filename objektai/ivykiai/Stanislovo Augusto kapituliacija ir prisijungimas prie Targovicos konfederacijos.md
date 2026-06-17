@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20505
   teiginys: 'Stanislovo Augusto pozicija 1792 m. gegužės–liepos kare su Rusija buvo susitaikėliška.'
   sudarymo_pagrindimas: 'Citata pagrindžia tik Stanislovo Augusto pozicijos vertinimą ir karo kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Soltanas|Stanislovas Soltanas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Soltanas|Stanislovas Soltanas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia tik Stanislovo Augusto pozicijos vertinimą ir karo kontekstą.'

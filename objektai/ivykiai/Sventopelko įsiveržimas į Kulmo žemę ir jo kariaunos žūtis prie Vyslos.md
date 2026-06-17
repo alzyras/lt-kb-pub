@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-66922
   teiginys: 'Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 

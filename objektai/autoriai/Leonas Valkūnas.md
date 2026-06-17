@@ -30,7 +30,7 @@ Leonas Valkūnas šiame leidime du kartus tiesiogiai nurodomas kaip „Lietuvos 
   teiginys: 'Leonas Valkūnas iš lotynų kalbos vertė šį „Lietuvos istorijos“ leidimą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo vertėją, o pradinėje formuluotėje nereikalingai priskiriama Kojelavičiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Juozas Jurginis.md#claim-t-186443|Juozas Jurginis]]: Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.

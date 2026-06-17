@@ -29,7 +29,7 @@ Po Cimermano namas atiteko ma­ loningiesiems ponams Savickiams.
   global_id: t-86823
   teiginys: 'Po Cimermano mirties ar valdymo laikotarpio namas atiteko Savickiams.'
   sudarymo_pagrindimas: 'Ištaisyta OCR forma ir suformuluotas pilnas sakinys apie Savickius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Cimermanas.md#claim-t-87645|Cimermanas]]: Radvila padovanojo savo gydytojui Cimermanui mūrinį namą ir sklypą, o karalius Žygimantas Augustas šį dovanojimą patvirtino.

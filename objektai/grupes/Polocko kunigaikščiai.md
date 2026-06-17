@@ -22,7 +22,7 @@ Lietuvos metraščio komentare žinia, kad mirus Ginvilos palikuoniui Glebui neb
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Nepagrįstumo vertinimas paliktas su atribucija, nes tai interpretacinis teiginys. Nepridėta platesnė rusų metraščių ir Henriko Latvio kronikos argumentacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 

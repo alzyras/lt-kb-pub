@@ -10,7 +10,6 @@ tags:
   - ordinas
   - pilis
   - tikėjimas
-  - vieta
 ---
 # Kaimas
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   global_id: t-58560
   teiginys: 'Karalius atžygiavo į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kurių dalis gyventojų jam atidavė įkaitus.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir palikta citatos paremta informacija apie Kaimo valsčių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Tepliava'
+  susije_objektai: 'mentioned_place: Tepliava'
   pagrindžia:
     - c-002
 
@@ -43,8 +42,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Pirmasis Lietuvos gyventojų surašymas (1923 m.): 1923 m. pirmojo Lietuvos gyventojų surašymo duomenimis, kaime gyveno 84 proc. Lietuvos gyventojų, o lietuviai sudarė 91 proc. kaimo gyventojų.
 - susijęs iš [[objektai/asmenys/Zigfridas iš Runkelės.md#claim-t-60474|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]]: Mūšyje netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
-- susijęs iš Kelnas: Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
-- susijęs iš Kelnas: Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
@@ -417,7 +414,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
 ## Ryšiai
 - [[objektai/asmenys/Andrius (Druško kunigaikštis)]] valde_teritorija Kaimas
 - [[objektai/asmenys/Augustas]] valde_teritorija Kaimas
-- [[objektai/asmenys/Jonas]] buvo_valdovas Kaimas
 - [[objektai/asmenys/Zigfridas iš Runkelės|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]] buvo_valdovas Kaimas
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Kaimas
 - [[objektai/asmenys/Odoničius]] keliavo_i Kaimas

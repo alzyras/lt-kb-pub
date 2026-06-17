@@ -36,7 +36,7 @@ Nenurodyta
   global_id: t-01248
   teiginys: 'Zigmanto Augusto antkapis yra Krokuvos katedroje.'
   sudarymo_pagrindimas: 'Citata remia vietos faktą, bet pirminis teiginys yra antraštinis fragmentas be tarinio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 

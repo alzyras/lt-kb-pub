@@ -50,7 +50,7 @@ Nenurodyta
 - t-002
   global_id: t-54298
   teiginys: 'Didžiausią įtaką Lietuvos kultūrai darė lenkiškoji civilizacija, veikusi per bažnytinę sistemą, studijas Krokuvoje, administraciją ir ūkio reformą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Nenurodyta
 - t-004
   global_id: t-54300
   teiginys: 'Studijos Krokuvos universitete buvo vienas lenkiškosios civilizacijos poveikio Lietuvos kultūrai būdų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Lietuvis|Mykolas Lietuvis]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -78,7 +78,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku; perrašyta kaip savarankiškas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 - susijęs iš Krokuva: Lietuvos jaunimo studijos Krokuvos, Vokietijos ir Italijos universitetuose prisidėjo prie europinės kultūros įsisavinimo.

@@ -42,7 +42,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   global_id: t-114451
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų pilių Podolėje.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo kontekstinis ir nutrūkęs, bet citata palaiko faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -50,7 +50,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-003
   global_id: t-114452
   teiginys: 'Numatomos autonomijos teritorija turėjo apimti Lenkijos karalystei priklausiusią Užnemunę, arba Suvalkiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suvalkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -95,7 +95,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-008
   global_id: t-114457
   teiginys: 'Lietuvių veikėjai siūlė nuo Lenkijos karalystės atskirti jos lietuviškąją dalį, tai yra Lietuvos Užnemunę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Suvalkija; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Suvalkai; mentioned_place: Suvalkija; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įvykio data: po 1864 m.; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -105,7 +105,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
 - t-009
   global_id: t-114458
   teiginys: 'Švitrigaila Lenkijos labui atsisakė Kameneco ir kitų Podolės pilių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -114,7 +114,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   global_id: t-114459
   teiginys: 'Žygimantas Senasis dokumente tituluojamas išrinktu Lenkijos Karalystės karaliumi.'
   sudarymo_pagrindimas: 'Citata patvirtina titulą, o pradinis tekstas buvo fragmentiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Viena'
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.

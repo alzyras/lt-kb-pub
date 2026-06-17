@@ -48,7 +48,6 @@ Nenurodyta
   global_id: t-40751
   teiginys: 'PPS-43 buvo perdirbtas sovietinis pistoletas-kulkosvaidis, naudotas 1991 m. sausį Parlamente budėjusių savanorių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citatoje nurodytais faktais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citatoje nurodytais faktais.'

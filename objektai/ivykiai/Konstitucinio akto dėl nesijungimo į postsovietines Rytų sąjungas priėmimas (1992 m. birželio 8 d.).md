@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-20231
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Lietuvos pasirinkimą ir akto priėmimą, o citata tai remia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1992 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Lietuvos pasirinkimą ir akto priėmimą, o citata tai remia.'

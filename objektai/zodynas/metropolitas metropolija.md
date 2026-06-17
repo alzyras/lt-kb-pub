@@ -24,7 +24,7 @@ Vienas didžiausių ir opiausių nepatogumų buvo Mask­ vos metropolitų religi
   global_id: t-86539
   teiginys: 'Maskvos metropolitas Fotijas siekė Kijevo metropolijos prijungimo prie Maskvos, bet dėl Vytauto ligos nieko nelaimėjo.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas ir su OCR triukšmu; citata pagrindžia aiškų faktą apie Fotijų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

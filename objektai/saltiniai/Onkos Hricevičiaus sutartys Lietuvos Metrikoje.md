@@ -29,7 +29,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   global_id: t-88459
   teiginys: 'Daug sutarčių su Onka Hricevičiumi buvo Lietuvos Metrikos V knygoje prie 1505 metų įrašų.'
   sudarymo_pagrindimas: 'Citatos pastaba palaiko faktą apie Onkos sutartis Lietuvos Metrikoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

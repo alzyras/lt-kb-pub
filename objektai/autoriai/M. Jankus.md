@@ -21,10 +21,9 @@ Jankus ir lietuvių draugas vokietis S.
   global_id: t-01103
   teiginys: 'M. Jankus rašė „Aušrai“ kartu su Šernu, S. Zauerveinu ir Didžiosios Lietuvos lietuviais inteligentais.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiksliau atitinka citatoje išvardytus autorius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_person: [[objektai/autoriai/Šernas|Šernas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
 - susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
 - susijęs iš [[objektai/autoriai/Šernas.md#claim-t-01173|Šernas]]: Šernas „Lietuviškoje Ceitungoje“ pradėjo spausdinti patriotiškus straipsnius apie lietuvių praeitį ir svetimųjų jungą.
 ## Reikšmingi paminėjimai
@@ -57,6 +56,3 @@ Jankus ir lietuvių draugas vokietis S.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/autoriai/Zauerveinas]] kariavo_pries M. Jankus

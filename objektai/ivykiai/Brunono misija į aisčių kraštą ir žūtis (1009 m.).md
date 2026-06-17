@@ -51,7 +51,7 @@ Brunono misija nebuvo sėkminga. Jis žuvo jotvingų krašte, o pats Bonifacas b
   global_id: t-10801
   teiginys: 'Per misiją į aisčių kraštą Brunonas žuvo jotvingų krašte.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant teiginį su įvykio objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]'
   pagrindžia:
     - c-001
 

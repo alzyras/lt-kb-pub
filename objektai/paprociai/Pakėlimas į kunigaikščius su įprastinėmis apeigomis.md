@@ -43,7 +43,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas į aiškų faktinį sakinį apie pakėlimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutvarkytas į aiškų faktinį sakinį apie pakėlimą.'

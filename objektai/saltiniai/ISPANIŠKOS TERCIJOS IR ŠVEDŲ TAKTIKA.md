@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-41529
   teiginys: '„Ispaniškos tercijos ir švedų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/tercija|tercija]]; mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-001
 

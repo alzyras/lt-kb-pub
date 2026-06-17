@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-18875
   teiginys: 'Dionizas Poška buvo vienas Žemaitijoje gyvenusių inteligentų, pradėjusių rašyti poeziją žemaitiškai arba lietuviškai.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškią nuorodą „ši mintis“ ir aiškiai susieti teiginį su asmeniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1818 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškią nuorodą „ši mintis“ ir aiškiai susieti teiginį su asmeniu.'

@@ -25,12 +25,9 @@ Pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13472|Lietuvos Persitvarkymo Sąjūdis]]: Pradiniame etape Sąjūdis buvo siejamas su gorbačiovine perestroika, jo pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 - susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13363|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
 - susijęs iš [[objektai/posakiai/Viešumas, demokratija, suverenumas.md#claim-t-13364|Viešumas, demokratija, suverenumas]]: „Viešumas, demokratija, suverenumas“ buvo pagrindinis šūkis.
 - susijęs iš [[objektai/zodynas/pertvarka perestroika.md#claim-t-183451|pertvarka perestroika]]: Pradiniame etape Sąjūdis rėmė Maskvoje pradėtas perestroikos reformas ir siekė jas įgyvendinti Lietuvoje.
-- susijęs iš [[objektai/zodynas/suverenitetas suverenumas.md#claim-t-183470|suverenitetas suverenumas]]: Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
-- susijęs iš [[objektai/zodynas/suverenumas suverenitetas.md#claim-t-183472|suverenumas suverenitetas]]: Pradiniame Sąjūdžio etape pagrindinis šūkis buvo „Viešumas, demokratija, suverenumas“.
 ## Reikšmingi paminėjimai
 
 - c-001

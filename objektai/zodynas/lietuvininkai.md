@@ -44,7 +44,7 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
   global_id: t-26548
   teiginys: 'Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos informacija apie klaipėdiškių lietuvininkų siekius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_place: Dancigas; mentioned_place: Gdanskas; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,6 @@ Ilgainiui lietuvius Vokiečių ordino valstybėje (vėliau pasivadinusioje Prūs
 - susijęs iš Gdanskas: Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.
 - susijęs iš Gdanskas: Kai kurie Klaipėdos krašto lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko.
 - susijęs iš Klaipėdos kraštas: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo neatidavė Lietuvai.
-- susijęs iš Prūsija: Vokiečių ordino valstybėje, vėliau tapusioje Prūsija, lietuviai ilgainiui pradėti vadinti lietuvininkais.
 - susijęs iš Vokietija: 1919 m. Versalio taikos konferencija nuo Vokietijos atskyrė Klaipėdos kraštą, bet jo Lietuvai neatidavė.
 ## Reikšmingi paminėjimai
 

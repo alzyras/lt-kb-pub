@@ -22,7 +22,7 @@ Tautinėms lietuvių ambicijoms buvo suduotas stiprus smūgis – teko liautis m
   global_id: t-20077
   teiginys: 'Priėmus Lenkijos ultimatumą paleista 700 000 narių turėjusi patriotinė Vilniui vaduoti sąjunga.'
   sudarymo_pagrindimas: 'Susiaurinta iki objekto ir pašalinta perteklinė aplinka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -24,7 +24,7 @@ tags:
   global_id: t-86632
   teiginys: 'Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.'
   sudarymo_pagrindimas: 'Citata palaiko vietos apibūdinimą ir žvėryno pavadinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Rūdninkai; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žgvižda'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Rūdninkai; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žgvižda'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,6 @@ Jonas Kraucevičius.
   global_id: t-39375
   teiginys: 'Plk. ltn. Jonas Kraucevičius vadovavo šarvuotam traukiniui.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, bet pilnas faktinis sakinys apie Joną Kraucevičių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78694|Šarvuotasis traukinys Gediminas]]: Šarvuotajam traukiniui „Gediminas“ vadovavo plk. ltn. Jonas Kraucevičius.

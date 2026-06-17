@@ -30,7 +30,7 @@ Gerai klostėsi ekonominiai santykiai, o politinius komplikavo Baltarusijos prez
   global_id: t-17438
   teiginys: 'Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.'
   sudarymo_pagrindimas: 'Reikia sutvarkyti sakinį ir aiškiai susieti faktą su asmeniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltarusija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Estija; mentioned_place: Latvija'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sutvarkyti sakinį ir aiškiai susieti faktą su asmeniu.'

@@ -32,7 +32,7 @@ Mickevičiaus, J.
   global_id: t-19368
   teiginys: 'A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie A. Mickevičiaus kūrybos reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1895 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys apie A. Mickevičiaus kūrybos reikšmę.'

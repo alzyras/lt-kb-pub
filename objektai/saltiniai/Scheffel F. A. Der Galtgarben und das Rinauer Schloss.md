@@ -27,7 +27,6 @@ Dusburgietis teigia, kad scheffel F.
   global_id: t-61285
   teiginys: 'F. A. Scheffelio Der Galtgarben und das Rinauer Schloss paskelbtas 1934 m. leidinio Mitteilungen des Vereins für die Geschichte von Ost- u. Westpr. 9 tome.'
   sudarymo_pagrindimas: 'Bibliografinis fragmentas perrašytas į pilną lietuvišką sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinis fragmentas perrašytas į pilną lietuvišką sakinį.'

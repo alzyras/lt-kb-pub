@@ -45,7 +45,7 @@ Nenurodyta
   teiginys: '1309 m. sausio 6 d. išrinktasis Henrikas buvo vainikuotas Achene.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir nutrūkusį bibliografinį fragmentą; citata pagrindžia datą, asmenį ir veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]'
   temporaliniai_duomenys: 'įvykio data: 1309 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį ir nutrūkusį bibliografinį fragmentą; citata pagrindžia datą, asmenį ir veiksmą.'

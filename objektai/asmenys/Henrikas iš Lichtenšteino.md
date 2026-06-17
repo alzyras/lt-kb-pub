@@ -14,7 +14,6 @@ tags:
   - karas
   - kunigaikštis
   - mūšis
-  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -33,7 +32,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-60025
   teiginys: 'Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko atvykimą ir dalyvavimą žygyje.'
-  susije_objektai: 'location: Austrija; location: Pomeranija; location: Prūsija; location: Vokietija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'location: Austrija; location: Pomeranija; location: Prūsija; location: Vokietija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Vokietija'
   semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Austrija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Pomeranija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Prūsija; [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]] keliavo į Vokietija'
   temporaliniai_duomenys: 'kelionės data: 1246 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas iš Lichtenšteino keliavo į Vokietija“, o ne visam objekto laikotarpiui.'
@@ -46,7 +45,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-60026
   teiginys: 'Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko dalyvavimą Sventopelko derybose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-001
 
@@ -55,7 +54,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   global_id: t-60027
   teiginys: 'Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai perteikia citatoje aprašytą veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-002
 
@@ -67,7 +66,7 @@ Dusburgietis teigia, kad dar kartą apie brolių laimėtą mūšį, kuriame vėl
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti priešininkus ir pašalinti kontekstinį fragmentą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.

@@ -44,7 +44,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-001
   global_id: t-10785
   teiginys: 'Lietuviai siūlė bendrą gynimąsi ir bendrus seimus, bet saviems reikalams norėjo atskirų seimų ir urėdų Lietuvoje tik lietuviams.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
     - c-023
@@ -72,7 +72,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179217
   teiginys: 'Konferencijos rezoliucijoje lietuviai numatė nepriklausomą demokratišką valstybę etnografinėmis ribomis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta; citata palaiko trumpą užbaigtą formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-059
 
@@ -105,7 +105,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179220
   teiginys: 'Pasak Petro Dusburgiečio, lietuviai ir kiti tose žemėse gyvenę žmonės aukas degino vietose, kurias laikė šventomis.'
   sudarymo_pagrindimas: 'Religinio papročio aprašymas perrašytas glaustai ir be poleminės leksikos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-041
     - c-053
@@ -127,7 +127,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179222
   teiginys: 'Lietuviai, rusai, maskvėnai ir totoriai, įsigiję dominijos nuosavybę, turėjo prisiimti ankstesnių savininkų prievoles.'
   sudarymo_pagrindimas: 'Nutrūkęs teisinis fragmentas perrašytas į aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/dominija|dominija]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-080
 
@@ -158,7 +158,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179226
   teiginys: '1320 m. liepos 27 d. Medininkų žemėje lietuviai sutriuškino į Žemaitiją įsiveržusius kryžiuočius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_place: Dobrynė; mentioned_place: Dorpatas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Medininkai; mentioned_place: Pskovas; mentioned_place: Revelis; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1322 m.; įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, faktinis ir tiksliai paremtas citata.'
@@ -169,7 +169,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-013
   global_id: t-179227
   teiginys: 'Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Volbožas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Volbožas'
   pagrindžia:
     - c-061
 
@@ -177,7 +177,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-014
   global_id: t-179228
   teiginys: 'Kildindamas lietuvius iš romėnų, istorikas papildė legendinę dalį Lietuvos žymių šeimų genealogijomis iš Romos patricijų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/patricijus|patricijus]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-091
 
@@ -203,7 +203,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179231
   teiginys: 'Lietuvių bajorai ir individualiai ūkininkavę valstiečiai skyrėsi nuo rytinių slavų nuosavybės struktūra.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos socialine ekonomine informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/alodas alodinė nuosavybė|alodas alodinė nuosavybė]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-014
 
@@ -238,7 +238,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179236
   teiginys: 'Leidinyje atrinkti mūšiai, kuriuose lietuviai kovojo dėl Lietuvos valstybės interesų.'
   sudarymo_pagrindimas: 'Pirminė formuluotė labiau apie leidinio rengėjus, todėl perrašyta kaip faktas apie lietuvius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-075
 
@@ -247,7 +247,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179237
   teiginys: 'Lietuvis Jazbutas su 500 rinktinių vyrų įsibrovė į Lenkiją, išsivarė daug žmonių ir išsigabeno didelį grobį.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-071
 
@@ -265,7 +265,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179239
   teiginys: 'Aštuoni šimtai Lietuvos raitelių nuniokojo 10 kaimų Kersovu vadintoje Lenkijos žemės dalyje ir pasitraukė su dideliu grobiu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kersovas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kersovas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-041
 
@@ -356,7 +356,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179252
   teiginys: 'Stryjkovskis, kildindamas lietuvius iš romėnų, Lietuvos žymių šeimų pradžią vedė iš Romos patricijų.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir sklandžiau, išlaikant citatos faktą apie genealogijas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/patricijus|patricijus]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-011
 
@@ -373,7 +373,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179254
   teiginys: 'Plėšikaujančios lietuvių gaujos niokojo krikščionių žemes, kai Prūsijoje pasklido gandas apie Gedimino norą krikštytis.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nebuvo apie lietuvius; citata palaiko platesnį teiginį apie juos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dobrynė; mentioned_place: Plockas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dobrynė; mentioned_place: Plockas; mentioned_place: Prūsija'
   pagrindžia:
     - c-101
 
@@ -394,7 +394,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179257
   teiginys: 'Prūsų, sūduvių ir lietuvių kariuomenė įsiveržė į Sembą ir aštuonias dienas laikė apsupusi Vėluvos pilį.'
   sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimas ir perteklinės detalės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Vėluva'
   pagrindžia:
     - c-040
 
@@ -412,7 +412,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179259
   teiginys: 'Lietuviai unijos projekte ir vėlesniuose ginčuose su lenkais reikalavo karaliaus garantijos, kad Lietuvoje nebus vykdoma egzekucija.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti ginčų šalį ir karaliaus garantiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/egzekucija|egzekucija]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-015
 
@@ -421,7 +421,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179260
   teiginys: 'Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su lietuviais ir būtų glaustesnis.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Prūsija; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Prūsija; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] susiję su Lenkija; [[objektai/grupes/Lietuviai|Lietuviai]] susiję su Lietuva; [[objektai/grupes/Lietuviai|Lietuviai]] susiję su Prūsija'
   pagrindžia:
     - c-051
@@ -431,7 +431,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179265
   teiginys: '1299 m. šeši šimtai Lietuvos vyrų įsibrovė į Notangą, nusiaubė didžiąją jos dalį ir nužudė arba paėmė į nelaisvę 250 krikščionių.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, faktinis ir paremtas citata.'
@@ -443,7 +443,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179266
   teiginys: '1385 m. pabaigoje Jogaila, lydimas gausios lietuvių kunigaikščių ir didikų svitos, išvyko į Krokuvą.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiesiogiai paremtas citata apie lietuvių svitą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir tiesiogiai paremtas citata apie lietuvių svitą.'
@@ -455,7 +455,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179269
   teiginys: 'Priėmus Gegužės trečiosios konstituciją prasidėjusiose diskusijose Lietuvos atstovai konstituciją manė esant savo nuolaida valstybės stiprinimo vardan (už konstituciją balsavo 30 iš 50 LDK seimūnų).'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir pakankamai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-038
 
@@ -491,7 +491,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179273
   teiginys: 'Po Ostrovos sutarties lietuviai savo valstybę laikė visiškai savarankiška.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas faktas apie lietuvius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-016
 
@@ -500,7 +500,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179274
   teiginys: 'Vytauto kariuomenę sudarė lietuviai, žemaičiai, vokiečiai, lenkai, totoriai, rusai ir valakai.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sutrumpintas sąrašinis faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-036
 
@@ -517,7 +517,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-051
   global_id: t-179276
   teiginys: 'Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Austurweg|Austurweg]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Vysla; mentioned_place: Žemaičių žemė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Vysla; mentioned_place: Žemaičių žemė'
   pagrindžia:
     - c-032
 
@@ -537,7 +537,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179278
   teiginys: 'Kronikoje vaizduojamu laikotarpiu lietuviai, prūsai ir latviai laikomi baltais, siejamais kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie lietuvius kaip baltus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė'
   pagrindžia:
     - c-104
 
@@ -546,7 +546,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179279
   teiginys: 'Įvairiakilmė LDK ponija formavo bendros savimonės „lietuvių nacijos“ ponų sluoksnį.'
   sudarymo_pagrindimas: 'Sakinys yra užbaigtas, gramatiškas ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1514 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra užbaigtas, gramatiškas ir atitinka citatos turinį.'
@@ -567,7 +567,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179282
   teiginys: '1316 m. prie Bisenės pilies Ordino broliai nukovė šešis lietuvių pamaininės saugos vyrus, turėjusius trauktis iš pilies.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys būtų sklandus ir aiškiai perteiktų įvykio eigą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_place: Bisenė; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys būtų sklandus ir aiškiai perteiktų įvykio eigą.'
@@ -579,7 +579,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179283
   teiginys: 'Lietuviai kaip tauta, anot šaltinio, Europoje Lietuvos vardu tapo žinomi tik X amžiuje.'
   sudarymo_pagrindimas: 'Ilgas kilmės pasakojimas sutrumpintas iki aiškaus teiginio apie lietuvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-095
 
@@ -588,7 +588,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179284
   teiginys: '1314 m. lietuviai naktį įsibrovė į maršalo Henriko palapines Medininkų valsčiuje, nužudė 4 vyrus ir išsivarė du arklius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, datuotas ir pagrįstas tinkama citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Lenkija; mentioned_place: Medininkai'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, datuotas ir pagrįstas tinkama citata.'
@@ -612,7 +612,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179286
   teiginys: 'Lietuvių kariuomenei grįžtant, burtus metęs lietuvis perspėjo apie nesėkmę prieš brolių pasalą.'
   sudarymo_pagrindimas: 'Pašalintas išnašos triukšmas ir suformuotas citata paremtas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Bebras'
+  susije_objektai: 'mentioned_place: Bebras'
   pagrindžia:
     - c-024
 
@@ -633,7 +633,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179289
   teiginys: 'Lietuvių ir vakarinių baltų bendradarbiavimas ypač išryškėjo prasidėjus kovai prieš pavyslyje įsikūrusį Kryžiuočių ordiną.'
   sudarymo_pagrindimas: 'Pataisyta didžioji raidė ir pašalintas nereikalingas atribucijos boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Kulmas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kulmas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1236 m.; įvykio data: 1242 m.; įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisyta didžioji raidė ir pašalintas nereikalingas atribucijos boilerplate.'
@@ -644,7 +644,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-064
   global_id: t-179290
   teiginys: 'Tik X a. Lietuvos vardu Europai tapusi žinoma tauta citatoje siejama su trijų skirtingų kilmių gyventojų samplaika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija'
   pagrindžia:
     - c-018
 
@@ -673,7 +673,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-067
   global_id: t-179293
   teiginys: 'Valstybės pakraščiuose Lietuvos valdovai galėjo įkurdinti ištikimus žmones iš Lietuvos, vadintus leičiais arba liečiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-084
 
@@ -682,7 +682,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179294
   teiginys: 'Lietuvių lyderių prisitaikymas prie Vokietijos interesų provokavo konfliktus su lenkais ir tarp pačių lietuvių.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau, pašalinant sunkų junginį ir išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lozana; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lozana; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau, pašalinant sunkų junginį ir išlaikant citatos faktą.'
@@ -748,7 +748,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179300
   teiginys: '1316 m. Medininkų valsčiuje Ragainės broliai, persekiojami 200 lietuvių, sudegino du kaimus ir paėmė į nelaisvę moteris bei vaikus.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir pagrįstas citata.'
@@ -772,7 +772,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179302
   teiginys: 'Palei Vilnios upę gyvenę senbuviai lietuviai sudarė būsimo Vilniaus miesto užuomazgą dar iki Gedimino.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas faktas apie lietuvius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-094
 
@@ -793,7 +793,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179305
   teiginys: 'Magistrui Meinhardui niokojant Gaižuvos ir Paštuvos valsčius, grįžtančią jo kariuomenę kelis kartus užpuolė lietuviai.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų apie lietuvius ir remtųsi citatos faktu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Medraba; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Veliuona; mentioned_place: Vilkaviškis; mentioned_place: Vilkija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Medraba; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Veliuona; mentioned_place: Vilkaviškis; mentioned_place: Vilkija'
   pagrindžia:
     - c-043
 
@@ -811,7 +811,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179307
   teiginys: 'Kronikoje vaizduojamu laikotarpiu prūsus, lietuvius ir latvius siejo kalbos, kultūros, tradicijų ir senosios religijos bendrumas.'
   sudarymo_pagrindimas: 'Pašalintas metatekstinis įvadas ir paliktas faktinis teiginys apie lietuvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-020
 
@@ -829,7 +829,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179309
   teiginys: 'Sūduviai, siekdami atkeršyti už priespaudą, pasitelkė lietuvius ir smarkiai užpuolė Sembos žemę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-034
 
@@ -846,7 +846,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-085
   global_id: t-179311
   teiginys: 'Palei Vilnią gyvenę lietuviai ir Perkūną garbinę vaidilos citatoje laikomi būsimo Vilniaus užuomazga iki Gedimino.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-031
 
@@ -868,7 +868,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179313
   teiginys: 'Skomantas su 4 tūkstančiais sūduvių ir stipria lietuvių kariuomene spalio 21 d. įsiveržė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir citata patvirtina lietuvių kariuomenės dalyvavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Kulmas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-047
 
@@ -877,7 +877,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179315
   teiginys: 'XVII–XVIII a. LDK dar gyvavo lietuvių nacija, suprasta kaip politinė tauta.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai|Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-099
 
@@ -913,7 +913,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179320
   teiginys: 'Lietuvos vardas pirmąkart paminėtas 1009 m., bet lietuvių gentis iš rytų baltų turėjo išsiskirti keliais amžiais anksčiau.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir pagrįstas citata.'
@@ -925,7 +925,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179322
   teiginys: 'Henrikas Tupadelis balistos strėle nukovė kilmingą ir galingą lietuvių vadą per Vėluvos pilies apgultį.'
   sudarymo_pagrindimas: 'Iš ilgo sakinio išskirtas konkretus faktas apie lietuvių vadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena; mentioned_place: Vėluva'
   pagrindžia:
     - c-092
 
@@ -975,7 +975,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179327
   teiginys: 'Konradas Kuršių nerijoje pastatydino Noihauzo pilį, kad lietuviai negalėtų netikėtai veržtis į Sembos žemę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir aiškiai susijęs su lietuviais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Noihauzas; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Noihauzas; mentioned_place: Semba'
   pagrindžia:
     - c-065
 
@@ -983,7 +983,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-100
   global_id: t-179328
   teiginys: 'Lietuvių bajorai gavo teisę po Vytauto mirties dalyvauti naujo kunigaikščio rinkimuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorija|Lenkų bajorija]]; mentioned_group: [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba]]; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Radomas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorija|Lenkų bajorija]]; mentioned_group: [[objektai/grupes/Lenkų ponų taryba|Lenkų ponų taryba]]; mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_place: Lietuva; mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -1025,7 +1025,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-105
   global_id: t-179334
   teiginys: 'Lietuvių bajorai ir individualiai ūkininkaujantys valstiečiai skyrėsi nuo rytinių slavų žemėvaldos tradicijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/alodas alodinė nuosavybė|alodas alodinė nuosavybė]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-014
 
@@ -1043,7 +1043,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179336
   teiginys: 'Lietuvių karalius su 8 tūkstančiais raitelių įsiveržė į Sembą ir sudegino visus pastatus bei pasėlius.'
   sudarymo_pagrindimas: 'Teiginys pilnas, glaustas ir tiksliai atitinka citatą.'
-  susije_objektai: 'territory: Semba; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]; mentioned_place: Semba'
+  susije_objektai: 'territory: Semba; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Dobino|Henrikas iš Dobino]]; mentioned_place: Semba'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] susiję su Semba'
   pagrindžia:
     - c-074
@@ -1052,7 +1052,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - t-108
   global_id: t-179338
   teiginys: 'Lietuviai pateikė savą projektą, pagal kurį bendras karalius turėjo būti atskirai pakeliamas Vilniuje didžiuoju kunigaikščiu.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] susiję su Lietuva; [[objektai/grupes/Lietuviai|Lietuviai]] susiję su Vilnius'
   pagrindžia:
     - c-017
@@ -1063,7 +1063,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179339
   teiginys: '1298 m. rugsėjo 29 d. 140 Lietuvos vyrų netikėtai užpuolė Straisbergą, išžudė gyventojus ir paėmė į nelaisvę moteris bei vaikus.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir tiesiogiai pagrįstas citata.'
@@ -1085,7 +1085,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179344
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, enciklopedinis ir tiesiogiai pagrįstas citata.'
@@ -1105,7 +1105,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   global_id: t-179346
   teiginys: 'Tik penktą dieną iš lietuvių, pabėgusių iš Aukštutinės pilies, sužinota, kad kunigaikštis Karigaila žuvo.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie žinią iš pabėgusių lietuvių.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] susiję su Vilnius'
   pagrindžia:
     - c-049
@@ -1138,7 +1138,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas vertinamasis ir OCR triukšmas, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Dnepras; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Dnepras; mentioned_place: Pripetė'
   pagrindžia:
     - c-107
 
@@ -1189,7 +1189,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį ir aiškesnį faktinį sakinį apie lietuvių veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Gostininas; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Gostininas; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-111
 
@@ -1225,7 +1225,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Žakas|Konradas Žakas]]; mentioned_place: Junigeda; mentioned_place: Kulmas; mentioned_place: Pieštvė; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Konradas Žakas|Konradas Žakas]]; mentioned_place: Junigeda; mentioned_place: Kulmas; mentioned_place: Pieštvė; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -1252,7 +1252,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir išlaikytas pagrindinis faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-116
 
@@ -1264,7 +1264,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia ne tik reikalavimą perrašyti sutartį, bet ir jo motyvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tautų Sąjunga|Tautų Sąjunga]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-117
 
@@ -1288,7 +1288,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-119
 
@@ -1300,7 +1300,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta natūralesne lietuviška žodžių tvarka, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Šich Achmetas|Šich Achmetas]]'
   pagrindžia:
     - c-120
 
@@ -1324,7 +1324,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pataisyta iškraipyta citata ir išlaikyti tik jos paremti duomenys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Bisenė; mentioned_place: Ragainė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas Kvicas|Fridrichas Kvicas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Bisenė; mentioned_place: Ragainė; mentioned_place: Vilnius'
   pagrindžia:
     - c-122
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-183525|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
@@ -1333,18 +1333,14 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
 - susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
-- susijęs iš [[objektai/autoriai/Zauerveinas.md#claim-t-54145|Zauerveinas]]: Zauerveinas tyrė lietuvių kalbą, kovojo už lietuvių teises ir lietuvių laikraščiuose kėlė tautos susipratimą.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-184562|Kalavijuočių ordinas]]: Pasak Livonijos metraščio, žemaičiai ir lietuviai prie Eželio ant ledo kovojo su Livonijos magistru Otonu, kuris žuvo su penkiasdešimčia ordino brolių.
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117392|Žydai]]: Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.
-- susijęs iš [[objektai/paprociai/Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose.md#claim-t-75369|Lietuvių kalbos viešas vartojimas ir lietuviškų pamaldų reikalavimas bažnyčiose]]: Būsimų tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kartu su krikščionimis demokratais kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš Viltis: Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
 - susijęs iš Žemaitija: Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
-- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
 - susijęs iš [[objektai/autoriai/A. Brückner.md#claim-t-64508|A. Brückner]]: Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.
 - susijęs iš [[objektai/autoriai/Pr. Papée.md#claim-t-30929|Pr. Papée]]: Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.
 - susijęs iš [[objektai/grupes/Blaivybės brolijos.md#claim-t-19661|Blaivybės brolijos]]: Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.
@@ -1783,6 +1779,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš [[objektai/asmenys/Motiejus (Žemaičių ir Vilniaus vyskupas).md#claim-t-176552|Motiejus (Žemaičių ir Vilniaus vyskupas)]]: Motiejus buvo Trakų klebonas ir Vilniaus kapitulos kanauninkas, vėliau tapęs Žemaičių ir Vilniaus vyskupu.
 - susijęs iš [[objektai/asmenys/Muka.md#claim-t-60177|Muka]]: 1324 m. Varmės vyskupystės vyras Muka su 19 plėšikautojų dykrose apsupo ir nukovė 45 lietuvių raitelius.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
+- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82627|Mykolas Glinskis]]: Po Aleksandro mirties lietuviai bijojo vežti jo palaikus į Krokuvą dėl pavojingos Mykolo Glinskio puikybės.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82629|Mykolas Glinskis]]: Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176560|Mykolas Küchmeisteris]]: Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime.
@@ -4546,8 +4543,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš Klaipėda: 1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.
 - susijęs iš Klaipėda: Britai iškėlė idėją, kad Lietuva už prarastą Vilnių turi gauti Klaipėdą, bet vėliau pasisakė už laisvojo miesto statusą.
 - susijęs iš Klaipėda: 1323 m. „Žemaitijos lietuviai“ sunaikino Klaipėdos miestą ir tris gretimas kryžiuočiams pavaldžias pilis.
-- susijęs iš Klaipėda: 1252 m. Livonijos ordinas prie Kuršmarių ir Baltijos sandūros statytą pilį pavadino Memeliu, o senoji vietos sodyba vadinosi Klaipėda.
 - susijęs iš Klaipėda: Pagal Versalio sutartį Klaipėdą valdė prancūzų administracija, remiama bataliono prancūzų pėstininkų.
+- susijęs iš Klaipėda: 1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti lietuvių karo pergalių pavadinimai.
 - susijęs iš Klaipėda: Lietuvių diplomatijos sunkumai buvo užprogramuoti, nes du pagrindiniai Lietuvos tikslai akivaizdžiai pjovėsi tarpusavyje: Vilniaus klausimu Lietuva reikalavo sienų revizijų, o Klaipėdos klausimu kovėsi už esamą padėtį – status quo.
 - susijęs iš Klaipėda: Vokiečiai siekė išsaugoti lietuvių blokuojamą Georgenburgą (Jurbarką), būrė dideles pajėgas Klaipėdoje, rengdamiesi dideliam puolimui, kuris galiausiai baigėsi mūšiu prie Durbės.
 - susijęs iš Klaipėda: 1923 m. Klaipėdos sukilimo vadui Jonui Budriui-Polovinskui įteiktos špagos geležtėje buvo iškalti žymiausių lietuvių karo pergalių pavadinimai.
@@ -4687,8 +4684,8 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš Liubekas: Rygiečiai Liubeke ir Rostoke Hanzos sąjungoje skundė Vytautą sulaužius jų patvirtintą sutartį su Polocku.
 - susijęs iš Liubekas: Į Vilnių atvykę amatininkai iš Liubeko ir kitų Hanzos miestų kartu su pirkliais tapo turtingu miesto gyventojų sluoksniu.
 - susijęs iš Liublinas: 1569 m. Liubline lenkai reikalavo visiško Lietuvos ir Lenkijos sujungimo, o lietuviai siekė abiejų valstybių savarankiškumo.
-- susijęs iš Liublinas: Liublino seimas unijos klausimui spręsti susirinko 1569 m. sausio 10 d.
 - susijęs iš Liublinas: 1432 m. pradžioje, stringant lenkų ir lietuvių deryboms, Jogaila stovėjo Liubline, o Švitrigaila su kryžiuočių atstovais buvo Brastoje.
+- susijęs iš Liublinas: Lenkai siekė ginklu atsiimti iš rusų Liubliną, kurio buvo netekę prieš penkiasdešimt septynerius metus.
 - susijęs iš Livonija: 1372 m. Ordinas puolė Lietuvą vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš Livonija: Lietuvių pulkas įsiveržė į Livoniją ir ugnimi bei kardu nusiaubė Dorpato vyskupiją.
 - susijęs iš Livonija: 1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.
@@ -4876,6 +4873,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - susijęs iš Pina: Pina yra Pripetės kairysis intakas, prie kurio yra Pinsko miestas.
 - susijęs iš Piotrkovas: Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl slaptų susitarimų su skitais.
 - susijęs iš Plockas: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
+- susijęs iš Podolė: 1447 m. privilegijoje Kazimieras pasižadėjo išlaikyti Lietuvą Vytauto laikų ribose, todėl Podolė su Voluine turėjo likti Lietuvai.
 - susijęs iš Podolė: Stryjkovskis konflikte su lenkais dėl Podolės ir Volinijos gynė lietuvių poziciją.
 - susijęs iš Podolė: Podolei ir Rusiai kazokai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
 - susijęs iš Podolė: Kazokai Podolei ir Rusiai buvo svarbi jėga ginantis nuo totorių, todėl valdovas jiems mokėjo nedidelį atlygį.
@@ -8140,9 +8138,7 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
     - t-136
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas (vaistininkas)]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] kariavo_pries Lietuviai
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Georgas Zauerveinas]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Lietuviai
 - [[objektai/grupes/Kalavijuočių ordinas]] kariavo_pries Lietuviai
@@ -8155,15 +8151,16 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/asmenys/Prokopas]] kariavo_pries Lietuviai
 - [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Lietuviai
-- [[objektai/autoriai/Zauerveinas]] kariavo_pries Lietuviai
 - [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Lietuviai
 - [[objektai/grupes/Žydai]] kariavo_pries Lietuviai
 - Lietuviai dalyvavo_musyje [[objektai/ivykiai/Kijevo Jaroslavo žygis į Lietuvą (1040 m.)]]
 - Lietuviai dalyvavo_musyje [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]
 - Lietuviai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
 - Lietuviai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
 - Lietuviai dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
 - Lietuviai dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
+- Lietuviai dalyvavo_musyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
 - Lietuviai gyveno [[objektai/vietos/Lietuva]]
 - Lietuviai pastate [[objektai/vietos/Berlynas]]
 - Lietuviai susije_su [[objektai/vietos/Lenkija]]
@@ -8177,8 +8174,13 @@ Lietuviai yra iš aisčių kilčių susiformavusi tauta. Lietuvių vardas pateik
 - [[objektai/autoriai/Fr. Papée]] susije_su Lietuviai
 - [[objektai/vietos/Karaliaučius]] priklause Lietuviai
 - [[objektai/vietos/Kijevas]] priklause Lietuviai
+- Lietuviai priklause [[objektai/vietos/Austrija]]
+- Lietuviai priklause [[objektai/vietos/Lenkija]]
+- Lietuviai priklause [[objektai/vietos/Lietuva]]
+- Lietuviai priklause [[objektai/vietos/Vilnius]]
+- Lietuviai priklause [[objektai/vietos/Vokietija]]
+- Lietuviai priklause [[objektai/grupes/Vokiečiai]]
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Lietuviai
-- [[objektai/asmenys/Mykolas]] susije_su Lietuviai
 - [[objektai/vietos/Osterodė]] priklause Lietuviai
 - [[objektai/vietos/Ragainė]] priklause Lietuviai
 - [[objektai/grupes/Sembai]] priklause Lietuviai

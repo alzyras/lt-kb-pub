@@ -31,7 +31,7 @@ amziai:
   global_id: t-23418
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių.'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau nurodyti leidinio reikšmę tarp pirmųjų Lietuvos laikraščių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1759 m.; įvykio data: 1760 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau nurodyti leidinio reikšmę tarp pirmųjų Lietuvos laikraščių.'
@@ -43,7 +43,7 @@ amziai:
   global_id: t-23420
   teiginys: '„Wiadomości literackie“ 1760 m. pradėjo eiti kaip vienas pirmųjų Lietuvos laikraščių kartu su „Kurier Litewski“.'
   sudarymo_pagrindimas: 'Pradinis teiginys per platus ir apima kitą reiškinį, todėl sutelktas į šaltinio objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1759 m.; įvykio data: 1760 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per platus ir apima kitą reiškinį, todėl sutelktas į šaltinio objektą.'

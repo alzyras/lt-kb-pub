@@ -22,7 +22,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   global_id: t-89608
   teiginys: 'Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų pasakojamą įvykį, o pradinė formuluotė pernelyg abstrakti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-003
 
@@ -31,7 +31,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   global_id: t-89609
   teiginys: 'Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo; citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-003
 
@@ -40,7 +40,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   global_id: t-89610
   teiginys: 'Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir cituoja tiesioginę kalbą; pakanka glausto atribucinio teiginio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-003
 
@@ -56,7 +56,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
 - t-005
   global_id: t-89612
   teiginys: 'Dusburgietis pasakoja, kad albertas iš Meiseno šiame šaltinyje įvardijamas Karaliaučiaus pilies komtūru.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-001
 
@@ -83,7 +83,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   global_id: t-89615
   teiginys: 'Albertas iš Meiseno buvo viešpaties išgydytas, o plaukai taip jam ataugo, kad nė žymės nebeliko buvusio bjaurumo.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-005
 
@@ -95,7 +95,7 @@ Albertas iš Meiseno vaizduojamas kaip Karaliaučiaus komtūras, apie kurį kron
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį ir taisyklingą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]'
   pagrindžia:
     - c-007
 

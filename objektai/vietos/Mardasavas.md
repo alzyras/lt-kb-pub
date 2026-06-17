@@ -28,7 +28,7 @@ Prieš mūšį 1945 m. gruodžio 5 d. prie Mardasavo km., ant Merkio kranto neti
   global_id: t-41898
   teiginys: '1945 m. gruodžio 5 d. prie Mardasavo, ant Merkio kranto, NKVD dalinio netikėtai užklupti žuvo keturi partizanai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Mardasavą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Mardasavą.'

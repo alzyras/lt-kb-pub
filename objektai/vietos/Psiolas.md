@@ -22,7 +22,7 @@ Pulkai, nesutikdami pasipriešinimo, nuniokojo tolesnes žemes ir be mūšio per
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie persikėlimą per Psiolo upę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Skitija; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_place: Skitija; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 - susijęs iš Vorskla: Prie Vorsklos upės pasirodė Tamerlano karvedys Edigejus su didžiuliais skitų būriais.

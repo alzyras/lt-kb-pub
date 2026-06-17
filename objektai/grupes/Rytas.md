@@ -179,6 +179,6 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
     - t-002
 
 ## Ryšiai
-- [[objektai/autoriai/Dusburgas]] kariavo_pries Rytas
+- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]] kariavo_pries Rytas
 - Rytas dalyvavo_musyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
 - Rytas dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]

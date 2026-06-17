@@ -35,7 +35,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra ilgas sąrašas ir nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Austrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_place: Austrija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.

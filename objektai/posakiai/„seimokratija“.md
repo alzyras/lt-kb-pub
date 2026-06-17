@@ -28,7 +28,7 @@ Pilsudskis, skatino veikti visus, nepatenkintus Seimo valdymu („seimokratija�
   global_id: t-20941
   teiginys: '1926 m. J. Pilsudskio grįžimas į valdžią Lenkijoje skatino veikti tuos, kurie buvo nepatenkinti Seimo valdymu, vadintu „seimokratija“.'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir per siaurai priskiria veikimą Pilsudskiui.'

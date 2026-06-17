@@ -33,7 +33,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   global_id: t-78007
   teiginys: '1950 m. uždraustas ir Lietuvos himnas – Vinco Kudirkos „Tautiška giesmė“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vinco Kudirkos kūrinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vinco Kudirkos kūrinį.'
@@ -57,7 +57,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   global_id: t-78009
   teiginys: 'Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Vinco Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   global_id: t-78010
   teiginys: 'Vincas Kudirka iki mirties redagavo 1889 m. pradėtą leisti žurnalą „Varpas“, rašė poeziją ir sukūrė „Tautišką giesmę“.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi publicistinių detalių, o citata pagrindžia glaustesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_person: [[objektai/autoriai/V. Kudirka|V. Kudirka]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Kudirka|V. Kudirka]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1889 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi publicistinių detalių, o citata pagrindžia glaustesnį faktą.'
@@ -78,13 +78,46 @@ Jo redaktoriumi iki pat savo mirties buvo gydytojas Vincas Kudirka (1858–1899)
   global_id: t-78011
   teiginys: 'Vinco Kudirkos poezija ir satyriniai apsakymai, pašiepiantys caro valdininkus, žadino lietuvių tautinę savimonę.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1895 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-004
-
+- susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45931|Adomas Mickevičius (poetas)]]: Adomo Mickevičiaus kūryba turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/asmenys/J. Kraševskis.md#claim-t-63666|J. Kraševskis]]: J. Kraševskio kūrybai priskiriama didelė reikšmė lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101644|J. Stalinas]]: J. Stalinas buvo vaizduojamas statulomis, statytomis Lietuvos valstybingumą liudijusių paminklų vietose.
+- susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101646|J. Stalinas]]: Stalino statulų, prikabinėta komunistinių šūkių.
+- susijęs iš [[objektai/asmenys/Jonas Mačiulis-Maironis.md#claim-t-63724|Jonas Mačiulis-Maironis]]: Jono Mačiulio-Maironio lietuviškai rašyta poezija knygoje apibūdinta kaip romantiška, daininga, lyriška ir savotiškai kovinga.
+- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101654|Josifas Stalinas]]: Stalino statulų, prikabinėta komunistinių šūkių.
+- susijęs iš [[objektai/asmenys/Josifas Stalinas.md#claim-t-101661|Josifas Stalinas]]: Sovietų valdžia Lietuvos valstybingumo paminklų vietose statė J. Stalino, V. Lenino ir sovietinio kario nugalėtojo statulas.
+- susijęs iš [[objektai/asmenys/Julija Žymantienė-Žemaitė.md#claim-t-75893|Julija Žymantienė-Žemaitė]]: Julijos Žymantienės-Žemaitės sodri realistinė socialinė proza žadino lietuvių tautinę savimonę.
+- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19296|V. Leninas]]: Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų.
+- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64245|Vladimiras Leninas]]: Vladimiro Lenino statulos sovietmečiu buvo statomos Lietuvos miestuose ir miesteliuose valstybingumo paminklų vietose.
+- susijęs iš [[objektai/autoriai/A. Mickevičius.md#claim-t-19368|A. Mickevičius]]: A. Mickevičiaus kūryba kartu su J. Kraševskio kūryba turėjo reikšmės lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/autoriai/K. Duonelaitis.md#claim-t-00047|K. Duonelaitis]]: Spaudos draudimo metu Amerikoje buvo išleisti K. Duonelaičio ir kitų žymesniųjų lietuvių autorių raštai.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-00059|Motiejus Valančius]]: Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.
+- susijęs iš [[objektai/autoriai/Motiejus Valančius.md#claim-t-179555|Motiejus Valančius]]: Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.
+- susijęs iš [[objektai/autoriai/V. Kudirka.md#claim-t-19486|V. Kudirka]]: Spalio 6 d. Aukščiausiosios Tarybos Prezidiumas legalizavo V. Kudirkos „Tautišką giesmę“.
+- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75335|Lietuvos trispalvė]]: Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę.
+- susijęs iš [[objektai/daiktai/Lietuvos trispalvė.md#claim-t-75337|Lietuvos trispalvė]]: Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Lietuvos trispalvę, „Tautišką giesmę“, Vytį ir Gediminaičių stulpus.
+- susijęs iš [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis.md#claim-t-13476|Lietuvos Persitvarkymo Sąjūdis]]: 1988 m. spalio 22–23 d. Lietuvos Persitvarkymo Sąjūdžio steigiamajame suvažiavime dalyvavo 1 021 delegatas.
+- susijęs iš [[objektai/grupes/Lietuvos SSR Aukščiausioji Taryba.md#claim-t-65779|Lietuvos SSR Aukščiausioji Taryba]]: 1988 m. spalio 6 d. Lietuvos SSR Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinės kalbos statusą ir legalizavo Lietuvos trispalvę.
+- susijęs iš [[objektai/ivykiai/Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis).md#claim-t-26390|Algirdo Brazausko tapimas LKP CK pirmuoju sekretoriumi ir Vilniaus arkikatedros grąžinimas tikintiesiems (1988 m. spalis)]]: 1988 m. spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir po LPS steigiamojo suvažiavimo grąžino tikintiesiems Vilniaus arkikatedrą.
+- susijęs iš [[objektai/ivykiai/Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.).md#claim-t-20264|Lietuvių kalbos ir Lietuvos simbolių legalizavimas (1988 m. spalio 6 d.)]]: 1988 m. spalio 6 d. Aukščiausiosios Tarybos Prezidiumas suteikė lietuvių kalbai valstybinį statusą ir legalizavo Lietuvos simbolius.
+- susijęs iš [[objektai/ivykiai/Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.).md#claim-t-20298|Lietuvos himno „Tautiška giesmė“ uždraudimas (1950 m.)]]: 1950 m. sovietai uždraudė Lietuvos himną – Vinco Kudirkos „Tautišką giesmę“.
+- susijęs iš [[objektai/ivykiai/„Varpo“ leidimo pradžia.md#claim-t-23492|„Varpo“ leidimo pradžia]]: 1889 m. pradėtas leisti žurnalas „Varpas“ plėtojo „Aušros“ idėjas.
+- susijęs iš [[objektai/paprociai/Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui.md#claim-t-54316|Nelegalios lietuvių periodinės spaudos leidimas ir platinimas tautiniam sąjūdžiui]]: „Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.
+- susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75398|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Lietuvių tautinę savimonę žadino Vinco Kudirkos poezija, satyriniai apsakymai ir Žemaitės realistinė socialinė proza.
+- susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75401|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
+- susijęs iš [[objektai/paprociai/Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną.md#claim-t-75402|Tautinės savimonės telkimas per poeziją, liaudies dainas ir giedamą himną]]: Maironio lietuviškai rašyta poezija turėjo didelę reikšmę lietuvių tautinės savimonės plėtotei.
+- susijęs iš Aušra: Po trejų metų „Aušra“ dėl idėjinių nesutarimų ir finansinių sunkumų sustojo ėjusi, bet paskatino naujus lietuviškus periodinius leidinius.
+- susijęs iš Tautiška giesmė: 1950 m. sovietai uždraudė Lietuvos himną - Vinco Kudirkos „Tautišką giesmę“.
+- susijęs iš Tautiška giesmė: Vincas Kudirka sukūrė eilėraštį „Tautiška giesmė“ ir jo melodiją; šis kūrinys tapo Lietuvos himnu.
+- susijęs iš Varpas: „Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.
+- susijęs iš Varšuva: „Aušros“ idėjas toliau plėtojo 1889 m. pradėtas leisti žurnalas „Varpas“, įsteigtas Varšuvos lietuvių studentų draugijos „Lietuva“.
+- susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101609|tautinis krikštas (krikštas)]]: Lenkų romantikų kūryba prisidėjo prie lietuvių tautinės savimonės plėtotės ir lietuviškai kalbančio kaimo tautinio krikšto.
+- susijęs iš [[objektai/zodynas/tautinis krikštas.md#claim-t-101610|tautinis krikštas (krikštas)]]: Lietuvių tautiniam krikštui didelę reikšmę turėjo lenkų romantikų kūryba ir lietuviškai rašyta Maironio poezija.
 ## Reikšmingi paminėjimai
 
 - c-001

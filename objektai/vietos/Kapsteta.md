@@ -31,7 +31,6 @@ Dusburgietis teigia, kad su sembų kariuomene, vedamas Tirsko, netikėtai įsibr
   global_id: t-58563
   teiginys: 'Kur buvo Kapstetos pilis, nėra aišku.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.

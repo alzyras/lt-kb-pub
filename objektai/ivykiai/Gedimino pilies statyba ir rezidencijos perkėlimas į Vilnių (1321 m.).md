@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-86893
   teiginys: 'Gediminas įsakė pastatyti mūrinę pilį ant kalno prie Vilnelės ir Vilijos santakos ir iš Trakų perkėlė ten savo buveinę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Gedimino veiksmus ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 

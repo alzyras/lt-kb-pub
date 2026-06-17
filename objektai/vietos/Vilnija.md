@@ -22,7 +22,7 @@ O juk planuota išrinkti ir apie 100 Seimo atstovų Vilnijoje, 9 vietos skirtos 
   global_id: t-21911
   teiginys: 'Buvo planuota Vilnijoje išrinkti apie 100 Seimo atstovų, bet rinkimai nevyko, nes Lietuva šios teritorijos nekontroliavo.'
   sudarymo_pagrindimas: 'Sutrumpinta ir sutelkta į Vilniją, neperžengiant citatos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108750|J. Pilsudskis]]: Pilsudskis motyvavo Vilniaus užėmimą vietos lenkų tautiniu apsisprendimu ir kovos su bolševikais būtinybe.

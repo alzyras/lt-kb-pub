@@ -30,7 +30,7 @@ Andziulytė-Ruginienė, M.
   global_id: t-29300
   teiginys: 'M. Andziulytė-Ruginienė 1937 m. Kaune paskelbė darbą „Žemaičių christianizacijos pradžia“.'
   sudarymo_pagrindimas: 'Citata yra bibliografinė, bet pagrindžia konkretų autorės darbą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1937 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra bibliografinė, bet pagrindžia konkretų autorės darbą.'

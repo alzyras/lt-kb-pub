@@ -35,7 +35,7 @@ Tos vė­ liavos buvusios smolenskiečių.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie smolenskiečių veiksmą Oršoje. Nepalikta neaiškių įvardžių ar platesnio mūšio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Andrius Sakavičius.md#claim-t-186033|Andrius Sakavičius]]: Andrius Sakavičius atrėmė pirmą smolenskiečių antpuolį, atvėręs vartus ir paleidęs prieš užpuolėjus raituosius ietininkus.

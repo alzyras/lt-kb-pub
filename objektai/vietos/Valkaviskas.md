@@ -31,7 +31,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
 - t-001
   global_id: t-71978
   teiginys: 'Valkavisko apskritis buvo įtraukta į Lietuvos teritorijos projektą, grindžiamą „Lithuania Propria“ ribomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -42,7 +42,7 @@ Kauno ir Suvalkų gubernijos, Balstogės, Gardino, Slanimo ir Valkavisko apskrit
   global_id: t-71979
   teiginys: '1917 m. Berno konferencijoje Valkavisko apskritis buvo priskirta planuotos Lietuvos teritorijai „Lithuania Propria“ ribose.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs OCR fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs OCR fragmentas.'

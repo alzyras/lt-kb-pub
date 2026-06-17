@@ -29,7 +29,7 @@ amziai:
   global_id: t-41026
   teiginys: '1949 m. Adolfas Ramanauskas-Vanagas tapo Jono Žemaičio-Vytauto pavaduotoju ir vėliau LLKS gynybos pajėgų vadu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir pagrįstas citata.'
@@ -41,7 +41,7 @@ amziai:
   global_id: t-41027
   teiginys: '1949 m. vasarį Jonas Žemaitis-Vytautas buvo išrinktas LLKS tarybos prezidiumo pirmininku ir laikinai ėjo Lietuvos gynybos pajėgų vado pareigas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'

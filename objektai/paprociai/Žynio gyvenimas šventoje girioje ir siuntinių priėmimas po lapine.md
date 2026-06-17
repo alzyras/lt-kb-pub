@@ -38,7 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-08478
   teiginys: 'Kūrėjų kūrėjas gyveno ypatingai, prasišalinęs nuo svieto šventoje girioj, kad rodytų savo ryšį su dievu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]'
   pagrindžia:
     - c-001
 

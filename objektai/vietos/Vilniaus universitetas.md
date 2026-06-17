@@ -34,7 +34,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   global_id: t-77454
   teiginys: 'Senojo jėzuitų Vilniaus universiteto svarbiausia reikšmė buvo jo padėtis kaip šiauriausio katalikiško ir ryčiausio Europos universiteto.'
   sudarymo_pagrindimas: 'Reikia aiškiau perteikti citatoje pateiktą reikšmės vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -43,7 +43,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   global_id: t-77456
   teiginys: 'Manoma, kad senojo Vilniaus universiteto studijų lygis nebuvo menkesnis nei Prahos, Krokuvos, Vienos ar Romos universitetuose.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1832 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą vertinimą.'
@@ -55,7 +55,7 @@ Kuriamam Vilniaus universitetui jėzuitai kėlė didelius tikslus – skleisti m
   global_id: t-77457
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus enciklopedinis sakinys apie Vilniaus universiteto senumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus enciklopedinis sakinys apie Vilniaus universiteto senumą.'

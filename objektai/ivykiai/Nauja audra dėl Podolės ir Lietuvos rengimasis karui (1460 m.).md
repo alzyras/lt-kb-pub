@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,9 +52,9 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą karaliaus veiksmą Bresto seime.'
-  susije_objektai: 'territory: Podolė; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Podolė'
-  temporaliniai_duomenys: 'valdymo pradžia: 1460 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas buvo valdovas Podolė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1460 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą karaliaus veiksmą Bresto seime.'
   pagrindžia:
     - c-002

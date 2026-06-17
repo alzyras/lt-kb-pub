@@ -31,7 +31,7 @@ Komentare Eriko XIII Pomeraniečio delegacijai priskiriamas siekis Lucko suvaži
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas; mentioned_place: Vokietija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas; mentioned_place: Vokietija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: po 1412 m.; įvykio data: 1412 m.; įvykio data: 1459 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Delegacijos tikslas suformuluotas kaip komentare priskiriamas siekis, nes tai motyvo interpretacija. Nepridėta platesnio konflikto konteksto.'

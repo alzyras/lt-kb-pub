@@ -30,7 +30,7 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   global_id: t-86067
   teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa skunde teigė pagal fundacijas laikantis Elniakampius.'
   sudarymo_pagrindimas: 'Citata pagrindžia skundo turinį, o pirminis tekstas buvo nutrūkęs ir triukšmingas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Rudamina'
+  susije_objektai: 'mentioned_place: Rudamina'
   pagrindžia:
     - c-002
 
@@ -39,7 +39,7 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   global_id: t-86068
   teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius skyrė Elniakampius vikaro ir jo adjutorių išlaikymui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Pukančiai; mentioned_place: Rudamina; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Pukančiai; mentioned_place: Rudamina; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1571 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje pateiktą faktą.'

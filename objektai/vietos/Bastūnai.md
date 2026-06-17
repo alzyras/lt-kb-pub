@@ -21,7 +21,7 @@ Galiausiai spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos 
   global_id: t-80602
   teiginys: 'Spalio 7 d. nustatyta demarkacinė linija ėjo palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau susiejant faktą su Bastūnų stotimi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/demarkacijos linija|demarkacijos linija]]; mentioned_place: Nemunas; mentioned_place: Varėna; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Nemunas; mentioned_place: Varėna; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72029|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.

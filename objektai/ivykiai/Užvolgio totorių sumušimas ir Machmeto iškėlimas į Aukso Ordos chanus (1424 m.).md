@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-35891
   teiginys: 'Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.'
   sudarymo_pagrindimas: 'Citata paremia įvykį, bet joje nėra aiškiai nurodyti 1424 metai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

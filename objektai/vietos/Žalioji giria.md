@@ -33,7 +33,7 @@ atnaujinta: ''
   global_id: t-08029
   teiginys: 'Žalioji giria dengė vakarinę daugiau kaip šimtą mylių į rytus ir vakarus nusidriekusios kalvos pusę.'
   sudarymo_pagrindimas: 'Citata tiksliau remia Žaliosios girios vietą prie kalvos, o ne abstraktų aprašymo vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Įšleitė|Įšleitė]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Isteris'
+  susije_objektai: 'mentioned_place: Isteris'
   pagrindžia:
     - c-002
 

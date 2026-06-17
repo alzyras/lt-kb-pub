@@ -30,7 +30,7 @@ Krumbholtz : KrSO, 121 sqq.
   global_id: t-100120
   teiginys: 'R. Krumbholtzas rašė apie įvykius po 1398 m. taikos.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nuorodos fragmentas; citata paremia tik bendrą faktą apie aptartą temą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/J. Voigt|J. Voigt]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Voigt|J. Voigt]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: po 1398 m.; įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra nuorodos fragmentas; citata paremia tik bendrą faktą apie aptartą temą.'

@@ -42,7 +42,7 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   global_id: t-60951
   teiginys: 'Vėlesnėje didžiojo magistro kronikoje Skomantas vadinamas lietuvių vadu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-003
 
@@ -51,7 +51,6 @@ Dusburgietis teigia, kad didžiųjų magistrų jaunesniojoje kronikoje rašoma, 
   global_id: t-60952
   teiginys: 'Naujojoje didžiojo magistro kronikoje minima pilis patikslinama kaip Cenauwe.'
   sudarymo_pagrindimas: 'Pašalintas puslapio numeris ir glaudžiau suformuluota citatos paremta mintis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
 

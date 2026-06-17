@@ -21,7 +21,7 @@ Vadinamoji Ceklio sritis, kuri priskiriama Kuršiams, siekė ir dešinįjį Vent
   global_id: t-32098
   teiginys: 'Kuršiams priskiriama Ceklio sritis istorinių laikų pradžioje siekė dešinįjį Ventos krantą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Ceklio srities ribą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_place: Ceklis; mentioned_place: Venta'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Ceklis; mentioned_place: Venta'
   pagrindžia:
     - c-001
 

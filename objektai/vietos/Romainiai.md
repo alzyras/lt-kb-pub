@@ -31,7 +31,7 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   global_id: t-84712
   teiginys: 'Romainių vietoje prie Kauno, ant Nevėžio kranto, galėjo būti viena iš senovės lietuvių Romuvų.'
   sudarymo_pagrindimas: 'Citata pateikia atsargią prielaidą apie Romuvą Romainių vietoje; teiginys sutrumpintas ir sutvarkytas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Alkos ir romuvos|Alkos ir romuvos]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   global_id: t-84714
   teiginys: 'Balińskio manymu, po 1294 m. kryžiuočių smūgio Perkūno tikėjimo relikvijos, Krivių Krivaitis ir aukotojai tikriausiai buvo perkelti iš Romainių į Vilnių.'
   sudarymo_pagrindimas: 'Cituojama autoriaus prielaida, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vilnius; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: po 1294 m.; įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Cituojama autoriaus prielaida, todėl reikia aiškios atribucijos.'
@@ -127,5 +127,4 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Vaidila]] gyveno Romainiai
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Romainiai

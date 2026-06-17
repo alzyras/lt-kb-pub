@@ -14,7 +14,6 @@ tags:
   - pilis
   - sutartis
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
 ---
@@ -39,7 +38,7 @@ Dusburgietis teigia, kad apie Kulmenzės miesto apgulą Po to atžygiavo prūsų
   global_id: t-58497
   teiginys: 'Liudvikas iš Šipeno, keturioliktas Prūsijos žemės magistras, 1299 m. mirė ir buvo palaidotas Kulmenzės katedroje.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatą apie Liudviko iš Šipeno mirtį ir palaidojimą.'
-  susije_objektai: 'location: Kulmenzė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
+  susije_objektai: 'location: Kulmenzė; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Liudvikas|Liudvikas]] mirė Kulmenzė'
   temporaliniai_duomenys: 'mirties data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas mirė Kulmenzė“, o ne visam objekto laikotarpiui.'

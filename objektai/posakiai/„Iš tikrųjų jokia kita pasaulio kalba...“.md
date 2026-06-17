@@ -28,7 +28,7 @@ III s k y r i u s Rusijos imperijos valdoma Lietuva (1795–1915) „Iš tikrųj
   global_id: t-20842
   teiginys: 'Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1812 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir suformuluotas sklandus faktinis sakinys.'

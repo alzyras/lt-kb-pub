@@ -12,7 +12,6 @@ saltiniai:
 datos:
   - '1239 m.'
   - '1345 m.'
-  - '1395 m.'
   - '1396 m.'
   - '1401 m.'
   - '1404 m.'
@@ -47,7 +46,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180537
   teiginys: 'Vytautas užėmė Smolenską ir pasodino ten savo vietininką kunigaikštį Jomantą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jomantas|Jomantas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -55,7 +54,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-002
   global_id: t-180538
   teiginys: 'Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiausiu Dniepro aukštupį saugančiu strateginiu punktu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-020
 
@@ -63,7 +62,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-003
   global_id: t-180539
   teiginys: 'Smolenske atsirado jėzuitų kolegija, funduota klebono Lempickio ir kitų rėmėjų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-007
 
@@ -72,7 +71,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180540
   teiginys: '1345 m. Jaunutis, pabėgęs nuo Kęstučio puolimo Vilniuje, prieglobsčio ieškojo Smolenske.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų sakinį apie Jaunučio veiksmą Smolenske.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų sakinį apie Jaunučio veiksmą Smolenske.'
@@ -84,7 +83,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180541
   teiginys: 'Caras pyko, kad Steponas Batoras nepripažino jam Smolensko kunigaikščio titulo ir pats vartojo šį titulą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas, bet citata palaiko aiškų faktą apie titulą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Livonija'
   pagrindžia:
     - c-014
 
@@ -93,7 +92,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180543
   teiginys: 'Vytautas buvo įsirengęs stovyklą prie Smolensko ir vėliau užėmė šį miestą.'
   sudarymo_pagrindimas: 'Nors citata triukšminga, ji palaiko faktą apie Vytautą prie Smolensko ir miesto užėmimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-016
 
@@ -101,7 +100,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-008
   global_id: t-180546
   teiginys: 'Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -122,7 +121,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180552
   teiginys: 'Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.'
   sudarymo_pagrindimas: 'Cituota vieta palaiko aiškesnį enciklopedinį sakinį.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Pietų Rusija; owner: Rusija; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Pietų Rusija; owner: Rusija; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
   semantiniai_rysiai: 'Smolenskas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Smolenskas priklausė [[objektai/grupes/Totoriai|Totoriai]]; Smolenskas priklausė Pietų Rusija; Smolenskas priklausė Rusija'
   pagrindžia:
     - c-009
@@ -132,9 +131,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180553
   teiginys: '1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; counterparty: [[objektai/asmenys/Jonas|Jonas]]; counterparty: [[objektai/asmenys/Karolis|Karolis]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Maskva'
+  susije_objektai: 'counterparty: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'mūšio data: 1615-1616; mūšio data: 1616 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Jonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Karolis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Lenkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Lenkai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-013
@@ -153,7 +152,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180555
   teiginys: 'Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -162,7 +161,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180558
   teiginys: 'Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Saksonija'
   temporaliniai_duomenys: 'įvykio data: 1562-1582; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
@@ -173,7 +172,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-015
   global_id: t-180559
   teiginys: 'Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Pietų Rusija; owner: Rusija; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Pietų Rusija; owner: Rusija; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
   semantiniai_rysiai: 'Smolenskas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Smolenskas priklausė [[objektai/grupes/Totoriai|Totoriai]]; Smolenskas priklausė Pietų Rusija; Smolenskas priklausė Rusija'
   pagrindžia:
     - c-009
@@ -182,7 +181,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-016
   global_id: t-180560
   teiginys: 'Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnia'
   pagrindžia:
     - c-021
 
@@ -191,7 +190,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180562
   teiginys: 'Smolenskui buvo suteikta privilegija, garantavusi miestui dalį savarankiškumo.'
   sudarymo_pagrindimas: 'Perrašyta be dviprasmio įvardžio ir su aiškiu objektu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]'
   pagrindžia:
     - c-022
 
@@ -212,7 +210,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180565
   teiginys: '1507-1508 m. kare Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiu strateginiu punktu prie Dniepro aukštupio.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis, todėl reikia įvardyti veikėjus ir laiką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1507-1508; įvykio data: 1508 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaiškus įvardis, todėl reikia įvardyti veikėjus ir laiką.'
@@ -223,7 +221,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-020
   global_id: t-180566
   teiginys: 'Zigmanto Vazos laikais, Maskvoje vykstant didžiajai suirutei, Smolenskas buvo atgautas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Saksonija'
   temporaliniai_duomenys: 'įvykio data: 1562-1582; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -274,7 +272,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180576
   teiginys: 'Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai.'
   sudarymo_pagrindimas: 'Citata palaiko tik bendrą faktą apie Smolensko kunigaikščių valdytus miestus.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Smolensko kunigaikščiai|Smolensko kunigaikščiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolensko kunigaikščiai|Smolensko kunigaikščiai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnia'
   pagrindžia:
     - c-017
 
@@ -283,7 +281,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180577
   teiginys: 'Kai kurie Lietuvos miestai tuo metu buvo valdomi Smolensko kunigaikščių.'
   sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir susieti su Smolensku kaip aiškiu faktiniu predikatu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnia'
   pagrindžia:
     - c-017
 
@@ -292,7 +290,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180578
   teiginys: 'Vytautas 1404 m. birželio 27 d. užvaldė Smolenską ir jame vėl paskyrė savo vietininką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1404 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir tiesiogiai paremtas citata.'
@@ -303,7 +301,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-031
   global_id: t-180579
   teiginys: 'Kojelavičius ir Stryjkovskis klydo teigdami, kad Švitrigaila pabėgo į Smolenską, o ne į Polocką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Polockas'
   pagrindžia:
     - c-018
 
@@ -351,7 +349,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir remiasi citata.'
-  susije_objektai: 'location: Lietuva; location: Prūsija; location: Severskas; location: Sluckas; location: Volynė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Severskas; mentioned_place: Sluckas; mentioned_place: Volynė'
+  susije_objektai: 'location: Lietuva; location: Prūsija; location: Severskas; location: Sluckas; location: Volynė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Severskas; mentioned_place: Sluckas; mentioned_place: Volynė'
   pagrindžia:
     - c-025
 
@@ -363,7 +361,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje nurodytas veiksmo kontekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
   pagrindžia:
     - c-026
 
@@ -414,7 +412,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalinta perteklinė konstrukcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ponų taryba|Ponų taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-030
 
@@ -426,7 +424,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginyje titulas pakeistas vardu iš citatos, nes valdovo titulavimas šiame profilyje jautrus atribucijai. Išlaikytas tik paleidimo į Smolenską faktas ir nelaisvės kontekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Viazma'
   pagrindžia:
     - c-031
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
@@ -444,7 +442,6 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
 - susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
 - susijęs iš [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui.md#claim-t-185749|Maskvos valdovo karo paskelbimas Aleksandrui]]: Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186585|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Tarp Vorsklos mūšyje žuvusiųjų buvo Polocko kunigaikštis Andrius Kęstutaitis, Smolensko kunigaikštis Glėbas Svetoslavovičius ir Krokuvos vaivada Spytka.
 - susijęs iš Didysis Naugardas: Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.
 - susijęs iš Dniepras: Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.
 - susijęs iš Mstislavlis: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
@@ -1454,10 +1451,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - [[objektai/asmenys/Bazilijus Serebrianas]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Ivanas]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Kaributas]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Lengvenis]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Madykas]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]] buvo_valdovas Smolenskas

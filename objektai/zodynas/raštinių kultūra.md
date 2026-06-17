@@ -24,7 +24,7 @@ Raštinės tapo kultūrinės produkcijos gamintojomis, kaupėjomis ir raštinink
   global_id: t-22262
   teiginys: 'Raštinių kultūros plėtrą XIV–XV a. sandūroje skatino augantis LDK rašto poreikis ir vienuolijų trūkumas Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susietas su pastabos objektu ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169686|Lietuvos Didžioji Kunigaikštija]]: XIV–XV a. sandūroje Lietuvos Didžiojoje Kunigaikštijoje sparčiai didėjo rašto poreikis, bet trūko vienuolijų jam tenkinti.

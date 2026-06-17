@@ -15,6 +15,7 @@ datos:
   - '1975 m.'
   - '1982 m.'
   - '1985 m.'
+  - '1988 m.'
   - '2026 m.'
 date_start: '1865'
 date_end: '2026'
@@ -61,7 +62,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   global_id: t-172065
   teiginys: '1946 m. sausio 22 d. Želvos valsčiaus Gursčių kaimo apylinkėse Plieno būrio partizanai kovėsi su NKVD kariuomene.'
   sudarymo_pagrindimas: 'Citata patvirtina vietą, datą, dalyvius ir veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_place: Gursčiai; mentioned_place: Kaimas; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Gursčiai; mentioned_place: Kaimas; mentioned_place: Ukmergė'
   temporaliniai_duomenys: 'įvykio data: 1946 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina vietą, datą, dalyvius ir veiksmą.'
@@ -73,7 +74,7 @@ Nobelio premijos laureatu biochemijos srityje 1982 m. tapo Želvoje gimęs Aaron
   global_id: t-172066
   teiginys: 'Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena'
   temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m.; įvykio data: 1975 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'

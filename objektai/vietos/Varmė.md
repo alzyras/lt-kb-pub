@@ -30,7 +30,7 @@ amziai:
   global_id: t-91423
   teiginys: 'Varmės vyskupas Eberhardas Elbinge su kitais vyskupais surengė pasitarimą dėl taikos sutarties.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata leidžia suformuluoti užbaigtą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbingas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbingas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba'
   pagrindžia:
     - c-004
 
@@ -39,7 +39,7 @@ amziai:
   global_id: t-91424
   teiginys: 'Petro Dusburgiečio kronikoje Varmė įtraukta tarp vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Citata pagrindžia autoriaus skirstymą, todėl tinkama su šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vysla'
   pagrindžia:
     - c-003
 
@@ -57,7 +57,7 @@ amziai:
   global_id: t-91427
   teiginys: 'Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl gautos žinios apie taikos sutartį.'
   sudarymo_pagrindimas: 'Teiginys faktinis ir paremtas citata apie Varmės vyskupą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba'
   pagrindžia:
     - c-004
 
@@ -66,7 +66,7 @@ amziai:
   global_id: t-91428
   teiginys: 'XIV a. buvo įkurti beveik visi Varmės miestai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -84,7 +84,7 @@ amziai:
   global_id: t-91430
   teiginys: 'XIV amžiuje buvo įkurti beveik visi Varmės miestai.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
@@ -93,7 +93,6 @@ amziai:
 - susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
 - susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
 - susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
@@ -357,4 +356,3 @@ amziai:
 - [[objektai/asmenys/Andrius Kopernikas]] buvo_valdovas Varmė
 - [[objektai/grupes/Apaštalų Sostas]] susije_su Varmė
 - [[objektai/asmenys/Otokaras II]] buvo_valdovas Varmė
-- [[objektai/asmenys/Otonas]] buvo_valdovas Varmė

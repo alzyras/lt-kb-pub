@@ -25,9 +25,7 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Prutenis|Prutenis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Prutenis.md#claim-t-60419|Prutenis]]: Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.
-- susijęs iš [[objektai/asmenys/Videvutis.md#claim-t-60073|Videvutis]]: Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu.
-- susijęs iš J. Dlugošo Analai, arba kronikos: J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.
+
 ## Reikšmingi paminėjimai
 
 - c-001

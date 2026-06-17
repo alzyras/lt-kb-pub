@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-78050
   teiginys: 'Eimuntas Nekrošius citatoje įvardytas kaip teatro režisierius, kūręs spektaklius įsivaizduojamoje „idealiojoje Lietuvoje“.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko tik atsargiai atribotą teiginį apie autoriaus vaizdinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata palaiko tik atsargiai atribotą teiginį apie autoriaus vaizdinį.'

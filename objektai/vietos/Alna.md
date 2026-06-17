@@ -40,7 +40,7 @@ Dusburgietis teigia, kad becenbergeris nustatė, kad vietovardžiai, kilę iš l
   global_id: t-58516
   teiginys: 'A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.'
   sudarymo_pagrindimas: 'Teiginys yra apie tyrėjo nustatytą vietovardžių paplitimą, todėl tinka su atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_place: Deimena; mentioned_place: Prieglius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Deimena; mentioned_place: Prieglius'
   pagrindžia:
     - c-002
 - susijęs iš Plikoji Barta: Plikąja, arba Mažąja, Barta buvo vadinamas pietvakarinis Bartos kampas ties Alnos upe.

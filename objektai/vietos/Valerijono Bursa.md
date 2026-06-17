@@ -24,7 +24,7 @@ Be to, kad tiems patiems studentams, anksčiau minėtoje Bursoje tuo metu gyvena
   global_id: t-86157
   teiginys: 'Valerijono Bursos studentams skirti du nauji namai Vyskupų gatvėje su aikštėmis ir kitais pastatais.'
   sudarymo_pagrindimas: 'Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto apie bursą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Valerijono bursos; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Valerijono bursos; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Valerijono Bursos studentų bendrija.md#claim-t-55072|Valerijono Bursos studentų bendrija]]: Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa.

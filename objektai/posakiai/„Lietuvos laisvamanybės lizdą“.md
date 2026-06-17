@@ -28,7 +28,7 @@ amziai:
 - t-001
   global_id: t-26649
   teiginys: '1832 m. Vilniaus universiteto uždarymo iniciatoriai jį vadino „Lietuvos laisvamanybės lizdu“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1832 m.; įvykio data: 1840 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,7 +39,7 @@ amziai:
   global_id: t-26901
   teiginys: '1832 m. Vilniaus universitetą nutarta uždaryti kaip „Lietuvos laisvamanybės lizdą“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1832 m.; įvykio data: 1840 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
@@ -50,13 +50,12 @@ amziai:
 - t-003
   global_id: t-67313
   teiginys: 'Ištrauka formulę sieja su tolesne rusinimo politika: Lietuvos Statuto panaikinimu, teismų sistemos surusinimu ir Lietuvos vardo šalinimu iš gubernijų pavadinimų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1832 m.; įvykio data: 1840 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113363|Vilniaus universitetas]]: 1832 m. buvo nutarta uždaryti Vilniaus universitetą.
-- susijęs iš [[objektai/grupes/Vilniaus universitetas.md#claim-t-113371|Vilniaus universitetas]]: 1832 m. nutarta uždaryti Vilniaus universitetą, – anot uždarymo iniciatorių, „Lietuvos laisvamanybės lizdą“.
 ## Reikšmingi paminėjimai
 
 - c-001

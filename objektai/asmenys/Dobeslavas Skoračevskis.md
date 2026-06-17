@@ -24,7 +24,7 @@ Dlugošas pateikia vengrų didiko Dobeslavo Skoračevskio, Ordino pasiuntinio, a
   global_id: t-80710
   teiginys: 'Dobeslavas Skoračevskis buvo Ordino pasiuntinys, atvykęs pas Jogailą į stovyklą derėtis dėl taikos.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir apkrautas kontekstu, bet citata patvirtina Skoračevskio pasiuntinio vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

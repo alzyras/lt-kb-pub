@@ -25,9 +25,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V.
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/V. Bičiūnas.md#claim-t-34855|V. Bičiūnas]]: V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus.
-- susijęs iš [[objektai/autoriai/Vincas Krėvė.md#claim-t-34891|Vincas Krėvė]]: Vincas Krėvė buvo „Raštų“ VIII tomo, kuriame išspausdinta misterijos „Likimo keliais“ II dalis, autorius.
-- susijęs iš Likimo keliais: „Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais.
+
 ## Reikšmingi paminėjimai
 
 - c-001

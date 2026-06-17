@@ -22,7 +22,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-90009
   teiginys: 'Stanta su bendrais Bartenšteino pilyje paėmė į nelaisvę brolį Rudolfą, vadinamą Bodemeru.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje aprašytą įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_place: Bartenšteinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-90010
   teiginys: 'Brolis Rudolfas, vadinamas Bodemeru, Bartenšteino pilyje pateko į Stantos ir jo bendrų nelaisvę.'
   sudarymo_pagrindimas: 'Pirminis teiginys nekalba apie objektą, bet citata tiesiogiai mini Rudolfo paėmimą į nelaisvę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_place: Bartenšteinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
 

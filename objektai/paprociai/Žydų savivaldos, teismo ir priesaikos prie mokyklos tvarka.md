@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-87172
   teiginys: 'Žydai turėjo būti teisiami tik mokyklose arba įprastose žydų teismo vietose, išskyrus valdovo ar seniūno šaukimą jų akivaizdon.'
   sudarymo_pagrindimas: 'Citata palaiko teismo vietos tvarką, bet pradinis tekstas buvo fragmentiškas ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]'
   pagrindžia:
     - c-002
 

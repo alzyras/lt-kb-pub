@@ -20,7 +20,7 @@ Musteikis. Musteikio vadovaujama 3-ioji divizija (3-iasis, 6-asis ir 9-asis pulk
 - t-001
   global_id: t-40140
   teiginys: 'Mjr. I. Musteikio vadovaujama 3-ioji divizija saugojo Lietuvos rytinę ribą su bolševikais ir Latvija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/3-ioji divizija|3-ioji divizija]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/3-ioji divizija|3-ioji divizija]]; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

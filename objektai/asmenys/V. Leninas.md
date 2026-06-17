@@ -32,7 +32,7 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
   global_id: t-19295
   teiginys: 'Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas, citata palaiko glaustą faktą apie Lenino vaizdavimą kultūroje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Soclageris|Soclageris]]; mentioned_object: [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“|„tautinė pagal formą, socialistinė pagal turinį“]]; mentioned_place: SSRS; mentioned_place: Čekoslovakija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/posakiai/„tautinė pagal formą, socialistinė pagal turinį“|„tautinė pagal formą, socialistinė pagal turinį“]]; mentioned_place: SSRS; mentioned_place: Čekoslovakija'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ Lenino, J. Leniną, tačiau ilgainiui, ypač Dainų šventėse, tai liko apvalka
   global_id: t-19296
   teiginys: 'Sovietmečiu Lietuvos miestuose ir miesteliuose buvo pristatyta V. Lenino statulų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie V. Leniną.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie V. Leniną.'

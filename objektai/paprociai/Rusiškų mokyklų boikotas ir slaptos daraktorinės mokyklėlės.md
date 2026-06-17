@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-75389
   teiginys: 'Po 1863–1864 m. sukilimo daraktorinėmis vadintos slaptos mokyklėlės masiškai išplito ir miestuose.'
   sudarymo_pagrindimas: 'Reikia aiškesnio laiko ir konteksto, kurį pateikia citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškesnio laiko ir konteksto, kurį pateikia citata.'
@@ -72,7 +72,7 @@ Nenurodyta
   global_id: t-75392
   teiginys: 'XIX a. pabaigoje etninėje Lietuvoje oficialias pradžios mokyklas lankė itin maža mokyklinio amžiaus vaikų dalis.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, paliktas šaltinio remiamas faktas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir OCR triukšmas, paliktas šaltinio remiamas faktas.'
@@ -92,7 +92,7 @@ Nenurodyta
   global_id: t-75394
   teiginys: 'XIX a. pabaigoje Kauno gubernijoje oficialias pradžios mokyklas lankė 21 proc. berniukų ir 4 proc. mergaičių.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir pagrįstas citatos statistika.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Pirmasis visuotinis Rusijos imperijos gyventojų surašymas|Pirmasis visuotinis Rusijos imperijos gyventojų surašymas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir pagrįstas citatos statistika.'
@@ -107,7 +107,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia išplėsti dalinę nuorodą į aiškiai įvardytą vyskupą ir sutvarkyti sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti dalinę nuorodą į aiškiai įvardytą vyskupą ir sutvarkyti sakinį.'

@@ -31,7 +31,7 @@ Slaptai leistas ir nelegaliai platintas mėnraštis tapo naujų tautinio sąjūd
 - t-001
   global_id: t-65144
   teiginys: 'Rusijos imperijoje estai turėjo kultūrinių galimybių ir švietimo sąlygų, kurių siekė etniniai lietuviai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
 

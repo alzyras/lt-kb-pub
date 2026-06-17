@@ -36,7 +36,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, Vaišvilkas su pinskiečiais ir naugardukiečiais parvyko į Lietuvą kunigaikščiauti, o Lietuva jį sutiko kaip valdovo sūnų.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pridėta citatos veiksmo seka.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

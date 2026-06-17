@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-97031
   teiginys: 'Po Prahos sprendimo Lietuvos vardu protestą Prahoje pareiškė Butrimas ir Vytauto sekretorius Cibulka.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo neaiškus, todėl pasirinktas citatoje aiškiai paremtas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butrimas|Butrimas]]; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butrimas|Butrimas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vengrija'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-97032
   teiginys: 'Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.'
-  susije_objektai: 'location: Lietuva; location: Praha; location: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Butrimas|Butrimas]]; mentioned_person: [[objektai/asmenys/Cibulka|Cibulka]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vengrija'
+  susije_objektai: 'location: Lietuva; location: Praha; location: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Butrimas|Butrimas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 

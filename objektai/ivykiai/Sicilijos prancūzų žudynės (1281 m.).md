@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1281 m. Sicilijos karalystėje palermiečiai išžudė ten gyvenusius prancūzus, tiek vyrus, tiek moteris.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia Sicilijoje vykusias prancūzų žudynes ir leidžia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   temporaliniai_duomenys: 'įvykio data: 1281 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia Sicilijoje vykusias prancūzų žudynes ir leidžia pašalinti OCR triukšmą.'

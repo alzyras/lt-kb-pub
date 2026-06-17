@@ -24,7 +24,7 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
   global_id: t-87810
   teiginys: 'Vytauto sesuo Ona ištekėjo už vyresniojo Mazovijos kunigaikščio Jonušo per Vilniuje vykusias prašmatnias vestuves.'
   sudarymo_pagrindimas: 'Citata palaiko Onos santuoką su Jonušu ir vestuvių vietos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

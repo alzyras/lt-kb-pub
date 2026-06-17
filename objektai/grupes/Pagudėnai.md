@@ -35,7 +35,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89155
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
   sudarymo_pagrindimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
   semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
   temporaliniai_duomenys: 'kelionės data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pagudėnai keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pagudėnai keliavo į Pagudė“, o ne visam objekto laikotarpiui.'
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89157
   teiginys: '1274 m. pagudėnai kartu su varmiais, notangais, bartais ir sembais grįžo į Bažnyčios visuotinybę ir davė įkaitų.'
   sudarymo_pagrindimas: 'Citata palaiko pagudėnų grįžimą į krikščionių valdžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko pagudėnų grįžimą į krikščionių valdžią.'
@@ -92,7 +92,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89160
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie tikinčiuosius pagudėnus.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_place: Elbingas; mentioned_place: Pagudė'
   semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
   pagrindžia:
     - c-015
@@ -102,7 +102,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89161
   teiginys: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   sudarymo_pagrindimas: 'Citata pagrindžia Pagudės geografinį apibūdinimą.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; location: Prūsai; location: Prūsų žemė; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
+  susije_objektai: 'location: Elbingas; location: Pagudė; location: Prūsai; location: Prūsų žemė; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
   semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Pagudė; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsai; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsų žemė'
   pagrindžia:
     - c-006
@@ -121,7 +121,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89163
   teiginys: 'Vėliau krikštą priėmę pagudėnai pasakojo matę lauką pilną ginkluotų vyrų prieš prūsų kariuomenės pabėgimą.'
   sudarymo_pagrindimas: 'Reikia išplėsti kontekstinį „tą patį“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -157,7 +157,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89168
   teiginys: 'Pagudėnai užpuolė Elbingo komtūrą, Kristburgo komtūrą Helvigą iš Goldbacho bei jų padėjėjus ir išsivarė juos į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie pagudėnų puolimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Kristburgas'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas'
   pagrindžia:
     - c-002
 
@@ -166,7 +166,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89169
   teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie pagudėnų bei kitų grupių pasidavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: po 1246 m.; įvykio data: 1246 m.; įvykio data: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie pagudėnų bei kitų grupių pasidavimą.'
@@ -187,7 +187,7 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89171
   teiginys: 'Pagudėnas Linkas su bartų vadu Divanu ir didele kariuomene įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'

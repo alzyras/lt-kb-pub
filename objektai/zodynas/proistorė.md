@@ -65,7 +65,7 @@ Autorius aiškiai skiria proistorę nuo tikrosios istorijos ir laiko ją atskiru
 - t-006
   global_id: t-70294
   teiginys: 'Lietuvos proistorei geriau pažinti padėjo gausūs archeologiniai kasinėjimai ir tyrinėjimai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/J. Jakubowski.md#claim-t-64629|J. Jakubowski]]: J. Jakubowski 1907 m. paskelbė darbą „Opis księstwa trockiego w 1387 r.“

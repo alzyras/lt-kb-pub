@@ -39,7 +39,7 @@ Nenurodyta
   teiginys: 'Apie birželio 24 d. Prancūzijoje saldi rasa nukrito ant pasėlių varpų, o žmonės burnoje jautė medaus kvapą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys užterštas šaltinio santrumpomis, bet citata remia reiškinio aprašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
 

@@ -25,7 +25,6 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XVIII'
@@ -43,7 +42,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172804
   teiginys: 'Vilniaus magistratas viešai iš didžiojo kunigaikščio rankų priėmė Magdeburgo teisių atnaujinimo ir patvirtinimo privilegijas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia magistrato veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/knechtas|knechtas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/knechtas|knechtas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -52,7 +51,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172805
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.'
   sudarymo_pagrindimas: 'Teiginys glaustai apima citatoje išvardytus priekaištus ir baudą.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]] susiję su Lietuva; [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]] susiję su Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1524 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus magistratas susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus magistratas susiję su Vilnius“, o ne visam objekto laikotarpiui.'
@@ -65,7 +64,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172806
   teiginys: '1632 m. Vilniaus gyventojas Parulis įkeitė mūrinį namą Vilniaus magistratui ir nurodė palūkanas mokėti Švč. Trejybės špitolei.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Parulis|Parulis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1632 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -77,7 +76,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172807
   teiginys: 'Vilniaus tarėjams buvo nurodyta su ponais tartis dėl duonos dydžio, svorio ir kitų miesto tvarkos dalykų.'
   sudarymo_pagrindimas: 'Citata pagrindžia miesto tarėjų funkciją, o teiginys buvo nutrūkęs.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -86,7 +85,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172809
   teiginys: '1545 m. gegužės 4 d. įsakymu Švč. Trejybės prieglaudos pajamų valdymas buvo patikėtas Vilniaus magistratui.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako citatoje minimą sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1545 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako citatoje minimą sprendimą.'
@@ -98,7 +97,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172811
   teiginys: '1786 m. rugpjūčio 19 d. iš Vilniaus magistrato ir miesto knygos buvo išduota privilegijos ištrauka ribų komisijos teismui.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1786 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citata.'
@@ -110,7 +109,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172812
   teiginys: '1667 m. balandžio 4 d. Vilniaus magistratas stojo į teismą su Šv. Jono bažnyčia dėl ankstesnių potvarkių.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius; mentioned_place: Šv. Jono bažnyčia'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Šv. Jono bažnyčia'
   temporaliniai_duomenys: 'įvykio data: 1667 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai paremtas citata.'
@@ -122,7 +121,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172813
   teiginys: 'Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet originalas buvo nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -131,7 +130,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172814
   teiginys: 'Karaliaus įsakymas skelbė, kad Vilniaus vaito, advokato ar tarėjų draudimai naudotis vyskupo mėsinėmis turguje negalioja.'
   sudarymo_pagrindimas: 'Citata pagrindžia miesto pareigūnų draudimų panaikinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-014
 
@@ -149,7 +148,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172816
   teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų skundo turinį, bet originalas buvo dokumento fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -170,7 +169,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172818
   teiginys: 'Žygimanto Augusto privilegija nuo nakvynės ir apsistojimo prievolės atleido Vilniaus magistrato raštininkų namus ir butus.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkrečią privilegiją magistrato pareigūnams.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-017
 
@@ -191,7 +190,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172820
   teiginys: '1654 m. liepos 4 d. įvykdytas sprendimas byloje dėl patronato teisių patenkino Vilniaus magistrato ieškinį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą sprendimo rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tiškevičiai|Tiškevičiai]]; mentioned_object: [[objektai/zodynas/Jus Patronatus|Jus Patronatus]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jurgis Tiškevičius|Jurgis Tiškevičius]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tiškevičiai|Tiškevičiai]]; mentioned_object: [[objektai/zodynas/Jus Patronatus|Jus Patronatus]]; mentioned_person: [[objektai/asmenys/Jurgis Tiškevičius|Jurgis Tiškevičius]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1654 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą sprendimo rezultatą.'
@@ -203,7 +202,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172821
   teiginys: 'Vilniaus magistratas per savo valdytojus disponavo mūriniais namais, kurių pajamos buvo skirtos koplyčios poreikiams.'
   sudarymo_pagrindimas: 'Originalus teiginys nebuvo apie magistratą, bet citata pateikia su juo susijusį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1601 m.; įvykio data: 1633 m.; įvykio data: 1664 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originalus teiginys nebuvo apie magistratą, bet citata pateikia su juo susijusį faktą.'
@@ -215,7 +214,7 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172822
   teiginys: 'Vilniaus magistratas gavo teisę siųsti du arba tris patarėjus į didžiuosius seimus Karalystėje ar Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.

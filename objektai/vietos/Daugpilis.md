@@ -34,7 +34,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   global_id: t-181496
   teiginys: 'Zigmantas Sierakauskas planavo sukilėlių pajėgomis žygiuoti Daugpilio link ir bandyti užimti šią carinės kariuomenės tvirtovę.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas be aiškaus veiksnio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   global_id: t-181498
   teiginys: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Latvija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Latvija; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -64,7 +64,7 @@ Taip antai, vienų paliaubų metu ordinas (1274 m.) Naujinio vietoje pastatė Da
   global_id: t-181499
   teiginys: '1919-1920 m. Pirmoji Lietuvos Respublika Nepriklausomybės kovose vijo bolševikus iki Daugpilio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir susieja Daugpilį su šaltinyje aprašytomis kovomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Jieznas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_place: Jieznas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1919-1920; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir susieja Daugpilį su šaltinyje aprašytomis kovomis.'

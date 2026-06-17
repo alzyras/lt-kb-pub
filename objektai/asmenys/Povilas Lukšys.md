@@ -21,7 +21,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 - t-001
   global_id: t-49483
   teiginys: 'Povilas Lukšys žuvo nuo ugnies iš Taučiūnų dvaro ir buvo pirmasis Nepriklausomybės kovose žuvęs Lietuvos savanoris.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_place: Lietuva; mentioned_place: Taučiūnai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Taučiūnai'
   pagrindžia:
     - c-002
 
@@ -37,7 +37,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
 - t-003
   global_id: t-49485
   teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių kaimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Mūsiškiai, pradėję kariauti su bolševikais, pirmą mūšį laimėjo prie K�
   global_id: t-49486
   teiginys: 'Povilas Lukšys su V. Vainausku ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis iš Eigulių į Juodikio mišką.'
   sudarymo_pagrindimas: 'Vardas išplėstas pagal antraštę, o faktas tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.).md#claim-t-01849|Vilniaus užėmimas lenkų (1919 m. balandžio 19 d.)]]: 1919 m. balandžio 19 d. iš pietų prasiveržę lenkai paėmė Vilnių, nors lietuvių pajėgos buvo nustūmusios rusus iki miesto.

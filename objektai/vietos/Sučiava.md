@@ -29,7 +29,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   teiginys: 'Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina Olbrachto veiksmus prie Sučiavos.'
-  susije_objektai: 'territory: Moldavija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
+  susije_objektai: 'territory: Moldavija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-003
 
@@ -85,7 +85,7 @@ Olbrachtas pasitraukė nuo Sučiavos miesto. Sučiava čia lieka nepaimta po nes
   teiginys: 'Olbrachtas pasitraukė nuo Sučiavos miesto.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie veiksmą prie Sučiavos. Jis sąmoningai neperima citatoje esančio motyvo apie troškimą kautis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Moldavija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.

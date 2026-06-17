@@ -22,7 +22,7 @@ Mykolas Goštautas buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų biografinį faktą apie Mykolą Goštautą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.).md#claim-t-185785|Vilniaus seimas ir Glinskio šalininkų teismas (1509 m.)]]: Mykolas Goštautas buvo vedęs Glinskio dukterį, todėl kai kas įtarė jį ir jo brolį prisidėjus prie Glinskio antpuolio.

@@ -21,7 +21,6 @@ Item Decima in Wieprze om­ nis Grani praeter Avenam et Strenam, Sive Columbatio
   global_id: t-86587
   teiginys: 'Bažnyčia galėjo būti nukelta arba tapti Pabaisko bažnyčiai priklausančia filija.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą teiginį apie filijos priklausomybę; pašalintas OCR ir antraščių triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka.md#claim-t-87279|Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]: Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.

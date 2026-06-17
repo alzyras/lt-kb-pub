@@ -28,7 +28,7 @@ Jono gatvės į Vyskupų, šalimais Jono Hozijaus namo (Šv.
   global_id: t-86282
   teiginys: 'Žygimanto Augusto laikais kampinis medinis namas stovėjo ties posūkiu iš Šv. Jono gatvės į Vyskupų gatvę.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs OCR fragmentas, o citata palaiko aiškų vietos aprašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Erazmas Bretneris|Erazmas Bretneris]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Erazmas Bretneris|Erazmas Bretneris]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -34,7 +34,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   global_id: t-60943
   teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ pirmasis Ordino magistras Henrikas Valpotas vadinamas Hermanu.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie šaltinyje vartojamą pirmojo magistro vardą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad seniausias pasakojamojo pobūdžio šaltinis apie Vokie
   global_id: t-60945
   teiginys: '„Pasakojime apie Vokiečių ordino pradžią“ nurodoma, kad Bremeno ir Liubeko miestiečiai dovanojo ligoninę.'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie šaltinyje aprašytą ligoninės dovanojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bremenas; mentioned_place: Liubekas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bremenas; mentioned_place: Liubekas'
   pagrindžia:
     - c-002
 

@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-78620
   teiginys: 'Ketverių metų seimas 1791 m. gegužės 3 d. priėmė konstituciją ir kitus įstatymus, turėjusius reformuoti valstybę bei atsikratyti Rusijos protektorato.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir puslapio triukšmas, paliktas citatos remiamas faktas.'

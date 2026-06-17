@@ -44,7 +44,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173445
   teiginys: 'Ordino maršalas su kryžiuočių kariuomene ir Vytauto pulkais užėmė Kernavę ir Maišiagalą.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-003
   global_id: t-173446
   teiginys: 'H. Paszkiewiczius Mindaugo sostine laikė Kernavę, jei Mindaugas apskritai turėjo pastovią sostinę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/autoriai/H. Paszkiewicz|H. Paszkiewicz]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Paszkiewicz|H. Paszkiewicz]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -87,7 +87,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   global_id: t-173453
   teiginys: 'Ordino maršalas, susijungęs su Vytauto pulkais, užėmė Kernavę ir Maišiagalą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -95,7 +95,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
 - t-009
   global_id: t-173454
   teiginys: 'Draudimas statyti per upę mažus tiltelius galiojo nuo Nemenčinės dvaro iki Kernavės miestelio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -140,7 +140,7 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš citatos atkurta aiški veiksmo kryptis ir objektas.'
-  susije_objektai: 'territory: Ritersverderis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Ritersverderis'
+  susije_objektai: 'territory: Ritersverderis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Ritersverderis'
   pagrindžia:
     - c-011
 - susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.

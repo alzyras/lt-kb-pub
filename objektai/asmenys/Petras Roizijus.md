@@ -32,7 +32,7 @@ Tačiau šio karaliaus val­ dymo saulėlydyje, 1571 metais, baisus badas nuo pu
   global_id: t-87829
   teiginys: 'Petras Roizijus buvo iš Aragono kilęs teisininkas, LDK miesto reikalų referendorius ir Vilniaus katedros kustodas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Aragonas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Aragonas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

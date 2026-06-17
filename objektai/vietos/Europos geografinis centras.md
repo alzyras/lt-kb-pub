@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-76261
   teiginys: 'Europos geografinio centro koordinatės nurodytos kaip 54°55’ šiaurės platumos ir 25°19’ rytų ilgumos.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti tikslesnį enciklopedinį teiginį su koordinatėmis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-76262
   teiginys: 'Prancūzijos nacionalinis geografijos institutas apskaičiavo, kad Europos centro statmuo yra 25 km į šiaurę nuo Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir glaustai perteikia citatos faktą apie Europos centro vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
 - t-004
   global_id: t-76263
   teiginys: 'Geografinis Europos centras nurodomas Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.

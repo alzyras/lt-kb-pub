@@ -28,7 +28,7 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   global_id: t-01407
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
   sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „tų pat metų“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/tranzitas|tranzitas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos seimas|Lietuvos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

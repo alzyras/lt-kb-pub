@@ -23,7 +23,7 @@ Kandidatu į jaunos ir gražios Jadvygos vyrus buvo be jau minėto Vilhelmo, dar
   global_id: t-35323
   teiginys: 'Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.'
   sudarymo_pagrindimas: 'Pradinė formuluotė suprantama, bet ją galima padaryti enciklopediškesnę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Silezija'
   pagrindžia:
     - c-001
 

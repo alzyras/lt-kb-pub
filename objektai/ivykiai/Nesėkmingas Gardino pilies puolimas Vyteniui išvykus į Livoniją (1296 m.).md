@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: 'Vyteniui įsiveržus į Livoniją, Karaliaučiaus komtūras Bertoldas pasiuntė Henriko Cutsverto vadovaujamą kariuomenę į Lietuvą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys nukreiptas į kontekstą, bet citata leidžia suformuluoti aiškų įvykio pagrindą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Nenurodyta
   teiginys: 'Henrikas Cutsvertas puolė Gardino pilį, bet dėl stipraus pilėnų pasipriešinimo ir sužeistų krikščionių pasitraukė nepasiekęs tikslo.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir remiasi neaiškiu įvardžiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Henrikas Cutsvertas|Henrikas Cutsvertas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
     - c-002

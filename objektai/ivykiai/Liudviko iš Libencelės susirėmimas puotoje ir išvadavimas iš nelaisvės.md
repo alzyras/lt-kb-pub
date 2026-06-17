@@ -39,7 +39,7 @@ Nenurodyta
   teiginys: 'Nelaisvėje buvusį Liudviką iš Libencelės Skomantas nusivedė į Sūduvos galingųjų puotą, kur Liudvikas kalaviju nukovė jį užgauliojusį varžovą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir perteklinis pasakojimas; įvykis suformuluotas aiškiai.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 

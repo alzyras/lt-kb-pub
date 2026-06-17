@@ -23,7 +23,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas ilgas fragmentas ir OCR triukšmas; paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,7 @@ Dimitrijus, metropolitas, viečė ir žymiausieji bajorai prisiekė laikytis tai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Mingaila|Mingaila]]; mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Naugardas ir Pskovas; mentioned_place: Polockas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Naugardas ir Pskovas; mentioned_place: Polockas; mentioned_place: Pskovas'
   pagrindžia:
     - c-002
 

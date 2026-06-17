@@ -30,7 +30,7 @@ Dusburgietis teigia, kad nuorašo viršelyje yra Karaliaučiaus bibliotekos įk�
   global_id: t-60230
   teiginys: 'Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Albrechto herbą nuoraše ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1540 m.; įvykio data: 1568 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Albrechto herbą nuoraše ir remiasi citata.'

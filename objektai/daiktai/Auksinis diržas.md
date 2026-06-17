@@ -42,7 +42,7 @@ Nenurodyta
   teiginys: 'Kunigaikštis Jonas per Vytauto rankas davė Jogailai auksinį diržą už Jogailos pažadą neatimti Jono tėviškės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas pasikartojantis priskyrimas ir teiginys suformuluotas kaip aiškus sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]'
   pagrindžia:
     - c-001
 

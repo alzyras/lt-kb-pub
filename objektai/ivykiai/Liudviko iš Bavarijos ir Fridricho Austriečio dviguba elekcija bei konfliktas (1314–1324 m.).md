@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: '1314 m. spalio 21 d. Liudvikas iš Bavarijos ir Fridrichas, Austrijos kunigaikštis, dėl nesantarvės vienu metu buvo išrinkti Romos karaliais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia tiksliau įvardyti Fridrichą pagal citatą ir išlaikyti faktinę formuluotę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Austrija'
+  susije_objektai: 'mentioned_place: Austrija'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau įvardyti Fridrichą pagal citatą ir išlaikyti faktinę formuluotę.'

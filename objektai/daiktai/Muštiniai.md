@@ -39,7 +39,7 @@ Nenurodyta
 - t-001
   global_id: t-06753
   teiginys: 'Muštiniai buvo specialūs pailgi sidabro gabalai su pažymėtąja verte.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-06754
   teiginys: 'Muštiniai buvo vartojami vėlesniais laikais kaip specialūs sidabro gabalai su pažymėtąja verte.'
   sudarymo_pagrindimas: 'Pradinis teiginys per plačiai siejo muštinius su laikotarpiu prieš savus pinigus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
 

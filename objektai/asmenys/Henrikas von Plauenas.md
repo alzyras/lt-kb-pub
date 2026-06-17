@@ -34,7 +34,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   global_id: t-176403
   teiginys: 'Henrikas von Plauenas po 1410 m. smūgio rengė Ordino revanšą ir rinko jėgas iš Vakarų Europos.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą Henriko von Plaueno veikimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1410 m.; įvykio data: 1410 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia citatoje nurodytą Henriko von Plaueno veikimą.'
@@ -46,7 +46,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   global_id: t-176404
   teiginys: 'Po Makro raporto Henrikas von Plauenas vyko pas Vaclovą, Vokietijos elektorius ir Karolį VI prašyti pagalbos prieš Vytautą.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -55,7 +55,7 @@ Tuo tarpu ordino vadovybę paėmęs komtūras Henrikas von Plauenas suskubo suri
   global_id: t-176405
   teiginys: 'Henrikas von Plauenas citatoje įvardijamas kaip Švitco komtūras.'
   sudarymo_pagrindimas: 'Citata pateikia neaiškų alternatyvų sąrašą, todėl būtina šaltinio vartosenos atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bartenšteinas; mentioned_place: Braunsbergas; mentioned_place: Brodnica; mentioned_place: Dancigas; mentioned_place: Elbingas; mentioned_place: Heilsbergas; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Neumarkas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Štetinas; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Bartenšteinas; mentioned_place: Braunsbergas; mentioned_place: Brodnica; mentioned_place: Dancigas; mentioned_place: Elbingas; mentioned_place: Heilsbergas; mentioned_place: Kulmas; mentioned_place: Livonija; mentioned_place: Neumarkas; mentioned_place: Ortelsburgas; mentioned_place: Ragainė; mentioned_place: Štetinas; mentioned_place: Šveicarija'
   temporaliniai_duomenys: 'įvykio data: 1431 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia neaiškų alternatyvų sąrašą, todėl būtina šaltinio vartosenos atribucija.'

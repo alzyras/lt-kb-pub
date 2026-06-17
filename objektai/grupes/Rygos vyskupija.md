@@ -17,7 +17,6 @@ tags:
   - grupe
   - ordinas
   - popiežius
-  - vyskupas
 amziai:
   - 'XVI'
 ---

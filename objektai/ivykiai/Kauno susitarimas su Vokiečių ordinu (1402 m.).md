@@ -67,7 +67,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Faktas pagrįstas, bet reikia pašalinti kontekstinę pradžią, OCR triukšmą ir išnašą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

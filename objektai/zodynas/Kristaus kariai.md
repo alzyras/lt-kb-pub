@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - ordinas
   - sąvoka
-  - vyskupas
 ---
 # Kristaus kariai
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad apie Kristaus karių ordino brolius Kai šis kunigaikš
   global_id: t-58855
   teiginys: 'Kristaus kariai buvo broliai, burti kunigaikščio žemei ginti ir vilkėję baltą apsiaustą su raudonu kalaviju bei žvaigžde.'
   sudarymo_pagrindimas: 'Citata pagrindžia ordino brolių paskirtį ir išvaizdos ženklus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59930|Konradas (Mazovijos kunigaikštis)]]: Konradas sumanė pasikviesti Teutonų namų ordino brolius ginti savo žemės, tikėjimo ir tikinčiųjų, nes Kristaus kariai nesulaukė sėkmės.

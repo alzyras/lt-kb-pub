@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - tauta
-  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -55,7 +54,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   global_id: t-87364
   teiginys: 'Ulrikas Hozijus ragino pastatyti tiltą per Vilijos upę ir gavo pavedimą jį nutiesti savo lėšomis.'
   sudarymo_pagrindimas: 'Citata remia Hozijaus raginimą, pavedimą ir finansavimo sąlygą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -64,7 +63,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   global_id: t-87365
   teiginys: '1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.'
   sudarymo_pagrindimas: 'Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] buvo valdovas Vilnius'
   temporaliniai_duomenys: 'valdymo pabaiga: 1515 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ulrikas Hozijus buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
@@ -77,7 +76,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   global_id: t-87366
   teiginys: '1536 m. rugpjūčio 6 d. Ulrikui Hozijui suteikta teisė rinkti muitą iš praeivių tiltu per Vilijos upę.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas privilegijos antrašte citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas privilegijos antrašte citatoje.'
@@ -98,7 +97,7 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   global_id: t-87368
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemažai pajamų karaliaus iždui.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172092|Dominikonų ordinas]]: Ulrikas Hozijus pradėjo statyti prieglaudą prie dominikonų vienuolyno ir spėjo išmūryti nemažą jos dalį.

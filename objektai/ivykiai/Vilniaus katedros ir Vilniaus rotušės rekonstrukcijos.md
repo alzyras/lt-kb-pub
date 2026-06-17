@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-77889
   teiginys: 'Laurynas Gucevičius 1782 m. pradėjo Vilniaus katedros, o 1786 m. – Vilniaus rotušės rekonstrukciją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, objektus ir datas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Laurynas Gucevičius|Laurynas Gucevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Laurynas Gucevičius|Laurynas Gucevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1782 m.; įvykio data: 1786 m.; įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėją, veiksmą, objektus ir datas.'
@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-77890
   teiginys: 'Vilniaus katedros ir rotušės statyba sutapo su didžiosiomis Ketverių metų Seimo nulemtomis permainomis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie rekonstrukcijų istorinį kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -43,7 +43,6 @@ Nenurodyta
   global_id: t-02044
   teiginys: '1861 m. įkurtų valsčių viršaičiai ir raštininkai, kurių daugumą buvo paskyrę dvarininkai, buvo atstatydinti.'
   sudarymo_pagrindimas: 'Žodis „atstatyti“ čia taisytinas į aiškesnį faktinį veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Žodis „atstatyti“ čia taisytinas į aiškesnį faktinį veiksmą.'

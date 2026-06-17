@@ -29,7 +29,7 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
 - t-001
   global_id: t-72534
   teiginys: 'Lietuvos seimas liepos 30 d. ratifikavo konvenciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/tranzitas|tranzitas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Lietuvos seimas konvenciją ratifikavo tų pat metų liepos m. 30 d.
   global_id: t-72535
   teiginys: 'Lietuvos seimas konvenciją ratifikavo liepos 30 d.'
   sudarymo_pagrindimas: 'Žodžiai „tų pačių metų“ be platesnio konteksto yra neaiškūs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/tranzitas|tranzitas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75719|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1917 m. Lietuvių konferencijoje Vilniuje Antanas Smetona išrinktas Lietuvos Tarybos pirmininku, tikintis, kad jis įveiks Tarybos vidaus prieštaravimus.

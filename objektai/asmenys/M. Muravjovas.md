@@ -46,7 +46,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   global_id: t-78023
   teiginys: 'Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas gavo caro įgaliojimus ir ėmėsi demonstratyvaus žiaurumo bei teroro priemonių.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas aiškesnis, nekeičiant citatos faktų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_person: [[objektai/asmenys/Michailas Muravjovas|Michailas Muravjovas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Michailas Muravjovas|Michailas Muravjovas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir padarytas aiškesnis, nekeičiant citatos faktų.'
@@ -67,7 +67,7 @@ Vilniaus generalgubernatoriumi paskirtas Michailas Muravjovas, turėjęs ankstes
   global_id: t-78025
   teiginys: 'Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nebaigtas; citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 

@@ -43,7 +43,6 @@ Nenurodyta
   global_id: t-75108
   teiginys: 'Iš daugiau kaip 3 000 aktyvių protestų dalyvių buvo suimta per 400 žmonių (iš jų 50 asmenų patraukti baudžiamojon atsakomybėn, aštuoni nuteisti kalėti nuo vienerių iki trejų metų).'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata apie protestų dalyvių suėmimus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-002
 
@@ -52,7 +51,7 @@ Nenurodyta
   global_id: t-75109
   teiginys: '1972 m. gegužės 18 d. Kauno Laisvės alėjoje vykusioje protesto eisenoje KGB numeriais pažymėjo eisenos lyderius.'
   sudarymo_pagrindimas: 'Pradinį teiginį verta suredaguoti į sklandesnį sakinį be antraštinio fragmentiškumo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Lietuvą padaryti internacionalinę“|„Lietuvą padaryti internacionalinę“]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Lietuvą padaryti internacionalinę“|„Lietuvą padaryti internacionalinę“]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinį teiginį verta suredaguoti į sklandesnį sakinį be antraštinio fragmentiškumo.'

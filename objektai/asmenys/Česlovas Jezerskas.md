@@ -30,7 +30,7 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
   global_id: t-79244
   teiginys: 'Česlovas Jezerskas 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai suformuluoja citatoje pateiktą štabo sudėtį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Gečas|Jonas Gečas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)|Aukščiausiosios Tarybos rūmų gynyba (1991 m. sausis–rugpjūtis)]]; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_person: [[objektai/asmenys/Jonas Gečas|Jonas Gečas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai suformuluoja citatoje pateiktą štabo sudėtį.'
@@ -41,7 +41,7 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 - t-002
   global_id: t-79245
   teiginys: '1991 m. Česlovas Jezerskas buvo įvardytas Aukščiausiosios Tarybos gynybos štabe.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

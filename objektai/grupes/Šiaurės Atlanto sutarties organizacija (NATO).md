@@ -36,7 +36,7 @@ amziai:
   global_id: t-75050
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie stojimo į NATO pradžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie stojimo į NATO pradžią.'
@@ -78,7 +78,7 @@ amziai:
   global_id: t-75057
   teiginys: '2002 m. lapkritį Prahoje septynios NATO kandidatės – Bulgarija, Estija, Latvija, Lietuva, Rumunija, Slovakija ir Slovėnija – pakviestos pradėti derybas su Šiaurės Atlanto sutarties organizacija dėl narystės.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
   temporaliniai_duomenys: 'įvykio data: 1999 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą faktą.'

@@ -22,7 +22,7 @@ Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuoli
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Hermaną ton Senenbergą ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Kulmas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Kulmas'
   pagrindžia:
     - c-001
 

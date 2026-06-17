@@ -31,7 +31,7 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   global_id: t-87568
   teiginys: 'Po Necelo mirties vaistininkas Renkielis perėmė vaistinę ir buvo laikomas gerai pasiruošusiu savo amato specialistu.'
   sudarymo_pagrindimas: 'Citata pagrindžia Renkielio pareigas ir vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Po pastarojo mirties, kai dabartinis vaistininkas maloningasis ponas Renkielis p
   global_id: t-87569
   teiginys: 'Vaistininkas Renkielis perėmė vaistinę po Necelo mirties ir buvo laikomas gerai pasiruošusiu savo menui.'
   sudarymo_pagrindimas: 'Citata aiškiai remia Renkielio pareigas, vaistinės perėmimą ir vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Necelas|Necelas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Necelas.md#claim-t-87805|Necelas]]: Necelas buvo vaistininkas ir puikus gydytojas, miręs netrukus prieš Renkieliui perimant vaistinę.

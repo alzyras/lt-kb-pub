@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-91915
   teiginys: 'Kristburgo ir Elbingo broliai prie Gubros upės užpuolė Divaną, nukovė jo giminaitį Dabarą ir susigrąžino grobį.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Dabaras|Dabaras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Aliamas; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vildenbergas; mentioned_place: Zirgūna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Dabaras|Dabaras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Aliamas; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Marienburgas; mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vildenbergas; mentioned_place: Zirgūna'
   temporaliniai_duomenys: 'įvykio data: 1271 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir tiesiogiai paremtas citata apie puolimą prie Gubros upės.'

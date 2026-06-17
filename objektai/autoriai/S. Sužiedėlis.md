@@ -52,7 +52,7 @@ S. Sužiedėlis 1930 m. kolektyvinėje monografijoje „Vytautas Didysis“ įra
   global_id: t-97223
   teiginys: 'S. Sužiedėlis 1930 m. paskelbė darbą „Vytautas Didysis ir Lietuvos christianizacija“.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus ir darbo bibliografinę nuorodą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus ir darbo bibliografinę nuorodą.'

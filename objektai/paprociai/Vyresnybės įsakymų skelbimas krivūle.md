@@ -35,7 +35,7 @@ Nenurodyta
   global_id: t-07816
   teiginys: 'Kai kur Žemaičiuose lazda buvo minima kaip vyresnybės įsakymo ir paklusimo ženklas.'
   sudarymo_pagrindimas: 'Patikslinta pagal citatoje pateiktus posakius ir pašalintas perteklinis laiko neapibrėžtumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Nenurodyta
 - t-002
   global_id: t-07817
   teiginys: 'Kūrėjų kūrėjas per žygovus skelbė įsakymus svietui lazda, vadinama krivūle.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Krivūlė|Krivūlė]]; mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]'
   pagrindžia:
     - c-002
 

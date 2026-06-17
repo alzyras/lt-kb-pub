@@ -27,7 +27,7 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
   global_id: t-39916
   teiginys: 'Antanas Klementas „Žemaitišką dainelę“ parašė revoliucijos laikais, 1794 m.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie autorių, kūrinį ir datą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/autoriai/Antanas Klementas|Antanas Klementas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Antanas Klementas|Antanas Klementas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1794 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti faktą apie autorių, kūrinį ir datą.'

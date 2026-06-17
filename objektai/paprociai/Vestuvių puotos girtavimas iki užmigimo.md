@@ -44,7 +44,7 @@ Nenurodyta
   teiginys: 'Lietuvos kilmingieji per vestuves nusigėrė ir sugulė ilsėtis, o užpuolikai tada nužudė 70 kunigaikščių su šeimininku.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia faktą apie vestuvių puotos girtavimą ir jo padarinius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

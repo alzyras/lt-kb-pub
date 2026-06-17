@@ -29,7 +29,7 @@ Naujasis magistras Henrikas fon Plauenas spėjo pasirengti ir apsigynė.
   global_id: t-40136
   teiginys: 'Henrikas fon Plauenas pasirengė Ordino tvirtovės apsiausčiai ir ją apgynė.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kam pasirengta ir nuo ko apsiginta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   temporaliniai_duomenys: 'įvykio data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje neaišku, kam pasirengta ir nuo ko apsiginta.'

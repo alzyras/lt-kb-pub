@@ -27,7 +27,7 @@ Dusburgietis teigia, kad mažvydo lotyniškuose laiškuose — Ragneta, in Ragne
   global_id: t-61151
   teiginys: '1549 m. M. Mažvydo lotyniškuose laiškuose vartojami vietovardžiai „Ragneta“ ir „in Ragnet“.'
   sudarymo_pagrindimas: 'Citata pagrindžia trumpą faktą apie laiškuose vartotus vietovardžius.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
   temporaliniai_duomenys: 'įvykio data: 1549 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia trumpą faktą apie laiškuose vartotus vietovardžius.'

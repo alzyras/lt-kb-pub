@@ -32,7 +32,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   global_id: t-82167
   teiginys: 'Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Aleksandrą II ir jo aplinką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Aleksandrą II ir jo aplinką.'
@@ -44,7 +44,7 @@ Rusijos pralaimėjimas Krymo kare (1853–1856) paskatino naująjį carą Aleksa
   global_id: t-82169
   teiginys: 'Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į rišlų sakinį apie Aleksandrą II.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į rišlų sakinį apie Aleksandrą II.'

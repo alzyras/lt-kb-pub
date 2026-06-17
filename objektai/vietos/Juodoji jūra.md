@@ -39,7 +39,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   global_id: t-08500
   teiginys: 'Daukanto pasakojime lietuviai buvo atskirti nuo Uksinės, arba Juodosios, jūros ir Dunojaus.'
   sudarymo_pagrindimas: 'Citata nepagrindžia gintaro prekybos, bet remia atskyrimą nuo Juodosios jūros.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
   global_id: t-08501
   teiginys: 'Uksinė jūra Daukanto tekste tapatinama su Juodąja jūra.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiksliai perteikia Daukanto vartotą Uksinės ir Juodosios jūros tapatinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Možaiskas; mentioned_place: Putivlis'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_place: Isteris; mentioned_place: Lietuva; mentioned_place: Možaiskas; mentioned_place: Putivlis'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Seniausiais laikais lietuviai prekiavo su skandinavais ir su rusais; upėmis buv
 - t-003
   global_id: t-08502
   teiginys: 'Juodoji jūra siejama su Lietuvos prekybos ir valstybės ribų plėtra.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/J. Andrius.md#claim-t-30657|J. Andrius]]: J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.

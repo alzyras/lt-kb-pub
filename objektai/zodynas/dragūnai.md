@@ -41,18 +41,12 @@ Po reformos plačiau pradėti naudoti dragūnai - raitieji pėstininkai, kurie m
   global_id: t-38712
   teiginys: 'Po reformos plačiau naudoti dragūnai buvo raitieji pėstininkai, kurie mūšyje kaudavosi pėsti, o žygį atlikdavo raiti.'
   sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatos formuluotę apie žygio atlikimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/M. P. Sapiega.md#claim-t-40316|M. P. Sapiega]]: LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.
 - susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
-- susijęs iš [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.).md#claim-t-49173|Lojevo mūšis (1649 m. liepos 31 d.)]]: Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
 - susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
-- susijęs iš Alytus: Vasario 14–15 d. naktį lietuviai ir vokiečiai išstūmė bolševikus iš Alytaus.
 - susijęs iš Lojevka upė: Radvilos pajėgų sparnuose stovėję pėstininkai ir dragūnai gynė Lojevkos upės, juosiančios stovyklą, užtvanką.
-- susijęs iš [[objektai/zodynas/vėliava.md#claim-t-78914|vėliava]]: Dragūnų vėliavą sudarė 100-150 žmonių.
-- susijęs iš [[objektai/zodynas/vėliava.md#claim-t-78915|vėliava]]: Vėliavai vadovaudavo kapitonas.
 ## Reikšmingi paminėjimai
 
 - c-001

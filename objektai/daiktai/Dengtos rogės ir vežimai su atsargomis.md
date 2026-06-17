@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87074
   teiginys: 'Metraštininkai pasakojo, kad į Vilnių atvažiavo 300 įvairios žvėrienos prikrautų vežimų.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie vežimus, o pradinė formuluotė yra fragmentiška ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sudimantas|Sudimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87075
   teiginys: 'Vytautas į Vilnių pirmiausia pasiuntė daug dengtų rogių su atsargomis ir jose paslėptais ginkluotais žmonėmis.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinėje formuluotėje yra OCR triukšmo ir perteklinio konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polockas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

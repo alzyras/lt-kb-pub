@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-34819
   teiginys: '1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Mozūrija; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Mozūrija'
+  susije_objektai: 'territory: Mozūrija; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_place: Mozūrija'
   semantiniai_rysiai: '[[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]] buvo valdovas Mozūrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mozūrų kunigaikštis Henrikas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'

@@ -26,7 +26,7 @@ Balys : Lithuania and Lithuanians.
 - t-001
   global_id: t-31828
   teiginys: 'J. Balio „Lithuania and Lithuanians. A selected bibliography“ išleista Niujorke 1961 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Balys|J. Balys]]; mentioned_place: Niujorkas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Balys|J. Balys]]; mentioned_place: Niujorkas'
   temporaliniai_duomenys: 'įvykio data: 1961 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

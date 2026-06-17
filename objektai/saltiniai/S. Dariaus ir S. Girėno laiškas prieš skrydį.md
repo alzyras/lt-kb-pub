@@ -31,7 +31,7 @@ Netrukus atsirado ir modernių jaunos nacijos didvyrių. 1933 m. liepos 15–17 
   global_id: t-25303
   teiginys: '1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie šaltinio objektui svarbų skrydį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Niujorkas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_person: [[objektai/asmenys/V. Landsbergis-Žemkalnis|V. Landsbergis-Žemkalnis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Niujorkas'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie šaltinio objektui svarbų skrydį.'

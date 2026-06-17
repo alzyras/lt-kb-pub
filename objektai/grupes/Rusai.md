@@ -46,7 +46,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   global_id: t-117248
   teiginys: 'Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie rusų pašaukimą į Lietuvos kariuomenę prieš Strėvos mūšį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Semba; mentioned_place: Smolenskas; mentioned_place: Strėva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Zygfridas iš Da[he]nfeldo|Zygfridas iš Da[he]nfeldo]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Semba; mentioned_place: Smolenskas; mentioned_place: Strėva'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie rusų pašaukimą į Lietuvos kariuomenę prieš Strėvos mūšį.'
@@ -58,7 +58,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   global_id: t-117249
   teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo dvasininkams mokėti dešimtinę, pelno mokestį ir kitas duokles.'
   sudarymo_pagrindimas: 'Teiginį verta sutelkti į pastabos objektą – rusus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/dominija|dominija]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -67,7 +67,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   global_id: t-117250
   teiginys: 'Didžiojoje Kunigaikštystėje gyvenę rusai atsisakydavo mokėti dešimtinę, pelno mokestį ir kitas duokles dvasininkams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/dominija|dominija]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -86,7 +86,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   global_id: t-117252
   teiginys: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų, todėl ji buvo internacionalinė.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos faktas apie rusų dalyvavimą kariuomenėje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-004
 
@@ -127,12 +127,11 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Polocko rusus ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Naugardukas; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Naugardukas; mentioned_place: Polockas'
   pagrindžia:
     - c-008
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171422|Totoriai]]: Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.
-- susijęs iš Melnikas: Lietuvos metraštyje Mstislavas, Lucko ir Pinsko kunigaikštis, kariavo su Skirmantu, norėdamas išguiti jį iš Brastos, Melniko, Gardino ir Naugarduko.
 - susijęs iš Mohilna: Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Kemlickis.md#claim-t-186125|Kemlickis]]: Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.
@@ -1542,7 +1541,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Kukovaitis]] kariavo_pries Rusai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Rusai
 - [[objektai/grupes/Poloviečiai]] kariavo_pries Rusai
 - [[objektai/grupes/Totoriai]] kariavo_pries Rusai
@@ -1551,7 +1549,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - Rusai dalyvavo_musyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
 - [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]] priklause Rusai
 - [[objektai/grupes/Lenkai]] priklause Rusai
-- [[objektai/asmenys/Timūr-Kutlukas]] susije_su Rusai
+- [[objektai/asmenys/Tochtamišas]] susije_su Rusai
 - [[objektai/asmenys/Vladislovas]] puole Rusai
 - [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]] priklause Rusai
 - [[objektai/zodynas/pravoslavai]] priklause Rusai

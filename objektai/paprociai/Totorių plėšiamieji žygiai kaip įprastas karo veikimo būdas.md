@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87285
   teiginys: 'Totorių būrys, pasiųstas iš stovyklos prie Kłecko į Naugarduką, pagal savo paprotį plėšė apylinkes ir priartėjo prie Lydos.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia susieti žygį su plėšimo papročiu ir pašalinti fragmentiškumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kłeckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kłeckas'
   pagrindžia:
     - c-001
 

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-54696
   teiginys: 'Merkinėje rašytu iškilmingu aktu Vilniui buvo suteiktos Magdeburgo teisės.'
   sudarymo_pagrindimas: 'Perrašyta vengiant neįvardyto veikėjo ir paliekant citatos paremtą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Merkinė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Merkinė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Nenurodyta
 - t-002
   global_id: t-54697
   teiginys: 'Magdeburgo teisių suteikimu Jogaila siekė vilioti svetimtaučius kurtis Vilniuje, bet privilegiją ribojo miestiečių pavaldumas Vilniaus seniūnui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

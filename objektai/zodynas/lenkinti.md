@@ -22,7 +22,7 @@ Jei ir sutiktumėm su ta mintimi, kad Horodlės unija—didelė Vy­ tauto klaid
 - t-001
   global_id: t-36804
   teiginys: 'Kochanovskio nuomone, Horodlės unija Vytautas siekė ne lenkinti Lietuvą, bet ją civilizuoti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Kochanovskis|Kochanovskis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kochanovskis|Kochanovskis]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176656|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kochanovskio nuomone, Horodlės unija Vytautas Didysis siekė ne lenkinti Lietuvą, o ją civilizuoti.

@@ -46,7 +46,7 @@ Jonušas atsisakė suteikti pagalbą, sulaužė sutartį ir, įsiveržęs į Pol
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį, enciklopedinį teiginį apie Jonušo veiksmą.'
-  susije_objektai: 'location: Mazovija; location: Piotrkovas; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_object: [[objektai/zodynas/piastas|piastas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Mazovija; mentioned_place: Piotrkovas'
+  susije_objektai: 'location: Mazovija; location: Piotrkovas; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_place: Mazovija; mentioned_place: Piotrkovas'
   semantiniai_rysiai: '[[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] keliavo į Mazovija; [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)|Jonušas (Mazovijos kunigaikštis)]] keliavo į Piotrkovas'
   pagrindžia:
     - c-003

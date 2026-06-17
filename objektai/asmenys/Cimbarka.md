@@ -22,7 +22,7 @@ Cimbarka buvo Aleksandros ir Mazovijos kunigaikščio Zemovito duktė, vėliau t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko genealoginį faktą apie Cimbarką, bet pradinis sakinys per ilgas ir netiesioginis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Austrija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Austrija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 

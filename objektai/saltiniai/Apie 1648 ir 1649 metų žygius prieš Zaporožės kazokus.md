@@ -51,7 +51,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   global_id: t-111339
   teiginys: 'A. Vijūkas-Kojalavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį apie veikalo autorių, datą ir temą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
   temporaliniai_duomenys: 'įvykio data: 1651 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį apie veikalo autorių, datą ir temą.'
@@ -63,7 +63,7 @@ Cituojama „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištr
   global_id: t-111340
   teiginys: 'A. Vijūko-Kojalavičiaus 1651 m. veikalo „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ ištrauka yra apie Lojevo mūšį.'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR ir antraštės triukšmą bei suformuluoti sklandesnį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Vijūkas Kojelavičius|A. Vijūkas Kojelavičius]]; mentioned_place: Lojevas'
   temporaliniai_duomenys: 'įvykio data: 1651 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR ir antraštės triukšmą bei suformuluoti sklandesnį sakinį.'

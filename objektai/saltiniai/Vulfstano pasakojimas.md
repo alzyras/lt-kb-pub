@@ -30,7 +30,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   global_id: t-61016
   teiginys: 'Vietovardis apie 890 m. Vulfstano užrašytas kaip Truso.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Aistmarios; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Aistmarios; mentioned_place: Elbingas'
   temporaliniai_duomenys: 'įvykio data: 890 m; įvykio data: apie 890 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad vietovardis apie 890 m. Vulfstano užrašytas kaip Trus
   global_id: t-61017
   teiginys: 'Vulfstano pasakojime Aismarės vadinamos Estmere.'
   sudarymo_pagrindimas: 'Pirminis teiginys užterštas antrašte ir išnašomis, bet citata remia trumpą faktą apie Vulfstano vartotą pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Aismares; mentioned_place: Elbingas; mentioned_place: Viena; mentioned_place: Vysla; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aismares; mentioned_place: Elbingas; mentioned_place: Viena; mentioned_place: Vysla; mentioned_place: Širvinta'
   pagrindžia:
     - c-002
 

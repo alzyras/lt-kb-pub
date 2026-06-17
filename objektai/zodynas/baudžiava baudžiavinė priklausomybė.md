@@ -31,7 +31,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   global_id: t-22080
   teiginys: 'Aleksandras II 1861 m. pavasarį pasirašė manifestą, paleidusį privačių dvarų valstiečius iš baudžiavinės priklausomybės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -58,7 +58,7 @@ Tuo metu carizmas pradėjo jau anksčiau paskelbtą valstiečių paleidimo iš b
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko turiningesnį sakinį su proceso padariniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko turiningesnį sakinį su proceso padariniu.'

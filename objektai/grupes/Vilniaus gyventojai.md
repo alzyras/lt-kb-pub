@@ -17,7 +17,6 @@ tags:
   - karalius
   - kunigaikštis
   - kunigas
-  - valdovas
 amziai:
   - 'XIV'
   - 'XVIII'
@@ -35,7 +34,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86689
   teiginys: 'Vilniaus gyventojams nuo seno galiojo pareiga saugoti Vilniaus pilį.'
   sudarymo_pagrindimas: 'Citata pagrindžia tik pirmą aiškią teiginio dalį apie gyventojų pareigą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -53,7 +52,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86691
   teiginys: 'Per kautynes prie Žemutinės pilies žuvo didelė dalis Vilniaus gyventojų, o kiti išsibėgiojo po kraštą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktą apie Vilniaus gyventojų žūtį ir išsisklaidymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -62,7 +61,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86692
   teiginys: 'Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.'
   sudarymo_pagrindimas: 'Citata pagrindžia gyventojų ištikimybės motyvą ir teisės suteikimą.'
-  susije_objektai: 'territory: Merkinė; territory: Vilnius; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Merkinė; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Merkinė; territory: Vilnius; mentioned_place: Merkinė; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] susiję su Merkinė; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] susiję su Vilnius'
   pagrindžia:
     - c-002
@@ -72,8 +71,8 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86693
   teiginys: 'Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs, bet citata pagrindžia aiškų faktą apie gyventojus.'
-  susije_objektai: 'owner: [[objektai/asmenys/Augustas|Augustas]]; owner: Vilnius; owner: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė [[objektai/asmenys/Augustas|Augustas]]; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė [[objektai/asmenys/Žygimantas|Žygimantas]]; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė Vilnius'
+  susije_objektai: 'owner: [[objektai/asmenys/Augustas|Augustas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė [[objektai/asmenys/Augustas|Augustas]]; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė Vilnius'
   pagrindžia:
     - c-004
 
@@ -82,7 +81,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86694
   teiginys: '1390 metų pabaigoje Jogailos atgabentos maisto ir drabužių atsargos pravertė turtą praradusiems Vilniaus gyventojams.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata remia konkretesnį faktą apie Vilniaus gyventojus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -100,7 +99,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86696
   teiginys: 'Vilniaus gyventojai iš priemiesčių ir nuošalių namų slėpdavosi įtvirtintame miesto centre prie Žemutinės pilies.'
   sudarymo_pagrindimas: 'Teiginys buvo fragmentiškas ir su OCR triukšmu, bet citata palaiko aiškią sakinio formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176515|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstučio laikų vidaus kivirčų metu Vilniaus gyventojai išlaikė ištikimybę ir prieraišumą valdovui.
@@ -325,4 +324,3 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
 - Vilniaus gyventojai susije_su [[objektai/vietos/Vilnius]]
 - Vilniaus gyventojai priklause [[objektai/asmenys/Augustas]]
 - Vilniaus gyventojai priklause [[objektai/vietos/Vilnius]]
-- Vilniaus gyventojai priklause [[objektai/asmenys/Žygimantas]]

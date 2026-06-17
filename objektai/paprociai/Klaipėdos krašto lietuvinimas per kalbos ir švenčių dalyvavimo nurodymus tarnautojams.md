@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-77956
   teiginys: 'Nurodymai Klaipėdos krašto tarnautojams darbe kalbėti lietuviškai ir dalyvauti lietuviškose šventėse trukdė krašto integracijai.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia konkretų teiginį apie lietuvinimo nurodymų rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/karo padėtis|karo padėtis]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/karo padėtis|karo padėtis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia konkretų teiginį apie lietuvinimo nurodymų rezultatą.'

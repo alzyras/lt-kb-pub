@@ -31,7 +31,7 @@ Taip Kryžių kalnas (jį 1993 m. aplankė popiežius Jonas Paulius II) tapo sim
   global_id: t-20835
   teiginys: 'Kryžių kalnas, 1993 m. aplankytas popiežiaus Jono Pauliaus II, tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu „Taip“, todėl reikėjo savarankiško sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kryžių kalnas; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda kontekstiniu žodžiu „Taip“, todėl reikėjo savarankiško sakinio.'

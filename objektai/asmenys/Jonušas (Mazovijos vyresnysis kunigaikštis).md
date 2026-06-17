@@ -24,7 +24,7 @@ Miestui teko būti liudytoju dviejų prašmatnių vestuvių: Ziemovito, Mazovijo
   global_id: t-87735
   teiginys: 'Jonušas, vyresnysis Mazovijos kunigaikštis, vedė Vytauto seserį Oną.'
   sudarymo_pagrindimas: 'Citata patvirtina santuoką; pradinis sakinys per ilgas ir turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

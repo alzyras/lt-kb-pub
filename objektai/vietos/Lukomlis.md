@@ -39,7 +39,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.
   global_id: t-68569
   teiginys: 'Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą.'
   sudarymo_pagrindimas: 'Teiginys yra factualus pilnas sakinys ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Andrius Polockietis|Andrius Polockietis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Polockietis|Andrius Polockietis]]; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra factualus pilnas sakinys ir atitinka citatą.'

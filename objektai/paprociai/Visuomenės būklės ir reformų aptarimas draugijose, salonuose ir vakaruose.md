@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-81872
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje salonuose, vakaruose ir draugijose atvirai aptarinėtos socialinės, politinės problemos, valdžios reformavimo ir baudžiavos paveldo klausimai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, informatyvus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

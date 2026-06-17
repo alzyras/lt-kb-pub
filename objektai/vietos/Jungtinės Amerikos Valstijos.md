@@ -40,7 +40,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   global_id: t-76353
   teiginys: 'JAV įvestos imigracijos kvotos skatino neprasigyvenusius smulkius mažažemius valstiečius emigruoti daugiausia į Pietų Amerikos šalis.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys tiesiogiai sietųsi su Jungtinėmis Amerikos Valstijomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginys tiesiogiai sietųsi su Jungtinėmis Amerikos Valstijomis.'

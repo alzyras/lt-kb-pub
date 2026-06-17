@@ -30,7 +30,7 @@ Landsbergis-Žemkalnis L I E T U V O S I S T O R I J A 174 lėktuvėliu „Litua
   global_id: t-78038
   teiginys: 'V. Landsbergis-Žemkalnis buvo Kaune stovėjusio „Pienocentro“ pastato architektas.'
   sudarymo_pagrindimas: 'Citata nepagrindžia skrydžio teiginio, bet pagrindžia faktą apie architektą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Niujorkas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/„Pienocentro“ pastatas Kaune|„Pienocentro“ pastatas Kaune]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Niujorkas'
   temporaliniai_duomenys: 'pastatymo data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nepagrindžia skrydžio teiginio, bet pagrindžia faktą apie architektą.'

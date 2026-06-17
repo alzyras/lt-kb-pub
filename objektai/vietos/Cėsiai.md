@@ -30,7 +30,7 @@ Livonijos ordino kariuomenė 1433 m. liepos mėn. išžygiavo iš Cėsių niokot
   teiginys: '1971 m. leidimo komentare Livonijos ordino kariuomenė apibūdinama kaip 1433 m. liepą išžygiavusi iš Cėsių niokoti Lietuvos.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Žodžiui „niokoti“ reikalinga šaltinio ar komentaro atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1433 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Žodžiui „niokoti“ reikalinga šaltinio ar komentaro atribucija.'

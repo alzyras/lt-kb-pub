@@ -30,7 +30,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
   global_id: t-75457
   teiginys: 'Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius 1938 m. Lietuvos Konstitucijos galiojimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis ir nepakankamai tiesiogiai apibūdina šaltinio objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra kontekstinis ir nepakankamai tiesiogiai apibūdina šaltinio objektą.'
@@ -41,7 +41,7 @@ Tačiau šios konstitucijos veikimas visa apimtimi nebuvo atnaujintas, o už pus
 - t-002
   global_id: t-75458
   teiginys: 'Laikinasis Pagrindinis Įstatymas buvo patvirtintas sustabdžius ankstesnės konstitucijos veikimą visa apimtimi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918-1940; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

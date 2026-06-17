@@ -44,7 +44,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   global_id: t-74630
   teiginys: 'Lietuvių mokslo draugija daugiausia orientavosi į lietuvių kalbos, etninės kultūros tyrimus ir vadovėlių lietuvių mokykloms rengimą.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nusako draugijos veiklos kryptis ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-004
 
@@ -65,7 +65,7 @@ Po 1905 m. revoliucijos palengvėjo ir kultūrinių draugijų steigimas. Tada Š
   global_id: t-74632
   teiginys: '1915–1922 m. Lietuvių Mokslo Draugija iš Tautos Namams skirtų lėšų leido vadovėlius naujai įsikūrusioms lietuviškoms mokykloms.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1915-1922; įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti lėšų kilmę ir mokyklų apibūdinimą.'

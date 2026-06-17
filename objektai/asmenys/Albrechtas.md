@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-18766
   teiginys: 'Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.'
   sudarymo_pagrindimas: 'Citata pagrindžia Albrechto veiksmą, o pradinis teiginys buvo apie Kulvietį ir tik netiesiogiai minėjo Albrechtą.'
-  susije_objektai: 'territory: Prūsija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Prūsija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Albrechtas|Albrechtas]] buvo valdovas Prūsija; [[objektai/asmenys/Albrechtas|Albrechtas]] buvo valdovas Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: po 1525 m.; valdymo laikotarpis: 1525 m.; valdymo laikotarpis: 1542 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albrechtas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Albrechtas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
@@ -44,13 +44,11 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
-- susijęs iš [[objektai/asmenys/Benediktas XI.md#claim-t-60246|Benediktas XI]]: 1303 m. valdė popiežius Benediktas XI, brolių pamokslininkų ordino vienuolis, ir Romos karalius Albrechtas.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59955|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Fridrichas iš Libencelės, Ragainės komtūras, su 150 vyrų mėgino slapta paimti Gedimino pilį, tačiau pilėnai ją apgynė.
 - susijęs iš [[objektai/asmenys/Jonas Albrechtas.md#claim-t-87714|Jonas Albrechtas]]: Jonas Albrechtas buvo sutriuškintas Vengrijoje, o žinia apie tai Vilniuje pasiekė jo tėvą karalių Kazimierą.
 - susijęs iš [[objektai/asmenys/Konradas (Skalvių pilies gynėjas).md#claim-t-60478|Konradas (Skalvių pilies gynėjas)]]: Brolis Konradas su Albrechtu iš Hageno ir ginklanešiais apgynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Sudargas.md#claim-t-60211|Sudargas]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą ir sudegino jį drauge su aplinkiniais kaimais.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
-- susijęs iš [[objektai/ivykiai/Adolfo žūtis ir Albrechto sosto paveldėjimas (1298 m.).md#claim-t-62191|Adolfo žūtis ir Albrechto sosto paveldėjimas (1298 m.)]]: 1298 m. Austrijos kunigaikštis Albrechtas nukovė Romos karalių Adolfą ir paveldėjo sostą.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-183951|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. maršalas su broliais ir Sembos vyrais žygiavo link Pagraudės valsčiaus ir padalijo kariuomenę į keturias dalis.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56681|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: 1317 m. apie birželio 24 d. viena Ordino kariuomenės dalis nesėkmingai mėgino paimti Gedimino pilį, bet sudegino jos papilį.
 - susijęs iš [[objektai/ivykiai/Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.).md#claim-t-56682|Pagraudės valsčiaus žygis ir Gedimino pilies papilio sudeginimas (1317 m. apie birželio 24 d.)]]: To paties žygio metu kita kariuomenės dalis sunaikino Sudargo kiemą ir paėmė jo šeimą į nelaisvę.
@@ -87,6 +85,5 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Albrechtas buvo_valdovas [[objektai/vietos/Austrija]]
 - Albrechtas buvo_valdovas [[objektai/vietos/Prūsija]]
 - Albrechtas buvo_valdovas [[objektai/vietos/Vilnius]]

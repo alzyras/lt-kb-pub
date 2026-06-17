@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87288
   teiginys: 'Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir palikta šaltiniu pagrįsta faktinė mintis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

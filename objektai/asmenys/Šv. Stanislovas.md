@@ -31,7 +31,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   global_id: t-64437
   teiginys: 'Jogailos pastatyta katedra buvo iškilmingai pašvęsta Krokuvos vyskupo šv. Stanislovo garbei.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis fragmentas; citata leidžia suformuluoti aiškų faktą apie šv. Stanislovą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   global_id: t-64438
   teiginys: 'Šv. Stanislovo skulptūra stovėjo ant katedros frontono kartu su šv. Kazimiero ir šv. Elenos skulptūromis.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūrą ant katedros frontono.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūrą ant katedros frontono.'
@@ -55,7 +55,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie šv. Stanislovo kultą ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -67,7 +67,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūros užbaigimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie šv. Stanislovo skulptūros užbaigimą.'

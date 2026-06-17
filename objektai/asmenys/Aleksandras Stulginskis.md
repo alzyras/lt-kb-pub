@@ -15,7 +15,6 @@ tags:
   - dokumentas
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -34,7 +33,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   global_id: t-63438
   teiginys: 'Aleksandras Stulginskis buvo išrinktas Steigiamojo Seimo pirmininku, o 1922–1926 m. ėjo Lietuvos prezidento pareigas.'
   sudarymo_pagrindimas: 'Teiginys per ilgas ir turi šalutinę informaciją apie kitą asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys per ilgas ir turi šalutinę informaciją apie kitą asmenį.'

@@ -29,7 +29,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   global_id: t-42274
   teiginys: '1608 m. rudenį numalšinus rokošą Lenkijos karalystėje, Jonas Karolis Chodkevičius grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę ir Viljandį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo laiką, veikėją, vietą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Daugavgryva; mentioned_place: Kuoknesė; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Daugavgryva; mentioned_place: Kuoknesė; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1608 m.; įvykio data: 1609 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo laiką, veikėją, vietą ir rezultatą.'
@@ -41,7 +41,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   global_id: t-42275
   teiginys: 'Per trumpą laiką Švedijos kariuomenė užėmė Paidę, Kuoknesę ir Viljandį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Viljandžio užėmimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Livonija; mentioned_place: Paidė; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kuoknesė; mentioned_place: Livonija; mentioned_place: Paidė; mentioned_place: Ryga; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1608 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Viljandžio užėmimą.'
@@ -56,7 +56,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Viljandžio užėmimą ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Dorpatas; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dorpatas; mentioned_place: Livonija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.

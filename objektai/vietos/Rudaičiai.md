@@ -27,7 +27,7 @@ Iš Rudaičių ir Veliuonos kapinynų duomenų pateikė M.
   global_id: t-32513
   teiginys: 'M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/M. Michelbertas.md#claim-t-30843|M. Michelbertas]]: M. Michelbertas skelbė Rudaičių ir Veliuonos kapinynų duomenis ir rašė apie Romos monetų radinius Lietuvoje I-V a.

@@ -33,7 +33,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   global_id: t-87632
   teiginys: '1491 m. dokumente Jachnos sūnus Bernardas vadinamas magistru Bernardu, pono Jachnos sūnumi.'
   sudarymo_pagrindimas: 'Citata patvirtina dokumentinį Bernardo paminėjimą, o pradinė formuluotė susimaišiusi su nesusijusiu bernardinų ordino tekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1491 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina dokumentinį Bernardo paminėjimą, o pradinė formuluotė susimaišiusi su nesusijusiu bernardinų ordino tekstu.'

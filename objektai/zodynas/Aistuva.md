@@ -19,7 +19,7 @@ atnaujinta: ''
   global_id: t-11666
   teiginys: 'Žodis „Aistuva“ aiškinamas kaip kadaise reiškęs pakraštinę žemę ir buvęs lietuviškų tautų protėvynė.'
   sudarymo_pagrindimas: 'Galima suformuluoti tikslesnį enciklopedinį sakinį pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]'
   pagrindžia:
     - c-001
 
@@ -28,7 +28,7 @@ atnaujinta: ''
   global_id: t-11667
   teiginys: 'Kazimieras Jaunius ir Kazimieras Būga žodį „aesti“ kildino iš žodžio „Aistuva“.'
   sudarymo_pagrindimas: 'Pradinis teiginys per silpnas ir netiksliai nusako citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Kazimieras Būga|Kazimieras Būga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Kazimieras Būga|Kazimieras Būga]]'
   pagrindžia:
     - c-001
 

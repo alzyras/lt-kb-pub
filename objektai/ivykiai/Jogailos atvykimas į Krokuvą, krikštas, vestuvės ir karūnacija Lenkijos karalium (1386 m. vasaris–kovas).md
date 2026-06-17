@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-35831
   teiginys: '1386 m. vasario 15 d. įvyko iškilmingas Jogailos ir kitų jo giminaičių krikštas, o Vytautas atnaujino tikėjimo išpažinimą.'
   sudarymo_pagrindimas: 'Citata palaiko išsamesnį sakinį apie Vytauto veiksmą tame pačiame įvykyje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko išsamesnį sakinį apie Vytauto veiksmą tame pačiame įvykyje.'

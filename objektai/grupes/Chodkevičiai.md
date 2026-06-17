@@ -31,10 +31,10 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   global_id: t-19665
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'object: Maskva; object: Nesvyžius; object: Zabluduvas; object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
-  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Maskva; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Nesvyžius; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Zabluduvas; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė [[objektai/zodynas/reformacija|reformacija]]'
+  susije_objektai: 'object: Maskva; object: Nesvyžius; object: Zabluduvas; mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Maskva; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Nesvyžius; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Zabluduvas'
   temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Chodkevičiai pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė Zabluduvas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė reformacija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Chodkevičiai pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė Zabluduvas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-001
@@ -44,7 +44,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   global_id: t-19666
   teiginys: '1605 m. prie Kirchholmo J. K. Chodkevičiaus vadovaujama LDK kariuomenė, turėjusi 3 tūkst. raitelių, nugalėjo 12 tūkst. švedų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, citata leidžia atkurti pilną faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, citata leidžia atkurti pilną faktą.'
@@ -59,7 +59,7 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialais nurodytą asmenį ir išlaikyti aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1605 m.; įvykio data: 1620 m.; įvykio data: apie 1620 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialais nurodytą asmenį ir išlaikyti aiškų faktinį sakinį.'
@@ -215,5 +215,4 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 - Chodkevičiai pastate [[objektai/vietos/Maskva]]
 - Chodkevičiai pastate [[objektai/vietos/Nesvyžius]]
 - Chodkevičiai pastate [[objektai/vietos/Zabluduvas]]
-- Chodkevičiai pastate [[objektai/zodynas/reformacija]]
 - [[objektai/grupes/Švedijos kariuomenė]] puole Chodkevičiai

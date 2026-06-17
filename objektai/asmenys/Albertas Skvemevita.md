@@ -23,7 +23,7 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   global_id: t-87609
   teiginys: 'Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą, bet pradinis teiginys yra ilgas fragmentas su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.

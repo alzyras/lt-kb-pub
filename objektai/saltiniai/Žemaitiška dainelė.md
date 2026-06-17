@@ -20,7 +20,7 @@ Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.
 - t-001
   global_id: t-80762
   teiginys: 'Vokiečių ŽEMAITIŠKA DAINELĖ Antanas Klementas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/autoriai/Antanas Klementas|Antanas Klementas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Antanas Klementas|Antanas Klementas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/muškietininkai|muškietininkai]]'
   pagrindžia:
     - c-001
 

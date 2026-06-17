@@ -22,7 +22,7 @@ tags:
   global_id: t-84715
   teiginys: 'Raseinių ir Ariogalos apylinkės laikytos svarbiomis pagonims, nes čia stovėjo Romuva su Perkūno šventykla ir Krivių Krivaičio buveine.'
   sudarymo_pagrindimas: 'Citata patvirtina Romuvos reikšmę ir paskirtį, bet pradiniame tekste liko OCR laužymo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-003
 
@@ -30,7 +30,7 @@ tags:
 - t-002
   global_id: t-84716
   teiginys: 'Romuva šaltiniuose minima kaip Nadruvoje esanti šventykla su kriviu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,6 @@ tags:
 - t-003
   global_id: t-84717
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/amfiktionija|amfiktionija]]'
   pagrindžia:
     - c-002
 
@@ -47,7 +46,7 @@ tags:
   global_id: t-84718
   teiginys: 'Romuva minima kaip Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindinė buveinė.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje pateiktą Romuvos apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Ariogala; mentioned_place: Bisenė; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ariogala; mentioned_place: Bisenė; mentioned_place: Raseiniai'
   pagrindžia:
     - c-004
 
@@ -59,7 +58,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia interpretacinį teiginį, todėl pridėta šaltinio autorystė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva; mentioned_place: Nadruva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nadruva'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
@@ -205,6 +204,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Vaidila]] gyveno Romuva

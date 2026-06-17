@@ -94,7 +94,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117388
   teiginys: 'Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.'
   sudarymo_pagrindimas: 'Reikia aiškesnio laiko ir gramatinės formos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/getas|getas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -103,7 +103,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117389
   teiginys: 'Vilniaus Gaono autoritetas prisidėjo prie litvakų įvaizdžio kaip religinei tradicijai, racionalumui ir išsimokslinimui atsidavusių žydų.'
   sudarymo_pagrindimas: 'Teiginys per ilgas ir gali būti glaustesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/litvakai Lite litviš|litvakai Lite litviš]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -176,7 +176,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117396
   teiginys: 'Žydai parėmė Lietuvos nepriklausomybę, dalyvavo Lietuvos Tarybos veikloje ir kaip savanoriai stojo į nepriklausomybės kovas.'
   sudarymo_pagrindimas: 'Reikia glaustesnės ir sklandesnės enciklopedinės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Rozenbaumas|S. Rozenbaumas]]; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia glaustesnės ir sklandesnės enciklopedinės formuluotės.'
@@ -210,7 +210,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117400
   teiginys: 'Visą istorinės Lietuvos laikotarpį joje gyvenę žydai vadino šią šalį „Lite“, o save – „litvakais“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žydų savivardą ir Lietuvos pavadinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -219,7 +219,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117401
   teiginys: 'Kai kuriose Lietuvos ūkio srityse žydai tvirtai dominavo: eksportavo daugiau arklių, kailių, odų ir miško medžiagos, o importe sudarė didžiąją dalį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Palestina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Palestina'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais ūkio faktais.'
@@ -273,7 +273,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-023
   global_id: t-117406
   teiginys: 'Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_object: [[objektai/posakiai/„mūsų žydeliai“|„mūsų žydeliai“]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„mūsų žydeliai“|„mūsų žydeliai“]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-016
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77976|A. Smetona]]: A. Smetona agresyvesniems jaunalietuviams pareiškė, kad žydų apribojimų nereikia ir „vietos visiems užteks“.

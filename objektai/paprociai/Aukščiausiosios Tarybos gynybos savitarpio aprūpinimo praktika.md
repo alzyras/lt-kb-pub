@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-09609
   teiginys: 'Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.'
   sudarymo_pagrindimas: 'Teiginys susietas su gynybos praktika ir išvalytas nuo perteklinių detalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonasis Kryžius|Raudonasis Kryžius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_group: [[objektai/grupes/Raudonasis Kryžius|Raudonasis Kryžius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-003
 

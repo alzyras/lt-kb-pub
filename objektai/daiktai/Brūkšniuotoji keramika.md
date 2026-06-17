@@ -52,7 +52,7 @@ Nenurodyta
 - t-001
   global_id: t-47808
   teiginys: 'E. Danilaitė domėjosi brūkšniuotąja keramika Lietuvoje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-47809
   teiginys: 'E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30591|E. Danilaitė]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.

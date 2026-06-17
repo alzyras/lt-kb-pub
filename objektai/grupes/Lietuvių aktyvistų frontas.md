@@ -88,7 +88,7 @@ Nenurodyta
 - t-004
   global_id: t-24554
   teiginys: 'LAF programoje ir kituose dokumentuose neišvengta nacionalistinės retorikos, antisemitizmo (16-asis LAF programos punktas atšaukė teisę žydams gyventi Lietuvoje).'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/K. Škirpa|K. Škirpa]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -97,7 +97,7 @@ Nenurodyta
   global_id: t-26625
   teiginys: 'Lietuvių aktyvistų frontas rinko žinias iš sovietų valdomos Lietuvos ir iš Vokietijos siuntė instrukcijas dėl valstybingumo atkūrimo bei sukilimo.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_place: Berlynas; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatos turinį.'

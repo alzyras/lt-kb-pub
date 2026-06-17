@@ -30,7 +30,7 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
   global_id: t-18977
   teiginys: '1605 m. Jonas Karolis Chodkevičius prie Kirchholmo vadovavo LDK kariuomenei, kuri nugalėjo 12 tūkst. švedų.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Ryga; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas; citata pagrindžia pilną sakinį apie mūšio rezultatą.'
@@ -73,7 +73,5 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 
 ## Ryšiai
 - Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Chodkevičiai]]
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/asmenys/Jonas]]
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/asmenys/Karolis]]
 - Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Lenkai]]
 - Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Lietuviai]]

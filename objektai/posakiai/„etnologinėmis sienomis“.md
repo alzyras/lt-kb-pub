@@ -32,7 +32,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   global_id: t-20892
   teiginys: 'Vasario 16 Aktas skelbė Lietuvą nepriklausoma valstybe su „etnologinėmis sienomis“.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį kablelį ir suformuluoti sklandesnį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinį kablelį ir suformuluoti sklandesnį sakinį.'
@@ -47,7 +47,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinių fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Steigiamasis seimas|Steigiamasis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi perteklinių fragmentų.'

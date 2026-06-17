@@ -54,7 +54,6 @@ galutinė geografinė tapatybė šaltinyje pateikta senąja forma; čia palikta 
   global_id: t-92018
   teiginys: 'Į Žemaičių jūrą tekėjo šiaurinės kalvos įšleitės upės, tarp jų Daugava, Nemunas, Pragaras ir Isla.'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti, kokios upės tekėjo į Žemaičių jūrą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Įšleitė|Įšleitė]]'
   pagrindžia:
     - c-002
 

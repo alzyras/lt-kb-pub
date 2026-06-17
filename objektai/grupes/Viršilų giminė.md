@@ -24,7 +24,7 @@ Nuo neat­ menamų laikų ten buvo kunigaikščių pilis, kuri vėliau do­ vano
   global_id: t-86832
   teiginys: 'Pilaitėje buvusi kunigaikščių pilis vėliau buvo dovanota Viršilų giminei.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata tiesiogiai patvirtina Viršilų giminei dovanotą pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

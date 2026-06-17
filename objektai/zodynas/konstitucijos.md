@@ -25,9 +25,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
   sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas; citata palaiko faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77977|A. Smetona]]: Smetona, kuris prisiekė laikytis šalies konstitucijos.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75722|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Smetona, kuris prisiekė laikytis šalies konstitucijos.
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75742|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1926 m. gruodžio 19 d. III Seimo nepaprastajame posėdyje Antanas Smetona išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75786|Augustinas Voldemaras]]: Po M. Sleževičiaus vyriausybės atstatydinimo K. Grinius pavedė tautininkui Augustinui Voldemarui sudaryti naują Ministrų kabinetą.
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.
 - susijęs iš [[objektai/asmenys/Kazimieras Nestoras Sapiega.md#claim-t-63826|Kazimieras Nestoras Sapiega]]: Pataisą seimui pristatė Kazimieras Nestoras Sapiega, o jos autorius veikiausiai buvo Vilniaus žemės teisėjas Tadas Korsakas.
@@ -112,7 +109,6 @@ konstitucijos: visi seimo nutarimai, vadinęsi konstituci- jomis, buvo įstatyma
 - susijęs iš Lietuvos Statutai: 1992 m. Konstitucijos preambulė Lietuvos valstybės teisės pamatus siejo su LDK laikotarpiu priimtais Lietuvos Statutais ir Lietuvos Respublikos konstitucijomis.
 - susijęs iš Peterburgo konvencija dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo (1795 m.): 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.
 - susijęs iš SSRS Konstitucija (1936 m.): Mokyklose buvo įvestas privalomas J. Stalino konstitucijos ir rusų kalbos dėstymas.
-- susijęs iš SSRS konstitucija: Maskva grasino Lietuvai teritorinėmis priemonėmis, jeigu ji nesilaikys SSRS konstitucijos.
 - susijęs iš SSRS konstitucija: 1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
 - susijęs iš Sąjūdžio rinkiminė programa: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.
 - susijęs iš Sąjūdžio rinkiminė programa: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.

@@ -28,7 +28,7 @@ Suvažiavimo metu „už savarankišką LKP, turinčią savo programą ir statut
   global_id: t-21256
   teiginys: 'Už savarankišką LKP, turinčią savo programą ir statutą, balsavo 855 iš 1 033 delegatų, ir LKP atsiskyrė nuo SSKP.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie LKP programą, statutą ir atsiskyrimą nuo SSKP.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie LKP programą, statutą ir atsiskyrimą nuo SSKP.'

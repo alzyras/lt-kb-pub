@@ -28,7 +28,7 @@ Tūkstančiui rinktinių anglų 21 To įsidėmėtino žygio į Vilnių apra­ š
   global_id: t-88419
   teiginys: 'Įsidėmėtino žygio į Vilnių aprašymas buvo nepasirašytas išspausdintas 1829 metų „Dziennik Wileński“ Nr. 1.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie publikaciją, tačiau pradiniame sakinyje įsimaišęs pašalinis tekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

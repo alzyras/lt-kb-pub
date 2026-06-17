@@ -32,7 +32,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   global_id: t-05262
   teiginys: 'Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'territory: Dniepras; territory: Krymas; territory: Lietuva; territory: Maskva; territory: Turkija; territory: Viena; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
+  susije_objektai: 'territory: Dniepras; territory: Krymas; territory: Lietuva; territory: Maskva; territory: Turkija; territory: Viena; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Dniepras; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Krymas; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Lietuva; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Maskva; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Turkija; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Viena'
   temporaliniai_duomenys: 'įvykio data: po 1478 m.; įvykio data: 1478 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krymo chanatas susiję su Dniepras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Krymas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Turkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Viena“, o ne visam objekto laikotarpiui.'
@@ -44,7 +44,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   global_id: t-05263
   teiginys: 'Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: po 1478 m.; įvykio data: 1478 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -81,7 +81,7 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Perekopo pavadinimą Krymo chanato geografiniame kontekste. Nepridėta etimologijos ar miesto tvirtovės istorijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Isteris; mentioned_place: Kaukazas; mentioned_place: Krymas; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Isteris; mentioned_place: Kaukazas; mentioned_place: Krymas; mentioned_place: Perekopas'
   temporaliniai_duomenys: 'įvykio data: 1515 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Perekopo pavadinimą Krymo chanato geografiniame kontekste. Nepridėta etimologijos ar miesto tvirtovės istorijos.'

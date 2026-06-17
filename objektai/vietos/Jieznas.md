@@ -29,7 +29,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   global_id: t-79415
   teiginys: 'Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.'
   sudarymo_pagrindimas: 'Patikslintas veikėjas ir pašalintas nereikalingas apibūdinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/S. Mickevičius|S. Mickevičius]]; mentioned_place: Lentvaris; mentioned_place: Prienai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/S. Mickevičius|S. Mickevičius]]; mentioned_place: Lentvaris; mentioned_place: Prienai'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Nesutikdamas pasipriešinimo, vasario 8 d. pulkas pasiekė Stakliškes, o kitą 
   global_id: t-79417
   teiginys: 'Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausomybės kovose prieš bolševikus, atremdama jų ekspansiją prie Jiezno ir Kėdainių, po to vydama juos iki pat Daugpilio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Nepriklausomybės kovas prie Jiezno ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_object: [[objektai/zodynas/Nepriklausomybės kovos|Nepriklausomybės kovos]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1919-1920; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Nepriklausomybės kovas prie Jiezno ir paremtas citata.'

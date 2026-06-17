@@ -12,6 +12,7 @@ datos:
   - '1918 m.'
   - '1929 m.'
   - '1932 m.'
+  - '1933 m.'
   - '2026 m.'
 date_start: '1385'
 date_end: '2026'
@@ -36,7 +37,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170285
   teiginys: 'Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų įvardį ir jungė du faktus; paliktas Berlynui aktualus faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turėjo neaiškų įvardį ir jungė du faktus; paliktas Berlynui aktualus faktas.'
@@ -48,7 +49,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170286
   teiginys: 'Kovo 23 dieną Berlyne A. Smetonos vadovaujama Tarybos delegacija pristatė deklaracijos turinį Vokietijos kancleriui Georgui von Hertlingui.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas faktinis sakinys apie Berlyne vykusį veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucinė monarchija|konstitucinė monarchija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Saksonija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucinė monarchija|konstitucinė monarchija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Wilhelmas II|Wilhelmas II]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Saksonija; mentioned_place: Vokietija'
   pagrindžia:
     - c-010
 
@@ -57,7 +58,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170287
   teiginys: '1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas ta pačia citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_person: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: iki 1385 m.; įvykio data: 1385 m.; įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas ta pačia citatos informacija.'
@@ -68,7 +69,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-004
   global_id: t-170288
   teiginys: 'Frankas Lubinas su JAV rinktine tapo olimpiniu čempionu Berlyne, o 1939 m. su Lietuvos rinktine laimėjo Europos čempionatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Frank Lubin|Frank Lubin]]; mentioned_person: [[objektai/asmenys/Jack Sharkey|Jack Sharkey]]; mentioned_person: [[objektai/asmenys/Johnny Unitas|Johnny Unitas]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1868 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -100,7 +101,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170292
   teiginys: 'Naciams Berlyne sulaikius LAF vadą Kazį Škirpą, Laikinosios vyriausybės vadovu tapo Juozas Ambrazevičius.'
   sudarymo_pagrindimas: 'Išplėstas nutrūkęs vardas ir suformuluotas pilnas citata paremtas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Juozas Ambrazevičius|Juozas Ambrazevičius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Ambrazevičius|Juozas Ambrazevičius]]'
   pagrindžia:
     - c-003
 
@@ -109,7 +110,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170293
   teiginys: 'Tačiau užsienio politikoje pakitimų neįvyko ir Lietuva tęsė manevrus tarp Varšuvos, Maskvos ir Berlyno, stengdamasi neįsivelti į karinį konfliktą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir aiškiai sieja Berlyną su Lietuvos užsienio politika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1938 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir aiškiai sieja Berlyną su Lietuvos užsienio politika.'
@@ -155,7 +156,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170299
   teiginys: 'Berlyno karališkosios bibliotekos kodekse buvo nevisiškai pilnas Dusburgiečio kronikos nuorašas.'
   sudarymo_pagrindimas: 'Sakinys aiškus ir paremtas citata apie Berlyno bibliotekos kodeksą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Elbingas; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Torunė'
   pagrindžia:
     - c-012
 
@@ -173,7 +174,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170301
   teiginys: 'Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai nurodo Avižonio disertacijos parašymą Berlyne.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_person: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Avižonis|K. Avižonis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: iki 1385 m.; įvykio data: 1385 m.; įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai nurodo Avižonio disertacijos parašymą Berlyne.'
@@ -184,7 +185,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
 - t-017
   global_id: t-170302
   teiginys: 'Z. Ivinskio veikalas „Geschichte des Bauernstandes in Litauen“ buvo išleistas Berlyne 1933 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -195,7 +196,7 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   global_id: t-170303
   teiginys: '1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir ten pasirašė 100 mln. markių paskolą ginklams įsigyti.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'

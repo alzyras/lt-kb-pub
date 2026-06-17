@@ -56,7 +56,7 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citatos turiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97456|Kaributas]]: Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
@@ -85,7 +85,6 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus.md#claim-t-01678|Kryžiuočių ordino atsikraustymas į Prūsus]]: Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.
 - susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89382|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.
-- susijęs iš Krokuva: 1525 m. Krokuvoje būsimasis Prūsų kunigaikštis iškilmingai prisiekė karaliui Zigmantui.
 - susijęs iš Kulmija: 1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.
 - susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89792|Glapas]]: Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.
@@ -1203,7 +1202,6 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - [[objektai/grupes/Kryžiuočių ordinas]] susije_su Prūsai
 - [[objektai/grupes/Pomeranai]] susije_su Prūsai
 - [[objektai/asmenys/Sventopelkas]] buvo_valdovas Prūsai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Prūsai
 - [[objektai/asmenys/Glapas]] keliavo_i Prūsai
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Prūsai
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] keliavo_i Prūsai
@@ -1213,7 +1211,6 @@ prūsais buvo vadinamos tik tos vakarinės aisčių giminės, kurios anksčiau p
 - [[objektai/asmenys/Martynas iš Golino]] keliavo_i Prūsai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Prūsai
 - [[objektai/asmenys/Odoničius]] keliavo_i Prūsai
-- [[objektai/asmenys/Otonas]] keliavo_i Prūsai
 - [[objektai/asmenys/Popiežius Honorijus II]] susije_su Prūsai
 - [[objektai/vietos/Ragainė]] priklause Prūsai
 - [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]] priklause Prūsai

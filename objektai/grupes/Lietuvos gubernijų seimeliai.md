@@ -22,7 +22,7 @@ Po karūnacijos visi Lietuvos gubernijų seimeliai, — atsakydami į klausimą,
   global_id: t-01403
   teiginys: 'Po karūnacijos Lietuvos gubernijų seimeliai baudžiavos panaikinimą laikė pirmąja valstiečių būklės gerinimo sąlyga.'
   sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant perteklinę sakinio konstrukciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ Pats Traidenis, kaip in Mindaugas, Eiliuotinėje Livonijos kronikoje yra vadinam
   global_id: t-32786
   teiginys: 'Eiliuotinėje Livonijos kronikoje Traidenis, kaip ir Mindaugas, vadinamas kunic.'
   sudarymo_pagrindimas: 'Teiginys turi faktinį predikatą ir nusako termino vartoseną kronikoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

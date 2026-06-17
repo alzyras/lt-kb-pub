@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-86939
   teiginys: 'Žinia apie 1506 m. rugpjūtį pasiektą pergalę ties Klecku merdintį Aleksandrą Jogailaitį pasiekė Vilniuje.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškia nuoroda „Ši trokštama žinia“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pilies ir rūmų pareigybės|Pilies ir rūmų pareigybės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1506 m.; įvykio data: apie 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda neaiškia nuoroda „Ši trokštama žinia“.'

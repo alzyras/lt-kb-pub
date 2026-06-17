@@ -20,7 +20,7 @@ Korsako) milicijos batalionas ir keli eskadronai bei keletas kitų smulkesnių s
 - t-001
   global_id: t-40455
   teiginys: 'T. Korsakas buvo Vilniaus pavieto žemės generolas majoras, kurio milicijos batalionas buvo įguloje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jokūbas Jasinskis.md#claim-t-63711|Jokūbas Jasinskis]]: Ginant Varšuvą žuvo Lietuvos sukilėlių vadas Jokūbas Jasinskis.

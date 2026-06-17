@@ -22,7 +22,7 @@ Ivanas per derybas dėl santuokos pareikalavo Aleksandro raštiško pasižadėji
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pasižadėjimą; pradinis tekstas turi boilerplate ir OCR klaidų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Maskva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Maskva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 

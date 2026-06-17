@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-75114
   teiginys: 'Po Klaipėdos nacių teismo Antanas Smetona mirties bausmę netrukus pakeitė kalėjimu iki gyvos galvos.'
   sudarymo_pagrindimas: 'Išplėstas vardas ir pašalintas neaiškus sutrumpinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_person: [[objektai/asmenys/Valteris R. Hesas|Valteris R. Hesas]]; mentioned_person: [[objektai/asmenys/Ėrichas Kochas|Ėrichas Kochas]]; mentioned_place: Kaunas; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nacių Vokietija|Nacių Vokietija]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_person: [[objektai/asmenys/Valteris R. Hesas|Valteris R. Hesas]]; mentioned_person: [[objektai/asmenys/Ėrichas Kochas|Ėrichas Kochas]]; mentioned_place: Kaunas; mentioned_place: Prūsija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1935 m.; įvykio data: 1937 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas vardas ir pašalintas neaiškus sutrumpinimas.'
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-75115
   teiginys: 'Nuo 1934 m. liepos iki 1935 m. kovo Kaune vykęs teismas – pirmasis, analogų Europoje neturėjęs vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Europa; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: iki 1935 m.; įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatą.'

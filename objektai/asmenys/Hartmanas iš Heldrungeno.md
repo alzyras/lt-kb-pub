@@ -34,7 +34,7 @@ Dusburgietis teigia, kad hartmano iš Heldrungeno „Pranešimas...“ aprašo, 
   global_id: t-59966
   teiginys: 'Hartmanas iš Heldrungeno kartu su Konradu, Ditrichu iš Gruningeno ir keliais namiškiais buvo Teneburgo pilyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neaiškių įvardžių; citata palaiko tik dalyvavimo pilyje faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_person: [[objektai/asmenys/Hartmanas|Hartmanas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

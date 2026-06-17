@@ -30,7 +30,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   global_id: t-72626
   teiginys: 'Slavofilai Petrapilyje susiorganizavo į draugiją ir nepritarė universiteto klestėjimui.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu kontekstiniu žodžiu; perrašyta savarankiškai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/lenkinti|lenkinti]]; mentioned_place: Lietuva; mentioned_place: Petrapilis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/lenkinti|lenkinti]]; mentioned_place: Lietuva; mentioned_place: Petrapilis'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Slavofilai: toks universiteto klestėjimas nepatiko rusams, ypač sla- vofilams,
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį ir konkretesnį faktą apie slavofilų reikalavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/lenkinti|lenkinti]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/lenkinti|lenkinti]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Jonas Juškevičius.md#claim-t-01069|Jonas Juškevičius]]: Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis.

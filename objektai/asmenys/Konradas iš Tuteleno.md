@@ -22,7 +22,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   global_id: t-60367
   teiginys: 'Konradas iš Tuteleno, buvęs šventosios Elžbietos kamerarijus, buvo paskirtas pagalbininku Hermanui Balkui.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs, citata remia pareigų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Vitchendorfas'
   pagrindžia:
     - c-001
 

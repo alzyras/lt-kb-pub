@@ -30,7 +30,7 @@ Jau tų metų kovą vykusius rinkimus į SSRS Aukščiausiąją Tarybą triuški
   global_id: t-21083
   teiginys: '1989 m. gruodžio 7 d. konstitucijos pataisos panaikino LKP valdžios monopolį valstybėje ir visuomenėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir apima perteklinį kontekstą, todėl palikta esminė pataisų reikšmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Baltija; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir apima perteklinį kontekstą, todėl palikta esminė pataisų reikšmė.'

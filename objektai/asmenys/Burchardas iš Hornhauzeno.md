@@ -15,7 +15,6 @@ tags:
   - karas
   - mūšis
   - ordinas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   global_id: t-60094
   teiginys: 'Burchardas iš Hornhauzeno žuvo Durbės kautynėse Kuršo žemėje per palaimintos Margaritos dieną, liepos 13-ąją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Durbė; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis'
   temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1238 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos informacija apie žūtį.'
@@ -46,7 +45,7 @@ Dusburgietis teigia, kad apie pilies pastatymą Karšuvoje ant švento Jurgio ka
   global_id: t-60095
   teiginys: 'Burchardas iš Hornhauzeno, būdamas Livonijos magistru, patvarkė 1259 m. pastatyti pilį Karšuvoje ant Šv. Jurgio kalno.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako Burchardo pareigas ir jo patvarkymą statyti pilį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Viena'
   temporaliniai_duomenys: 'pastatymo data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako Burchardo pareigas ir jo patvarkymą statyti pilį.'

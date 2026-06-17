@@ -15,7 +15,6 @@ tags:
   - karvedys
   - ordinas
   - valstybė
-  - vyskupas
 amziai:
   - 'I'
   - 'II'
@@ -47,7 +46,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   global_id: t-60035
   teiginys: 'Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus teiginį, bet pradiniame sakinyje yra OCR ir išnašų triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 

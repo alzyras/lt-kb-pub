@@ -39,7 +39,7 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   teiginys: 'Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.'
   teiginio_tipas: 'saltinio_vaizdinys'
   sudarymo_pagrindimas: 'Reikia išlaikyti kronikos vertinimo ir priešiško apibūdinimo atribuciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Posakis pateikiamas kaip Bychovco kronikos socialinio ir luominio vaizdinio pavy
   teiginys: 'Posakiu „šuns kfauju“, kaip nurodo Lietuvos metraščio komentaras, Bychovco kronikos originaliajame tekste vadinami valstiečiai.'
   teiginio_tipas: 'saltinio_vaizdinys'
   sudarymo_pagrindimas: 'Subjektu padarytas pats posakis, o Bychovco kronikos formuluotė palikta su komentarui priskirta atribucija. Nepridėta platesnio vertinimo, nei leidžia citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Subjektu padarytas pats posakis, o Bychovco kronikos formuluotė palikta su komentarui priskirta atribucija. Nepridėta platesnio vertinimo, nei leidžia citata.'

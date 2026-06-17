@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-54314
   teiginys: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija leido savo spaudą lietuvių ir lenkų kalbomis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviškoji socialdemokratų partija|Lietuviškoji socialdemokratų partija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviškoji socialdemokratų partija|Lietuviškoji socialdemokratų partija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]'
   temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
@@ -67,7 +67,7 @@ Nenurodyta
 - t-002
   global_id: t-54315
   teiginys: 'Slaptai leistas ir nelegaliai platintas mėnraštis telkė tautinio sąjūdžio jėgas ir kėlė lietuvių kultūrinių bei švietimo teisių reikalavimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -78,7 +78,7 @@ Nenurodyta
   global_id: t-54316
   teiginys: '„Varpas“ laikėsi liberalios demokratijos pozicijų, kritikavo caro režimą ir rūpinosi bendrinės literatūrinės lietuvių kalbos formavimu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatoje pateiktą informaciją apie „Varpą“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_person: [[objektai/autoriai/V. Kudirka|V. Kudirka]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Kudirka|V. Kudirka]]; mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -110,7 +110,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia pateikti tikslesnį enciklopedinį sakinį apie „Aušros“ reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Praha; mentioned_place: Rusija; mentioned_place: Rytprūsiai; mentioned_place: Užnemunė'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti tikslesnį enciklopedinį sakinį apie „Aušros“ reikšmę.'

@@ -13,7 +13,6 @@ tags:
   - karas
   - mokslininkas
   - tauta
-  - valstybė
 amziai: []
 periodo_grupes: []
 ---
@@ -38,7 +37,7 @@ periodo_grupes: []
 - t-002
   global_id: t-63886
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

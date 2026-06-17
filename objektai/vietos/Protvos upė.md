@@ -27,7 +27,7 @@ Yra įrodyta, jog « Goliad’ » buvo toliausiai į rytus įsiterpusi baltiš­
 - t-001
   global_id: t-32479
   teiginys: 'Prie Protvos upės liko asimiliacijai atkirsta toliausiai į rytus įsiterpusi baltiškos kilmės Goliadės atplaiša.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1147 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

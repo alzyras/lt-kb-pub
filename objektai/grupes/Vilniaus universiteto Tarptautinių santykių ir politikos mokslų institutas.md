@@ -30,7 +30,7 @@ Rengiantis Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų minist
   global_id: t-20076
   teiginys: 'Rengdamasi Lietuvos pirmininkavimui Europos Sąjungai, Užsienio reikalų ministerija paprašė VU TSPMI mokslininkų parengti Lietuvos istorijos veikalą.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnę gramatinę formą, nekeičiant citatos faktų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pataisytas į sklandesnę gramatinę formą, nekeičiant citatos faktų.'

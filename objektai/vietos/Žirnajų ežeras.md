@@ -24,7 +24,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   global_id: t-42409
   teiginys: 'Švitrigailos ir Ordino pajėgos prie Žirnajų ežero judėjo vakarine pakrante, o Žygimanto kariuomenė traukė rytine ežero puse.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai apibūdina veiksmus prie Žirnajų ežero.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gelvonai; mentioned_place: Pašilė; mentioned_place: Viena; mentioned_place: Žirnajos upelis'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Gelvonai; mentioned_place: Pašilė; mentioned_place: Viena; mentioned_place: Žirnajos upelis'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie mūšio vietą Žirnajų ežero atžvilgiu. Atstumo ir vietos duomenys atitinka citatą, be papildomų interpretacijų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 

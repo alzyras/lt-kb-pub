@@ -32,7 +32,7 @@ Lengviausia, žinoma, buvo įtraukti į karą Vokiečių Or­ diną, kurio magis
   global_id: t-35267
   teiginys: 'Povilas Russdortas buvo išrinktas Vokiečių ordino magistru vietoje atstatyto Küchmeisterio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Povilą Russdortą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: po 1414 m.; įvykio data: 1414 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Povilą Russdortą ir atitinka citatą.'

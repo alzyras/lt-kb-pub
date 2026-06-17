@@ -40,7 +40,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   global_id: t-40167
   teiginys: '1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie J. Variakojo paskyrimą ir savanorių būrio organizavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_place: Kėdainiai'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie J. Variakojo paskyrimą ir savanorių būrio organizavimą.'
@@ -60,7 +60,7 @@ Variakojis, nuvykęs į paskyrimo vietą, energingai ėmėsi organizuoti savanor
   global_id: t-40169
   teiginys: 'Iki 1919 m. kovo pabaigos J. Variakojo vadovaujamas Panevėžio srities apsaugos būrys išaugo ir sustiprėjo.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako J. Variakojo vadovaujamo būrio raidą ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1919 m.; įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako J. Variakojo vadovaujamo būrio raidą ir remiasi citata.'

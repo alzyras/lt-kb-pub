@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko geresnį sakinį, aiškiau susietą su note pavadinimo objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Braclavas; mentioned_place: Kremenecas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Braclavas; mentioned_place: Kremenecas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 

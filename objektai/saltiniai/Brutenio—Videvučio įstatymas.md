@@ -22,7 +22,7 @@ Dusburgietis teigia, kad senojoje, ikikryžiuotiškojo laikotarpio prūsų teis�
   global_id: t-61055
   teiginys: 'Brutenio—Videvučio įstatyme pabrėžiama, kad niekas nesikreiptų į prūsų dievus be Krivio.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

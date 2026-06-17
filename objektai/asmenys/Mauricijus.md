@@ -30,7 +30,7 @@ Uršulė ir Mauricijus, ignoti cognominis [nežinoma pavardė], iš magistrato u
   global_id: t-87775
   teiginys: 'Mauricijaus ir Uršulės mūras kadaise buvo įpareigotas kasmet mokėti 140 auksinų pamaldoms.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir su triukšmu, tačiau citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/viderkaftas|viderkaftas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

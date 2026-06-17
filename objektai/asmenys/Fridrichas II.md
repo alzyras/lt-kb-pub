@@ -15,7 +15,6 @@ tags:
   - karalius
   - kunigaikštis
   - popiežius
-  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59857
   teiginys: 'Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Fridricho II veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59858
   teiginys: 'M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia M. Perlbacho poziciją apie Fridricho II bulę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/M. Perlbachas|M. Perlbachas]]; mentioned_person: [[objektai/autoriai/M. Poliakuvna|M. Poliakuvna]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Perlbachas|M. Perlbachas]]; mentioned_author: [[objektai/autoriai/M. Poliakuvna|M. Poliakuvna]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kristburgas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1226 m.; įvykio data: 1230 m.; įvykio data: 1232 m.; įvykio data: 1243 m.; įvykio data: 1245 m.; įvykio data: 1248 m.; įvykio data: 1323 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia M. Perlbacho poziciją apie Fridricho II bulę.'
@@ -55,7 +54,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59859
   teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
-  susije_objektai: 'territory: Vokietija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Vokietija'
+  susije_objektai: 'territory: Vokietija; mentioned_place: Vokietija'
   semantiniai_rysiai: '[[objektai/asmenys/Fridrichas II|Fridrichas II]] buvo valdovas Vokietija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1268 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas II buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
@@ -68,7 +67,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59860
   teiginys: 'Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūksta, bet citata remia glaustą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Venedai|Venedai]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus III|Popiežius Honorijus III]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-006
 
@@ -89,7 +88,7 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59862
   teiginys: 'Imperatorius Fridrichas II patarė magistrui Hermanui priimti Lenkijos kunigaikščio kvietimą dėl keblaus reikalo.'
   sudarymo_pagrindimas: 'Citata Fridrichą II nurodo kaip vieną iš patarėjų, paveikusių magistro sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-005
 
@@ -98,7 +97,6 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59863
   teiginys: 'Fridrichas II turėjo nesantuokinį sūnų Manfredą, iš kurio 1265 m. Sicilijos karalius Karolis atėmė sostą ir gyvybę.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Fridrichu II.'

@@ -27,7 +27,7 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   global_id: t-21431
   teiginys: '1941 m. birželio 24 d. Tilžės gestapo būrys Gargžduose sušaudė 201 žydą vyrą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tilžės gestapo būrys|Tilžės gestapo būrys]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kretinga; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Tilžė; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tilžės gestapo būrys|Tilžės gestapo būrys]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Kretinga; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Tilžė; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'

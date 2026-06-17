@@ -22,7 +22,7 @@ Jurgiui Svetoslavovičiui buvo duotas Roslavlio miestas.
   teiginys: 'Vytautas davė Roslavlio miestą kunigaikščiui Jurgiui Svetoslavovičiui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys perrašytas aktyvia forma su aiškiu veikėju ir objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vorksla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Smolenskas; mentioned_place: Vorksla'
   pagrindžia:
     - c-001
 

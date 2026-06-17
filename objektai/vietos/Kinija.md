@@ -37,7 +37,7 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   global_id: t-76526
   teiginys: 'Andrius Rudamina Kinijoje misionieriavo 1626–1634 m. ir rašė asketikos veikalus kinų kalba.'
   sudarymo_pagrindimas: 'Pašalintas ilgas kontekstas ir suformuluotas konkretus citata pagrįstas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Andrius Rudamina|Andrius Rudamina]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andrius Rudamina|Andrius Rudamina]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas ilgas kontekstas ir suformuluotas konkretus citata pagrįstas sakinys.'
@@ -49,7 +49,7 @@ Vienas jų tada rašė: „Reikia taip pat neužmiršti, kad čia mums plačiai 
   global_id: t-76527
   teiginys: 'Andrius Rudamina 1626–1634 m. misionieriavo Kinijoje ir rašė asketikos veikalus kinų kalba.'
   sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus fakto apie Kiniją, pašalintas konteksto perteklius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Andrius Rudamina|Andrius Rudamina]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andrius Rudamina|Andrius Rudamina]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Rudamina; mentioned_place: Vilnius; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1626-1634; įvykio data: 1634 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus fakto apie Kiniją, pašalintas konteksto perteklius.'

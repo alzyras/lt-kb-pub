@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-86920
   teiginys: '1838 m. Varšuvoje valdžios apkaltintas „lenkiškuoju patriotizmu“, Mykolas Balinskis nutylėjo dalyvavimą 1831 m. sukilime.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatos duomenimis.'
@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-86921
   teiginys: '1838 m. Mykolas Balinskis rusų valdžiai Varšuvoje aiškino, kad jo „Vilniaus miesto istorijos“ tikslas buvo Lietuva ir jos senoji sostinė.'
   sudarymo_pagrindimas: 'Citata remia aiškinimą, bet teiginį geriau sutrumpinti ir išplėsti asmens vardą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Rusų-lietuvių valstybė|Rusų-lietuvių valstybė]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1818 m.; įvykio data: 1818 m.; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia aiškinimą, bet teiginį geriau sutrumpinti ir išplėsti asmens vardą.'

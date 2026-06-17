@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-19608
   teiginys: 'Ant Vilniaus katedros frontono buvo šv. Kazimiero, šv. Stanislovo ir šv. Elenos skulptūros.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata apie katedros frontono skulptūras.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-19609
   teiginys: 'Vilniaus katedros fasado skulptūros buvo sukurtos 1784–1787 m., kai Lietuvoje dar vyravo baroko dvasia.'
   sudarymo_pagrindimas: 'Citata remia sukūrimo datą ir baroko kontekstą, bet ne formuluotę apie vėlyvą laikotarpį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1586 m.; įvykio data: 1586 m.; įvykio data: 1784-1787; įvykio data: 1787 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia sukūrimo datą ir baroko kontekstą, bet ne formuluotę apie vėlyvą laikotarpį.'

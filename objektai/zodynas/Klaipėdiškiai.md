@@ -23,7 +23,7 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
   global_id: t-21995
   teiginys: 'Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas citata apie klaipėdiškių politinę laikyseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seimelis|seimelis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-001
 
@@ -35,13 +35,10 @@ Svarbiausia, kad Lietuva dėl sudėtingų socialinių, politinių tradicijų ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatos esmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimelis|seimelis]]; mentioned_place: Kaunas; mentioned_place: Klaipėdos kraštas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Klaipėdos kraštas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.).md#claim-t-20527|Versalio taikos konferencijos sprendimas dėl Klaipėdos krašto (1919 m.)]]: Dalis klaipėdiškių lietuvininkų nenorėjo jungtis prie Lietuvos ir siekė laisvojo miesto statuso.
-- susijęs iš Dancigas: Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.
 - susijęs iš Gdanskas: Kai kurie klaipėdiškiai lietuvininkai siekė laisvojo miesto statuso, panašaus į Dancigo, dabartinio Gdansko, statusą.
-- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-22187|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-183442|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis jų siekė „laisvojo miesto“ statuso.
 - susijęs iš [[objektai/zodynas/lietuvininkai.md#claim-t-26548|lietuvininkai]]: Ne visi klaipėdiškiai lietuvininkai norėjo jungtis prie Lietuvos; dalis siekė „laisvojo miesto“ statuso.
 ## Reikšmingi paminėjimai

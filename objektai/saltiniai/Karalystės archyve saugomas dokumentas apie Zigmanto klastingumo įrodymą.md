@@ -29,7 +29,7 @@ Karalystės archyve saugomas dokumentas buvo patvirtintas Vytauto, Vilniaus vysk
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir pašalina citatos OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Horodlė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Horodlė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1412 m.; įvykio data: 1413 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir pašalina citatos OCR triukšmą.'

@@ -23,7 +23,7 @@ Susižavėjęs šviečiamąja literatūra, jis darė reformas, viską, net Bažn
   global_id: t-03020
   teiginys: 'Jozefinizmas reiškė Juozapo II reformas, kuriomis net Bažnyčia buvo pajungta valstybės valdžiai.'
   sudarymo_pagrindimas: 'Pradiniame sakinyje buvo neaiškus įvardis; citata leidžia aiškiai įvardyti reiškinį ir jo turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_place: Austrija'
+  susije_objektai: 'mentioned_place: Austrija'
   pagrindžia:
     - c-001
 

@@ -23,8 +23,8 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   global_id: t-31656
   teiginys: 'Jordanes 551 m. veikale „De origine actibusque Getharum“ aisčius apibūdino kaip visiškai taikingą tautą prie ilgo pajūrio kranto į rytus nuo Vidivarii.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį ir glaustesnį enciklopedinį teiginį apie šaltinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_person: [[objektai/autoriai/Jordanes|Jordanes]]; mentioned_person: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_place: Vysla'
-  temporaliniai_duomenys: 'įvykio data: 375 m; įvykio data: 551 m'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Vidivarii|Vidivarii]]; mentioned_place: Vysla'
+  temporaliniai_duomenys: 'įvykio data: 375 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį ir glaustesnį enciklopedinį teiginį apie šaltinį.'
   pagrindžia:

@@ -24,7 +24,7 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   global_id: t-86498
   teiginys: 'M. Balinskis Lietuvos miestų ir miestiečių luomo vėlavimą siejo su politinio, ekonominio ir kultūrinio gyvenimo atsilikimu.'
   sudarymo_pagrindimas: 'Teiginys išplėstas į aiškesnį faktą, remiamą citatos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -42,7 +42,7 @@ Balinskis suprato Lietuvos miestų ir miestiečių luomo vė­ lyvos raidos prie
   global_id: t-86500
   teiginys: 'Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatos informaciją apie miestiečių luomo raidą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

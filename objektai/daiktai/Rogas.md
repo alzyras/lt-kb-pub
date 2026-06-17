@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Senovėje kalnėnai ir žemaičiai mirusį žmogų ant rogo degindavo kartu su jo žirgu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko deginimą ant rogo su žirgu, bet teiginį reikia tiksliau suformuluoti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 

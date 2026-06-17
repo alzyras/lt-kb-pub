@@ -36,7 +36,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   global_id: t-89516
   teiginys: 'J. Dlugošas buvo susipažinęs su Mikalojaus iš Jerošino eiliuotu vertimu ir panaudojo jį savo Lenkijos istorijos „Analuose, arba kronikose“.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatoje pateikta informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_person: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1480 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citatoje pateikta informacija.'
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   global_id: t-89517
   teiginys: 'J. Dlugošo „Analuose“ Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Dlugošo veikale pateiktą Prūsijos vardo aiškinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Prutenis|Prutenis]]; mentioned_person: [[objektai/asmenys/Prūsijus|Prūsijus]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Prutenis|Prutenis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-005
 
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   global_id: t-89518
   teiginys: 'J. Dlugošas „Analuose, arba kronikose“, rašytuose 1455-1480 m., panaudojo Mikalojaus iš Jerošino eiliuotą vertimą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Dlugošo veikalo šaltinį ir rašymo laiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_person: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1455-1480; įvykio data: 1464 m.; įvykio data: 1480 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Dlugošo veikalo šaltinį ir rašymo laiką.'
@@ -69,7 +69,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   global_id: t-89519
   teiginys: 'J. Dlugošas Mazovijos nusiaubimą ir Plocko sudeginimą siejo su 1222 m., nors tie įvykiai galėtų būti 1224 ar 1225 m.'
   sudarymo_pagrindimas: 'Citata palaiko Dlugošo datavimą ir pastabą apie galimą vėlesnę įvykių chronologiją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
   temporaliniai_duomenys: 'įvykio data: 1222 m.; įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Dlugošo datavimą ir pastabą apie galimą vėlesnę įvykių chronologiją.'
@@ -81,7 +81,7 @@ Dusburgietis teigia, kad dlugošas, kuris panaudojo jį savo Lenkijos istorijos 
   global_id: t-89520
   teiginys: 'J. Dlugošo veikale 1282 m. lietuvių kariuomenės įsiveržimas į Sandomežo žemę siejamas su mūšiu Ruvne, į pietus nuo Drohičino.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, susietą su Dlugošo veikalo duomenimis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Drohičinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Drohičinas'
   temporaliniai_duomenys: 'įvykio data: 1282 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, susietą su Dlugošo veikalo duomenimis.'

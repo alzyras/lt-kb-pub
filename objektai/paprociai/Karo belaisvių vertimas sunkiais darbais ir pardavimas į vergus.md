@@ -34,7 +34,7 @@ Nenurodyta
 - t-001
   global_id: t-07777
   teiginys: 'Dalis karo belaisvių būdavo parduodama gudams ir totoriams į vergus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Bokštai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bokštai'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-07778
   teiginys: 'Kare paimtus priešus, ypač vokiečius krikščionis, lietuviai versdavo sunkiai dirbti, prirakindavo prie girnų arba laikydavo iki mirties.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet reikia aiškesnės ir ne tokios archajiškos formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Bokštai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bokštai'
   pagrindžia:
     - c-001
 

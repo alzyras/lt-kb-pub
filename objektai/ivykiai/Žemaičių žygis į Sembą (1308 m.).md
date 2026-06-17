@@ -41,7 +41,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Prūsija; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Prūsija; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1308 m.; įvykio data: 1309 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo; citata palaiko aiškų faktą apie žygį.'

@@ -32,7 +32,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   global_id: t-47895
   teiginys: 'E. I. Leontovičius ir M. F. Vladimirskis-Budanovas buvo teisės istorikai, tyrę Lietuvos valstybės teisinius santykius ir institucijas.'
   sudarymo_pagrindimas: 'Citata aiškiai įvardija istorikus ir jų tyrimų sritį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų istorikai|Rusų istorikai]]; mentioned_person: [[objektai/autoriai/E. I. Leontovičius|E. I. Leontovičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. I. Leontovičius|E. I. Leontovičius]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų istorikai|Rusų istorikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -41,7 +41,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   global_id: t-47897
   teiginys: 'Ukrainiečių istorikai M. Hruševskis ir V. Zaikinas rašė Lietuvos Didžiosios Kunigaikštystės istorijos temomis.'
   sudarymo_pagrindimas: 'Citata nurodo abiejų ukrainiečių istorikų tyrimų sritis, susijusias su LDK.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_person: [[objektai/autoriai/M. Hruševskis|M. Hruševskis]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Hruševskis|M. Hruševskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -50,7 +50,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   global_id: t-47898
   teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją ir jos užvaldymą Lietuvos kunigaikščių.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo gramatiškai negrabiai suformuluotas, o citata leidžia aiškesnę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/M. Hruševskis|M. Hruševskis]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Hruševskis|M. Hruševskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1908-1910; įvykio data: 1910 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo gramatiškai negrabiai suformuluotas, o citata leidžia aiškesnę formą.'
@@ -62,7 +62,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   global_id: t-47899
   teiginys: 'M. Hruševskis rusų ir ukrainiečių kalbomis rašė apie senovės Kijevo žemės istoriją iki mongolų laikų.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau atskiriant rašymo kalbas nuo tyrimo objekto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/M. Hruševskis|M. Hruševskis]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Hruševskis|M. Hruševskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Kijevas; mentioned_place: Kijevo žemės; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1908-1910; įvykio data: 1910 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau atskiriant rašymo kalbas nuo tyrimo objekto.'
@@ -82,7 +82,7 @@ Odesos universiteto istorikas V. Savo pastabas yra tuo pat metu įdomiai išdės
   global_id: t-47901
   teiginys: 'Odesos universiteto istorikas V. V. Antonovičius iš šaltinių bandė tirti senosios Lietuvos valstybės istoriją iki Gedimino mirties.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai ir tiksliai perteikia citatoje nurodytą V. V. Antonovičiaus darbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/V. V. Antonovičius|V. V. Antonovičius]]; mentioned_place: Lietuva; mentioned_place: Odesa'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. V. Antonovičius|V. V. Antonovičius]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Odesa'
   pagrindžia:
     - c-004
 

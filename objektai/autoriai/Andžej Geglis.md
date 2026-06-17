@@ -29,7 +29,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - t-001
   global_id: t-71495
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Automatiniai šautuvai“ bendraautoris.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-005
 
@@ -37,7 +36,7 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - t-002
   global_id: t-71496
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Kalašnikovo sistemos automatiniai šautuvai“ bendraautoris.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_object: [[objektai/zodynas/Lietuvos atsikūrimas|Lietuvos atsikūrimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -45,7 +44,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - t-003
   global_id: t-71497
   teiginys: 'Andžej Geglis buvo teksto „Pakeitimai karyboje XIX a. viduryje“ autorius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]'
   pagrindžia:
     - c-002
 
@@ -75,7 +73,6 @@ Andžej Geglis šiame leidinyje minimas kaip kelių ginkluotės ir taktikos blok
 - t-007
   global_id: t-71502
   teiginys: 'Andžej Geglis kartu su Karoliu Zikaru buvo teksto „Pusiau automatiniai šautuvai“ bendraautoris.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/autoriai/Vidmantas Airini.md#claim-t-40675|Vidmantas Airini]]: Vidmantas Airini buvo teksto „Rapyros“ autorius.

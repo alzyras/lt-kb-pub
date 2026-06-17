@@ -21,7 +21,7 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   global_id: t-60600
   teiginys: 'Marija Gimbutienė cituojama požiūriui, kad žalvario amžiuje baltų arealas siekė Oderio žemupį.'
   sudarymo_pagrindimas: 'Citata palaiko autorės siejimą su nurodytu požiūriu; sakinys gali būti enciklopediškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]'
   pagrindžia:
     - c-001
 
@@ -30,7 +30,7 @@ Dusburgietis teigia, kad manoma, kad žalvario amžiuje baltų arealas siekęs O
   global_id: t-60601
   teiginys: 'Marija Gimbutienė knygoje „Baltai“ aptarė politeistinę baltų religiją, Krivės funkcijas, Perkūną ir kitus baltų dievus.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie autorės nagrinėtas baltų religijos temas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

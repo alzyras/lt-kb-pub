@@ -57,7 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-31463
   teiginys: '1311 m. didysis Ordino komtūras pasiekė Šalčininkus, sunaikino tris pilis ir grįžo su dideliu grobiu bei 700 belaisvių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
   temporaliniai_duomenys: 'įvykio data: 1311 m.; įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

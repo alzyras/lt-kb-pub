@@ -27,7 +27,7 @@ Dusburgietis teigia, kad pirmąjį Dusburgiečio kronikos leidimą parengė K.
   global_id: t-61225
   teiginys: 'Pirmąjį Dusburgiečio kronikos leidimą K. Hartknochas parengė Karaliaučiuje 1679 m.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo leidėją, vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1679 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo leidėją, vietą ir metus.'

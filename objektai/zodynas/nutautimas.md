@@ -23,7 +23,7 @@ Apskritai tautiška S.S.S.R-os lietuvių būklė gana liūdna: ten sparčiai ein
   global_id: t-100285
   teiginys: 'Šapokos redaguotoje Lietuvos istorijoje teigta, kad SSRS lietuvių nutautimą spartino atskyrimas nuo tautos kamieno ir komunistinis auklėjimas.'
   sudarymo_pagrindimas: 'Teiginys perteikia vertinamąją interpretaciją, todėl reikalinga šaltinio atribucija ir tvarkingesnė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
 

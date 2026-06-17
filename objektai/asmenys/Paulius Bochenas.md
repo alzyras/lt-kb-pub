@@ -32,7 +32,7 @@ Paulius Bochenas, neturė­ damas už ką minėtų mūrų remontuoti, mūrinį n
   global_id: t-87817
   teiginys: '1677 m. Paulius Bochenas pardavė mūrinį namą Bernardinų gatvėje Eustachijui Kotovičiui už 750 auksinų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'prekybos laikotarpis: 1677 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą pardavimą, vietą, pirkėją ir sumą.'

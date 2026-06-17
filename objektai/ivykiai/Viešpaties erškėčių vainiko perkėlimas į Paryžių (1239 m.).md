@@ -45,9 +45,9 @@ Nenurodyta
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti triukšmą ir suformuluoti aiškų sakinį.'
-  susije_objektai: 'territory: Konstantinopolis; territory: Paryžius; territory: Prancūzija; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1239 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas buvo valdovas Konstantinopolis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas buvo valdovas Paryžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1239 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet reikia pašalinti triukšmą ir suformuluoti aiškų sakinį.'
   pagrindžia:
     - c-001

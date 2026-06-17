@@ -32,7 +32,7 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   global_id: t-64802
   teiginys: 'H. Paszkiewicziaus darbas cituojamas aiškinant, kad 1262 m. žygį organizavo Mindaugas, o kariuomenei vadovavo Treniota.'
   sudarymo_pagrindimas: 'Teiginys iš esmės pagrįstas, bet pataisytas į aiškesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys iš esmės pagrįstas, bet pataisytas į aiškesnį enciklopedinį sakinį.'
@@ -44,7 +44,7 @@ Dusburgietis teigia, kad paszkiewicz H datuojamas ir 1263 m.) organizavo Mindaug
   global_id: t-64803
   teiginys: 'H. Paszkiewicziaus darbas sieja aptariamą antpuolį su Traidenio politika vakaruose.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi klaidingą atribuciją Dusburgiečiui ir neaiškų įvardį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 

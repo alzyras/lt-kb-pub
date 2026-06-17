@@ -23,7 +23,7 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys perrašytas be fragmentų ir su aiškiais veikėjais bei veiksmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Kopylis; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Kopylis; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

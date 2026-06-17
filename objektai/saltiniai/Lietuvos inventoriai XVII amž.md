@@ -26,7 +26,7 @@ Juču jis sudarė rinkinį «Lietuvos inventoriai XVII amž. » (1962).
 - t-001
   global_id: t-31812
   teiginys: 'Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_person: [[objektai/autoriai/K. Jablonskis|K. Jablonskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Jablonskis|K. Jablonskis]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1962 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

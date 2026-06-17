@@ -30,10 +30,7 @@ Vartojamos formos: `pažines`.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
-- susijęs iš [[objektai/grupes/Finikiečiai.md#claim-t-07833|Finikiečiai]]: Finikiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
-- susijęs iš [[objektai/zodynas/Vartavodamos.md#claim-t-07753|vartavodamos]]: `Vartavodamos` šaltinyje reiškia prekiaujant ar mainant.
-- susijęs iš [[objektai/zodynas/Vartavodamos.md#claim-t-07754|vartavodamos]]: Vartavodamos Daukanto tekste vartojamas kalbant apie javų pirkimą pigiai ir pardavimą brangiai.
+
 ## Reikšmingi paminėjimai
 
 - c-001

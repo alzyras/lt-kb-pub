@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-75311
   teiginys: '1972 m. kovo 19 d. grupė dvasininkų pradėjo leisti „Lietuvos katalikų bažnyčios kroniką“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'

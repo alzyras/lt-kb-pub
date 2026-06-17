@@ -21,7 +21,7 @@ tags:
   global_id: t-88514
   teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų į Gdanską prekybos reikalais vykstančiam Vilniaus gyventojui Bomannui.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas kaip aiškus faktas apie laišką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Bomannas|Bomannas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

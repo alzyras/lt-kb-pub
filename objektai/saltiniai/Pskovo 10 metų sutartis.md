@@ -24,7 +24,7 @@ Bet daugiausia Vytautas širdo ant Livonijos Ordino, kuris tuo pat laiku, kai Ko
   global_id: t-36105
   teiginys: 'Livonijos Ordinas sudarė su Pskovu dešimties metų sutartį, nukreiptą prieš Vytautą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie sutartį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Konstancija; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

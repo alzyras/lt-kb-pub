@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-59693
   teiginys: 'Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija; citata leidžia aiškiai įvardyti Ruseinį ir kryžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

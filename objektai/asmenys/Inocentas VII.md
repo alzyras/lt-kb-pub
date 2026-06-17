@@ -22,7 +22,7 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   global_id: t-35101
   teiginys: 'Inocentas VII, Gregorijus XII ir Aleksandras V remdavo Vytautą prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir apima citatoje minimą Inocentą VII.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras V|Aleksandras V]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Gregorijus XII|Gregorijus XII]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXIII|Jonas XXIII]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aleksandras V|Aleksandras V]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus XII|Gregorijus XII]]; mentioned_person: [[objektai/asmenys/Jonas XXIII|Jonas XXIII]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-184254|Bonifacas IX]]: 1388–1404 m. popiežiai Urbonas VI, Bonifacas IX ir Inocentas VII bulėmis draudė Vokiečių ordinui pulti lietuvius kaip neofitus.

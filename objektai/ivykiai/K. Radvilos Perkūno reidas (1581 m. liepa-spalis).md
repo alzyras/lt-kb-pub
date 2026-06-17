@@ -54,7 +54,7 @@ Nenurodyta
 - t-002
   global_id: t-78614
   teiginys: '1581 m. Kristupas Radvila Perkūnas prie Šelomos upės sumušė rusų dalinį ir pasuko į Rusijos gilumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Rusija; mentioned_place: Rževas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila Perkūnas|Kristupas Radvila Perkūnas]]; mentioned_place: Rusija; mentioned_place: Rževas'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-78616
   teiginys: 'Kristupo Radvilos pajėgos nusiaubė Dubno ir Opokos apylinkes, užėmė Cholmą ir sudegino Starają Rusą.'
   sudarymo_pagrindimas: 'Pradinis teiginys netiksliai apibendrina vietoves; citata leidžia tikslesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Cholmas; mentioned_place: Dubnas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Cholmas; mentioned_place: Dubnas; mentioned_place: Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys netiksliai apibendrina vietoves; citata leidžia tikslesnį faktą.'
@@ -85,7 +85,7 @@ Nenurodyta
 - t-005
   global_id: t-78617
   teiginys: 'Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Starica; mentioned_place: Toropecas; mentioned_place: Urdomas; mentioned_place: Volga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Starica; mentioned_place: Toropecas; mentioned_place: Urdomas; mentioned_place: Volga'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -96,7 +96,7 @@ Nenurodyta
   global_id: t-78618
   teiginys: 'Kristupo Radvilos Perkūno reido metu lietuvių pajėgos nusiaubė Dubno apylinkes, užėmė Cholmą, sudegino Starają Rusą ir nusiaubė Opokos apylinkes.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio antraštės triukšmas, palikti citatos faktai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Dubnas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Dubnas; mentioned_place: Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio antraštės triukšmas, palikti citatos faktai.'

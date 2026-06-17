@@ -33,7 +33,7 @@ LDT gyvavimui didelę įtaką turėjo 1940 m. liepos 15 d. JAV prezidento Lietuv
   global_id: t-78126
   teiginys: '1940 m. liepos 15 d. F. Ruzvelto įsakymas įšaldė JAV bankuose laikytas Baltijos valstybių lėšas.'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą apie įsakymo turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1940-1983; įvykio data: 1948 m.; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata pagrindžia aiškų faktą apie įsakymo turinį.'

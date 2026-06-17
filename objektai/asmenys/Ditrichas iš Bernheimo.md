@@ -33,7 +33,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   global_id: t-59905
   teiginys: 'Prie Renzeno pelkės Ditrichas iš Bernheimo siūlė pulti tą priešo kariuomenės dalį, kuri dar nebuvo perėjusi pelkės.'
   sudarymo_pagrindimas: 'Citata remia Ditricho pasiūlymą; pradinis teiginys nutrūksta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Kulmas'
+  susije_objektai: 'mentioned_place: Kulmas'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   global_id: t-59906
   teiginys: 'Ditrichas iš Bernheimo, palikęs dalį brolių ir ginklanešių saugoti pilies, nugabeno šventas relikvijas į Kulmą.'
   sudarymo_pagrindimas: 'Citata remia faktą, bet pradinis teiginys turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Kulmas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsija'
   pagrindžia:
     - c-005
 
@@ -51,7 +51,6 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   global_id: t-59907
   teiginys: '1243 m. Ditrichas iš Bernheimo su nedidele kariuomene stojo į kovą, nukovė 900 priešų ir paėmė 400 arklių.'
   sudarymo_pagrindimas: 'Citata remia kovos rezultatą; pašalintas religinis ir neaiškus kontekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia kovos rezultatą; pašalintas religinis ir neaiškus kontekstas.'
@@ -63,7 +62,7 @@ Dusburgietis teigia, kad be to, maršalu pasiuntė brolį Ditrichą iš Bernheim
   global_id: t-59908
   teiginys: 'Hermanas iš Zalcos pasiuntė Ditrichą iš Bernheimo eiti maršalo pareigų į Prūsiją.'
   sudarymo_pagrindimas: 'Citata remia paskyrimą maršalu, bet pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Prūsija; mentioned_place: Vitchendorfas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kaimas; mentioned_place: Prūsija; mentioned_place: Vitchendorfas'
   pagrindžia:
     - c-004
 

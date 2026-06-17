@@ -44,7 +44,7 @@ Nenurodyta
   teiginys: '1316 m. vasarą Ragainės broliai Medininkų valsčiuje sudegino du kaimus, išžudė vyrus, o moteris ir vaikus paėmė į nelaisvę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje nurodytą įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje nurodytą įvykį.'

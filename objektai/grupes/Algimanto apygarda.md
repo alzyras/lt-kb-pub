@@ -31,7 +31,7 @@ amziai:
   global_id: t-78161
   teiginys: 'Antanas Slučka-Šarūnas, Algimanto apygardos vadas, žuvo susisprogdinus partizanams kartu su žmona ir dar vienu partizanu.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Pasvalys; mentioned_place: Salos; mentioned_place: Subačius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Pasvalys; mentioned_place: Salos; mentioned_place: Subačius'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas; citata palaiko sakinį apie apygardos vadą ir jo žūtį.'

@@ -49,7 +49,7 @@ Nenurodyta
 - t-002
   global_id: t-05335
   teiginys: 'Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
 
@@ -57,7 +57,7 @@ Nenurodyta
 - t-003
   global_id: t-10812
   teiginys: 'Laidodami lavonus aisčiai į kapą dėdavo įkapes, o laidojimo būdas buvo nevienodas: žymesniuosius sudegindavo, kitus laidodavo nesudegintus su daiktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,7 @@ Nenurodyta
 - t-004
   global_id: t-10813
   teiginys: 'Aisčiai rengdavo vėlių garbinamąsias šventes, vadinamas vėlinėmis, per kurias aukodavo aukas, o vėlėms nuliedavo gėrimų ir numesdavo maisto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-12418
   teiginys: 'Aisčių laidotuvių paprotys numatė, kad su kilmingo žmogaus lavonu sudegindavo ginklus, arklį, tarnus, moteris ir karo žygiui reikalingus daiktus.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet pritaikytas note objektui ir sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-005
 
@@ -82,7 +82,6 @@ Nenurodyta
 - t-006
   global_id: t-12419
   teiginys: 'Vėlinių dienomis gyvieji, rūpindamiesi vėlių likimu, Žeminei nuliedavo gėrimų ir numesdavo valgio, o vėles laikė galinčiomis pereiti į gyvulius, medžius ir kitus gamtos kūnus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]'
   pagrindžia:
     - c-006
 

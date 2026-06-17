@@ -31,7 +31,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   global_id: t-69174
   teiginys: 'Rudavos valsčiuje po stipraus puolimo buvo užimta pilis, o daug sembų išžudyta.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir išnašų triukšmas, paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Medenava; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Medenava; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -40,7 +40,7 @@ Nuterioję Sembą, lietuviai susirinko krūvon ties Rudavos (Rudau) bažnyt­ ka
   global_id: t-69175
   teiginys: 'Rudava buvo valsčius Semboje, kurio centras buvo Rudavos pilis į šiaurę nuo dabartinio Kaliningrado.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje pateiktą Rudavos vietą ir statusą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Medenava; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Medenava; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 

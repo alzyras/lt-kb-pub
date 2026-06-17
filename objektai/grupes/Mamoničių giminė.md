@@ -30,7 +30,7 @@ Dar prieš įžengiant karaliui Steponui į sostą, Lie­ tuvos piliečių broli
   global_id: t-86745
   teiginys: '1575 m. Vilniuje pas Kuzmą ir Luką Mamoničius Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino „Cztėry Ewangelje“.'
   sudarymo_pagrindimas: 'Pašalintas išnašos ir OCR triukšmas, paliktas faktas apie Mamoničius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Petras Timofiejevas Mstislavliškis|Petras Timofiejevas Mstislavliškis]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ir OCR triukšmas, paliktas faktas apie Mamoničius.'

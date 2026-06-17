@@ -22,7 +22,7 @@ Liudvikas raitas atjojo į susitikimą, kuriame pagerbė Maksimilijoną kaip tė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko veiksmą, o pradinė formuluotė yra nesklandi ir mažai informatyvi.'
-  susije_objektai: 'mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 

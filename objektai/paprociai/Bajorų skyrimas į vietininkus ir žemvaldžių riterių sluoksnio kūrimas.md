@@ -49,7 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-54210
   teiginys: 'Vytauto politikoje svarbia socialine permaina tapo žemvaldžių riterių sluoksnio kūrimas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Kijevas; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Luckas'
   temporaliniai_duomenys: 'įvykio data: 1394 m.; įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -59,7 +59,7 @@ Nenurodyta
 - t-002
   global_id: t-54211
   teiginys: 'Vytauto politikoje svarbios buvo socialinės permainos, kuriomis kurtas žemvaldžių riterių sluoksnis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Kijevas; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Luckas'
   temporaliniai_duomenys: 'įvykio data: 1394 m.; įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -37,7 +37,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   global_id: t-89539
   teiginys: 'Simono Grunau kronikoje Rikojoto šventykla aprašoma kaip papuošta trimis stabais, vaizduojančiais tris prūsų dievus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Simono Grunau kronikos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   global_id: t-89540
   teiginys: 'Simonas Grunau XVI a. 3-iajame dešimtmetyje parašė Prūsijos istoriją, kurioje plačiai rėmėsi Petru iš Dusburgo.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1529 m.; įvykio data: po 1521 m.; įvykio data: 1521 m.; įvykio data: 1529 m.; įvykio data: 1679 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia konkretesnį teiginį apie Simono Grunau kroniką.'
@@ -57,7 +57,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-003
   global_id: t-89541
   teiginys: 'Simono Grunau kronikoje Rikojotas apibūdinamas kaip prūsų dievų kulto centras.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -65,7 +65,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
 - t-004
   global_id: t-89542
   teiginys: 'Simono Grunau kronikoje Rikojotas vadinamas prūsų dievų kulto centru su ąžuolu ir po juo įsikūrusia šventykla.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -74,7 +74,7 @@ Simono Grunau kronika minima kaip Prūsijos šaltinis, kuriuo romantikai rėmė 
   global_id: t-89543
   teiginys: 'Romantikai rėmėsi XVI-XVII a. Prūsijos šaltiniais, kuriuose kronikininkai kalbėjo apie prūsų dievus.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas; citata leidžia sudaryti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

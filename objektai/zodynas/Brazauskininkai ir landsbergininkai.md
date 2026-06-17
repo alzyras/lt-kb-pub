@@ -30,7 +30,7 @@ Net buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „
   global_id: t-21986
   teiginys: 'Po 1992 m. ir 1996 m. rinkimų buvo sakoma, kad Lietuvos visuomenė suskilo į „brazauskininkus“ ir „landsbergininkus“.'
   sudarymo_pagrindimas: 'Citata leidžia pridėti kontekstą apie rinkimus ir padaryti teiginį enciklopediškesnį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„brazauskininkus“ ir „landsbergininkus“|„brazauskininkus“ ir „landsbergininkus“]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1992 m.; įvykio data: 1992 m.; įvykio data: 1993 m.; įvykio data: 1996 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti kontekstą apie rinkimus ir padaryti teiginį enciklopediškesnį.'

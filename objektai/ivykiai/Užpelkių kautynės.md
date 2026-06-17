@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-39139
   teiginys: '1949 m. rugpjūčio 13 d. Radviliškio rajono Užpelkių miške buvo sunaikintas Prisikėlimo apygardos štabas.'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Užpelkiai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_place: Užpelkiai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, gramatiškas ir tiksliai paremtas citata.'

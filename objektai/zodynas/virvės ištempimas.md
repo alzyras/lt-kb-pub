@@ -23,7 +23,7 @@ Nuo tol joks namas negalėjo būti statomas be miesto tarybos žinios ir be virv
   global_id: t-86626
   teiginys: 'Namas Vilniuje negalėjo būti statomas be miesto tarybos žinios ir virvės ištempimo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie statybos sąlygą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

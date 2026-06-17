@@ -17,7 +17,6 @@ tags:
   - kunigas
   - seimas
   - sąvoka
-  - vyskupas
 amziai:
   - 'XVI'
   - 'XIX'
@@ -35,7 +34,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   global_id: t-82098
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia trumpą faktą apie tribunolo įkūrimą Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos tribunolas|Vyriausiasis Lietuvos tribunolas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos tribunolas|Vyriausiasis Lietuvos tribunolas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1578 m.; įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia trumpą faktą apie tribunolo įkūrimą Lietuvoje.'
@@ -47,7 +46,7 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   global_id: t-82100
   teiginys: 'Lietuvai paskirtas Tribunolas 1581 m. buvo iškilmingai įvesdintas Vilniuje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir paremtas citata.'
@@ -78,32 +77,21 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu ir turi perteklinį paaiškinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Rusija'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Ignotas Houvaitas.md#claim-t-87692|Ignotas Houvaitas]]: Ignotui Houvaitui, Smolensko kanauninkui ir Pabaisko klebonui, 1787 m. lapkričio 28 d. buvo išduotas fundacijos privilegijos išrašas.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103038|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103050|Jurgis Radvila (vyskupas, XVI a.)]]: Vilniaus vyskupas Jurgis Radvila 1582 m. iš vyskupo dvaro pajamų įkūrė seminariją dvasinei jaunuomenei lavinti.
 - susijęs iš [[objektai/autoriai/A. Janulaitis.md#claim-t-100104|A. Janulaitis]]: Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą «Lietuvos bajorai ir jų seimeliai 1795-1863 » (1936).
 - susijęs iš [[objektai/autoriai/Aug. Janulaitis.md#claim-t-30563|Aug. Janulaitis]]: Aug. Janulaitis, surinkęs daug archyvinės medžiagos, parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.
 - susijęs iš [[objektai/autoriai/Ignacas Onacevičius.md#claim-t-81906|Ignacas Onacevičius]]: Profesorius Onacevičius 1823 m. Varšuvoje išleido Albertrandžio rankraščiais paremtą veikalą „Stepono Batoro valdymas“.
-- susijęs iš [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai.md#claim-t-87012|Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]: Pabaisko fundacijos privilegija buvo parašyta lotynų kalba ant daugiau negu uolekties ilgio ir pločio pergamento.
-- susijęs iš [[objektai/daiktai/Pabaisko fundacijos privilegijos pergamentas ir antspaudai.md#claim-t-87014|Pabaisko fundacijos privilegijos pergamentas ir antspaudai]]: Žygimanto sudaryta Pabaisko fundacijos privilegija buvo įrašyta į LDK Vyriausiojo Tribunolo Viešųjų reikalų knygas.
-- susijęs iš [[objektai/grupes/7-ojo fuzilierių regimento.md#claim-t-40828|7-ojo fuzilierių regimento]]: Balandžio 23 d. Vilniaus puolime dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
-- susijęs iš [[objektai/grupes/LDK 4-ojo pėstininkų regimento.md#claim-t-40976|LDK 4-ojo pėstininkų regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos LDK 4-ojo pėstininkų regimento kuopos.
-- susijęs iš [[objektai/grupes/LDK tribunolo vengrų vėliavos dalinys.md#claim-t-40977|LDK tribunolo vengrų vėliavos dalinys]]: Vilniaus puolime balandžio 23 d. dalyvavo 50 LDK tribunolo vengrų vėliavos dalinio karių.
 - susijęs iš [[objektai/grupes/Lietuvos Karininkų Ramovė.md#claim-t-31288|Lietuvos Karininkų Ramovė]]: Lietuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią monografiją apie Kęstutį, bet ją išspausdinti sutrukdė 1940 m. įvykiai.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113374|Vyriausiasis Lietuvos tribunolas]]: 1785 m. kovo 14 d. Vyriausiasis Lietuvos tribunolas Vilniuje pavedė Pabaisko bažnyčios fundacijos privilegiją įrašyti į Tribunolo viešąsias knygas.
 - susijęs iš [[objektai/grupes/Vyriausiasis Lietuvos tribunolas.md#claim-t-113375|Vyriausiasis Lietuvos tribunolas]]: Steponui Batorui 1578 m. Lenkijoje įkūrus bajorijos renkamą tribunolą, netrukus toks tribunolas buvo įsteigtas ir Lietuvoje.
-- susijęs iš [[objektai/grupes/ojo fuzilierių regimento.md#claim-t-80650|ojo fuzilierių regimento]]: Vilniaus puolime balandžio 23 d. dalyvavo dvi sumažintos 7-ojo fuzilierių regimento kuopos.
 - susijęs iš [[objektai/ivykiai/Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.).md#claim-t-66984|Vyriausiojo Lietuvos tribunolo įkūrimas (1581 m.)]]: Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.
 - susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-183823|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: LDK Vyriausiasis Tribunolas priėmė fundacijos privilegiją ir pavedė ją žodis žodin įrašyti į viešųjų reikalų knygas.
-- susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87162|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.
-- susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87163|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1649 m. gruodžio 29 d. Jonas Kazimieras Pinkevičius pateikė Pabaisko klebonijos fundacijos privilegiją įrašyti į teismo aktų knygas.
 - susijęs iš [[objektai/paprociai/Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose.md#claim-t-02047|Vyriausiojo Lietuvos tribunolo teisėjų rinkimas seimeliuose]]: Vyriausiasis Lietuvos tribunolas buvo galutinai įkurtas 1581 m., o jo teisėjais buvo visų seimelių renkami bajorijos atstovai.
-- susijęs iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygos: 1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.
 - susijęs iš Lietuvos bajorai ir jų seimeliai 1795-1863: Janulaitis, surinkęs daug archyvinės medžiagos, 1936 m. parašė veikalą „Lietuvos bajorai ir jų seimeliai 1795-1863“.
-- susijęs iš Mykolo Kleofso Oginskio kunigaikštijos sudarymo projektas (1811 m.): Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.
 - susijęs iš Napoleono teisynas: Augustinas Janulaitis „Napoleono teisyną“ paskelbė 1930 m.
 - susijęs iš Napoleono teisynas: „Napoleono teisynas“ buvo išleistas 1930 m.
 - susijęs iš Stepono Batoro valdymas: 1581 m. Vilniuje iškilmingai įvesdintas Lietuvos Tribunolas išlaisvino karalių nuo varginančių pareigų.
@@ -113,14 +101,9 @@ Vyriausiojo Lietuvos tribunolo reikalas buvo svarstytas net keliuose atskiruose 
 - susijęs iš Vyriausias Lietuvos Tribunolas XVI-XVIII amž: „Vyriausias Lietuvos Tribunolas XVI-XVIII amž.“ buvo paminėtas tarp gausių autoriaus raštų ir datuotas 1927 m.
 - susijęs iš Žydai Lietuvoje: „Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.
 - susijęs iš Gardinas: XVIII a. tribunolas rinkdavosi tik Vilniuje ir Gardine.
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.
 - susijęs iš Vilnius: 1581 m. Vilniuje įvesdintas Lietuvos Tribunolas miestui suteikė daugiau orumo ir naudos.
 - susijęs iš Vilnius: 1544 m. Zigmantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir gavo valdžią Lietuvoje.
-- susijęs iš Vilnius: 1794 m. balandžio 23 d. Vilniaus puolime dalyvavo apie 580 Lietuvos karių ir 20 artilerijos pabūklų.
-- susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
 - susijęs iš [[objektai/zodynas/lotyniškos teismo ir dokumentų formulės.md#claim-t-86481|lotyniškos teismo ir dokumentų formulės]]: LDK Vyriausiasis Tribunolas priėmė Pabaisko bažnyčios fundacijos dokumentą ir pavedė jį įrašyti į Tribunolo viešąsias knygas.
-- susijęs iš [[objektai/zodynas/seimelis.md#claim-t-72755|seimelis]]: Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.
-- susijęs iš [[objektai/zodynas/uolektis.md#claim-t-82104|uolektis]]: Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.
 ## Reikšmingi paminėjimai
 
 - c-001

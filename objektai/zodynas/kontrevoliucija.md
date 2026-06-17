@@ -41,7 +41,7 @@ Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrevoliucijos pasisek
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Ryga; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Vokiečiai.md#claim-t-117307|Vokiečiai]]: Vokiečių Rygos pirkliai turėjo daug įtakos Jogailos kontrrevoliucijos sėkmei.
+
 ## Reikšmingi paminėjimai
 
 - c-001

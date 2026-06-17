@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-39143
   teiginys: 'Per Šiaurės karą 1700 m. Saksonijos kariuomenė įžengė į Kuršą ir apsiautė Rygą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją, veiksmus ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šiaurės karas|Šiaurės karas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šiaurės karas|Šiaurės karas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Saksonija'
   temporaliniai_duomenys: 'įvykio data: 1700 m.; įvykio data: 1702 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją, veiksmus ir yra pagrįstas citata.'

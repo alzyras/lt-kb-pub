@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - pilis
-  - privilegija
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -43,7 +42,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   global_id: t-87416
   teiginys: 'Sugautas ir Vilniuje įkalintas Šach Achmedas kėlė rūpesčių karaliui ir seimui.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

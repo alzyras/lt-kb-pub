@@ -27,7 +27,7 @@ Dusburgietis teigia, kad powierski J.
   global_id: t-61244
   teiginys: 'J. Powierskio straipsnis apie Pamario ir prūsų sąjungos priežastis bei pradžią XIII a. paskelbtas 1969 m. ABS 6 tome.'
   sudarymo_pagrindimas: 'Citata palaiko autorių, temą ir publikavimo duomenis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Pamaris; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Pamaris; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1969 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, temą ir publikavimo duomenis.'

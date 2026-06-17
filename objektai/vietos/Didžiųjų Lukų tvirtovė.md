@@ -40,7 +40,7 @@ Buvo planuojama stambaus masto ilgalaikė kampanija, gal net visai Lietuvos Did�
   global_id: t-41677
   teiginys: 'Į Didžiųjų Lukų tvirtovę buvo nurodyta suvežti atsargas, kurių kariuomenei turėjo pakakti pusei metų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai susijęs su Didžiųjų Lukų tvirtove.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Lukomlis; mentioned_place: Polockas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; mentioned_place: Lukomlis; mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -28,7 +28,7 @@ periodo_grupes:
 - t-001
   global_id: t-40248
   teiginys: 'K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Tauragnai; mentioned_place: Utena'
+  susije_objektai: 'mentioned_place: Tauragnai; mentioned_place: Utena'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

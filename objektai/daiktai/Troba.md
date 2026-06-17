@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-08339
   teiginys: 'Troba buvo ketvirtasis trobesys, skirtas svečiams žiemą vaišinti.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,6 @@ Nenurodyta
   global_id: t-08340
   teiginys: 'Troboje buvo virenė, priemenė, alkierius, kakalys, kaminas ir dūmų kiaurynė.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-002
 
@@ -57,7 +56,7 @@ Nenurodyta
   global_id: t-08341
   teiginys: 'Troboje vyrai ir moterys vakarodami dirbo įvairius darbus, o be stiklo langų dar būdavo langeliai su lentelėmis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Juostos|Juostos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Juostos|Juostos]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/daiktai/Žibintojas.md#claim-t-08364|Žibintojas]]: Ant akmens, vadinamo žibintoju, sukurdavo ugnį vakarojant.

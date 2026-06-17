@@ -32,7 +32,7 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
   global_id: t-75538
   teiginys: 'Simono Stanevičiaus poezijos knygoje išspausdintas eilėraštis „Šlovė žemaičių“ laikytas etninių lietuvių tautinio kultūrinio sąjūdžio poetiniu manifestu.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima pašalinius faktus, todėl sutelktas į eilėraštį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_author: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir apima pašalinius faktus, todėl sutelktas į eilėraštį.'
@@ -43,7 +43,7 @@ poetas Simonas Stanevičius (1799–1848) išleido poezijos knygą, kurioje buvo
 - t-002
   global_id: t-75539
   teiginys: 'Eilėraštis „Šlovė žemaičių“ laikytas kone šio sąjūdžio himnu ar poetiniu manifestu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_author: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

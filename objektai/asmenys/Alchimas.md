@@ -21,7 +21,7 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   global_id: t-60232
   teiginys: 'Judas Makabėjus kovojo su Bachidu ir Alchimu, o po šių kautynių pats žuvo ir Izraelio kariuomenė turėjo bėgti.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Alchimo dalyvavimą, bet pradinis teiginys per ilgas.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Bachidas|Bachidas]]; counterparty: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Bachidas|Bachidas]]; counterparty: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
   semantiniai_rysiai: '[[objektai/asmenys/Alchimas|Alchimas]] kariavo prieš [[objektai/asmenys/Bachidas|Bachidas]]; [[objektai/asmenys/Alchimas|Alchimas]] kariavo prieš [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
   pagrindžia:
     - c-001

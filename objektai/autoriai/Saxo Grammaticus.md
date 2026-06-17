@@ -20,7 +20,7 @@ Iš XI-XII amž. danų šaltinių (Genealogia regum Danorum; Saxo Grammaticus) y
 - t-001
   global_id: t-30977
   teiginys: 'XI-XII a. danų šaltiniai, tarp jų Saxo Grammaticus, rodo, kad kuršiai ir sembai protarpiais mokėjo duoklę danams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   temporaliniai_duomenys: 'įvykio data: 3640 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -21,7 +21,7 @@ Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.
   global_id: t-187356
   teiginys: 'Toržokas šiame gabale minimas Toržoko kunigaikščio titulo kontekste.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sanguškos|Sanguškos]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sanguškos|Sanguškos]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Saladinas|Saladinas]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 

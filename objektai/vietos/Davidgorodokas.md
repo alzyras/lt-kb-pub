@@ -22,7 +22,7 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
   teiginys: 'Gorodokas veikiausiai tapatinamas su Davidgorodoku.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia komentare pateiktą tapatinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_place: Gričino pelkės; mentioned_place: Pripetė'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
   teiginys: 'Davidgorodokas lokalizuojamas apie 120 km į pietus nuo Slucko ir apie 12 km į pietus nuo Pripetės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos lokalizacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės; mentioned_place: Pripetė; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Gričino pelkės; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Gorodokas veikiausiai tapatinamas su Davidgorodoku. Davidgorodokas lokalizuojama
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai sujungia komentaro tapatinimą ir lokalizaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės; mentioned_place: Pripetė; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Gričino pelkės; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

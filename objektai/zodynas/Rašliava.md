@@ -48,7 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-168690
   teiginys: 'Pirmoji Lietuvos rašliava apibūdinama kaip istorinė ir publicistiška.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,7 +64,7 @@ Nenurodyta
   global_id: t-168695
   teiginys: 'Iškilus unijos klausimui, Lenkijoje atsirado publicistiškos rašliavos, kurioje Lietuva buvo žeminama kaip nedėkinga ir maištaujanti valstybė.'
   sudarymo_pagrindimas: 'Teiginys susietas su rašliava ir išvalytas nuo perteklinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

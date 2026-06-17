@@ -30,7 +30,7 @@ amziai:
   global_id: t-19657
   teiginys: 'Įkūrus Baltijos Valstybių Tarybą, jos posėdžiuose rengta bendra užsienio politikos pozicija.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'

@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87175
   teiginys: 'Pasakojime Germantas Šventaragio slėnį paskyrė savo tėvo Šventaragio ir savo įpėdinių kapavietėms.'
   sudarymo_pagrindimas: 'Citata pateikia legendinį pasakojimą; teiginys sutrumpintas ir išvalytas nuo fragmentų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1268 m.; įvykio data: apie 1268 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia legendinį pasakojimą; teiginys sutrumpintas ir išvalytas nuo fragmentų.'
@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-87176
   teiginys: 'Šventaragio slėnyje pagal lietuvių pagonių papročius degindavo mirusiųjų kūnus, tarp jų ir Lietuvos kunigaikščių palaikus.'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas, aiškus ir pagrįstas citatos turiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

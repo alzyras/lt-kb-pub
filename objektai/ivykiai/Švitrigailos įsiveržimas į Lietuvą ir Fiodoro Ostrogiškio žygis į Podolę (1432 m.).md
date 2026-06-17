@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas numanomas veikėjas ir pašalinta fragmentiška forma.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 

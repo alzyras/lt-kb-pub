@@ -24,7 +24,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
   global_id: t-101565
   teiginys: 'LDK visuomenei europėjant susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.'
   sudarymo_pagrindimas: 'Pirminis teiginys per platus žodyno objektui; citata leidžia glaustai teigti apie bajorų tautos susiformavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Krikščioniškasis mentalitetas įsigali bent jau tarp visuomenės elito (antem
 - t-002
   global_id: t-101566
   teiginys: 'Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 

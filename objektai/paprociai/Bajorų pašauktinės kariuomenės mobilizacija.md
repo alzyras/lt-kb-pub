@@ -40,7 +40,7 @@ Nenurodyta
 - t-001
   global_id: t-09545
   teiginys: 'Po totorių plėšimų buvo paskelbta bajorų mobilizacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]'
   pagrindžia:
     - c-001
 

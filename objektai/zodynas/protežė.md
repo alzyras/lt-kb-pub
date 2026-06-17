@@ -20,7 +20,7 @@ Vytautas padėti neatsisakė, nes gerai suprato, kad, turėdamas chaną sa­ vo 
 - t-001
   global_id: t-36825
   teiginys: 'Vytautas sutiko padėti chanui, nes tikėjosi, kad turėdamas jį savo protežė sustiprins santykius su totoriais ir Rusia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Rusia'
   pagrindžia:
     - c-001
 

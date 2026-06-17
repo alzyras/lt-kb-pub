@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-171452
   teiginys: 'Sausio 11-13 d. priesaika sudarė teisinį pagrindą Lietuvos piliečiui ginti savo valstybę ginklu, o gynyboje dalyvavo kariai savanoriai, KAD darbuotojai, pasieniečiai, apsaugos pareigūnai ir šauliai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -70,7 +70,7 @@ Nenurodyta
   global_id: t-171455
   teiginys: 'Pirmomis sausio įvykių dienomis mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo užduotį ginti rūmus ir jų išorinį perimetrą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir paremtas pateikta citata.'
@@ -81,7 +81,7 @@ Nenurodyta
 - t-005
   global_id: t-171457
   teiginys: 'Sausio 13-osios naktį žuvo 14 laisvės gynėjų, netoli tūkstančio buvo sužeisti, o Parlamento užpuolikai nebepuolė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -90,7 +90,7 @@ Nenurodyta
   global_id: t-171458
   teiginys: '1991 m. sausio 11–12 d. Aukščiausiosios Tarybos rūmų viduje spygliuota viela apraizgyti praėjimai ir ventiliacinės angos, o pirmasis aukštas sutvirtintas smėlio maišais bei armatūros tinklais.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir suformuluotas vientisas faktinis sakinys.'
@@ -101,7 +101,7 @@ Nenurodyta
 - t-007
   global_id: t-171459
   teiginys: 'Pirmosiomis savaitėmis po kruvinosios nakties buvo įrengtos smėlio, akmenų ir gelžbetonio barikados, o gynyba buvo planingai stiprinama.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Afganistanas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afganistanas'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -121,7 +121,7 @@ Nenurodyta
   global_id: t-171461
   teiginys: 'Artėjant 1991 m. rugpjūčio Maskvos pučui, Lietuvos kariai jau turėjo pirmąsias uniformas, o Aukščiausiosios Tarybos gynyba buvo geriau organizuota.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, o sakinys suformuluotas be OCR triukšmo.'
@@ -132,7 +132,7 @@ Nenurodyta
 - t-010
   global_id: t-171462
   teiginys: '1991 m. sausio 13-osios naktį užpuolimas buvo įvardytas kaip karinė agresija ir svetimos jėgos primestas karo stovis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -143,7 +143,7 @@ Nenurodyta
   global_id: t-171463
   teiginys: '1991 m. sausio 11–13 d. Aukščiausiosios Tarybos rūmuose duota Lietuvos kario savanorio priesaika tapo teisiniu pagrindu piliečiui ginklu ginti valstybę.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį be nutrūkusių kabučių ir perteklinio fragmento.'
@@ -155,7 +155,7 @@ Nenurodyta
   global_id: t-171464
   teiginys: 'Pirmomis sausio įvykių dienomis tik mažesnioji Aukščiausiosios Tarybos gynėjų dalis turėjo aiškesnę užduotį ginti rūmus ir jų išorinį perimetrą.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, kad teiginys būtų aiškesnis viešai bazei.'

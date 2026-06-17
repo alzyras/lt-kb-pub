@@ -23,7 +23,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   global_id: t-29017
   teiginys: 'Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui.'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau suformuluoti, kokią žinią pateikė kronikininkas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,7 @@ Daug įdomių žinių iš to laikotarpio yra patiekęs kronikininkas Jonas von P
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį enciklopedinį sakinį apie Posilgės pateiktas žinias.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-184350|J. Posilge]]: Kronikininkas Jonas von Posilge pateikė žinių apie Žemaičių pasidavimą Ordinui ir krašto kilmingųjų duotus įkaitus.

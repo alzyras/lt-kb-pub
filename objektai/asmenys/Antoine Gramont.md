@@ -39,7 +39,7 @@ LDK didysis etmonas pasiuntė keletą lengvosios kavalerijos - „lisovčikų“
 - t-002
   global_id: t-40035
   teiginys: 'Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/lengvoji kavalerija|lengvoji kavalerija]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1663-1664; įvykio data: 1664 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

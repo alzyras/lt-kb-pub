@@ -30,7 +30,7 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
   global_id: t-115142
   teiginys: 'Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją bei plėsti savo ekspansiją toliau į Lenkijai priklausiusios Ukrainos teritoriją.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Turkija; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Turkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
 
@@ -152,5 +152,5 @@ Turkija siekė užvaldyti visą vidinių kovų draskomą Moldaviją ir Valakiją
 - [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Valakija
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Valakija
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Valakija
-- [[objektai/asmenys/Vasilijus]] keliavo_i Valakija
 - [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Valakija
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Valakija

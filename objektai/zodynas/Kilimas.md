@@ -40,7 +40,7 @@ Vartojamos formos: `sage`, `sagše`, `vilnonę`.
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Kilimas.md#claim-t-08296|Kilimas]]: `Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

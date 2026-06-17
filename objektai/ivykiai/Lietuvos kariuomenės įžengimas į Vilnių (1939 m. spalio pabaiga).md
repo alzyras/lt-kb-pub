@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-75151
   teiginys: '1939 m. spalio pabaigoje Lietuvos kariuomenė įžengė į Vilnių.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR ir antraštės triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir antraštės triukšmo.'
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-75152
   teiginys: 'Vilniaus, istorinės sostinės, atgavimas buvo šviesus įvykis niūrioje Lietuvos priklausomybės nuo SSRS situacijoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys kalba apie neįvardytą sutartį, todėl geriau remtis citatos dalimi apie Vilniaus atgavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys kalba apie neįvardytą sutartį, todėl geriau remtis citatos dalimi apie Vilniaus atgavimą.'

@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   global_id: t-60271
   teiginys: 'Egidijus buvo augustinų ordino mokytojas, o popiežius Bonifacas VIII jį paskyrė Beri arkivyskupu.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs citatos fragmentas su antraštės triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]; mentioned_place: Paryžius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Bonifacas VIII|Bonifacas VIII]]; mentioned_place: Paryžius'
   pagrindžia:
     - c-001
 
@@ -43,15 +43,13 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Avinjonas; location: Paryžius; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Avinjonas; mentioned_place: Paryžius'
+  susije_objektai: 'location: Avinjonas; location: Paryžius; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Avinjonas; mentioned_place: Paryžius'
   semantiniai_rysiai: '[[objektai/asmenys/Egidijus|Egidijus]] mirė Avinjonas; [[objektai/asmenys/Egidijus|Egidijus]] mirė Paryžius'
   temporaliniai_duomenys: 'mirties data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Egidijus (arkivyskupas, XIV a.) mirė Avinjonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Egidijus (arkivyskupas, XIV a.) mirė Paryžius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-184047|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
-- susijęs iš [[objektai/asmenys/Bonifacas VIII.md#claim-t-59901|Bonifacas VIII (arkivyskupas, XIII–XIV a.)]]: Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.
 - susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.
 - susijęs iš Paryžius: Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 ## Reikšmingi paminėjimai

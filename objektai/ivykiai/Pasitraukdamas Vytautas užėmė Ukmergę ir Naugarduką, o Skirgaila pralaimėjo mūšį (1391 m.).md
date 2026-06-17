@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio antraščių triukšmas ir aiškiai įvardyti veiksmai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardukas; mentioned_place: Prūsija; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardukas; mentioned_place: Prūsija; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 

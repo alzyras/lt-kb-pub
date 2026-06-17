@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata apie žygį į Riazanės valdas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]]; mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Riazanė; mentioned_place: Volga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Simonas Lengvenis|Simonas Lengvenis]]; mentioned_place: Donas; mentioned_place: Lietuva; mentioned_place: Mstislavlis; mentioned_place: Riazanė; mentioned_place: Volga'
   pagrindžia:
     - c-001
 

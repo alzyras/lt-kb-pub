@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-100031
   teiginys: 'Dėl Andriaus Algirdaičio sukilimo Jogailos padėtis pasunkėjo, todėl jis ieškojo artimesnio ryšio su kryžiuočiais.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir pridėtas citatoje paremtas ryšys su įvykio objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Starodubas; mentioned_place: Trubčevskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Starodubas; mentioned_place: Trubčevskas'
   temporaliniai_duomenys: 'įvykio data: po 1377 m.; įvykio data: 1377 m.; įvykio data: 1379-1380; įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir pridėtas citatoje paremtas ryšys su įvykio objektu.'

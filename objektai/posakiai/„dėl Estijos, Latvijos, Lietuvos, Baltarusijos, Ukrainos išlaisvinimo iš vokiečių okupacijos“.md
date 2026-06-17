@@ -27,7 +27,7 @@ Rusijos bolševikai, apimti pasaulinės revoliucijos siekių, pradėjo revoliuci
   global_id: t-20891
   teiginys: 'Rusijos bolševikai siekė eksportuoti revoliuciją ir pasiuntė Raudonosios armijos divizijas paskui iš Lietuvos besitraukiančią vokiečių kariuomenę.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį.'

@@ -35,7 +35,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-105707
   teiginys: 'Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Simoną Daukantą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Telšiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Telšiai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Simoną Daukantą.'
@@ -47,7 +47,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-105708
   teiginys: 'Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.'
   sudarymo_pagrindimas: 'Pradinį sakinį verta sutrumpinti iki vieno tiesiogiai apie Daukantą pagrįsto fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Teodoras Narbutas|Teodoras Narbutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -55,7 +55,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
 - t-003
   global_id: t-105709
   teiginys: 'P. Malevskis buvo tiesioginis istoriko Simono Daukanto viršininkas Lietuvos Metrikos padalinyje prie Senato Trečiojo departamento.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_author: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-105710
   teiginys: 'Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir paremtas citata.'
@@ -76,7 +76,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-105711
   teiginys: 'Simonas Daukantas domėjosi M. Balinskio publikacijomis apie kultūrinį sąjūdį Žemaitijoje ir kitus kultūros klausimus.'
   sudarymo_pagrindimas: 'Citata remia teiginį, kad publikacijos sulaukė Daukanto dėmesio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vilniaus archeologijos komisija|Vilniaus archeologijos komisija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -85,7 +85,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-105712
   teiginys: 'Simono Daukanto tiesioginis viršininkas buvo Lietuvos Metrikos padalinio vadovas Pranciškus Malevskis.'
   sudarymo_pagrindimas: 'Citatoje tiesiogiai įvardytas Daukanto viršininkas ir jo pareigos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Danilavičius|Danilavičius]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_author: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -94,7 +94,7 @@ Būtent šis žinojimas įkvėpė Lietuvos šviesuolius (Simoną Daukantą, Jon�
   global_id: t-105713
   teiginys: 'Simoną Daukantą įkvėpė suvokimas, kad tautos ateičiai būtina tautos atmintis, todėl jis raštu įamžino Lietuvos praeitį.'
   sudarymo_pagrindimas: 'Teiginys buvo miglotas, todėl aiškiai įvardytas citatoje nurodytas įkvėpimo pagrindas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_object: [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]; mentioned_person: [[objektai/autoriai/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1859 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo miglotas, todėl aiškiai įvardytas citatoje nurodytas įkvėpimo pagrindas.'

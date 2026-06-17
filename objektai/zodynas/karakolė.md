@@ -57,7 +57,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
 - t-003
   global_id: t-42462
   teiginys: 'Švedų raitarai pasikliovė karakoliavimo taktika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_place: Austrija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_place: Austrija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Terminas žymi kovinę seką, kurioje eilės šaudo pakaitomis, nuolat persiriki
   global_id: t-42463
   teiginys: 'Švedų raitarai, pasikliaudami karakoliavimo taktika, vengdavo artimo mūšio.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie karakoliavimo taktiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Austrija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Austrija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

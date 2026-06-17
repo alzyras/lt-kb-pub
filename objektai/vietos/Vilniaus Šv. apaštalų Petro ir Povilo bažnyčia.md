@@ -21,7 +21,7 @@ Vienas didingiausių ir puošniausių LDK baroko interjerų – Vilniaus Šv. Su
   global_id: t-71981
   teiginys: 'Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.'
   sudarymo_pagrindimas: 'Citata leidžia pridėti datavimą ir suformuoti pilnesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -27,7 +27,7 @@ amziai:
 - t-001
   global_id: t-31727
   teiginys: 'J. Jakšto „Žalgirio mūšis“ paskelbtas Lietuvių enciklopedijos 35 tome, p. 158–163.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

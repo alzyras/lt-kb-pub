@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-179498
   teiginys: 'R. Volkaitė-Kulikauskienė parašė veikalus „Lietuviai IX-XII amžiais“ ir „Klasinės visuomenės susidarymas Lietuvoje“ archeologijos tema.'
   sudarymo_pagrindimas: 'Pradinis teiginys nepakankamai susietas su grupiniu pastabos objektu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_person: [[objektai/autoriai/R. Volkaitė-Kulikauskienė|R. Volkaitė-Kulikauskienė]]; mentioned_place: Kapitoniškiai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_author: [[objektai/autoriai/R. Volkaitė-Kulikauskienė|R. Volkaitė-Kulikauskienė]]; mentioned_place: Kapitoniškiai; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1955-1960; įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nepakankamai susietas su grupiniu pastabos objektu.'
@@ -43,7 +43,7 @@ periodo_grupes:
   global_id: t-179501
   teiginys: 'P. Kulikauskas, R. Kulikauskienė ir A. Tautavičius 1961 m. išleido knygą „Lietuvos archeologijos bruožai“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie archeologų išleistą knygą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Tautavičius|A. Tautavičius]]; mentioned_person: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_place: Kapitoniškiai; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Tautavičius|A. Tautavičius]]; mentioned_author: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_place: Kapitoniškiai; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1955-1960; įvykio data: 1960 m.; įvykio data: 1961 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata apie archeologų išleistą knygą.'

@@ -30,7 +30,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - t-001
   global_id: t-90065
   teiginys: 'Vladislovo Lokietkos suvienyta Lenkija siekė diplomatiškai atgauti Pomeraniją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Inovroclavas; mentioned_place: Lenkija; mentioned_place: Pomeranija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Inovroclavas; mentioned_place: Lenkija; mentioned_place: Pomeranija'
   temporaliniai_duomenys: 'įvykio data: 1320 m.; įvykio data: 1321 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -40,7 +40,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - t-002
   global_id: t-90066
   teiginys: 'Gedimino Lietuva buvo susitarusi su Vladislovu Łokietka dėl bendrų veiksmų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Palenkė'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -51,8 +51,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90067
   teiginys: 'Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra apie Dusburgiečio vertinimą, todėl palikta atribucija.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Gediminas|Gediminas]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/asmenys/Lokietka|Lokietka]]; counterparty: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; counterparty: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Lokietka|Lokietka]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Sventopelkas|Sventopelkas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Vladislovas|Vladislovas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Gediminas|Gediminas]]; counterparty: [[objektai/asmenys/Jogaila|Jogaila]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Jogaila|Jogaila]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-008
 
@@ -61,7 +61,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90068
   teiginys: '1326 m. Lokietka paprašė Lietuvos karaliaus Gedimino atsiųsti karių, ir Gediminas jam davė 1200 raitelių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos palaikomas faktas.'
@@ -73,7 +73,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90070
   teiginys: '1323 m. pabaigoje ar 1324 m. pradžioje Gedimino Lietuva, matyt, susitarusi su Vladislovu Lokietka, užėmė Bresto žemę arba Palenkę.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis šaltinio įvadas ir sutrumpinta iki aiškaus fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kijevas; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kijevas; mentioned_place: Palenkė'
   temporaliniai_duomenys: 'įvykio data: 1323 m.; įvykio data: 1324 m.; įvykio data: 1325 m.; įvykio data: apie 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis šaltinio įvadas ir sutrumpinta iki aiškaus fakto.'
@@ -84,7 +84,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 - t-006
   global_id: t-90071
   teiginys: 'Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -93,7 +93,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90072
   teiginys: 'Vasario 1 d. Vladislovas Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   sudarymo_pagrindimas: 'Pašalinti OCR ir antraštės fragmentai, paliktas aiškus įvykis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Čekija'
   pagrindžia:
     - c-004
 
@@ -102,7 +102,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90073
   teiginys: 'Kazimieras ir Lokietka, Lenkijos kunigaikščiai, dėl savo žmonių likimo paprašė Prūsijos magistro Meinhardo pagalbos.'
   sudarymo_pagrindimas: 'Teiginys perrašytas apie Lokietką, o ne apie Pukuvero žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-006
 
@@ -111,7 +111,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90075
   teiginys: 'Vladislovo Lokietkos laikais Lenkijos aristokratai ir dvasininkija pradėjo šaukti suvažiavimus ir tautos pasitarimus.'
   sudarymo_pagrindimas: 'Teiginys yra apie Vladislovo Lokietkos laikus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Šlėktų laisvė|Šlėktų laisvė]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Rusia'
   pagrindžia:
     - c-005
 
@@ -123,7 +123,7 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje buvo nukopijuota antraštė ir OCR triukšmas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Pamaris'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino sąjunga su Lenkija|Gedimino sąjunga su Lenkija]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Pamaris'
   pagrindžia:
     - c-010
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
@@ -334,12 +334,11 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 
 ## Ryšiai
 - Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Gediminas]]
+- Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Vladislovas Lokietka kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Lokietka]]
-- Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Sventopelkas]]
-- Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Vladislovas]]
 - Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Lenkija]]
 - Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Marienburgas]]
+- Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Čekija]]
 - Vladislovas Lokietka keliavo_i [[objektai/vietos/Lenkija]]
 - Vladislovas Lokietka keliavo_i [[objektai/vietos/Prutas]]
 - Vladislovas Lokietka keliavo_i [[objektai/vietos/Ukraina]]

@@ -54,7 +54,7 @@ Nenurodyta
   teiginys: '1302 m. iš Lietuvos atvykę plėšikautojai užpuolė penkis Lubavos žemės kaimus ir nužudė arba išsivarė į nelaisvę beveik 200 krikščionių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia konkretų faktą, o pradinis teiginys per ilgas ir su boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kristburgas; mentioned_place: Lietuva; mentioned_place: Lubava; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia konkretų faktą, o pradinis teiginys per ilgas ir su boilerplate.'

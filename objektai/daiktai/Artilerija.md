@@ -53,7 +53,7 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad 1501-1502 m. žiemą Aukso ordos totoriai nesulaukė realios paramos kariuomene, artilerija ir maistu iš Aleksandro ir LDK Ponų Tarybos.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Severskas; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Severskas; mentioned_place: Starodubas'
   temporaliniai_duomenys: 'įvykio data: 1501 m.; įvykio data: 1501-1502; įvykio data: 1502 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į vieną aiškų sakinį be antro aiškinamojo fragmento; teiginys remiasi komentaro citata.'

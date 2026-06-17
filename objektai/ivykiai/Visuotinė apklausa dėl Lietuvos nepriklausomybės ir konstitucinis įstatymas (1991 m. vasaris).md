@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-77911
   teiginys: 'Po Sausio 13-osios įvykių sovietų kariuomenė ir Lietuvai priešiškos jėgos kontroliavo Lietuvos radiją, televiziją ir kitus strateginius objektus.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti perteklinį kontekstą ir palikti aiškų sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

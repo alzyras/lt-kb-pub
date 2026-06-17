@@ -28,7 +28,7 @@ p. 234, „Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) Prisikėlimo apygardos
   global_id: t-41574
   teiginys: '„Partizanų šuvių aidas“ 1956 m. Nr. 1 (20) buvo Prisikėlimo apygardos partizanų leidinys.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Maironis|Maironis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1956 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'

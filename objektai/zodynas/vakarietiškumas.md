@@ -24,7 +24,7 @@ Nors sovietų valdžia netoleravo ir kitų konfesijų tikinčiųjų, juos persek
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116738|Katalikų Bažnyčia]]: Lietuva buvo vienintelė prie Sovietų Sąjungos prijungta katalikiška šalis, todėl sovietų valdžiai katalikybė siejosi su nepageidaujamu vakarietiškumu.
+
 ## Reikšmingi paminėjimai
 
 - c-001

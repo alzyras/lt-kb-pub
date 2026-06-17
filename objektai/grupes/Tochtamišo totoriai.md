@@ -23,7 +23,7 @@ tags:
 - t-001
   global_id: t-171389
   teiginys: 'Tochtamišo totoriai buvo įtraukti į Lietuvos jungtinių pajėgų sudėtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -31,7 +31,7 @@ tags:
 - t-002
   global_id: t-171391
   teiginys: 'Vytauto kariuomenėje prie Vorsklos buvo keli tūkstančiai Tochtamišo totorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Ragainė; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Ragainė; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ tags:
   global_id: t-171392
   teiginys: 'Dalis Tochtamišo karių prieš Vorsklos mūšį galėjo pereiti į chano Timūr-Kutluko šalininkų pusę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atsargiai perteikia citatoje nurodytą galimybę.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos katastrofa|Vorsklos katastrofa]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos katastrofa|Vorsklos katastrofa]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo sąrašo fragmentas, todėl perrašytas į sakinį apie note objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/emyras|emyras]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuvos jungtinės pajėgos|Lietuvos jungtinės pajėgos]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Edyga|Edyga]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Markvardas (Ragainės komtūras).md#claim-t-39600|Markvardas (Ragainės komtūras)]]: Ragainės komtūras Markvardas vadovavo 100 riterių kryžiuočių daliniui Vytauto kariuomenėje prie Kijevo.

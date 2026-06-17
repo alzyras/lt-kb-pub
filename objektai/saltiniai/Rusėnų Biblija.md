@@ -32,7 +32,7 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
   global_id: t-78138
   teiginys: '1517–1519 m. Prahoje Pranciškus Skorina parengė ir išspausdino psalmyną ir 22 Senojo Testamento knygas bendru pavadinimu „Rusėnų Biblija“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Praha; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Praha; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1517-1519; įvykio data: 1519 m.; įvykio data: 1522 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai remiasi citata.'

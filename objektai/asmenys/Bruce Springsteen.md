@@ -21,7 +21,7 @@ O dabar atspėkime, kas bendra tokiems pasaulinio garso muzikantams kaip Jimi He
   global_id: t-18860
   teiginys: 'Bruce Springsteenas grojo Tony’o Zemaicio sukurta gitara „Zemaitis“.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų faktą, o pradinis sakinys yra klausimas ir ne enciklopedinė formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Gitara „Zemaitis“|Gitara „Zemaitis“]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Gitara „Zemaitis“|Gitara „Zemaitis“]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Londonas'
   pagrindžia:
     - c-001
 

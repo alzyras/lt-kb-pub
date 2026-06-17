@@ -22,7 +22,7 @@ Dusburgietis teigia, kad kai kitą dieną pranešė broliui Heinemanui apie šio
   global_id: t-59071
   teiginys: 'Sužinojęs apie brolio Fridricho mirtį, brolis Heinemanas sakė, kad abu turėjo kartu keliauti ten, kur amžinos linksmybės.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi neaiškų įvardį; citata leidžia įvardyti Fridrichą ir Heinemaną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Heinemanas (Marienburgo brolis)|Heinemanas (Marienburgo brolis)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Heinemanas (Marienburgo brolis)|Heinemanas (Marienburgo brolis)]]'
   pagrindžia:
     - c-001
 

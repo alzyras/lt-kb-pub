@@ -34,7 +34,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 - t-001
   global_id: t-55232
   teiginys: 'Prūsijos vyskupų laiškas dėl Vilniaus sutarties buvo parengtas Elbinge ir siųstas Livonijos bei Estijos bažnytiniams ir pasaulietiniams adresatams.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbingas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbingas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   global_id: t-55233
   teiginys: 'Prūsijos vyskupų laiškas ragino atmesti 1323 m. sutartį ir nenutraukti kovos su priešu.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti laišką ir sutartį pagal objekto pavadinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Oliva; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti laišką ir sutartį pagal objekto pavadinimą.'
@@ -54,7 +54,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
 - t-003
   global_id: t-55234
   teiginys: 'Laiško originalas datuotas 1323 m. pirmadieniu prieš Šv. Simono ir Judo šventę ir siejamas su Slaptojo archyvo signatūra Spinta XI, Nr. 18.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_place: Elbingas'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -65,7 +65,7 @@ Prūsijos vyskupų laiškas buvo reakcija į 1323 m. Vilniaus sutartį. Jame sut
   global_id: t-82034
   teiginys: 'Prūsijos vyskupai laiške 1323 m. taikos sutartį vadino velnio žabangomis ir gėda krikščioniškajam pasauliui.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko Prūsijos vyskupų laiško vertinimą dėl sutarties.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikolajus Kulmietis|Mikolajus Kulmietis]]; mentioned_place: Dorpatas; mentioned_place: Elbliongas; mentioned_place: Estija; mentioned_place: Livonija; mentioned_place: Pomezanija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Semba; mentioned_place: Varmė'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko Prūsijos vyskupų laiško vertinimą dėl sutarties.'

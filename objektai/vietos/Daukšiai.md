@@ -21,7 +21,7 @@ Prie Daukšių bazavosi „Muškietininkų“ būrys, vadovaujamas Vlado Gavėno
   global_id: t-41670
   teiginys: 'Remiantis KGB duomenimis, liepos 15 d. per operaciją Buktos miške ir Daukšių kaime žuvo partizanai Juozas Pūkas ir Motiejus Overa.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Daukšių būrys.md#claim-t-40873|Daukšių būrys]]: Sargyboje žuvo Daukšių būrio kovotojai Alfonsas Kirtiklis, Juozas Laukaitis ir dar šeši laisvės kovotojai.

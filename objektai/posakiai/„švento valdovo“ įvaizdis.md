@@ -24,7 +24,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
   global_id: t-20971
   teiginys: 'Vytauto politika buvo siejama su „švento valdovo“ įvaizdžiu, lyginant jį su šventuoju tapusiu Vengrijos valdovu Steponu.'
   sudarymo_pagrindimas: 'Pradinis teiginys negrabiai suformuluotas, bet citata remia glaustesnę versiją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Atrodo, kad visa Vytauto politika orientuota į „švento valdovo“ įvaizdį 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus autoriaus vertinimo apibendrinimas, paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-002
 

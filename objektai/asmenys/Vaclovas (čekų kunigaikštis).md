@@ -23,7 +23,7 @@ Dusburgietis teigia, kad šitai karaliui išpranašavo šventas Vaclovas, čekų
   global_id: t-60455
   teiginys: 'Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą.'
   sudarymo_pagrindimas: 'Kadangi kalbama apie legendinį pranašavimą, palikta šaltinio atribucija.'
-  susije_objektai: 'territory: Livonija; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Livonija'
+  susije_objektai: 'territory: Livonija; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Livonija'
   semantiniai_rysiai: '[[objektai/asmenys/Vaclovas (čekų kunigaikštis)|Vaclovas (čekų kunigaikštis)]] buvo valdovas Livonija'
   pagrindžia:
     - c-001

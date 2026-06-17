@@ -27,7 +27,7 @@ amziai:
 - t-001
   global_id: t-31881
   teiginys: 'P. Šležo „Kauno pilies išgriovimas“ paskelbtas „Židinyje“ 1932 m. Nr. 10, p. 271 ir toliau.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Kučinskas|A. Kučinskas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_place: Marijampolė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
   temporaliniai_duomenys: 'įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

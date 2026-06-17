@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-19204
   teiginys: 'Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.'
   sudarymo_pagrindimas: 'Citata pagrindžia trumpą biografinį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia trumpą biografinį faktą.'

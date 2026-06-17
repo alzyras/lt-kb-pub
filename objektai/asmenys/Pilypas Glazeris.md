@@ -23,7 +23,7 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   global_id: t-87832
   teiginys: 'Pilypas Glazeris su kitais skundėjais reikalavo, kad kaltinamasis pripažintų auksakalių cechą ir paklustų jo taisyklėms.'
   sudarymo_pagrindimas: 'Citata palaiko skundėjų reikalavimą, bet pradinė formuluotė yra negramatiškas fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Albertas Skvemevita.md#claim-t-87609|Albertas Skvemevita]]: Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.

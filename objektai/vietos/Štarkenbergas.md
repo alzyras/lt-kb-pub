@@ -15,7 +15,6 @@ tags:
   - pilis
   - upė
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'
@@ -33,7 +32,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   global_id: t-58490
   teiginys: '1326 m. antroji Štarkenbergo pilis buvo pastatyta kairiajame Osos krante, tarp upės ir Meino ežero.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia užbaigtą faktą apie antrosios pilies vietą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'pastatymo data: 1326 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata remia užbaigtą faktą apie antrosios pilies vietą.'
@@ -45,7 +44,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   global_id: t-58491
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė pastatyti Štarkenbergo pilį Osos pakrantėje.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies statybos įsakymą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Anonas (didysis magistras)|Anonas (didysis magistras)]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -54,7 +53,7 @@ Dusburgietis teigia, kad apie Starkenbergo pilies pastatymą ir daugybės krikš
   global_id: t-58492
   teiginys: 'Prūsai užėmė Štarkenbergo pilį, išžudė jos brolius ir gyventojus, o pačią pilį sudegino.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies užėmimą, žudynes ir sunaikinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Heidenreichas.md#claim-t-60301|Heidenreichas (vyskupas, XIII–XIV a.)]]: Pamokslininkų ordino brolis Heidenreichas antrosios atskalūnybės metais buvo Kulmo vyskupas.

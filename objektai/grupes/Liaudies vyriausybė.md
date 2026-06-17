@@ -30,7 +30,7 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   global_id: t-19797
   teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir nuo pirmųjų dienų keitė administraciją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Sniečkus'
   pagrindžia:
     - c-002
 
@@ -39,7 +39,7 @@ Taip birželio 17-ąją atsirado gudriai sumanyta savotiška pereinamojo laikota
   global_id: t-19798
   teiginys: '1940 m. birželio 17 d. sudaryta marionetinė Liaudies vyriausybė, į kurią įėjo A. Smetonos valdymą kritikavę inteligentai.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Liaudies vyriausybės sudarymą ir sudėtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Liaudies vyriausybės sudarymą ir sudėtį.'

@@ -29,7 +29,7 @@ JAV veikė didžiausia lietuvių išeivijos dalis, svarbiausios ir stipriausios 
   global_id: t-19960
   teiginys: 'Pasaulio lietuvių bendruomenė buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie organizaciją.'

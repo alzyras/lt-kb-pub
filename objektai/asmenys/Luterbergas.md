@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
-  - vyskupas
 ---
 # Luterbergas
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad be to, tas pats brolis Fridrichas pastatė Glotavos val
   global_id: t-60168
   teiginys: 'Luterbergas, Braunšveigo kunigaikščio sūnus ir Kristburgo komtūras, pastatė miestą prie Ilienburgo pilies.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir kontekstinis fragmentas apie kitą komtūrą; citata remia faktą apie Luterbergą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Ottonas Luterbergas.md#claim-t-39398|Ottonas Luterbergas]]: Livonijos magistras Ottonas Luterbergas buvo nukautas kovoje, kurioje žuvo ir 52 Ordino broliai.

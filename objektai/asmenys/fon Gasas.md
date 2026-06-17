@@ -21,7 +21,7 @@ Vilniaus karo apygardos Karo veiksmų juos miegančius gegužės 10 naktį apsup
 - t-001
   global_id: t-40560
   teiginys: 'Gegužės 10-osios naktį paporučikio fon Gaso dalinys apsupo miegančius sukilėlius ir paėmė juos į nelaisvę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

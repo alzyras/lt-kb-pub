@@ -22,7 +22,6 @@ Fridrichas buvo Meiseno markgrafas, kurio šeimos vyrai, pasak Kojelavičiaus, n
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko titulą ir autoriaus vertinamą šeimos kovinę reputaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]'
   pagrindžia:
     - c-001
 

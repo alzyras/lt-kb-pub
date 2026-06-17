@@ -29,14 +29,14 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
   global_id: t-19190
   teiginys: 'Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai susieti Petrą Cidziką su kalinimu ir antisovietine veikla.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia aiškiai susieti Petrą Cidziką su kalinimu ir antisovietine veikla.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
 - susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
+- susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
 - susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
 ## Reikšmingi paminėjimai
 
@@ -59,4 +59,7 @@ Terleckas – teisti po tris kartus, kalinti Nijolė Sadūnaitė, Petras Cidzika
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Petras Cidzikas
+- [[objektai/asmenys/Antanas Terleckas]] susije_su Petras Cidzikas
+- Petras Cidzikas susije_su [[objektai/vietos/Lietuva]]
+- Petras Cidzikas susije_su [[objektai/grupes/Lietuvos laisvės lyga]]
+- Petras Cidzikas susije_su [[objektai/asmenys/Romaldas Juozas Ragaišis]]

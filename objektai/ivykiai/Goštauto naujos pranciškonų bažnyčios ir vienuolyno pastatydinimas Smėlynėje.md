@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-86947
   teiginys: 'Goštautas Smėlynėje, netoli Vingrių šaltinių, pastatydino mūrinę pranciškonų bažnyčią ir vienuolyną.'
   sudarymo_pagrindimas: 'Teiginys tiksliai ir glaustai perteikia citatos faktą apie Goštauto statydinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
 

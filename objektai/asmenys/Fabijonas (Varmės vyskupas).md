@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-87667
   teiginys: 'Fabijonas buvo paskirtas Varmės vyskupu be valdovo pritarimo, bet jo paskyrimą vėliau sutikta pripažinti galiojančiu.'
   sudarymo_pagrindimas: 'Citata pagrindžia paskyrimą Varmės vyskupu ir jo pripažinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.

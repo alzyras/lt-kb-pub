@@ -29,7 +29,7 @@ amziai:
 - t-001
   global_id: t-31893
   teiginys: 'J. Remeikos „Prekyba Nemunu iki 1430“ 1962 m. paskelbta „Tautos Praeities“ I tomo 4 numeryje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1962 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

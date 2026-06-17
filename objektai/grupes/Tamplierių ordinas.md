@@ -21,7 +21,6 @@ tags:
   - karalius
   - ordinas
   - popiežius
-  - vyskupas
 amziai:
   - 'XII'
   - 'XIV'
@@ -51,7 +50,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   global_id: t-89287
   teiginys: 'Tamplierių ordinas siejamas su 1112 m. popiežiaus Paskalio II laikais, o 1312 m. kovo 23 d. popiežius Klemensas V jį panaikino Vieno suvažiavime.'
   sudarymo_pagrindimas: 'Reikia aiškesnės veiksmo formos ir pašalinti perteklinę detalę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   temporaliniai_duomenys: 'įvykio data: 1112 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškesnės veiksmo formos ir pašalinti perteklinę detalę.'
@@ -63,7 +62,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   global_id: t-89288
   teiginys: 'Tamplierių ordinas minimas prie 1112 metų popiežiaus Paskalio II laikais, o 1312 m. jį panaikino popiežius Klemensas V.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: dangling_initial'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   temporaliniai_duomenys: 'įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Rewrite failed deterministic gates: dangling_initial'
@@ -75,7 +74,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   global_id: t-89289
   teiginys: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė Tamplierių ordiną, įsteigtą 1112 m. Paskalio II laikais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   temporaliniai_duomenys: 'įvykio data: 1112 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, tikslus ir paremtas citata.'
@@ -87,7 +86,7 @@ Dusburgietis teigia, kad kita vertus, Ordino priešų veikla, kryžiuočiams kel
   global_id: t-89290
   teiginys: 'Neseniai Prancūzijoje likviduotas Tamplierių ordinas buvo pavyzdys, pagal kurį susikūrė ir egzistavo Teutonų ordinas.'
   sudarymo_pagrindimas: 'Reikia susieti teiginį su note objektu ir pašalinti silpną įžangą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ekskomunikuoti|ekskomunikuoti]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ekskomunikuoti|ekskomunikuoti]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia susieti teiginį su note objektu ir pašalinti silpną įžangą.'

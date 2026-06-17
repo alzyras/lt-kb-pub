@@ -22,7 +22,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
   teiginys: 'Kęstutis Lietuvos metraštyje apibūdinamas kaip Algirdo brolis, valdęs Trakus ir Žemaičių žemę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Valdovo statusas ir giminystės kontekstas palikti kaip metraščio apibūdinimas. Nepridėta informacijos apie Kęstučio sūnus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
@@ -32,7 +32,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
   teiginys: 'Lietuvos metraštyje Kęstutis nujoja į Žemaičius prašyti pagalbos po to, kai Jogaila be jo žinios užima Trakus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Motyvas ir kaltinantis Jogailos veiksmų vaizdavimas turi būti priskirti šaltiniui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-004
 
@@ -42,7 +42,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
   teiginys: 'Kęstutis, sušaukęs savo Žemaičių žemę ir kariuomenę, traukė prie Neries, kur susijungė su Vytauto kariuomene.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistas veiksmo kontekstas: Kęstučio sutelkta Žemaičių žemė siejama su žygiu prie Neries. Nepridėta daugiau Trakų apgulties detalių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Gardinas; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
   teiginys: 'Lietuvos metraštyje Vytautas, būdamas pas magistrą Marienburge, už tris šimtus tūkstančių auksinų užstato vokiečiams Žemaičių žemę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Kronikos pasakojimas apie politinį veiksmą perteiktinas tiksliau ir su šaltinio priskyrimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -62,7 +62,7 @@ Kęstutis sušaukė Žemaičių žemę ir visą kariuomenę. Vytautas užstatė 
   teiginys: 'Lietuvos metraštyje Kęstutis su žemaičiais ateina prie Trakų po to, kai Jogaila be Kęstučio žinios užima Trakus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Kaltinantis konflikto vaizdavimas turi būti išlaikytas kaip kronikos pasakojimas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/autoriai/J. Posilge.md#claim-t-29505|J. Posilge]]: Jonas von Posilge užrašė, kad Žemaičių žemė pasidavė Ordinui ir krašto kilmingieji davė daug įkaitų.

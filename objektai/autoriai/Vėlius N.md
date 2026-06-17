@@ -40,7 +40,7 @@ Dusburgietis teigia, kad 1-oje pusėje Įsrutiės ir kitose lietuviškose Rytpr�
   global_id: t-60564
   teiginys: 'N. Vėliaus darbas nurodytas tarp literatūros apie Romovę arba Romuvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia tik Vėliaus darbo įtraukimą į literatūrą apie Romovę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
   pagrindžia:
     - c-003
 

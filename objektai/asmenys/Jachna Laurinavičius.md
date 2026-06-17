@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - ordinas
-  - unija
 amziai:
   - 'XV'
 periodo_grupes:
@@ -34,7 +33,7 @@ Karaliaus pavedimu, kad neofitai įsi­ tvirtintų krikščionių tikėjime, 146
   global_id: t-87598
   teiginys: 'Jachna Laurinavičius Vilniaus vaitų sąraše nurodytas kaip žinomas nuo 1485 m.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra skyrybos ir OCR triukšmo, todėl jį reikia sugramatinti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1485 m.; įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra skyrybos ir OCR triukšmo, todėl jį reikia sugramatinti.'

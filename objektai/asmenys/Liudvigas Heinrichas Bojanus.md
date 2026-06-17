@@ -32,7 +32,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   global_id: t-78065
   teiginys: 'Liudvigas Heinrichas Bojanus dirbo Vilniaus universitete tarp tarptautiniu mastu žinomų mokslininkų.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Austrija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

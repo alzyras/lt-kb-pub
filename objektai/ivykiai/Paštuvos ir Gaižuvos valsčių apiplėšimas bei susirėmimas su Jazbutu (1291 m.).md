@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-66821
   teiginys: 'Gaižuva buvo į rytus nuo Dubysos žiočių ir į šiaurės vakarus nuo Vilkijos.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo bibliografinis fragmentas; citata palaiko aiškų geografinį faktą apie Gaižuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Medraba; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Veliuona; mentioned_place: Vilkaviškis; mentioned_place: Vilkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/papilys|papilys]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Dubysa; mentioned_place: Gaižuva; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Kulautuva; mentioned_place: Medraba; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Paštuvos valsčius; mentioned_place: Veliuona; mentioned_place: Vilkaviškis; mentioned_place: Vilkija'
   pagrindžia:
     - c-002
 

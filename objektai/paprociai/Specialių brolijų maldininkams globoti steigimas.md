@@ -41,7 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-06864
   teiginys: 'Naujos karinės grėsmės sąlygomis globos brolijos virto kariaujančiais riterių ordinais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_place: Jeruzalė'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-06865
   teiginys: 'Po Jeruzalės išvadavimo didesniosios valstybės steigė brolijas maldininkams globoti kelionėse.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_place: Jeruzalė'
   temporaliniai_duomenys: 'įvykio data: 1099 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir tiksliau atspindi citatos aplinkybes.'

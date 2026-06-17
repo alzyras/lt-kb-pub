@@ -62,7 +62,7 @@ Nenurodyta
 - t-003
   global_id: t-179457
   teiginys: 'Vytautas ir Jogaila po Vroclavo sprendimo tuojau pasiuntė protestus, kuriuos į Vroclavą gabeno Zbignievas Olesnickis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_place: Daugai; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zbignievas Olesnickis|Zbignievas Olesnickis]]; mentioned_place: Daugai; mentioned_place: Vroclavas'
   pagrindžia:
     - c-001
 

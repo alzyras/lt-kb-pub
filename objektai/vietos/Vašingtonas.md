@@ -30,7 +30,7 @@ amziai:
   global_id: t-21868
   teiginys: '1999 m. balandį Vašingtone NATO vadovai pripažino Lietuvos pažangą ir patvirtino Narystės veiksmų planą.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas, išlaikant citatos pagrindžiamus faktus apie Vašingtono susitikimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1994 m.; įvykio data: 1999 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas, išlaikant citatos pagrindžiamus faktus apie Vašingtono susitikimą.'

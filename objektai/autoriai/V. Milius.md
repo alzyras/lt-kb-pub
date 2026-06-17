@@ -30,7 +30,7 @@ Milius (AkMD, t.
   global_id: t-31040
   teiginys: 'V. Milius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir cechus XIX a. pabaigoje bei XX a. pradžioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateikta informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_person: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_place: Merkys; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_place: Merkys; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/L. Truska.md#claim-t-30784|L. Truska]]: L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.

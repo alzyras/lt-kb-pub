@@ -41,9 +41,7 @@ Vartojamos formos: `ūkės rėdą`, `rėdą`.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Kuopose renkami kunigai ir karo vadai.md#claim-t-07788|Kuopose renkami kunigai ir karo vadai]]: Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų.
-- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70424|žemlionis]]: Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.
-- susijęs iš [[objektai/zodynas/Žemlionis.md#claim-t-70426|žemlionis]]: `Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.
+
 ## Reikšmingi paminėjimai
 
 - c-001

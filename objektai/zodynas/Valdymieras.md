@@ -44,8 +44,7 @@ Vartojamos formos: `valdymierais`, `valdymierai`.
   sudarymo_pagrindimas: 'Citata tiesiogiai priskiria valdymierams svetimų parėdymų įvedimo tikslą.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/zodynas/Kūrėjų kūrėjas.md#claim-t-70012|kūrėjų kūrėjas]]: `Kūrėjų kūrėjas` šiame tekste yra visų vyriausias žynys.
-- susijęs iš [[objektai/zodynas/Kūrėjų kūrėjas.md#claim-t-70013|kūrėjų kūrėjas]]: Kūrėjų kūrėjas vienas valdė žynius, davė jiems įsakymus ir per tarnus skelbė iš dievų gautą pamokslą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

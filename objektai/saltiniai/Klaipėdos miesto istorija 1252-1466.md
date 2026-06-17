@@ -32,7 +32,7 @@ Pažymėtini Šležo stambesni darbai (at­ spaudai) : 1) «Klaipėdos miesto is
 - t-001
   global_id: t-31763
   teiginys: 'Šležo darbas „Klaipėdos miesto istorija 1252–1466“ buvo paskelbtas „MŽ“ 1933 m.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1929 m.; įvykio data: 1929 m.; įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

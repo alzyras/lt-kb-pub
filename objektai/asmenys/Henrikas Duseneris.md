@@ -23,7 +23,7 @@ tags:
   global_id: t-87686
   teiginys: 'Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.'
   sudarymo_pagrindimas: 'Citata pagrindžia atvykimą į pagalbą apsupties metu.'
-  susije_objektai: 'location: Bajerburgas; location: Reinas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Bajerburgas; mentioned_place: Reinas'
+  susije_objektai: 'location: Bajerburgas; location: Reinas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Reinas'
   semantiniai_rysiai: '[[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]] keliavo į Bajerburgas; [[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]] keliavo į Reinas'
   pagrindžia:
     - c-001

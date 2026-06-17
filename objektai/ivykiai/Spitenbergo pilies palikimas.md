@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Antrosios atskalūnybės metais broliai sudegino Spitenbergo pilį Pamedės žemėje ir pasitraukė su savo ginklanešiais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pilies palikimą, o pradinis teiginys turi antraštės ir OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
+  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Spitenbergas'
   pagrindžia:
     - c-001
 

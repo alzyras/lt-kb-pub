@@ -32,13 +32,13 @@ Karaliui, turinčiam tokias dide­ les karinės amunicijos atsargas, nesunku buv
   global_id: t-87670
   teiginys: '1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs kontekstas ir suformuotas pilnas faktinis teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'mūšio data: 1557 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs kontekstas ir suformuotas pilnas faktinis teiginys.'
   pagrindžia:
     - c-001
-- susijęs iš Livonija: 1557 m. Vilniuje sutelkta kariuomenė žygiavo į Livoniją prieš kalavijuočių ordino magistrą Firstenbergą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

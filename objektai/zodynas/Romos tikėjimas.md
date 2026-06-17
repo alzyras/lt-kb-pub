@@ -23,7 +23,7 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pateikia kaltinimą, todėl reikia nurodyti pranešamą poziciją.'
-  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,7 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religinis vertinimas pagal profilį turi likti priskirtas metraščiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/rusų tikėjimas|rusų tikėjimas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 

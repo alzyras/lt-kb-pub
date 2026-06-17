@@ -35,21 +35,7 @@ Pradėti iš anksto numatyto apgaulingo atsitraukimo manevro nebuvo galima, kol 
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40034|Antoine Gramont]]: Prancūzijos grafas Antoineas Gramont’as 1663-1664 m. pasakojo apie totorius Lietuvos kariuomenėje.
-- susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40107|Frederikas Joachimas Mansfeldas]]: Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.
-- susijęs iš [[objektai/asmenys/Michailas Bulgakovas-Golica.md#claim-t-79110|Michailas Bulgakovas-Golica]]: Kunigaikštis Michailas Bulgakovas-Golica Oršos mūšyje vadovavo dešiniajam flangui.
-- susijęs iš [[objektai/asmenys/Michailas Bulgakovas-Golica.md#claim-t-79111|Michailas Bulgakovas-Golica]]: Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-82629|Mykolas Glinskis]]: Mykolas Glinskis davė komandą puolimui, po kurios LDK kariuomenė pakilo į ataką.
-- susijęs iš [[objektai/grupes/13-asis ulonų pulkas.md#claim-t-38926|13-asis ulonų pulkas]]: Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų.
-- susijęs iš [[objektai/grupes/8-asis pėstininkų pulkas.md#claim-t-40830|8-asis pėstininkų pulkas]]: Į Ukmergę atvykusios 8-ojo pėstininkų pulko dalys turėjo apsaugoti divizijos vadovybę ir sustiprinti kitus pulkus.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10281|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje J. K. Chodkevičius įsakė pulti pastebėjęs, kad švedų pėstininkų rikiuotė prarado darnumą.
-- susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
-- susijęs iš [[objektai/paprociai/Linijinė taktika karyboje.md#claim-t-67166|Linijinė taktika karyboje]]: Linijinės taktikos puolime ilgos linijos artėdavo prie priešo pozicijų ir efektyvios ugnies nuotolyje derindavo šaudymą su judėjimu.
-- susijęs iš [[objektai/posakiai/„Kristus prisikėlė“.md#claim-t-41482|„Kristus prisikėlė“]]: Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „Kristus prisikėlė“.
 - susijęs iš Antoine Gramont’o pasakojimas apie totorius Lietuvos kariuomenėje: Antoine’o Gramont’o 1663-1664 m. pasakojimo ištrauka aprašo totorius Lietuvos kariuomenėje.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49288|petihorai]]: Petihorai buvo Lietuvos kariuomenės raitininkai, Lenkijoje vadinti pancernais.
-- susijęs iš [[objektai/zodynas/petihorai.md#claim-t-49290|petihorai]]: Petihorai sudarydavo vidutinę kavaleriją ir mūšyje manevruodavo flanguose, remdami husarų ataką.
-- susijęs iš [[objektai/zodynas/rezervas.md#claim-t-42504|rezervas]]: Aktyvuotas lenkų rezervas pradėjo apeiti kryžiuočius kairėje nuo jų dešiniojo flango.
-- susijęs iš [[objektai/zodynas/šachmatinė tvarka.md#claim-t-183720|šachmatinė tvarka]]: Šachmatine tvarka šaudant vienu metu šaudydavo kas antras karys arba padalinys.
 ## Reikšmingi paminėjimai
 
 - c-001

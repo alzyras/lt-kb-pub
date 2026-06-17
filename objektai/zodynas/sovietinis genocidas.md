@@ -29,7 +29,7 @@ Sovietinio genocido ir teroro aukomis tapo 456 tūkst.
   global_id: t-22302
   teiginys: 'Sovietinio genocido ir teroro aukomis Lietuvoje tapo 456 tūkst. gyventojų.'
   sudarymo_pagrindimas: 'Patikslintas objektas ir vieta, kuriuos palaiko citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1949 m.; įvykio data: 1951 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas objektas ir vieta, kuriuos palaiko citata.'

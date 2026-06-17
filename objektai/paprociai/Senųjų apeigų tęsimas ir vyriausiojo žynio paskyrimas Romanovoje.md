@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškus ir pagrįstai priskiria pasakojimą Kojelavičiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Italija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Italija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia faktą apie Romanovos paskyrimą vyriausiajam žyniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva; mentioned_place: Romanova'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; mentioned_place: Romanova'
   pagrindžia:
     - c-002
 

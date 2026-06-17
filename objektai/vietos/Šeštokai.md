@@ -22,7 +22,7 @@ tags:
   global_id: t-42358
   teiginys: 'Pilėnų Kunigaikščio Margio pulko I ir II batalionai išsikrovė Šeštokų geležinkelio stotyje.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir tiesiogiai paremtas citata apie Šeštokus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lazdijai; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Lazdijai; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 

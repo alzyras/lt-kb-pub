@@ -21,7 +21,7 @@ Chlapovskis mėgino vyriausiąjį vadą generolą A. Chlapovskiui, kurio žinioj
   global_id: t-39465
   teiginys: 'Gen. A. Gelgaudas pavedė gen. A. Chlapovskiui organizuoti sukilėlių kariuomenės atsitraukimą.'
   sudarymo_pagrindimas: 'Sakinys papildytas aiškiu veikėju, remiantis citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

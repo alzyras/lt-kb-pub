@@ -30,7 +30,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   global_id: t-68837
   teiginys: 'XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, todėl sutrumpintas iki aiškaus fakto.'
-  susije_objektai: 'owner: Anglija; owner: Europa; owner: Italija; owner: Vakarų Europa; owner: Viena; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
+  susije_objektai: 'owner: Anglija; owner: Europa; owner: Italija; owner: Vakarų Europa; owner: Viena; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
   semantiniai_rysiai: 'Olandija priklausė Anglija; Olandija priklausė Europa; Olandija priklausė Italija; Olandija priklausė Vakarų Europa; Olandija priklausė Viena'
   pagrindžia:
     - c-001

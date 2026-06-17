@@ -14,7 +14,6 @@ tags:
   - ordinas
   - valdovas
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
 ---
@@ -49,7 +48,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   global_id: t-58385
   teiginys: 'Pasak Dusburgiečio, kai kurių teigimu Varmėje ilgainiui buvo pastatytos Brunsbergo ir Heilsbergo pilys.'
   sudarymo_pagrindimas: 'Reikia priskyrimo, nes citata perteikia kitų teigimą; pašalintas triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -58,7 +57,7 @@ Dusburgietis teigia, kad pasak kai kurių, ilgainiui Varmės žemėje dar buvo p
   global_id: t-58386
   teiginys: '1279 m. Varmės vyskupas Henrikas įkūrė Brunsbergo miestą ir pilį toje vietoje, kur jie stovėjo Dusburgiečio laikais.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir išnašos numeris, išlaikant datą, veikėją ir veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/konsekracija|konsekracija]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Varmė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Varmė; mentioned_place: Viena'
   temporaliniai_duomenys: 'įkūrimo data: 1279 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir išnašos numeris, išlaikant datą, veikėją ir veiksmą.'

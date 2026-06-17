@@ -14,7 +14,6 @@ tags:
   - kunigaikštis
   - pilis
   - vieta
-  - vyskupas
 amziai:
   - 'XIV'
 ---
@@ -31,7 +30,7 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   global_id: t-94746
   teiginys: 'Apie gegužės 20 d. į Vilniaus srities Medininkus buvo įsiveržta, ten išbūta aštuonias dienas ir pasitraukta su dideliu grobiu.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis ir likusi išnašos žyma.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/Medė.md#claim-t-70027|medė]]: Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.

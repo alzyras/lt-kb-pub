@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-66894
   teiginys: 'Bartų vadas Divanas su aštuoniais šimtais vyrų apsiautė Senenzės pilį, bet brolis Arnoldas Krofas jį mirtinai peršovė arbaletu.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta; citata palaiko apgulos ir Divano žūties faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Senenzė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Arbaletas|Arbaletas]]; mentioned_person: [[objektai/asmenys/Arnoldas Krofas|Arnoldas Krofas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Senenzė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

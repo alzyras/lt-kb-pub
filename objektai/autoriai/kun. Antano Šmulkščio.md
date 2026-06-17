@@ -22,7 +22,7 @@ Panašiai į ją žiūrėta ir vadovėlinio tipo Maironio, Pajautos (Konstancijo
   global_id: t-100130
   teiginys: 'Kun. Antano Šmulkščio vadovėlinio tipo knygutėje daugiausia dėmesio skirta lietuvių tautos žygiams iki Vytauto Didžiojo mirties.'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis ir paliktas faktas, tiesiogiai susietas su note objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

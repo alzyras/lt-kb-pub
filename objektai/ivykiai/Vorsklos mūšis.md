@@ -50,7 +50,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis nurodo, kad Vorsklos mūšyje žuvo keli lietuvių kunigaikščiai, tarp jų Andrius Kęstutaitis, Glėbas Karijotaitis ir Simonas.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys gramatiškas, bet atribucija sušvelninta į šaltinio sąrašo nurodymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Belzas; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Smolenskas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Belzas; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Smolenskas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -60,7 +60,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis teigia, kad Tarp Vorsklos mūšyje žuvusiųjų buvo Polocko kunigaikštis Andrius Kęstutaitis, Smolensko kunigaikštis Glėbas Svetoslavovičius ir Krokuvos vaivada Spytka.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'required_attribution_source_finish_repair'
-  susije_objektai: 'territory: Belzas; territory: Brianskas; territory: Kijevas; territory: Krokuva; territory: Lietuva; territory: Luckas; territory: Polockas; territory: Smolenskas; territory: Vorskla; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Belzas; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Polockas; mentioned_place: Smolenskas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Belzas; mentioned_place: Brianskas; mentioned_place: Kijevas; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Polockas; mentioned_place: Smolenskas; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 
@@ -101,7 +101,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis teigia, kad Vytautas prieš Vorsklos mūšį siekė atimti iš Temir-Kutlujaus karalystę ir pasodinti į sostą chaną Tochtamyšą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'required_attribution_source_finish_repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Tochtamyšas|Tochtamyšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63383|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.

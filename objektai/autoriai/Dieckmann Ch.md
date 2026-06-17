@@ -31,7 +31,7 @@ Dieckmann Ch., Sužiedėlis S.
   global_id: t-26471
   teiginys: 'Ch. Dieckmannas ir S. Sužiedėlis parašė veikalą apie Lietuvos žydų persekiojimą ir masines žudynes 1941 m. vasarą ir rudenį.'
   sudarymo_pagrindimas: 'Citata patvirtina autorius ir leidinio temą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina autorius ir leidinio temą.'

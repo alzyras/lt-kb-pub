@@ -21,7 +21,7 @@ tags:
   global_id: t-39945
   teiginys: '„Husarų taktika“ iliustracijos autoriumi nurodytas dailininkas Andžej Geglis.'
   sudarymo_pagrindimas: 'Citata pagrindžia šaltinio pavadinimą ir dailininko autorystę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
   pagrindžia:
     - c-001
 

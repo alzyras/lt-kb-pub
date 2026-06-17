@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-78607
   teiginys: '1945 m. kovo pradžioje NKVD divizijos persekiojami partizanai pasitraukė į Ažagų-Eimuliškio miškus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Žalioji giria'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Žalioji giria'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
@@ -63,7 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-78609
   teiginys: '1945 m. kovo pradžioje NKVD divizija pradėjo puolimą prieš Pušaloto, Pasvalio ir Žaliosios girios partizanus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Žalioji giria'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Žalioji giria'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -81,7 +81,7 @@ Nenurodyta
 - t-005
   global_id: t-78611
   teiginys: 'NKVD puolimas buvo vykdomas iš vakarų į rytus, siekiant atkirsti partizanų pasitraukimo kelius, o kovo 27 d. mūšis prasidėjo 7 val. ryto.'
-  susije_objektai: 'event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'event: [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]; [[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)|Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]'
   pagrindžia:
     - c-002

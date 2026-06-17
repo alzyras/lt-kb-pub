@@ -22,7 +22,7 @@ Lietuvos metraštis Smolensko nesantaikos aprašyme Jurijų Svetoslavovičių va
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Titulavimas ir kronikos formuluotė turi likti priskirti šaltiniui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

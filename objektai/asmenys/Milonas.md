@@ -30,13 +30,12 @@ Dalyvaujant garbingiems ir narsiems vyrams Mingailai, Goš­ tautui; Vilniaus va
   global_id: t-87791
   teiginys: 'Milonas buvo dvaro maršalka, dalyvavęs 1396 m. Vilniuje aktuotame dokumente.'
   sudarymo_pagrindimas: 'Citata remia Milono pareigybę ir dalyvavimą dokumento sudaryme.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia Milono pareigybę ir dalyvavimą dokumento sudaryme.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87375|Manvydas]]: 1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.
 - susijęs iš [[objektai/asmenys/Mingaila.md#claim-t-87792|Mingaila]]: 1396 m. Vilniuje duotame akte Mingaila dalyvavo tarp garbingų ir patikimų vyrų.
 - susijęs iš [[objektai/asmenys/Čupurva.md#claim-t-87897|Čupurva]]: 1396 m. Vilniuje Čupurva minėtas kaip viena iš dvaro maršalkų, dalyvavusių akto sudaryme.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171395|Totoriai]]: Vilniuje ir jo apylinkėse įsikūrė nemaža į nelaisvę paimtų totorių.

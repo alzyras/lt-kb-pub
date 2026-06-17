@@ -67,7 +67,7 @@ Nenurodyta
 - t-003
   global_id: t-67037
   teiginys: 'Agentai buvo verbuojami ir iš čekistų, ir iš suimtų partizanų, o jų veikla buvo grindžiama griežta konspiracija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Baltija; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Agentai-smogikai|Agentai-smogikai]]; mentioned_place: Baltija; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1940-1950; įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-169871
   teiginys: 'Po Lietuvos ir Žemaitijos krikšto sunaikintos tik svarbiausios pagoniškos šventvietės, o lokalinių kultų vietos turėjo gyvuoti toliau.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie pagoniškų praktikų išlikimą po krikšto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Nenurodyta
 - t-003
   global_id: t-169874
   teiginys: 'Lokalinių kultų vietos gyvavo toliau, o pagoniškosios šventvietės tapo bendros plėtotės su krikščionybe rezultatu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

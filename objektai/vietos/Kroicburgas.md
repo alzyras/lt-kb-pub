@@ -33,7 +33,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   global_id: t-90731
   teiginys: 'Kroicburgas, dabartinis Slavskoje, buvo į pietus nuo Frišingo upės ir į rytus nuo Baigos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Baiga; mentioned_place: Kaustra'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Kaustra'
   temporaliniai_duomenys: 'įvykio data: 1253 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   global_id: t-90732
   teiginys: 'Broliai pastatė Kroicburgo pilį Notangos žemėje prie Kaustros upės, siekdami užkirsti kelią prūsų atkryčiui.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pilies pastatymo vietą ir tikslą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kaustra; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kaustra; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-003
 
@@ -78,7 +78,7 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   global_id: t-90735
   teiginys: 'Petro Dusburgiečio kronikoje brolių pasitraukimas iš Kroicburgo datuojamas 1263 m., nors aprašomas po vėlesnių įvykių.'
   sudarymo_pagrindimas: 'Citata pagrindžia autoriaus chronologijos netikslumo pastabą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lochštetė; mentioned_place: Prūsai; mentioned_place: Tepliava'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lochštetė; mentioned_place: Prūsai; mentioned_place: Tepliava'
   temporaliniai_duomenys: 'įvykio data: 1263 m.; įvykio data: 1265 m.; įvykio data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus chronologijos netikslumo pastabą.'

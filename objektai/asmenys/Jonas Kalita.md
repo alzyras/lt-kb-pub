@@ -31,7 +31,7 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   global_id: t-30308
   teiginys: 'Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Maskva; territory: Naugardas; territory: Tverė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Tverė'
+  susije_objektai: 'territory: Maskva; territory: Naugardas; territory: Tverė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Tverė'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Maskva; [[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Naugardas; [[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Tverė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1325 m.; valdymo laikotarpis: 1327 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Kalita buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Kalita buvo valdovas Naugardas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Kalita buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
@@ -44,7 +44,7 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   global_id: t-30309
   teiginys: 'Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradiniame teiginyje likęs kontekstinis žodis „taip pat“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradiniame teiginyje likęs kontekstinis žodis „taip pat“.'

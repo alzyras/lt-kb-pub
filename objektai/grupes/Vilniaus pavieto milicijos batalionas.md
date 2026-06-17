@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-41197
   teiginys: 'Vilniaus pavieto milicijos batalionas buvo įgulos sudėtyje kartu su keliais eskadronais ir kitais sukilėlių padaliniais.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

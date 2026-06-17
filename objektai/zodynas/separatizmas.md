@@ -22,7 +22,7 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   global_id: t-34311
   teiginys: 'Dėl nedraugiškų žygių Lenkijos atžvilgiu Vytautas buvo įtarinėjamas neištikimybe ir separatizmu.'
   sudarymo_pagrindimas: 'Sakinys padarytas pilnas ir aiškiai susietas su priežastimi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaunas; mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 
@@ -34,10 +34,9 @@ Vytautą už tai pradėjo įtarinėti neiš­ tikimybe ir separatizmu.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir įvardytas citatoje esantis kontekstas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Aleksandras III.md#claim-t-18775|Aleksandras III]]: Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu.
 - susijęs iš [[objektai/asmenys/M. Muravjovas.md#claim-t-78025|M. Muravjovas]]: Vilniaus generalgubernatorius M. Muravjovas rusinimo politikai vykdyti pasikvietė Ivaną Kornilovą.
 - susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54215|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.
 - susijęs iš [[objektai/paprociai/Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m.md#claim-t-54216|Carinė „rusų pradų atkūrimo“ rusinimo praktika 1864-1904 m]]: Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.

@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-78052
   teiginys: '1935 m. gegužės 21–22 d. Feliksas Vaitkus sėkmingai atliko S. Dariaus ir S. Girėno sumanytą skrydį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Felikso Vaitkaus skrydį ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Felikso Vaitkaus skrydį ir remiasi citata.'

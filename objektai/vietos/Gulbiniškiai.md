@@ -27,7 +27,7 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps.
   global_id: t-38469
   teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
   sudarymo_pagrindimas: 'Sakinys išsamiai nusako vietą, datą, veikėjus ir veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys išsamiai nusako vietą, datą, veikėjus ir veiksmą.'

@@ -29,7 +29,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   global_id: t-20836
   teiginys: 'Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lietuvos karo aviacijos vadu nuo 1934 m., sukonstravo seriją lėktuvų ir pavadino juos ANBO (iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių).'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, informatyvus ir remiasi citatoje pateikta ANBO kilme.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, informatyvus ir remiasi citatoje pateikta ANBO kilme.'

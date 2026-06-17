@@ -30,7 +30,7 @@ Vienbalsiai priimtas Lietuvos valstybės nepriklausomybės proklamavimo dokument
   global_id: t-22358
   teiginys: 'Vasario 16 Aktas skelbė nepriklausomą Lietuvą su „etnologinėmis sienomis“, tikintis teritorijos padidėjimo.'
   sudarymo_pagrindimas: 'Pašalinta gramatinė kliūtis ir išlaikyta tik citatos remiama mintis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta gramatinė kliūtis ir išlaikyta tik citatos remiama mintis.'

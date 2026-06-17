@@ -27,7 +27,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
   global_id: t-42181
   teiginys: '1919 m. birželio 3 d. lietuvių kariai, persekiodami bolševikus, užėmė Daugailius ir Tauragnus.'
   sudarymo_pagrindimas: 'Reikia aiškaus veikėjo ir gramatiškai pritaikyto vietovardžio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Daugailiai; mentioned_place: Paberžė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Daugailiai; mentioned_place: Paberžė'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškaus veikėjo ir gramatiškai pritaikyto vietovardžio.'
@@ -38,7 +38,7 @@ Dalį raitininkų pasiuntęs Tauragnų kryptimi, su likusiais vyko į Uteną. Bi
 - t-002
   global_id: t-42182
   teiginys: 'Dalis raitininkų buvo pasiųsta Tauragnų kryptimi, o likusieji vyko į Uteną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Utena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Utena'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40248|K. Ladyga]]: K. Ladyga 1919 m. birželio 2 d. su raitininkais slinko į rytus paskui atsitraukiantį priešą.

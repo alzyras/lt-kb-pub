@@ -30,7 +30,7 @@ periodo_grupes:
 - t-001
   global_id: t-31007
   teiginys: 'S. Sužiedėlis 1930 m. paskelbė publikaciją „Vytautas Didysis ir Lietuvos christianizacija“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

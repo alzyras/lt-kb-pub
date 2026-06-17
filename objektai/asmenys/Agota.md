@@ -34,7 +34,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   global_id: t-56965
   teiginys: 'Agotos valia Ordino broliai pasitelkė daug Lenkijos vyrų ir stojo į kovą su Prūsijos kariuomene.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra per ilgas ir nutrūkęs; citata palaiko aiškesnę formuluotę apie Agotos vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
   global_id: t-56967
   teiginys: 'Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir užterštas išnašos numeriu; citata palaiko Agotos pritarimą sprendimui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir užterštas išnašos numeriu; citata palaiko Agotos pritarimą sprendimui.'
@@ -72,7 +72,6 @@ Agota minima kaip Konrado žmona, po mūšio pasirūpinusi sužeistais Ordino br
 - susijęs iš [[objektai/ivykiai/Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams.md#claim-t-62846|Kulmo ir Lubavos žemių dovanojimas Teutonų namų ordino broliams]]: Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams, suteikiant jiems visas turėtas teises ir naudas.
 - susijęs iš [[objektai/ivykiai/Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę.md#claim-t-62936|Teutonų ordino pakvietimas ir žvalgomoji misija į Kulmo žemę]]: Agotos valia Ordino broliai su Lenkijos vyrais stojo į kovą su prūsais, buvo mirtinai sužeisti, bet pagiję baigė patikėtą reikalą.
 - susijęs iš Lubavos žemė: Apie 1226 arba 1230 m. Kulmo ir Lubavos žemės buvo atiduotos Teutonų namų ordino broliams.
-- susijęs iš [[objektai/zodynas/lotyniškosios ir vokiškosios vardų formos.md#claim-t-58914|lotyniškosios ir vokiškosios vardų formos]]: Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -22,7 +22,7 @@ Nifono laiškas ragino rusus tvirtai laikytis Florencijos tikėjimo santarvės, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Paleologas|Jonas Paleologas]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_place: Florencija; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Severskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jonas Paleologas|Jonas Paleologas]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_place: Florencija; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Severskas'
   pagrindžia:
     - c-001
 

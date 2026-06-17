@@ -24,7 +24,7 @@ Ordino ir Vytauto santykiams buvo reikšminga, kai abi pusi pasižadėjo iš kit
   global_id: t-99977
   teiginys: 'Ordinas ir Vytautas pasižadėjo iš kito krašto nepriimti činšą mokančių ir nelaisvų valstiečių.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra gramatinių klaidų ir OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Salynas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Salynas'
   pagrindžia:
     - c-001
 

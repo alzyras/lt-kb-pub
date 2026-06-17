@@ -49,7 +49,7 @@ Dusburgietis teigia, kad apie Paštuvos ir Gaižuvos valsčių apiplėšimą Tuo
   global_id: t-90368
   teiginys: '1294 m. žiemą magistras, atsisakęs žygio į Ariogalos valsčių, nukreipė dalį kariuomenės į Gaižuvos valsčių.'
   sudarymo_pagrindimas: 'Pradinis teiginys tik įžanga; citata leidžia susieti faktą su Gaižuva.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Ariogala; mentioned_place: Gaižuva; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Ariogala; mentioned_place: Gaižuva; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys tik įžanga; citata leidžia susieti faktą su Gaižuva.'

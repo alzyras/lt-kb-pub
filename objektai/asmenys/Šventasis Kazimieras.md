@@ -14,7 +14,6 @@ tags:
   - karalius
   - kraštas
   - kunigaikštis
-  - pilis
 amziai:
   - 'XV'
 periodo_grupes:
@@ -33,7 +32,7 @@ Karalaitis Kazimieras, antrasis karaliaus sūnus, visų garbinamas už savo geru
   global_id: t-87899
   teiginys: 'Karalaitis Kazimieras mirė nuo džiovos Vilniaus Žemutinėje pilyje 1484 m. kovo 4 d.'
   sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį sakinį su vieta ir data.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1484 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia tikslesnį sakinį su vieta ir data.'

@@ -34,7 +34,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   global_id: t-60935
   teiginys: 'Basanavičiaus veikalo puslapiai 178–181 nurodomi kaip pasakojimų apie piliakalnį į pietryčius nuo Ragainės šaltinis.'
   sudarymo_pagrindimas: 'Citata aiškiai sieja šaltinį su pasakojimais apie konkretų piliakalnį.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-004
 
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   global_id: t-60936
   teiginys: 'Basanavičiaus veikalo puslapiai 181–182 nurodomi tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.'
   sudarymo_pagrindimas: 'Pašalintas bibliografinis triukšmas ir suformuluotas palaikomas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Nemunas; mentioned_place: Rambynas'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Nemunas; mentioned_place: Rambynas'
   temporaliniai_duomenys: 'įvykio data: 1835 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas bibliografinis triukšmas ir suformuluotas palaikomas faktas.'
@@ -55,7 +55,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   global_id: t-60937
   teiginys: 'Basanavičiaus veikalo puslapis 182 nurodomas prie Šereitlaukio apylinkėse lokalizuojamos Sareibe pilies aptarimo.'
   sudarymo_pagrindimas: 'Teiginys pašalina puslapio triukšmą ir tiksliai nusako, kur citatoje nurodomas Basanavičiaus veikalas.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]'
   temporaliniai_duomenys: 'įvykio data: 1344 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pašalina puslapio triukšmą ir tiksliai nusako, kur citatoje nurodomas Basanavičiaus veikalas.'
@@ -67,7 +67,7 @@ Dusburgietis teigia, kad vangrapės krante, upės kilpoje, žinomas piliakalnis 
   global_id: t-60938
   teiginys: 'Basanavičiaus veikalo puslapiai 190–191 nurodomi prie Kampsvykalnio piliakalnio Vangrapės krante, į pietus nuo Tamoviškių.'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas kaip aiški nuoroda į šaltinio panaudojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Vangrapė'
   temporaliniai_duomenys: 'įvykio data: 400 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutvarkytas kaip aiški nuoroda į šaltinio panaudojimą.'

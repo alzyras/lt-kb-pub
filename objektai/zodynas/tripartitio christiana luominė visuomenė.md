@@ -24,7 +24,7 @@ Su tripartitio christiana (visuomenės skirstymas į karius, dvasininkus ir dirb
   global_id: t-22330
   teiginys: 'Tripartitio christiana samprata siejama su Viduramžių luomų idėja ir visuomenės skirstymu į karius, dvasininkus bei dirbančiuosius.'
   sudarymo_pagrindimas: 'Pirminis teiginys silpnai siejosi su objektu, todėl perrašytas pagal tiesiogiai citatoje pagrįstą informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/tripartitio christiana|tripartitio christiana]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

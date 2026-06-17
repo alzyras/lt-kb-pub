@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-100047
   teiginys: '1385 m. Kriavo pažadų aktas davė pradžią vėlesniems Astravo, Vilniaus, Horodlės ir Gardino susitarimams dėl artimesnių santykių.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pirminis teiginys buvo nutrūkęs ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/ivykiai/Krėvos akto patvirtinimas|Krėvos akto patvirtinimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Gardinas; mentioned_place: Horodlė'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Horodlė'
   temporaliniai_duomenys: 'įvykio data: 1385 m.; įvykio data: 1392 m.; įvykio data: 1401 m.; įvykio data: 1413 m.; įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pirminis teiginys buvo nutrūkęs ir su OCR triukšmu.'

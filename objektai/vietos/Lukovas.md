@@ -22,7 +22,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   global_id: t-86082
   teiginys: 'Lukove Turčinas, keisdamas lietuviškas monetas į lenkiškas, prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 

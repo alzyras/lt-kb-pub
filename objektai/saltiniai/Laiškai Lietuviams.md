@@ -27,7 +27,7 @@ amziai:
   global_id: t-31782
   teiginys: '„Laiškai Lietuviams“ 1958 m. Čikagoje buvo nurodyti kaip 5–9 numerių leidinys.'
   sudarymo_pagrindimas: 'Citata leidžia teigti tik bibliografinę nuorodą į Čikagą, metus ir numerius.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_place: Krėva; mentioned_place: Liublinas; mentioned_place: Vilnius; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_place: Krėva; mentioned_place: Liublinas; mentioned_place: Vilnius; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1958 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia teigti tik bibliografinę nuorodą į Čikagą, metus ir numerius.'

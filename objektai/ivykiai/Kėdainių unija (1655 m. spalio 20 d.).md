@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-80673
   teiginys: 'Jonušo Radvilos pastangomis Kėdainių unija su Švedija buvo sudaryta 1655 m. spalio 20 d.'
   sudarymo_pagrindimas: 'Pašalinta nutrūkusi dalis ir aiškiai įvardytas veikėjas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta nutrūkusi dalis ir aiškiai įvardytas veikėjas.'
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-80674
   teiginys: 'Po Kėdainių unijos švedai nepateisino Jonušo Radvilos lūkesčių: jis negavo reikšmingų pareigų, o karinė pagalba nebuvo suteikta.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -65,7 +65,7 @@ Nenurodyta
   global_id: t-80675
   teiginys: 'Jonušas Radvila siekė nutraukti LDK uniją su Lenkija ir sudaryti naują uniją su Švedija.'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir aiškiai įvardyti asmenį bei unijos objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/J. Radvila|J. Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/V. Gosievskis|V. Gosievskis]]; mentioned_place: Kėdainiai; mentioned_place: Lenkija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir aiškiai įvardyti asmenį bei unijos objektą.'

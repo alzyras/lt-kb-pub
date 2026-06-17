@@ -10,7 +10,6 @@ tags:
   - grupe
   - karalius
   - ordinas
-  - valdovas
 ---
 # Liuksemburgiečių dinastija
 

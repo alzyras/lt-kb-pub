@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-34470
   teiginys: '1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.'
   sudarymo_pagrindimas: 'Reikia sklandesnės enciklopedinės formuluotės be pažodinio senojo stiliaus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Didysis Machmetas|Didysis Machmetas]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Kipčakas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Didysis Machmetas|Didysis Machmetas]]; mentioned_place: Kipčakas'
   temporaliniai_duomenys: 'įvykio data: 1424 m.; įvykio data: 1438 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sklandesnės enciklopedinės formuluotės be pažodinio senojo stiliaus.'

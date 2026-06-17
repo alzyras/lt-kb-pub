@@ -31,7 +31,7 @@ Dusburgietis teigia, kad anksčiau jis buvo komtūru Karaliaučiaus pilyje, kur 
   global_id: t-60098
   teiginys: 'Burchardas iš Švandeno buvo iškilmingai išrinktas Teutonų ordino didžiuoju magistru.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Burchardo išrinkimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 

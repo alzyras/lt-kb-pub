@@ -26,7 +26,7 @@ Kiaupa Z., Kiaupienė J., Kuncevičius A.
   global_id: t-78084
   teiginys: 'Z. Kiaupa kartu su J. Kiaupiene ir A. Kuncevičiumi parašė leidinį „The history of Lithuania before 1795“.'
   sudarymo_pagrindimas: 'Bibliografinė nuoroda pagrindžia faktą apie Z. Kiaupos bendraautorystę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Irena Zujienė|Irena Zujienė]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Irena Zujienė|Irena Zujienė]]'
   pagrindžia:
     - c-001
 

@@ -28,7 +28,7 @@ Savo tėvonija jis vadina beveik visas prūsų žemes iki dešiniojo Vyslos inta
   global_id: t-68845
   teiginys: 'Kai kurie tyrinėtojai Petro iš Dusburgo aprašytą prūsų gyvenamą teritoriją pietvakariuose riboja Osa ir Vysla.'
   sudarymo_pagrindimas: 'Teiginys perrašytas be boilerplate ir aiškiai susietas su Osa.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Nadruva; mentioned_place: Nemunas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Skalva; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nadruva; mentioned_place: Nemunas; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Skalva; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 

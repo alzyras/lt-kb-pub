@@ -28,7 +28,7 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
 - t-001
   global_id: t-54997
   teiginys: 'Albertas Krantzas priskirtas vėlesniems kronikininkams, kurie Gedimino laiškų klausimą siejo su arkivyskupu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Albertas Krantzas minimas tarp vėlesnių kronikininkų ir siejamas su „Wandal
   global_id: t-81884
   teiginys: 'Albertas Krantzas teigė, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
   sudarymo_pagrindimas: 'Citata priskiria šį teiginį Albertui Krantzui ir kitiems autoriams.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]; mentioned_object: [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Hermanas Corneris Korneris.md#claim-t-88025|Hermanas Corneris Korneris]]: Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.

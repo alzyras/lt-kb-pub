@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-13461
   teiginys: 'Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie šarvuočius.'
@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-13462
   teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietuvos radijo ir televizijos komiteto pastatą.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -78,7 +78,7 @@ Nenurodyta
   global_id: t-13463
   teiginys: 'Apie vidurnaktį sovietų tankai ir šarvuočiai apsiautė televizijos bokštą ir Lietuvos radijo bei televizijos komiteto pastatą.'
   sudarymo_pagrindimas: 'Pridėtas citatoje esantis laiko patikslinimas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'pastatymo data: 1967 m.; pastatymo data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas citatoje esantis laiko patikslinimas.'

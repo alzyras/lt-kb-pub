@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-59396
   teiginys: '1314 m. sausio pradžioje maršalas Henrikas su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą laiką, veikėjus ir vietą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą laiką, veikėjus ir vietą.'

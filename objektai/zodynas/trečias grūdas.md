@@ -31,9 +31,9 @@ Malūnas, iki mūsų laikų vadin­ tas Karališkuoju, irgi buvo pastatytas anuo
   global_id: t-86619
   teiginys: '1515 m. karalius leido Ulrikui Hošui savo lėšomis statyti Karališkąjį malūną ir iki gyvos galvos imti trečią grūdą.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo OCR bei konteksto pertekliaus.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo pabaiga: 1515 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Žygimantas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1515 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir išvalytas nuo OCR bei konteksto pertekliaus.'
   pagrindžia:
     - c-001

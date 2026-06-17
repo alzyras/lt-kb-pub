@@ -37,7 +37,7 @@ Nenurodyta
 - t-001
   global_id: t-35820
   teiginys: 'Po Vygunto mirties Vytautas gavo Vilnių ir įvedė nemažai radikalių pokyčių lietuvių-rusų žemių valdyme.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ Tuomet daugumas, ypač iš karalaičio Jokūbo partijos, perėjo į Augusto pus�
   global_id: t-01344
   teiginys: 'Dauguma Karalaičio Jokūbo partijos šalininkų perėjo į Augusto pusę.'
   sudarymo_pagrindimas: 'Pašalintas nuo konteksto priklausantis žodis „tuomet“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]'
   pagrindžia:
     - c-001
 

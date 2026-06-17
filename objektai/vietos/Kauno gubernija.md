@@ -31,7 +31,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170421
   teiginys: 'Kauno gubernijoje moterų raštingumas siekė 55 proc., o vyrų – 52 proc.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūksta ir turi nereikalingą įvadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Rusija'
   pagrindžia:
     - c-004
 
@@ -49,7 +49,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170423
   teiginys: '1843 m. iš septynių vakarinės ir šiaurinės Vilniaus gubernijos apskričių buvo sudaryta Kauno gubernija.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1843 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -61,7 +61,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   global_id: t-170425
   teiginys: '1917 m. Berno konferencijoje Kauno gubernija įtraukta į etnografinės Lietuvos teritorijos projektą.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/posakiai/„Lithuania Propria“|„Lithuania Propria“]]; mentioned_place: Alūkšta; mentioned_place: Bernas; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Klaipėda; mentioned_place: Kuršas; mentioned_place: Liepoja; mentioned_place: Lietuva; mentioned_place: Slanimas; mentioned_place: Suvalkai; mentioned_place: Valkaviskas; mentioned_place: Viena; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra fragmentiškas ir perkrautas sąrašu.'
@@ -76,7 +76,7 @@ Vien Kauno gubernijoje tokių žiaurių egzekucijų buvo padaryta net 117.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neaiškus įvardis „tokių“ ir patikslintas veiksmo pobūdis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 

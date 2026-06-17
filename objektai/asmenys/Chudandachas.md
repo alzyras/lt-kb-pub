@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-34713
   teiginys: 'Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Užvolgio totoriai|Užvolgio totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Luckas; mentioned_place: Odojevas; mentioned_place: Pskovas; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Užvolgio totoriai|Užvolgio totoriai]]; mentioned_place: Luckas; mentioned_place: Odojevas; mentioned_place: Pskovas; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys palaikomas citata, tačiau reikia išvalyti OCR triukšmą ir sutrumpinti.'

@@ -28,7 +28,7 @@ Krasauskas, R.
 - t-001
   global_id: t-30940
   teiginys: 'R. Krasauskas parašė straipsnį „Medininkų diecezijos įsteigimas ir aprūpinimas“ Lietuvos enciklopedijos 18 tome.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Krasauskas, R.md#claim-t-30768|Krasauskas, R]]: R. Krasauskas Lietuvių enciklopedijos 18 tome paskelbė tekstą apie Medininkų diecezijos įsteigimą ir aprūpinimą.

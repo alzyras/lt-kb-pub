@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87181
   teiginys: 'Vilniuje religijų įvairovė palūžusios pagonybės akivaizdoje kėlė piktumų tarp skirtingo tikėjimo žmonių ir jų dvasininkų.'
   sudarymo_pagrindimas: 'Teiginys beveik tinkamas, bet reikėjo pašalinti OCR triukšmą ir aiškiai susieti su Vilniumi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87182
   teiginys: 'Lietuvoje apaštalavę pranciškonai dėl drąsaus ir uolaus gyventojų vertimo į tikėjimą patirdavo skaudžių kančių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nesklandus ir su OCR triukšmu, bet citata palaiko faktą apie pranciškonų veiklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

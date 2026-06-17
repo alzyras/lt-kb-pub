@@ -38,7 +38,7 @@ Papée). Papée, Pr. i Papée, Fr.
 - t-002
   global_id: t-30929
   teiginys: 'Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 
@@ -46,7 +46,7 @@ Papée). Papée, Pr. i Papée, Fr.
 - t-003
   global_id: t-30930
   teiginys: 'Fr. Papée kartu su St. Smolka parengė darbą Władysław Jagiełło Encyklopedja Polska leidiniui.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_person: [[objektai/autoriai/St. Smolka|St. Smolka]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_author: [[objektai/autoriai/St. Smolka|St. Smolka]]'
   pagrindžia:
     - c-002
 - susijęs iš Polska i Litwa na przełomie wieków średnich: Pr. Papée veikalo „Polska i Litwa na przełomie wieków średnich“ pirmoji dalis išleista Krokuvoje 1904 m.

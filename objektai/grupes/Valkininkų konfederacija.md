@@ -45,7 +45,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   global_id: t-78532
   teiginys: 'Valkininkų konfederacijos raštas buvo datuotas 1700 m. lapkričio 24 d. Valkininkuose, nors iš tikro surašytas vėliau.'
   sudarymo_pagrindimas: 'Patikslintas objektas ir suformuotas savarankiškas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_place: Valkininkai'
   temporaliniai_duomenys: 'įvykio data: 1700 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas objektas ir suformuotas savarankiškas sakinys.'
@@ -57,7 +57,7 @@ Bajorija sudarė konfederaciją ir pasižadėjo tol nesiskirstyti, kol bus sunai
   global_id: t-78533
   teiginys: 'Vykdant Valkininkų nutarimą, Šnipiškių stovykloje buvo iš esmės suformuota nauja 7500 etatinių vienetų LDK kariuomenė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, užbaigtas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Valkininkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Valkininkai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1700 m.; įvykio data: 1700 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, užbaigtas ir tiksliai perteikia citatos faktą.'

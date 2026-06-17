@@ -28,7 +28,7 @@ A. Kučas, Kun. Antanas Staniukynas, XVI-208 psl., Roma 1965. 6 dol.
 - t-001
   global_id: t-30513
   teiginys: 'A. Kučas 1965 m. Romoje paskelbė knygą „Kun. Antanas Staniukynas“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Roma'
+  susije_objektai: 'mentioned_place: Roma'
   temporaliniai_duomenys: 'įvykio data: 1965 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

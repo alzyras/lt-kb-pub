@@ -23,7 +23,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Viena moteriškė po mūšio drau
   global_id: t-59163
   teiginys: 'Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes.'
   sudarymo_pagrindimas: 'Pirminis teiginys fragmentiškas ir triukšmingas; citata remia aiškų pasakojimo turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Kulmas; mentioned_place: Pilėnai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]; mentioned_place: Kulmas; mentioned_place: Pilėnai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

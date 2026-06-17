@@ -22,7 +22,7 @@ Jakovas Zachariničius kartu su Andrejumi Možaiskiu ir Andrejumi Šemiačičium
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia faktą apie Jakovo Zachariničiaus vaidmenį žygyje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Severskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Severskas'
   pagrindžia:
     - c-001
 - susijęs iš Lietuvos senato atsakomasis laiškas Jakovui Zachariničiui dėl pasiuntinybės ir taikos: Jakovui Zachariničiui Ivano vardu pareiškus skundą, Lietuvos senatas atsakė laišku dėl pasiuntinių vykimo į Maskvą ir taikos.

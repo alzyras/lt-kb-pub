@@ -20,7 +20,7 @@ Konstantinas Žukas.
 - t-001
   global_id: t-40292
   teiginys: 'Pulkininkas leitenantas Konstantinas Žukas buvo paskirtas į pareigas Lietuvos kariuomenėje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

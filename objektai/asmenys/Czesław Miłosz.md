@@ -31,7 +31,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   global_id: t-75793
   teiginys: 'Czesławas Miłoszas buvo 1980 m. Nobelio literatūros premijos laureatas ir šlovino Vilnių už čia išeitą mokslą.'
   sudarymo_pagrindimas: 'Citata patvirtina faktą apie Czesławą Miłoszą, bet pradiniame teiginyje yra puslapio triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius; mentioned_place: Želva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_person: [[objektai/asmenys/Nadine Gordimer|Nadine Gordimer]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius; mentioned_place: Želva'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1935 m.; įvykio data: 1980 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina faktą apie Czesławą Miłoszą, bet pradiniame teiginyje yra puslapio triukšmo.'
@@ -43,7 +43,7 @@ lenkų poetas Adomas Mickevičius (Adam Mickiewicz), o paskutiniu LDK piliečiu 
   global_id: t-75794
   teiginys: 'Nobelio premijos laureatas Czesławas Miłoszas save laikė paskutiniu LDK piliečiu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą savęs apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Česlovas Milošas|Česlovas Milošas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Adomas Mickevičius|Adomas Mickevičius]]; mentioned_person: [[objektai/asmenys/Česlovas Milošas|Česlovas Milošas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

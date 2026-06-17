@@ -27,7 +27,7 @@ periodo_grupes: []
   global_id: t-18851
   teiginys: 'Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.'
   sudarymo_pagrindimas: 'Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Želva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/David Baltimore|David Baltimore]]; mentioned_person: [[objektai/asmenys/Gertrude Ellion|Gertrude Ellion]]; mentioned_person: [[objektai/asmenys/Sydney Brenner|Sydney Brenner]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Želva'
   temporaliniai_duomenys: 'įvykio data: 1865 m.; įvykio data: 1910 m.; įvykio data: 1921 m.; įvykio data: 1927 m.; įvykio data: 1935 m.; įvykio data: 1975 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1988 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys išsamus, gramatiškas ir tiesiogiai paremtas citata.'

@@ -15,7 +15,6 @@ tags:
   - karas
   - kunigaikštis
   - miestas
-  - valstybė
 amziai:
   - 'XVII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   global_id: t-40211
   teiginys: 'Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija asmenį, veiksmą ir istorinį kontekstą, kuriuos patvirtina citata.'
-  susije_objektai: 'territory: Baltarusija; territory: Lenkija; territory: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
+  susije_objektai: 'territory: Baltarusija; territory: Lenkija; territory: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
   semantiniai_rysiai: '[[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Baltarusija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Lenkija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Rusija'
   pagrindžia:
     - c-002
@@ -44,7 +43,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   global_id: t-40212
   teiginys: 'Jokūbas Kudenekovičius Čerkaskis dalyvavo užimant Gardiną ir Vilnių bei sumušė J. Radvilos ir V. Gosievskio pajėgas.'
   sudarymo_pagrindimas: 'Perrašyta siekiant pašalinti neaiškią vietos nuorodą „kur“ ir išlaikyti citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Gardinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Gardinas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1660 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta siekiant pašalinti neaiškią vietos nuorodą „kur“ ir išlaikyti citatos faktus.'
@@ -59,7 +58,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir sutvarkyta sakinio struktūra.'
-  susije_objektai: 'territory: Baltarusija; territory: Lenkija; territory: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksejus Michailovičius|Aleksejus Michailovičius]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
+  susije_objektai: 'territory: Baltarusija; territory: Lenkija; territory: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksejus Michailovičius|Aleksejus Michailovičius]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
   semantiniai_rysiai: '[[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Baltarusija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Lenkija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Rusija'
   pagrindžia:
     - c-002

@@ -29,7 +29,7 @@ preparatus „Neptun-20“, buvo suimti Algimanto apygardos štabo pareigūnas A
   global_id: t-39996
   teiginys: '1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnę suėmimo aplinkybę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/asmenys/Albinas (Vilniaus sufraganas)|Albinas (Vilniaus sufraganas)]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnę suėmimo aplinkybę.'

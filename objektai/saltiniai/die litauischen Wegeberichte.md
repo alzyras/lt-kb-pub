@@ -22,7 +22,7 @@ Ar XIV amž. gale kryžiuočių ordino surašytuose Lie­ tuvos kelių aprašymu
 - t-001
   global_id: t-32022
   teiginys: 'XIV a. pabaigos „die litauischen Wegeberichte“ įvairiose Aukštaičių žemės vietose mini 18 didžiojo kunigaikščio dvarų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Zietela'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/proistorė|proistorė]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Zietela'
   pagrindžia:
     - c-001
 

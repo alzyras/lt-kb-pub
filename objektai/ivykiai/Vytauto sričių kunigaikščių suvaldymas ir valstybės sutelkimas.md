@@ -64,7 +64,7 @@ Nenurodyta
   global_id: t-01877
   teiginys: 'Po Skirgailos mirties 1397 m. Vytautas Kijeve paskyrė savo vietininką Alšėnų kunigaikštį Joną Algimantaitį.'
   sudarymo_pagrindimas: 'Citata leidžia tiksliau įvardyti datą ir Jono Algimantaičio titulą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Alšėnai; mentioned_place: Kijevas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Alšėnai; mentioned_place: Kijevas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1397 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia tiksliau įvardyti datą ir Jono Algimantaičio titulą.'
@@ -76,7 +76,7 @@ Nenurodyta
   global_id: t-01879
   teiginys: 'Vytautas suvaldė nepaklusnius sričių kunigaikščius, pašalino juos iš vietų ir paskyrė savo vietininkus bajorus.'
   sudarymo_pagrindimas: 'Citata palaiko tą pačią mintį, bet ją galima pateikti enciklopediškiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 

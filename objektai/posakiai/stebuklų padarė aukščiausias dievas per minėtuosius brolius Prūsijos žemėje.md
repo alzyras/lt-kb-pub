@@ -32,7 +32,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   global_id: t-89605
   teiginys: 'Kronikos pratarmėje Petras Dusburgietis idealizavo pirmuosius Ordino brolius kaip neturtą, pavojus ir tikėjimo gynimą pasirinkusius vyrus.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie idealizavimą, bet pradinis teiginys per ilgas ir turi santrumpą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   global_id: t-89606
   teiginys: 'Petras Dusburgietis kronikos pratarmėje rašė, kad aukščiausias Dievas per Ordino brolius Prūsijoje padarė stebuklų.'
   sudarymo_pagrindimas: 'Teiginys apie autoriaus formuluotę pagrįstas, bet pradinė versija yra citatos fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Dusburgietis teigia, kad štai tokių didžiulių „stebuklų padarė aukščia
   global_id: t-89607
   teiginys: 'Petras Dusburgietis daugybe pavyzdžių vaizdavo Dievą padedantį kovojantiems Ordino broliams.'
   sudarymo_pagrindimas: 'Citata palaiko interpretacinį teiginį apie autoriaus vaizdavimą, bet reikia glaustesnės sakinio formos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-003
 

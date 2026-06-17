@@ -30,7 +30,7 @@ p. 208, Lietuvos kariuomenės 2-ojo pėstininkų Didžiojo Lietuvos kunigaikšč
   global_id: t-41041
   teiginys: '1920 m. lapkričio 22 d. 2-ojo pėstininkų Didžiojo Lietuvos kunigaikščio Algirdo pulko mokomoji kuopa buvo Giedraičių apylinkėse po mūšio su lenkais.'
   sudarymo_pagrindimas: 'Citata yra kataloginis užrašas, todėl perrašyta į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Mokomoji kuopa|Mokomoji kuopa]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Mokomoji kuopa|Mokomoji kuopa]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Giedraičiai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1917 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra kataloginis užrašas, todėl perrašyta į pilną faktinį sakinį.'

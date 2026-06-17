@@ -42,7 +42,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   global_id: t-85929
   teiginys: '1848 m. Michałas Balinskis sugrįžo į Lietuvą ir apsigyveno savo Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Išplėstas asmens vardas ir sakinys suformuluotas enciklopediškai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1848 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas asmens vardas ir sakinys suformuluotas enciklopediškai.'
@@ -54,7 +54,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   global_id: t-85930
   teiginys: '1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą mirties bei palaidojimo informaciją.'
-  susije_objektai: 'location: Jašiūnai; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'location: Jašiūnai; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] mirė Jašiūnai'
   temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Balinskis mirė Jašiūnai“, o ne visam objekto laikotarpiui.'

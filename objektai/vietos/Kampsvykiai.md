@@ -16,7 +16,6 @@ tags:
   - pilis
   - tikėjimas
   - upė
-  - vieta
 amziai:
   - 'XIII'
   - 'XIV'
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad apie Kampsvykių pilies užkariavimą Paskui magistras 
   global_id: t-58446
   teiginys: '1275 m. sunaikinta nadruvių Kampsvykių pilis lokalizuojama Kampsvykalnyje, dešiniajame Vangrapės krante.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva; mentioned_place: Nadruva; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Lietuva; mentioned_place: Nadruva; mentioned_place: Vangrapė'
   temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys aiškiau sietųsi su Kampsvykiais, o ne vien su Kampsvykalniu.'

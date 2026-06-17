@@ -21,7 +21,7 @@ tags:
   global_id: t-95939
   teiginys: 'Vytautas minėtame akte save titulavo „Alexander alias Witowdus dei gracia magnus dux Litwanie“.'
   sudarymo_pagrindimas: 'Pašalintos išnašos ir OCR triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

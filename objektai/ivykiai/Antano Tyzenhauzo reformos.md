@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-66449
   teiginys: 'Antanas Tyzenhauzas karališkosiose ekonomijose steigė palivarkus, reikalavo lažo, rūšiavo žemę, melioravo laukus ir tiesė kelius.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti konkretesnį reformų turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lažas|Lažas]]; mentioned_object: [[objektai/zodynas/činšas|činšas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-66450
   teiginys: 'Antano Tyzenhauzo reformos 1767 m. kartais laikomos vienu Apšvietos epochos pradžios ženklų.'
   sudarymo_pagrindimas: 'Reikia sutelkti teiginį į pastabos objektą ir pašalinti perteklinį įvykių sąrašą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Jėzuitų ordino panaikinimas|Jėzuitų ordino panaikinimas]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Baroko epocha|Baroko epocha]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_person: [[objektai/asmenys/Bžostovskis (Vilniaus vyskupas)|Bžostovskis (Vilniaus vyskupas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Paulava'
   temporaliniai_duomenys: 'įvykio data: 1767 m.; įvykio data: 1769 m.; įvykio data: 1773 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sutelkti teiginį į pastabos objektą ir pašalinti perteklinį įvykių sąrašą.'

@@ -43,7 +43,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   global_id: t-96077
   teiginys: 'Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.'
   sudarymo_pagrindimas: 'Pašalintas antraštės bei OCR triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/geležies amžius|geležies amžius]]; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_object: [[objektai/zodynas/geležies amžius|geležies amžius]]; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Pripetė'
   temporaliniai_duomenys: 'įvykio data: 800 m; įvykio data: 400-800'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės bei OCR triukšmas, paliktas citatos remiamas faktas.'
@@ -64,7 +64,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   global_id: t-96080
   teiginys: 'Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir suformuluotas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Lubavas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė'
   pagrindžia:
     - c-008
 
@@ -100,7 +100,7 @@ M oksle baltais paprastai vadinama grupė indoeuropiečių genčių ir tautų, g
   global_id: t-96085
   teiginys: 'Su slavais baltų protėviai, ypač iki geležies amžiaus pradžios, yra turėję artimų santykių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/prokalbė|prokalbė]]; mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-002
 

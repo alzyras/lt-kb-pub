@@ -28,7 +28,7 @@ Vartojamos formos: `šlapjurgiui`.
   global_id: t-07641
   teiginys: 'Šlapjurgis Daukanto vartosenoje siejamas su šalčiu ir drėgme, nuo kurių pastėrę sijonai galėjo plakti blauzdas.'
   sudarymo_pagrindimas: 'Citata palaiko žodžio vartoseną, bet pirminis teiginys per plačiai apibendrina reikšmę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-001
 

@@ -43,7 +43,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginys: 'Rūdninkų giria kronikoje minima kaip vieta, kur Mykoliukas susitiko su Kazimieru ir prašė jo malonės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas šnekamasis „šiame gabale“ ir įvardyti dalyviai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   global_id: t-187320
   teiginys: 'Rūdninkų miškų pavadinimas kildintas iš geležies rūdos klodų, slypėjusių po pelkėmis ir girių tankmėmis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Rūdninkai'
+  susije_objektai: 'mentioned_place: Rūdninkai'
   pagrindžia:
     - c-003
 
@@ -62,7 +62,7 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   teiginys: 'Mykoliukas Rūdninkų girioje susidūrė su Kazimieru, nusilenkė jam ir prašė malonės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sukonkretintas pagal citatos veiksmą ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Rūdninkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 

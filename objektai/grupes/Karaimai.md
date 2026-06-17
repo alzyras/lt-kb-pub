@@ -61,7 +61,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
 - t-004
   global_id: t-120187
   teiginys: 'Karaimų etninė bendruomenė ir religija LDK buvo toleruojamos nuo XIV a. pabaigos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   global_id: t-120189
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto veiksmą ir karaimų bendruomenės apgyvendinimą LDK.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Liublinas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Liublinas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] susiję su Lenkija; [[objektai/grupes/Karaimai|Karaimai]] susiję su Lietuva; [[objektai/grupes/Karaimai|Karaimai]] susiję su Liublinas; [[objektai/grupes/Karaimai|Karaimai]] susiję su Vilnius'
   pagrindžia:
     - c-002
@@ -89,7 +89,7 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   global_id: t-120190
   teiginys: 'Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Luckas; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Luckas; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas sakinys.'

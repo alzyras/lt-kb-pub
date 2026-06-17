@@ -23,7 +23,7 @@ tags:
   global_id: t-87738
   teiginys: 'Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Jurgio išsigelbėjimą su Švitrigaila.'
-  susije_objektai: 'territory: Maskva; territory: Mstislavlis; territory: Silezija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija; mentioned_place: Ukmergė'
+  susije_objektai: 'territory: Maskva; territory: Mstislavlis; territory: Silezija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija; mentioned_place: Ukmergė'
   semantiniai_rysiai: '[[objektai/asmenys/Jurgis (Maskvos kunigaikštis)|Jurgis (Maskvos kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)|Jurgis (Maskvos kunigaikštis)]] buvo valdovas Mstislavlis; [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)|Jurgis (Maskvos kunigaikštis)]] buvo valdovas Silezija; [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)|Jurgis (Maskvos kunigaikštis)]] buvo valdovas Ukmergė'
   pagrindžia:
     - c-001

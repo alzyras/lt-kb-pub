@@ -22,7 +22,7 @@ Malonybiškai ir kartu pašaipiai lietuvių vadinami „mūsų žydeliai“ (dė
   global_id: t-20920
   teiginys: 'Lietuvoje žydai, lietuvių malonybiškai ir pašaipiai vadinti „mūsų žydeliais“, garsėjo visuotiniu raštingumu ir pomėgiu knygai.'
   sudarymo_pagrindimas: 'Teiginys yra enciklopedinis sakinys apie posakį ir remiasi citatos faktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Žydai.md#claim-t-117406|Žydai]]: Šimtmečius Lietuvoje nebuvo aršaus antisemitizmo, nes lietuvių valstiečiai ir žydų pirkliai buvo tarpusavyje priklausomi.

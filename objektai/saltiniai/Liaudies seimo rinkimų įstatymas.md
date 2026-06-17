@@ -26,7 +26,6 @@ Pagal rinkimų įstatymą išrinktais atstovais laikomi tie kandidatai, kurie ga
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant perteklinę formuluotę ir išlaikant citatos patvirtintą nuostatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 

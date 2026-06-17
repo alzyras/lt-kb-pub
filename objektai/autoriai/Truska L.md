@@ -30,7 +30,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   global_id: t-19483
   teiginys: 'L. Truska parašė knygą „Antanas Smetona ir jo laikai“, išleistą Vilniuje 1996 m.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per trumpa, citata remia bibliografinį autorystės teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_person: [[objektai/autoriai/L. Truska|L. Truska]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Truska|L. Truska]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1996 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė per trumpa, citata remia bibliografinį autorystės teiginį.'
@@ -42,7 +42,7 @@ Blažytė-Baužienė D., Tamošaitis M., Truska L. Truska L.
   global_id: t-19484
   teiginys: 'L. Truska kartu su D. Blažyte-Baužiene ir M. Tamošaičiu parašė leidinį „Lietuvos Seimo istorija: XX–XXI a. pradžia“.'
   sudarymo_pagrindimas: 'Pradinė formuluotė tik išvardija autorius, citata remia autorystės teiginį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/autoriai/L. Truska|L. Truska]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Truska|L. Truska]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

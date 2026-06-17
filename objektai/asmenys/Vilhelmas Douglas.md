@@ -24,7 +24,7 @@ Tačiau netrukus Karaliaučiuje prasidėję anglų vaidai su škotais, Vilhelmo 
   global_id: t-87882
   teiginys: 'Vilhelmas Douglas buvo įžymus škotas, žuvęs dvikovoje per anglų ir škotų vaidus Karaliaučiuje.'
   sudarymo_pagrindimas: 'Pašalintas platesnis kontekstas ir OCR triukšmas; paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

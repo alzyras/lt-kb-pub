@@ -22,7 +22,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Lauro veiksmus; pašalinti nutrūkę ir pertekliniai fragmentai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
   pagrindžia:
     - c-001
 
@@ -34,7 +33,6 @@ Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmų seką ir rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184678|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, vedė Lauro seserį, tikėdamasis per giminystę su valdovais sumažinti lietuvių užpuldinėjimus.

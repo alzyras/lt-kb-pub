@@ -35,8 +35,7 @@ Aukštosios valstybinės vietos nebuvo atlyginamos iki pat XVIII amžiaus, bet k
   sudarymo_pagrindimas: 'Pradinis sakinys buvo per ilgas ir turėjo neaiškią įvardžio nuorodą.'
   pagrindžia:
     - c-001
-- susijęs iš Trakų vaivadija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
-- susijęs iš Žemaičių seniūnija: Nevėžis ilgą laiką buvo administracinė riba tarp Trakų vaivadijos ir Žemaičių seniūnijos.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -53,7 +53,7 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/vaisba vaisbūnas.md#claim-t-43358|vaisba vaisbūnas]]: Žodis „vaisba“ reiškė prekybą, o „vaisbūnas“ - pirklį.
+
 ## Reikšmingi paminėjimai
 
 - c-001

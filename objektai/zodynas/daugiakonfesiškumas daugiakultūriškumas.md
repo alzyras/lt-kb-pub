@@ -30,7 +30,7 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   global_id: t-22098
   teiginys: 'LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   sudarymo_pagrindimas: 'Teiginys susietas su žodyno objektu ir išlaiko citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/daugiakonfesiškumas|daugiakonfesiškumas]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Brasta; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Brasta; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1596 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su žodyno objektu ir išlaiko citatos faktą.'

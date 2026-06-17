@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-101534
   teiginys: '1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.'
   sudarymo_pagrindimas: 'Sakinys pilnas ir aiškiai susieja mitingą su paminklo vieta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Tropas|Tropas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_person: [[objektai/asmenys/Tropas|Tropas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1987 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas ir aiškiai susieja mitingą su paminklo vieta.'

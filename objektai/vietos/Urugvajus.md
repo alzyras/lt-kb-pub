@@ -29,7 +29,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   global_id: t-23520
   teiginys: 'Urugvajus iki 1977 m. buvo tarp valstybių, nepripažinusių Lietuvos prievartinio įjungimo į SSRS sudėtį.'
   sudarymo_pagrindimas: 'Pradinis sakinys per platus ir fragmentiškas, citata pagrindžia tikslų faktą apie Urugvajų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos diplomatinė tarnyba|Lietuvos diplomatinė tarnyba]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Brazilija; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vatikanas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos diplomatinė tarnyba|Lietuvos diplomatinė tarnyba]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Brazilija; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vatikanas'
   temporaliniai_duomenys: 'įvykio data: iki 1967 m.; įvykio data: iki 1977 m.; įvykio data: 1944 m.; įvykio data: 1967 m.; įvykio data: 1977 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys per platus ir fragmentiškas, citata pagrindžia tikslų faktą apie Urugvajų.'
@@ -41,7 +41,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   global_id: t-23521
   teiginys: 'Urugvajus buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas taip, kad būtų tiesiogiai apie Urugvajų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Afrika; mentioned_place: Venesuela; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Venesuela; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Lietuvos diplomatinė tarnyba.md#claim-t-183156|Lietuvos diplomatinė tarnyba]]: Lietuvos diplomatinė tarnyba per sovietų okupaciją rūpinosi lietuvių pabėgėlių ir Lietuvos laisvės klausimais Vakarų pasaulyje.

@@ -33,7 +33,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   global_id: t-85783
   teiginys: 'Testamento vykdytoju Karalystėje buvo pasirinktas Gniezno arkivyskupas kartu su Krokuvos ir Kujavų vyskupais.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs; citata palaiko aiškų faktą apie Gniezno arkivyskupą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Sandomiras'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ Martinas Galias pasakoja, kad Poznanė duo­ davo 1 300 šarvuotųjų ir 4 000 g
   global_id: t-85784
   teiginys: 'Martinas Galias pasakojo, kad Gnieznas duodavo 1 500 šarvuotųjų ir 5 000 pėstininkų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Gniezną ir remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Martinas Galias.md#claim-t-88032|Martinas Galias]]: Martinas Galias rašė, kad Poznanė duodavo 1 300 šarvuotųjų ir 4 000 skydais ginkluotų karių.

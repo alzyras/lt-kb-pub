@@ -24,7 +24,7 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   global_id: t-60314
   teiginys: 'Henrikas iš Kalendino buvo imperijos maršalas, minimas tarp didikų, pritarusių legatų siuntimui dėl ligoninės patvirtinimo.'
   sudarymo_pagrindimas: 'Citata patvirtina pareigas ir dalyvavimą didikų sprendime dėl legatų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 

@@ -31,7 +31,7 @@ Vokiečių valdžia, verčiama nesėkmių Rytų fronte, kitų metų pradžioje p
   global_id: t-66256
   teiginys: '1944 m. kovo mėn. Vietinėje rinktinėje buvo paskirtas 310-ojo bataliono vadas.'
   sudarymo_pagrindimas: 'Pradinis teiginys neturi aiškaus veiksnio ir nėra užbaigtas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neturi aiškaus veiksnio ir nėra užbaigtas sakinys.'

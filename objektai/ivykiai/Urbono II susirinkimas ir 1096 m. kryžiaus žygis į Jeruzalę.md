@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-89409
   teiginys: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda įvardžiu ir yra per ilgas; citata leidžia įvardyti Petrą.'
-  susije_objektai: 'location: Italija; location: Jeruzalė; location: Viena; location: Šventoji; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'location: Italija; location: Jeruzalė; location: Viena; location: Šventoji; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-89410
   teiginys: '1096 m. Petras su kryžininkais ir daugybe vokiečių persikėlė per Helespontą ir užėmė Švento Jurgio ranką, Antiochiją ir Jeruzalę.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia glaustą sakinį apie žygio veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
   temporaliniai_duomenys: 'įvykio data: 1096 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata remia glaustą sakinį apie žygio veiksmus.'
@@ -67,7 +67,7 @@ Nenurodyta
   global_id: t-89411
   teiginys: 'Po Urbono II susirinkimo vyskupai, prelatai, valdovai, kilmingieji ir kiti žmonės davė įžadus leistis į maldininkų žygį.'
   sudarymo_pagrindimas: 'Pradinis teiginys kopijuoja retorinį fragmentą ir nutrūksta; citata remia faktinį perrašymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Jeruzalė; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 

@@ -30,7 +30,7 @@ Privengdamas totorių chano Uzbeko, Teodoras tačiau negalėjo palaikyti glaudes
   global_id: t-30404
   teiginys: 'Totorių chanas Uzbekas kėlė Teodorui baimę, todėl šis negalėjo palaikyti glaudesnių ryšių su Gedimino Lietuva.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Uzbeką ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97311|Aldona Gediminaitė]]: Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.

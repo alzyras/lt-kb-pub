@@ -21,7 +21,7 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   global_id: t-60742
   teiginys: 'J. Lasickis Ragainą laikė miškų deive.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Lasickio pateikiamą Ragainos aiškinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_person: [[objektai/autoriai/J. Lasickis|J. Lasickis]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Lasickis|J. Lasickis]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 

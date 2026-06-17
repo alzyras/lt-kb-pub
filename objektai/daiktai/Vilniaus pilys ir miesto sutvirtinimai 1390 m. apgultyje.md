@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87015
   teiginys: '1390 m. apgultyje prie Žemutinės pilies šliejosi nedidelis Vilniaus miesto centras su mediniais namais, tvoromis ir grioviais.'
   sudarymo_pagrindimas: 'Patikslintas objektas ir kontekstas, išlaikant tik citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas objektas ir kontekstas, išlaikant tik citatos informaciją.'
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-87017
   teiginys: '1390 m. Vilniaus apgultyje Aukštutinę pilį gynė lenkai su Vilniaus seniūnu Mikalojumi Moskorovskiu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'

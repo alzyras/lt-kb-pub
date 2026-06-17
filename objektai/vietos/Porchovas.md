@@ -28,7 +28,7 @@ Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 
   global_id: t-36508
   teiginys: 'Naugardo ir Porchovo miestai sumokėjo Vytautui 10.000 rublių kontribucijos ir 1000 rublių už belaisvius.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kontribucija|kontribucija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas; mentioned_place: Naugardas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Luckas; mentioned_place: Naugardas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187767|Pskoviečiai]]: Pskoviečiai pasiuntiniais paprašė Vytauto būti jų valdovu, žadėdami jo klausyti, mokėti duoklę ir įsileisti jo vietininką.

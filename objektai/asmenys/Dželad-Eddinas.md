@@ -30,7 +30,7 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   global_id: t-34723
   teiginys: 'Dželad-Eddinas įsiviešpatavo 1411 m., o po to Vytautui paklusę totoriai nedrįso jam priešintis.'
   sudarymo_pagrindimas: 'Reikėjo pašalinti citatos intarpus ir pataisyti kabučių bei OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikėjo pašalinti citatos intarpus ir pataisyti kabučių bei OCR triukšmą.'
@@ -45,7 +45,7 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį sakinį reikia išvalyti nuo citatos ir konteksto triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: po 1411 m.; įvykio data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinį sakinį reikia išvalyti nuo citatos ir konteksto triukšmo.'

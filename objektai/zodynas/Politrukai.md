@@ -28,13 +28,13 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   global_id: t-22016
   teiginys: 'Sovietmečiu politrukai trukdė rengti Kazimiero Būgos pradėtą lietuvių kalbos žodyną.'
   sudarymo_pagrindimas: 'Pirminis teiginys gramatiškai netaisyklingas, bet citata pagrindžia pataisytą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antano Smetonos lituanistikos institutas|Antano Smetonos lituanistikos institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lituanistika|Lituanistika]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antano Smetonos lituanistikos institutas|Antano Smetonos lituanistikos institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1902 m.; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys gramatiškai netaisyklingas, bet citata pagrindžia pataisytą sakinį.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Kazimieras Būga.md#claim-t-19054|Kazimieras Būga]]: Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

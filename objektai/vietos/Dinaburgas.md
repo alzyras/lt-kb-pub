@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
-  - vieta
 ---
 # Dinaburgas
 

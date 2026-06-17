@@ -46,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta ir išvalyta fragmentiška citatos kopija, išlaikant palaikomus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Naugardukas; mentioned_place: Slonimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Naugardukas; mentioned_place: Slonimas'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas menkinantis žodis ir OCR triukšmas, faktas sukonkretintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Dnepras; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]; mentioned_place: Dnepras; mentioned_place: Pripetė'
   pagrindžia:
     - c-003
 

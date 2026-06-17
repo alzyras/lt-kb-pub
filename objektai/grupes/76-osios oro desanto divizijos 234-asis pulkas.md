@@ -20,7 +20,7 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
 - t-001
   global_id: t-40829
   teiginys: 'Į Vilnių buvo atskraidinti Pskovo 76-osios oro desanto divizijos 234-ojo pulko kariai su BMD-1 ir BMD-2 mašinomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
   pagrindžia:
     - c-001
 

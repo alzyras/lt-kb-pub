@@ -22,7 +22,7 @@ Dvi priešo kariuomenės turėjo susijungti prie Ivansko ir vėliau žygiuoti į
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra sugadintas OCR ir negramatiškas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Polockas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.).md#claim-t-09884|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]: Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.
@@ -53,4 +53,4 @@ Dvi priešo kariuomenės turėjo susijungti prie Ivansko ir vėliau žygiuoti į
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras]] mire Ivanskas
+- [[objektai/asmenys/Kūnas]] mire Ivanskas

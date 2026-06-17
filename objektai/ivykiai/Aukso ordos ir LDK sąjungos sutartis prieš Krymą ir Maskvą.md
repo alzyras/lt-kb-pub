@@ -53,7 +53,7 @@ Nenurodyta
   teiginys: '1501 m., tarpininkaujant Michailui Chaleckiui, Aukso orda ir LDK sudarė sąjungos sutartį prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Paprastam faktui nereikia redakcinės pastabos įžangos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Gomelis; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Gomelis; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Paprastam faktui nereikia redakcinės pastabos įžangos.'

@@ -33,7 +33,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   global_id: t-79076
   teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatos formuluotę.'
-  susije_objektai: 'territory: Švedija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  susije_objektai: 'territory: Švedija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
@@ -46,7 +46,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   global_id: t-79077
   teiginys: 'Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis įvadas ir OCR klaida, sakinys padarytas savarankiškas.'
-  susije_objektai: 'territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  susije_objektai: 'territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]]; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
   pagrindžia:
     - c-005
@@ -55,7 +55,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - t-003
   global_id: t-79078
   teiginys: 'Karolis IX ir Karina Nilsdotter buvo nesantuokinio sūnaus Karolio Karlsono Gyllenhielmo tėvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karina Nilsdotter|Karina Nilsdotter]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karina Nilsdotter|Karina Nilsdotter]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1574-1650; įvykio data: 1616 m.; įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -66,7 +66,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   global_id: t-79079
   teiginys: 'Karolis IX vos nepakliuvo į nelaisvę, bet išsigelbėjo, kai švedų reitaras Henrikas Vrede atidavė jam savo žirgą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Karolį IX ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Henrikas Vrede|Henrikas Vrede]]; mentioned_place: Lietuva; mentioned_place: Švedija'
   pagrindžia:
     - c-003
 
@@ -75,7 +75,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
   global_id: t-79080
   teiginys: 'Karolis Sudermanas pasiuntė 2400 karių pristatyti apsiaustai švedų kariuomenei maisto ir šaudmenų.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet sutrumpintas ir sutvarkytas į enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
   pagrindžia:
     - c-004
 
@@ -83,7 +83,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - t-006
   global_id: t-79081
   teiginys: 'Salaspilio mūšyje Karolis IX netrukus turėjo duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1605 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -93,7 +93,7 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - t-007
   global_id: t-79082
   teiginys: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
-  susije_objektai: 'territory: Kuoknesė; territory: Kuoknesės pilis; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
+  susije_objektai: 'territory: Kuoknesė; territory: Kuoknesės pilis; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Kuoknesė; [[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Kuoknesės pilis; [[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1574-1650; valdymo laikotarpis: 1616 m.; valdymo laikotarpis: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis IX buvo valdovas Kuoknesė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis IX buvo valdovas Kuoknesės pilis (pilis)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'

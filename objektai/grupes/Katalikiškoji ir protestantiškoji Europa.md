@@ -27,7 +27,7 @@ senoji Vakarų Europa skilo į dvi dalis – pietinę katalikiškąją ir šiaur
   global_id: t-16165
   teiginys: 'XVII–XVIII a. senoji Vakarų Europa skilo į pietinę katalikiškąją ir šiaurinę protestantiškąją dalis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie katalikiškosios ir protestantiškosios Europos skirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Vakarų Europa'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Vakarų Europa'
   temporaliniai_duomenys: 'įvykio data: 1588 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie katalikiškosios ir protestantiškosios Europos skirtį.'

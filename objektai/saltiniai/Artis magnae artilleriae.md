@@ -33,7 +33,7 @@ amziai:
   global_id: t-23384
   teiginys: 'Kazimiero Semenavičiaus veikalas „Artis magnae artilleriae“ datuojamas 1650 m.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -45,7 +45,7 @@ amziai:
   global_id: t-23385
   teiginys: 'Kazimiero Semenavičiaus 1650 m. „Artis magnae artilleriae“ buvo reikšmingiausias Lietuvos karinės inžinerijos mokyklos darbas.'
   sudarymo_pagrindimas: 'Perrašyta, kad data aiškiai apibūdintų veikalą, o ne reikšmingumo atsiradimo momentą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad data aiškiai apibūdintų veikalą, o ne reikšmingumo atsiradimo momentą.'
@@ -56,7 +56,7 @@ amziai:
 - t-003
   global_id: t-23386
   teiginys: 'Veikale išdėstyta daugiapakopių raketų teorija siejama su šiuolaikinės artilerijos ir kosmonautikos ištakomis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -67,7 +67,7 @@ amziai:
   global_id: t-23388
   teiginys: 'Kazimiero Semenavičiaus veikalo „Artis magnae artilleriae“ frontispisas datuojamas 1650 m.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną sakinį.'

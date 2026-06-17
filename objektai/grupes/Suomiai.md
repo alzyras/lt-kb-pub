@@ -22,7 +22,7 @@ Mums nėra reikalo vartoti baltų termino dar ir dėl to, kad juo dažnai pažym
   global_id: t-01485
   teiginys: 'Suomiai priskirti prie lietuviams negiminiškų tautų, kurios kartais buvo žymimos baltų terminu.'
   sudarymo_pagrindimas: 'Originalas perima šaltinio poleminę formuluotę ir nėra enciklopedinis teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Valdemaras IV.md#claim-t-30406|Valdemaras IV]]: Iš Danijos karaliaus Valdemaro IV Ordinas nupirko Estiją.

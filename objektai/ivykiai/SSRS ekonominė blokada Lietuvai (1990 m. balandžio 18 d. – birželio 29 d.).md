@@ -43,7 +43,7 @@ Nenurodyta
 - t-001
   global_id: t-45439
   teiginys: 'SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, nedirbo Mažeikių naftos perdirbimo įmonė, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-45440
   teiginys: '1990 m. balandžio 18 d. SSRS pradėjo Lietuvos ekonominę blokadą, kuri truko iki birželio 29 d.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, užbaigtas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, užbaigtas ir tiesiogiai paremtas citata.'
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-45441
   teiginys: 'Lietuva atsilaikė prieš SSRS ekonominę blokadą ir diplomatinėmis priemonėmis pasiekė jos atšaukimą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'

@@ -31,7 +31,7 @@ Stovyklininkas Pavlikas Liubline pakeisdamas in Febru­ aris [vasarį], kai buvo
   global_id: t-87834
   teiginys: 'Ponui Plockiui turėjo būti sumokėta skola iš lietuviškų monetų, jas keičiant į lenkiškas.'
   sudarymo_pagrindimas: 'Citata leidžia teigti tik apie Plockiui numatytą skolos apmokėjimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Pavlikas|Pavlikas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Leipcigas; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mlodyčius|Mlodyčius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Leipcigas; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Mlodyčius.md#claim-t-87919|Mlodyčius]]: Mlodyčiui į Leipcigą turėjo būti laiku pasiųsti pinigai skolai sumokėti iš lietuviškų monetų, jas keičiant į lenkiškas.

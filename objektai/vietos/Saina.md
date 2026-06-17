@@ -10,7 +10,6 @@ tags:
   - miestas
   - pilis
   - upė
-  - vieta
 ---
 # Saina
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad apie Lunenburgo pilies ir dviejų miestų pastatymą Tu
   global_id: t-58630
   teiginys: 'Ditrichas iš Altenburgo Lunenburgo pilį pastatė Bartos žemėje, Gubros ir Sainos santakoje.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citatos duomenimis apie Sainos santaką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-001
 

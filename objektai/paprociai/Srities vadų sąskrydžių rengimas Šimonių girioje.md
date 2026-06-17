@@ -43,7 +43,6 @@ Nenurodyta
   global_id: t-09606
   teiginys: 'Šimonių girioje būdavo rengiami srities vadų sąskrydžiai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
   temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -55,7 +54,6 @@ Nenurodyta
   global_id: t-09607
   teiginys: 'Šimonių girioje bazavosi srities vadovybė ir būdavo rengiami srities vadų sąskrydžiai.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
   temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį apie sąskrydžių rengimą.'

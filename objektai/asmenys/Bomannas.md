@@ -30,10 +30,9 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
   global_id: t-87487
   teiginys: 'Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, o perrašymas pašalina OCR triukšmą ir perteklinę spėlionę.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Vroclavas'
-  semantiniai_rysiai: '[[objektai/asmenys/Bomannas|Bomannas]] prekiavo su [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Vroclavas'
   temporaliniai_duomenys: 'prekybos laikotarpis: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Bomannas prekiavo su Švitrigaila“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, o perrašymas pašalina OCR triukšmą ir perteklinę spėlionę.'
   pagrindžia:
     - c-001
@@ -43,10 +42,9 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
   global_id: t-87488
   teiginys: 'Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų Vilniaus gyventojui Bomannui, vykusiam į Gdanską prekybos reikalais.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą, bet pradinis tekstas turi išnašos ir OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš Švitrigailos laiškas dėl Bomanno kelionės į Gdanską: Švitrigaila laiške didžiajam magistrui prašė saugumo garantijų į Gdanską prekybos reikalais vykstančiam Vilniaus gyventojui Bomannui.
 - susijęs iš Vilnius: Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.
 ## Reikšmingi paminėjimai
 
@@ -87,6 +85,3 @@ Valdant Švitrigailai, Vilniaus miestietis Bomannas, tikriausiai garsus pirklys,
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Bomannas prekiavo_su [[objektai/asmenys/Švitrigaila]]

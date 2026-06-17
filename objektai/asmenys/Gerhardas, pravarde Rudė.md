@@ -21,7 +21,7 @@ Dusburgietis teigia, kad tuo tarpu lietuviai savo dievams kaip auką sudegino br
   global_id: t-60288
   teiginys: 'Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.'
   sudarymo_pagrindimas: 'Pašalinta boilerplate įžanga ir išnašos numeris, faktas paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

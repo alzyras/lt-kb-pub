@@ -29,7 +29,7 @@ tags:
   global_id: t-09667
   teiginys: 'Algirdas Maskvos valdovo pasiuntiniui pareiškė, kad per Velykas bus Maskvoje ir atrems ietį į Kremliaus sieną.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų atsakymą, ne abstrakčią formuluotę apie kontrgrasinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kremlius; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_place: Kremlius; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -41,8 +41,7 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]; mentioned_place: Maskva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186837|Ietis]]: Pasak pasakojimo, Algirdas atrėmė ietį į Maskvos miesto sieną ir pareiškė, kad lietuvių ietis stovėjo prie Maskvos.
-- susijęs iš [[objektai/posakiai/„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“.md#claim-t-41484|„Maskvos didysis kunigaikšti, atmink, kad lietuvių ietis stovėjo prie Maskvos!“]]: Prijojęs prie Maskvos miesto sienos, Algirdas atrėmė į ją ietį ir priminė, kad lietuvių ietis stovėjo prie Maskvos.
+
 ## Reikšmingi paminėjimai
 
 - c-001

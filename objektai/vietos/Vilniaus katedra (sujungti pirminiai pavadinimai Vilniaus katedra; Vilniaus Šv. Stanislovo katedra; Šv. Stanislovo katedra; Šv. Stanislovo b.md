@@ -21,7 +21,6 @@ tags:
   - kunigaikštis
   - popiežius
   - vieta
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XVI'
@@ -39,7 +38,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85798
   teiginys: 'Vilniaus katedros bažnyčioje ties šventovės viduriu buvo Šventojo Kryžiaus altorius.'
   sudarymo_pagrindimas: 'Citata nurodo altoriaus vietą katedros bažnyčioje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -48,7 +47,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85799
   teiginys: 'Vilniaus vyskupas Mikalojus Šv. Stanislovo katedroje iškilmingai paskelbė Švitrigailą didžiuoju kunigaikščiu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -57,7 +56,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85800
   teiginys: 'Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir paliktas pagrįstas teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Apaštalų Sostas|Apaštalų Sostas]]; mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Apaštalų Sostas|Apaštalų Sostas]]; mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -66,7 +65,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85801
   teiginys: 'Vilniaus miesto taryba ginčijo Vilniaus katedros kapitulos jurisdikciją miesto gyventojų atžvilgiu.'
   sudarymo_pagrindimas: 'Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/oficijolas|oficijolas]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -75,7 +74,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85802
   teiginys: 'Vilniaus kapitulos archyve buvo sutartis su Bernardu Zanobijumi dėl Šv. Stanislovo katedros permūrijimo per penkerius metus nuo 1536 m.'
   sudarymo_pagrindimas: 'Patikslintas sutarties objektas ir terminas pagal citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'sutarties data: po 1536 m.; sutarties data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip sutarties data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas sutarties objektas ir terminas pagal citatą.'
@@ -87,7 +86,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85803
   teiginys: 'Vilniaus vyskupas Jonas Lasavičius Vilniaus katedroje įrengė Vyskupų koplyčią.'
   sudarymo_pagrindimas: 'Pridėtas asmens vaidmuo, kurį aiškiai nurodo citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Lasavičius|Jonas Lasavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Lasavičius|Jonas Lasavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1481 m.; įvykio data: po 1462 m.; įvykio data: 1462 m.; įvykio data: 1481 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėtas asmens vaidmuo, kurį aiškiai nurodo citata.'
@@ -98,7 +97,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
 - t-007
   global_id: t-85804
   teiginys: 'Stanislovo garbei, iškilmingai pripažinta katedra.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -107,7 +106,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85805
   teiginys: 'Šv. Stanislovo bažnyčioje italų meistrai iš brangaus marmuro pastatė Elžbietos ir Barboros antkapius.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie antkapius bažnyčioje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -116,7 +115,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85806
   teiginys: '1396 m. Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą netoli Medininkų pilies.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cudzeniškiai; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Cudzeniškiai; mentioned_place: Medininkai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
@@ -128,7 +127,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85807
   teiginys: 'Elžbieta, Ferdinando duktė ir Žygimanto Augusto žmona, mirė Vilniuje 1545 metais ir buvo palaidota katedros koplyčioje šalia Aleksandro.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir atkurtas pilnas sakinys.'
-  susije_objektai: 'location: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
+  susije_objektai: 'location: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] mirė Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b'
   pagrindžia:
     - c-009
@@ -138,7 +137,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85808
   teiginys: '1522 m. Vilniaus vyskupas Jonas prie Vilniaus katedros įkūrė penktąją scholastiko prelatūrą Katedros mokyklai išlaikyti.'
   sudarymo_pagrindimas: 'Pradinis teiginys ne apie katedrą, bet citata palaiko katedros faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Jokūbas Babičius|Jokūbas Babičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jokūbas Babičius|Jokūbas Babičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įkūrimo data: 1522 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys ne apie katedrą, bet citata palaiko katedros faktą.'
@@ -150,7 +149,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85809
   teiginys: 'Vilniaus katedros kapitula galėjo naudotis bažnytine jurisdikcija ir ekskomunikacijos teise savo asmenų bei valdinių bylose.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir užbaigtas be OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/imunitetai|imunitetai]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -159,7 +158,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85810
   teiginys: 'Šv. Stanislovo katedroje Vaitiekus Taboras sutuokė didįjį kunigaikštį Aleksandrą su Elena.'
   sudarymo_pagrindimas: 'Citata aiškiai aprašo santuokos apeigas katedroje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-013
 
@@ -168,7 +167,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85811
   teiginys: 'Pranešime apie Vilniaus gaisrą teigta, kad sudegė Vilniaus katedra ir karaliaus iždas su turtais bei brangenybėmis.'
   sudarymo_pagrindimas: 'Pradinė frazė silpna, bet citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lietuva; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lietuva; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

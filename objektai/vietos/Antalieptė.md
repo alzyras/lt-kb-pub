@@ -21,7 +21,7 @@ tags:
   global_id: t-38436
   teiginys: 'P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra fragmento ir OCR triukšmo, o citata palaiko aiškų veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/P. Genys|P. Genys]]; mentioned_place: Svėdasai; mentioned_place: Užpaliai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/P. Genys|P. Genys]]; mentioned_place: Svėdasai; mentioned_place: Užpaliai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. Džiuvė.md#claim-t-39695|A. Džiuvė]]: Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.

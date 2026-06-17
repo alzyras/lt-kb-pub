@@ -23,7 +23,7 @@ Kučinskas: Kęstutis , 124-125 p. 260 ii skyrius: valstybės iškilimas mis; pa
 - t-001
   global_id: t-31775
   teiginys: 'Kučinsko „Kęstutyje“ remiamasi 124–125 puslapiais, kuriuose aptariamos Kęstučio atliktos pagoniškos jaučio aukojimo apeigos.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Kučinskas|A. Kučinskas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dubnas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Dubnas'
   pagrindžia:
     - c-001
 

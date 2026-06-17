@@ -59,7 +59,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55077
   teiginys: 'Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.'
   sudarymo_pagrindimas: 'Tai autoriaus interpretacija, todėl reikia atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -68,7 +68,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55078
   teiginys: 'Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus interpretacinę klasifikaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -111,7 +111,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55083
   teiginys: 'Karai ir dažnas karinės valdžios kišimasis silpnino Vilniaus miestiečiams suteiktų Magdeburgo teisių poveikį.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti teiginį su miestiečių luomu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -120,8 +120,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55084
   teiginys: 'Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant perteklinį ir kiek neaiškų žodį „sostinės“.'
-  susije_objektai: 'owner: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: Mazovija; owner: Naugardas; owner: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; owner: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; owner: Viena; owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/asmenys/Rusdorfas|Rusdorfas]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Lietuva; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Mazovija; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Naugardas; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Viena; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Vilnius'
+  susije_objektai: 'owner: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: Mazovija; owner: Naugardas; owner: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; owner: Viena; owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/asmenys/Rusdorfas|Rusdorfas]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Lietuva; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Mazovija; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Naugardas; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Viena; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Vilnius'
   pagrindžia:
     - c-006
 
@@ -129,7 +129,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - t-009
   global_id: t-55085
   teiginys: '1424 m. Vytauto privilegijos atleido Vilniaus miestiečius nuo įvairių duoklių, bet jų naudą gavo Romos katalikai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -167,7 +167,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55089
   teiginys: '1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus ir paremtas citata.'
@@ -179,7 +179,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55090
   teiginys: '1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje minimą 1564 m. sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje minimą 1564 m. sprendimą.'
@@ -191,7 +191,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172824
   teiginys: 'Vilniaus burmistrai, tarybos nariai ir miestiečiai skundė vaitą dėl Magdeburgo teisės nesilaikymo ir privilegijų pažeidimų.'
   sudarymo_pagrindimas: 'Citata pagrindžia skundą, o originalas buvo dokumento fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-019
 
@@ -209,7 +209,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172826
   teiginys: 'Miestiečių luomas, dviejų paskutinių Jogailaičių iškeltas iki tikrų piliečių, valdant Steponui Batorui turėjo stiprų globėją.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet originalas buvo nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]'
   pagrindžia:
     - c-020
 
@@ -218,7 +218,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172827
   teiginys: 'Kazimieras dar būdamas didžiuoju kunigaikščiu atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citatoje pateiktu faktu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-018
 
@@ -227,7 +227,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172828
   teiginys: 'Vilniaus namų statyba teikė miestiečiams naudingos veiklos ir prisidėjo prie jų turtėjimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia ekonominį miestiečių luomo teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-027
 
@@ -236,7 +236,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172830
   teiginys: '1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Lukas Opachovskis|Lukas Opachovskis]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/asmenys/Zenonas Zažeckis|Zenonas Zažeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Lukas; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Lukas Opachovskis|Lukas Opachovskis]]; mentioned_person: [[objektai/asmenys/Zenonas Zažeckis|Zenonas Zažeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Lukas; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
@@ -248,7 +248,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172831
   teiginys: 'Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.'
   sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikia atribucijos ir aiškesnio subjekto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jeronimas Opachovskis|Jeronimas Opachovskis]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Bełskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai autoriaus vertinimas, todėl reikia atribucijos ir aiškesnio subjekto.'
@@ -260,7 +260,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172832
   teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.'
   sudarymo_pagrindimas: 'Citata pagrindžia luomo padėties aiškinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-022
 
@@ -269,7 +269,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172833
   teiginys: '1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir aiškiai paremtas citata.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] susiję su Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus miestiečių luomas susiję su Vilnius“, o ne visam objekto laikotarpiui.'
@@ -282,7 +282,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172834
   teiginys: 'Vilniaus miestiečiai, palaikę Jogailą prieš Kęstutį, naktį sumušė Kęstučio įgulą ir perdavė Jogailai Žemutinę bei Aukštutinę pilis.'
   sudarymo_pagrindimas: 'Citata pagrindžia miestiečių veiksmą ir jo rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-014
 
@@ -291,7 +291,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172835
   teiginys: '1506 m. totorių pabūgę Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis ir atitinka citatos turinį.'
@@ -303,7 +303,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172836
   teiginys: 'Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.'
   sudarymo_pagrindimas: 'Citata pagrindžia miestiečių luomo politinį dalyvavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-023
 
@@ -312,7 +312,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172837
   teiginys: 'Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo sutvarkyti OCR.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] susiję su Lietuva; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] susiję su Vilnius'
   pagrindžia:
     - c-015
@@ -322,7 +322,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172839
   teiginys: '1451 m. Kazimieras atleido Magdeburgo teisei paklususius Vilniaus miestiečius nuo pastočių davimo.'
   sudarymo_pagrindimas: 'Teiginys tikslus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/pastočiai|pastočiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1451 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tikslus ir paremtas citata.'
@@ -355,7 +355,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172842
   teiginys: 'Iki Gedimino Vilniaus būsimo miesto užuomazgą sudarė palei Vilnią gyvenę lietuviai, vaidilos ir jų svitos žmonės.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra bendras svarstymo fragmentas, o citata leidžia konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Ryga; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra bendras svarstymo fragmentas, o citata leidžia konkretų faktą.'
@@ -376,7 +376,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172845
   teiginys: 'Žygimantas rugsėjo 23 d. suteikė Vilniaus miestiečiams teisę prekiauti ir be muitų gabenti prekes Lietuvos žemėse.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o originalas buvo per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-026
 
@@ -385,7 +385,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172846
   teiginys: '1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o sakinį reikėjo sutvarkyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1568 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, o sakinį reikėjo sutvarkyti.'
@@ -397,7 +397,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172847
   teiginys: 'Magdeburgo teisės Vilniaus miestiečiams buvo menkai paveikios dėl karų, baimės ir karinės valdžios kišimosi į miesto valdymą.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, tačiau buvo nutrūkęs ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-87520|Ivanas Vasiljevičius]]: Caras Ivanas Vasiljevičius savo užmačiomis nukreipė didžiojo kunigaikščio Aleksandro dėmesį nuo Vilniaus gerovės.
@@ -1092,7 +1092,6 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
 - Vilniaus miestiečių luomas priklause [[objektai/vietos/Mazovija]]
 - Vilniaus miestiečių luomas priklause [[objektai/vietos/Naugardas]]
 - Vilniaus miestiečių luomas priklause [[objektai/asmenys/Rusdorfas]]
-- Vilniaus miestiečių luomas priklause [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
 - Vilniaus miestiečių luomas priklause [[objektai/vietos/Viena]]
 - Vilniaus miestiečių luomas priklause [[objektai/vietos/Vilnius]]
 - Vilniaus miestiečių luomas priklause [[objektai/grupes/Vokiečiai]]

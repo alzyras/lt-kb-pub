@@ -22,7 +22,7 @@ buvo sukurta originali, vadinamoji Vilniaus baroko mokykla, kurios pagrindinis a
   global_id: t-21978
   teiginys: 'XVIII a. susiformavo originali Vilniaus baroko mokykla, kurios pagrindiniu architektu laikomas Jonas Kristupas Glaubicas.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda mažąja raide ir perima vertinamąją formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

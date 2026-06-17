@@ -21,7 +21,7 @@ Dusburgietis teigia, kad tas brolis Ditrichas iš Ezbeko iš anksto išsipranaš
   global_id: t-60368
   teiginys: 'Konradas Rufus žadėjo Ditrichui iš Ezbeko atiduoti savo žirgą, kai šis trauksis atgal.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinę autoriaus atribuciją ir aiškiai įvardyti veikėjus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Ezbeko|Ditrichas iš Ezbeko]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Ezbeko|Ditrichas iš Ezbeko]]'
   pagrindžia:
     - c-001
 

@@ -23,7 +23,7 @@ tags:
   global_id: t-99928
   teiginys: 'Koložas buvo Gardino priemiestis.'
   sudarymo_pagrindimas: 'Indekso fragmentas leidžia paremti trumpą faktą, bet pradinė ištrauka buvo triukšminga ir ne sakinio formos.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Koneczny|Koneczny]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Gardinas; mentioned_place: Knituva; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Maskva; mentioned_place: Šušvė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Gardinas; mentioned_place: Knituva; mentioned_place: Kolainiai; mentioned_place: Kolainių pilis; mentioned_place: Maskva; mentioned_place: Šušvė'
   pagrindžia:
     - c-001
 - susijęs iš Naugardukas: Naugardukas 1044 m. Jaroslavo buvo įkurtas, tikėtina, dar lietuvių gyvenamoje žemėje.

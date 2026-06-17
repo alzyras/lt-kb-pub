@@ -29,7 +29,7 @@ Dusburgietis teigia, kad vileišis V.
   global_id: t-61350
   teiginys: 'V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.'
   sudarymo_pagrindimas: 'Citata pateikia bibliografinį faktą apie leidinio temą, vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Vydūnas|Vydūnas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vydūnas|Vydūnas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį faktą apie leidinio temą, vietą ir metus.'

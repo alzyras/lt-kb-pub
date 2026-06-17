@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-87279
   teiginys: 'Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko karčemų monopolio taisyklę, o pradinis teiginys su puslapio ir lotyniško fragmento triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]'
   pagrindžia:
     - c-001
 

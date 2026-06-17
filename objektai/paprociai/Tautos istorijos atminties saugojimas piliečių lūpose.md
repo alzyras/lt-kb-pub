@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-54358
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui rašė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Akelaičio išsakytą tautos istorijos atminties idėją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_object: [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“|„Tautos istorija turi būti kiekvieno piliečio lūpose, ir tuomet tauta bus nemirtinga.“]]; mentioned_person: [[objektai/autoriai/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1859 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Akelaičio išsakytą tautos istorijos atminties idėją.'

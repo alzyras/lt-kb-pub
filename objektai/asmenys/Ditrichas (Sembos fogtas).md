@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   global_id: t-59834
   teiginys: 'Ditrichas Sembos fogtu buvo 1278-1292 m.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, glaustas ir paremtas išnašos duomenimis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Semba; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Semba; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1231 m.; įvykio data: apie 1231 m.; įvykio data: 1278-1292; įvykio data: 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, glaustas ir paremtas išnašos duomenimis.'
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   global_id: t-59837
   teiginys: 'Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Ditricho pasiuntimą į Nadruvą.'
@@ -85,7 +85,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   global_id: t-59838
   teiginys: 'Sembos fogtas Ditrichas magistro įsakymu su brolių ir tūkstančio vyrų pajėgomis užpuolė Ragainės pilies vietoje stovėjusią pilį.'
   sudarymo_pagrindimas: 'Pašalinta antraštė ir nutrūkęs sakinio fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas; mentioned_place: Ragainė; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -103,7 +103,7 @@ Dusburgietis teigia, kad apie vieną stebuklą Sembos žemėje, Žiokos valsčiu
   global_id: t-59840
   teiginys: 'Sembos fogtui Ditrichui nepatiko, kad broliai bartams grąžino į nelaisvę paimtas žmonas ir vaikus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodyta Ditricho reakcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Gardinas; mentioned_place: Semba'
   pagrindžia:
     - c-007
 

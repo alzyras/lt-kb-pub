@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-01798
   teiginys: '1696 m. gale pasirašyta taika įpareigojo vyskupą atšaukti ekskomuniką, o hetmoną išvesti kariuomenę iš bažnytinių dvarų.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti sakinį su taikos pasirašymo įvykiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1696 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti sakinį su taikos pasirašymo įvykiu.'

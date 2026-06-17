@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-86977
   teiginys: '1542 m. Žygimanto Senojo privilegija suteikė Vilniaus vyskupui Povilui ir jo įpėdiniams pasaulietinės valdžios paramą bažnytinėms bausmėms vykdyti.'
   sudarymo_pagrindimas: 'Citata remia privilegijos turinį, bet pradinė formuluotė buvo per bendra ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/instigatorius|instigatorius]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1542 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia privilegijos turinį, bet pradinė formuluotė buvo per bendra ir su OCR triukšmu.'

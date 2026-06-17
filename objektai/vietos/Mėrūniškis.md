@@ -21,7 +21,7 @@ Dusburgietis teigia, kad apie Sūduvos [ žemės] Mėrūniškių valsčiaus nusi
   global_id: t-58600
   teiginys: 'Ordino magistras Konradas su raitija įsiveržė į Mėrūniškio valsčių, jį nusiaubė ir nukovė arba paėmė į nelaisvę 600 žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų faktą apie Mėrūniškį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 

@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-55133
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-55134
   teiginys: 'Vilniaus Senienų muziejus buvo mokslinė institucija, sutelkusi krašto visuomenę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos formuluotę.'
@@ -65,7 +65,7 @@ Nenurodyta
   global_id: t-81829
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išsaugotas citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir išsaugotas citatos faktas.'

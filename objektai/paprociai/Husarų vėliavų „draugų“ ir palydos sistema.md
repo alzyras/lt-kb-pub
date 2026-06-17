@@ -63,7 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-71801
   teiginys: 'Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -71,7 +71,7 @@ Nenurodyta
 - t-004
   global_id: t-71802
   teiginys: 'Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lyda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lyda'
   pagrindžia:
     - c-001
 
@@ -80,7 +80,7 @@ Nenurodyta
   global_id: t-71803
   teiginys: 'XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, o citata tiesiogiai jį palaiko.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 

@@ -31,7 +31,7 @@ amziai:
 - t-001
   global_id: t-75612
   teiginys: '„Idealioji Lietuva“ įsivaizduota kaip kultūrinė erdvė, kurioje filmus ir spektaklius kurtų Jonas Mekas, Eimuntas Nekrošius ir Robertas Zemeckis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eimuntas Nekrošius|Eimuntas Nekrošius]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eimuntas Nekrošius|Eimuntas Nekrošius]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -42,7 +42,7 @@ amziai:
   global_id: t-75613
   teiginys: '„Idealiosios Lietuvos“ vaizdinyje Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į PAR.'
   sudarymo_pagrindimas: 'Reikia susieti faktą su posakio objektu ir sutrumpinti formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Davidas Suchetas|Davidas Suchetas]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Davidas Suchetas|Davidas Suchetas]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1901 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia susieti faktą su posakio objektu ir sutrumpinti formuluotę.'
@@ -57,7 +57,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata kalba apie įsivaizduojamą vaizdinį, todėl tai reikia aiškiai pasakyti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eimuntas Nekrošius|Eimuntas Nekrošius]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lietuva; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Eimuntas Nekrošius|Eimuntas Nekrošius]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lietuva; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata kalba apie įsivaizduojamą vaizdinį, todėl tai reikia aiškiai pasakyti.'

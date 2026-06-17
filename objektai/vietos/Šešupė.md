@@ -33,7 +33,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   global_id: t-73958
   teiginys: 'Sūduvos dykroje siena ėjo Lieponos paupiu iki Širvintos ir Širvintos krantu iki jos įtekėjimo į Šešupę.'
   sudarymo_pagrindimas: 'Pašalinta skyrybos ir fragmentiškumo problema, išlaikyta citatos prasmė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Liepona; mentioned_place: Nemunas; mentioned_place: Sūduva; mentioned_place: Širvinta; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_place: Liepona; mentioned_place: Nemunas; mentioned_place: Sūduva; mentioned_place: Širvinta; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   global_id: t-73959
   teiginys: 'Sūduvos dykroje siena ėjo Šešupės krantu per girių masyvus, o Šešupės žemupys buvo paliktas Ordinui.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų aišku, kieno žemupys minimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Liepona; mentioned_place: Nemunas; mentioned_place: Sūduva; mentioned_place: Širvinta; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Liepona; mentioned_place: Nemunas; mentioned_place: Sūduva; mentioned_place: Širvinta; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 

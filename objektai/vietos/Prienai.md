@@ -42,7 +42,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   global_id: t-69032
   teiginys: 'Bolševikų pajėgos planavo persikelti per Nemuną Prienuose ir Alytuje, kad galėtų pulti Kauną iš pietų.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie Prienų vaidmenį Kauno puolimo plane.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Žiežmariai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Žiežmariai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų faktą apie Prienų vaidmenį Kauno puolimo plane.'
@@ -54,7 +54,7 @@ Pirmuoju vyskupu valdžia pasirinko garsųjį pamokslininką Prienų kleboną pr
   global_id: t-69034
   teiginys: '7-asis pulkas puolė Prienų kryptimi, siekdamas apeiti Kauną ir užpulti miestą iš pietų.'
   sudarymo_pagrindimas: 'Patikslintas įvardžio antecedentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vilkaviškis'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. Žemaitis.md#claim-t-39988|A. Žemaitis]]: Netoli Birštono Zaskevičiaus kariai sutiko A. Žemaičio vadovaujamą 1-ojo pėstininkų pulko 2-ąją kuopą, vykusią paremti Jiezno puolimo.

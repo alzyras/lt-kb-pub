@@ -46,9 +46,9 @@ Nenurodyta
   global_id: t-75201
   teiginys: 'Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo valstybės sukūrimo laiką ir pirmąjį valdovą.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštija|Lietuvos Didžioji Kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1253 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo valstybės sukūrimo laiką ir pirmąjį valdovą.'
   pagrindžia:
     - c-001

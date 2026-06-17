@@ -14,7 +14,6 @@ tags:
   - kunigaikštis
   - posakis
   - privilegija
-  - reforma
 amziai:
   - 'XV'
 ---
@@ -32,7 +31,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   teiginys: 'Lietuvių kunigaikščių posakis „senovės negriauname, naujovių neįvedame“ apibūdina taktiką užimtuose kraštuose palikti senąsias kunigaikštijų struktūras.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai sieja posakį su aprašyta taktika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -41,7 +40,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   global_id: t-186414
   teiginys: 'Frazė „senovės negriauname, naujovių neįvedame“ vadinama lietuvių kunigaikščių posakiu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -51,7 +50,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   teiginys: 'Posakis „senovės negriauname, naujovių neįvedame“ apibūdino taktiką palikti senąsias kunigaikštijų struktūras.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas ir paremtas citatos paaiškinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -60,7 +59,7 @@ Tiksliausiai taktiką apibūdina lietuvių kunigaikščių posakis: „senovės 
   global_id: t-186416
   teiginys: '„Senovės nekeitimo“ tezė tėra istoriografinis mitas – Lietuvos ekspansija Kijevo Rusios erdvę reikšmingai perskėlė į dvi dalis: Kijevo ir Maskvos, kurių istorija keliems amžiams nuėjo savarankiškais keliais.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1439 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

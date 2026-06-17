@@ -29,7 +29,7 @@ Grįždami prie Saulės (« kein Soule sie karten wider »), t.y.
   global_id: t-28705
   teiginys: 'Frazė „kein Soule sie karten wider“ nusakė kryžiuočių grįžimą prie Saulės, kur 1236 m. rugsėjo 22 d. juos sumušė Vykinto vadovaujami žemaičiai.'
   sudarymo_pagrindimas: 'Pradinis tekstas neturi pilno predikato, o citata leidžia aiškiai nusakyti įvykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas neturi pilno predikato, o citata leidžia aiškiai nusakyti įvykį.'

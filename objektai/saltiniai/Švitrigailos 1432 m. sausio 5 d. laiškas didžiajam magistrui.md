@@ -30,7 +30,7 @@ amziai:
   global_id: t-88512
   teiginys: '1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie laiško turinį, o pradinė formuluotė nebaigta ir su OCR klaidomis.'
-  susije_objektai: 'territory: Alšėnai; territory: Ašmena; territory: Vilnius; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Alšėnai; territory: Ašmena; territory: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila buvo valdovas Ašmena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie laiško turinį, o pradinė formuluotė nebaigta ir su OCR klaidomis.'

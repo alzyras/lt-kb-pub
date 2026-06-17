@@ -27,7 +27,7 @@ Klimo, LIETUVIŲ KALBOS SINTAKSĖ.
   global_id: t-96070
   teiginys: 'P. Klimo „Lietuvių kalbos sintaksės“ septintasis leidimas išleistas 1928 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, o citata pagrindžia aiškų bibliografinį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/P. Klimas|P. Klimas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Klimas|P. Klimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas, o citata pagrindžia aiškų bibliografinį faktą.'

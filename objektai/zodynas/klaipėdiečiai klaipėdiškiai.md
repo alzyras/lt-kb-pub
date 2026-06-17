@@ -30,7 +30,7 @@ amziai:
   global_id: t-22186
   teiginys: 'Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.'
   sudarymo_pagrindimas: 'Pradinis surašymo teiginys nepagrįstas, bet citata pagrindžia Lietuvos skaičiavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/klaipėdiečiai|klaipėdiečiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1925 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis surašymo teiginys nepagrįstas, bet citata pagrindžia Lietuvos skaičiavimą.'
@@ -42,7 +42,7 @@ amziai:
   global_id: t-22187
   teiginys: 'Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.'
   sudarymo_pagrindimas: 'Trumpesnė formuluotė tiksliau išreiškia citatos faktinį turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_object: [[objektai/zodynas/seimelis|seimelis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lietuvos santykį su lietuviškai kalbėjusiais klaipėdiškiais ir jų balsavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimelis|seimelis]]; mentioned_place: Kaunas; mentioned_place: Klaipėdos kraštas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Klaipėdos kraštas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Silezija'
   pagrindžia:
     - c-003
 

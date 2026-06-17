@@ -30,7 +30,7 @@ Nieborowski, P.
 - t-001
   global_id: t-30873
   teiginys: 'P. Nieborowski parašė darbą „Der deutsche Orden und Polen in der Zeit des grössten Konfliktes“, 1924 m. išleistą Breslau.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_person: [[objektai/autoriai/P. Nieborowski|P. Nieborowski]]; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Nieborowski|P. Nieborowski]]; mentioned_place: Medininkai'
   temporaliniai_duomenys: 'įvykio data: 1924 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

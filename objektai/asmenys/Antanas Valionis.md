@@ -30,7 +30,7 @@ Atėnai: 2003 m. Lietuvos prezidentas Algirdas Brazauskas ir užsienio reikalų 
   global_id: t-26432
   teiginys: 'Antanas Valionis 2003 m. Atėnuose kartu su Algirdu Brazausku pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, paliktas citatos pagrįstas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2003 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir OCR triukšmas, paliktas citatos pagrįstas faktas.'

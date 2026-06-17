@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Jazbuto veiksmą, pralaimėjimą ir vietą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 

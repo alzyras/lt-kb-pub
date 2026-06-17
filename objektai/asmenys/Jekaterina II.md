@@ -16,7 +16,6 @@ tags:
   - bajorija
   - karalius
   - miestas
-  - tauta
 amziai:
   - 'XVIII'
 periodo_grupes:
@@ -35,7 +34,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   global_id: t-170049
   teiginys: 'Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jekaterinos II politinį vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jakobinizmas|jakobinizmas]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Brasta; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1793 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jekaterinos II politinį vertinimą.'
@@ -47,7 +46,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   global_id: t-170051
   teiginys: 'Rusijos imperatorė Jekaterina II rėmė Augusto Poniatovskio globėjus Čartoriskius, tikėdamasi per juos plėsti savo įtaką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jekateriną II ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -56,7 +55,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   global_id: t-170052
   teiginys: 'Jekaterinos II laikais į vietinio valdymo sistemą buvo įtrauktos atskirų luomų savivaldos institucijos.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir gramatiškai sklandžiau, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-003
 
@@ -65,7 +64,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
   global_id: t-170053
   teiginys: 'Jekaterina II 1767-1768 m. parėmė Čartoriskių priešininkus, susitelkusius Vilniaus-Radomo bajorų konfederacijoje.'
   sudarymo_pagrindimas: 'Reikia aiškiau išreikšti, kad paremti buvo Čartoriskių priešininkai, o ne pati „priešininkė“ konfederacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
   temporaliniai_duomenys: 'įvykio data: 1764 m.; įvykio data: 1767-1768; įvykio data: 1768 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau išreikšti, kad paremti buvo Čartoriskių priešininkai, o ne pati „priešininkė“ konfederacija.'
@@ -76,7 +75,7 @@ Ją nubrėžė Rusijos imperatorė Jekaterina II 1791 m., po ATR padalijimų iš
 - t-005
   global_id: t-170054
   teiginys: 'Jekaterinos II laikais į vietinį valdymą buvo įtrauktos atskirų luomų savivaldos institucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Rusijos kariuomenė.md#claim-t-66078|Rusijos kariuomenė]]: 1792 m. gegužės 22 d. Rusijos kariuomenė įžengė į LDK prie Polocko, ir taip prasidėjo 1792 m. LLV karas su Rusija.

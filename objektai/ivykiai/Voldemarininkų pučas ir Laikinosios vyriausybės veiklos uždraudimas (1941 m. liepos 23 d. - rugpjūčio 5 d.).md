@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20563
   teiginys: 'Liepos 23-iosios naktį naciai per gestapui paklususius voldemarininkus įvykdė pučą ir perėmė batalionų bei policijos vadovybę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1940 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'

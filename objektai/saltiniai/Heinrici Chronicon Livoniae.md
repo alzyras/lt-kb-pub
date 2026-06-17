@@ -28,7 +28,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 - t-001
   global_id: t-67398
   teiginys: 'Henriko Latvio kronika yra viena iš pirmųjų Pabaltijyje vokiečių kronikų ir buvo surašyta 1225-27 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Latvija; mentioned_place: Livonija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Latvija; mentioned_place: Livonija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1225-1227; įvykio data: po 1290 m.; įvykio data: 1290 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -38,7 +38,7 @@ Henriko Latvio kronika minima kaip viena iš pirmųjų Pabaltijyje vokiečių kr
 - t-002
   global_id: t-67399
   teiginys: 'HChL santrumpa žymi L. Arbusowo ir Alb. Bauerio parengtą „Heinrici Chronicon Livoniae“ leidimą, išleistą Hanoveryje 1955 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/L. Arbusow|L. Arbusow]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Arbusow|L. Arbusow]]'
   temporaliniai_duomenys: 'įvykio data: 1955 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

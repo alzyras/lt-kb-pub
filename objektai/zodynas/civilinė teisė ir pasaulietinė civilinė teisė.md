@@ -24,7 +24,7 @@ tags:
   global_id: t-86519
   teiginys: 'Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie civilinės teisės nesilaikymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -30,7 +30,7 @@ amziai:
   global_id: t-31890
   teiginys: 'Pr. Papée veikalo „Polska i Litwa na przełomie wieków średnich“ pirmoji dalis išleista Krokuvoje 1904 m.'
   sudarymo_pagrindimas: 'Citata patvirtina autorių, pavadinimą, dalį, vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Pr. Papée|Pr. Papée]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pr. Papée|Pr. Papée]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1904 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina autorių, pavadinimą, dalį, vietą ir metus.'

@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-45539
   teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio, kėlė Lietuvos nelaisvės klausimą, o kauniečiai kasmet minėdavo gegužės 14-ąją.'
   sudarymo_pagrindimas: 'Reikia išskleisti inicialą į pilną asmens vardą ir pavardę pagal objekto pavadinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

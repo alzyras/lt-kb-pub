@@ -16,7 +16,6 @@ tags:
   - karalius
   - ordinas
   - pilis
-  - upė
 amziai:
   - 'XIV'
 ---
@@ -33,7 +32,7 @@ Anglija, Škotija ir Prancūzija gerokai papildė saduodama 12 pūdų vaško: du
   global_id: t-86839
   teiginys: 'Škotijos savanoriai kartu su anglais ir prancūzais papildė vokiečių riterių būrius Karaliaučiuje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sugadintas OCR fragmentas, bet citata palaiko aiškų faktą apie škotus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Prancūzija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Panevėžys; mentioned_place: Prancūzija; mentioned_place: Vilija; mentioned_place: Vilnius; mentioned_place: Širvinta'
   temporaliniai_duomenys: 'įvykio data: 1391 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sugadintas OCR fragmentas, bet citata palaiko aiškų faktą apie škotus.'

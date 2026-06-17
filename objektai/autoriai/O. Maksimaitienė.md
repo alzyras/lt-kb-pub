@@ -27,7 +27,7 @@ Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augu
   global_id: t-30883
   teiginys: 'O. Maksimaitienė pateikė duomenų apie 1863 m. sukilėlių kovinius veiksmus Augustavo gubernijoje ir jų antspaudus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_person: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_place: Augustavas; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_author: [[objektai/autoriai/V. Černeckis|V. Černeckis]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Augustavas; mentioned_place: Baltarusija; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1831 m.; įvykio data: 1861-1913; įvykio data: 1863 m.; įvykio data: apie 1863 m.; įvykio data: 1913 m.; įvykio data: 1965 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje pateiktais duomenimis.'

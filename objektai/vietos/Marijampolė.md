@@ -35,7 +35,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
 - t-001
   global_id: t-68592
   teiginys: 'Po mūšio prie Berezinos Napoleonas per Vilnių, Kauną, Marijampolę ir Varšuvą parskubėjo į Paryžių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Berezina; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Berezina; mentioned_place: Lietuva; mentioned_place: Paryžius; mentioned_place: Varšuva'
   pagrindžia:
     - c-003
 
@@ -44,7 +44,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   global_id: t-68593
   teiginys: 'J. Totoraičio veikalas „Mindaugas, Lietuvos karalius“ buvo išleistas Marijampolėje 1932 m.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų bibliografinį faktą apie leidinio išleidimą Marijampolėje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų bibliografinį faktą apie leidinio išleidimą Marijampolėje.'
@@ -56,7 +56,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   global_id: t-68594
   teiginys: 'Krasauskaitės pedagoginis darbas Marijampolėje trukdė jai tęsti istorinius tyrinėjimus tėvynėje ir emigracijoje.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas apie Marijampolę.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/M. Krasauskaitė|M. Krasauskaitė]]; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1927 m.; įvykio data: 1939-1940; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citata paremtas faktas apie Marijampolę.'

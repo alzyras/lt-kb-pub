@@ -43,7 +43,7 @@ Vytautas šioje srity padarė tiek, kad suteikė tautos prekybai ir bendrai ekon
   global_id: t-34347
   teiginys: 'Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis.'
   sudarymo_pagrindimas: 'Pašalinti žodžių laužymai ir pataisyta sakinio forma.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bielskas; mentioned_place: Brasta; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Bielskas; mentioned_place: Brasta; mentioned_place: Kaunas'
   pagrindžia:
     - c-002
 

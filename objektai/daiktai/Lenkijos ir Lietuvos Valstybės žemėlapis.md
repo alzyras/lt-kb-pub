@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-64955
   teiginys: 'XVIII a. vidurio Lenkijos ir Lietuvos Valstybės žemėlapyje, saugotame Varšuvos karalių pilyje, buvo matyti ir LDK sienos.'
   sudarymo_pagrindimas: 'Citata leidžia sakinį suformuluoti enciklopediškiau ir pašalinti antraštės fragmentiškumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/kompromisas|kompromisas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 

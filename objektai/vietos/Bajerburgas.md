@@ -32,7 +32,7 @@ amziai:
   global_id: t-71843
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos buvo susimetę kryžiuočiai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija Vytauto pranešimą Kęstučiui ir Bajerburgo pilies aplinkybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Panemunė; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Panemunė; mentioned_place: Veliuona'
   pagrindžia:
     - c-003
 
@@ -41,7 +41,7 @@ amziai:
   global_id: t-71844
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės, Marienburgui apsaugoti.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Bajerburgo vietą ir statybos tikslą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Marienburgas; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Marienburgas; mentioned_place: Nemunas; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 
@@ -60,7 +60,7 @@ amziai:
   global_id: t-71846
   teiginys: 'Bajerburgas buvo pastatytas ant Nemuno kranto tarp Veliuonos ir Peštvės, prie Kvalkės upelės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia Bajerburgo vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Nemunas; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 

@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir pagrįstas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Maskva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Maskva; mentioned_place: Valachija; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

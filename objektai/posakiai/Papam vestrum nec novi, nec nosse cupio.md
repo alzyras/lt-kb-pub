@@ -40,7 +40,7 @@ Formulė reiškia atsiribojimą nuo popiežiaus arba nenorą jį pripažinti.
 - t-001
   global_id: t-55187
   teiginys: 'Krantzas Gediminui priskyrė lotynišką pareiškimą „Papam vestrum nec novi, nec nosse cupio“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

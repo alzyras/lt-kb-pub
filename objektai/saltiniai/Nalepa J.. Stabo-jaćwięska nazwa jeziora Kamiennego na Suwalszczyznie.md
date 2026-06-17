@@ -27,7 +27,7 @@ Dusburgietis teigia, kad nalepa J..
   global_id: t-61193
   teiginys: 'J. Nalepos straipsnis apie jotvingišką Kamienne ežero vardą Suvalkų krašte paskelbtas „Rocznik Białostocki“ 15 tome.'
   sudarymo_pagrindimas: 'Citata pagrindžia straipsnio temą ir publikavimo vietą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_place: Suvalkai'
   pagrindžia:
     - c-001
 

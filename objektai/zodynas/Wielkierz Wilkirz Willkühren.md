@@ -32,7 +32,7 @@ amziai:
   global_id: t-86629
   teiginys: '1552 m. Vilniaus miesto valdžia su piliečiais sudarė Wielkierz, teismo proceso tvarką pagal Magdeburgo teisę.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas, paliekant pagrindinį faktą apie terminą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1552 m.; įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išvalytas, paliekant pagrindinį faktą apie terminą.'

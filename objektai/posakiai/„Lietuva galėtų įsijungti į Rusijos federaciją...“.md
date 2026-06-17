@@ -21,7 +21,7 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
   global_id: t-26358
   teiginys: 'Atsakydamas J. Simpsonui, Augustinas Voldemaras pareiškė, kad Lietuva galėtų įsijungti į Rusijos federaciją panašiai kaip Bavarija į Vokietijos sąjungą.'
   sudarymo_pagrindimas: 'Išskleistas asmens vardas ir pataisyta sakinio forma.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

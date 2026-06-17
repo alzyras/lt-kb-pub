@@ -33,7 +33,7 @@ Leontovtč : Kreslianskij dvor v Litovsko-russkom gosudarstve (ŽMNPr, I, IV, X,
   global_id: t-31768
   teiginys: 'F. I. Leontovičiaus „Kreslianskij dvor v Litovsko-russkom gosudarstve“ buvo skelbtas ŽMNPr 1896–1897 m.'
   sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą apie veikalo publikavimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   temporaliniai_duomenys: 'įvykio data: 1896-1897; įvykio data: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą apie veikalo publikavimą.'

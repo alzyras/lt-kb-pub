@@ -30,7 +30,7 @@ Dusburgietis teigia, kad 157 Trečias magistras — Henrikas Bartas (1209?—121
   global_id: t-60631
   teiginys: 'M. Tumlerio veikale „Der Deutsche Orden“ remiamasi datuojant Henriko Barto magistro laikotarpį.'
   sudarymo_pagrindimas: 'Citata sieja Tumlerio veikalą su Henriko Barto datavimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-002
 

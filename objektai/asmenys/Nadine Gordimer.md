@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-101698
   teiginys: 'Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė ir 1991 m. Nobelio literatūros premijos laureatė, kurios tėvas kilęs iš Lietuvos.'
   sudarymo_pagrindimas: 'Citata pagrindžia ir Lietuvos ryšį, todėl teiginys papildytas svarbia objekto sąsaja.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius; mentioned_place: Želva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius; mentioned_place: Želva'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1935 m.; įvykio data: 1980 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia ir Lietuvos ryšį, todėl teiginys papildytas svarbia objekto sąsaja.'
@@ -43,7 +43,7 @@ periodo_grupes:
   global_id: t-101699
   teiginys: 'Nadine Gordimer buvo Pietų Afrikos Respublikos romanistė, kurios tėvas buvo kilęs iš Lietuvos.'
   sudarymo_pagrindimas: 'Sakinys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius; mentioned_place: Želva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Aaron Klug|Aaron Klug]]; mentioned_person: [[objektai/asmenys/Bernard Lown|Bernard Lown]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Vilnius; mentioned_place: Želva'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1935 m.; įvykio data: 1980 m.; įvykio data: 1982 m.; įvykio data: 1985 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra gramatiškas ir tiesiogiai paremtas citata.'

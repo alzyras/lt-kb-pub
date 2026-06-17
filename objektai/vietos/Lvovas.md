@@ -39,7 +39,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121908
   teiginys: '1392 m. balandžio 16 d. Jogaila Lvove išdavė privilegiją, nukreiptą prieš Vytauto siekius Lietuvoje ir pretenzijas į Lucką.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Korčinas; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]; mentioned_place: Korčinas; mentioned_place: Lietuva; mentioned_place: Luckas'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Lvove išduotą privilegiją, o pradinis teiginys buvo nutrūkęs.'
@@ -63,7 +63,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121910
   teiginys: 'Lvovo arkivyskupas valdė Vladimiro vyskupiją ir galėjo tikėtis gauti Žemaičius dėl savo vaidmens steigiant Žemaičių vyskupiją.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo pašalinti OCR triukšmą ir suformuluoti sakinį glaustai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Vilniaus vyskupija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Vilniaus vyskupija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -72,7 +72,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   global_id: t-121913
   teiginys: 'Tuo metu, kai Jogaila Vilniuje vykdė savo tautos krikštą, Jadvyga iškilmingai įvažiavo į Lvovą ir suteikė tam miestui privilegiją.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -84,7 +84,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau ir tiksliau perteikiant, kad uždavinys buvo patikėtas laišku.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -96,7 +96,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Parčevas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Parčevas; mentioned_place: Volynė'
   pagrindžia:
     - c-006
 
@@ -135,7 +135,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Petrakavas; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_place: Petrakavas; mentioned_place: Sandomiras'
   temporaliniai_duomenys: 'įvykio data: iki 1485 m.; įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir pašalinti OCR triukšmą.'

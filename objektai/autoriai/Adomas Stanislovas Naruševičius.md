@@ -22,7 +22,7 @@ Adomas Stanislovas Naruševičius (Naruszewicz) savo 6 tomų veikalu «Lenkų ta
   global_id: t-30555
   teiginys: 'Adomas Stanislovas Naruševičius šešių tomų veikalu „Lenkų tautos istorija“ pradėjo kritiškas praeities studijas.'
   sudarymo_pagrindimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš Lenkų tautos istorija: Adomo Stanislovo Naruševičiaus šešių tomų veikalas „Lenkų tautos istorija“ plačiai apėmė ir Lietuvos istoriją.

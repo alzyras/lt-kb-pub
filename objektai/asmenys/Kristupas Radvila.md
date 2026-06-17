@@ -36,7 +36,7 @@ Nenurodyta
   global_id: t-87402
   teiginys: '1586 m. Lietuvos Ponų Tarybos laiškas Kristupui Radvilai pranešė apie karaliaus Stepono Batoro mirtį ir galimą kariuomenės maištą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibūdina cituojamo laiško paskirtį ir adresatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibūdina cituojamo laiško paskirtį ir adresatą.'
@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-87403
   teiginys: '1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas laiško antraštėje nurodytu įpareigojimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alytus; mentioned_place: Baisogala; mentioned_place: Borisovas; mentioned_place: Breslauja; mentioned_place: Dubingiai; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Turkija; mentioned_place: Veliuona; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Alytus; mentioned_place: Baisogala; mentioned_place: Borisovas; mentioned_place: Breslauja; mentioned_place: Dubingiai; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Turkija; mentioned_place: Veliuona; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas laiško antraštėje nurodytu įpareigojimu.'

@@ -32,7 +32,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   global_id: t-18807
   teiginys: 'Andrius Sniadeckis buvo universitete dirbęs garsus chemikas ir biologas, kurio darbai buvo žinomi tarptautiniu mastu.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas ir sukoncentruotas į asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, veiklos vietą ir sritis, kurias patvirtina citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Joachimas Lelevelis|Joachimas Lelevelis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Eduardas Karolis Eichvaldas.md#claim-t-18879|Eduardas Karolis Eichvaldas]]: Eduardas Karolis Eichvaldas dirbo universitete kaip vienas iš garsių biologų, kurių darbai buvo žinomi tarptautiniu mastu.

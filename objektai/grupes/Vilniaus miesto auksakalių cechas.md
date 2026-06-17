@@ -34,7 +34,7 @@ Vilniaus miesto amatininkų cechas.
 - t-001
   global_id: t-55091
   teiginys: 'Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Transilvanija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Transilvanija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ Vilniaus miesto amatininkų cechas.
 - t-002
   global_id: t-55092
   teiginys: 'Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Transilvanija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Transilvanija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Vilniaus miesto amatininkų cechas.
 - t-003
   global_id: t-55093
   teiginys: 'Skundėjai reikalavo, kad kaltinamasis pripažintų civilinę teisę ir auksakalių cechą, jam paklustų ir gautų privilegijoje numatytą bausmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/zodynas/Cechas.md#claim-t-54806|Cechas]]: Vilniaus auksakalių cechas turėjo privilegijas, kurių nepaisęs meistras kaltintas dirbęs atskirai nuo cecho narių.

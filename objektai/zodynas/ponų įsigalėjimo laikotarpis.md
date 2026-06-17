@@ -29,7 +29,7 @@ Didžiųjų kunigaikščių monarchijos irimo ir ponų įsigalėjimo laikotarpis
   global_id: t-74034
   teiginys: 'A. Šapokos „Lietuvos istorijoje“ Kazimiero laikai (1440–1492 m.) priskirti pereinamajam ponų įsigalėjimo laikotarpiui.'
   sudarymo_pagrindimas: 'Citata yra turinio antraštė, todėl reikia aiškios šaltinio vartosenos atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pereinamasis laikotarpis|pereinamasis laikotarpis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pereinamasis laikotarpis|pereinamasis laikotarpis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1440-1492; įvykio data: 1492 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra turinio antraštė, todėl reikia aiškios šaltinio vartosenos atribucijos.'

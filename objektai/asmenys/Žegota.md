@@ -22,10 +22,10 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Žegotos vaidmenį mūšyje; pašalintas triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Lešekas.md#claim-t-186062|Lešekas]]: Lešekas prieš puolančius lietuvius pasiuntė Krokuvos vaivadą Žegotą su prityrusių karių pulku ir rūmų raiteliais.
+
 ## Reikšmingi paminėjimai
 
 - c-001

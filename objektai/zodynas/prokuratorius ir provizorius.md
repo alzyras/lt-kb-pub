@@ -21,7 +21,7 @@ Kol minėtai prieglaudai reikės lėšų iškilti ir beveik viską pastatyti, au
   global_id: t-86545
   teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pareigas ir funkciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
   pagrindžia:
     - c-001
 

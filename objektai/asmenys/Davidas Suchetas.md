@@ -30,7 +30,7 @@ O kai pamatai po provincijos miestelį Tryškius vaikštantį Erkiulį Puaro –
   global_id: t-18874
   teiginys: 'Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.'
   sudarymo_pagrindimas: 'Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė publicistinė ir klausiamoji; citata leidžia suformuluoti konkretų faktą.'

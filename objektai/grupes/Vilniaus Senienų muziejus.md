@@ -52,7 +52,7 @@ Mokslinė ir kultūros institucija.
   global_id: t-55074
   teiginys: 'Vilniaus Senienų muziejus buvo įkurtas Eustachijaus Tiškevičiaus iniciatyva.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,7 @@ Mokslinė ir kultūros institucija.
   global_id: t-55075
   teiginys: 'Vilniaus Senienų muziejus apibūdinamas kaip mokslinė institucija, sutelkusi krašto visuomenę.'
   sudarymo_pagrindimas: 'Teiginys pagrįstai perteikia citatoje pateiktą muziejaus apibūdinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Krymas; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -70,7 +70,7 @@ Mokslinė ir kultūros institucija.
   global_id: t-81727
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva įkurtas Vilniaus Senienų muziejus sutelkė krašto visuomenę.'
   sudarymo_pagrindimas: 'Teiginys sujungia citatoje nurodytą įkūrimo iniciatyvą ir muziejaus vaidmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1857-1858; įvykio data: 1858 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sujungia citatoje nurodytą įkūrimo iniciatyvą ir muziejaus vaidmenį.'

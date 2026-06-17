@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: '1245 m. Lione sušauktame popiežiaus suvažiavime nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir bibliografinis triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/oktava|oktava]]; mentioned_place: Lionas'
+  susije_objektai: 'mentioned_place: Lionas'
   temporaliniai_duomenys: 'įvykio data: 1245 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir bibliografinis triukšmas, paliktas citatos remiamas faktas.'

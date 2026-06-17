@@ -33,7 +33,7 @@ Pagaliau mone­ tų kalykla, Vilniuje įkurta Jogailos, Švitrigailos valdymo me
   global_id: t-86480
   teiginys: 'Lietuviški rubliai, vadinti sidabrinėmis lazdelėmis arba liejinukais, šioje kalykloje greičiausiai buvo daromi rusišku pavyzdžiu.'
   sudarymo_pagrindimas: 'Pradinis sakinys beveik tinkamas, bet turėjo OCR triukšmo ir reikalauja glaustesnės formos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/sidabrinė duoklė|sidabrinė duoklė]]; mentioned_place: Ašmena; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Ašmena; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

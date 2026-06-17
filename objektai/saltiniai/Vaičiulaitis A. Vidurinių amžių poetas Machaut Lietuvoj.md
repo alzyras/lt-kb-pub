@@ -28,7 +28,7 @@ Dusburgietis teigia, kad vaičiulaitis A.
   global_id: t-61334
   teiginys: 'A. Vaičiulaičio „Vidurinių amžių poetas Machaut Lietuvoj“ paskelbta 1940 m. Kaune išleistų „Suvažiavimo darbų“ trečiame tome.'
   sudarymo_pagrindimas: 'Citata nurodo publikacijos leidinį, vietą, metus, tomą ir puslapius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo publikacijos leidinį, vietą, metus, tomą ir puslapius.'

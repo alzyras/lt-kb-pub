@@ -53,7 +53,7 @@ Dusburgietis teigia, kad powierski I., Stosunki..., p. 44—45; Górnowicz H., T
   global_id: t-60556
   teiginys: 'H. Górnowicz cituojamas aiškinant, kad Zirgūna, vokiškai Sorge ir dabartinė Dzierzgoń, įteka į Drūzo ežerą.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra OCR fragmentas, bet citata leidžia sudaryti rišlų teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Zirgūna'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Zirgūna'
   pagrindžia:
     - c-001
 

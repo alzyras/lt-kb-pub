@@ -37,7 +37,7 @@ Dusburgietis teigia, kad viljandžio (Tuulse A., Die Burgen..., p. 79). Dusburgi
   global_id: t-60966
   teiginys: 'Viljandžio (Tuulse A., Die Burgen..., p. 79).'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-30546
   teiginys: 'A. Tyla svarstė 1905 m. revoliucijos klausimus ir teikė pastabų dėl lietuviškos knygos istorijos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija A. Tylos nagrinėtas temas ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_person: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_place: Augustavas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Griškūnaitė|E. Griškūnaitė]]; mentioned_author: [[objektai/autoriai/L. Mulevičius|L. Mulevičius]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Augustavas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1905 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija A. Tylos nagrinėtas temas ir remiasi citata.'

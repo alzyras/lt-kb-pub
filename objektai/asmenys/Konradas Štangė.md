@@ -24,7 +24,7 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   global_id: t-60159
   teiginys: 'Konradas Štangė, Ragainės komtūras, apie liepos 25 d. patraukė link Junigedos pilies ir pasiuntė žvalgą sužinoti padėties pilyje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Konrado Štangės veiksmus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Junigeda; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Junigeda; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -33,7 +33,6 @@ Dusburgietis teigia, kad tais metais brolis Konradas Štangė, Ragainės komtūr
   global_id: t-60160
   teiginys: 'Konradas Štangė padrąsino sutrikusius brolius Judo Makabėjaus žodžiais ir ragino prasiskverbti pro priešus.'
   sudarymo_pagrindimas: 'Tai apie pasakytus žodžius, todėl teiginys perrašytas kaip autoriaus perduotas epizodas be ilgos citatos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.).md#claim-t-66632|Konrado Štangės prasiveržimas pro Junigedos kariuomenę (1292 m. liepos 25 d.)]]: Apie 1292 m. liepos 25 d. Ragainės komtūras Konradas Štangė su broliais ir ginklanešiais patraukė link Junigedos pilies.

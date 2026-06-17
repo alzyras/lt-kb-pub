@@ -30,7 +30,7 @@ Dusburgietis teigia, kad dobra ostrowickogolubskie..., p. 39; Piętka J.
   global_id: t-60769
   teiginys: 'J. Piętka cituojamas dėl darbo „Geneza mazowieckiej...“, siejamo su Hugono Butyro veiklos Kulme aiškinimu.'
   sudarymo_pagrindimas: 'Citata leidžia susieti autorių su konkrečiu cituojamu darbu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hugonas|Hugonas]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Olandija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Olandija'
   temporaliniai_duomenys: 'įvykio data: po 1146 m.; įvykio data: 1146 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia susieti autorių su konkrečiu cituojamu darbu.'

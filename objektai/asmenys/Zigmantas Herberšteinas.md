@@ -24,7 +24,7 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
   global_id: t-40546
   teiginys: 'Mūšio liudininkas Zigmantas Herberšteinas citavo Čeliadnino žodžius apie Lietuvos kariuomenės kėlimąsi per Dniepro upę.'
   sudarymo_pagrindimas: 'Perrašyta nežymiai, kad vietovės objektas būtų įvardytas pilnai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dniepras; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dniepras; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -32,7 +32,7 @@ Mūšio liudininkas Zigmantas Herberšteinas cituoja rusų kariuomenės vado Če
 - t-002
   global_id: t-40547
   teiginys: 'Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/posakiai/apsuptą nusivaryti iki pat Maskvos kaip galvijus.md#claim-t-41473|apsuptą nusivaryti iki pat Maskvos kaip galvijus]]: Čeliadninas teigė, kad Maskvos pajėgos gali Lietuvos kariuomenę įveikti arba apsuptą nusivaryti iki Maskvos kaip galvijus.

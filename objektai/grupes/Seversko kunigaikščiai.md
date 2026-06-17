@@ -22,7 +22,7 @@ Seversko kunigaikščiai atsiskyrė nuo karaliaus ir Lietuvos, išdavė valstyb�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_place: Florencija; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Severskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]; mentioned_place: Florencija; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Severskas'
   pagrindžia:
     - c-001
 - susijęs iš Seversko Naugardas: Seversko Naugarde nuo seno gyveno Seversko kunigaikščiai.

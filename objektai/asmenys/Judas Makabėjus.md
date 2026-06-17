@@ -24,7 +24,6 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   global_id: t-175237
   teiginys: 'Judas Makabėjus drąsino savo nedidelį būrį prieš didelę netikėlių kariuomenę.'
   sudarymo_pagrindimas: 'Citata pateikia Judą Makabėjų kaip drąsinusį saviškius prieš gausesnę kariuomenę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
   pagrindžia:
     - c-003
 
@@ -33,7 +32,7 @@ Dusburgietis teigia, kad “ Ne kas kitas, o broliai apšvarino — kaip Judas M
   global_id: t-175238
   teiginys: 'Pasakojama, kad Judas Makabėjus krito kovoje su Bachidu ir Alchimu, o Izraelio kariuomenė turėjo bėgti.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Judą Makabėjų ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-002
 

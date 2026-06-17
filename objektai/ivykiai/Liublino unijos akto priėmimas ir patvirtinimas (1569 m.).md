@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-49168
   teiginys: 'Po Liublino unijos sudarymo Lietuva ir Lenkija kurį laiką negalėjo imtis rimtų karo veiksmų.'
   sudarymo_pagrindimas: 'Pradinis sakinys per daug kontekstinis, todėl aiškiau įvardytas objektas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Polockas'
   temporaliniai_duomenys: 'įvykio data: 1570 m.; įvykio data: 1571 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys per daug kontekstinis, todėl aiškiau įvardytas objektas.'
@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-49169
   teiginys: '1569 m. LDK gana nepalankiomis sąlygomis sudarė Liublino uniją su Lenkija, tikėdamasi karinės pagalbos kare su Maskva.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-49170
   teiginys: '1569 m. LDK sudarė Liublino uniją su Lenkija tikėdamasi karinės pagalbos, kuri padėtų pasiekti persilaužimą kare su Maskva.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata.'

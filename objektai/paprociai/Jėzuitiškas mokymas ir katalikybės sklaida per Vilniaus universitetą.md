@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-54244
   teiginys: 'Jėzuitai Baroko epochos idėjas skleidė per Vilniaus universitetą.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1832 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-54245
   teiginys: 'Vilniaus universitetas – vienas iš seniausių universitetų Vidurio Europoje – už jį senesni tik Prahos, Krokuvos, Pečo, Budos ir Karaliaučiaus universitetai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vilniaus universitetą ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Oksfordas; mentioned_place: Vilnius; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1618 m.; įvykio data: 1646 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vilniaus universitetą ir pagrįstas citata.'
@@ -81,7 +81,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą, citata jį palaiko.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1650 m.; įvykio data: 1832 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, turi aiškų subjektą ir predikatą, citata jį palaiko.'

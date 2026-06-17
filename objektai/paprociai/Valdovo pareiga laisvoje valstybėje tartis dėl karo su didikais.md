@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas sakinys su aiškiu subjektu ir predikatu.'
-  susije_objektai: 'territory: Lenkija; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

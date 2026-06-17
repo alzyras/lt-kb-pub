@@ -14,7 +14,6 @@ tags:
   - grupe
   - miestas
   - pilis
-  - tikėjimas
 amziai:
   - 'XIII'
 ---

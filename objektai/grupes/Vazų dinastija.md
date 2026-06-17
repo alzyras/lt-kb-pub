@@ -40,7 +40,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   global_id: t-75013
   teiginys: 'Vazų dinastijos valdymo pabaigoje Lietuvoje sustiprėjo lenkų kultūros įtaka.'
   sudarymo_pagrindimas: 'Pašalinta išnašos žyma ir suformuluotas glaustesnis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -73,7 +73,7 @@ Civilizaciniam Lietuvos judėjimui barokine Europos „šalikele“ trukdė mil�
   global_id: t-75016
   teiginys: 'Vazų dinastijos pradžia Lietuvos istorijos skirstyme buvo siejama su 1587 metais.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas, paliktas citatos remiamas faktas apie Vazų dinastiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: iki 1586 m.; įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis kontekstas, paliktas citatos remiamas faktas apie Vazų dinastiją.'

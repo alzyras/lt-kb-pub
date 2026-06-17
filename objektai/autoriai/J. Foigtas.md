@@ -29,7 +29,7 @@ Dusburgietis teigia, kad foigtas83. Dusburgietis teigia, kad 83 Voigt J. Geschic
   global_id: t-64625
   teiginys: 'J. Foigtas XIX a. trečiajame dešimtmetyje ėmėsi moksliškai tirti Dusburgiečio kroniką.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia J. Foigto vaidmenį tyrinėjant kroniką.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1679 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia J. Foigto vaidmenį tyrinėjant kroniką.'

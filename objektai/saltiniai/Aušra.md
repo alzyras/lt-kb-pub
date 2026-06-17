@@ -35,7 +35,7 @@ amziai:
   global_id: t-179569
   teiginys: 'Pirmajame „Aušros“ numeryje 1883 m. Jonas Basanavičius pradėjo istorinę prakalbą išverstu lotynišku humanistų posakiu.'
   sudarymo_pagrindimas: 'Pradinis teiginys nepagrįstas citata, tačiau citata leidžia suformuluoti siauresnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_object: [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai|Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Kantas|Kantas]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nepagrįstas citata, tačiau citata leidžia suformuluoti siauresnį faktą.'
@@ -46,7 +46,7 @@ amziai:
 - t-002
   global_id: t-179570
   teiginys: 'Grupė inteligentų 1883 m. Rytprūsiuose pradėjo leisti pirmąjį Didžiajai Lietuvai skirtą periodinį leidinį lietuvių kalba ir tradiciniu raidynu – mėnraštį „Aušra“ („Auszra“).'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_object: [[objektai/posakiai/Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai|Žmonės nusidavimų (istorijos) nepažįstantieji vis yra vaikai]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_author: [[objektai/autoriai/Kantas|Kantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/J. Basanavičius|J. Basanavičius]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -60,7 +60,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir gremėzdiškas, todėl sutrumpintas išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1889 m.; įvykio data: 1889-1890; įvykio data: 1890 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir gremėzdiškas, todėl sutrumpintas išlaikant citatos faktus.'

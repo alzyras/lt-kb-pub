@@ -24,7 +24,7 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
   global_id: t-80621
   teiginys: 'Priešingos kariuomenės viena kitą pastebėjo šiauriau Žirnajų ežero, ties vieta, kur išteka Žirnajos upelis.'
   sudarymo_pagrindimas: 'Reikia aiškesnio vietos ryšio su Žirnajos upeliu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Jos viena kitą pastebėjo šiauriau Žirnajų ežero, kur išteka Žirnajos upe
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie mūšio vietą prie Žirnajos upelio. Jame pašalintas citatos OCR triukšmas ir nepridėta informacijos apie nuorašus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 - susijęs iš Gelvonai: Švitrigailos ir Ordino pajėgos iš Vilkmergės patraukė į pietus pro Pašilę keliu Gelvonų link.

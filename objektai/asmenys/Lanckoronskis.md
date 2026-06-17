@@ -22,7 +22,7 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lanckoronskiui duotą įsakymą ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Lenkų kariuomenės lauko etmonui Lanckoronskiui buvo įsakyta atremti virš val
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo per trumpas, bet citata palaiko aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-002
 

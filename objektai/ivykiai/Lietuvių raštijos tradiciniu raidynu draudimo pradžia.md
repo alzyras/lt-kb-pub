@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-25044
   teiginys: 'M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.'
   sudarymo_pagrindimas: 'Patikslinta pavardė ir pašalintas citatoje nepagrįstas žodis apie leidybą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/knygnešystė|knygnešystė]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta pavardė ir pašalintas citatoje nepagrįstas žodis apie leidybą.'

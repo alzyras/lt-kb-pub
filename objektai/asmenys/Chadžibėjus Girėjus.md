@@ -22,7 +22,7 @@ Chadžibėjus Girėjus buvo vienas iš trijų kunigaikščių, vedusių į tris 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia išvalyti autorinę įžangą ir suformuluoti sakinį apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Chadžibėjus|Chadžibėjus]]; mentioned_person: [[objektai/asmenys/Kutlubugas|Kutlubugas]]; mentioned_place: Kanevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kutlubugas|Kutlubugas]]; mentioned_place: Kanevas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184665|Algirdas (Lietuvos valdovas)]]: Algirdas įsakė kariuomenei sustoti ir pasirengti kautynėms, kai priešo kunigaikščiai rengėsi stoti į mūšį.

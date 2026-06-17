@@ -30,7 +30,7 @@ Derybos prasidėjo Briuselyje 1921 metų balandžio 20 d.
   global_id: t-170309
   teiginys: 'Įstojusi į Europos Sąjungą Lietuva galėjo Briuselyje reikšti savo poziciją įvairiais klausimais ir veikti ES sprendimus.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas apie Briuselį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2003 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir paliktas citatos palaikomas faktas apie Briuselį.'

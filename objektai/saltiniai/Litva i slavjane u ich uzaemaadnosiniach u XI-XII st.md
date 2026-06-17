@@ -27,7 +27,7 @@ amziai:
   global_id: t-31831
   teiginys: 'M. Liubavskio „Litva i slavjane u ich uzaemaadnosiniach u XI-XII st.“ buvo paskelbtas 1929 m. „Zapiski addzelu gumanitarnych navuk“ VIII tome.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka bibliografinę informaciją citatoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir atitinka bibliografinę informaciją citatoje.'

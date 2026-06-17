@@ -27,7 +27,7 @@ Varšuvos nacionalinis muziejus 1999 gruodis – 2000 m. sausis, Lietuvos dailė
   global_id: t-19859
   teiginys: 'Lietuvos dailės muziejuje 2000 m. kovą–rugsėjį vyko paroda „Vilniaus klasicizmas“.'
   sudarymo_pagrindimas: 'Citata paremta bibliografine nuoroda, bet leidžia suformuluoti trumpą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Varšuvos nacionalinis muziejus|Varšuvos nacionalinis muziejus]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varšuvos nacionalinis muziejus|Varšuvos nacionalinis muziejus]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata paremta bibliografine nuoroda, bet leidžia suformuluoti trumpą faktą.'

@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-01806
   teiginys: '1704 m. Karolis privertė sušaukti švedų kariuomenės apsuptą elekcinį seimą, kuris karaliumi paskelbė Stanislovą Leščinskį.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytinas sklandesne enciklopedine lietuvių kalba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Poznanė'
   temporaliniai_duomenys: 'įvykio data: 1656 m.; įvykio data: 1704 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytinas sklandesne enciklopedine lietuvių kalba.'

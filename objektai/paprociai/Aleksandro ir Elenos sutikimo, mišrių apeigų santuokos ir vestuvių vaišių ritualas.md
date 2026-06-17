@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-87197
   teiginys: 'Šv. Stanislovo katedroje Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė Aleksandrą su Elena.'
   sudarymo_pagrindimas: 'Citata pagrindžia tikslesnį faktą apie mišrių apeigų santuoką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Kulešinas|Kulešinas]]; mentioned_person: [[objektai/asmenys/Rapolovska|Rapolovska]]; mentioned_person: [[objektai/asmenys/Vaitiekus Taboras|Vaitiekus Taboras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-87198
   teiginys: '1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.'
   sudarymo_pagrindimas: 'Iš ilgo fragmento išskirtas aiškus atvykimo ir sutikimo faktas.'
-  susije_objektai: 'location: Lietuva; location: Maskva; location: Nemėžis; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Prokopas|Prokopas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lietuva; location: Maskva; location: Nemėžis; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Nemėžis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Iš ilgo fragmento išskirtas aiškus atvykimo ir sutikimo faktas.'

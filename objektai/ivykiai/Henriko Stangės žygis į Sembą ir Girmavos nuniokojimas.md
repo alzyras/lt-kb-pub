@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-66560
   teiginys: 'Henriko Stangės brolis Hermanas stojo į kovą ir kartu su komtūru žuvo po ilgos gynybos.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną sakinį, remiantis citatos nuoroda į komtūro brolį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Nenurodyta
   global_id: t-66562
   teiginys: 'Kristburgo komtūras Henrikas Stangė žiemą įsiveržė į Sembą, niokojo kraštą iki Girmavos kaimo ir nukovė arba paėmė į nelaisvę daug žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, nutrūkęs ir turi išnašų triukšmo; citata pagrindžia veikėją, vietą ir žygio rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Semba'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Girmava; mentioned_place: Kaimas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Semba'
   pagrindžia:
     - c-001
 

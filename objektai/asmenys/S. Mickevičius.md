@@ -20,7 +20,7 @@ Mickevičius.
 - t-001
   global_id: t-40410
   teiginys: 'S. Mickevičius buvo bolševikų 7-ojo „lietuviškojo“ pulko komisaras.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš Jieznas: Vasario 9 d. priešakiniai 7-ojo „lietuviškojo“ pulko daliniai po susišaudymo su lietuvių husarų žvalgais užėmė Jiezną.

@@ -30,7 +30,7 @@ O « Europos šiaurės Tacitas », arkivyskupas Adomas Bremenietis 1072-76 m. sa
   global_id: t-30554
   teiginys: 'Adomas Bremenietis 1072-1076 m. veikalo „Gesta Hammaburgensis ecclesiae pontificum“ ketvirtoje knygoje pateikė žinių apie prūsus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie autorių ir veikalą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/posakiai/homines humanissimi|homines humanissimi]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/homines humanissimi|homines humanissimi]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Skandinavija'
   temporaliniai_duomenys: 'įvykio data: 1072-1076; įvykio data: 1076 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje pateiktą informaciją apie autorių ir veikalą.'

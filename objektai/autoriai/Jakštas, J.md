@@ -31,7 +31,7 @@ Jakštas, J.
   global_id: t-71515
   teiginys: 'J. Jakštas Gedimino laiškus laikė glaudaus rygiečių ir Gedimino politinio veikimo produktu.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Jakšto poziciją apie Gedimino laiškus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_person: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_author: [[objektai/autoriai/K. Forstreuter|K. Forstreuter]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-004
 
@@ -39,7 +39,7 @@ Jakštas, J.
 - t-002
   global_id: t-71516
   teiginys: 'J. Jakštas 1960 m. paskelbė straipsnį „Dlugošas apie Žalgirio mūšį“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -50,7 +50,7 @@ Jakštas, J.
   global_id: t-71517
   teiginys: 'J. Jakštas paskelbė studiją apie Vokiečių ordiną ir Lietuvą Vytenio bei Gedimino laikais ir nagrinėjo Jogailos bei Vytauto kovas su Ordinu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -61,7 +61,7 @@ Jakštas, J.
 - t-004
   global_id: t-71518
   teiginys: 'J. Jakštas yra veikalo Vokiečių Ordinas ir Lietuva Vytenio ir Gedimino metu autorius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių ordinas|Vokiečių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Jakštas, J.
 - t-005
   global_id: t-71519
   teiginys: 'J. Jakštas paskelbė darbus „Dlugošas apie Žalgirio mūšį“ ir „Žalgirio mūšis“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

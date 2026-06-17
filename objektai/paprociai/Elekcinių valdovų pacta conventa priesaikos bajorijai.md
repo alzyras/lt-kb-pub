@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-54231
   teiginys: 'Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.'
   sudarymo_pagrindimas: 'Reikia patikslinti sakinio sandarą ir aiškiau susieti priesaiką su įsipareigojimais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pacta conventa|pacta conventa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pacta conventa|pacta conventa]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1573 m.; įvykio data: 1573 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia patikslinti sakinio sandarą ir aiškiau susieti priesaiką su įsipareigojimais.'

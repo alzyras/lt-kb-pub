@@ -29,7 +29,7 @@ PRADZIOS KARO LAIVAI IR BRANDERIAI“, Andžej Geglis, dail.
   global_id: t-39970
   teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios karo laivai ir branderiai“.'
   sudarymo_pagrindimas: 'Citata nurodo kūrinio pavadinimą ir dailininką.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
   pagrindžia:
     - c-001
 

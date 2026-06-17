@@ -37,7 +37,7 @@ BECAS turėjo vykti Katinų | Bendrasis rezervas (vadas - karin. Rezervas parėm
   global_id: t-38708
   teiginys: 'Bendrąjį rezervą, vadovaujamą karininko J. Reikalos, sudarė Panevėžio bataliono 2-oji ir 6-oji kuopos bei kiti daliniai.'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata remia glaustą faktą apie rezervo sudėtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Katinai; mentioned_place: Lietuva; mentioned_place: Lionas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Kaimas; mentioned_place: Katinai; mentioned_place: Lietuva; mentioned_place: Lionas'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata remia glaustą faktą apie rezervo sudėtį.'

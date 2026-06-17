@@ -22,7 +22,7 @@ Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu L I E T
   global_id: t-26459
   teiginys: 'Povilas Plechavičius pasiskelbė vyriausiuoju perversmo vadu ir laikinu diktatoriumi.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Plechavičiaus veiksmą ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Tautos taryba.md#claim-t-101477|Tautos taryba (institucija)]]: 1943 m. lapkričio 23–24 d. vadinamoji Tautos taryba ir generaliniai tarėjai atmetė SS dalinio organizavimo planą.

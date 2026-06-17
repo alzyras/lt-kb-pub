@@ -22,7 +22,7 @@ pradžioje buvo sukurta ratukinė-kibirkštinė spyna.
   global_id: t-42502
   teiginys: 'XVI a. pradžioje sukurta ratukinė-kibirkštinė spyna veikė be rusenančios dagties.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

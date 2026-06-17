@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1263 m. Vizenburgo pilies gynėjai, pristigę maisto, su ginklanešiais paliko pilį ir slapta pasitraukė Mazovijos link.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vizenburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vizenburgas'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškesnį sakinį be neapibrėžto žodžio „broliai“.'
@@ -61,7 +61,7 @@ Nenurodyta
   teiginys: 'Prūsai beveik trejus metus laikė apsupę Vizenburgo pilį ir trimis apgulos mašinomis kasdien ją puolė.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys per ilgas, nutrūkęs ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vizenburgas'
+  susije_objektai: 'mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Vizenburgas'
   pagrindžia:
     - c-001
     - c-002

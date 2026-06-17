@@ -33,7 +33,7 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Sakinys papildytas sąvoka ir aiškiai susietas su įrašo objektu.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Sovietų Sąjunga.md#claim-t-74926|Sovietų Sąjunga]]: Sovietų Sąjungos vykdytos deportacijos į Sibirą buvo viena iš didžiųjų Lietuvos netekčių po 1940 m. okupacijos ir 1944 m. reokupacijos.
+
 ## Reikšmingi paminėjimai
 
 - c-001

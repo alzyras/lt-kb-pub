@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20249
   teiginys: '1988 m. birželio 10 d. LPS iniciatyvinė grupė įsteigta Kaune, liepos 6 d. – Klaipėdoje, o pirmieji masiniai mitingai vyko Vilniuje.'
   sudarymo_pagrindimas: 'Citata leidžia susieti iniciatyvinių grupių steigimą su pirmaisiais masiniais mitingais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis|Lietuvos Persitvarkymo Sąjūdis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis|Lietuvos Persitvarkymo Sąjūdis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1988 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia susieti iniciatyvinių grupių steigimą su pirmaisiais masiniais mitingais.'
@@ -59,7 +59,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi būti perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis|Lietuvos Persitvarkymo Sąjūdis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos Persitvarkymo Sąjūdis|Lietuvos Persitvarkymo Sąjūdis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

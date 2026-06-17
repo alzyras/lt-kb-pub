@@ -96,6 +96,6 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Germantas]] buvo_valdovas Salos
+- [[objektai/asmenys/Šventaragis]] buvo_valdovas Salos
 - [[objektai/asmenys/Henrikas iš Plockės]] puole Salos
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Salos

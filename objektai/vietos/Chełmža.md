@@ -21,7 +21,6 @@ tags:
   - miestas
   - pilis
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
   - 'XIV'
@@ -60,7 +59,7 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   global_id: t-58413
   teiginys: 'Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo.'
-  susije_objektai: 'location: Chełmža; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  susije_objektai: 'location: Chełmža; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]] mirė Chełmža'
   temporaliniai_duomenys: 'mirties data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas iš Šipeno mirė Chełmža“, o ne visam objekto laikotarpiui.'

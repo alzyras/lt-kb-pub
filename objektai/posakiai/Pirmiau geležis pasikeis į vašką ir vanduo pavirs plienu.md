@@ -58,7 +58,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   global_id: t-82144
   teiginys: 'Posakiu „pirma geležis į vašką, o vanduo į plieną pavirs“ 1323 m. laiškuose teigta, kad duotas žodis nebus sulaužytas ar atšauktas.'
   sudarymo_pagrindimas: 'Teiginyje yra OCR triukšmo, bet citata pagrindžia glaustą sakinį apie posakio vartojimą pažadui sutvirtinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginyje yra OCR triukšmo, bet citata pagrindžia glaustą sakinį apie posakio vartojimą pažadui sutvirtinti.'

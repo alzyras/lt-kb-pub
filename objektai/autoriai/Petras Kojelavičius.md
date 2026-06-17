@@ -28,7 +28,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   global_id: t-88013
   teiginys: 'Kojelavičius ir Naramovskis klaidingai vadino vyskupą Mikalojų Borkovskiu, nors jis buvo Gožkovskis.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, bet citata palaiko aiškią klaidos formuluotę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Adamas Ign. Naramowski|Adamas Ign. Naramowski]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/autoriai/Soltykovičius|Soltykovičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Adamas Ign. Naramowski|Adamas Ign. Naramowski]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Pirmasis jų: lotyniškas rankraštis, bu­ vęs Vilniaus universiteto bibliotek
   global_id: t-88015
   teiginys: 'Petras Kojelavičius parašė lotyniškas trumpas panegirikas Vilniaus vyskupams.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį apie Petro Kojelavičiaus autorystę be rankraščio aprašo triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

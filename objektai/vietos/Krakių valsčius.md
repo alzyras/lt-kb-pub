@@ -27,7 +27,7 @@ Krakių vlsč.
   global_id: t-38492
   teiginys: '1949 m. sausio 26 d. Krakių valsčiaus Lenčių miške MGB vidaus kariuomenės 298-asis šaulių pulkas puolė partizanų stovyklavietę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Krakių valsčiuje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Dainava; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_place: Dainava; mentioned_place: Kėdainiai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie įvykį Krakių valsčiuje.'

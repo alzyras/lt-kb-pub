@@ -21,7 +21,7 @@ Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją, S.
   global_id: t-05735
   teiginys: 'K. Zabitis Nezabitauskas išleido lietuviškųjų knygų bibliografiją.'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR ar fragmento likutį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/autoriai/D. Poška|D. Poška]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/D. Poška|D. Poška]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 

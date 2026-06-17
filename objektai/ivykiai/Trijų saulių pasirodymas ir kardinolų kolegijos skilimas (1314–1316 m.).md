@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, apie aštuntą valandą pasirodė trys saulės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktus.'

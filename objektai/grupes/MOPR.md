@@ -21,7 +21,7 @@ narių svarbiausioje – Kauno LKP organizacijoje, daugumą komjaunime ir MOPR�
   global_id: t-19938
   teiginys: 'MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir perteikia citatoje nurodytą MOPR apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/getas|getas]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Komjaunimas|Komjaunimas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

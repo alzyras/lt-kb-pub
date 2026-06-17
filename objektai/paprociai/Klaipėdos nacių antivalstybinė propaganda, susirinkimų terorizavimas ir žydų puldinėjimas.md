@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-77938
   teiginys: '1934 m. liepą–1935 m. kovą Kaune vykęs teismas buvo pirmasis Europoje vokiečių nacionalsocialistų partijos narių teismas už antivalstybinę veiklą.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo nominalinis; perrašyta į aiškų sakinį su tariniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valteris R. Hesas|Valteris R. Hesas]]; mentioned_person: [[objektai/asmenys/Ėrichas Kochas|Ėrichas Kochas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Valteris R. Hesas|Valteris R. Hesas]]; mentioned_person: [[objektai/asmenys/Ėrichas Kochas|Ėrichas Kochas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Prūsija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: iki 1935 m.; įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo nominalinis; perrašyta į aiškų sakinį su tariniu.'

@@ -14,7 +14,6 @@ tags:
   - pilis
   - tikėjimas
   - valdovas
-  - vieta
 amziai:
   - 'XIII'
 ---
@@ -31,7 +30,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   global_id: t-58582
   teiginys: 'Kvedenava buvo valsčiaus centras, galbūt buvęs apie 4 km į šiaurės rytus nuo dabartinio Kaliningrado centro.'
   sudarymo_pagrindimas: 'Citatos išnaša tiesiogiai pateikia Kvedenavos lokalizaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -40,7 +39,7 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   global_id: t-58583
   teiginys: 'Karaliui atžygiavus į Kvedenavos, Valdavos, Kaimo ir Tepliavos valsčius, kai kurie gyventojai atidavė jam sūnus įkaitais.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Kaimas; mentioned_place: Tepliava'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Tepliava'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių.md#claim-t-62825|Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių]]: Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.

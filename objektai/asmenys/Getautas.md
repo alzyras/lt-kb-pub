@@ -31,7 +31,7 @@ Jo pareigū­ nas Rumbaudas ir dar keli kiti bajorai (Galminas, Getautas, Klau­
 - t-001
   global_id: t-30255
   teiginys: 'Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Klausigaila|Klausigaila]]; mentioned_person: [[objektai/asmenys/Rumbaudas|Rumbaudas]]; mentioned_person: [[objektai/asmenys/Vasibutas|Vasibutas]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Klausigaila|Klausigaila]]; mentioned_person: [[objektai/asmenys/Vasibutas|Vasibutas]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Raseiniai'
   pagrindžia:
     - c-001
 

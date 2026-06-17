@@ -22,7 +22,7 @@ Mykolas Brenšteinas^1 ), remdamasis įvairiomis kroniko­ mis, mano, kad Vytaut
   global_id: t-34880
   teiginys: 'Mykolas Brenšteinas, remdamasis kronikomis, manė, kad Vytauto laikų pabaigoje lietuvių artilerija jau buvo nemenka.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sutrumpintas paremtas teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

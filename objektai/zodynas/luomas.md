@@ -36,7 +36,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - t-001
   global_id: t-169917
   teiginys: 'Nuo Jekaterinos II laikų luomų institucijos buvo įtrauktos į vietinį valdymą kaip administracijos prižiūrimos pagalbinės valdžios šakos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-005
 
@@ -44,7 +44,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - t-002
   global_id: t-169918
   teiginys: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė atskirų luomų savivaldos institucijos, prižiūrimos vietos administracijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-005
 
@@ -53,7 +53,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   global_id: t-169919
   teiginys: 'Valdovas prašė būsimo įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal aprašytą tvarką.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir fragmentiškas, bet citata pagrindžia glaustą faktą apie luomų tarybas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   global_id: t-169920
   teiginys: 'Vytauto laikais Lietuvos bajorija gavo herbus, įgijo luomo savygarbą ir iš visuomenės sluoksnio virto luomu.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_object: [[objektai/zodynas/nobilitetas|nobilitetas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_object: [[objektai/daiktai/Herbai|Herbai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -71,7 +71,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   global_id: t-169921
   teiginys: 'Batoras teigė muitus įsakęs rinkti ne luomų teisėms varžyti, o dėl Livonijos ir Lietuvos sienų gynybos poreikių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų faktą apie luomų teises ir muitus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Torunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Torunė; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -92,7 +92,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie luomų pritarimo reikšmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenčica; mentioned_place: Viena'
   pagrindžia:
     - c-007
 
@@ -116,7 +116,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėsti įvardžiai ir pašalinti OCR lūžiai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Rumbaudas|Rumbaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Korčinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Korčinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -128,7 +128,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie luomų sprendimą.'
-  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-010
 
@@ -140,7 +140,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas veikėjas ir pašalintos antraštės nuotrupos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-011
 
@@ -152,7 +152,7 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie lietuvių luomų veiksmus Vilniaus seime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Piotrkovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Piotrkovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -164,143 +164,46 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia aiškų sakinį apie pasiuntinių įgaliojimus ir luomus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-013
-- susijęs iš [[objektai/asmenys/Abraomas Kulvietis.md#claim-t-181561|Abraomas Kulvietis]]: Karaliaus sprendimu Abraomas Kulvietis turėjo stoti prieš dvasinį teismą, prisipažinti nusikaltęs ir paklusti kanoninei bausmei.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-184661|Aleksandras Jogailaitis]]: Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.
-- susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176325|Gediminas]]: Balińskis Gediminą apibūdino kaip darnesnio ir pajėgesnio feodalizmo kūrėją bei miestų Lietuvoje įkūrėją.
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-184072|Glapas]]: Varmių vadas Glapas, sužinojęs apie brolių išvykimą iš Brandenburgo pilies, su daugybe karių ją užėmė.
-- susijęs iš [[objektai/asmenys/Glapas.md#claim-t-89792|Glapas]]: Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.
 - susijęs iš [[objektai/asmenys/Jeronimas Opachovskis.md#claim-t-87705|Jeronimas Opachovskis]]: Jeronimas Opachovskis, Vilniaus raštininkas, 1569 m. liepos 1 d. kartu su kitais delegatais pasirašė Liublino unijos dekretą.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182809|Jogaila (kunigaikštis, XIV–XV a.)]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija neleido Vilniaus miestiečiams įgyti daugiau laisvių.
-- susijęs iš [[objektai/asmenys/Jonas Jurgeravičius.md#claim-t-87721|Jonas Jurgeravičius]]: Jono Jurgeravičiaus privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.
-- susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113831|Julijona (Vytauto žmona)]]: Vytauto žmona Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už atsiųstus gėrimus.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila Rudasis.md#claim-t-113893|Mikalojus Radvila Rudasis]]: Mikalojus Radvila Rudasis užstojo Vilniaus pirklius ir gyventojus, prašydamas karaliaus atidėti muitus iki būsimo seimo.
-- susijęs iš [[objektai/asmenys/Mikalojus Sachovskis.md#claim-t-87787|Mikalojus Sachovskis]]: Mikalojaus Sachovskio privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113928|Mindaugas (valdovas, XIII a.)]]: Teiginys apie žynių luomo nebuvimą buvo grindžiamas duomenimis apie Mindaugo ir Kęstučio dalyvavimą aukojimo apeigose.
-- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87453|Paulius Rusdorfas]]: Paulius Rusdorfas kaip kryžiuočių magistras dalyvavo taikos sutartyje su Vytautu ir Mazovijos kunigaikščiais.
-- susijęs iš [[objektai/asmenys/Paulius Rusdorfas.md#claim-t-87454|Paulius Rusdorfas]]: Julijona 1426 m. liepos 8 d. laiške dėkojo didžiajam magistrui Pauliui fon Rusdorfui už jai atsiųstus gėrimus.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179644|Skirgaila]]: Skirgaila buvo apibūdintas kaip didelis girtuoklis, smarkus žmogus ir geras chirurgas.
-- susijęs iš [[objektai/asmenys/Sofija Šimonova.md#claim-t-87577|Sofija Šimonova]]: Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113976|Steponas Batoras]]: Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113978|Steponas Batoras]]: Steponas Batoras stipriai palaikė miestiečių luomą ir buvo laikomas globėju, kokiu netapo vėlesni karaliai.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113989|Steponas Batoras]]: Steponas Batoras įsakė Vilniaus vaivadai Radvilai skatinti vilniečius mokėti nustatytus muitus.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173246|Vladislovas Jogaila]]: Jogailos laikais Lietuvos krikštas ir sąjunga su Lenkija nesuteikė Vilniaus miestiečiams palankaus meto įgyti daugiau laisvių.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173307|Žygimantas Senasis]]: Vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kuriuo Kulvietis turėjo stoti prieš dvasinį teismą.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173340|Žygimantas Senasis]]: Vilniaus vyskupui prašant, Žygimantas Senasis paskelbė sprendimą, kad Abraomas Kulvietis stotų prieš dvasinį teismą.
 - susijęs iš [[objektai/autoriai/Jacobas Schrenckas.md#claim-t-78083|Jacobas Schrenckas]]: Jacobo Schrencko „Armamentarium Heroicum“ 1603 m. Insbruke pateikė Mikalojaus Radvilos Juodojo atvaizdą.
-- susijęs iš [[objektai/autoriai/K. Avižonis.md#claim-t-30723|K. Avižonis]]: K. Avižonis tyrė poliublininius laikus, parašė veikalą apie bajorus Vazų laikų Lietuvoje ir kelias kritiškas istorijos studijas.
-- susijęs iš [[objektai/autoriai/Kosman М.md#claim-t-60731|Kosman М]]: M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę.
-- susijęs iš [[objektai/autoriai/Kučinskas A.md#claim-t-60738|Kučinskas A]]: A. Kučinskas pateikė argumentų, leidžiančių abejoti Kęstučio priesaikos tikrumu ir jo, kaip vyriausiojo kunigo, funkcijomis.
-- susijęs iš [[objektai/daiktai/Antspaudai.md#claim-t-86982|Antspaudai]]: Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12290|Herbai]]: Turintieji tą patį herbą buvo laikomi giminėmis, jiems leistos abipusės vedybos, o tai suartino abiejų valstybių aukštąjį luomą.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
-- susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
-- susijęs iš [[objektai/daiktai/Kuorai.md#claim-t-183979|Kuorai]]: Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų.
-- susijęs iš [[objektai/daiktai/Kuorai.md#claim-t-59691|Kuorai]]: Brandenburgo pilyje broliai ir jų šeimyna gynėsi mediniame kuore nuo prūsų puldinėjimų.
-- susijęs iš [[objektai/daiktai/Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai.md#claim-t-87100|Vilniaus miestiečių bajorų herbai ir skiriamieji ženklai]]: Gardino seimo privilegija leido Vilniaus magistrato pareigas ėjusiems miestiečiams priimti bajorų herbus tik gavus atitinkamos giminės sutikimą.
-- susijęs iš [[objektai/daiktai/Vilniaus miesto antspaudas ir herbas su šv. Kristoforu.md#claim-t-87062|Vilniaus miesto antspaudas ir herbas su šv. Kristoforu]]: Viešiesiems reikalams Vilniaus magistratas turėjo naudoti senąjį miesto antspaudą su šv. Kristoforo atvaizdu raudoname lake.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80770|Abiejų Tautų Respublika]]: 1566–1795 m. Abiejų Tautų Respublikos bajoriškoji demokratija buvo luominė monarchija, paremta bajorų luomu.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169560|Bajorai]]: Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169561|Bajorai]]: Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169565|Bajorai]]: Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai.
-- susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169566|Bajorai]]: Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169568|Bajorai]]: Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-183120|Bajorai]]: Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110662|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.
 - susijęs iš [[objektai/grupes/Jogailaičiai.md#claim-t-110663|Jogailaičiai]]: Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.
-- susijęs iš [[objektai/grupes/Ketverių metų seimas.md#claim-t-74187|Ketverių metų seimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179063|Kryžiuočių ordinas]]: Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50695|Lietuvių bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga.
-- susijęs iš [[objektai/grupes/Lietuvių bajorija.md#claim-t-50696|Lietuvių bajorija]]: Vytauto laikais lietuvių bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų bei luominės savivokos bruožų.
-- susijęs iš [[objektai/grupes/Lietuvos bajorija.md#claim-t-96707|Lietuvos bajorija]]: Vytauto laikais Lietuvos bajorija išėjo į viešąjį gyvenimą kaip nauja socialinė jėga ir įgijo herbų.
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-184222|Miestelėnų luomas]]: Vytautas sudarė miestelėnų luomą, gyvenusį iš visuomenės produktų apyvartos ir stiprinusį prekybos bei ekonominio gyvenimo galimybes.
-- susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-34347|Miestelėnų luomas]]: Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis.
-- susijęs iš [[objektai/grupes/Miestiečiai ir valstiečiai.md#claim-t-19942|Miestiečiai ir valstiečiai]]: Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais.
-- susijęs iš [[objektai/grupes/Vilniaus magistratas.md#claim-t-172813|Vilniaus magistratas]]: Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis pereiti į bajorų luomą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172830|Vilniaus miestiečių luomas]]: 1569 m. liepos 1 d. Liublino seime Vilniaus pasiuntiniai kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172831|Vilniaus miestiečių luomas]]: Balińskis Liublino seimo ir 1564 m. sprendimus laikė aukščiausia Vilniaus ir Lietuvos miestiečių luomo teisių riba.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172832|Vilniaus miestiečių luomas]]: Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės Vilniaus miestiečių luomui suteikė aukštesnę visuomeninę padėtį.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172836|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas turėjo nustatytą vietą Lietuvos seimuose ir dalyvavo krašto reprezentacijose.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172837|Vilniaus miestiečių luomas]]: Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172844|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomas negalėjo išsiderėti daugiau laisvių, nes stokojo palankaus meto ir politinių sąlygų.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172846|Vilniaus miestiečių luomas]]: 1568 m. birželio 15 d. Gardino seimo sprendimas apsaugojo Vilniaus miestiečius nuo dvariškių ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55077|Vilniaus miestiečių luomas]]: Balińskio vertinimu, Lietuvos miestiečių luomas vėlavo kartu su civilizacijos raida ir formavosi tik XIV amžiuje.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55078|Vilniaus miestiečių luomas]]: Balińskis Vilniaus miestiečių luomą kildino iš nelaisvųjų, svetimšalių kolonistų ir bajorų arba kunigaikščių tarnų grupių.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55089|Vilniaus miestiečių luomas]]: 1569 m. Vilniaus pasiuntiniai Liublino unijos seime pasirašė susivienijimo dekretą kartu su kitais LDK delegatais.
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55090|Vilniaus miestiečių luomas]]: 1564 m. Žygimantas Augustas atribojo Vilniaus miestiečius nuo Antrojo Statuto galios ir suteikė daugiau bylinėjimosi laisvės pagal Magdeburgo teisę.
-- susijęs iš [[objektai/ivykiai/1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas.md#claim-t-34530|1422 m. Červinsko stovykla ir bajorų privilegijų suteikimas (privilegija)]]: 1422 m. Červinsko stovykloje Jogaila, Vytautui tarpininkaujant, padidino lenkų bajorijos luomo teises.
 - susijęs iš [[objektai/ivykiai/1449 m. amžinoji taika su Maskva.md#claim-t-100029|1449 m. amžinoji taika su Maskva]]: Vytauto ir Kazimiero laikais Lietuvos ekspansija į rytus pasiekė kulminaciją, kurią žymėjo 1449 m. amžinoji taika su Maskva.
-- susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62751|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Varmių vadas Glapas užėmė Brandenburgo pilį, kai sužinojo, kad broliai iš jos buvo išvykę.
-- susijęs iš [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę.md#claim-t-185698|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]: Bresto seimo pradžioje Jurgis Chodkevičius buvo paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
-- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75099|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
-- susijęs iš [[objektai/ivykiai/Gegužės trečiosios konstitucijos priėmimas.md#claim-t-75101|Gegužės trečiosios konstitucijos priėmimas]]: Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės trečiosios konstituciją.
-- susijęs iš [[objektai/ivykiai/Karas tarp Švitrigailos ir Žygimanto Kęstutaičio.md#claim-t-185710|Karas tarp Švitrigailos ir Žygimanto Kęstutaičio]]: Unijos sąlygų įgyvendinimas privedė prie Lietuvos Didžiosios Kunigaikštystės skilimo ir karo tarp Švitrigailos bei Žygimanto Kęstutaičio.
 - susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
-- susijęs iš [[objektai/ivykiai/Liublino unija (1569 m.).md#claim-t-184599|Liublino unija (1569 m.)]]: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos ir pripažino karalių bei bendrą seimą jungtinės valstybės suverenu.
-- susijęs iš [[objektai/ivykiai/Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.).md#claim-t-185824|Piotrkovo seimas ir luomų reikalavimas karaliui prisiekti dėl Podolės bei Volynės (1449 m.)]]: Piotrkovo seime Lenkijos luomai pareikalavo, kad karalius prisiektų neatiduoti lietuviams Podolės ir Volynės žemių.
-- susijęs iš [[objektai/paprociai/Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas.md#claim-t-87162|Fundacijos privilegijos pateikimas ir įrašymas į teismo aktų knygas]]: 1785 m. kovo 14 d. Laurynas Ozechovskis pateikė Pabaisko fundacijos privilegijos originalą įtraukti į LDK Vyriausiojo Tribunolo aktų knygas.
-- susijęs iš [[objektai/paprociai/Kreipimasis į Vytautą svarbiausiais reikalais.md#claim-t-93033|Kreipimasis į Vytautą svarbiausiais reikalais]]: Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.
-- susijęs iš [[objektai/paprociai/Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus.md#claim-t-62695|Naujakrikščių žemės, tarnybos ir laisvės skyrimas pagal kilmę bei nuopelnus]]: Aukštos kilmės naujakrikščiai gaudavo žemės be prievolių, o nekilmingieji turėjo tarnauti broliams pagal Prūsijos papročius.
-- susijęs iš [[objektai/paprociai/Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka.md#claim-t-87279|Pabaisko bažnyčios karčemų monopolis ir gėrimų pilstymo tvarka]]: Pabaisko bažnyčios fundacija nustatė, kad jos ribose negali būti kitų karčemų, išskyrus priklausančias Pabaisko bažnyčiai.
-- susijęs iš [[objektai/paprociai/Vilniaus magistrato tarnybos kelias į bajorystę.md#claim-t-87308|Vilniaus magistrato tarnybos kelias į bajorystę]]: Gardino seimo privilegija Vilniaus miestiečius, nepriekaištingai ėjusius vaito, tarybos nario ar šuolininko pareigas, pakėlė į bajorų luomą.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas.md#claim-t-87288|Vilniaus miestiečių Magdeburgo laisvės ir municipalinių reikalų tvarkymas]]: Vilniaus klestėjimas ir Magdeburgo teisių suformuota miestiečių padėtis įtikino Vytautą leisti miestiečiams dalyvauti tautos pasitarimuose.
 - susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime.md#claim-t-87170|Vilniaus miestiečių luomo dalyvavimas krašto reprezentacijose ir sutarčių laidavime]]: Vilniaus miestiečių luomas turėjo nustatytą vietą krašto reprezentacijose ir nuo Vytauto laikų dalyvavo Lietuvos seimuose.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose.md#claim-t-87287|Vilniaus miestiečių luomo dalyvavimas tautos pasitarimuose]]: Vilniaus klestėjimas ir Magdeburgo teisės paskatino Vytautą leisti miestiečių luomui dalyvauti tautos pasitarimuose.
-- susijęs iš [[objektai/paprociai/Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu.md#claim-t-54746|Vilniaus miesto viešųjų aktų antspaudavimas šv. Kristoforo antspaudu]]: Viešiesiems reikalams Vilniaus magistratas galėjo naudoti tik senąjį miesto antspaudą su šv. Kristoforo atvaizdu ant raudono lako.
-- susijęs iš [[objektai/posakiai/Kad tik be arklio nebūtų.md#claim-t-47947|Kad tik be arklio nebūtų]]: Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, „kad tik be arklio nebūtų“.
-- susijęs iš [[objektai/posakiai/Kad tik be arklio nebūtų.md#claim-t-47948|Kad tik be arklio nebūtų]]: Vytauto žodžiais, bajorai, neturėję kuo joti ar apsišarvuoti, turėjo parduoti žmoną ir vaikus, kad tik neliktų be arklio.
-- susijęs iš [[objektai/posakiai/Promittimus et spondemus sub fide et honore nostris.md#claim-t-86870|Promittimus et spondemus sub fide et honore nostris]]: Formule „promittimus et spondemus sub fide et honore nostris“ Vilnius su kitais miestais įsipareigojo rūpintis amžinosios taikos laikymusi.
-- susijęs iš [[objektai/posakiai/šuns kfauju.md#claim-t-186885|šuns kfauju]]: Bychovco kronikoje Žygimanto Kęstutaičio tariamas siekis iškelti mužikus, vadinamus „šuns krauju“, vaizduojamas kaip viena baisiausių jo nedorybių.
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101621|„jogailaičių Europa“ „krikščionybės forpostas“]]: Krikščionybės forposto idėja buvo nukreipta prieš stačiatikišką Maskvą ir siejosi su krikščioniškojo mentaliteto įsigalėjimu visuomenės elite.
 - susijęs iš [[objektai/posakiai/„jogailaičių Europa“ „krikščionybės forpostas“.md#claim-t-101622|„jogailaičių Europa“ „krikščionybės forpostas“]]: LDK visuomenei europėjant susiformavo leno teisė, feodai, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
-- susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. privilegija leido tokiems Vilniaus miestiečiams priimti bajorų herbus tik gavus bent vienos tą herbą turinčios šeimos sutikimą.
-- susijęs iš 1568 m. Gardino seimo privilegija Vilniaus miestiečiams: 1568 m. Gardino seimo privilegija nepriekaištingai Vilniaus magistrate tarnavusius miestiečius ir jų palikuonis visam laikui pakėlė į bajorų luomą.
 - susijęs iš Antrasis Lietuvos Statutas: 1564 m. Žygimantas Augustas atskiru sprendimu atribojo Vilniaus miestiečius nuo Antrojo Lietuvos Statuto galios.
 - susijęs iš Armamentarium Heroicum: 1603 m. Insbruke išleistame Jacobo Schrencko „Armamentarium Heroicum“ buvo pavaizduotas Mikalojus Radvila Juodasis.
 - susijęs iš Brastos Biblija: Radvila Juodasis 1563 m. teigė, kad Bibliją reikia versti į lenkų kalbą, nes ji būtų suprantama liaudžiai.
-- susijęs iš Gegužės 3 d. konstitucija (1791 m.): Nuo 1788 m. posėdžiavęs Ketverių metų seimas priėmė Gegužės 3 d. konstituciją.
-- susijęs iš LDK Vyriausiojo Tribunolo Viešųjų reikalų knygos: 1785 m. kovo 14 d. LDK Vyriausiajam Tribunolui Vilniuje buvo pateikta Pabaisko bažnyčios ir klebonijos fundacijos privilegija.
 - susijęs iš Lietuvos Statutai: Lietuvos Statutai sistemingumu pralenkė Vidurio Europos šalių teisines sistemas.
 - susijęs iš Lietuvos Statutai: Lietuvos Statutai sistemingumo lygiu pralenkė Vidurio Europos šalių teisines sistemas.
-- susijęs iš Lietuvos prekyba su Prūsais: „Lietuvos prekyba su Prūsais“ buvo paskelbta 1934 m. kaip Lietuvos ūkio istorijos darbas apie laikotarpį iki XVI a. pradžios.
 - susijęs iš Pirmasis Lietuvos Statutas: Skelbdamas Pirmąjį Lietuvos Statutą, Žygimantas Senasis Vilniaus miestiečiams taikė Magdeburgo teisės bylinėjimosi laisvės principą.
-- susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
-- susijęs iš Berlynas: 1932 m. Berlyne Konstantinas Avižonis parašė disertaciją apie Lietuvos bajorų atsiradimą ir jų luomo susiformavimą iki 1385 m.
-- susijęs iš Berlynas: Zenonas Ivinskis 1933 m. Berlyne išleido disertaciją apie Lietuvos valstiečių luomo pradžią ir jo išsivystymą.
-- susijęs iš Berlynas: Konstantinas Avižonis 1932 m. Berlyne parašė disertaciją apie Lietuvos bajorų atsiradimą ir luomo susiformavimą iki 1385 m.
 - susijęs iš Bełskas: 1564 m. Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąjį Statutą.
-- susijęs iš Dancigas Gdanskas (sujungti pirminiai pavadinimai Gdansko uostas; Gdanskas; Dancigas): Torunės seime dėl ginčų su Gdansku nebuvo nustatytos rinkliavos, tačiau Batoras vėliau įsakė tuojau pat rinkti muitus.
-- susijęs iš Gardinas: 1568 m. birželio 15 d. Lietuvos seimas Gardine apsaugojo miestiečius nuo dvariškių, valdininkų ir pasiuntinių apgyvendinimo be miesto tarybos leidimo.
-- susijęs iš Kaunas: Po pirmojo bolševikmečio pertraukos Z. Ivinskis tęsė Lietuvos istorijos darbą Filosofijos fakultete Kaune.
-- susijęs iš Lenkija: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
-- susijęs iš Lietuva: Michałas Balińskis suprato Lietuvos miestų ir miestiečių luomo vėlyvos raidos priežastis.
-- susijęs iš Lietuva: Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.
-- susijęs iš Marienburgas: Vaidyla, turimomis žiniomis, kelis kartus slaptai keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.
-- susijęs iš Marienburgas: Vaidyla kelis kartus slapta keliavo į Marienburgą ir iš Vokiečių ordino magistro gavo sutikimą sudaryti naują sutartį.
-- susijęs iš Pabaisko bažnyčia ir parapija: Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.
-- susijęs iš Pabaisko bažnyčia ir parapija: Pagal fundaciją nustatytose ribose karčemos turėjo priklausyti Pabaisko bažnyčiai.
-- susijęs iš Torunė: Torunės seime dėl ginčų su Gdansku ir kitų nesutarimų nebuvo numatyta nustatyti jokių rinkliavų.
-- susijęs iš Ukraina: Unijos aktai ir Lietuvos Statutas sankcionavo Ukrainos prijungimą prie Lenkijos.
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
 - susijęs iš Vilniaus Šv. apaštalų Petro ir Povilo bažnyčia: Vilniaus Šv. apaštalų Petro ir Povilo bažnyčios XVII a. antros pusės interjeras laikomas vienu didingiausių ir puošniausių LDK baroko interjerų.
 - susijęs iš Vilnius: 1569 m. liepos 1 d. Vilniaus pasiuntiniai Liublino seime kartu su kitais LDK delegatais pasirašė susivienijimo dekretą.
-- susijęs iš Vilnius: Z. Ivinskis po pirmojo bolševikmečio pertraukos Ekonominių mokslų fakultete Vilniuje skaitė Lietuvos ūkio istoriją.
-- susijęs iš Vilnius: 1568 m. Gardino seimas suteikė privilegiją Vilniaus magistrato pareigūnams ir jų palikuonims būti pakeltiems į bajorų luomą.
-- susijęs iš Vilnius: Vilniaus prekyba su Juodosios jūros uostais prisidėjo prie miesto klestėjimo Vytauto laikais.
 - susijęs iš Vilnius: Kazimieras, priėmęs volyniečių ištikimybės priesaiką, su Lietuvos kunigaikščiais ir Tarybos ponais išvyko į Vilnių, kurį metraštis vadina Vytauto sostine.
-- susijęs iš Šv. Onos bažnyčia Vilniuje (sujungti pirminiai pavadinimai Šv. Onos bažnyčia Vilniuje; Šv. Onos bažnyčia): Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
-- susijęs iš Šv. Onos bažnyčia Vilniuje: Šv. Onos bažnyčios klebonijai didžiojoje Vilniaus pilyje turėjo būti suteiktos pajamos ir išlaikymas dviem mansionieriams.
 - susijęs iš [[objektai/zodynas/Bajorų respublika liberum veto.md#claim-t-21975|Bajorų respublika liberum veto]]: Bajorų respublikoje valdovą rinkę atstovai sudarė įspūdį, kad valstybės santvarka buvo respublika, o ne monarchija.
-- susijęs iš [[objektai/zodynas/Dvarų bernai.md#claim-t-99982|Dvarų bernai]]: XV-XVI a. didžiojo kunigaikščio ir kilmingųjų ūkiuose dvarų bernai buvo žinomi kaip iš buvusių vergų būklės žmonių kilusi nelaisvoji šeimyna.
 - susijęs iš [[objektai/zodynas/Magdeburgo teisė.md#claim-t-86595|Magdeburgo teisė]]: 1564 m. Žygimantas Augustas leido Vilniaus miestiečiams laisviau bylinėtis teismuose pagal Magdeburgo teisę.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės vokiečių teisė.md#claim-t-86534|Magdeburgo teisės vokiečių teisė]]: Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių.
-- susijęs iš [[objektai/zodynas/Magdeburgo teisės.md#claim-t-113655|Magdeburgo teisės]]: Magdeburgo teisės buvo miestams suteikiamos savivaldybės; pirmasis jas 1387 m. iš Jogailos gavo Vilnius.
-- susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86498|Miestiečių luomas vidurinysis visuomenės luomas]]: M. Balinskis Lietuvos miestų ir miestiečių luomo vėlavimą siejo su politinio, ekonominio ir kultūrinio gyvenimo atsilikimu.
 - susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86499|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas, nepaisant privilegijų, neįgijo nei didelių turtų, nei ypatingo visuomeninio svorio.
 - susijęs iš [[objektai/zodynas/Miestiečių luomas vidurinysis visuomenės luomas.md#claim-t-86500|Miestiečių luomas vidurinysis visuomenės luomas]]: Lietuvos miestiečių luomas susikūrė tik XIV amžiuje ir vėlavo panašiai kaip bendra šalies civilizacijos raida.
 - susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55269|Riterių luomas]]: Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
@@ -311,28 +214,11 @@ Balińskio Vilniaus istorijoje luomas taip pat vartojamas aiškinant miestieči�
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė lietuvių tauta.md#claim-t-101566|bajorų tauta politinė lietuvių tauta]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101568|bajorų tauta politinė tauta lietuvių nacija]]: LDK visuomenei įsiliejant į Vakarų civilizaciją susiformavo bajorų tauta, turinti istorinę savimonę ir kilmės kroniką.
 - susijęs iš [[objektai/zodynas/bajorų tauta politinė tauta lietuvių nacija.md#claim-t-101570|bajorų tauta politinė tauta lietuvių nacija]]: Susiformavusi bajorų tauta turėjo istorinę savimonę ir kilmės kroniką.
-- susijęs iš [[objektai/zodynas/baudžiava baudžiavinė priklausomybė.md#claim-t-183403|baudžiava baudžiavinė priklausomybė]]: 1864 m. carizmui pradėjus valstiečių paleidimą iš baudžiavinės priklausomybės, valstiečiai tapo sąlyginai laisvu žemdirbių luomu.
-- susijęs iš [[objektai/zodynas/federacinė valstybė.md#claim-t-185383|federacinė valstybė]]: Unijos aktai ir Lietuvos Statutas pripažino karalių ir bendrą seimą jungtinės valstybės suverenu.
-- susijęs iš [[objektai/zodynas/feodalinis imunitetas.md#claim-t-185384|feodalinis imunitetas]]: Žymesnieji buržuazinės istoriografijos atstovai feodalinio imuniteto saugojimą vaizdavo kaip valstybės ar tautos reikalų gynimą.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82051|feodalizmas]]: Lietuvoje buvo santvarka, maždaug atitikusi Vakaruose feodalizmu vadintą santvarką.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82055|feodalizmas]]: Susidūrimas su Rytais, anot autoriaus, sutramdė feodalizmo piktnaudžiavimą ir iš bajorijos formavo riterių luomą.
 - susijęs iš [[objektai/zodynas/feodalizmas.md#claim-t-82059|feodalizmas]]: Susidūrimas su Rytais esą sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/zodynas/fundacija.md#claim-t-86418|fundacija]]: 1544 m. sudaryta Pabaisko bažnyčios ir klebonijos fundacijos privilegija 1785 m. buvo pateikta LDK Vyriausiajam Tribunolui.
-- susijęs iš [[objektai/zodynas/karčema smuklininkas gėrimų pilstymas.md#claim-t-86531|karčema smuklininkas gėrimų pilstymas]]: Pabaisko bažnyčios valdose leista laikyti tik jai priklausančias karčemas, kuriose buvo galima pilstyti midų, alų ir degtinę.
-- susijęs iš [[objektai/zodynas/krivis krivė krivaitis.md#claim-t-58816|krivis krivė krivaitis]]: A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.
 - susijęs iš [[objektai/zodynas/leno teisė feodas luominė monarchija.md#claim-t-77813|leno teisė feodas luominė monarchija]]: XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.
 - susijęs iš [[objektai/zodynas/leno teisė.md#claim-t-77812|leno teisė]]: XVI a. LDK nuosavybės santykiuose susiformavo leno teisė.
-- susijęs iš [[objektai/zodynas/luomai.md#claim-t-185357|luomai]]: Bajorų luomui pripažintos lengvatos neturėjo būti teikiamos nekatalikams, atsisakiusiems paklusti popiežiui.
-- susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86438|miestiečių luomas]]: Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.
-- susijęs iš [[objektai/zodynas/miestiečių luomas.md#claim-t-86439|miestiečių luomas]]: Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.
-- susijęs iš [[objektai/zodynas/miesto magistrato pareigybės.md#claim-t-86486|miesto magistrato pareigybės]]: 1568 m. Gardino seimo privilegija leido nepriekaištingai Vilniaus magistrate tarnavusiems miestiečiams su palikuonimis tapti bajorais.
-- susijęs iš [[objektai/zodynas/muitas thelonea.md#claim-t-86426|muitas thelonea]]: Dėl Vilniaus Batoras pareikalavo, kad vaivada Radvila ragintų mokėti nustatytus muitus ir iš miestiečių išreikalautų Czopowe bei Szosowe mokesčius.
-- susijęs iš [[objektai/zodynas/municipalinės laisvės miestiečių luomas.md#claim-t-86599|municipalinės laisvės miestiečių luomas]]: Valdant Aleksandrui, miestiečių luomui stigo tvirtos municipalinių laisvių apsaugos nuo valdininkų ir šlėktų piktnaudžiavimo.
-- susijęs iš [[objektai/zodynas/naujakrikštis.md#claim-t-70237|naujakrikštis]]: Naujakrikščiai šiame šaltinyje vaizduojami kaip atskiras Ordino tvarkomas statusas.
-- susijęs iš [[objektai/zodynas/nobilitetas.md#claim-t-36817|nobilitetas]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius – herbus.
-- susijęs iš [[objektai/zodynas/poliublininis laikotarpis.md#claim-t-05602|poliublininis laikotarpis]]: Stryjkovskis rašė pirmais poliublininiais dešimtmečiais.
-- susijęs iš [[objektai/zodynas/rūmininkas vyno pilstytojas.md#claim-t-36826|rūmininkas vyno pilstytojas]]: Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku, o vėliau tapo vyno pilstytoju.
-- susijęs iš [[objektai/zodynas/stabmeldžiai.md#claim-t-185393|stabmeldžiai]]: Į aukštąsias ir viešąsias pareigybes neturėjo būti skiriami stabmeldžiai ir popiežiui nepaklusę krikščionys.
 ## Reikšmingi paminėjimai
 
 - c-001

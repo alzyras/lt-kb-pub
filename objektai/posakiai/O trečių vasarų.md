@@ -41,7 +41,7 @@ Chronikinė datavimo formulė, rodanti trečią vasarą ar trečius metus įvyki
   teiginys: 'Formulė „O trečių vasarų“ 1971 m. leidinio pastaboje aiškinama kaip nuoroda į 1435 m.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia glaudesnės sakinio formos be perteklinio įvado.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Upytė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Upytė'
   temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: 1435 m.; įvykio data: apie 1435 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia glaudesnės sakinio formos be perteklinio įvado.'

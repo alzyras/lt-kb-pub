@@ -27,7 +27,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
 - t-001
   global_id: t-64053
   teiginys: 'Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   global_id: t-64054
   teiginys: 'XVI a. 3-iajame dešimtmetyje Simonas Grunau Prūsijoje parašė išsamią visos Prūsijos istoriją iki 1529 m.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Hartknochas|K. Hartknochas]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1529 m.; įvykio data: po 1521 m.; įvykio data: 1521 m.; įvykio data: 1529 m.; įvykio data: 1679 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -51,7 +51,7 @@ Pasak Simono Grunau kronikos, prūsų dievų kulto centras – Rikojoto vietovė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas; citata leidžia pateikti glaustesnį sakinį apie kronikos aprašymą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.

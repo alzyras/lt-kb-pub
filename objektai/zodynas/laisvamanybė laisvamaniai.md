@@ -22,7 +22,6 @@ tags:
   global_id: t-44093
   teiginys: 'Dr. Jonas Šliūpas visą gyvenimą kovojo dėl tautos teisių, tautinio susipratimo ir laisvamanybės.'
   sudarymo_pagrindimas: 'Citata leidžia išplėsti asmens vardą ir sutvarkyti sakinį be perteklinės konstrukcijos.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]; mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-001
 
@@ -30,7 +29,6 @@ tags:
 - t-002
   global_id: t-44094
   teiginys: 'Apie Šliūpą susibūrė griežtesnieji tautininkai ir laisvamaniai.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]; mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]'
   pagrindžia:
     - c-002
 

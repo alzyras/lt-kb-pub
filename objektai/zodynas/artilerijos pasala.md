@@ -23,7 +23,7 @@ Pergalė prie Oršos buvo didžiausias Konstantino Ostrogiškio karinis triumfas
   global_id: t-42432
   teiginys: 'Per Oršos mūšį atsitraukianti kariuomenė atviliojo priešą į artilerijos pasalą.'
   sudarymo_pagrindimas: 'Patikslintas veikėjas ir sakinys suformuluotas kaip savarankiškas faktinis teiginys.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Oršos mūšis (1514 m.)|Oršos mūšis (1514 m.)]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -35,7 +35,7 @@ amziai:
   global_id: t-74109
   teiginys: 'Įstojusi į ES Lietuva galėjo Briuselyje reikšti savo poziciją ir turėjo savo komisarą bei 12 europarlamentarų.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -74,7 +74,7 @@ amziai:
   global_id: t-74113
   teiginys: 'Integracija į Europos Sąjungą – antras svarbiausias strateginis atsikūrusios Lietuvos užsienio politikos tikslas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -86,7 +86,7 @@ amziai:
   global_id: t-74114
   teiginys: '2013 m. Lietuva turėjo pirmininkauti Europos Sąjungai, apibūdintai kaip laisvų ir demokratinių Europos valstybių susivienijimas.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie pirmininkavimą Europos Sąjungai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.; įvykio data: 2013 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie pirmininkavimą Europos Sąjungai.'
@@ -107,7 +107,7 @@ amziai:
   global_id: t-74116
   teiginys: '2003 m. Atėnuose Algirdas Brazauskas ir Antanas Valionis pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   sudarymo_pagrindimas: 'Pašalintas antraštinis fragmentiškumas, paliktas aiškus faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas Brazauskas|Algirdas Brazauskas]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2003 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis fragmentiškumas, paliktas aiškus faktas.'
@@ -119,7 +119,7 @@ amziai:
   global_id: t-74117
   teiginys: '2004 m. Lietuva tapo Europos Sąjungos ir NATO nare.'
   sudarymo_pagrindimas: 'Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleista santrumpa, kad teiginys būtų enciklopediškai aiškesnis.'
@@ -134,7 +134,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'

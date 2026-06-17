@@ -10,7 +10,6 @@ tags:
   - miestas
   - pilis
   - tikėjimas
-  - vieta
 ---
 # Svečė
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   global_id: t-58479
   teiginys: 'Magistro Popono pasiųsti žvalgai pranešė, kad Sventopelkas su gausia kariuomene stovėjo prie Svečės pilies ir ją stiprino.'
   sudarymo_pagrindimas: 'Citata pagrindžia praneštą Sventopelko veiksmą prie Svečės pilies.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Viena; mentioned_place: Višogrudas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Viena; mentioned_place: Višogrudas'
   pagrindžia:
     - c-003
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   global_id: t-58480
   teiginys: 'Sventopelkas su daugybe ginklanešių ir 10 laivų užpuolė Elbingo brolių laivus, jiems plaukiant pro Svečės pilį.'
   sudarymo_pagrindimas: 'Citata pagrindžia užpuolimą prie Svečės pilies ir leidžia patikslinti dalyvius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Kulmas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Kulmas'
   pagrindžia:
     - c-001
 - susijęs iš Višogrudas: Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.

@@ -30,7 +30,7 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   global_id: t-86449
   teiginys: 'Šventaragio slėnyje iki krikščionybės įvedimo degė Perkūno garbei skirta amžinoji ugnis, vadinta Gabija.'
   sudarymo_pagrindimas: 'Teiginys yra enciklopedinis sakinys, tiesiogiai paremtas citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -48,7 +48,7 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   global_id: t-86452
   teiginys: 'Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.'
   sudarymo_pagrindimas: 'Citata palaiko terminų apibūdinimą, o pradinis tekstas turi puslapio žymę ir OCR triukšmo.'
-  susije_objektai: 'location: Lietuva; location: Nevėžis; location: Romainiai; location: Romuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Alkos ir romuvos|Alkos ir romuvos]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai; mentioned_place: Romuva'
+  susije_objektai: 'location: Lietuva; location: Nevėžis; location: Romainiai; location: Romuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 

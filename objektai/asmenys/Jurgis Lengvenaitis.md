@@ -23,7 +23,7 @@ Tik pats Švitrigaila su savo sūnėnu, Maskvos kuni­ gaikščiu Jurgiu, išven
   global_id: t-87743
   teiginys: 'Jurgis Lengvenaitis, Švitrigailos sūnėnas, po pralaimėjimo prie Ukmergės kartu su Švitrigaila išvengė sutriuškinimo.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Jurgio išsigelbėjimą su Švitrigaila.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Zigmantas (Romos imperatorius).md#claim-t-87381|Zigmantas (Romos imperatorius)]]: Imperatorius Zigmantas ir didysis magistras siekė nutraukti Lietuvos ir Lenkijos sąjungą, tačiau jų sumanymai žlugo.

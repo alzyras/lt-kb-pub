@@ -22,7 +22,7 @@ Grafas Ado­ mas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bi
   global_id: t-86138
   teiginys: 'Grafas Adomas Chreptavičius tyrinėtojui atvėrė Ščorsų bibliotekos turtus.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir pagrįstas citata apie Ščorsų biblioteką.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Chreptavičius|Adomas Chreptavičius]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Leonas Rogalskis|Leonas Rogalskis]]; mentioned_person: [[objektai/asmenys/Mikalojus Malinovskis|Mikalojus Malinovskis]]; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas Chreptavičius|Adomas Chreptavičius]]; mentioned_person: [[objektai/asmenys/Leonas Rogalskis|Leonas Rogalskis]]; mentioned_person: [[objektai/asmenys/Mikalojus Malinovskis|Mikalojus Malinovskis]]; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.

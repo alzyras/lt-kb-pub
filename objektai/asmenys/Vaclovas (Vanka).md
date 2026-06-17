@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie 1320 m. Gediminas išleido savo dukterį už Plock
   global_id: t-60452
   teiginys: 'Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.'
   sudarymo_pagrindimas: 'Išplėstas asmens vaidmuo ir pašalinta nereikalinga šaltinio atribucija.'
-  susije_objektai: 'territory: Lietuva; territory: Mazovija; territory: Plockas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Plockas'
+  susije_objektai: 'territory: Lietuva; territory: Mazovija; territory: Plockas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Plockas'
   semantiniai_rysiai: '[[objektai/asmenys/Vaclovas (Vanka)|Vaclovas (Vanka)]] buvo valdovas Lietuva; [[objektai/asmenys/Vaclovas (Vanka)|Vaclovas (Vanka)]] buvo valdovas Mazovija; [[objektai/asmenys/Vaclovas (Vanka)|Vaclovas (Vanka)]] buvo valdovas Plockas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1320 m.; valdymo laikotarpis: apie 1320 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaclovas (Vanka) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vaclovas (Vanka) buvo valdovas Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vaclovas (Vanka) buvo valdovas Plockas“, o ne visam objekto laikotarpiui.'

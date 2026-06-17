@@ -7,6 +7,7 @@ datos:
   - '1937 m.'
   - '1939 m.'
   - '1992 m.'
+  - '1995 m.'
   - '2003 m.'
 date_start: '1937'
 date_end: '2003'
@@ -56,7 +57,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   global_id: t-74803
   teiginys: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vargiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vargiai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir atitinka citatos informaciją.'

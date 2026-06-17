@@ -48,7 +48,7 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
 - t-002
   global_id: t-54805
   teiginys: 'Vilniaus vyskupijos jurisdikcijai priklausantys asmenys sprendime paskelbti laisvi nuo Vilniaus miesto cechų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -60,24 +60,8 @@ Vartojama XII a. Vokietijos miestų ir 1584 m. Vilniaus auksakalių cecho ginčo
   susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto auksakalių cechas|Vilniaus miesto auksakalių cechas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Albertas Skvemevita.md#claim-t-87609|Albertas Skvemevita]]: Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.
-- susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82175|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis buvo suteikęs privilegiją Vilniaus miesto auksakalių cechui.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
-- susijęs iš [[objektai/asmenys/Mikalojus Ungarns.md#claim-t-87789|Mikalojus Ungarns]]: Mikalojus Ungarns iš besiskundžiančiųjų pusės aiškino, kad kaltinamasis turi pripažinti civilinę teisę ir auksakalių cechą.
-- susijęs iš [[objektai/asmenys/Motiejus Porempskis.md#claim-t-87797|Motiejus Porempskis]]: Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.
-- susijęs iš [[objektai/asmenys/Pilypas Glazeris.md#claim-t-87832|Pilypas Glazeris]]: Pilypas Glazeris su kitais skundėjais reikalavo, kad kaltinamasis pripažintų auksakalių cechą ir paklustų jo taisyklėms.
-- susijęs iš [[objektai/asmenys/Steponas Genseris.md#claim-t-87461|Steponas Genseris]]: Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55091|Vilniaus miesto auksakalių cechas]]: Vilniaus miesto auksakalių cechas ir jo senjorai inicijavo Stepono Genserio šaukimą į karaliaus teismą.
 - susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55092|Vilniaus miesto auksakalių cechas]]: Cechas turėjo Aleksandro privilegiją, kurią Steponas Batoras buvo patvirtinęs.
-- susijęs iš [[objektai/grupes/Vilniaus miesto auksakalių cechas.md#claim-t-55093|Vilniaus miesto auksakalių cechas]]: Skundėjai reikalavo, kad kaltinamasis pripažintų civilinę teisę ir auksakalių cechą, jam paklustų ir gautų privilegijoje numatytą bausmę.
-- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.
-- susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Steponas Genseris kaltintas nepaklusęs Aleksandro suteiktai ir vėliau patvirtintai Vilniaus auksakalių cecho privilegijai.
-- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.
-- susijęs iš Stepono Batoro teismo šaukimas Steponui Genseriui dėl Vilniaus auksakalių cecho skundo: Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.
-- susijęs iš Vilniaus vyskupija: Kaltinamasis teigė esąs Vilniaus vyskupijos valdinys ir pilietis, todėl siekė būti grąžintas į jos teismą.
-- susijęs iš [[objektai/zodynas/cechas contubernium.md#claim-t-86461|cechas contubernium]]: Auksakalys kaltintas savavališkai plėtojęs amatą atskirai nuo cecho narių ir pardavinėjęs dirbinius nepaisydamas cecho privilegijų.
-- susijęs iš [[objektai/zodynas/cechas contubernium.md#claim-t-86462|cechas contubernium]]: Vilniaus auksakalių cecho reikalavimu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo cecho privilegijai.
-- susijęs iš [[objektai/zodynas/civilinė teisė ir pasaulietinė civilinė teisė.md#claim-t-86519|civilinė teisė ir pasaulietinė civilinė teisė]]: Auksakalys Steponas Genseris buvo kaltintas vertęsis amatu nesilaikydamas civilinės teisės ir Vilniaus auksakalių cecho tvarkos.
 ## Reikšmingi paminėjimai
 
 - c-001

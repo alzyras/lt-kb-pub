@@ -31,7 +31,6 @@ periodo_grupes:
   global_id: t-100137
   teiginys: 'St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.'
   sudarymo_pagrindimas: 'Citata palaiko pilną faktą apie autoriaus publikaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko pilną faktą apie autoriaus publikaciją.'

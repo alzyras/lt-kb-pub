@@ -31,7 +31,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
   global_id: t-64646
   teiginys: 'Bendrinės kalbos žurnalo „Kalba“ pirmajame sąsiuvinyje buvo įdėtas kalbininko Talmanto straipsnis.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Talmanto straipsnį žurnale.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ Talmantas, Kaunas 1935 (vokišką santrauką gerai paruošė V.
 - t-003
   global_id: t-64648
   teiginys: 'J. Talmantas redagavo 1935 m. Kaune išleistą Simono Daukanto veikalą „Būdas senovės lietuvių Kalnėnų ir Žemaičių“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_author: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

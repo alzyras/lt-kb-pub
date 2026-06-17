@@ -45,7 +45,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   global_id: t-65555
   teiginys: 'Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie kuršius ir prūsus vikingų epochoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-005
 
@@ -63,7 +63,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   global_id: t-65557
   teiginys: 'Livonijoje sukilę estai, kuršiai ir žiemgaliai 1263-1270 m. mažino išorinį pavojų Lietuvai.'
   sudarymo_pagrindimas: 'Ilgas kontekstas sutrauktas į aiškų faktą apie kuršius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1263-1270; įvykio data: 1267 m.; įvykio data: 1270 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Ilgas kontekstas sutrauktas į aiškų faktą apie kuršius.'
@@ -93,7 +93,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   global_id: t-65560
   teiginys: 'Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vikingai|Vikingai]]; mentioned_place: Dniepras; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-005
 
@@ -110,7 +110,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-009
   global_id: t-65564
   teiginys: 'Kuršiai ir žiemgaliai yra taip pat gyvenę kaimais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietgaliai|Lietgaliai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]'
   pagrindžia:
     - c-003
 
@@ -119,7 +119,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   global_id: t-65565
   teiginys: 'Nestoro „Povest“ tarp rusams duoklę mokėjusių ir atskiras kalbas turėjusių tautų minėjo Kuršą.'
   sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad būtų apie kuršius ir be OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Dauguva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Dauguva'
   pagrindžia:
     - c-001
 
@@ -136,7 +136,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
 - t-012
   global_id: t-65567
   teiginys: 'Livonijoje sukilę kuršiai buvo pajungti tik po septynerių metų kovos, 1267 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1263-1270; įvykio data: 1267 m.; įvykio data: 1270 m.; įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -159,7 +159,7 @@ Dabartinės Latvijos vakarinėje dalyje, į šiaurę nuo Šventosios upės ir ž
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta be boilerplate, paliekant citatos palaikomą faktą apie kuršius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Avigenas|Avigenas]]; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/kolonijos|kolonijos]]; mentioned_person: [[objektai/asmenys/Avigenas|Avigenas]]; mentioned_place: Latvija'
   pagrindžia:
     - c-011
 

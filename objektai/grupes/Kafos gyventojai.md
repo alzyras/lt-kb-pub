@@ -22,7 +22,7 @@ Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sum
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir OCR triukšmas; sakinys remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Teodosija (Kafa)'
+  susije_objektai: 'mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
 - susijęs iš Krymas: Kafos gyventojai pasisamdė penkis šimtus raitelių, kuriuos turėjo vestis į Krymą per Lietuvos žemes.

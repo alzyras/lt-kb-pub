@@ -21,7 +21,7 @@ Plačiai užgriebdamas ir Lietuvos istoriją, vysk.
 - t-001
   global_id: t-31786
   teiginys: 'Adomo Stanislovo Naruševičiaus šešių tomų veikalas „Lenkų tautos istorija“ plačiai apėmė ir Lietuvos istoriją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Adomas Stanislovas Naruševičius|Adomas Stanislovas Naruševičius]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Adomas Stanislovas Naruševičius|Adomas Stanislovas Naruševičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

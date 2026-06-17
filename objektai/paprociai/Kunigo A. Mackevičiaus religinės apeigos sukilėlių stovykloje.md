@@ -49,7 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-41429
   teiginys: 'Kunigas A. Mackevičius laimino sukilėlius ir šventino jų vėliavas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 

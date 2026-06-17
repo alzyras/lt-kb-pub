@@ -24,7 +24,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   global_id: t-19651
   teiginys: 'Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir kontekstinis; citata pagrindžia glaustesnę formuluotę.'
-  susije_objektai: 'territory: Krėva; territory: Lenkija; territory: Lenkijos karalystė; territory: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
+  susije_objektai: 'territory: Krėva; territory: Lenkija; territory: Lenkijos karalystė; territory: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Krėva; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lenkija; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lenkijos karalystė; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lietuva'
   pagrindžia:
     - c-001
@@ -37,7 +37,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnai nusako bajorų seimo institucinį vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74513|Lenkijos valstybės taryba (institucija)]]: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.

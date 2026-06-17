@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20173
   teiginys: '1792 m. liepos pabaigoje gynyba telkėsi prie Brastos, bet liepos 24 d. atėjo žinia apie Stanislovo Augusto kapituliaciją ir prisijungimą prie Targovicos konfederacijos.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį, išlaikant citatoje pabrėžtą įvykių priešpriešą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Targovica; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškesnį sakinį, išlaikant citatoje pabrėžtą įvykių priešpriešą.'

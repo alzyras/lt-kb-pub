@@ -32,7 +32,7 @@ Dusburgietis teigia, kad švento Jono ligoninės ordinas — 1104 viešpaties me
   global_id: t-59049
   teiginys: 'Švento Jono ligoninės ordinas siejamas su 1104 m. popiežiaus Urbono II laikais.'
   sudarymo_pagrindimas: 'Reikia pašalinti boilerplate formuluotę ir palikti aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   temporaliniai_duomenys: 'įvykio data: 1104 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti boilerplate formuluotę ir palikti aiškų faktinį sakinį.'

@@ -29,7 +29,7 @@ Tai buvo, šaltiniais paremta studijėlė, « Bazelio susirinkimas ir Lietuvos s
   global_id: t-31975
   teiginys: 'Penkausko darbas „Vytautas Didysis ir jo Čekijos politika Venceliui mirus“ buvo atspaustas iš 1930 m. „Židinio“.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti autorių ir pašalinti perteklinį neaiškumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_place: Lietuva; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Alekna|A. Alekna]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Lietuva; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: iki 1930 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.; įvykio data: 1930 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti autorių ir pašalinti perteklinį neaiškumą.'

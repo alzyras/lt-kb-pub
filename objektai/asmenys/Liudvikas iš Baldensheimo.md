@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie brolį Liudviką, septintą Prūsijos žemės magi
   global_id: t-60378
   teiginys: 'Liudvikas iš Baldensheimo nuo 1265 m. šešerius metus vadovavo kaip septintasis Prūsijos magistras.'
   sudarymo_pagrindimas: 'Pašalinta antraštės liekana ir nereikalingas šaltinio numeris; faktas aiškiai remiamas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: po 1265 m.; įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštės liekana ir nereikalingas šaltinio numeris; faktas aiškiai remiamas.'

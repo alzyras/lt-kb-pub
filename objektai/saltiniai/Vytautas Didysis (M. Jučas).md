@@ -27,7 +27,7 @@ Vytautas Didysis.
   global_id: t-21319
   teiginys: 'M. Jučo veikalas „Vytautas Didysis“ išleistas Čikagoje 2010 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys per trumpas, o citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 2010 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per trumpas, o citata pagrindžia autorių, pavadinimą, leidimo vietą ir metus.'

@@ -29,7 +29,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   global_id: t-74624
   teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir pakankamai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1943 m.; įvykio data: 1943-1944; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, gramatiškas ir pakankamai paremtas citata.'
@@ -41,7 +41,7 @@ Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė �
   global_id: t-74625
   teiginys: 'Krikščionių demokratų sparno politikai ir ateitininkų jaunimas susibūrė į Lietuvių frontą ir Lietuvių vienybės sąjūdį.'
   sudarymo_pagrindimas: 'Citata remia susibūrimą į dvi organizacijas, todėl teiginys patikslintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos išlaisvinimo komitetas|Vyriausiasis Lietuvos išlaisvinimo komitetas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1943 m.; įvykio data: 1943-1944; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia susibūrimą į dvi organizacijas, todėl teiginys patikslintas.'

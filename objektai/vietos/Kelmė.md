@@ -28,7 +28,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 - t-001
   global_id: t-36296
   teiginys: '1416 m. Vytautas Kelmėje pastatė vieną iš aštuonių Žemaitijos parapinių bažnyčių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'pastatymo data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,7 +38,7 @@ Kaip jau matėme, 1416 metais Vytautas Varniuose pastatė katedrą ir aštuonias
 - t-002
   global_id: t-36297
   teiginys: 'Vytautas Kelmėje pastatė vieną iš Žemaitijos bažnyčių, priklausiusių plačiam jo statytų bažnyčių tinklui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Žebenkšties rinktinė.md#claim-t-38912|Žebenkšties rinktinė]]: 1945 m. vasarą apie 60 Juozo Čeponio-Budrio vadovaujamų Žebenkšties rinktinės kovotojų persikėlė iš Bedančių miško į Virtukų pušyną.

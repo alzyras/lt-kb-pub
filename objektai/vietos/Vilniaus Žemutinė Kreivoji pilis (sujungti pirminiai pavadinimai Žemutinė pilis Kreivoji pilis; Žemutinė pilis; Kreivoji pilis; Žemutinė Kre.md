@@ -24,7 +24,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   global_id: t-85901
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi pilies kalno papėdėje palei Viliją.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai atitinka citatos duomenis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnelė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnelė'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   global_id: t-85903
   teiginys: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, bet citata palaiko pavadinimų tapatinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Žemutinė pilis'
+  susije_objektai: 'mentioned_place: Žemutinė pilis'
   pagrindžia:
     - c-004
 
@@ -60,7 +60,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   global_id: t-85905
   teiginys: 'Žemutinė pilis, vadinta Kreivąja, driekėsi apačioje, joje buvo kunigaikščių menės.'
   sudarymo_pagrindimas: 'Pirminis sakinys gremėzdiškas; citata leidžia glaustai atskirti Žemutinės pilies faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bokštai'
   pagrindžia:
     - c-005
 

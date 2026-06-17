@@ -27,7 +27,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   global_id: t-78386
   teiginys: 'Atskirojo Marijampolės bataliono viršila Antanas Šukys aprašė naktinę žvalgybinę-diversinę operaciją į bolševikų divizijos štabą.'
   sudarymo_pagrindimas: 'Sakinys tinkamas, bet perrašytas kaip tvarkingas faktas be citatos konteksto triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
   temporaliniai_duomenys: 'įvykio data: 2000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys tinkamas, bet perrašytas kaip tvarkingas faktas be citatos konteksto triukšmo.'
@@ -39,7 +39,7 @@ Svoris — 14,86 kg (svoris su vandeniu - apie 18 kg) Atskirojo Marijampolės ba
   global_id: t-78387
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir paremtas citata apie bataliono veikimą brigadoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/11 brigada.md#claim-t-183651|11 brigada]]: Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.

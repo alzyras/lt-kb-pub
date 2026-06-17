@@ -28,7 +28,7 @@ VII amž. gale jie įsi­ kūrė Grobine, kur turėjo savo svarbią karinę baz�
   global_id: t-28462
   teiginys: 'VII amžiaus pabaigoje Grobine įsikūrę švedai turėjo svarbią karinę bazę Seeburgą.'
   sudarymo_pagrindimas: 'Pašalintos OCR skiemenavimo liekanos ir paliktas aiškus faktas apie Seeburgą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalintos OCR skiemenavimo liekanos ir paliktas aiškus faktas apie Seeburgą.'

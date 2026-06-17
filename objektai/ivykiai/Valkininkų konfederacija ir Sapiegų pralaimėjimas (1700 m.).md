@@ -16,7 +16,6 @@ tags:
   - ivykis
   - karas
   - kraštas
-  - vyskupas
 amziai:
   - 'XVII'
   - 'XVIII'
@@ -58,8 +57,7 @@ Nenurodyta
   global_id: t-78642
   teiginys: 'Karolio Zikaro sudarytame leidinyje Valkininkų mūšis siejamas su suirutės Lietuvoje pradžia ir kaimynų įtakos stiprėjimu.'
   sudarymo_pagrindimas: 'Tai interpretacinis teiginys, todėl pridėta šaltinio atribucija.'
-  susije_objektai: 'event: [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva; mentioned_place: Valkininkai'
-  semantiniai_rysiai: '[[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]] dalyvavo mūšyje [[objektai/ivykiai/Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)|Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva; mentioned_place: Valkininkai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -115,6 +113,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/autoriai/Karolis Zikaras]] dalyvavo_musyje Valkininkų konfederacija ir Sapiegų pralaimėjimas (1700 m.)

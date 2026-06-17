@@ -70,7 +70,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   global_id: t-60856
   teiginys: 'Senojoje Olivos kronikoje nurodyta, kad per 1243 (1242?) m. birželio 15 d. kautynes Sventopelkas buvo sudaręs paliaubas su Ordinu.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų teiginį apie Olivos kronikoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė'
   pagrindžia:
     - c-007
 
@@ -79,7 +79,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   global_id: t-60857
   teiginys: 'Olivos kronikoje vietovardis pateikiamas formomis Kirske ir Kirsko.'
   sudarymo_pagrindimas: 'Citata palaiko trumpą faktinį teiginį apie kronikoje vartojamas vietovardžio formas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Oliva'
+  susije_objektai: 'mentioned_place: Oliva'
   pagrindžia:
     - c-005
 
@@ -97,7 +97,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   global_id: t-60860
   teiginys: 'J. Venta analizavo Olivos kronikos šaltinius ir svarstė išlikusios Dusburgiečio kronikos redakciją.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Olivos kronikos šaltinių analizę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Poverskis|J. Poverskis]]; mentioned_person: [[objektai/autoriai/J. Venta|J. Venta]]; mentioned_place: Oliva; mentioned_place: Pamaris; mentioned_place: Venta'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Poverskis|J. Poverskis]]; mentioned_author: [[objektai/autoriai/J. Venta|J. Venta]]; mentioned_place: Oliva; mentioned_place: Pamaris; mentioned_place: Venta'
   temporaliniai_duomenys: 'įvykio data: 1326 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie Olivos kronikos šaltinių analizę.'
@@ -109,7 +109,7 @@ Dusburgietis teigia, kad analizuodamas Olivos kronikos šaltinius, J. Dusburgiet
   global_id: t-60861
   teiginys: 'Olivos kronikoje Renseno ežeras minimas lotyniška forma „ad lacum qui dicitur Rensin“.'
   sudarymo_pagrindimas: 'Citata patvirtina Olivos kronikoje vartotą Renseno ežero pavadinimo formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Oliva; mentioned_place: Torunė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Oliva; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-008
 

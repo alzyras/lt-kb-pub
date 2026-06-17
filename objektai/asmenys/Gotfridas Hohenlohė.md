@@ -34,7 +34,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   global_id: t-60019
   teiginys: '1297 m. Gotfridas Hohenlohė buvo išrinktas Teutonų namų ordino didžiuoju magistru ir vadovavo 13 metų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]'
   temporaliniai_duomenys: 'įvykio data: 1297 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai atitinka citatą.'
@@ -46,7 +46,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   global_id: t-60020
   teiginys: '1298 m. Gotfridas Hohenlohė lankėsi Prūsijoje ir pasiuntė Bertoldą Briuhaveną su kariais į pagalbą Livonijos broliams.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo per ilgas, bet citata palaiko faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Goliubo pilis; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Goliubo pilis; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo per ilgas, bet citata palaiko faktą.'
@@ -58,7 +58,7 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   global_id: t-60021
   teiginys: '1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'location: Elbingas; location: Prūsija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'location: Elbingas; location: Prūsija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]] keliavo į Elbingas; [[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]] keliavo į Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gotfridas Hohenlohė keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotfridas Hohenlohė keliavo į Prūsija“, o ne visam objekto laikotarpiui.'

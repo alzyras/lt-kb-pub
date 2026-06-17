@@ -8,6 +8,7 @@ datos:
   - '1831 m.'
   - '1863 m.'
   - '1864 m.'
+  - '1969 m.'
   - '1972 m.'
 date_start: '1830'
 date_end: '1972'
@@ -33,7 +34,7 @@ amziai:
   global_id: t-97268
   teiginys: '„Lietuvos sukilėlių kovos 1863-1864 m.“ buvo išleista 1969 m.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje nurodytais leidimo metais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1863-1864; įvykio data: 1864 m.; įvykio data: 1969 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citatoje nurodytais leidimo metais.'
@@ -45,7 +46,7 @@ amziai:
   global_id: t-97269
   teiginys: 'Veikalas „Lietuvos sukilėlių kovos 1863-1864 m.“ nurodytas kaip 1969 m. publikacija.'
   sudarymo_pagrindimas: 'Citata patvirtina pavadinimą ir metus, o OCR triukšmą reikia pašalinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1863-1864; įvykio data: 1864 m.; įvykio data: 1969 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina pavadinimą ir metus, o OCR triukšmą reikia pašalinti.'

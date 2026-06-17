@@ -59,7 +59,7 @@ Gardino seimas: su apkarpyta Respublika reikėjo padaryti naują taikos sutartį
   global_id: t-72076
   teiginys: '1793 m. Gardino seime Rusija siekė sugrąžinti po pirmojo padalijimo buvusią valstybės tvarką.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis fragmentas; citata leidžia aiškiai įvardyti Gardino seimo paskirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1793 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo kontekstinis fragmentas; citata leidžia aiškiai įvardyti Gardino seimo paskirtį.'

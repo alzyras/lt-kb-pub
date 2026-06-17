@@ -32,7 +32,7 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   global_id: t-87422
   teiginys: 'Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.'
   sudarymo_pagrindimas: 'Teiginys pašalina OCR triukšmą ir remiasi citatoje nurodytu dalyvavimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pašalina OCR triukšmą ir remiasi citatoje nurodytu dalyvavimu.'

@@ -49,7 +49,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   global_id: t-54452
   teiginys: 'Per 1530 m. Vilniaus gaisrą liepsnose pražuvo Žemutinė karalių pilis ir didžioji miesto dalis.'
   sudarymo_pagrindimas: 'Patikslinta, kuris gaisras vadinamas antruoju.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kuris gaisras vadinamas antruoju.'
@@ -61,7 +61,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   global_id: t-54453
   teiginys: 'Per 1513 m. vasario 21 d. Vilniaus gaisrą buvo sunaikinta Aukštutinė pilis.'
   sudarymo_pagrindimas: 'Patikslinta, kuris gaisras vadinamas pirmuoju.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukštutinė pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Aukštutinė pilis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1513 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kuris gaisras vadinamas pirmuoju.'
@@ -73,7 +73,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   global_id: t-54454
   teiginys: '1513 m. vasario 21 d. ir 1530 m. Vilniuje kilę gaisrai miestui padarė labai didelių nuostolių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, užbaigtas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1513 m.; įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, užbaigtas ir tiesiogiai pagrįstas citata.'
@@ -85,7 +85,7 @@ Pirmasis gaisras sunaikino Aukštutinę pilį, o antrasis - Žemutinę karalių 
   global_id: t-54455
   teiginys: '1513 m. vasario 21 d. ir 1530 m. Vilniaus gaisrai buvo viena iš priežasčių, paskatinusių karaliaus pastangas aprūpinti miestą vandeniu.'
   sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį „Šie“ konkrečiais gaisrais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1513 m.; įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų įvardį „Šie“ konkrečiais gaisrais.'

@@ -29,7 +29,7 @@ Pati re­ forma nepasisekė, nes Vygunto mirtis (1392 m. birželio 28 d.) suard�
   global_id: t-35011
   teiginys: 'Vygunto mirtis 1392 m. birželio 28 d. suardė reformos planus.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir paremtas citatoje nurodyta data bei pasekme.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vyguntas|Vyguntas]]'
   temporaliniai_duomenys: 'įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus ir paremtas citatoje nurodyta data bei pasekme.'

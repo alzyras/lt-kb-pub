@@ -14,7 +14,6 @@ tags:
   - ordinas
   - popiežius
   - tauta
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -31,7 +30,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
   global_id: t-86096
   teiginys: 'Paulius iš Olivos kartu su Jordanu iš Pelplino laiškuose popiežiui stojo ginti kryžiuočių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje nurodytą Pauliaus iš Olivos veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Pelplinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jordanas iš Pelplino|Jordanas iš Pelplino]]; mentioned_person: [[objektai/asmenys/Paulius iš Olivos|Paulius iš Olivos]]; mentioned_place: Lietuva; mentioned_place: Neuenbergas; mentioned_place: Pelplinas'
   pagrindžia:
     - c-001
 
@@ -153,7 +152,7 @@ Kai maždaug tuo metu sužinota, jog Gedimino skundas tikrai popiežiui pasiųst
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Dlugošas]] valde_teritorija Oliva
 - [[objektai/grupes/Kiršenšteinai]] valde_teritorija Oliva
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] valde_teritorija Oliva
 - [[objektai/asmenys/Tirskas]] uzkariavo Oliva
 - [[objektai/asmenys/Konradas]] buvo_valdovas Oliva

@@ -21,7 +21,7 @@ Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.
   global_id: t-187358
   teiginys: 'Trobai šiame gabale minimi Trobų kunigaikščio titulo kontekste.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 

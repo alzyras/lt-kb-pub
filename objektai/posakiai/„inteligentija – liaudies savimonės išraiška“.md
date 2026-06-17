@@ -22,7 +22,7 @@ LKP vadovybei Aleksandras Jakovlevas pabrėžė, kad „inteligentija – liaudi
   global_id: t-20897
   teiginys: 'Aleksandras Jakovlevas LKP vadovybei pabrėžė, kad „inteligentija – liaudies savimonės išraiška“.'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria posakį Aleksandrui Jakovlevui ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jakovlevas|Aleksandras Jakovlevas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Jakovlevas|Aleksandras Jakovlevas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

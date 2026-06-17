@@ -36,7 +36,6 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
 - t-001
   global_id: t-64500
   teiginys: 'Rengiant monografiją apie Vytautą Didįjį A. Alekna padėjo naudingais patarimais ir buvo numatytas įžangos žodžio autorius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]'
   pagrindžia:
     - c-002
 
@@ -45,7 +44,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   global_id: t-64501
   teiginys: 'Zenonas Ivinskis vertino, kad A. Aleknos „Katalikų Bažnyčia Lietuvoje“ parodė jo gebėjimą kritiškai ir objektyviai vertinti šaltinius.'
   sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1911 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
@@ -79,7 +78,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   global_id: t-64504
   teiginys: 'Antanas Alekna 1922–1930 m. dėstė Lietuvos istoriją, jos šaltinius ir istorinę geografiją Teologijos-Filosofijos fakulteto Filosofijos skyriuje.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnę formuluotę su fakulteto skyriumi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1911 m.; įvykio data: 1922-1930; įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnę formuluotę su fakulteto skyriumi.'
@@ -91,7 +90,7 @@ A. Alekna minimas kaip nusipelnęs istorikas, kelių Lietuvos ir Bažnyčios ist
   global_id: t-64505
   teiginys: 'Prof. A. Alekna peržiūrėjo ir patikrino apie Vytautą Didįjį išleistą plačią monografiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie A. Aleknos vaidmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jubiliejus|jubiliejus]]; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-004
 

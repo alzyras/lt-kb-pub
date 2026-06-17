@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-19514
   teiginys: 'Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo sugadintas fragmentas, citata remia aiškų faktą apie LDK savarankiškas institucijas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1588 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo sugadintas fragmentas, citata remia aiškų faktą apie LDK savarankiškas institucijas.'

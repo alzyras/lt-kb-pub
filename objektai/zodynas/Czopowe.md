@@ -23,7 +23,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   global_id: t-86520
   teiginys: 'Czopowe buvo svaigalų mokestis, kurį Batoras reikalavo išreikalauti iš Vilniaus miestiečių.'
   sudarymo_pagrindimas: 'Citata ir pastaba pagrindžia mokesčio pobūdį bei taikymą Vilniaus miestiečiams.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Szosowe|Szosowe]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

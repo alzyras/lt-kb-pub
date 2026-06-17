@@ -49,7 +49,6 @@ Nenurodyta
   global_id: t-08279
   teiginys: 'Tokios akstys dar buvo dėvimos 10 amžiuje ir siejamos su šv. Vaitiekaus pervėrimu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]'
   pagrindžia:
     - c-002
 

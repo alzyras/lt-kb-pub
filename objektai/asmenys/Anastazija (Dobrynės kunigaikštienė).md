@@ -25,10 +25,7 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   semantiniai_rysiai: '[[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Dobrynė; [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Mazovija; [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Viena'
   pagrindžia:
     - c-001
-- susijęs iš Dobrynės kunigaikštystė: Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
-- susijęs iš Dobrynės žemė kunigaikštystė (sujungti pirminiai pavadinimai Dobrynės kunigaikštystė; Dobrynės žemė): Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.
 - susijęs iš Kopylis: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
-- susijęs iš Lojevas: Ties Lojevu maždaug 4000 totorių ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė Mozyriaus bei Slucko link.
 - susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
 ## Reikšmingi paminėjimai
 

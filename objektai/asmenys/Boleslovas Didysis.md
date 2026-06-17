@@ -24,7 +24,7 @@ Tuo pačiu keliu kaip Henrikas Paukštininkas Vokietijoje, tik amžiumi vėliau,
   global_id: t-87636
   teiginys: 'Michałas Balińskis Boleslovą Didįjį, pramintą Narsiuoju, laikė pirmuoju miestų įkūrėju Lenkijos žemėje.'
   sudarymo_pagrindimas: 'Teiginys yra autoriaus vertinimas, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Vaišių stalai.md#claim-t-55058|Vaišių stalai]]: Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.

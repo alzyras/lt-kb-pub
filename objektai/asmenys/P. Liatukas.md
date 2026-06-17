@@ -22,7 +22,7 @@ Liatukas įsakė 2-ojo pėstininkų pulko vadui karin. Liatukas vasario 8 d. įs
   global_id: t-39622
   teiginys: 'P. Liatukas vasario 3 d. įsakė V. Grigaliūnui-Glovackiui atsiųsti į Prienus kareivių būrį saugoti tiltą per Nemuną.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Nemunas; mentioned_place: Prienai'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Prienai'
   pagrindžia:
     - c-001
 

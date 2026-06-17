@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: '1457 m. lapkričio 28 d. Kazimieras davė Žaslius Vilniaus vaivadai Jonui Goštautui.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Kazimiero veiksmą, datą, objektą ir gavėją. Atribucija nereikalinga, nes tai neutralus dokumentinis faktas, o ne metraščio vertinimas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1457 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Kazimiero veiksmą, datą, objektą ir gavėją. Atribucija nereikalinga, nes tai neutralus dokumentinis faktas, o ne metraščio vertinimas.'

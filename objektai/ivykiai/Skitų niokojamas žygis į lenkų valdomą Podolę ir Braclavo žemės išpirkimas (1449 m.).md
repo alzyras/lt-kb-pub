@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išvalytas OCR triukšmas ir palikta citatos paremta įvykio esmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_person: [[objektai/asmenys/Jurga (pasienio seniūnas)|Jurga (pasienio seniūnas)]]; mentioned_place: Braclavas; mentioned_place: Naugardukas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Jurga (pasienio seniūnas)|Jurga (pasienio seniūnas)]]; mentioned_place: Braclavas; mentioned_place: Naugardukas; mentioned_place: Podolė'
   temporaliniai_duomenys: 'įvykio data: 1449 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išvalytas OCR triukšmas ir palikta citatos paremta įvykio esmė.'

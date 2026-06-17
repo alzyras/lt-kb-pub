@@ -27,7 +27,7 @@ Jakštas, J.
 - t-001
   global_id: t-31725
   teiginys: 'J. Jakšto „Prie Vytauto charakteristikos“ paskelbta 1931 m. „Vairo“ 4 numeryje.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]'
   temporaliniai_duomenys: 'įvykio data: 1931 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

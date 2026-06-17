@@ -36,7 +36,7 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   global_id: t-182771
   teiginys: 'Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.'
   sudarymo_pagrindimas: 'Pašalintas žemėlapio ir OCR triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komendantūra|komendantūra]]; mentioned_place: Kaunas; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-002
 
@@ -302,4 +302,3 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
 
 ## Ryšiai
 - [[objektai/asmenys/Gediminas]] gyveno Nevėžis
-- [[objektai/asmenys/Vaidila]] gyveno Nevėžis

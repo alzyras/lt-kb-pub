@@ -39,7 +39,7 @@ M. Sleževičius: komiteto pirmininkas buvo Rusijos Dūmos atstovas M. Yčas, vi
   global_id: t-79104
   teiginys: '1919 m. rugpjūčio 30 d. ministras pirmininkas M. Sleževičius pasveikino vyr. kariuomenės vadą gen. S. Žukauską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Zarasai'
+  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Zarasai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie M. Sleževičių ir remiasi cituotu fragmentu.'

@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas, gramatiškas ir pagrįstas citatoje pateiktu įvykiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Smolenskiečiai|Smolenskiečiai]]; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

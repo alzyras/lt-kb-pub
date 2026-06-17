@@ -28,7 +28,7 @@ Baudžiavos panaikinimo manifestas buvo paruoštas Petrapily ir paskelbtas 1861 
   global_id: t-02139
   teiginys: '1861 m. vasario 19 d. paskelbtu Baudžiavos panaikinimo manifestu Rusijos imperijoje panaikinta baudžiava.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki vieno aiškaus sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1861 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki vieno aiškaus sakinio.'

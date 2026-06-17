@@ -48,7 +48,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65935
   teiginys: 'M. Tepenas, remdamasis rašytiniais šaltiniais, dar XIX a. laikė skalvius ir nadruvius lietuviais.'
   sudarymo_pagrindimas: 'Teiginys klaidingai priskirtas Dusburgiečiui ir turi OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_place: Deimena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Becenbergeris|A. Becenbergeris]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Deimena'
   pagrindžia:
     - c-009
 
@@ -66,7 +66,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65937
   teiginys: 'Viduryje Nadruva priklausė, atrodo, Mindaugo Lietuvai.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Nadruva; mentioned_place: Prieglius; mentioned_place: Vangrapė; mentioned_place: Šešupė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nadruva; mentioned_place: Prieglius; mentioned_place: Vangrapė; mentioned_place: Šešupė'
   pagrindžia:
     - c-002
 
@@ -75,7 +75,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65938
   teiginys: 'Nadruviai ir skalviai kalbos požiūriu priskiriami prie prūsų, tai yra vakarinių baltų.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai paremtas citata apie nadruvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
     - c-006
@@ -112,7 +112,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-65942
   teiginys: 'Po Tirsko pasidavimo daug kilmingų Nadruvos vyrų su šeimynomis atėjo pas brolius, priėmė krikštą ir išsižadėjo stabų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Maudelis|Maudelis]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.

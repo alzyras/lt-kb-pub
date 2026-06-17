@@ -23,7 +23,7 @@ Dėl Vilniaus Batoras pareikalavo iš vaivados Radvilos, kad šis neprieštaraud
   global_id: t-86554
   teiginys: 'Batoras reikalavo, kad Vilniaus miestiečiai mokėtų Czopowe ir Szosowe mokesčius.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir perteiktas citatos palaikomas faktas apie Szosowe mokestį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/Czopowe|Czopowe]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -53,7 +53,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   global_id: t-91448
   teiginys: '1683 m. hetmonas Sapiega, vykdamas vaduoti Vienos, delsė su Lietuvos kariuomene ir atvyko tik po didžiojo mūšio.'
   sudarymo_pagrindimas: 'Reikia patikslinti Sapiegos pareigas ir suformuluoti glaudžiau.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_place: Lietuva'
+  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1683 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia patikslinti Sapiegos pareigas ir suformuluoti glaudžiau.'
@@ -77,7 +77,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas, gramatiškas ir citata tiesiogiai jį patvirtina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1683 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra savarankiškas, gramatiškas ir citata tiesiogiai jį patvirtina.'
@@ -122,24 +122,19 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/autoriai/Vygandas Marburgietis.md#claim-t-172965|Vygandas Marburgietis]]: Vygandas Marburgietis aprašė, kaip 1345 m. lietuvių karalius dezinformavo kryžiuočius, siekdamas apsiginti ir užpulti priešo teritoriją.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/grupes/Vienos universiteto profesoriai.md#claim-t-34352|Vienos universiteto profesoriai]]: Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus.
-- susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
-- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66809|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.
 - susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
 - susijęs iš [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“.md#claim-t-36031|„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]: Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.
 - susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
-- susijęs iš Baiga: Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.
 - susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.
 - susijęs iš Kujavija: Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.
 - susijęs iš Naugardukas: Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių.
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.
 - susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
 - susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
-- susijęs iš [[objektai/zodynas/stabmeldys.md#claim-t-42511|stabmeldys]]: Viena stabmeldė pranešė magistrui, kad lietuvių karalius telkia kariuomenę Sembos žemei nusiaubti.
 - susijęs iš [[objektai/asmenys/Aleksandras Balinskis.md#claim-t-173118|Aleksandras Balinskis]]: Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.
 - susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60122|Gerhardas (valdovas)]]: Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.
@@ -190,6 +185,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176307|Algirdas (Lietuvos valdovas)]]: Algirdo ir Kęstučio laikais Lietuvoje kursavo Čekijos grašiai, kurių 60 sudarydavo vieną rublį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176308|Algirdas (Lietuvos valdovas)]]: Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.
 - susijęs iš [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė).md#claim-t-87619|Anastazija (Dobrynės kunigaikštienė)]]: Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.
+- susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
 - susijęs iš [[objektai/asmenys/Andrius Važila.md#claim-t-87385|Andrius Važila]]: Vyskupas Andrius Važila gavo popiežiaus patvirtinimą perimti Vilniaus vyskupiją.
 - susijęs iš [[objektai/asmenys/Antanas Gelgaudas.md#claim-t-63475|Antanas Gelgaudas]]: Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.
 - susijęs iš [[objektai/asmenys/Antanas Mackevičius.md#claim-t-75700|Antanas Mackevičius]]: Zigmantas Sierakauskas vienai sukilėlių kariuomenės kolonai pavedė vadovauti Antanui Mackevičiui.
@@ -2171,23 +2167,21 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 ## Ryšiai
 - [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] mire Viena
 - [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]] valde_teritorija Viena
-- [[objektai/asmenys/Dlugošas]] valde_teritorija Viena
 - [[objektai/grupes/Gediminaičių dinastija]] valde_teritorija Viena
 - [[objektai/grupes/Kiršenšteinai]] valde_teritorija Viena
 - [[objektai/asmenys/Kiršenšteinas]] valde_teritorija Viena
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] valde_teritorija Viena
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] gyveno Viena
 - [[objektai/asmenys/Jonas Saksas iš Gilberštetės]] gyveno Viena
 - [[objektai/grupes/Pamedėnai]] gyveno Viena
 - [[objektai/asmenys/Pipinas]] gyveno Viena
 - [[objektai/asmenys/Pranciškus Gonzaga]] gyveno Viena
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Viena
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Viena
 - [[objektai/asmenys/Bazilijus Serebrianas]] buvo_valdovas Viena
 - [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis)]] buvo_valdovas Viena
 - [[objektai/asmenys/Dmitrijus Michailovičius]] buvo_valdovas Viena
 - [[objektai/asmenys/Fiodoras Ostrogiškis]] buvo_valdovas Viena
 - [[objektai/asmenys/Gediminas]] buvo_valdovas Viena
-- [[objektai/asmenys/Gedūnas]] buvo_valdovas Viena
 - [[objektai/asmenys/Ivanas Vasiljevičius]] buvo_valdovas Viena
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Viena
 - [[objektai/asmenys/Kanutas]] buvo_valdovas Viena
@@ -2198,16 +2192,12 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - [[objektai/grupes/Krymo chanatas]] susije_su Viena
 - [[objektai/grupes/Kryžiuočių ordinas]] susije_su Viena
 - [[objektai/grupes/Lenkai]] susije_su Viena
-- [[objektai/asmenys/Lešekas]] buvo_valdovas Viena
 - [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Viena
 - [[objektai/asmenys/Petras Šuiskis]] buvo_valdovas Viena
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Viena
 - [[objektai/grupes/Vienos universiteto profesoriai]] susije_su Viena
 - [[objektai/asmenys/Vincentas iš Šamotulų]] buvo_valdovas Viena
-- [[objektai/asmenys/Vygandas]] buvo_valdovas Viena
-- [[objektai/autoriai/Vygandas Marburgietis]] buvo_valdovas Viena
 - [[objektai/asmenys/Ziemovitas]] buvo_valdovas Viena
-- [[objektai/asmenys/Aleksandras]] keliavo_i Viena
 - [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Viena
 - [[objektai/vietos/Belichovas]] priklause Viena
 - [[objektai/asmenys/Gediminas]] keliavo_i Viena
@@ -2218,7 +2208,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Viena
 - [[objektai/asmenys/Martynas iš Golino]] keliavo_i Viena
 - [[objektai/vietos/Mendzižečės giria]] priklause Viena
-- [[objektai/asmenys/Motiejus]] susije_su Viena
+- [[objektai/asmenys/Motiejus]] keliavo_i Viena
 - [[objektai/asmenys/Motiejus iš Blonios]] keliavo_i Viena
 - [[objektai/vietos/Olandija]] priklause Viena
 - [[objektai/grupes/Pamedėnai]] priklause Viena
@@ -2227,6 +2217,7 @@ Padarius sąjungą su Austrija, turkai užpuolė šią ir pasiekė net Vieną. N
 - [[objektai/asmenys/Ruseinis]] keliavo_i Viena
 - [[objektai/vietos/Rūdninkų giria]] priklause Viena
 - [[objektai/asmenys/Simeonas]] keliavo_i Viena
+- [[objektai/grupes/Valachai]] priklause Viena
 - [[objektai/grupes/Vilniaus miestiečių luomas]] priklause Viena
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]] priklause Viena
 - [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]] priklause Viena

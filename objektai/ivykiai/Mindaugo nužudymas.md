@@ -38,7 +38,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis Mindaugą vadina Lietuvos didžiuoju kunigaikščiu ir visų lietuvių žemių valdovu, nužudytu rudenį.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Valdovo titulų vartojimas turi likti šaltiniui atribuuotas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

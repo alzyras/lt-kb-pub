@@ -34,8 +34,6 @@ is, 1943 m., naciai naikino miestų getus, iškasė ir degino nužudytųjų kūn
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, aiškus ir atitinka citatoje nurodytus duomenis.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/MOPR.md#claim-t-19938|MOPR]]: MOPR buvo iš Maskvos diriguojama tarptautinė organizacija revoliucionieriams remti, kurioje daugumą sudarė žydai.
-- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117388|Žydai]]: Tarpukario Lietuvos žydai buvo daugiapolė, pliuralistinė ir politiškai susiskaidžiusi bendruomenė, turėjusi daug partijų ir organizacijų.
 - susijęs iš Kauno getas: Kauno getas buvo tarp getų, kuriuose apie 50 tūkst. žydų laikinai palikti ir išnaudoti kaip pigi darbo jėga.
 ## Reikšmingi paminėjimai
 

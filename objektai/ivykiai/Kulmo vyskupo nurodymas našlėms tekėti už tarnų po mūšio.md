@@ -41,7 +41,7 @@ Nenurodyta
   teiginys: 'Po mūšio Kulmo vyskupas įpareigojo Kulmo našles tekėti už savo tarnų, kad tikėjimo reikalas neatsidurtų pavojuje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kulmas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-003

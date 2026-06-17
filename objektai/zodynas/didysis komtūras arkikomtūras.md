@@ -30,7 +30,7 @@ Mykolą paskirtas Ordino didžiuoju maršalu, 1387 metais per Apreiški­ mo Mar
   global_id: t-86586
   teiginys: 'Konradas Valenrodas 1387 metais tapo Ordino didžiuoju komtūru, arba arkikomtūru.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiksliai perteikia citatoje nurodytas pareigas bei datą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Valenrodas|Konradas Valenrodas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Valenrodas|Konradas Valenrodas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1391 m.; įvykio data: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir tiksliai perteikia citatoje nurodytas pareigas bei datą.'

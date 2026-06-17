@@ -21,7 +21,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-19704
   teiginys: 'Heinricho Hamano „skrajojantis būrys“ buvo iš lietuvių sudaryta zonderkomanda, vykdavusi į provincijos vietoves šaudyti.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi, bet citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/zonderkomanda|zonderkomanda]]; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/zonderkomanda.md#claim-t-70414|zonderkomanda]]: Daugiausia šaudė dvi iš lietuvių sudarytos zonderkomandos: Ypatingasis SD būrys Paneriuose ir Heinricho Hamano skrajojantis būrys.

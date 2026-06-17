@@ -22,7 +22,7 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko Vaitiekaus Kiočkos vaidmenį kaip pasiuntinio; pradinė formuluotė turi OCR triukšmo.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Severskas; territory: Vengrija; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_place: Vengrija'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Severskas; territory: Vengrija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_place: Vengrija'
   semantiniai_rysiai: '[[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Lietuva; [[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Maskva; [[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Severskas; [[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Vengrija'
   pagrindžia:
     - c-001

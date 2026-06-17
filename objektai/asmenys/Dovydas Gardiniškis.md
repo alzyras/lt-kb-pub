@@ -30,7 +30,7 @@ Stryjkovskio kroniką, Gedimino laikų žymiojo karo vado Dovydo Gardiniškio ž
   global_id: t-30225
   teiginys: 'Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai remiasi Stryjkovskio kronikos paminėjimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai remiasi Stryjkovskio kronikos paminėjimu.'

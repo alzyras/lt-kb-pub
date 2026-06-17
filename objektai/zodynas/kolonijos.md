@@ -22,7 +22,7 @@ Bet visos didžiosios Europos tautos jau seniai pradėjo tvarkyti savo emigracij
 - t-001
   global_id: t-70183
   teiginys: 'Pietų Amerikoje buvo laikoma įmanoma įkurti grynai lietuviškų kolonijų, kokių turėjo kitos tautos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Pietų Amerika'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pietų Amerika'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Avigenas.md#claim-t-186096|Avigenas]]: Kolonijos Agripinos arkivyskupas Avigenas su kariuomene patraukė į žygį ir jai vadovavo lyg etmonas.

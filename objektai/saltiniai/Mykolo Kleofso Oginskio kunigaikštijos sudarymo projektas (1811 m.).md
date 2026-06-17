@@ -29,7 +29,7 @@ Be to, jis siūlė palikti toje kunigaikštijoje Lietuvos statutą be jokių apr
   global_id: t-02248
   teiginys: 'Oginskio projekte siūlyta kunigaikštijoje be apribojimų palikti Lietuvos Statutą ir įsteigti nuo Petrapilio nepriklausomą tribunolą.'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi neaiškiu įvardžiu, todėl reikia aiškiai susieti faktą su projektu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Podolė; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Petrapilis; mentioned_place: Podolė; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: po 1569 m.; įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi neaiškiu įvardžiu, todėl reikia aiškiai susieti faktą su projektu.'

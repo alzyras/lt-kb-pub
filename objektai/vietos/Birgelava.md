@@ -10,7 +10,6 @@ tags:
   - miestas
   - mūšis
   - pilis
-  - vieta
 ---
 # Birgelava
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   global_id: t-90326
   teiginys: 'Treniota su talkininkais subūrė iki 30000 vyrų ir dalį jų pasiuntė į Kulmo žemę, kur buvo paimta Birgelavos pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia Treniotos veiksmą ir ryšį su Birgelavos pilimi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   global_id: t-90327
   teiginys: 'Į Kulmo žemę įsibrovę kariai paėmė Birgelavos pilį ir pagrobė joje buvusius gyvulius bei mantą.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda boilerplate ir yra per ilgas; citata remia aiškų faktą apie pilies paėmimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad likę įsibrovė į Kulmo žemę ir, neskaitant kitų p
   global_id: t-90328
   teiginys: 'Vakarop ji priėjo Birgelavos pilį ir ten įsirengė stovyklą443.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Kulmas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90060|Treniota]]: Treniota su talkininkais subūrė iki 30 000 vyrų, nusiaubė Mazoviją ir Pamedę, o jo pajėgos paėmė Birgelavos pilį.

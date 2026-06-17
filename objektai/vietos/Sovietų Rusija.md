@@ -34,7 +34,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   global_id: t-77321
   teiginys: 'Rusija pretendavo į LDK palikimą ir Lietuvą laikė jo sudedamąja dalimi.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis įvadas; citata remia aiškų faktinį teiginį apie Rusijos pretenzijas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas kontekstinis įvadas; citata remia aiškų faktinį teiginį apie Rusijos pretenzijas.'
@@ -46,7 +46,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
   global_id: t-77322
   teiginys: '1919 m. rugsėjį Sovietų Rusija pasiūlė Lietuvai, Latvijai ir Estijai pradėti taikos derybas, taip de facto pripažindama šias valstybes.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako Sovietų Rusijos veiksmą ir jo reikšmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/de facto|de facto]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako Sovietų Rusijos veiksmą ir jo reikšmę.'
@@ -57,7 +57,7 @@ Remdamiesi tik Raudonosios armijos daliniais lietuvių bolševikai gruodžio 16 
 - t-003
   global_id: t-77324
   teiginys: '1920 m. liepos 12 d. Taikos sutartis su Sovietų Rusija buvo laikoma dideliu Lietuvos diplomatijos laimėjimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'sutarties data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

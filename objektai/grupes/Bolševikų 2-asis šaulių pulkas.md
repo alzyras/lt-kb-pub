@@ -22,7 +22,7 @@ Tuo tarpu Kėdainių kryptimi pamažu artėjo bolševikų 2-asis šaulių pulkas
   global_id: t-40869
   teiginys: 'Bolševikų 2-asis šaulių pulkas artėjo Kėdainių kryptimi ir turėjo apie 900 ar 1 000 kovotojų.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir OCR laužymai, išlaikytas pagrindinis faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Kruopiai; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Kruopiai; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 

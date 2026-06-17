@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   global_id: t-60218
   teiginys: '1296 m. Valteris Goldinas pagal kraujo pėdsakus surado brolio Henriko žirgą pagrobusį rusą ir jį nukovė.'
   sudarymo_pagrindimas: 'Teiginys perrašytas su aiškiais veikėjais ir pašalintais įvardžiais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Valteris Goldinas|Valteris Goldinas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Valteris Goldinas|Valteris Goldinas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Notanga'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas su aiškiais veikėjais ir pašalintais įvardžiais.'
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie Gardino pilies apylinkių bei jos papilio nusiaubi
   global_id: t-60219
   teiginys: 'Valteris, pravarde Goldinas, 1296 m. prie Gardino pilies sekė pėdsakais, išžudė bėglius ir vėliau nudėjo sužeistą rusą.'
   sudarymo_pagrindimas: 'Teiginys susietas su Valteriu ir išvalytas nuo antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baiga; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Notanga'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su Valteriu ir išvalytas nuo antraštės triukšmo.'

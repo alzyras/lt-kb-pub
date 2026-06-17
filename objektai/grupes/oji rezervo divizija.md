@@ -21,7 +21,7 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
   global_id: t-80644
   teiginys: 'Sukilėliams delsiant pulti Vilnių, prie miesto artėjo rusų 1-oji rezervo divizija.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir netiksliai sujungia kelias mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

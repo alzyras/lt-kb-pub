@@ -24,7 +24,7 @@ tags:
   global_id: t-88338
   teiginys: 'Steponas Genseris Vilniaus auksakalių cecho reikalavimu buvo raštiškai pakviestas į valdovo teismą.'
   sudarymo_pagrindimas: 'Citata palaiko šaukimo faktą, bet pradinis teiginys nutrūksta ir turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -33,7 +33,7 @@ tags:
   global_id: t-88339
   teiginys: 'Steponas Genseris kaltintas atskirai nuo Vilniaus auksakalių cecho gaminęs ir pardavinėjęs auksakalystės dirbinius.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai perteikti skundo esmę, pašalinant lotyniškas ir puslapio nuotrupas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

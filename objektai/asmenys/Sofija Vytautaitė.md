@@ -21,7 +21,7 @@ Kas galėjo įspėti, kad Sofijos anūkas Jonas III Vytauto imperijos palikuonia
   global_id: t-79159
   teiginys: 'Sofijos Vytautaitės lankymasis su vaikais pas Vytautą Smolenske garantavo Maskvos didžiojo kunigaikščio Vasilijaus neutralumą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir susieja Sofiją Vytautaitę su citatoje nurodyta pasekme.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sofija (Vytauto duktė)|Sofija (Vytauto duktė)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.

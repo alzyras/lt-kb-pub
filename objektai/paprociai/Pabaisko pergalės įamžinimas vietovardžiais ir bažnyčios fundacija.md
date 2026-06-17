@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-87280
   teiginys: 'Žygimantas Pabaisko pergalę įamžino mūšio lauką pavadindamas Pabaisku, upelį Viktorija ir toje vietoje pastatydamas parapijos bažnyčią.'
   sudarymo_pagrindimas: 'Teiginys išvalytas nuo OCR triukšmo ir sutelktas į citatoje nurodytus įamžinimo veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

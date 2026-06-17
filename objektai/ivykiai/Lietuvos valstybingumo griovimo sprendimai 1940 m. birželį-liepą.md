@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-66736
   teiginys: 'Liaudies vyriausybė vykdė sovietų valią, griovė Lietuvos valstybingumą ir keitė administraciją.'
   sudarymo_pagrindimas: 'Citata nepagrindžia tikslaus mėnesio visam teiginio turiniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
   pagrindžia:
     - c-002
 
@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-66737
   teiginys: '1940 m. liepos 12 d., spaudžiant V. Dekanozovui, nutarta Sovietų Sąjungos valstybiniam bankui perduoti užsienyje laikomą Lietuvos auksą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos datą, spaudimą, sprendimą ir objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Švedija; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Švedija; mentioned_place: Šveicarija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos datą, spaudimą, sprendimą ir objektą.'

@@ -40,7 +40,7 @@ Nors pagal mėsos ir pieno pramonės gamybą vienam gyventojui Lietuva užėmė 
   global_id: t-80109
   teiginys: '1772 m. Sankt Peterburge buvo pasirašytos padalijimo sutartys, kurias 1773-1775 m. patvirtino delegacinis seimas Varšuvoje.'
   sudarymo_pagrindimas: 'Reikia pataisyti OCR klaidą ir suvienodinti formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/delegacinis seimas|delegacinis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Peterburgas; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Peterburgas; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1772 m.; įvykio data: 1773-1775; įvykio data: 1775 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti OCR klaidą ir suvienodinti formuluotę.'

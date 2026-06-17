@@ -29,7 +29,7 @@ Jurgėla, C.
   global_id: t-29516
   teiginys: 'C. R. Jurgėla parašė 1961 m. Čikagoje išleistą veikalą „Tannenberg (Eglija-Grunwald) 15 July 1410“.'
   sudarymo_pagrindimas: 'Citata pateikia bibliografinį įrašą, iš kurio galima sudaryti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/C. R. Jurgėla|C. R. Jurgėla]]; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/C. R. Jurgėla|C. R. Jurgėla]]; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1961 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinį įrašą, iš kurio galima sudaryti pilną faktinį sakinį.'

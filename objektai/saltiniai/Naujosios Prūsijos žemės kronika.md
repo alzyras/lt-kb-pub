@@ -37,7 +37,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
 - t-001
   global_id: t-171552
   teiginys: 'Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie Marienverderio pilies šturmą 1384 m.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_place: Marienverderis; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_place: Marienverderis; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -48,7 +48,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   global_id: t-171553
   teiginys: 'Vygando Marburgiečio „Naujosios Prūsijos žemės kronikos“ ištraukoje aprašomas 1376 m. Algirdo ir Kęstučio Ordino valdų siaubimas.'
   sudarymo_pagrindimas: 'Pradinį teiginį reikia sutrumpinti ir pašalinti įvadinį boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_place: Nadruva; mentioned_place: Prūsija; mentioned_place: Vėluva; mentioned_place: Želva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nadruva; mentioned_place: Prūsija; mentioned_place: Vėluva; mentioned_place: Želva'
   temporaliniai_duomenys: 'įvykio data: 1376 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinį teiginį reikia sutrumpinti ir pašalinti įvadinį boilerplate.'
@@ -69,7 +69,7 @@ Cituojama „Naujosios Prūsijos žemės kronika“ ištrauka apie tai, kaip 137
   global_id: t-171556
   teiginys: '1376 m. Kęstutis ir Algirdas, pagavę Ordino sargybinius, trimis voromis įsiveržė į Nadruvos kraštą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėjus, veiksmą, laiką ir vietą, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_person: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_place: Nadruva; mentioned_place: Prūsija; mentioned_place: Vėluva; mentioned_place: Želva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vygandas Marburgietis|Vygandas Marburgietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nadruva; mentioned_place: Prūsija; mentioned_place: Vėluva; mentioned_place: Želva'
   temporaliniai_duomenys: 'įvykio data: 1376 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo veikėjus, veiksmą, laiką ir vietą, o citata tai patvirtina.'

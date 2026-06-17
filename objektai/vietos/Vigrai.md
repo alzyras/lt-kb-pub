@@ -31,7 +31,7 @@ Norėdama atskirti ją nuo Vilniaus ir Žemaičių vyskupų įtakos, Prūsijos v
   global_id: t-02863
   teiginys: '1798 m. Prūsijos valdžia Vigriuose įsteigė atskirą, tiesiog popiežiui pavaldžią vyskupiją, 1818 m. perkeltą į Seinus.'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi citata, bet turi neaiškų įvardį ir gali būti glaustesnis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/pralotas|pralotas]]; mentioned_place: Prienai; mentioned_place: Prūsija; mentioned_place: Seinai; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_place: Prienai; mentioned_place: Prūsija; mentioned_place: Seinai; mentioned_place: Užnemunė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įkūrimo data: 1798 m.; įkūrimo data: 1818 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi citata, bet turi neaiškų įvardį ir gali būti glaustesnis.'

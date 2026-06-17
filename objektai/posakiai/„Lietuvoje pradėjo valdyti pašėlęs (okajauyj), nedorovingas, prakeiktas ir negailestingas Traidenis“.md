@@ -27,7 +27,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   global_id: t-186397
   teiginys: 'Cituojama kronika Traidenį vadino pašėlusiu, nedorovingu, prakeiktu ir negailestingu Lietuvos valdovu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
+  susije_objektai: 'mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
   temporaliniai_duomenys: 'įvykio data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,9 +38,9 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   global_id: t-186398
   teiginys: 'Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'territory: Jeruzalė; territory: Lietuva; territory: Sirija; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1270 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Traidenis (valdovas, XIII a.) buvo valdovas Jeruzalė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Traidenis (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Traidenis (valdovas, XIII a.) buvo valdovas Sirija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
+  temporaliniai_duomenys: 'įvykio data: 1270 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   global_id: t-186399
   teiginys: 'Ipatijaus kronika prie 1270 m. pradžios rašė, kad Lietuvoje pradėjo valdyti pašėlęs, nedorovingas, prakeiktas ir negailestingas Traidenis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
+  susije_objektai: 'mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
   temporaliniai_duomenys: 'įvykio data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -60,13 +60,12 @@ ji pradžioje pažymi : « Lietuvoje pradėjo valdyti pašėlęs (okajauyj), ned
   global_id: t-186400
   teiginys: 'Ipatijaus metraštis prie 1270 m. pradžios pažymi, kad Lietuvoje pradėjo valdyti Traidenis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Jeruzalė; mentioned_place: Lietuva; mentioned_place: Sirija'
   temporaliniai_duomenys: 'įvykio data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/lietopisis lietopisiai.md#claim-t-32792|lietopisis lietopisiai]]: Rusų lietopisiai Lietuvos valdovo pravardžiavimą siejo su jo didesniu pasižymėjimu lietuvių tautoje.
-- susijęs iš [[objektai/zodynas/lietopisis.md#claim-t-32793|lietopisis]]: Rusų lietopisis Lietuvos valdovo pravardžiavimą siejo su jo didesniu pasižymėjimu lietuvių tautoje.
+
 ## Reikšmingi paminėjimai
 
 - c-001

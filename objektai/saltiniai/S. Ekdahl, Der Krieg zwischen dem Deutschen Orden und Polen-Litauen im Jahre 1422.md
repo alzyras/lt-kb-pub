@@ -30,7 +30,7 @@ Ekdahl, S.
   global_id: t-31909
   teiginys: 'S. Ekdahlio „Der Krieg zwischen dem Deutschen Orden und Polen-Litauen im Jahre 1422“ paskelbta „ZfO“ 13 tome 1964 m., p. 614-651.'
   sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidinį, tomą, metus ir puslapius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1964 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidinį, tomą, metus ir puslapius.'

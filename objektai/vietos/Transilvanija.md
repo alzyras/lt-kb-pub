@@ -34,9 +34,9 @@ Lenkijos ir Lietuvos valdovu tapus Transilvanijos kunigaikščiui L I E T U V O 
   global_id: t-26325
   teiginys: 'Transilvanijos kunigaikštis Steponas Batoras, tapęs Lenkijos ir Lietuvos valdovu, Livonijos kare pasiekė lemiamų pergalių prieš Maskvą.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir sutvarkytas nutrūkęs sakinys.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Liublinas; territory: Livonija; territory: Maskva; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1576-1586; valdymo laikotarpis: 1586 m.; valdymo laikotarpis: 1609-1611; valdymo laikotarpis: 1611 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Steponas buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas buvo valdovas Liublinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas buvo valdovas Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Livonija; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1576-1586; įvykio data: 1586 m.; įvykio data: 1609-1611; įvykio data: 1611 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir sutvarkytas nutrūkęs sakinys.'
   pagrindžia:
     - c-001

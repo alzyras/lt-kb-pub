@@ -33,7 +33,7 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
   global_id: t-87661
   teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia popiežiaus veiksmą ir datą, o pradiniame tekste yra OCR klaidų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
   temporaliniai_duomenys: 'įvykio data: 1434 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia popiežiaus veiksmą ir datą, o pradiniame tekste yra OCR klaidų.'
@@ -86,3 +86,7 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Eugenijus IV buvo_valdovas [[objektai/vietos/Florencija]]
+- Eugenijus IV buvo_valdovas [[objektai/vietos/Livonija]]

@@ -10,7 +10,6 @@ tags:
   - karvedys
   - kunigaikštis
   - ordinas
-  - valdovas
 ---
 # Nameisis (žiemgalių kunigaikštis)
 
@@ -35,7 +34,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   global_id: t-40367
   teiginys: 'Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_object: [[objektai/grupes/Žemgaliai|Žemgaliai]]; mentioned_place: Livonija; mentioned_place: Tervetė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Livonija; mentioned_place: Tervetė'
   pagrindžia:
     - c-001
 

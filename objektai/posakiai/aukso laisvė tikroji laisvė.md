@@ -31,7 +31,6 @@ Didžiūnams bekovojant su užsispyrėliu karalium ir tarpusavy, įsigalėjo vad
   global_id: t-02084
   teiginys: 'Diskusijose dėl „aukso laisvės“ vieni siūlė palikti pagrindinius jos principus, o kiti siekė panaikinti liberum veto.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo suprantamas, bet reikėjo aiškiau susieti su posakiu ir pašalinti neapibrėžtą kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Liberum veto|Liberum veto]]'
   pagrindžia:
     - c-002
 

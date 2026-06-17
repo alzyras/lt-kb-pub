@@ -22,7 +22,7 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
   global_id: t-38961
   teiginys: 'Panerių mūšyje Kališo raitininkų eskadronai buvo tarp Lenkijos sukilėlių junginių.'
   sudarymo_pagrindimas: 'Pirminis teiginys kalba apie platesnes pajėgas, o ne konkretų dalinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 

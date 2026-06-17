@@ -33,7 +33,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   global_id: t-19167
   teiginys: 'Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus ir citata jį tiesiogiai patvirtina.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Užnemunė; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įkūrimo data: iki 1806 m.; įkūrimo data: 1795 m.; įkūrimo data: 1806 m.; įkūrimo data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus ir citata jį tiesiogiai patvirtina.'
@@ -45,7 +45,7 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   global_id: t-19168
   teiginys: '1812 m. birželį Napoleonas Bonapartas pradėjo karą su Rusija, po kurio didžioji dalis buvusių LDK žemių greitai atsidūrė jo valdžioje.'
   sudarymo_pagrindimas: 'Sakinys pilnas, aiškus ir pagrįstas pateikta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1812 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas, aiškus ir pagrįstas pateikta citata.'

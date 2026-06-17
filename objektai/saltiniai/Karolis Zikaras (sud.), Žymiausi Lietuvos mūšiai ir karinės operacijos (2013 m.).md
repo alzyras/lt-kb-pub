@@ -55,7 +55,7 @@ Tai 2013 m. Vilniuje išleistas straipsnių rinkinys apie įvairių laikų Lietu
   global_id: t-08806
   teiginys: 'Leidinys pateikiamas kaip straipsnių rinkinys „Žymiausi Lietuvos mūšiai ir karinės operacijos“, kurio atsakingasis redaktorius ir sudarytojas yra Karolis Zikaras; jis išleistas Vilniuje 2013 m. ir turi ISBN 978-9986-827-05-4.'
   sudarymo_pagrindimas: 'Teiginys tiksliai ir gramatiškai perteikia bibliografinius duomenis iš citatos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2013 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai ir gramatiškai perteikia bibliografinius duomenis iš citatos.'

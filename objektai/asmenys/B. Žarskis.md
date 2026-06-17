@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-40060
   teiginys: 'Bataliono vadas majoras B. Žarskis žuvo per sukilėlių kovą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 

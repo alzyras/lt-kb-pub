@@ -24,7 +24,7 @@ Po žiauraus mūšio prie Berezinos pavedęs kariuomenę savo maršalui Miuratui
   global_id: t-02359
   teiginys: 'Po žiauraus mūšio prie Berezinos Napoleonas pavedė kariuomenę maršalui Miuratui ir parskubėjo į Paryžių rinkti naujų jėgų.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo, o citata leidžia jį nustatyti iš konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Marijampolė; mentioned_place: Paryžius; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Marijampolė; mentioned_place: Paryžius; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ Jonas Kropidlas, Kujavijos vyskupas, parėmė Vytauto santuokos sumanymą ir par
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė užteršta antraštės ir OCR triukšmu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kujavija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kujavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės.md#claim-t-185863|Valdoviškos santuokos sudarymas pagal Romos bažnyčios tvarką ir vestuvių iškilmės]]: Kujavijos vyskupas Jonas Kropidlas pareiškė, kad Vytauto santuoka bus teisėta, ir surišo sutuoktinius pagal Romos bažnyčios tvarką.

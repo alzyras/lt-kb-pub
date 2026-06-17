@@ -27,7 +27,7 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
 - t-001
   global_id: t-40832
   teiginys: '1991 m. sausio 13 d. Vytautą Landsbergį saugojo ATAS pareigūnai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Viena; mentioned_place: Žvėryno tiltas'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Viena; mentioned_place: Žvėryno tiltas'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,7 +38,7 @@ Už parlamento apsaugą ir gynybą tai išdavystė, visi bėga, jūs per naktį 
   global_id: t-40833
   teiginys: 'Sausio įvykių metu ATAS darbuotojas Aukščiausiosios Tarybos rūmuose saugojo objektą ginkluotas TT pistoletu.'
   sudarymo_pagrindimas: 'Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Pistoletas|Pistoletas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti puslapio ir OCR triukšmą bei aiškiau nusakyti citatoje minimą veiksmą.'

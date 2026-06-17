@@ -21,7 +21,7 @@ Todėl netikslu yra kalbėti apie pilną diarchijos sistemą.
   global_id: t-28579
   teiginys: 'Algirdo ir Kęstučio susitarime Kęstutis laikytas Algirdo padėjėju, todėl pilnos diarchijos sistemos nebuvo.'
   sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas pagrindas, kad teiginys būtų savarankiškas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/L. Kolankowski.md#claim-t-12254|L. Kolankowski]]: L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.

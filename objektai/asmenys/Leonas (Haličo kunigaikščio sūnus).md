@@ -34,7 +34,7 @@ Panašiai ir Varšuva, įkurta 1251 metais, o Lvovas po jos - 1280 metais, pasta
   global_id: t-87764
   teiginys: 'Leonas, Danieliaus iš Haličo sūnus, pastatydino Lvovą, kuris citatoje datuojamas 1280 metais.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje buvo perteklinis kontekstas apie kitus miestus ir OCR klaida asmenvardyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
   pagrindžia:
     - c-001
 

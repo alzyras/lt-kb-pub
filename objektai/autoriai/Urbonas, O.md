@@ -30,7 +30,7 @@ Urbonas, O.
 - t-001
   global_id: t-31020
   teiginys: 'O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d]]; mentioned_person: [[objektai/autoriai/O. Urbonas|O. Urbonas]]; mentioned_person: [[objektai/autoriai/Zaskevičius, St|Zaskevičius, St]]; mentioned_place: Dancigas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/O. Urbonas|O. Urbonas]]; mentioned_author: [[objektai/autoriai/Zaskevičius, St|Zaskevičius, St]]; mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dancigas'
   temporaliniai_duomenys: 'mūšio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

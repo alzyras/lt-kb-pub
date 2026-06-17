@@ -30,7 +30,7 @@ Petro Skargos „Seimų pamoksluose“ pasisakoma už stiprią jungtinės valsty
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie „Seimų pamokslus“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/autoriai/Petras Skarga|Petras Skarga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Skarga|Petras Skarga]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 

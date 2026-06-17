@@ -37,7 +37,6 @@ Papildomos aiškios formos neišskirtos.
 - t-002
   global_id: t-70052
   teiginys: '`Stigavoja` čia reiškia „rodo“ arba „patvirtina“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Šventos ugnelės negesinimas trobesiui užsidegus.md#claim-t-67247|Šventos ugnelės negesinimas trobesiui užsidegus]]: Užsidegus trobesiui kai kurie lietuviai nenorėdavo jo gesinti, nes ugnelę laikė šventą ir įsižeidžiančią.

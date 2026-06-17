@@ -39,12 +39,7 @@ Vartojama lyginamajame religinių-politinių institucijų aiškinime.
   susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Aukuro kalnai ir akmenys.md#claim-t-77919|Aukuro kalnai ir akmenys]]: Ugnies garbinimas buvo susijęs su Lietuvoje išplitusiais Aukuro kalnais ir akmenimis.
-- susijęs iš [[objektai/paprociai/Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas.md#claim-t-54334|Romuvos kulto institucija, ugnies garbinimas ir valdovų deginimas (institucija)]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš Nadruva: Žynys įsikūrė Nadruvos teritorijoje, kad būtų išlaikyta politinė pusiausvyra tarp genčių.
-- susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš Romuva: Romuvoje pagrindinis kulto objektas buvo ugnis.
-- susijęs iš [[objektai/zodynas/Romuva ir krivis.md#claim-t-75585|Romuva ir krivis]]: Romuvoje pagrindinis kulto objektas buvo ugnis.
+
 ## Reikšmingi paminėjimai
 
 - c-001

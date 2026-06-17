@@ -16,7 +16,6 @@ tags:
   - reforma
   - tikėjimas
   - valstybė
-  - vieta
 amziai:
   - 'XVIII'
   - 'XXI'
@@ -34,7 +33,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   global_id: t-182067
   teiginys: 'Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir suformuluotas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Kotryna II|Kotryna II]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Kotryna II|Kotryna II]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -46,7 +45,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis fragmentas; citata leidžia suformuluoti savarankišką faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)|Juozapas (Konstantinopolio patriarchas)]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
@@ -65,10 +63,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-60399|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Adolfo žūtis ir Albrechto sosto paveldėjimas (1298 m.).md#claim-t-62191|Adolfo žūtis ir Albrechto sosto paveldėjimas (1298 m.)]]: 1298 m. Austrijos kunigaikštis Albrechtas nukovė Romos karalių Adolfą ir paveldėjo sostą.
 - susijęs iš [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.).md#claim-t-62740|Albrechto nužudymas (1308 m. gegužės 1 d.)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.
 - susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
-- susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
 - susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-184120|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
@@ -125,6 +121,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - susijęs iš [[objektai/asmenys/Marija.md#claim-t-35219|Marija]]: Liudviko duktė Marija tėvui mirštant buvo sužieduota su Brandenburgo markgrafu, vėliau tapusiu ciesoriumi Zigmantu.
 - susijęs iš [[objektai/asmenys/Meinhardas Saksas iš Kverfurto.md#claim-t-59874|Meinhardas Saksas iš Kverfurto]]: 1289 m. balandžio 23 d. Meinhardas Saksas iš Kverfurto su kariuomene patraukė į Skalvą ir Nemuno pakrantėje pastatė Landeshutės pilį.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59899|Mstivojus]]: Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.
+- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19167|Napoleonas Bonapartas]]: Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją.
 - susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
 - susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-184117|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
@@ -265,7 +262,6 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 
 ## Ryšiai
 - [[objektai/asmenys/Pranciškus Gonzaga]] gyveno Austrija
-- [[objektai/asmenys/Albrechtas]] buvo_valdovas Austrija
 - [[objektai/asmenys/Albrechtas (Romos karalius)]] buvo_valdovas Austrija
 - [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)]] buvo_valdovas Austrija
 - [[objektai/asmenys/Henrikas (Jeruzalės karalius)]] buvo_valdovas Austrija
@@ -278,9 +274,8 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
 - [[objektai/asmenys/Leopoldas]] buvo_valdovas Austrija
 - [[objektai/asmenys/Otokaras]] buvo_valdovas Austrija
 - [[objektai/asmenys/Otokaras II]] buvo_valdovas Austrija
-- [[objektai/asmenys/Otonas]] buvo_valdovas Austrija
 - [[objektai/asmenys/Ziemovitas]] buvo_valdovas Austrija
 - [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Austrija
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Austrija
-- [[objektai/asmenys/Mykolas]] susije_su Austrija
+- [[objektai/grupes/Lietuviai]] priklause Austrija
 - [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Austrija

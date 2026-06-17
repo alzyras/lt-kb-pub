@@ -31,7 +31,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   global_id: t-88040
   teiginys: 'Reda Griškaitė 2005 m. Vilniuje paskelbė darbą „Mykolas Balinskis: kova dėl istorijos?“.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinis fragmentas, bet citata palaiko pilną leidinio faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2005 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra bibliografinis fragmentas, bet citata palaiko pilną leidinio faktą.'
@@ -43,7 +43,7 @@ Savotiškai isto­ riko biografijos vingių ir ano meto istorinių realijų anal
   global_id: t-88041
   teiginys: 'Reda Griškaitė parašė studiją, skirtą M. Balinskio biografijos vingiams ir jo meto istorinėms realijoms.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, bet citata palaiko aiškų sakinį apie Griškaitės studijos temą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš Mykolas Balinskis kova dėl istorijos: Reda Griškaitė pastebėjo, kad ankstyvoji Mykolo Balinskio kūryba turėjo romantinės istoriografijos bruožų, o vėliau jis stengėsi rašyti nauja maniera.

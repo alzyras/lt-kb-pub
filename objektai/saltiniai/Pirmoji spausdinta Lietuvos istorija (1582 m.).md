@@ -37,7 +37,7 @@ amziai:
   global_id: t-67517
   teiginys: 'M. Strijkovskis 1582 m. Karaliaučiuje išspausdintoje Kronikoje panaudojo Dusburgiečio nuorašą, apėmusį įvykius iki 1326 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidą ir netikslų įvadą, o citata palaiko aiškų sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1326 m.; įvykio data: 1326 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR klaidą ir netikslų įvadą, o citata palaiko aiškų sakinį.'

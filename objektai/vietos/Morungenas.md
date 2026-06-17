@@ -14,7 +14,6 @@ tags:
   - miestas
   - ordinas
   - pilis
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -40,7 +39,7 @@ Dusburgietis teigia, kad apie Morungeno pilies pastatymą 1327 viešpaties metai
   global_id: t-58599
   teiginys: '1327 m. Elbingo komtūras Hermanas netoli Zalfeldo pastatė Morungeną, pavadintą pagal ežerą, prie kurio jis buvo įkurdintas.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinę atribuciją, bet citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas'
   temporaliniai_duomenys: 'pastatymo data: 1327 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir turi perteklinę atribuciją, bet citata palaiko konkretų faktą.'

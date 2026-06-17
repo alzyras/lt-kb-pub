@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-78058
   teiginys: 'John Gielgud buvo pasaulinė teatro ir kino žvaigždė, kilusi iš Lietuvos emigrantų šeimos.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs ir perkrautas kitų asmenų pavyzdžiais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs ir perkrautas kitų asmenų pavyzdžiais.'

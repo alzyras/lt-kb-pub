@@ -32,7 +32,7 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   global_id: t-58575
   teiginys: 'Dusburgietis Kimelį vadino Kymel, o Jerošinas - Kimel ir nurodė pilį buvus prie Nemuno.'
   sudarymo_pagrindimas: 'Citata patvirtina vardų formas ir šaltinio nurodytą vietą prie Nemuno.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jerošinas|Jerošinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Jurbarkas; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59995|Konradas iš Foichtvangeno]]: 1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.

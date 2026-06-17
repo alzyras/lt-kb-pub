@@ -30,7 +30,7 @@ amziai:
 - t-001
   global_id: t-13517
   teiginys: '„Descriptive Ethnology“ minima kaip britų mokslininko Robert Gordon Latham veikalas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -38,7 +38,7 @@ amziai:
 - t-002
   global_id: t-13518
   teiginys: 'Leidinyje prie „Descriptive Ethnology“ pateikta lietuviška pavadinimo forma „Aprašomoji etnologija“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ amziai:
   global_id: t-23394
   teiginys: 'Robertas Gordonas Lathamas „Descriptive Ethnology“ teigė, kad sanskritas yra artimesnis lietuvių kalbai nei bet kuriai kitai kalbai.'
   sudarymo_pagrindimas: 'Pradinis tekstas turi antraščių ir citatos fragmentų, todėl perrašytas į aiškų sakinį su būtina atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

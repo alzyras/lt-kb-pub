@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-77959
   teiginys: '1937 m. Lietuvos krepšininkams tapus Europos čempionais Rygoje, jų traukinį Lietuvos stotelėse sutiko minios, o krepšinis tapo tautinės pergalės simboliu.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys apimtų ir pagerbimo praktiką, ir krepšinio simbolinę reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1937 m.; įvykio data: 1938 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad sakinys apimtų ir pagerbimo praktiką, ir krepšinio simbolinę reikšmę.'

@@ -15,7 +15,6 @@ tags:
   - karalius
   - kunigaikštis
   - ordinas
-  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'
@@ -43,7 +42,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   global_id: t-59926
   teiginys: '1312 m. kovo 22 d. Vieno sinode popiežius Klemensas V pasmerkė tamplierių ordiną, nors tai dar nebuvo galutinis sprendimas.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet perrašytas sklandžiau ir tiksliau.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet perrašytas sklandžiau ir tiksliau.'
@@ -55,7 +53,7 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   global_id: t-59927
   teiginys: 'Po Klemenso V vainikavimo prie Liono sugriuvusi mūro siena pražudė daug žmonių, o pats popiežius nukentėjo.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į vientisą sakinį be antraštės ir nutrūkusios frazės.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/oktava|oktava]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lionas; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lionas; mentioned_place: Prancūzija'
   pagrindžia:
     - c-004
 
@@ -73,7 +71,6 @@ Dusburgietis teigia, kad 1303 viešpaties metais Bonifacas, popiežius, paskelb�
   global_id: t-59929
   teiginys: '1313 m. gegužės 5 d. Klemensas V kanonizavo Petrą išpažintoją, buvusį popiežių Celestiną V, ir liepė jį gerbti birželio 14 d.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'

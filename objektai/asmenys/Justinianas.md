@@ -22,7 +22,7 @@ Justinianas viešpatavo Bizantijoje, kai Belizarijus, padedamas Getero vadovauja
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentavo Belizarijų; perrašyta aiškiau apie Justiniano valdymo laiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_object: [[objektai/grupes/Persai|Persai]]; mentioned_place: Isteris; mentioned_place: Italija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_place: Isteris; mentioned_place: Italija'
   temporaliniai_duomenys: 'įvykio data: 493 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau akcentavo Belizarijų; perrašyta aiškiau apie Justiniano valdymo laiką.'

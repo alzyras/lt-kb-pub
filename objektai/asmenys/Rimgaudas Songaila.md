@@ -38,7 +38,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-64041
   teiginys: 'Rimgaudas Songaila, pakeitęs Petrą Griškevičių LKP CK pirmojo sekretoriaus pareigose, laikėsi pasyviai.'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas ir nepagrįstas; citata remia pareigų perėmimą ir pasyvumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas ir nepagrįstas; citata remia pareigų perėmimą ir pasyvumą.'

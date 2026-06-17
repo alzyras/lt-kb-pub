@@ -23,7 +23,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
 - t-001
   global_id: t-63618
   teiginys: 'Henrikas (Mozūrų kunigaikštis) savo valdovo vardu Vytautui grįžti, žadėdamas jam grąžinti Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -32,7 +32,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   global_id: t-63619
   teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   sudarymo_pagrindimas: 'Reikia išskleisti kontekstinį „pavojaus metu“ ir aiškiau suformuluoti sakinį.'
-  susije_objektai: 'territory: Lenkija; territory: Prūsai; territory: Rittersverderis; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rittersverderis'
+  susije_objektai: 'territory: Lenkija; territory: Prūsai; territory: Rittersverderis; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rittersverderis'
   semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Rittersverderis'
   pagrindžia:
     - c-001

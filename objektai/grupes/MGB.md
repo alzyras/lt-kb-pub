@@ -34,7 +34,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   global_id: t-65908
   teiginys: '1948 m. vasario 1 d. Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodybą, kurioje slėpėsi trys partizanai.'
   sudarymo_pagrindimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Papildyta citatoje nurodyta data ir vieta, sakinys tapo enciklopediškesnis.'
@@ -46,7 +46,7 @@ MGB Valstybės saugumo ministerija (SSRS). Visuotinį šio karo mastą rodo okup
   global_id: t-65910
   teiginys: 'V. Voveris žuvo 1949 m., kai MGB užverbuoti agentai K. Kubilinskas-Varna ir A. Slinkis-Rytas išdavė Dainavos apygardos vadavietę.'
   sudarymo_pagrindimas: 'Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Dainava'
+  susije_objektai: 'mentioned_place: Dainava'
   temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia MGB agentų vaidmenį; pataisyta nutrūkusi pavardė.'

@@ -21,7 +21,7 @@ Kairiajame Neries krante prie Semeliškių — Rykantų įsitvirtinusi 3-ioji I.
   global_id: t-42106
   teiginys: 'Prie Semeliškių–Rykantų įsitvirtinusi I. Musteikio vadovaujama 3-ioji divizija spalio 14–15 d. sustabdė lenkų veržimąsi.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir faktinis sakinys apie veiksmus prie Rykantų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/3-ioji divizija|3-ioji divizija]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/L. Želigovskis|L. Želigovskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/3-ioji divizija|3-ioji divizija]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/L. Želigovskis|L. Želigovskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

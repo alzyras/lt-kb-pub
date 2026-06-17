@@ -22,7 +22,7 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   global_id: t-87861
   teiginys: 'Stanislovas Piotrasavičius buvo parapijoje gyvenęs bajoras, kuriam buvo privaloma mokėti dešimtinę.'
   sudarymo_pagrindimas: 'Citata tiesiogiai įtraukia jį į dešimtinę mokančių bajorų sąrašą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-001
 

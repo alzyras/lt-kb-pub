@@ -10,7 +10,6 @@ tags:
   - pilis
   - tauta
   - upė
-  - vieta
 ---
 # Putvė
 

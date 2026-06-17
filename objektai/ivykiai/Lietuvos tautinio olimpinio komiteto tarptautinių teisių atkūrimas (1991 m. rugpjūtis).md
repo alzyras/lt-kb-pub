@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20362
   teiginys: '1991 m. rugpjūtį Tarptautinis olimpinis komitetas atkūrė Lietuvos tautinio olimpinio komiteto tarptautines teises.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo veikėją, veiksmą, objektą ir laiką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Tarptautinis olimpinis komitetas|Tarptautinis olimpinis komitetas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1988 m.; įvykio data: 1988 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo veikėją, veiksmą, objektą ir laiką.'

@@ -30,7 +30,7 @@ Tad, norėdamas sumažinti importą ir paremti savąją pramonę, 1776 m. seimas
   global_id: t-02167
   teiginys: '1778 ir 1780 m. seimuose gyventojų išlaidų normuojamasis įstatymas buvo pakartotas ir praplėstas, bet jo vykdymo priežiūra nenustatyta.'
   sudarymo_pagrindimas: 'Reikia pakeisti neaiškų įvardį „tas įstatymas“ aiškiu objekto pavadinimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   temporaliniai_duomenys: 'įvykio data: 1776 m.; įvykio data: 1780 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pakeisti neaiškų įvardį „tas įstatymas“ aiškiu objekto pavadinimu.'

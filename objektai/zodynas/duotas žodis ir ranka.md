@@ -22,7 +22,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pasakotojo perspektyva turi būti aiškiai priskirta šaltiniui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -44,7 +44,7 @@ Lietuvos metraščio pasakotojas teigia, kad Skirgaila Jogailos ir savo vardu da
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys apie pažadą perteikia pasakotojo liudijimą, todėl reikia atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

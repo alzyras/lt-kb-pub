@@ -41,7 +41,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   global_id: t-69562
   teiginys: '1416 m. Vytautas Viduklėje pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus fakto apie Viduklę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'pastatymo data: 1416 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas iki aiškaus fakto apie Viduklę.'

@@ -22,7 +22,7 @@ Glebui Svetoslavovičiui buvo duotas Polonos miestas.
   teiginys: 'Lietuvos metraštyje rašoma, kad Glebui Svetoslavovičiui buvo duotas Polonos miestas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Kronikos pasakojime vartojamas titulas pašalintas, o faktas suformuluotas aiškiai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/regula.md#claim-t-184637|regula]]: Vaišvilkas Galiče gyveno pagal griežtesnes regulas, remdamasis Grigorijaus iš Polonos mokslu.

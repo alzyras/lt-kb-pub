@@ -32,7 +32,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   global_id: t-87536
   teiginys: 'Šv. Dvasios dominikonų bažnyčioje priešais karaliaus Aleksandro portretą buvo kunigo Korčiako paveikslas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą paveikslo vietą bažnyčioje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aleksandro portretas ir kunigo Korčiako paveikslas|Aleksandro portretas ir kunigo Korčiako paveikslas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aleksandro portretas ir kunigo Korčiako paveikslas|Aleksandro portretas ir kunigo Korčiako paveikslas]]'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Aleksandras iš Lenkijos pakvietė į Vilnių dominikonus (1501 m.) ir po sa­ v
   global_id: t-87537
   teiginys: 'Kunigas Korčiakas buvo Aleksandro kapelionas; po Korčiako mirties Aleksandras Šv. Dvasios kleboniją perdavė dominikonams.'
   sudarymo_pagrindimas: 'Citata pagrindžia Korčiako statusą ir su jo mirtimi susietą perdavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Korčiako statusą ir su jo mirtimi susietą perdavimą.'

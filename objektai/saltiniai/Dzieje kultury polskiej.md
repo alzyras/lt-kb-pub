@@ -26,7 +26,7 @@ amziai:
 - t-001
   global_id: t-31670
   teiginys: 'A. Brücknerio „Dzieje kultury polskiej“ I tomas išleistas Krokuvoje 1931 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1931 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

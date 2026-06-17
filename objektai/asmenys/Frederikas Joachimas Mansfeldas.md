@@ -30,7 +30,7 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 - t-001
   global_id: t-40107
   teiginys: 'Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Dambrava'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_place: Dambrava'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Mansfeldo kavaleristams iš flango ir suduoda stiprų smūgį. 1608 m. vasarą L
 - t-002
   global_id: t-40108
   teiginys: '1608 m. vasarą Frederikas Joachimas Mansfeldas vadovavo 8000 Švedijos karių ekspediciniam korpusui Livonijoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Daugavgryva; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1608 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

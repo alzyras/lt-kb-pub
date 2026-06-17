@@ -45,9 +45,9 @@ Nenurodyta
   global_id: t-20459
   teiginys: '1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
-  susije_objektai: 'object: Maskva; object: Nesvyžius; object: Zabluduvas; object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
-  temporaliniai_duomenys: 'pastatymo data: 1562 m.; pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Radvila pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvila pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvila pastatė Zabluduvas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvila pastatė reformacija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įkūrimo data: 1562 m.; įkūrimo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie spaustuvių steigimą ir yra paremtas citata.'
   pagrindžia:
     - c-001

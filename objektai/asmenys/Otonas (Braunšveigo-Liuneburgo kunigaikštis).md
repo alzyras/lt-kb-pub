@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   global_id: t-60189
   teiginys: 'Otonas Kūdikis nuo 1236 m. buvo Braunšveigo-Liuneburgo hercogas ir Henriko Liūto vaikaitis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus biografinis faktas, tiesiogiai paremtas pastaba.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Hamburgas'
+  susije_objektai: 'mentioned_place: Hamburgas'
   temporaliniai_duomenys: 'įvykio data: po 1236 m.; įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus biografinis faktas, tiesiogiai paremtas pastaba.'
@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie Braunšveigo kunigaikščio atvykimą Nelyginant g
   global_id: t-60190
   teiginys: 'Otonas, Braunšveigo valdovas ir Liuneburgo kunigaikštis, su daugybe maldininkų atvyko į Prūsijos žemę padėti broliams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Otono atvykimą į Prūsiją.'
-  susije_objektai: 'location: Prūsija; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Prūsija'
+  susije_objektai: 'location: Prūsija; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Otonas (Braunšveigo-Liuneburgo kunigaikštis)|Otonas (Braunšveigo-Liuneburgo kunigaikštis)]] keliavo į Prūsija'
   pagrindžia:
     - c-002

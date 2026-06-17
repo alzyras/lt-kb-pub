@@ -29,7 +29,7 @@ Przyczyny wojny , Roczn.
   global_id: t-31604
   teiginys: 'A. Prochaskos „Rok 1410. Przyczyny wojny“ išspausdintas 1910 m. Torunės mokslo draugijos metraštyje.'
   sudarymo_pagrindimas: 'Citata leidžia perrašyti nutrūkusį bibliografinį fragmentą į sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1910 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia perrašyti nutrūkusį bibliografinį fragmentą į sakinį.'

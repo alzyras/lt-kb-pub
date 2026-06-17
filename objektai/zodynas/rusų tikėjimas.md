@@ -22,10 +22,10 @@ Lietuvos metraščio pasakojime Algirdas, vedęs Vitebsko kunigaikštytę Julijo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Religiniai teiginiai ir pagonių įvardijimas šiame profilyje turi būti priskirti kronikai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-187526|Romos tikėjimas]]: Lietuvos metraštis vaizduoja, kad Algirdo laikais Lietuvoje Romos tikėjimo jau nebuvo, liko vien rusų tikėjimas.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -22,15 +22,13 @@ Dusburgietis teigia, kad apie evangeliją: pradžioje buvo žodis Tais pačiais 
   global_id: t-58926
   teiginys: 'Didysis magistras Verneris nutarė, kad kunigai po sumos kasdien turi skaityti evangeliją „Pradžioje buvo žodis“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Antanas Buračas.md#claim-t-18810|Antanas Buračas]]: Antanas Buračas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė.md#claim-t-87630|Barbora iš Sulistrovskių Čechavičienė]]: 1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.
 - susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-18880|Eduardas Vilkas]]: Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Kazimiera Prunskienė.md#claim-t-19050|Kazimiera Prunskienė]]: Kazimiera Prunskienė viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Kazimieras Antanavičius.md#claim-t-19053|Kazimieras Antanavičius]]: Kazimieras Antanavičius viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
-- susijęs iš [[objektai/grupes/Vilniaus žydų kahalas.md#claim-t-55106|Vilniaus žydų kahalas]]: Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.
 - susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87137|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: 1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.
 - susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87138|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.
 - susijęs iš [[objektai/paprociai/Valerijono bursos studentų maitinimas ir maldos už fundatorių.md#claim-t-87231|Valerijono bursos studentų maitinimas ir maldos už fundatorių]]: 1579 m. kovo 6 d. Vilniaus vyskupas Valerijonas Protasevičius užrašė Akademijai tris mūrinius namus studentų maitinimui ir maldoms už fundatorių.

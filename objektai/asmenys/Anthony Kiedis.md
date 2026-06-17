@@ -30,7 +30,7 @@ O juk iš tokių emigrantų yra kilęs tas pats Bob Dylan (jo senelė buvo gimus
   global_id: t-78044
   teiginys: 'Anthony Kiedis iš grupės „Red Hot Chili Peppers“ kildinamas iš Lietuvos emigrantų.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra metinė ir silpna, o citata leidžia suformuluoti faktinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bob Dylan|Bob Dylan]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Leonard Cohen|Leonard Cohen]]; mentioned_place: Lietuva; mentioned_place: Londonas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bob Dylan|Bob Dylan]]; mentioned_person: [[objektai/asmenys/David Gilmour|David Gilmour]]; mentioned_person: [[objektai/asmenys/Eric Clapton|Eric Clapton]]; mentioned_person: [[objektai/asmenys/George Harrison|George Harrison]]; mentioned_person: [[objektai/asmenys/Keith Richards|Keith Richards]]; mentioned_person: [[objektai/asmenys/Leonard Cohen|Leonard Cohen]]; mentioned_place: Lietuva; mentioned_place: Londonas'
   temporaliniai_duomenys: 'įvykio data: 1902 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra metinė ir silpna, o citata leidžia suformuluoti faktinį sakinį.'

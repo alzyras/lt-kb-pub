@@ -22,7 +22,7 @@ Dusburgietis teigia, kad (1 Mak 6 ir 9) Yra dar viena, visai nauja priemonė lai
   global_id: t-59050
   teiginys: 'Dusburgietis kantrybę vadina priemone laimėti kovą ir cituoja posakį, kad pasikliaujantis kantrumu laimi.'
   sudarymo_pagrindimas: 'Citata pagrindžia autoriaus aiškinimą, bet pradinis teiginys kopijuoja nutrūkusį fragmentą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]'
   pagrindžia:
     - c-001
 

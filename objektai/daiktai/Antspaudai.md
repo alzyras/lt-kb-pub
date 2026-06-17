@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-86979
   teiginys: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
   sudarymo_pagrindimas: 'Pirminis teiginys remiasi neaiškia kontekstine nuoroda, todėl perrašytas su aiškiu privilegijos pavadinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Horodlė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Horodlė'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,6 @@ Nenurodyta
   global_id: t-86981
   teiginys: 'Komisarai prisiekusių liudininkų žinias apie Pabaisko bažnyčios įkūrimą aprašė ir patvirtino savo antspaudais.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija apie antspaudais patvirtintą aprašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]'
   pagrindžia:
     - c-001
 
@@ -67,7 +66,7 @@ Nenurodyta
   global_id: t-86982
   teiginys: 'Vilniaus magistratas viešiesiems reikalams turėjo naudoti senąjį miesto antspaudą su šventojo Kristoforo atvaizdu ant raudono lako.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie magistrato antspaudą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Gardino seimas|Gardino seimas]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gardinas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Jonas Jeronimaitis Chodkevičius.md#claim-t-101649|Jonas Jeronimaitis Chodkevičius]]: Jonas Jeronimaitis Chodkevičius apgynė LDK antspaudus ir nukėlė konkrečių Lenkijos bei Lietuvos ryšių ar unijos klausimų sprendimą.

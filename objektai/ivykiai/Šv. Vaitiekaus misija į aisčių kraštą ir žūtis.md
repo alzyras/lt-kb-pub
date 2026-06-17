@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-01894
   teiginys: 'Kunigaikštis Boleslovas išpirko nužudytų misijonierių lavonus.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant faktą su misijos žūtimi ir pašalinant fragmentiškumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]'
   temporaliniai_duomenys: 'įvykio data: 997 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta aiškiau susiejant faktą su misijos žūtimi ir pašalinant fragmentiškumą.'

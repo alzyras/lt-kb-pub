@@ -23,7 +23,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   global_id: t-63736
   teiginys: 'Jonas Tarnovskis vadovavo 10 vėliavų lenkų riteriams savanoriams.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „Juos“ ir perteklinį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -31,7 +31,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
 - t-002
   global_id: t-63737
   teiginys: 'Jonas Tarnovskis buvo vienas iš Vytauto karūnacijos priešininkų, pasiųstų į Lietuvą atitraukti jį nuo karūnacijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė paremta citata, bet reikia aiškesnių veikėjų.'
-  susije_objektai: 'territory: Chotinas; territory: Valachija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Chotinas; mentioned_place: Valachija'
+  susije_objektai: 'territory: Chotinas; territory: Valachija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Chotinas; mentioned_place: Valachija'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas Tarnovskis|Jonas Tarnovskis]] buvo valdovas Chotinas; [[objektai/asmenys/Jonas Tarnovskis|Jonas Tarnovskis]] buvo valdovas Valachija'
   pagrindžia:
     - c-003

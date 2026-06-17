@@ -28,7 +28,7 @@ p. 234, Dainų ir eilėraščių rinkinys „Kovos keliu žengiant“ 1949 m. Le
   global_id: t-41546
   teiginys: 'Dainų ir eilėraščių rinkinį „Kovos keliu žengiant“ 1949 m. leido Prisikėlimo apygardos Maironio rinktinės štabas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie leidinį ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Maironis|Maironis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1956 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie leidinį ir tiksliai remiasi citata.'

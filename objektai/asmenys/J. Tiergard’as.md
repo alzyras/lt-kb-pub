@@ -23,7 +23,7 @@ Tiergard’as reiškė tą pačią nuomonę.
   global_id: t-30266
   teiginys: 'Ordino prokuratorius J. Tiergard’as Romoje informavo vyriausią magistrą apie Vytauto pretenzijas į Klaipėdą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Visišką ordino sunaikinimą|Visišką ordino sunaikinimą]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-19548
   teiginys: '1923 m. sausio 9 d. civiliai aprengti 1 050 Lietuvos savanorių peržengė sieną be lietuviškų dokumentų, degtukų ar cigarečių pakelių.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir šnekamosios konstrukcijos; citata leidžia suformuluoti aiškesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir šnekamosios konstrukcijos; citata leidžia suformuluoti aiškesnį enciklopedinį sakinį.'

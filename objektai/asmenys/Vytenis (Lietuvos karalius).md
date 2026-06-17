@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-39419
   teiginys: '1311 m. per Užgavėnes Vytenis su didele kariuomene nusiaubė Sembą ir Notangą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Piltenė; mentioned_place: Ryga; mentioned_place: Semba'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Notanga; mentioned_place: Piltenė; mentioned_place: Ryga; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1311 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -44,7 +44,7 @@ periodo_grupes:
   global_id: t-39420
   teiginys: 'Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkiją, į Bresto žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Vytenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Pukuveras|Pukuveras]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 

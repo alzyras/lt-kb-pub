@@ -27,7 +27,7 @@ amziai:
   global_id: t-88194
   teiginys: 'Kotzebue veikale „Switrigail“ cituojamas Švitrigailos laiškas didžiajam magistrui, rašytas iš Trakų 1432 m. rugpjūčio 13 d.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra išnašos fragmentas; citata leidžia pateikti aiškų bibliografinį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Trakai'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra išnašos fragmentas; citata leidžia pateikti aiškų bibliografinį faktą.'

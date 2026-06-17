@@ -21,7 +21,7 @@ Dusburgietis teigia, kad (Gerullis G., Zur Sprache.., p. 48; Būga К., 2, p. 10
   global_id: t-60704
   teiginys: 'G. Gerullis cituojamas aiškinant, kad asmenvardis Skomant yra giminingas vietovardžiui Skomantai Klaipėdos rajone.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet sakinį reikia sutrumpinti ir padaryti aiškesnį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]'
   pagrindžia:
     - c-001
 

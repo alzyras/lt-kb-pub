@@ -108,7 +108,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - t-008
   global_id: t-77334
   teiginys: 'Viačeslavas Molotovas Juozui Urbšiui pareiškė, kad nepaisant Lietuvos atsakymo SSRS kariuomenė įžygiuos į Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/SSRS kariuomenė|SSRS kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Viačeslavas Molotovas|Viačeslavas Molotovas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/SSRS kariuomenė|SSRS kariuomenė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Viačeslavas Molotovas|Viačeslavas Molotovas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -192,6 +192,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - susijęs iš [[objektai/asmenys/Pijus XII.md#claim-t-19194|Pijus XII]]: Popiežiui Pijui XII buvo skirtas 1947 m. pabaigoje į laisvąjį pasaulį nugabentas partizanų vadovybės laiškas.
 - susijęs iš [[objektai/asmenys/Pranas Morkus.md#claim-t-19200|Pranas Morkus]]: Pranas Morkus 1960 m. su kitais lietuvių disidentais užmezgė ryšius su Maskvos disidentais ir teikė informaciją iš Lietuvos.
 - susijęs iš [[objektai/asmenys/Stanislavas Caplinas.md#claim-t-40427|Stanislavas Caplinas]]: Stanislavas Caplinas koordinavo čekistinę operacijos pusę kaip naujai Maskvos paskirtas SSRS KGB padalinio Lietuvoje pirmininko pavaduotojas.
+- susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19286|Tomas Venclova]]: 1960 m. Tomas Venclova su Aleksandru Štromu ir Pranu Morkumi užmezgė ryšius su Maskvos disidentais ir teikė jiems informaciją iš Lietuvos.
 - susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64236|Viačeslavas Molotovas]]: Agresyviai spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, 1939 m. spalio 10 d. pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis.
@@ -751,5 +752,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
     - t-012
 
 ## Ryšiai
-- [[objektai/asmenys/Jurijus]] susije_su SSRS
 - [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause SSRS
+- [[objektai/grupes/Maskvos Helsinkio grupė]] priklause SSRS
+- [[objektai/asmenys/Tomas Venclova]] susije_su SSRS

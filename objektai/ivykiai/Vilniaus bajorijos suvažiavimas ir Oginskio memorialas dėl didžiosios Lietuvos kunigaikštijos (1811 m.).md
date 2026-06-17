@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-01843
   teiginys: '1811 m. Oginskis įteikė carui memorialą dėl autonomiškos valstybės sudarymo iš buvusių Lietuvos Didžiosios Kunigaikštijos žemių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo priklausomas nuo įvardžio „jis“, todėl reikėjo įvardyti veikėją ir veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1811 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo priklausomas nuo įvardžio „jis“, todėl reikėjo įvardyti veikėją ir veiksmą.'

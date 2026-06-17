@@ -21,7 +21,7 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   global_id: t-28379
   teiginys: 'Skuodo laukuose žemaičiai sumušė Kuldingos komtūro Bernhardo von Hareno vadovaujamus persekiotojus.'
   sudarymo_pagrindimas: 'Pirminis teiginys netiksliai leidžia suprasti, kad sumuštas buvo tik komtūras.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Skuodo kautynės (1259 m.).md#claim-t-28863|Skuodo kautynės (1259 m.)]]: Skuodo laukuose žemaičiai sumušė juos persekiojusį Kuldingos komtūrą Bernhardą von Hareną, žuvo 33 riteriai.

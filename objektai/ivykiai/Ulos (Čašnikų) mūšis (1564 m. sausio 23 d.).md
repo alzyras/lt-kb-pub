@@ -40,9 +40,9 @@ Nenurodyta
   global_id: t-09884
   teiginys: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
-  susije_objektai: 'location: Ivanskas; location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Ivanskas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'location: Ivanskas; location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Ivanskas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1573 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras mirė Ivanskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras mirė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras mirė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kūnas mirė Ivanskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kūnas mirė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kūnas mirė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
   pagrindžia:
     - c-004
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-09885
   teiginys: 'Per Ulos (Čašnikų) mūšį Lietuvos didysis etmonas sutelkė smūgį prieš maskvėnų artileriją ir šaulius, o išmušus juos iš pozicijų kilo sumaištis.'
   sudarymo_pagrindimas: 'Patikslintas mūšio pavadinimas ir pašalintas perteklinis formulavimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ Nenurodyta
   global_id: t-09887
   teiginys: 'Petras Šuiskis pasirinko mūšio vietą prie Ulos upės netoli Čašnikų.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų veikėją, veiksmą ir vietą, o faktą patvirtina citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]]; mentioned_place: Viena; mentioned_place: Čašnikai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]]; mentioned_place: Viena; mentioned_place: Čašnikai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Mathias Ziindt.md#claim-t-40330|Mathias Ziindt]]: Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.

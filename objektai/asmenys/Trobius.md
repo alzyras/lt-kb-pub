@@ -22,7 +22,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako Trobiaus vaidmenį ir sąlygą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/sueiga|sueiga]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Kernavės didikų sueigoje Trobiui buvo patikėta Žemaitija su sąlyga, kad jis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Romuntas|Romuntas]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 

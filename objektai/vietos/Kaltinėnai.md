@@ -33,7 +33,7 @@ Viso Žemaičių krašto vardu pavardėmis surašyti 31 atstovas iš septynių �
   global_id: t-68038
   teiginys: '1416 metais Vytautas Kaltinėnuose pastatė vieną iš aštuonių Žemaitijos parapijinių bažnyčių.'
   sudarymo_pagrindimas: 'Pašalintas įvadinis kontekstas ir OCR triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Konstancija; mentioned_place: Varniai; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

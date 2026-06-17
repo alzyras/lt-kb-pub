@@ -31,7 +31,7 @@ O beveik kiekvienam prancūzui tapo žinomas poetas Oskaras Milašius (Oskar Vla
   global_id: t-18885
   teiginys: 'Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.'
   sudarymo_pagrindimas: 'Pradinis teiginys neminėjo objekto, o citata pagrindžia glaustą biografinį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_person: [[objektai/asmenys/Romain Garry|Romain Garry]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Berlynas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Oskaras Milašius|Oskaras Milašius]]; mentioned_person: [[objektai/asmenys/Romain Garry|Romain Garry]]; mentioned_person: [[objektai/asmenys/Senda Berenson-Abbot|Senda Berenson-Abbot]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Berlynas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1868 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neminėjo objekto, o citata pagrindžia glaustą biografinį faktą.'

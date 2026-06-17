@@ -22,7 +22,7 @@ Jogaila sudarė taiką su Prūsų kraštu be Kęstučio žinios.
   teiginys: 'Lietuvos metraštyje Kęstučio pusės pasakojime Jogaila kaltinamas be Kęstučio žinios sudaręs taiką su Prūsų kraštu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išdavystės ir kaltinimo motyvas yra šališkas, todėl būtina atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

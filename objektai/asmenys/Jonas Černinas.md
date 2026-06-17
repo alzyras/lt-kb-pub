@@ -22,7 +22,7 @@ Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti di
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Joną Černiną ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Poznanė; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Poznanė; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 

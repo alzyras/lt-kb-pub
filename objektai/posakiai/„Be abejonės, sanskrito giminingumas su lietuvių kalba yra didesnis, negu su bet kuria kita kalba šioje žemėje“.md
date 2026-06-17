@@ -30,7 +30,7 @@ amziai:
 - t-001
   global_id: t-75606
   teiginys: 'Posakis apie sanskrito giminingumą su lietuvių kalba pateiktas kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ amziai:
   global_id: t-75607
   teiginys: 'Citata apie sanskrito giminingumą su lietuvių kalba pateikta kaip Roberto Gordono Lathamo veikalo „Descriptive Ethnology“ ištrauka.'
   sudarymo_pagrindimas: 'Pradinis teiginys neįvardija paties posakio turinio, todėl reikia aiškesnio sakinio apie note objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neįvardija paties posakio turinio, todėl reikia aiškesnio sakinio apie note objektą.'

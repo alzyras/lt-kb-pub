@@ -25,7 +25,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   teiginys: 'Prūsai prie Marienverderio iš pasalos išmušė brolius ir miestiečius, išskyrus kelis į miestą pasprukusius žmones.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys pilnas ir aiškiai susijęs su Marienverderio miestiečiais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Marienverderis; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Marienverderis; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
     - c-003
@@ -36,7 +36,7 @@ Dusburgietis teigia, kad broliai ir miestiečiai su savo ginklanešiais išpuol�
   teiginys: 'Prūsai po ilgų grumtynių sugriovė Marienverderio miestą, o dalį miestiečių paėmė į nelaisvę arba užmušė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinę atribuciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
     - c-004

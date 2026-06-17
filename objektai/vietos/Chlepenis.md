@@ -29,7 +29,7 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
   teiginys: 'Chlepenis lokalizuojamas apie 40 km į pietus nuo Rževo, prie Gžatės ir Vazuzos upių santakos.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Chlepenio lokalizaciją. Citatos duomenys nepapildyti platesniu kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Volga'
+  susije_objektai: 'mentioned_place: Volga'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ Pagal 1494.II.5 sutartį Chlepenis buvo pripažintas Maskvos Didžiajai Kunigaik
   teiginys: 'Chlepenis aiškinamas kaip anuometinis Viazmos žemės miestas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia komentaro lokalizacinę informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Viazma; mentioned_place: Volga'
+  susije_objektai: 'mentioned_place: Viazma; mentioned_place: Volga'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia.md#claim-t-186774|Karo tarp Lietuvos Didžiosios Kunigaikštystės ir Maskvos pradžia]]: 1493 m. pavasarį Lietuvos Didžiosios Kunigaikštystės ir Maskvos karo veiksmai nutrūko.

@@ -68,7 +68,7 @@ Nenurodyta
   global_id: t-75230
   teiginys: 'Per kolektyvizaciją Lietuvoje į valstybinį žemės fondą buvo paimta be šeimininkų likusi, pasitraukusiųjų, repatrijavusiųjų, partizanų ir tremtinių žemė.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Lietuvos kolektyvizacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kolektyvizacija|kolektyvizacija]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti faktą su Lietuvos kolektyvizacija.'

@@ -30,7 +30,7 @@ Tik penkių valstybių atstovai (Kolumbijos, Italijos, Paragvajaus, Persijos ir 
   global_id: t-46781
   teiginys: 'Lietuvos diplomatinė tarnyba siekė išlaikyti Lietuvos valstybės pripažinimą Kolumbijoje ir kitose okupacijos nepripažinusiose šalyse.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir sutrumpintas šalių sąrašas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos diplomatinė tarnyba|Lietuvos diplomatinė tarnyba]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Brazilija; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Urugvajus; mentioned_place: Vatikanas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos diplomatinė tarnyba|Lietuvos diplomatinė tarnyba]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Brazilija; mentioned_place: Klivlandas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Urugvajus; mentioned_place: Vatikanas'
   temporaliniai_duomenys: 'įvykio data: iki 1967 m.; įvykio data: iki 1977 m.; įvykio data: 1944 m.; įvykio data: 1967 m.; įvykio data: 1977 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis ir sutrumpintas šalių sąrašas.'

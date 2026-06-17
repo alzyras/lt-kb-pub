@@ -34,7 +34,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą ir motyvą, pradinis tekstas per daug abstraktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]'
   pagrindžia:
     - c-002
 

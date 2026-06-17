@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-01732
   teiginys: '1918 m. kovo 23 d. kaizeris Vilhelmas II pasirašė Lietuvos nepriklausomybės pripažinimo aktą, susiedamas jį su artimais santykiais su Vokietija.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia pripažinimo akto pasirašymą ir jo sąlygą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia pripažinimo akto pasirašymą ir jo sąlygą.'

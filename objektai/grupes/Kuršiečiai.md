@@ -23,7 +23,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   global_id: t-40966
   teiginys: 'Kuršiečiai su Kuršo kunigaikščiu Fridrichu Ketleriu perplaukė Dauguvą ir prisistatė didžiajam etmonui.'
   sudarymo_pagrindimas: 'Teiginys išplėstas aiškiais vardais ir vieta, kuriuos patvirtina citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Kuršiečiai, kartu su kunigaikščiu, sėkmingai perplaukė upę ir prisistatė
   global_id: t-40967
   teiginys: 'Rotmistro A. Vainos husarams į pastiprinimą buvo pasiųstos kelios kuršiečių reitarų kuopos.'
   sudarymo_pagrindimas: 'Pataisytas asmenvardžio rašymas ir sakinys suformuluotas sklandžiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/arkebuzieriai|arkebuzieriai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/arkebuzieriai|arkebuzieriai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.

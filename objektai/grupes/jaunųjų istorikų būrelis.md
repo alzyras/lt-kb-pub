@@ -28,7 +28,7 @@ jubiliejinių metų (1930) Lietuvos istorijos dirvonuose ėmė pasirodyti vad. �
 - t-001
   global_id: t-31374
   teiginys: 'Jaunųjų istorikų būrelis nuo 1930 m. pradėjo rengti kolektyvines monografijas apie Vytautą Didįjį, Jogailą ir Lietuvos istoriją.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1930 m.; įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

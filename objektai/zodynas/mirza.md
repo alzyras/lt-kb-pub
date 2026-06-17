@@ -22,7 +22,7 @@ Mirza buvo iš arabų „emir“ ar „amir“ ir persų „žade“ kilęs term
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išvalytas nuo perteklinės formuluotės, nekeičiant citatos prasmės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_object: [[objektai/grupes/Persai|Persai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė T
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Ariogala; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Tilžė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Ariogala; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Tilžė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184668|Algirdas (Lietuvos valdovas)]]: Algirdas ir Aleksandras Karijotaitis nuniokojo daug Prūsijos vietų, sugriovė Tilžės ir Ragainės pilis ir išsivarė 800 belaisvių.

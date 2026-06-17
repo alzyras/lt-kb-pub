@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys papildytas citatos palaikomu kontekstu ir pašalinta atributinė pradžia.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

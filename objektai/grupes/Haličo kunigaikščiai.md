@@ -43,7 +43,7 @@ Politinė ir karinė kunigaikščių grupė.
   global_id: t-55066
   teiginys: 'Slonimas smarkiai pasipriešino 1272 m. Lietuvą puolusiems Haličo kunigaikščiams ir Nogajaus mongolams.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir remiasi citata apie 1272 m. puolimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Slonimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Slonimas'
   temporaliniai_duomenys: 'įvykio data: 1272 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir remiasi citata apie 1272 m. puolimą.'

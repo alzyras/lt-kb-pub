@@ -31,7 +31,7 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   global_id: t-97462
   teiginys: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Lietuva; mentioned_place: Mozūrija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Mozūrija'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
@@ -43,7 +43,7 @@ Iš garsiosios Haličo-Volinijos Riurikaičių giminės, su kuria XIII amžiaus 
   global_id: t-97463
   teiginys: 'Marija buvo vienintelė likusi Haličo-Volinijos Riurikaičių giminės atžala ir žuvusių brolių sesuo.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Marijos kilmę ir padėtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_place: Lietuva; mentioned_place: Mozūrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mozūrija'
   pagrindžia:
     - c-002
 

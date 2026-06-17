@@ -27,7 +27,7 @@ amziai:
 - t-001
   global_id: t-31769
   teiginys: 'Z. Ivinskio „Krikščionybės kelias Lietuvon“ paskelbtas 1938 m. TK 5-ajame numeryje, p. 273–311.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Krėva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Krėva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

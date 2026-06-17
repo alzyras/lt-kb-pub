@@ -26,7 +26,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
 - t-001
   global_id: t-56717
   teiginys: 'A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Deimena; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Deimena; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-002
 
@@ -44,7 +44,7 @@ A. Becenbergeris šiame šaltinyje minimas kaip kalbininkas ir tyrinėtojas, nag
   global_id: t-56719
   teiginys: 'A. Becenbergeris nustatė, kad lietuviškos kilmės vietovardžiai paplitę į rytus nuo Deimenos ir Alnos.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia autoriaus nustatytą išvadą; pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Deimena; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Deimena; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/M. Tepenas.md#claim-t-64745|M. Tepenas]]: M. Tepenas, remdamasis įvairiais rašytiniais šaltiniais, padarė išvadą, kad skalviai ir nadruviai buvo lietuviai.

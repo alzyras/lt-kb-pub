@@ -29,7 +29,7 @@ Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a. Radzvi
   global_id: t-30596
   teiginys: 'Radzvilovaitė pateikė žinių apie lietuvių genčių skydus II-VIII a.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_person: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

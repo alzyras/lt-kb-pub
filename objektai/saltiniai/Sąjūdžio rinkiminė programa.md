@@ -22,7 +22,7 @@ Taip įvykdyta Sąjūdžio rinkiminės programos dalis, susijusi su Lietuvos val
   global_id: t-21272
   teiginys: 'Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.'
   sudarymo_pagrindimas: 'Sakinys yra faktinis ir aiškiai susietas su Sąjūdžio programa.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

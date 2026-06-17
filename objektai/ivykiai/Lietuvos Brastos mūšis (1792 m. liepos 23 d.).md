@@ -55,7 +55,7 @@ Nenurodyta
 - t-002
   global_id: t-66682
   teiginys: 'Mūšio prie Lietuvos Brastos padariniai buvo įvertinti kaip sunkūs, bet ne vienareikšmiškai pralaimėjimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Brasta; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -64,7 +64,7 @@ Nenurodyta
   global_id: t-66683
   teiginys: 'Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai.'
   sudarymo_pagrindimas: 'Citata pateikia vertinimą, todėl reikia aiškios atribucijos ir trumpesnio sakinio.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Brasta; mentioned_place: Lietuva'
+  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
   pagrindžia:
     - c-001
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-66684
   teiginys: '1792 m. liepos 24 d. karalius S. A. Poniatovskis paskelbė jungiąsis prie Targovicos konfederacijos ir įsakė kariuomenei sudėti ginklus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir perteikia citatoje nurodytą sprendimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Targovica'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir perteikia citatoje nurodytą sprendimą.'

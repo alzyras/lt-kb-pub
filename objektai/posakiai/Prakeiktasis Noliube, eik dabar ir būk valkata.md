@@ -39,7 +39,7 @@ Dusburgietis teigia, kad kai dėl to supykę broliai ketino prieš jį traukti s
   global_id: t-89602
   teiginys: 'Vargulis įspėjo Noliubą žodžiais „Prakeiktasis Noliube, eik dabar ir būk valkata“, ragindamas paklusti broliams.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, o OCR išnašos triukšmas pašalintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]; mentioned_place: Kvedenava; mentioned_place: Sklunija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Vargulis|Vargulis]]; mentioned_place: Kvedenava; mentioned_place: Sklunija'
   pagrindžia:
     - c-001
 

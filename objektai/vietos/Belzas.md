@@ -30,7 +30,7 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
   teiginys: 'Petras Miškovskis nuo 1499 m. gegužės buvo Belzo vaivada ir Lvovo generalinis seniūnas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išplėsta data ir pridėtas tiesiogiai cituotas susijęs titulas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lvovas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lvovas'
   temporaliniai_duomenys: 'įvykio data: po 1499 m.; įvykio data: 1499 m.; įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėsta data ir pridėtas tiesiogiai cituotas susijęs titulas.'
@@ -39,7 +39,6 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Jurgis Narimantaitis.md#claim-t-186119|Jurgis Narimantaitis]]: Lenkijos karalius Kazimieras paliko visą Belzo kunigaikštystę Jurgiui Narimantaičiui.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186585|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Tarp Vorsklos mūšyje žuvusiųjų buvo Polocko kunigaikštis Andrius Kęstutaitis, Smolensko kunigaikštis Glėbas Svetoslavovičius ir Krokuvos vaivada Spytka.
 - susijęs iš Kijevo Rusia: Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.
 - susijęs iš Volynė: Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
@@ -78,5 +77,4 @@ Petras Miškovskis nuo 1499.V. buvo Belzo vaivada.
 - [[objektai/asmenys/Liubartas]] valde_teritorija Belzas
 - [[objektai/asmenys/Aleksandras Narimantaitis]] buvo_valdovas Belzas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Belzas
-- [[objektai/asmenys/Ivanas]] buvo_valdovas Belzas
 - [[objektai/asmenys/Jurgis Narimantaitis]] buvo_valdovas Belzas

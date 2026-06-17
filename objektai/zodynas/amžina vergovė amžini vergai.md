@@ -32,7 +32,7 @@ Dusburgietis teigia, kad mat jis paskatino juos pradėti žiauriausius krikšči
   global_id: t-58891
   teiginys: 'Nusiaubę Kulmo žemę, prūsai dalį krikščionių išsivarė į nelaisvę ir pavertė amžinais vergais.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai perteikia citatoje aprašytą įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

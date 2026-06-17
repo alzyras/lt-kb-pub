@@ -23,7 +23,7 @@ Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos 
   global_id: t-39023
   teiginys: 'Kuoknesės pilies išsaugojimas turėjo svarbią strateginę reikšmę Lietuvos Didžiajai Kunigaikštystei, tęsiant tolesnes kovas su Švedijos karalyste.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kovas su Švedijos karalyste.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kuoknesė; mentioned_place: Lietuva; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuoknesė; mentioned_place: Lietuva; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 

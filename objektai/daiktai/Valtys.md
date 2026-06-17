@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-87124
   teiginys: 'Apie 880 m. iš Danijos išvaryti tremtiniai sutelkė valtis, persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Karelija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Karelija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 880 m; įvykio data: apie 880 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos informaciją.'

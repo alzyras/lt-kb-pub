@@ -21,7 +21,7 @@ Daug painių klausimų Daukantas paliko, kaip jis pats sakosi, « mokytiems vyra
   global_id: t-31561
   teiginys: 'Daukantas daug painių klausimų paliko, jo paties žodžiais, „mokytiems vyrams išnagrinėti“.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Daukanto formuluotę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

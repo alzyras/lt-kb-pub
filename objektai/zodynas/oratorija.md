@@ -26,7 +26,7 @@ Kryžiaus bažnytėlė, Vilniaus vyskupas Alšėnų kunigaikštis Povilas toje v
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173220|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Vilniaus vyskupas Povilas savo sode pastatydino nedidelę Šv. Kryžiaus oratoriją vietoje, kur buvo palaidoti pranciškonai kankiniai.
+
 ## Reikšmingi paminėjimai
 
 - c-001

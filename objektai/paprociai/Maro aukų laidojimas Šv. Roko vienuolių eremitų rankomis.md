@@ -43,7 +43,6 @@ Nenurodyta
   global_id: t-01991
   teiginys: 'Maro aukas daugiausia laidojo Šv. Roko vienuoliai eremitai, nors dauguma jų buvo išbėgioję.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas, o citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]'
   pagrindžia:
     - c-002
 
@@ -52,7 +51,7 @@ Nenurodyta
   global_id: t-01992
   teiginys: 'Vienas Šv. Roko vienuolis eremitas nuo 1708 m. liepos iki 1709 m. Velykų palaidojo 22 862 lavonus.'
   sudarymo_pagrindimas: 'Patikslintas veikėjas pagal note objektą ir citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: iki 1709 m.; įvykio data: po 1708 m.; įvykio data: 1708 m.; įvykio data: 1709 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas veikėjas pagal note objektą ir citatą.'

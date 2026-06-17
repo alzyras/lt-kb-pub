@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-77916
   teiginys: 'Tado Kosciuškos sukilimo metu Laurynas Gucevičius tapo Vilniaus gvardijos vadu.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas, citata leidžia įvardyti asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Laurynas Gucevičius|Laurynas Gucevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Laurynas Gucevičius|Laurynas Gucevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

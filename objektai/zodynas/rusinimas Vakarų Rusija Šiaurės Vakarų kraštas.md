@@ -22,7 +22,7 @@ Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuv
   global_id: t-22281
   teiginys: 'Brutaliu, diskriminaciniu rusinimu valdžia siekė aneksuotas Lenkijos ir Lietuvos žemes paversti tiesiog Vakarų Rusija.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų veikėją ir veiksmą, jį palaiko citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

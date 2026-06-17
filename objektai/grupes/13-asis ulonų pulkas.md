@@ -21,7 +21,7 @@ tags:
   global_id: t-38926
   teiginys: 'Spalio 26 d. 13-asis ulonų pulkas apėjo kairįjį lietuvių I divizijos flangą ir prasiveržė iki Ukmergės prieigų.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet teiginį reikia sugramatinti ir suvienodinti pulko pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 

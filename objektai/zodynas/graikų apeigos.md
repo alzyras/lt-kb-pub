@@ -22,7 +22,7 @@ Ivanas slapta kurstė Simoną, Andrejų ir Vasilijų Šemiačičius, ištikimus 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys išvalytas nuo puslapio antraščių ir neaiškių fragmentų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

@@ -49,7 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-54312
   teiginys: 'Pirmasis krikštas Lietuvoje siejamas su Brunono Bonifacijaus misija, Netimero įtikėjimu ir krikščioniškosios Europos tūkstantmečio idėja.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-54313
   teiginys: '1009 m. šv. Brunonas Bonifacijus Lietuvoje rado „karalių“ Netimerą, kuris įtikėjo ir krikštijosi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie šv. Brunono misiją ir Netimero krikštą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Brunonas Bonifacijus|Brunonas Bonifacijus]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šv. Brunono misiją ir Netimero krikštą.'

@@ -16,7 +16,6 @@ tags:
   - ordinas
   - pilis
   - sukilimas
-  - vieta
 amziai:
   - 'XIII'
 ---
@@ -42,7 +41,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   global_id: t-58321
   teiginys: 'Henrikas Stangė žiemos metu įsiveržė į Sembą prie vietos, kur vėliau stovėjo Lochštetės pilis.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie įsiveržimo vietą, pradinė formuluotė per ilga ir fragmentiška.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Girmava; mentioned_place: Kristburgas; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Girmava; mentioned_place: Kristburgas; mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -60,7 +59,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   global_id: t-58323
   teiginys: 'Analų duomenimis, Lochštetės pilis pastatyta 1270 m., nors Petro Dusburgiečio kronikoje jos statyba aprašyta nedatuojant.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi triukšmo; citata leidžia suformuluoti pilną faktą apie Lochštetę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai; mentioned_place: Tepliava'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Prūsai; mentioned_place: Tepliava'
   temporaliniai_duomenys: 'pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi triukšmo; citata leidžia suformuluoti pilną faktą apie Lochštetę.'

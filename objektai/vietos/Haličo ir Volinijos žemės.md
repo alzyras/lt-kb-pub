@@ -28,7 +28,7 @@ Prasidėjęs kon­ fliktas dėl Haličo ir Volinijos žemių paveldėjimo nusit�
   global_id: t-32187
   teiginys: 'Konfliktas dėl Haličo ir Volinijos žemių paveldėjimo tęsėsi iki Liudviko Anjou mirties 1382 m.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_place: Haličas; mentioned_place: Lietuva; mentioned_place: Volinija'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'

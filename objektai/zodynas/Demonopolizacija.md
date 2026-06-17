@@ -22,7 +22,7 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
   global_id: t-21987
   teiginys: 'Lietuvai tapus visateise valstybe prasidėjo demonopolizacija, padidėjo efektyvumas ir prekių bei paslaugų pasiūla.'
   sudarymo_pagrindimas: 'Reikia pataisyti skyrybą ir padaryti sakinį sklandesnį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Tačiau Lietuvai tapus visateise valstybe atsivėrė naujos rinkos, prasidėjo d
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

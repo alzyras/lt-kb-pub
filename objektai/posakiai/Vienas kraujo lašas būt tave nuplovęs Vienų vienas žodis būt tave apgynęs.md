@@ -29,7 +29,7 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   global_id: t-41468
   teiginys: 'Poeto Jono Aisčio eilutė „Vienas kraujo lašas būt tave nuplovęs“ siejama su 1940 metų įvykių vertinimu.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Aisčio eilutę su 1940 m. įvykių vertinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Aisčio eilutę su 1940 m. įvykių vertinimu.'
@@ -41,7 +41,6 @@ Iš tikrųjų dažnai kartojama poeto Jono Aisčio eilutė „Vienas kraujo laš
   global_id: t-41469
   teiginys: 'Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m.'
   sudarymo_pagrindimas: 'Citata remia interpretaciją, bet ją reikia aiškiai atribuoti ir patikslinti pasipriešinimo formas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Markas (žydas kreditorius)|Markas (žydas kreditorius)]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia interpretaciją, bet ją reikia aiškiai atribuoti ir patikslinti pasipriešinimo formas.'

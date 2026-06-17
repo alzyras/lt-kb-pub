@@ -20,7 +20,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-001
   global_id: t-30981
   teiginys: 'Simonas Grunau rodyklėje nurodytas kaip kronikininkas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/autoriai/Guagnini|Guagnini]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Baltarusija; mentioned_place: Grenoblis; mentioned_place: Gudija; mentioned_place: Gumbinė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Guagnini|Guagnini]]; mentioned_group: [[objektai/grupes/Habsburgai|Habsburgai]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]; mentioned_place: Baltarusija; mentioned_place: Grenoblis; mentioned_place: Gudija; mentioned_place: Gumbinė'
   pagrindžia:
     - c-003
 
@@ -28,7 +28,7 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
 - t-002
   global_id: t-30982
   teiginys: 'Simonas Grunau paskelbė pagonių rašmenis, kuriuos kiti iki XX a. pradžios nekritiškai kartojo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]'
   pagrindžia:
     - c-002
 
@@ -37,10 +37,9 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   global_id: t-30983
   teiginys: 'Simonas Grunau pirmasis įvedė pavadinimą „Criwe-Kirwaito“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Simonas Grunau|Simonas Grunau]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai.md#claim-t-75344|Rikojoto prūsų dievų šventykla ir stabai]]: Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-183568|Simonas Grunau]]: Simono Grunau kronikoje Rikojotas aprašytas kaip prūsų dievų kulto centras su žaliuojančiu ąžuolu, šventykla ir trimis dievų stabais.
 - susijęs iš [[objektai/asmenys/Simonas Grunau.md#claim-t-64053|Simonas Grunau]]: Simonas Grunau kronikoje Rikojotą aprašė kaip prūsų dievų kulto centrą su žaliuojančiu ąžuolu ir trimis dievų stabais.
 - susijęs iš [[objektai/autoriai/Henneberger.md#claim-t-88024|Henneberger]]: Hennebergeris nurodytas tarp vėlesnių kronikininkų, perėmusių pasakojimą iš Simono Grunau kronikos.
@@ -133,6 +132,3 @@ Tą pavadinimą « Criwe-Kirwaito » pirmasis įvedė labai nepatikimas XVI amž
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai]] priklause Simono Grunau

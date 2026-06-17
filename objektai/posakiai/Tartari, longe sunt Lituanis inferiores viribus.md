@@ -22,7 +22,7 @@ tags:
   global_id: t-86873
   teiginys: 'Teiginyje „Tartari, longe sunt Lituanis inferiores viribus“ totoriai jėga laikomi gerokai silpnesniais už lietuvius.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nebaigtas lotyniškas fragmentas, o citata pagrindžia glaustą reikšmės nusakymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-001
 

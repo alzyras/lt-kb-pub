@@ -30,7 +30,7 @@ Narystės ir demokratijos įtvirtinimui Lietuva ėmė ryžtingai siekti demokrat
   global_id: t-22021
   teiginys: 'Įtvirtindama demokratines vertybes Lietuva siekė vykdyti religinio turto restituciją ir grąžinti žydų kultūros vertybes.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkimas ir perteklinis ilgo sąrašo triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_place: Afganistanas; mentioned_place: Goras; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Afganistanas; mentioned_place: Goras; mentioned_place: Gruzija; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkimas ir perteklinis ilgo sąrašo triukšmas.'

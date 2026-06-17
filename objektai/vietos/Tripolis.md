@@ -14,7 +14,6 @@ tags:
   - miestas
   - ordinas
   - popiežius
-  - vieta
 amziai:
   - 'XIII'
 ---

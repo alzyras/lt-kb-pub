@@ -14,7 +14,6 @@ tags:
   - karalius
   - kunigaikštis
   - ordinas
-  - valdovas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -33,7 +32,7 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   global_id: t-60195
   teiginys: '1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata bei jos datos paaiškinimu.'
-  susije_objektai: 'territory: Kujavija; territory: Lenkija; territory: Lietuva; territory: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Kujavija; territory: Lenkija; territory: Lietuva; territory: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Kujavija; [[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lenkija; [[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lietuva; [[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Prūsija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1292 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui.'
@@ -46,16 +45,10 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   global_id: t-60196
   teiginys: 'Pukuveras buvo vienas iš Lietuvos valdovų, kuriuos Dusburgietis vadino karaliais.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Pukuverą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Pukuveras (Lietuvos karalius).md#claim-t-39631|Pukuveras (Lietuvos karalius)]]: Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Bresto žemę Lenkijoje.
-- susijęs iš [[objektai/asmenys/Vytenis (Lietuvos karalius).md#claim-t-39420|Vytenis (Lietuvos karalius)]]: Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkiją, į Bresto žemę.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179133|Lenkai]]: Pukuveras pasiuntė Vytenį su didele kariuomene į Lenkijos Bresto žemę, kur jo kariai žudė, ėmė belaisvius, degino ir grobė.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179193|Lenkai]]: 1291 m. lietuviai nuniokojo Kujaviją, o 1292 m. Pukuveras pasiuntė Vytenį į Lenkiją su didele kariuomene.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179260|Lietuviai]]: Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.
-- susijęs iš [[objektai/ivykiai/Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.).md#claim-t-62954|Vytenio žygis į Bresto žemę ir Meinhardo atsitraukimas (1291 m.)]]: Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, ėmė belaisvius, degino ir grobė.
-- susijęs iš Prūsijos žemės kronika: 1292 m. Pukuveras pasiuntė savo sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
 - susijęs iš Kujavija: 1291 m. lietuviai nuteriojo Kujaviją, o kitais metais Pukuveras išsiuntė Vytenį į Lenkiją su didele kariuomene.
 ## Reikšmingi paminėjimai
 

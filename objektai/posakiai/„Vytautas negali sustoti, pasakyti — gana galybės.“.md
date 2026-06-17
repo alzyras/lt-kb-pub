@@ -37,7 +37,6 @@ Vytautas negali sustoti, pasakyti — gana galybės. Bendras jo galybės didėji
 - t-002
   global_id: t-54387
   teiginys: 'Posakis „Vytautas negali sustoti, pasakyti — gana galybės“ aiškina valdžios augimo spaudimą Vytautui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

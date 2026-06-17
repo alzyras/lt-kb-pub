@@ -31,7 +31,7 @@ amziai:
   global_id: t-38157
   teiginys: 'Po Svėdasų užėmimo P. Genys užėmė Užpalius, o 1919 m. birželio 5 d. - Antalieptę.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys iš citatos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/P. Genys|P. Genys]]; mentioned_place: Antalieptė; mentioned_place: Svėdasai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/P. Genys|P. Genys]]; mentioned_place: Antalieptė; mentioned_place: Svėdasai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas pilnas sakinys iš citatos.'

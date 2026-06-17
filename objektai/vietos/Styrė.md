@@ -22,7 +22,7 @@ Lenkams prie Lucko reikėjo persikelti per Styrės upę, tekančią dumbluota va
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškai apibūdina Styrės upę ir lenkų veiksmą pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Luckas'
   pagrindžia:
     - c-001
 - susijęs iš Luckas: Karo veiksmai artėjo prie Lucko, nes niekas nedrįso ginklu ginti Boleslovo.

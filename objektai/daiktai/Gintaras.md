@@ -39,7 +39,6 @@ Nenurodyta
   global_id: t-08290
   teiginys: 'Aukojant dievams degindavo gintarus kartu su kitomis aukojimo medžiagomis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.

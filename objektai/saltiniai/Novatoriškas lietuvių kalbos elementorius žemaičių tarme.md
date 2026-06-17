@@ -30,7 +30,7 @@ Vilniaus universiteto aplinkoje susibūrė grupelė daugiausia iš Žemaitijos k
   global_id: t-78133
   teiginys: 'Vilniaus universiteto aplinkos inteligentai parašė ir išleido tiems laikams novatorišką lietuvių kalbos elementorių žemaičių tarme.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs fragmentas, citata pagrindžia pilną sakinį apie elementorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_person: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simonas Stanevičius|Simonas Stanevičius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Šlovė žemaičių“|„Šlovė žemaičių“]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -32,7 +32,6 @@ tags:
   global_id: t-72729
   teiginys: 'Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir šaltiniui priskirtas vertinamasis teiginys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimelis|seimelis]]'
   pagrindžia:
     - c-002
 

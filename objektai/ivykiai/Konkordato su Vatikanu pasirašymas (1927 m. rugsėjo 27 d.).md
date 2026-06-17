@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20230
   teiginys: '1927 m. rugsėjo 27 d. Augustinas Voldemaras Romoje pasirašė konkordatą su Vatikanu, nustačiusį Lietuvos katalikų bažnyčios padėtį valstybėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Seinai; mentioned_place: Vatikanas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Seinai; mentioned_place: Vatikanas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, tikslus ir tiesiogiai paremtas citata.'

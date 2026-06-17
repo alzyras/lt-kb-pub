@@ -31,7 +31,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   global_id: t-182877
   teiginys: 'Apie VIII-IX a. slavai pasiekė Gardino sritį ir įsikūrė Pamaryje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gardinas; mentioned_place: Pamaris; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Gardinas; mentioned_place: Pamaris; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ misijonierių, nes jie ateidavo iš Lenkijos ir Pamario, su kurių kunigaikšči
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys sutelktas į Pamario objektą ir aiškiau išdėsto citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lenkija; mentioned_place: Pamaris; mentioned_place: Prūsai; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
 

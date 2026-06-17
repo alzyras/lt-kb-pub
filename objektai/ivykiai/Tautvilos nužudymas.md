@@ -36,7 +36,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, po Mindaugo nužudymo Treniota pasiuntė pasiuntinius į Polocką kviesti Tautvilos dalytis Mindaugo žeme ir turtu.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pridėtas citatoje nurodytas kvietimo tikslas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, Prakapui išdavus Tautvilos kėslą, Treniota užbėgo Tautvilai už akių, jį nužudė ir liko kunigaikščiauti vienas.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Kėslai ir pasekmė yra metraštinė interpretacija, todėl priskirta šaltiniui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 

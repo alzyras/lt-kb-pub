@@ -28,7 +28,7 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
 - t-001
   global_id: t-42376
   teiginys: '1949 m. lapkričio 1-2 d. MGB vidaus kariuomenė vykdė karines-čekistines operacijas Šimonių girioje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Kupiškis; mentioned_place: Svėdasai'
+  susije_objektai: 'mentioned_place: Kupiškis; mentioned_place: Svėdasai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -51,7 +51,6 @@ Apygardos teritorijoje, Šimonių girioje, bazavosi srities vadovybė, būdavo r
   global_id: t-42378
   teiginys: 'Šimonių girioje bazavosi srities vadovybė ir buvo rengiami srities vadų sąskrydžiai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie vietą ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
   temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie vietą ir paremtas citata.'

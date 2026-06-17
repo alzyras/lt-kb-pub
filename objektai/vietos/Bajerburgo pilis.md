@@ -15,7 +15,6 @@ tags:
   - miestas
   - valdovas
   - vieta
-  - vyskupas
 amziai:
   - 'XII'
   - 'XIV'

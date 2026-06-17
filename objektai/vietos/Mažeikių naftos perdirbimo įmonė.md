@@ -21,7 +21,7 @@ Atšilimo laikotarpiu Lietuvoje pagal sovietinį modelį vykstant sparčiai indu
   global_id: t-21613
   teiginys: 'Septintąjį–aštuntąjį dešimtmetį per sovietinę industrializaciją Lietuvoje pastatyta Mažeikių naftos perdirbimo įmonė.'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai nebaigtas, todėl reikia aiškaus tarinio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_place: Ignalinos atominė elektrinė; mentioned_place: Jonava; mentioned_place: Lietuva; mentioned_place: Mažeikiai'
+  susije_objektai: 'mentioned_place: Ignalinos atominė elektrinė; mentioned_place: Jonava; mentioned_place: Lietuva; mentioned_place: Mažeikiai'
   pagrindžia:
     - c-001
 

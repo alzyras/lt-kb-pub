@@ -33,7 +33,7 @@ Dusburgietis teigia, kad kai šitai vyko, ir vyrai, ir moterys paskutiniais žod
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Pabečiai; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Vyresnysis.md#claim-t-89912|Konradas iš Tirbergo Vyresnysis]]: Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę.
+
 ## Reikšmingi paminėjimai
 
 - c-001

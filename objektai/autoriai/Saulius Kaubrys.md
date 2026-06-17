@@ -43,7 +43,7 @@ dr. Sauliui Kaubriui ir daugeliui kitų, prisidėjusių prie jos parengimo, iliu
   global_id: t-19473
   teiginys: 'Saulius Kaubrys recenzavo leidinį „Lietuvos istorija“.'
   sudarymo_pagrindimas: 'Pirminis tekstas yra sakinio fragmentas, bet citata aiškiai pagrindžia recenzento vaidmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra sakinio fragmentas, bet citata aiškiai pagrindžia recenzento vaidmenį.'

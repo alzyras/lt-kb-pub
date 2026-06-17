@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   global_id: t-58650
   teiginys: 'Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies vietą ir įgulą; pradinis teiginys per ilgas ir su antraštės triukšmu.'
-  susije_objektai: 'location: Kulmas; location: Sūduva; location: Viena; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Viena'
+  susije_objektai: 'location: Kulmas; location: Sūduva; location: Viena; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

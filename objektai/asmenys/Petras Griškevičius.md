@@ -29,7 +29,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-64025
   teiginys: 'Petras Griškevičius, būdamas LKP CK pirmuoju sekretoriumi, Michailo Gorbačiovo pertvarkos pradžioje laikėsi pasyviai.'
   sudarymo_pagrindimas: 'Pradinis teiginys klaidingai priskyrė iniciatyvą asmeniui; citata remia pasyvumo faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys klaidingai priskyrė iniciatyvą asmeniui; citata remia pasyvumo faktą.'

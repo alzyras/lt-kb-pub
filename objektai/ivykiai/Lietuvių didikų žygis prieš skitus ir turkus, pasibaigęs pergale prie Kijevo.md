@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas autorinis boilerplate ir ištaisytos laužytos vietovardžių formos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Daškevičius|Eustachijus Daškevičius]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas; mentioned_place: Podolė; mentioned_place: Sluckas; mentioned_place: Višniovecas; mentioned_place: Čerkasai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus Daškevičius|Eustachijus Daškevičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas; mentioned_place: Podolė; mentioned_place: Sluckas; mentioned_place: Višniovecas; mentioned_place: Čerkasai'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Vardų sąrašas pakeistas enciklopediniu faktu apie įvykio rezultatą, paremtu citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Eustachijus Daškevičius|Eustachijus Daškevičius]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas; mentioned_place: Sluckas; mentioned_place: Višniovecas; mentioned_place: Čerkasai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus Daškevičius|Eustachijus Daškevičius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kijevas; mentioned_place: Sluckas; mentioned_place: Višniovecas; mentioned_place: Čerkasai'
   pagrindžia:
     - c-002
 

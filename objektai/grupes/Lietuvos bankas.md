@@ -29,7 +29,7 @@ Nuo 1993 m. vidurio infliacijos lygis pradėjo mažėti, iš esmės dėl naciona
   global_id: t-19858
   teiginys: 'Nuo 1993 m. vidurio infliacija mažėjo dėl Lietuvos banko sugriežtintos pinigų politikos ir 1994 m. pradėto valiutų valdybos modelio.'
   sudarymo_pagrindimas: 'Patikslinta, kad valiutų valdybos modelis pradėtas taikyti 1994 m.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1993 m.; įvykio data: 1993 m.; įvykio data: 1994 m.; įvykio data: po 1995 m.; įvykio data: 1995 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kad valiutų valdybos modelis pradėtas taikyti 1994 m.'

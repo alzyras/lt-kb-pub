@@ -52,7 +52,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata palaiko glaustą priežasties ir veiksmo sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas Kęstutaitis|Žygimantas Kęstutaitis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

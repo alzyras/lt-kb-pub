@@ -28,7 +28,7 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   global_id: t-34941
   teiginys: '„Vytauto panegirikoje“ teigiama, kad nuo 1411 m. įsiviešpatavus Dželad-Eddinui totoriai nedrįso priešintis Vytautui.'
   sudarymo_pagrindimas: 'Pašalintas išnašos ir laužyto teksto triukšmas, paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]; mentioned_person: [[objektai/asmenys/Dželad-Eddinas|Dželad-Eddinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Dželad-Eddinas|Dželad-Eddinas]]'
   temporaliniai_duomenys: 'įvykio data: po 1411 m.; įvykio data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ir laužyto teksto triukšmas, paliktas citatos palaikomas faktas.'
@@ -43,7 +43,7 @@ Dėl vidaus nesutikimų perėjo jų visa eilė, į Vytauto pusę, bet nuo 1411 m
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Vytauto valdžią totorių atžvilgiu, bet pradinis sakinys per ilgas ir kontekstinis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'valdymo laikotarpis: po 1411 m.; valdymo laikotarpis: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip valdymo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie Vytauto valdžią totorių atžvilgiu, bet pradinis sakinys per ilgas ir kontekstinis.'

@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-39187
   teiginys: 'Patrankos „Hidra“ laibgalis dekoruotas Hidra, o drūtgalis - karūna, Vyčiu, Gediminaičių stulpais ir 1564 m. Žygimanto Augusto įrašu.'
   sudarymo_pagrindimas: 'Teiginį reikia sutvarkyti ir užbaigti, citata pagrindžia dekoro aprašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį reikia sutvarkyti ir užbaigti, citata pagrindžia dekoro aprašymą.'

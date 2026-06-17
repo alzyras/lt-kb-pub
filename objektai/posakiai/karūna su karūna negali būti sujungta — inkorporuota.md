@@ -36,7 +36,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
 - t-001
   global_id: t-36006
   teiginys: 'Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/inkorporacija|inkorporacija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Formulė pateikiama kaip argumentas, kad dvi karūnos ir dvi valstybės negali b
   global_id: t-36007
   teiginys: 'Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, tačiau reikėjo pašalinti OCR triukšmą ir sutrumpinti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/inkorporacija|inkorporacija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

@@ -22,7 +22,7 @@ Muravjovas, pasikvietęs į pagalbą seną savo pažįstamą Ivaną Kornilovą, 
   global_id: t-18931
   teiginys: 'Ivanas Kornilovas Muravjovo kvietimu prisidėjo prie rusinimo politikos ir buvo paskirtas Vilniaus švietimo apygardos globėju.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo sakinio fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

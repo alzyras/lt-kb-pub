@@ -38,7 +38,7 @@ Himansas Šveicarijos pavyzdžiu paruošė Lietuvos federacinės valstybės, sud
   global_id: t-104192
   teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas nebebuvo kantonas, o atitiko autonominio rajono statusą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako 1921 m. Himanso plano pakeitimą dėl Vilniaus regiono statuso.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako 1921 m. Himanso plano pakeitimą dėl Vilniaus regiono statuso.'

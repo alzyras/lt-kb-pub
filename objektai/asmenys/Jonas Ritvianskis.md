@@ -22,7 +22,7 @@ Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia sutelkti sakinį į note objektą ir pašalinti boilerplate.'
-  susije_objektai: 'location: Lenkija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lenkija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]] keliavo į Lenkija; [[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]] keliavo į Vilnius'
   pagrindžia:
     - c-001

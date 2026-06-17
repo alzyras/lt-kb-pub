@@ -29,7 +29,7 @@ Huizinga) yra labai platus objektas.
   global_id: t-100126
   teiginys: 'J. Huizingos sąvoka „vidurinių amžių ruduo“ citatoje siejama su Europos vidurinių amžių pabaiga.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas, bet citata leidžia suformuluoti faktą apie Huizingos sąvokos vartojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1970 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentiškas, bet citata leidžia suformuluoti faktą apie Huizingos sąvokos vartojimą.'

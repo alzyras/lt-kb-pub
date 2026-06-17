@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-66654
   teiginys: 'Pirmojoje XV a. pusėje įsteigtos LDK kanclerio pareigos, o kancleriui pavesta prižiūrėti Lietuvos Metriką.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, predikatą ir yra tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, predikatą ir yra tiesiogiai paremtas citata.'

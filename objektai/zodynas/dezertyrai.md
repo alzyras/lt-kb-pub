@@ -51,7 +51,7 @@ Tūkstančiai lietuvių slapstėsi arba bėgo iš sovietų kariuomenės, todėl 
   temporalinis_llm_pakomentavimas: 'Pradinį teiginį reikia sutrumpinti ir pašalinti perteklinę antrą mintį.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/NKVD.md#claim-t-71677|NKVD]]: Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.
+
 ## Reikšmingi paminėjimai
 
 - c-001

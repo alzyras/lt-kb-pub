@@ -32,7 +32,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   global_id: t-18758
   teiginys: 'Adomas Jurgis Čartoriskis buvo priverstas atsistatydinti iš globėjo posto.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet asmeniui geriau vartoti pilną vardą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ Universiteto globėju iki 1824 m. buvo Lenkijos didikų atžala – Adomas Jurgi
   global_id: t-18759
   teiginys: 'Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.'
   sudarymo_pagrindimas: 'Pradinė formuluotė sunki; perrašyta aiškiau, nekeičiant citatos pagrindo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1824 m.; įvykio data: 1803 m.; įvykio data: 1824 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė sunki; perrašyta aiškiau, nekeičiant citatos pagrindo.'

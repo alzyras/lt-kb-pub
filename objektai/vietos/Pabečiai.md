@@ -38,7 +38,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
   global_id: t-68858
   teiginys: 'Broliai su kariuomene patraukė prieš Pabečių valsčių, nusiaubė Dramenavos kaimą, paėmė į nelaisvę ir išžudė daug žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi nutrūkusią pabaigą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Dramenava; mentioned_place: Kvedenava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Dramenava; mentioned_place: Kvedenava; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -55,7 +55,7 @@ Pabečiai čia rodomi kaip Sembos valsčius ir gyvenvietės vardų šeima, susij
 - t-003
   global_id: t-68861
   teiginys: 'Po žygių prieš kaimyninius valsčius broliai patraukė su kariuomene prieš Pabečių valsčių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Kvedenava; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.

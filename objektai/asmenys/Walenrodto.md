@@ -21,7 +21,7 @@ Georgo Fridriko Valdeko vadovaujamą švedų, brandenburgiečių ir prūsų kari
 - t-001
   global_id: t-40541
   teiginys: 'Walenrodtas vadovavo 2000 pėstininkų jungtinėje G. F. Valdeko vadovaujamoje kariuomenėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_place: Krymas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Krymas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

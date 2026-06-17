@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-86935
   teiginys: '1582 m. sausio 11 d. Vilniuje klierikų mokymas ir vadovavimas seminarijai buvo patikėti Vilniaus Jėzaus draugijos kolegijai.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkusi citatos dalis; citata aiškiai remia faktą apie seminarijos perdavimą jėzuitams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkusi citatos dalis; citata aiškiai remia faktą apie seminarijos perdavimą jėzuitams.'

@@ -34,7 +34,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   global_id: t-87976
   teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus apgulties aplinkybes, nežinomas lietuvių metraštininkams.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Lindenblatto išsaugotas detales.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -43,7 +43,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   global_id: t-87977
   teiginys: 'Lindenblattas kryžiuočių persikėlimą per Viliją datavo Šv. Augustino diena, rugpjūčio 28-ąja.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys suformuluotas kaip aiškus faktas apie autorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   global_id: t-87978
   teiginys: 'Lindenblatto kronikos leidėjai Visevaldės pilį vadino Vižemais, tačiau toks tapatinimas kėlė abejonių.'
   sudarymo_pagrindimas: 'Reikia pašalinti puslapio numerio triukšmą ir įtraukti citatoje esančią abejonę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]'
   pagrindžia:
     - c-004
 
@@ -61,7 +61,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   global_id: t-87979
   teiginys: 'Lindenblatto kronikoje vietovardis Boparthen siejamas su dabartine Bobie vietove į šiaurės vakarus nuo Kauno.'
   sudarymo_pagrindimas: 'Citata leidžia teigti, kaip kronikoje aiškinamas vietovardis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ Vygandas ir Lindenblattas, kronikininkai, ją taip pat vadina - Nerga, Nerge, Ne
   global_id: t-87980
   teiginys: 'Vygandas ir Lindenblattas Viliją vadino Nerga, Nerge, Nerye ir Neria.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį; citata leidžia aiškiai įvardyti Viliją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

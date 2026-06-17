@@ -24,8 +24,8 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   global_id: t-58527
   teiginys: 'Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir triukšmingas; citata pagrindžia vietą ir priklausomybę.'
-  susije_objektai: 'owner: Elbingas; owner: [[objektai/asmenys/Konradas|Konradas]]; owner: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
-  semantiniai_rysiai: 'Belichovas priklausė [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; Belichovas priklausė [[objektai/asmenys/Konradas|Konradas]]; Belichovas priklausė Elbingas; Belichovas priklausė Kulmas; Belichovas priklausė Marienverderis; Belichovas priklausė Viena'
+  susije_objektai: 'owner: Elbingas; owner: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  semantiniai_rysiai: 'Belichovas priklausė [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; Belichovas priklausė Elbingas; Belichovas priklausė Kulmas; Belichovas priklausė Marienverderis; Belichovas priklausė Viena'
   pagrindžia:
     - c-002
 
@@ -82,7 +82,6 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
 ## Ryšiai
 - [[objektai/grupes/Pamedėnai]] gyveno Belichovas
 - Belichovas priklause [[objektai/vietos/Elbingas]]
-- Belichovas priklause [[objektai/asmenys/Konradas]]
 - Belichovas priklause [[objektai/asmenys/Konradas Švabas iš Elbingo]]
 - Belichovas priklause [[objektai/vietos/Kulmas]]
 - Belichovas priklause [[objektai/vietos/Marienverderis]]

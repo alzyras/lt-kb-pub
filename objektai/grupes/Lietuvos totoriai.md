@@ -37,7 +37,7 @@ amziai:
   global_id: t-78380
   teiginys: 'Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia aiškiau nurodyti, kieno panika padidėjo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -57,7 +57,7 @@ amziai:
 - t-004
   global_id: t-78382
   teiginys: 'Lietuvos totoriai šiame sparne buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Kurovičius.md#claim-t-39772|Kurovičius]]: Kurovičius buvo „vengrų“ pėstininkų rotmistras, kurį paryčiais girti bajorai nužudė kartu su kitais žymesniais belaisviais.

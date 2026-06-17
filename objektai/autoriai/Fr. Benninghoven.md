@@ -23,7 +23,7 @@ Benninghoven davė studiją apie kalavijuočių ordiną (BeOSch); Lietuvos žila
 - t-001
   global_id: t-30615
   teiginys: 'Fr. Benninghovenas parašė studiją apie Kalavijuočių ordiną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/Fr. Mager|Fr. Mager]]; mentioned_person: [[objektai/autoriai/W. Conze|W. Conze]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Fr. Mager|Fr. Mager]]; mentioned_author: [[objektai/autoriai/W. Conze|W. Conze]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/F. Gause.md#claim-t-30608|F. Gause]]: F. Gause yra trijų tomų veikalo „Die Geschichte Königsbergs“ autorius.

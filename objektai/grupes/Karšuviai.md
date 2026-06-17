@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie Karšuvos žemės nusiaubimą 1307 metais Brolis F
   teiginys: '1307 metais Ragainės komtūro pasiųstas Hildebrandas iš Rebergo įsiveržė į Karšuvos žemę, ją degino, plėšė ir išsivarė 70 belaisvių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs; citata remia aiškų faktą apie Karšuvą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Karšuva; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.).md#claim-t-28824|Karšuvos nuniokojimas ir Skronaičių bei Bebirvaičių pilių sudeginimas (1307 m.)]]: 1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis.

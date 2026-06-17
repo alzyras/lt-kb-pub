@@ -22,7 +22,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   global_id: t-32306
   teiginys: 'Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako sienos eigą pagal citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 - susijęs iš Merūniškiai: Siena per dykrą ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.

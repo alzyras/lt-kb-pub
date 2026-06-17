@@ -23,7 +23,7 @@ Dar vasarą tam reikalui magistras įsakė netoli Gardino pastatyti dvi pilis: N
   global_id: t-36430
   teiginys: 'Magistras įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą, kuriuose buvo įkurdintos kryžiuočių įgulos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Naujojo Gardino pastatymą ir įgulos įkurdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Metenburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Metenburgas'
   pagrindžia:
     - c-002
 

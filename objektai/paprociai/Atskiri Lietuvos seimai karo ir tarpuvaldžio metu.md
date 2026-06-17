@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-01908
   teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
   sudarymo_pagrindimas: 'Pašalintas jungtukas ir sakinys paverstas savarankišku faktu.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-01910
   teiginys: 'Karalius ne kartą, nepaisydamas unijos akto nuostatų, sušaukdavo atskirus Lietuvos seimus, ypač karo su Maskva metu.'
   sudarymo_pagrindimas: 'Teiginys sukonkretintas pagal citatoje minimus Lietuvos seimus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 

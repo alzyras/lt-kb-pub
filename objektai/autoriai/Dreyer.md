@@ -23,7 +23,7 @@ Il, p. 353 ir kt.) yra žinomi Gedimino laiškai tik dominikonų ordinui, Mažes
   global_id: t-88055
   teiginys: 'Dreyerio veikale buvo paskelbtas Gedimino laiškas Šiaurės Vokietijos pajūrio miestams.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Dreyerio veikalą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)|Gedimino laiškų išsiuntimas į Vakarų Europą (1323–1325 m.)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

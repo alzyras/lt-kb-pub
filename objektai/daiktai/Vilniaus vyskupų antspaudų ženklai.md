@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-87102
   teiginys: 'Vilniaus vyskupas Mikalojus Dzerško arba Dzerškavičius savo antspaude turėjo Stumbro ženklą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Pliekta|Jonas Pliekta]]; mentioned_person: [[objektai/asmenys/Mikalojus Dzerško|Mikalojus Dzerško]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jonas Pliekta|Jonas Pliekta]]; mentioned_person: [[objektai/asmenys/Mikalojus Dzerško|Mikalojus Dzerško]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1462 m.; įvykio data: po 1453 m.; įvykio data: 1453 m.; įvykio data: 1462 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'

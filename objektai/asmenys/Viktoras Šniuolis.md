@@ -30,7 +30,7 @@ Tik 1991 metais Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu partizanų p
   global_id: t-40503
   teiginys: 'Viktoro Šniuolio ir Algirdo Kamantausko rūpesčiu 1991 m. partizanų palaikai buvo surasti ir palaidoti Radviliškio kapinėse.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su tiesiogiai įvardytu Viktoro Šniuolio vaidmeniu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškesnį sakinį su tiesiogiai įvardytu Viktoro Šniuolio vaidmeniu.'

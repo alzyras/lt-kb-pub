@@ -24,7 +24,7 @@ tags:
   global_id: t-86803
   teiginys: 'Vytauto sušaukti Lietuvos ir Rusios didikai pareiškė esą laisvi ir neprivalantys mokėti duoklės Lenkijai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko didikų atsakymą taryboje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179717|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu išvyko pas magistrą į Marienburgą.

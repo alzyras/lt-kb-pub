@@ -33,7 +33,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-001
   global_id: t-92733
   teiginys: 'Algirdas ir Maskvos kunigaikščiai tapo nesutaikomais priešais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1349 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -44,7 +44,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   global_id: t-92734
   teiginys: 'Didžioji Maskvos kunigaikštija nerodė atsparumo Vytautui, nes nuo 1425 m. joje viešpatavo Vytauto globojamas anūkas Vosylius.'
   sudarymo_pagrindimas: 'Reikia aiškesnės, enciklopediškos formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos kunigaikštija|Maskvos kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Maskva; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos kunigaikštija|Maskvos kunigaikštija]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Maskva; mentioned_place: Pskovas'
   temporaliniai_duomenys: 'įvykio data: po 1425 m.; įvykio data: 1425 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškesnės, enciklopediškos formuluotės.'
@@ -56,7 +56,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   global_id: t-92735
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.'
   sudarymo_pagrindimas: 'Ilgas sąrašinis fragmentas sutrumpintas į pilną faktą apie Maskvos kunigaikštystės valdovą.'
-  susije_objektai: 'location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Lietuva; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Livonija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Maskva; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Mazovija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Prūsija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Riazanė; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Trakai; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Tverė; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Valakija; [[objektai/grupes/Maskvos kunigaikštystė|Maskvos kunigaikštystė]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Riazanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos kunigaikštystė keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
@@ -68,7 +68,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-004
   global_id: t-92736
   teiginys: 'Maskvos kunigaikščiams stiprėjant, politinė padėtis pamažu keitėsi Lietuvos nenaudai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia'
   pagrindžia:
     - c-003
     - c-004
@@ -77,7 +77,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
 - t-005
   global_id: t-92737
   teiginys: 'Rusų kronikos teigė, kad Vytautas su Tochtamyšu sutarė užimti Didžiąją Maskvos kunigaikštiją ir valdyti visą Rusią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
 
@@ -86,7 +86,7 @@ Kai 1533 m. mirė Vosylius III, Maskvos kunigaikščiu tapo Jonas IV Žiaurusis.
   global_id: t-92738
   teiginys: 'Rusų kronikos Vytautui priskyrė siekį, padėjus Tochtamyšui tapti chanu, pačiam įsitvirtinti Didžiojoje Maskvos kunigaikštystėje.'
   sudarymo_pagrindimas: 'Netvarkinga citata perrašyta į vieną faktinį sakinį be laužytos tiesioginės kalbos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-005
 

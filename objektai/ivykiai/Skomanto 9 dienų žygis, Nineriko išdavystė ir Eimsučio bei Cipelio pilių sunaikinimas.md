@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-66896
   teiginys: 'Kronikos komentare spėjama, kad su Skomanto sūduviais žygiavo Gardino ar Naugarduko žemių kariai, pavaldūs Lietuvai.'
   sudarymo_pagrindimas: 'Citata yra komentaras, ne Dusburgiečio teiginys, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Gardinas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1263 m.; įvykio data: 1271 m.; įvykio data: 1272 m.; įvykio data: apie 1272 m.; įvykio data: 1273 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata yra komentaras, ne Dusburgiečio teiginys, todėl reikia aiškios atribucijos.'
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-66897
   teiginys: 'Sūduvių vadas Skomantas su didele sūduvių ir rusų kariuomene devynias dienas siaubė Kulmo žemę, plėšdamas ir degindamas.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės liekanų; citata palaiko glaustą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Eimsutis; mentioned_place: Kulmas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Eimsutis; mentioned_place: Kulmas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

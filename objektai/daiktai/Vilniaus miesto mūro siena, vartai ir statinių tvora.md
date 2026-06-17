@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-87063
   teiginys: '1505 metais karalius nurodė Vilniaus miestą apjuosti mūro siena, o negalintiems jos statyti leido tverti statinių tvorą.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-87065
   teiginys: '1506 metais Vilniaus miestiečiai, remiami vyskupo Vaitiekaus Taboro, apjuosė miestą mūro pylimu vietoj medinių statinių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

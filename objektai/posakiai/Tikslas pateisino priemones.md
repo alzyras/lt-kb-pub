@@ -31,7 +31,7 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   global_id: t-186418
   teiginys: 'Kovodamas dėl savo teisių Vytautas rinkosi ne visai teisėtas priemones, nes tikslas pateisino priemones.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
     - c-002
@@ -41,7 +41,6 @@ Autoriaus formulė apibendrina Vytauto kovą dėl teisių kaip siekį, kuriam pa
   global_id: t-186419
   teiginys: 'Posakis „Tikslas pateisino priemones“ taikytas Vytauto kovai dėl savo teisių ne visai teisėtu būdu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ Kalbos redaktorė Gražina Indrišiūnienė Viršelio dailininkė Audronė Uziel
   global_id: t-24526
   teiginys: 'Knygą „Lietuvos istorija“ išleido Vilniaus universitetas ir Vilniaus universiteto leidykla.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nurodo Vilniaus universiteto leidyklos vaidmenį leidžiant knygą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/autoriai/Mindaugas Tamošaitis|Mindaugas Tamošaitis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mindaugas Tamošaitis|Mindaugas Tamošaitis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Alvydas Jokubaitis.md#claim-t-25191|Alvydas Jokubaitis]]: Alvydas Jokubaitis buvo „Lietuvos istorijos“ redakcinės kolegijos narys.

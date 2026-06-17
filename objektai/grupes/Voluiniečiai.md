@@ -29,7 +29,7 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
   global_id: t-52464
   teiginys: 'Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su lenkais ir voluiniečiais, o rytuose su gudais.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir paliktas aiškus faktas apie voluiniečius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Padauguvis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Padauguvis'
   pagrindžia:
     - c-001
 
@@ -37,7 +37,7 @@ pietuose lenkai ir voluiniečiai, o rytuose gudai.
 - t-002
   global_id: t-52465
   teiginys: 'Ankstyvaisiais istoriniais laikais aisčiai pietuose susidūrė su slavais: lenkais ir voluiniečiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Padauguvis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Padauguvis'
   pagrindžia:
     - c-001
 

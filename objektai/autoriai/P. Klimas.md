@@ -44,7 +44,7 @@ P. Klimas veikale rodomas ir kaip bendradarbis autorius, ir kaip nepriklausomyb�
 - t-001
   global_id: t-00063
   teiginys: 'P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_person: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_author: [[objektai/autoriai/P. Šležas|P. Šležas]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 

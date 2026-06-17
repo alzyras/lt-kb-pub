@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-19584
   teiginys: '1926 m. rudenį po komunistų mitingų chuliganai su raudonomis vėliavomis gatvėse užkabinėjo uniformuotus kariškius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie raudonų vėliavų naudojimą minimame kontekste.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/posakiai/„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“|„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“]]'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“|„Ponai, ne jūs kariuomenę sumažinsite, o kariuomenė jus sumažins.“]]'
   temporaliniai_duomenys: 'įvykio data: po 1926 m.; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie raudonų vėliavų naudojimą minimame kontekste.'

@@ -32,7 +32,7 @@ Jonas Lasavičius, lietuvis, kilęs iš Vilniaus, pirma Lucko, paskui Vilniaus v
   global_id: t-87724
   teiginys: 'Jonas Lasavičius buvo iš Vilniaus kilęs lietuvis, 1462-1481 m. Vilniaus vyskupas, katedroje įrengęs Vyskupų koplyčią.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas sklandesne enciklopedine forma.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1481 m.; įvykio data: po 1462 m.; įvykio data: 1462 m.; įvykio data: 1462-1481; įvykio data: 1481 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, bet perrašytas sklandesne enciklopedine forma.'

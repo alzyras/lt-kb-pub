@@ -10,6 +10,7 @@ saltiniai:
 datos:
   - '1357 m.'
   - '1362 m.'
+  - '1395 m.'
   - '2026 m.'
 date_start: '1357'
 date_end: '2026'
@@ -34,7 +35,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97822
   teiginys: '1395 m. Timūro vadai pasiekė Dnieprą po Tochtamišo sumušimo ir žygio į Rytų Europą.'
   sudarymo_pagrindimas: 'Reikia išplėsti labai trumpą teiginį citatoje pateiktu kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Timūras (Tamerlanas)|Timūras (Tamerlanas)]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Donas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Riazanė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Donas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Riazanė'
   temporaliniai_duomenys: 'įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti labai trumpą teiginį citatoje pateiktu kontekstu.'
@@ -46,7 +47,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97823
   teiginys: 'Po 1362 m. Mėlynųjų Vandenų mūšio Algirdas laimėjo ir Dniepro žemupį.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatoje nurodytą Dniepro žemupio laimėjimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Černigovas'
   temporaliniai_duomenys: 'įvykio data: po 1362 m.; įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir tiksliai perteikia citatoje nurodytą Dniepro žemupio laimėjimą.'
@@ -65,7 +66,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-004
   global_id: t-97826
   teiginys: 'Nemuno ir Dniepro baseinai jungė valstybę su Baltijos ir Juodąja jūromis, todėl jos padėtis buvo patogi prekybai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 
@@ -74,7 +75,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97827
   teiginys: 'Algirdas užėmė Dniepro ir Desnos upyno kunigaikštystes, tarp jų Brianską, Trubčevską ir Naugardą Sieverską.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis „jis“, todėl reikia įvardyti Algirdą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_place: Trubčevskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_place: Trubčevskas'
   pagrindžia:
     - c-007
 
@@ -83,7 +84,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97828
   teiginys: 'Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir jo kairiuoju krantu patraukė į stepes prie Vorsklos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie veiksmą prie Dniepro ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tochtamišo totoriai|Tochtamišo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Ragainė; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tochtamišo totoriai|Tochtamišo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Ragainė; mentioned_place: Vorskla'
   pagrindžia:
     - c-005
 
@@ -92,7 +93,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97829
   teiginys: 'Nuo 1357 m. Algirdas ėmė įsiviešpatauti Dniepro kairėje ir užėmė didelius plotus Desnos baseine.'
   sudarymo_pagrindimas: 'Teiginys sutampa su citatos esme ir yra gramatiškas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna'
   temporaliniai_duomenys: 'įvykio data: po 1357 m.; įvykio data: 1357 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutampa su citatos esme ir yra gramatiškas faktinis sakinys.'
@@ -104,7 +105,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97830
   teiginys: 'Maskvai palikus Černigovą, Naugardą Sieverską, Starodubą ir Okos paupius, jos sienos jau siekė Dnieprą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys prasideda kontekstiniu junginiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Timūras (Tamerlanas)|Timūras (Tamerlanas)]]; mentioned_place: Donas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Riazanė; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_place: Donas; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Riazanė; mentioned_place: Starodubas'
   temporaliniai_duomenys: 'įvykio data: 1395 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys prasideda kontekstiniu junginiu.'
@@ -116,7 +117,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97831
   teiginys: '1362 m. prie Mėlynųjų Vandenų sumušęs totorius, Algirdas laimėjo Podoliją ir Dniepro žemupį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatoje minimą Algirdo pergalės rezultatą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Būgas; mentioned_place: Černigovas'
   temporaliniai_duomenys: 'įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatoje minimą Algirdo pergalės rezultatą.'
@@ -137,7 +138,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97834
   teiginys: 'Prie Dniepro Vytautas dėl šalčių raginamas mesti kovą su totoriais atsakė, kad karą reikia tęsti nepaisant šalčio.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir baigiasi nebaigta citatos nuotrupa.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_object: [[objektai/posakiai/du priešai, šaltis ir totoriai|du priešai, šaltis ir totoriai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -146,7 +147,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97835
   teiginys: 'Ties Lojevu persikelta į dešinįjį Dniepro krantą ir pasukta vakarų kryptimi Mozyriaus bei Slucko link.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus įvardis, todėl jis perrašytas be nepagrįsto veikėjo įvardijimo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
   pagrindžia:
     - c-006
 
@@ -155,7 +156,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97836
   teiginys: 'Rugpjūčio pradžioje kariuomenė persikėlė per Dnieprą ir prie Vorsklos susitiko su Timūr-Kutluko kariuomene.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tochtamišo totoriai|Tochtamišo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Ragainė; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Tochtamišo totoriai|Tochtamišo totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Timūr-Kutlukas|Timūr-Kutlukas]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_place: Krokuva; mentioned_place: Podolė; mentioned_place: Ragainė; mentioned_place: Vorskla'
   pagrindžia:
     - c-005
 
@@ -172,7 +173,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97839
   teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Patikslinta formuluotė, kad sakinys būtų sklandesnis ir tiksliau atitiktų citatą.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Desna; owner: Dniestras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; owner: Smolenskas; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Smolenskas'
+  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Desna; owner: Dniestras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; owner: Smolenskas; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Smolenskas'
   semantiniai_rysiai: 'Dniepras priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Dniepras priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Dniepras priklausė Desna; Dniepras priklausė Dniestras; Dniepras priklausė Kijevas; Dniepras priklausė Lietuva; Dniepras priklausė Podolė; Dniepras priklausė Smolenskas'
   pagrindžia:
     - c-012
@@ -181,7 +182,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - t-018
   global_id: t-97841
   teiginys: 'Prie Dniepro Vytautas atsisakė nutraukti kovą su totoriais dėl didelių šalčių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_object: [[objektai/posakiai/du priešai, šaltis ir totoriai|du priešai, šaltis ir totoriai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du|Todėl ir reikia kariauti, nes jeigu nugalėsim, gausime triumfą ant dviejų priešų; jei būsime nugalėti, kalbės apie mus, kad mus nugalėjo du]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-004
 
@@ -198,7 +199,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97844
   teiginys: 'Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Desna; object: Smolenskas; object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Desna; mentioned_place: Smolenskas'
+  susije_objektai: 'object: Desna; object: Smolenskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Smolenskas'
   pagrindžia:
     - c-012
 
@@ -207,7 +208,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97845
   teiginys: 'Vytauto valstybės teritoriją su Juodosios jūros kryptimi jungė platus Dniepro baseinas.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie Dniepro baseiną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 
@@ -231,7 +232,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti veikėją ir pašalinti neaiškų įvardį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
   pagrindžia:
     - c-015
 - susijęs iš [[objektai/grupes/Liuksemburgiečių dinastija.md#claim-t-35715|Liuksemburgiečių dinastija]]: Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei.
@@ -674,9 +675,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 
 ## Ryšiai
 - [[objektai/grupes/Liuksemburgiečių dinastija]] valde_teritorija Dniepras
-- [[objektai/autoriai/A. Kočubinskij]] gyveno Dniepras
 - [[objektai/grupes/Krivičiai]] gyveno Dniepras
-- [[objektai/autoriai/Sobolevskij]] gyveno Dniepras
 - [[objektai/grupes/Krymo chanatas]] susije_su Dniepras
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Dniepras
 - Dniepras priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]

@@ -29,7 +29,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   global_id: t-84379
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d. ir vyskupo pareigas ėjo 11 metų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Vaitiekų II Radvilą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Nesvyžius'
+  susije_objektai: 'mentioned_place: Nesvyžius'
   temporaliniai_duomenys: 'įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Vaitiekų II Radvilą.'
@@ -40,7 +40,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
 - t-003
   global_id: t-84381
   teiginys: 'Olyka Voluinėje kartu su Nesvyžiumi buvo vienos Radvilų šeimos šakos centras.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.

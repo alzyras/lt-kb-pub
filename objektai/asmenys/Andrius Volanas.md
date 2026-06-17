@@ -23,7 +23,7 @@ Tai iš ten kilo anas Andrius Volanas, pagarsėjęs mokslu ir rašytojo talentu,
   global_id: t-87626
   teiginys: 'Andrius Volanas garsėjo mokslu ir rašytojo talentu, o Vilniuje uoliai skleidė reformatų idėjas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Volano veiklą ir reputaciją, bet pradinį teiginį reikia neutralizuoti ir sutrumpinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Andrius Volanas Volanus.md#claim-t-88052|Andrius Volanas Volanus]]: Andrius Volanas Vilniuje buvo reformatų idėjų skleidėjas ir garsėjo mokslu bei rašytojo talentu.

@@ -22,7 +22,7 @@ Lenčicos seimas pasiuntė Gniezno arkivyskupą Mikalojų Kurovskį pas kryžiuo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys faktinis, bet pradinė forma per ilga ir su OCR klaidomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenčicos seimas|Lenčicos seimas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gniezno; mentioned_place: Lenčica; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenčicos seimas|Lenčicos seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Gniezno; mentioned_place: Lenčica; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

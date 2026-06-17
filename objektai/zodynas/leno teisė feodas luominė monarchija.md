@@ -24,7 +24,7 @@ Nuosavybės santykiuose susiformuoja leno teisė, socialinėje ūkinėje strukt�
   global_id: t-77813
   teiginys: 'XVI a. LDK visuomenėje susiformavo leno teisė, riterio dvaras, baudžiava, bajorų luomas, luominė monarchija, cechai ir europinė švietimo sistema.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie citatoje išvardytus XVI a. LDK visuomenės pokyčius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Cechai|Cechai]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Cechai|Cechai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-001
 

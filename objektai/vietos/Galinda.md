@@ -23,7 +23,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58550
   teiginys: 'Petro Dusburgiečio kronikoje Galinda įvardyta kaip viena iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Citata remia šaltinio klasifikaciją, o pradinis tekstas yra sąrašo fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58551
   teiginys: 'Galindos žemė buvo į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   sudarymo_pagrindimas: 'Perrašyta aiškiau, kad objektas būtų Galindos žemė, o ne neapibrėžta vietovė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Snervai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Snervai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.

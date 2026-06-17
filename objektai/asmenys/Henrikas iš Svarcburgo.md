@@ -33,7 +33,7 @@ Dusburgietis teigia, kad įvyko šitaip todėl, kad pats Kristus, kuris ir plaka
   global_id: t-60315
   teiginys: '1252 m. Henrikas iš Svarcburgo su Merzeburgo vyskupu ir daugybe karių įsiveržė į Prūsijos žemę.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1252 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, pilnas ir tiesiogiai paremtas citata.'

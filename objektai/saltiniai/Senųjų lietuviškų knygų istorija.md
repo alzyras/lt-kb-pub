@@ -26,7 +26,7 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill.
 - t-001
   global_id: t-31920
   teiginys: 'Vaclovas Biržiška „Senųjų lietuviškų knygų istorijos“ I tomą išleido Čikagoje 1953 m.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/autoriai/Vcl. Biržiška|Vcl. Biržiška]]; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vcl. Biržiška|Vcl. Biržiška]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

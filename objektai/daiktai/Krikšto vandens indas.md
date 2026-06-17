@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-59690
   teiginys: '1298 m. užpuolus Straisbergą, vienas lietuvis išniekino krikšto vandens indą, pridergdamas į jį.'
   sudarymo_pagrindimas: 'Citata pateikia konkretų faktą apie krikšto vandens indo išniekinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Straisbergas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia konkretų faktą apie krikšto vandens indo išniekinimą.'

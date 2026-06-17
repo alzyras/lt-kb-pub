@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-54730
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui, kad miestas neturi gaisrui gesinti odinių kibirų, kirvių ir kablių.'
   sudarymo_pagrindimas: 'Teiginys tiksliai remiasi citatoje išvardytais gaisro gesinimo įrankiais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1524 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai remiasi citatoje išvardytais gaisro gesinimo įrankiais.'

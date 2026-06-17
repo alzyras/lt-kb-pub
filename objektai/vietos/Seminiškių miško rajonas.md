@@ -27,7 +27,7 @@ amziai:
   global_id: t-38549
   teiginys: '1945 m. gegužės 14 d. NKVD duomenimis, Seminiškių miško rajone slėpėsi iki 70 rankiniais ir sunkiaisiais kulkosvaidžiais, automatais ir šautuvais ginkluotų partizanų.'
   sudarymo_pagrindimas: 'Reikia sklandžiau įtraukti citatoje nurodytą ginkluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sklandžiau įtraukti citatoje nurodytą ginkluotę.'

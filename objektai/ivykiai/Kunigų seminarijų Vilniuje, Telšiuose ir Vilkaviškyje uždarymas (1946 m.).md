@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20241
   teiginys: '1946 m. buvo uždarytos kunigų seminarijos Vilniuje, Telšiuose ir Vilkaviškyje.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Telšiai; mentioned_place: Viena; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Telšiai; mentioned_place: Viena; mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1962 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje nurodytą faktą.'
@@ -60,7 +60,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra faktinis, bet jame trūksta aiškaus veikėjo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Telšiai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Telšiai; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1962 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra faktinis, bet jame trūksta aiškaus veikėjo.'

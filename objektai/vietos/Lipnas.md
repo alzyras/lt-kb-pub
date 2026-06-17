@@ -22,7 +22,7 @@ Po Dobrynės užėmimo ir sudeginimo buvo žiauriai nusiaubti Lipnas ir Ripinas.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardis ir veiksmas perrašyti į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bobrovnikai; mentioned_place: Dobrynė; mentioned_place: Ripinas; mentioned_place: Zlotorija'
+  susije_objektai: 'mentioned_place: Bobrovnikai; mentioned_place: Dobrynė; mentioned_place: Ripinas; mentioned_place: Zlotorija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.).md#claim-t-185601|Kryžiuočių įsiveržimas į Dobrynę ir lenkų kontrsmūgis (1409 m.)]]: Kryžiuočiai užpuolė Dobrynę, ją užėmė ir sudegino, išžudė įgulą bei nukovė seniūną Plominskį.

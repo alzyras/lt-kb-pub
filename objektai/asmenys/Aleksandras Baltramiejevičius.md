@@ -22,7 +22,7 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   global_id: t-87615
   teiginys: 'Aleksandras Baltramiejevičius buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę bažnyčiai.'
   sudarymo_pagrindimas: 'Iš sąrašo suformuluotas pilnas factualus sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-001
 

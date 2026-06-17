@@ -29,7 +29,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-002
   global_id: t-35088
   teiginys: 'Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
-  susije_objektai: 'location: Pronskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pronskas'
+  susije_objektai: 'location: Pronskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Pronskas'
   semantiniai_rysiai: '[[objektai/asmenys/Henne|Henne]] keliavo į Pronskas'
   pagrindžia:
     - c-002
@@ -46,9 +46,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
-- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35091|Hennė (Ordino agentas)]]: Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
-- susijęs iš [[objektai/posakiai/Kai aš atvykau pas didįjį kunigaikštį.md#claim-t-95941|Kai aš atvykau pas didįjį kunigaikštį]]: Henne, keliavęs su Vytautu, atvykęs pas didįjį kunigaikštį rado Vytautą ketvirtą kartą ilsintis kelionėje iš Trakų į Smolenską.
 - susijęs iš [[objektai/posakiai/lydimojo rašto.md#claim-t-36009|lydimojo rašto]]: Gilbertui de Lannoy keliaujant per totorių žemes į Krymą, Vytauto kepurės užteko kaip „lydimojo rašto“.
 ## Reikšmingi paminėjimai
 

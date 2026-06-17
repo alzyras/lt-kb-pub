@@ -37,7 +37,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - t-001
   global_id: t-55106
   teiginys: 'Vilniaus kahalo žydams buvo perduota 5 500 auksinų suma.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   global_id: t-55107
   teiginys: 'Vilniaus kahalas iki 1763 m. Valerijono konvikto gyventojams mokėjo 8 procentus, o nuo 1763 m. - 3 procentus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus mokėjimo procentus ir laikotarpius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1763 m.; įvykio data: po 1763 m.; įvykio data: 1763 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus mokėjimo procentus ir laikotarpius.'
@@ -57,7 +57,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
 - t-003
   global_id: t-55108
   teiginys: 'Kahalas mokėjo procentus nuo jame investuotų sumų įpareigotų pamaldų reikmėms.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/viderkaftas|viderkaftas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   global_id: t-81750
   teiginys: 'Tėvas Juraha viderkafto mokestį priskyrė kahale investuotoms sumoms, nuo kurių kahalas mokėjo procentus įpareigotoms pamaldoms.'
   sudarymo_pagrindimas: 'Citata remia kahalo vaidmenį mokant procentus, o pradinė formuluotė nutrūkusi ir užteršta puslapio triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/viderkaftas|viderkaftas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_person: [[objektai/asmenys/Juraha|Juraha]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_person: [[objektai/asmenys/Uršulė|Uršulė]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -75,7 +75,7 @@ Vilniaus žydų bendruomenės savivaldos institucija.
   global_id: t-81751
   teiginys: '1631 m. Vilniaus kahalo žydams buvo perduota 5500 auksinų suma, nuo kurios kahalas iki 1763 m. mokėjo 8 procentus Valerijono konvikto gyventojams.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Laurynas Volskis|Laurynas Volskis]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Goreckis|Stanislovas Goreckis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kahalas|kahalas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Laurynas Volskis|Laurynas Volskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Goreckis|Stanislovas Goreckis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: iki 1763 m.; įvykio data: 1631 m.; įvykio data: 1763 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, faktinis ir tiesiogiai paremtas citata.'

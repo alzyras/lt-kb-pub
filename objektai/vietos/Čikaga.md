@@ -33,10 +33,9 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   global_id: t-77709
   teiginys: '1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
-  susije_objektai: 'location: Čikaga; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]] gyveno Čikaga'
+  susije_objektai: 'location: Lietuva; location: Niujorkas; location: Rusija; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1879 m.; gyvenimo laikotarpis: 1910 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Georgas (liet. Jurgis) Zauerveinas gyveno Čikaga“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
   pagrindžia:
     - c-004
@@ -46,7 +45,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   global_id: t-77710
   teiginys: 'Lietuvių katalikų seimas Čikagoje rugsėjį pritarė Lietuvos autonomijai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Čikagoje vykusį seimą ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -55,7 +54,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   global_id: t-77711
   teiginys: 'Robertas Zemeckis gimė Čikagoje 1952 m. lietuvio šeimoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia konkretų faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/John Gielgud|John Gielgud]]; mentioned_person: [[objektai/asmenys/Robertas Zemeckis|Robertas Zemeckis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia konkretų faktą.'
@@ -67,7 +66,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   global_id: t-77712
   teiginys: '1917 m. JAV lietuvių imigrantus, gyvenusius daugiausia Čikagoje, Niujorke ir Pensilvanijoje, suaktyvino JAV įstojimas į karą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Vokietija; mentioned_place: Voronežas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Vokietija; mentioned_place: Voronežas'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi OCR fragmentą.'
@@ -173,6 +172,3 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]] gyveno Čikaga

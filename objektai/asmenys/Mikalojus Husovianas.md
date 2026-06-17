@@ -30,13 +30,18 @@ Jau pirmoji Lietuvos poema, tikras renesansinis kūrinys, 1523 m. išleista Mika
   global_id: t-78067
   teiginys: 'Mikalojaus Husoviano 1523 m. išleista poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, kūrinį ir citatoje paremtą vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Mikalojus Husovianas|Mikalojus Husovianas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1523 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, kūrinį ir citatoje paremtą vertinimą.'
   pagrindžia:
     - c-001
-
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172957|Mykolas Lietuvis]]: Mykolas Lietuvis savo svarstymuose Vytauto laikų papročių rigorizmą ir asketizmą priešpriešino savo meto visuomenės išglebimui, girtuoklystei ir netvarkai.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172959|Mykolas Lietuvis]]: Mykolo Lietuvio svarstymai apie valstybės tvarką siejami su veikalu „Apie totorių, lietuvių ir maskvėnų papročius“.
+- susijęs iš [[objektai/autoriai/Mykolas Lietuvis.md#claim-t-172963|Mykolas Lietuvis]]: Mykolas Lietuvis siūlė atsisakyti rusėnų kalbos ir pereiti prie lotynų kalbos.
+- susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75365|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis apie 1550 m. Vytauto laikų papročių griežtumą ir asketizmą priešpriešino savo meto išglebimui ir netvarkai.
+- susijęs iš [[objektai/paprociai/Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas.md#claim-t-75367|Kronikų rašymo ir lietuvių kilmės iš romėnų mito perėmimas]]: Mykolas Lietuvis Vytauto laikų papročių griežtumą ir asketizmą priešino savo meto visuomenės išglebimui ir netvarkai.
+- susijęs iš Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę: 1523 m. išleista Mikalojaus Husoviano poema „Giesmė apie stumbro išvaizdą, žiaurumą ir medžioklę“ Vytauto laikus rodė kaip idealą.
 ## Reikšmingi paminėjimai
 
 - c-001

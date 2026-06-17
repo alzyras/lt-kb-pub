@@ -22,10 +22,9 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
   global_id: t-60432
   teiginys: 'Simeonas buvo šventojo miesto patriarchas, kuris kartu su savo valdiniais kentė didelę priespaudą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Simeono pareigas ir padėtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Prancūzija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Dovydas Gardiniškis.md#claim-t-30225|Dovydas Gardiniškis]]: Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė.
 - susijęs iš [[objektai/asmenys/Gurka.md#claim-t-186206|Gurka]]: Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90006|Petras Atsiskyrėlis]]: Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.
 - susijęs iš [[objektai/asmenys/Petras Atsiskyrėlis.md#claim-t-90007|Petras Atsiskyrėlis]]: Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.

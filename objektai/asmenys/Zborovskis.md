@@ -22,7 +22,7 @@ Kunigaikščių dukterį išsivežus Dimitrui, jos motina maldavo lenkų didikus
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be OCR klaidų ir perteklinės atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

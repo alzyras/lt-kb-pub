@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87287
   teiginys: 'Vilniaus klestėjimas ir Magdeburgo teisės paskatino Vytautą leisti miestiečių luomui dalyvauti tautos pasitarimuose.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja Vilniaus klestėjimą, teises ir Vytauto leidimą miestiečiams dalyvauti pasitarimuose.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

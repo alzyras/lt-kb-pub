@@ -34,10 +34,7 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis surašymo teiginys nepagrįstas, bet citata pagrindžia Lietuvos skaičiavimą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67119|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.
-- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-05586|Suverenitetas]]: Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.
-- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10898|Suverenitetas]]: Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.
-- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-22186|klaipėdiečiai klaipėdiškiai]]: Lietuva klaipėdiečius laikė lietuviais ir skaičiavo, kad Klaipėdos krašte lietuviai sudaro 50,8 procento gyventojų.
+
 ## Reikšmingi paminėjimai
 
 - c-001

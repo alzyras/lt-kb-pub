@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-97142
   teiginys: 'Kai kurių sričių valstiečiai greta duoklių produktais ir gaminiais anksti mokėjo sidabrinę duoklę pinigais.'
   sudarymo_pagrindimas: 'Reikia glaudesnio, mažiau pasikartojančio enciklopedinio sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-003
 
@@ -63,7 +63,7 @@ Nenurodyta
   global_id: t-97143
   teiginys: 'XV a. pradžioje, Vytauto laikais, dauguma Lietuvos valstiečių dar buvo laisvieji ūkininkai.'
   sudarymo_pagrindimas: 'Reikia pataisyti skyrybą ir sklandžiau suformuluoti faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

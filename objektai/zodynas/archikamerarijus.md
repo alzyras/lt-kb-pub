@@ -22,11 +22,10 @@ Seimo pradžioje Jurgis Chodkevičius buvo paskirtas vyriausiuoju kunigaikščio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pataisytas į aiškų sakinį apie pareigybę ir jos pavadinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jurgis Chodkevičius|Jurgis Chodkevičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_person: [[objektai/asmenys/Jurgis Chodkevičius|Jurgis Chodkevičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Jurgis Chodkevičius.md#claim-t-184746|Jurgis Chodkevičius]]: Bresto seimo pradžioje Jurgis Chodkevičius paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
-- susijęs iš [[objektai/ivykiai/Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę.md#claim-t-185698|Bresto seimas ir Augusto paskyrimas valdyti Lietuvos Didžiąją Kunigaikštystę (seimas)]]: Bresto seimo pradžioje Jurgis Chodkevičius buvo paskirtas Lietuvos Didžiosios Kunigaikštystės archikamerarijumi.
+
 ## Reikšmingi paminėjimai
 
 - c-001

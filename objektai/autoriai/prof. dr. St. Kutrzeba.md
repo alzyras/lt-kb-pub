@@ -20,7 +20,7 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
 - t-001
   global_id: t-54147
   teiginys: 'St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_author: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -29,7 +29,7 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   global_id: t-54148
   teiginys: 'Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą prof. dr. St. Kutrzebos pastabą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_author: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

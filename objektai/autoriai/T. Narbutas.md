@@ -30,7 +30,7 @@ S. Daukantas T. Narbutą laikė vienu iš savo istorinių vadovų.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia Narbuto reikšmę Daukantui, o pradinė formuluotė yra nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Teodoras Narbutas.md#claim-t-186510|Teodoras Narbutas]]: Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu.

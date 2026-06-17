@@ -37,7 +37,7 @@ amziai:
   global_id: t-86534
   teiginys: 'Magdeburgo teisių išdava buvo aukštesnė miestiečių luomo padėtis negu nelaisvų kaimo žmonių.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą apie Magdeburgo teisių poveikį miestiečių luomui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ amziai:
   global_id: t-86535
   teiginys: 'Vilnius 1321 m. turėjo Gedimino Rygos pavyzdžiu suteiktą vokiečių teisę, o 1387 m. iš Jogailos gavo Magdeburgo teisę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisė|Magdeburgo teisė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bielskas; mentioned_place: Horodlė; mentioned_place: Kaunas; mentioned_place: Kremenecas; mentioned_place: Luckas; mentioned_place: Mogiliavas; mentioned_place: Ryga; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Magdeburgo teisė|Magdeburgo teisė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bielskas; mentioned_place: Horodlė; mentioned_place: Kaunas; mentioned_place: Kremenecas; mentioned_place: Luckas; mentioned_place: Mogiliavas; mentioned_place: Ryga; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1321 m.; įvykio data: 1387 m.; įvykio data: 1408 m.; įvykio data: 1432 m.; įvykio data: 1442 m.; įvykio data: 1495 m.; įvykio data: 1578 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'

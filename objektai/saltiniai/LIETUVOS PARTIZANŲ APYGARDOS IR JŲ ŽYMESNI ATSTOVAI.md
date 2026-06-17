@@ -28,7 +28,7 @@ amziai:
   global_id: t-80765
   teiginys: 'Informacinio bloko „Lietuvos partizanų apygardos ir jų žymesni atstovai“ autoriai nurodyti Karolis Zikaras, Dalius Žygelis ir Loreta Uzdraitė.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra sąrašo fragmentas su OCR klaida, o ne sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Dalius Žygelis|Dalius Žygelis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dalius Žygelis|Dalius Žygelis]]; mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra sąrašo fragmentas su OCR klaida, o ne sakinys.'

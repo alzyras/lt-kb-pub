@@ -22,7 +22,6 @@ Dusburgietis teigia, kad agota Ahohietis 605 Į rodykles nedėta bibliografijos 
   global_id: t-58914
   teiginys: 'Lotyniškosios ir vokiškosios vardų formos rodyklėse dažniausiai pateikiamos tuo linksniu, kuriuo užrašytos šaltiniuose.'
   sudarymo_pagrindimas: 'Citata pagrindžia taisyklę apie vardų formų pateikimą rodyklėse.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Agota|Agota]]'
   pagrindžia:
     - c-001
 

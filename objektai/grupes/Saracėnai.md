@@ -46,7 +46,6 @@ Dusburgietis teigia, kad apie tai, kaip Ispanijoje buvo užmušta daugybė totor
   teiginys: 'Ferdinando nugalėtas Granados saracėnų karalius ilgai mokėjo Kastilijos karaliui po 1000 aukso marobortinų per dieną.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti duoklės trukmę ir dydį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/marobortinai|marobortinai]]'
   temporaliniai_duomenys: 'įvykio data: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti duoklės trukmę ir dydį.'

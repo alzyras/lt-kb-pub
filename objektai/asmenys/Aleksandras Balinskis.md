@@ -51,7 +51,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - t-001
   global_id: t-54931
   teiginys: 'Aleksandras Balinskis buvo iš Krokuvos pakviestas alchemikas, kurio gydymas nepadėjo sergančiam Aleksandrui Jogailaičiui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šach Achmedas|Šach Achmedas]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 
@@ -60,7 +60,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   global_id: t-54932
   teiginys: 'Aleksandras Balinskis buvo Krokuvos bajoraitis nuo Olkušo, garsėjęs alchemijos išmanymu ir sėkmingu gydymu.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau ir pašalinta publicistinio fragmento formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   global_id: t-54934
   teiginys: 'Aleksandro Balinskio iš Krokuvos pargabentos karališkosios vaistinės dalis liko Vilniuje ir tapo miesto vaistinės pradžia.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Balinskio vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   global_id: t-173117
   teiginys: 'Po karaliaus Aleksandro mirties Aleksandras Balinskis kalėjo Vilniuje iki Žygimanto atvykimo.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -95,7 +95,7 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   global_id: t-173118
   teiginys: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktą apie asmenį.'
-  susije_objektai: 'location: Gniezno; location: Krokuva; location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'location: Gniezno; location: Krokuva; location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Gniezno; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Lietuva; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Viena; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Vilnius'
   pagrindžia:
     - c-003
@@ -403,14 +403,10 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 - Aleksandras Balinskis keliavo_i [[objektai/vietos/Lietuva]]
 - Aleksandras Balinskis keliavo_i [[objektai/vietos/Viena]]
 - Aleksandras Balinskis keliavo_i [[objektai/vietos/Vilnius]]
-- Aleksandras Balinskis susije_su [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]]
 - Aleksandras Balinskis susije_su [[objektai/asmenys/Jokūbas Šimkevičius]]
-- Aleksandras Balinskis susije_su [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas)]]
 - Aleksandras Balinskis susije_su [[objektai/asmenys/Juozapas Zavadskis]]
 - Aleksandras Balinskis susije_su [[objektai/asmenys/Kazimieras Kontrimas]]
 - Aleksandras Balinskis susije_su [[objektai/grupes/Lietuviai]]
-- Aleksandras Balinskis susije_su [[objektai/autoriai/Mykolas Balinskis]]
-- Aleksandras Balinskis susije_su [[objektai/asmenys/Vaižgantas]]
 - Aleksandras Balinskis susije_su [[objektai/vietos/Vilnius]]
 - Aleksandras Balinskis susije_su [[objektai/grupes/Šubravcų draugija]]
 - [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]] priklause Aleksandras Balinskis

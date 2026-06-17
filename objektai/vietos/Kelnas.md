@@ -15,7 +15,6 @@ tags:
   - kunigas
   - ordinas
   - vieta
-  - vyskupas
 amziai:
   - 'XIII'
 ---
@@ -32,7 +31,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   global_id: t-58448
   teiginys: 'Albertas Didysis mirė Kelne.'
   sudarymo_pagrindimas: 'Pradžia „tais pačiais metais“ yra kontekstinė ir be citatos aplinkos neaiški.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas Didysis|Albertas Didysis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas Didysis|Albertas Didysis]]'
   pagrindžia:
     - c-003
 
@@ -41,7 +40,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   global_id: t-58449
   teiginys: 'Netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatą apie mūšį prie Kelno.'
-  susije_objektai: 'territory: Kaimas; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_place: Kaimas'
   pagrindžia:
     - c-002
 
@@ -50,7 +49,7 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   global_id: t-58450
   teiginys: 'Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Kelne vykusius Alberto Didžiojo gyvenimo faktus.'
-  susije_objektai: 'location: Kelnas; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas Didysis|Albertas Didysis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vokietija'
+  susije_objektai: 'location: Kelnas; mentioned_person: [[objektai/asmenys/Albertas Didysis|Albertas Didysis]]; mentioned_place: Vokietija'
   semantiniai_rysiai: '[[objektai/asmenys/Albertas Didysis|Albertas Didysis]] mirė Kelnas'
   temporaliniai_duomenys: 'mirties data: 1280 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas“, o ne visam objekto laikotarpiui.'

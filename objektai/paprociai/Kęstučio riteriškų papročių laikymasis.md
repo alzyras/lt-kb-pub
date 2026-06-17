@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-31523
   teiginys: 'Nuolatiniai susidūrimai karuose su vakarų Europos riteriais Kęstutį išmokė riteriškų papročių, kurių jis griežtai laikėsi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-31524
   teiginys: 'Priešų kronikos pabrėžė Kęstučio riteriškas ypatybes, taurius papročius ir kovos meną.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis|Kęstutis buvo vyras karingas ir tiesiakalbis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/Kęstutis buvo vyras karingas ir tiesiakalbis|Kęstutis buvo vyras karingas ir tiesiakalbis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
 

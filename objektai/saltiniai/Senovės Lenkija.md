@@ -28,7 +28,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   global_id: t-88331
   teiginys: 'Vienas iš trijų veikalo „Senovės Lenkija“ tomų skirtas LDK istoriniam topografiniam aprašymui.'
   sudarymo_pagrindimas: 'Pirminis teiginys turi OCR triukšmo, bet citata palaiko šį faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -37,7 +37,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   global_id: t-88332
   teiginys: 'Michałas Balińskis Varšuvoje parašė enciklopedinį leidinį „Senovės Lenkija“.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus veiksmą ir leidinio pobūdį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Lenkija; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1841 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko autoriaus veiksmą ir leidinio pobūdį.'

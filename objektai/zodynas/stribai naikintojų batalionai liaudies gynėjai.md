@@ -30,7 +30,7 @@ Kovai su lietuvių partizanais okupacinė valdžia prie NKVD įkūrė „naikint
   global_id: t-70338
   teiginys: 'Nemažai stribų buvo laikomi abejotinos moralės ir neautoritetingais, todėl būrių pavadinimą nutarta keisti iš naikintojų į liaudies gynėjų.'
   sudarymo_pagrindimas: 'Sakinys perrašytas sklandžiau, pašalinant OCR triukšmo įtaką ir išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]'
   pagrindžia:
     - c-002
 

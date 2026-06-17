@@ -43,7 +43,6 @@ Nenurodyta
   global_id: t-93016
   teiginys: 'Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo priklausomas nuo ankstesnio sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvūnas|tėvūnas]]'
   pagrindžia:
     - c-001
 

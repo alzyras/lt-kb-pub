@@ -33,7 +33,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   global_id: t-72026
   teiginys: 'Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku ir yra per daug fragmentiškas.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   semantiniai_rysiai: '[[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]] susiję su Lietuva; [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]] susiję su Maskva'
   pagrindžia:
     - c-001

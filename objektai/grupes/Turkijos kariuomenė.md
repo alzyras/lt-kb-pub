@@ -26,7 +26,7 @@ amziai:
 - t-001
   global_id: t-41184
   teiginys: 'Chotino link artėjusią Turkijos kariuomenę sudarė apie 100000 karių, įskaitant spahius, janičarus, totorius, moldavus ir valakus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/petihorai|petihorai]]; mentioned_place: Chocimas; mentioned_place: Chotinas; mentioned_place: Krymas; mentioned_place: Turkija; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Chocimas; mentioned_place: Chotinas; mentioned_place: Krymas; mentioned_place: Turkija; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 - susijęs iš Sučiava: 1485 m. rugsėjo 19–20 d. Ali-pašos vadovaujama Turkijos kariuomenė puolė Moldavijos sostinę Sučiavą.

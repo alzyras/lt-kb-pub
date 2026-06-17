@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
   global_id: t-60199
   teiginys: 'Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant pažodinę neenciklopedinę formuluotę.'
-  susije_objektai: 'location: Baiga; location: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Baiga; mentioned_place: Viena'
+  susije_objektai: 'location: Baiga; location: Viena; mentioned_place: Baiga; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Ruseinis|Ruseinis]] keliavo į Baiga; [[objektai/asmenys/Ruseinis|Ruseinis]] keliavo į Viena'
   pagrindžia:
     - c-001

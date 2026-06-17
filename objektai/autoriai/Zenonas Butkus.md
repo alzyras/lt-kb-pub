@@ -30,7 +30,7 @@ Nuoširdžiai dėkojame leidinio iniciatoriams, redakcinės kolegijos nariams, s
   global_id: t-19496
   teiginys: 'Zenonas Butkus recenzavo knygą „Lietuvos istorija“.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra padėkos fragmentas, citata remia glaustą teiginį apie vaidmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1990 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra padėkos fragmentas, citata remia glaustą teiginį apie vaidmenį.'

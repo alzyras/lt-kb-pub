@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-40330
   teiginys: 'Mathias Ziindt 1568 m. graviūroje pavaizdavo Gardiną 1567 m. vykusio seimo metu.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, faktinis ir atitinka citatoje pateiktą graviūros aprašą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)|Ulos (Čašnikų) mūšis (1564 m. sausio 23 d.)]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1564 m.; įvykio data: 1567 m.; įvykio data: 1568 m.; įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus, faktinis ir atitinka citatoje pateiktą graviūros aprašą.'

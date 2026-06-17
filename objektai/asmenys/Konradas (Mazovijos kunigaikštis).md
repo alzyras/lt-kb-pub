@@ -15,7 +15,6 @@ tags:
   - didikas
   - kunigaikštis
   - valdovas
-  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59930
   teiginys: 'Konradas sumanė pasikviesti Teutonų namų ordino brolius ginti savo žemės, tikėjimo ir tikinčiųjų, nes Kristaus kariai nesulaukė sėkmės.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Konrado sprendimą ir jo priežastį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Kristaus kariai|Kristaus kariai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Kristaus kariai|Kristaus kariai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lubava'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59931
   teiginys: 'Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į aiškų sakinį apie Konrado veiksmą.'
-  susije_objektai: 'territory: Lenkija; territory: Prūsai; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Prūsai'
+  susije_objektai: 'territory: Lenkija; territory: Prūsai; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Prūsai'
   semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Prūsai'
   pagrindžia:
     - c-002
@@ -53,7 +52,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59932
   teiginys: 'Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Konradą ir paremtas citata.'
-  susije_objektai: 'territory: Livonija; territory: Palenkė; territory: Prūsai; territory: Prūsija; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'territory: Livonija; territory: Palenkė; territory: Prūsai; territory: Prūsija; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Livonija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Palenkė; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Viena'
   pagrindžia:
     - c-005
@@ -63,7 +62,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59933
   teiginys: 'Konradas, žmonai Agotai ir sūnums pritarus, atidavė Teutonų namų ordino broliams Kulmo ir Lubavos žemes bei būsimas atkariautas žemes.'
   sudarymo_pagrindimas: 'Citata pagrindžia dovanojimą; pašalintas puslapio komentarų triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Agota|Agota]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1225 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia dovanojimą; pašalintas puslapio komentarų triukšmas.'

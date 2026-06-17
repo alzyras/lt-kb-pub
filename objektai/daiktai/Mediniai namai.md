@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-87114
   teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie medinių namų gyvenvietę, pašalinant OCR triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

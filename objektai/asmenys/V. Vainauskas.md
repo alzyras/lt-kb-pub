@@ -22,7 +22,7 @@ Vainauską ir P. Vainauskas, vyresniojo padėjėju — P.
   global_id: t-40491
   teiginys: 'V. Vainauskas su P. Lukšiu ir 8 kareiviais užėjo bolševikams į užnugarį ir privertė juos trauktis į Juodikio mišką.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Paobeliai'
   pagrindžia:
     - c-002
 

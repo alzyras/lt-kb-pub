@@ -46,7 +46,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   global_id: t-90459
   teiginys: 'Viena priežasčių, dėl kurių Ispanija ir Portugalija neteko lyderių pozicijų, – per geras gyvenimas: iš Lotynų Amerikos plukdomas auksas neskatino plėtoti savų miestų ir jų ekonomikos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir pagrįstas citatos vertinimu apie Ispaniją ir Portugaliją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Anglija; mentioned_place: Portugalija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Anglija; mentioned_place: Portugalija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1588 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir pagrįstas citatos vertinimu apie Ispaniją ir Portugaliją.'
@@ -58,7 +58,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
   global_id: t-90460
   teiginys: 'XVI a. geopolitiniu požiūriu Europoje Ispanijai neprilygo nė viena valstybė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Ispaniją ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Europa; mentioned_place: Portugalija; mentioned_place: Viduržemio jūra; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saulė|Saulė]]; mentioned_place: Europa; mentioned_place: Portugalija; mentioned_place: Viduržemio jūra; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - t-004
   global_id: t-90461
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,7 @@ O kas nutiko didžiųjų geografinių atradimų pionierėms Portugalijai ir Ispa
 - t-006
   global_id: t-90464
   teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį, o Ispanija žygio į Angliją nebekartojo.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Nenugalimosios armados nesėkmė|Nenugalimosios armados nesėkmė]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Anglija; mentioned_place: Portugalija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Nenugalimosios armados nesėkmė|Nenugalimosios armados nesėkmė]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Anglija; mentioned_place: Portugalija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1588 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

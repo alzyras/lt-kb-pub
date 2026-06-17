@@ -16,7 +16,6 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
-  - vyskupas
 amziai:
   - 'XI'
   - 'XIII'
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-88537
   teiginys: 'Cistersų ordinas kronikos chronologiniame sąraše siejamas su 1097 Viešpaties metais.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Švento Jono ligoninės ordinas|Švento Jono ligoninės ordinas]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   pagrindžia:
     - c-001
 

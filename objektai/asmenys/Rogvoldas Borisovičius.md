@@ -30,7 +30,7 @@ Kunigaikštis Rostislavas, kunigaikščio Rogvoldo Borisovičiaus sūnus.
   global_id: t-87846
   teiginys: 'Rogvoldas Borisovičius buvo Polocko Riuriko giminės kunigaikščio Rostislavo tėvas.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra fragmentas be tarinio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 

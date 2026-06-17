@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-59398
   teiginys: 'Pomandas apsimetė tikėjimo priešu ir paskatino Varmės, Notangos bei Bartos karius apsupti Baigos pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda antrašte ir silpnu fragmentu, citata pagrindžia tikslesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Notanga; mentioned_place: Partigala; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Notanga; mentioned_place: Partigala; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

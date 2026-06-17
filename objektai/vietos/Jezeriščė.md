@@ -44,7 +44,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko trumpą maršruto faktą, bet pradinis teiginys turi OCR klaidų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Polockas'
   pagrindžia:
     - c-002
 - susijęs iš Usviatai: 1580 m. Kristupas Radvila dalyvavo paimant Usviatų tvirtovę.

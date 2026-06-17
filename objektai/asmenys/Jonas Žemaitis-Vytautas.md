@@ -31,7 +31,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   global_id: t-18997
   teiginys: 'Jonas Žemaitis-Vytautas buvo išrinktas LLKS Tarybos prezidiumo pirmininku ir gavo partizanų generolo laipsnį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Joną Žemaitį-Vytautą ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Kaunas; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Joną Žemaitį-Vytautą ir atitinka citatos informaciją.'
@@ -43,7 +43,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   global_id: t-18998
   teiginys: '1953 m. pavasarį užverbuoti agentai išdavė Joną Žemaitį-Vytautą, o po pusantrų metų tardymų jis buvo sušaudytas Maskvos Butyrkų kalėjime.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį, laiką ir pasekmę, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Maskva; mentioned_place: Sibiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Maskva; mentioned_place: Sibiras'
   temporaliniai_duomenys: 'įvykio data: 1951 m.; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako įvykį, laiką ir pasekmę, o citata tai patvirtina.'
@@ -55,7 +55,7 @@ LLKS Tarybos prezidiumo pirmininku išrinktas kadrinis kariškis Jonas Žemaitis
   global_id: t-18999
   teiginys: 'Joną Žemaitį-Vytautą kameroje lankė SSRS saugumo maršalas Lavrentijus Berija.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Lavrentijus Berija|Lavrentijus Berija]]; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Lavrentijus Berija|Lavrentijus Berija]]; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1951 m.; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'

@@ -14,7 +14,6 @@ tags:
   - kunigaikštis
   - pilis
   - privilegija
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -31,7 +30,7 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   global_id: t-86063
   teiginys: '1396 m. Vilniuje surašyta privilegija Vytautas dovanojo Vilniaus katedros kapitulai Cudzeniškių valdą prie Medininkų pilies.'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai stringa, bet citata palaiko aiškų perrašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys gramatiškai stringa, bet citata palaiko aiškų perrašymą.'

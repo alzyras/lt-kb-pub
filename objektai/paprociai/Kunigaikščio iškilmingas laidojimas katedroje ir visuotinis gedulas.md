@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-87276
   teiginys: 'Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.'
   sudarymo_pagrindimas: 'Pirminis teiginys kalba apie asmens savybes, bet citata geriau pagrindžia laidojimo ir gedulo faktą.'
-  susije_objektai: 'location: Kernavė; location: Krėva; location: Lietuva; location: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Aleksandras Vygantas|Aleksandras Vygantas]]; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'location: Kernavė; location: Krėva; location: Lietuva; location: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Aleksandras Vygantas|Aleksandras Vygantas]]; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

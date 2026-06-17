@@ -21,7 +21,7 @@ tags:
   global_id: t-41549
   teiginys: 'Prie informacinio bloko „Lietuvos kariuomenės organizacija ir permainos XVII a.“ nurodyti Lina Vidauskytė, Andžej Geglis ir Karolis Zikaras.'
   sudarymo_pagrindimas: 'Citata yra fragmentiška, todėl teiginys sutvarkytas kaip pilnas sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
   pagrindžia:
     - c-001
 

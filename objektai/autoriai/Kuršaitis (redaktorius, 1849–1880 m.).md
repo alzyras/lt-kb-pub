@@ -37,7 +37,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   global_id: t-11074
   teiginys: 'Kuršaičio „Keleivis“ ragino lietuvius uoliai dalyvauti rinkimuose.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūko note objekto, o citata jį aiškiai susieja su Kuršaičiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Kuršaitis|Kuršaitis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-002
 
@@ -45,7 +45,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
 - t-002
   global_id: t-11075
   teiginys: 'Kuršaitis redagavo lietuvišką laikraštį „Keleivį“ ir buvo Karaliaučiaus lietuvių seminarijos profesorius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/autoriai/Kuršaitis|Kuršaitis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]'
   temporaliniai_duomenys: 'įvykio data: iki 1880 m.; įvykio data: 1880 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -56,7 +56,7 @@ Kuršaitis šiame šaltinyje minimas kaip redaktorius, profesorius; jam priskiri
   global_id: t-11076
   teiginys: 'Prof. Kuršaitis 1849–1880 m. su valdžios parama leido laikraštį „Keleivis“.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti tikslesnį sakinį su leidybos laikotarpiu ir valdžios parama.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/autoriai/Kuršaitis|Kuršaitis]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1832 m.; įvykio data: 1849-1880; įvykio data: 1880 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti tikslesnį sakinį su leidybos laikotarpiu ir valdžios parama.'

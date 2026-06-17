@@ -24,7 +24,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   global_id: t-40452
   teiginys: 'T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį žodį ir išlaikyti aiškų faktą iš citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Dambrava; mentioned_place: Dauguva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Dambrava; mentioned_place: Dauguva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   global_id: t-40454
   teiginys: 'Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyta šaltinyje esanti atsargi formuluotė.'
-  susije_objektai: 'territory: Dambrava; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_place: Dambrava'
+  susije_objektai: 'territory: Dambrava; mentioned_place: Dambrava'
   semantiniai_rysiai: '[[objektai/asmenys/T. Dambrava|T. Dambrava]] buvo valdovas Dambrava'
   pagrindžia:
     - c-003

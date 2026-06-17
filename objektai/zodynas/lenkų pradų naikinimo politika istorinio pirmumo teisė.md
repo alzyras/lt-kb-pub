@@ -24,7 +24,7 @@ L I E T U V O S I S T O R I J A 106 Caro valdžia: „Čia nebus Lenkijos“ Po 
   global_id: t-77811
   teiginys: 'Po sukilimo caro valdžia buvusiose LDK žemėse pradėjo „lenkų pradų naikinimo“ politiką, grįstą „istorinio pirmumo“ teise.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir puslapio triukšmas, išlaikyti abu note objektai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_object: [[objektai/posakiai/„Čia nebus Lenkijos“|„Čia nebus Lenkijos“]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/posakiai/„Čia nebus Lenkijos“|„Čia nebus Lenkijos“]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Liublinas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -29,7 +29,7 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
   teiginys: 'Belčicoje buvo vyrų vienuolynas, įkurtas XI ir XII a. riboje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sukonkretintas pagal citatą, vietoj silpnos nuorodos į paminėjimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -39,7 +39,7 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
   teiginys: 'Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys turi aiškų subjektą ir predikatą, o Belčicos padėtis perteikta pagal citatą. Atribucija nebūtina, nes tai geografinė pastaba.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dauguva; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
   teiginys: 'Belčica yra upelis prie Polocko, iš pietų įtekantis į Dauguvą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas sakinys apie Belčicą ir sutampa su šaltinio geografine informacija. Nepalikta neaiškių fragmentų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dauguva'
+  susije_objektai: 'mentioned_place: Dauguva'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Belčica yra upelis, įtekantis į Dauguvą iš pietų priešais Polocką. Belč
   teiginys: 'Belčicos vyrų vienuolynas, įkurtas XI ir XII a. sandūroje, XII a. turėjo keturias Boriso ir Glebo cerkves.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'OCR forma „riboje“ pakeista sklandesne lietuviška formuluote, išlaikant tą pačią datą ir skaičių. Nepridėta duomenų apie vienuolyno statusą ar vietą už citatos ribų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

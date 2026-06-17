@@ -40,9 +40,9 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie nurodytą įvykį.'
-  susije_objektai: 'territory: Belskas; territory: Drohičinas; territory: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Belskas; mentioned_place: Drohičinas; mentioned_place: Mazovija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1440 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas buvo valdovas Belskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas buvo valdovas Drohičinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Belskas; mentioned_place: Drohičinas; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1440 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie nurodytą įvykį.'
   pagrindžia:
     - c-001

@@ -21,7 +21,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   global_id: t-02538
   teiginys: 'Lauksodyje veikė viena iš mažesnių jėzuitų mokyklų.'
   sudarymo_pagrindimas: 'Sąrašo fragmentas paverstas glaustu faktu apie vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Brasta; mentioned_place: Sluckas; mentioned_place: Viena; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Brasta; mentioned_place: Sluckas; mentioned_place: Viena; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
 

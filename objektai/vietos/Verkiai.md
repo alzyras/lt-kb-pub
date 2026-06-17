@@ -41,7 +41,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   global_id: t-119672
   teiginys: 'Valdovo draudimas neleido naudoti plaustų per Nerį tarp Verkių kaimo ir Panerių kaimo.'
   sudarymo_pagrindimas: 'Citata remia aiškų faktą apie draudimą tarp Verkių ir Panerių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Neris; mentioned_place: Paneriai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Neris; mentioned_place: Paneriai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
   global_id: t-119674
   teiginys: '1387 m. vasario 17 d. Jogaila Vilniaus katedrai ir steigiamajai vyskupijai užrašė Verkus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Tauragnai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Tauragnai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
@@ -79,7 +79,7 @@ Jo pastangomis buvo pastatyta ir dabar tebestovinti gražioji Vilniaus katedra i
 - t-006
   global_id: t-119676
   teiginys: 'Per Viliją tarp Verkių ir Panerių buvo uždrausta naudoti plaustus perkėlimui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75845|Ignotas Masalskis]]: 1769 m. Martynas Knakfusas tapo Vilniaus vyskupo Ignoto Masalskio architektu ir pradėjo statyti jo rūmus Verkiuose.

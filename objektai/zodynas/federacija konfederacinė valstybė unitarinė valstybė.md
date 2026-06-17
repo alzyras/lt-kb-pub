@@ -30,7 +30,7 @@ Išliko ne tik atskiras LDK valstybės titulas ir teritorija, bet ir atskira vyk
   global_id: t-22144
   teiginys: 'LDK turėjo atskirą valstybės titulą, teritoriją, vykdomąją valdžią, iždą, kariuomenę, teismus ir teisinę sistemą.'
   sudarymo_pagrindimas: 'Pradiniam teiginiui trūko aiškaus sakinio subjekto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Didžioji Lenkija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1588 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniam teiginiui trūko aiškaus sakinio subjekto.'

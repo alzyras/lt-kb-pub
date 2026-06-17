@@ -31,7 +31,7 @@ Eidintas A. Eidintas A., Senn A.
   global_id: t-19391
   teiginys: 'A. Eidintas parašė knygą „Antanas Smetona ir jo aplinka“, išleistą Vilniuje 2012 m.'
   sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, patvirtinantis autorystę ir leidimo duomenis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2012 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra bibliografinis įrašas, patvirtinantis autorystę ir leidimo duomenis.'

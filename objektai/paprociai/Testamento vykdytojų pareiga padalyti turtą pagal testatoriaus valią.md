@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87304
   teiginys: 'Testatorius prašė sosto įpėdinio ir abiejų valstybių luomų tarybų netrukdyti padalyti jo turtų pagal pareikštą valią.'
   sudarymo_pagrindimas: 'Citata pagrindžia pareigą padėti vykdyti testatoriaus valią; pašalintas perteklinis ir nutrūkęs tekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-001
 

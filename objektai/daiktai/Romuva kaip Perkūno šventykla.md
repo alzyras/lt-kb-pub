@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-87093
   teiginys: 'Romuva buvo laikoma Perkūno šventykla ir vyriausiojo vaidilos Krivių Krivaičio pagrindine buveine.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti kontekstinę pradžią ir OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_place: Romuva; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_place: Ariogala; mentioned_place: Raseiniai; mentioned_place: Romuva; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-001
 

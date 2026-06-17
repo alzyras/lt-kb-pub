@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: 'Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako įvykį ir yra pagrįstas citatos duomenimis.'
-  susije_objektai: 'territory: Pomeranija; territory: Prūsija; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Pomeranija; territory: Prūsija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

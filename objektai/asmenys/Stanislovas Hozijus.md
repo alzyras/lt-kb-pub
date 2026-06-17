@@ -32,7 +32,7 @@ Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į tiesioginį faktinį sakinį, pašalinant perteklinę atribuciją.'
-  susije_objektai: 'object: Braunsbergas; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Braunsbergas'
+  susije_objektai: 'object: Braunsbergas; mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Braunsbergas'
   semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Hozijus|Stanislovas Hozijus]] pastatė Braunsbergas'
   temporaliniai_duomenys: 'pastatymo data: 1568 m.; pastatymo data: 1644 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Hozijus pastatė Braunsbergas“, o ne visam objekto laikotarpiui.'

@@ -28,7 +28,7 @@ Birželio 27-ąją Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordat
   global_id: t-75472
   teiginys: '1940 m. birželio 27 d. Liaudies vyriausybė panaikino Lietuvos ir Vatikano konkordatą.'
   sudarymo_pagrindimas: 'Teiginyje trūksta metų, kuriuos leidžia nustatyti citatos kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Vatikanas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Vatikanas'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginyje trūksta metų, kuriuos leidžia nustatyti citatos kontekstas.'

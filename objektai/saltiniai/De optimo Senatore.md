@@ -23,7 +23,7 @@ tags:
   global_id: t-88415
   teiginys: 'Laurynas Goślickis labiausiai išgarsėjo lotyniškai parašyta knyga „De optimo Senatore“, kuri buvo išversta į anglų kalbą.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs ir su kabučių problema, o citata pagrindžia aiškų faktą apie veikalo reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/autoriai/Ossoliński|Ossoliński]]; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ossoliński|Ossoliński]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
 

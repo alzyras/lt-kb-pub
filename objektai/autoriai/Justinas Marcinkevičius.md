@@ -23,7 +23,7 @@ Kadangi iniciatyvinę grupę sudarė visoje šalyje žinomi inteligentai ir jų 
   teiginys: 'Justinas Marcinkevičius buvo tarp garsių visuomenės veikėjų, parėmusių LPS iniciatyvinės grupės tautinio atgimimo idėjas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Justiną Marcinkevičių su citatoje minima parama.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Marcinkevičius|Marcinkevičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

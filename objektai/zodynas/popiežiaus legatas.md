@@ -10,7 +10,6 @@ tags:
   - ordinas
   - popiežius
   - sąvoka
-  - vyskupas
 ---
 # popiežiaus legatas
 
@@ -25,10 +24,9 @@ Taip pat mūsų pirmtakas karalius Vytenis buvo pasiun­ tęs savo laišką ponu
   global_id: t-86569
   teiginys: 'Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Prūsija; territory: Ryga; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija; mentioned_place: Ryga'
+  susije_objektai: 'territory: Prūsija; territory: Ryga; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
 - susijęs iš [[objektai/asmenys/Pisonas.md#claim-t-186248|Pisonas]]: Popiežiaus legatas Pisonas buvo pasiųstas iš Romos sutaikyti Žygimantą su Vasilijumi ir sustojo Vilniuje prieš kelionę į Maskvą.
 - susijęs iš [[objektai/asmenys/Trepka.md#claim-t-186168|Trepka]]: Lenkų bajoras Trepka, mokėjęs italų ir vengrų kalbas, išvyko pranešti Glinskiui karaliaus valią.
 - susijęs iš [[objektai/paprociai/Pasienio kelių saugojimas ir keleivių kratymas.md#claim-t-185921|Pasienio kelių saugojimas ir keleivių kratymas]]: Vasilijus įsakė budriau saugoti visus pasienio kelius ir rūpestingai kratyti visų keleivių drabužius bei nešulius.

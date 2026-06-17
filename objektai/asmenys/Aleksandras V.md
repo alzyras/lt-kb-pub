@@ -22,7 +22,7 @@ Inocentas VII, Gregorijus XII ir Aleksandras V parem­ davo Vytautą prieš Ordi
   global_id: t-35010
   teiginys: 'Aleksandras V rėmė Vytautą prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus (Vladimiro vyskupas)|Gregorijus (Vladimiro vyskupas)]]; mentioned_person: [[objektai/asmenys/Gregorijus XII|Gregorijus XII]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXIII|Jonas XXIII]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]; mentioned_person: [[objektai/asmenys/Gregorijus XII|Gregorijus XII]]; mentioned_person: [[objektai/asmenys/Jonas XXIII|Jonas XXIII]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Gregorijus XII.md#claim-t-35086|Gregorijus XII]]: Gregorijus XII rėmė Vytautą prieš Ordiną.

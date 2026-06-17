@@ -29,7 +29,7 @@ Kada buvo bandoma į sąjungą (koaliciją) prieš Mindaugą ir Vykintą Įtrauk
   global_id: t-31559
   teiginys: 'Posakis „jako tebe delia mir atvorim so Vykyntom, zane brat’ju našu mnogu pogubi“ Ipatijaus kronikoje siejamas su 1248 m. Rygos vyskupo laišku Danieliui Romanaičiui.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja posakį su Ipatijaus kronikoje perduotu Rygos vyskupo laišku.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/autoriai/St. Zajączkowski|St. Zajączkowski]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/St. Zajączkowski|St. Zajączkowski]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1248 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja posakį su Ipatijaus kronikoje perduotu Rygos vyskupo laišku.'

@@ -31,7 +31,7 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
 - t-001
   global_id: t-97447
   teiginys: '1317 m. popiežius Jonas XXII paragino Gediminą krikštytis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1317 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -42,7 +42,7 @@ Jau 1317 m. Gediminas iš popiežiaus Jono XXII buvo gavęs raginimą krikštyti
   global_id: t-97448
   teiginys: 'Popiežius Jonas XXII 1317 m. ragino Gediminą krikštytis.'
   sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina Jono XXII veiksmą Gedimino atžvilgiu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1317 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai patvirtina Jono XXII veiksmą Gedimino atžvilgiu.'

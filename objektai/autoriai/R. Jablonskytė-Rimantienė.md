@@ -21,7 +21,7 @@ Jablonskytė - Rimantienė pateikė duomenų apie seniausias akmens amžiaus sto
   global_id: t-30938
   teiginys: 'R. Jablonskytė-Rimantienė pateikė duomenų apie seniausias akmens amžiaus stovyklas Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir tiesiogiai paremtas citatos formuluote.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_person: [[objektai/autoriai/V. Urbanavičius|V. Urbanavičius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_author: [[objektai/autoriai/V. Urbanavičius|V. Urbanavičius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš O drevuejšich kul’turnych oblastjach na territorii Litvy: R. Jablonskytė-Rimantienė straipsnį „O drevuejšich kul’turnych oblastjach na territorii Litvy“ paskelbė 1955 m. žurnalo „Sovetskaja Etnografija“ 3 tome.

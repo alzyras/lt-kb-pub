@@ -23,7 +23,7 @@ tags:
   global_id: t-80639
   teiginys: 'Perkeltas į lenkų frontą 6-asis pėstininkų pulkas Vidugirių kaime susitiko su nuo vasaros vidurio kovojusiu savo I batalionu.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje yra neaiški įvardžio nuoroda, todėl sakinys perrašytas aiškiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas; mentioned_place: Vidugiriai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas; mentioned_place: Vidugiriai'
   pagrindžia:
     - c-001
 

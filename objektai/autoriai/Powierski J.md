@@ -29,7 +29,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   global_id: t-60506
   teiginys: 'J. Powierski cituojamas aiškinant Ordino konvento ir krašto magistro Hermano Balko įsikūrimą Nesavos pilyje.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su Nesavos pilies epizodo aiškinimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas Balkas|Hermanas Balkas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]'
   pagrindžia:
     - c-005
 
@@ -59,7 +59,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   global_id: t-60509
   teiginys: 'J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su mitologinio aiškinimo tema.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šventasis ąžuolas|Šventasis ąžuolas]]; mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_object: [[objektai/daiktai/Šventasis ąžuolas|Šventasis ąžuolas]]; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   global_id: t-60512
   teiginys: 'J. Powierskio darbai nurodyti tarp literatūros apie Romovę arba Romuvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia tik tai, kad Powierskio darbai įtraukti į literatūros sąrašą apie Romovę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
   pagrindžia:
     - c-002
 
@@ -89,7 +89,7 @@ Dusburgietis teigia, kad 4—46, 66, 96—98, 115, 127, 191 — 194; Powierski J
   global_id: t-60513
   teiginys: 'J. Powierski cituojamas aiškinant Hugono Butyro kovas su prūsais ir galimą jo bazę Kulme.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus ryšį su Hugono Butyro veiklos aiškinimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Hugonas|Hugonas]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Olandija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Mazovija; mentioned_place: Olandija'
   temporaliniai_duomenys: 'įvykio data: po 1146 m.; įvykio data: 1146 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko autoriaus ryšį su Hugono Butyro veiklos aiškinimu.'

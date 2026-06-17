@@ -67,7 +67,7 @@ Nenurodyta
 - t-003
   global_id: t-35959
   teiginys: 'Vytautas Lietuvoje statė ne tik bažnyčias, bet ir vienuolynus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Drahočynas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Domininkonų ordinas|Domininkonų ordinas]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_place: Drahočynas; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 

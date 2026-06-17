@@ -28,7 +28,7 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
   teiginys: '1433 m. sausio 30–vasario 9 d. Livonijos kariuomenė nežygiavo link Molodečno ir surengė reidą po šiaurės rytų Lietuvą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia nurodyti datą ir veiksmą, todėl teiginys tampa informatyvesnis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1433 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia nurodyti datą ir veiksmą, todėl teiginys tampa informatyvesnis.'
@@ -41,7 +41,7 @@ Molodečnas yra miestas apie 110 km į rytus nuo Vilniaus ir apie 30 km į rytus
   teiginys: 'Kurenecas lokalizuojamas į šiaurę nuo Molodečno kaip planuota Livonijos kariuomenės ir Švitrigailos susijungimo vieta.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti išsamesnį faktą apie ryšį su Molodečnu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kurenecas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Kurenecas; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 

@@ -31,7 +31,7 @@ amziai:
   global_id: t-88509
   teiginys: '1431 m. gruodžio 31 d. laiške didžiajam magistrui Švitrigaila pranešė priėmęs Friedrichą von Bebirsteiną į savo dvariškių būrį.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį faktą apie laiško turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Silezija; mentioned_place: Vilnius; mentioned_place: Vokietija; mentioned_place: Vroclavas'
   temporaliniai_duomenys: 'įvykio data: 1431 m.; įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretesnį faktą apie laiško turinį.'

@@ -20,7 +20,7 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
 - t-001
   global_id: t-30624
   teiginys: 'Guagnini kartu su Herbersteinu ir Lasiciu pateikė netikslių XVI a. žinių, kad Žemaičiuose naudoti tik mediniai arklų noragai.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Noragai|Noragai]]; mentioned_object: [[objektai/zodynas/Ašvienis|Ašvienis]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Noragai|Noragai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.

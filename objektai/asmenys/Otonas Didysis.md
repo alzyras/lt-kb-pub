@@ -24,7 +24,7 @@ Visoje Italijoje Otono Didžiojo laikais miestai, jau pajutę savo galią, nusik
   global_id: t-87814
   teiginys: 'Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/Municipalinė teisėtvarka|Municipalinė teisėtvarka]]; mentioned_place: Italija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Italija'
   pagrindžia:
     - c-001
 

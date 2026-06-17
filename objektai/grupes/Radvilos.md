@@ -36,7 +36,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   global_id: t-74888
   teiginys: 'Po Mikalojaus Radvilos Juodojo mirties kalvinistinei reformacijai vadovavo jo pusbrolis Mikalojus Radvila Rudasis.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau būtų apie Radvilas, o ne apie Biržų evangelikus reformatus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Rudasis|Mikalojus Radvila Rudasis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Biržai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Rudasis|Mikalojus Radvila Rudasis]]; mentioned_place: Biržai'
   pagrindžia:
     - c-002
 
@@ -45,7 +45,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   global_id: t-74889
   teiginys: 'Mikalojus Radvila Juodasis 1553 m. Brastoje įkūrė spaustuvę.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir be skliaustų triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila Juodasis|Mikalojus Radvila Juodasis]]; mentioned_place: Brasta; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Zabluduvas'
   temporaliniai_duomenys: 'įkūrimo data: 1553 m.; įkūrimo data: 1569 m.; įkūrimo data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir be skliaustų triukšmo.'
@@ -72,7 +72,7 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir paliktas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'pastatymo data: 1545 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir paliktas aiškus faktinis sakinys.'
@@ -346,3 +346,6 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
   statusas: verified
   pagrindžia:
     - t-004
+
+## Ryšiai
+- Radvilos dalyvavo_musyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]

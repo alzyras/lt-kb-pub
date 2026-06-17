@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-77908
   teiginys: 'Targovicos konfederacijos aktas buvo surašytas Peterburge ir paskelbtas 1792 m. gegužės 14 d.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie akto surašymą ir paskelbimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Jekaterina II|Jekaterina II]]; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Targovica'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie akto surašymą ir paskelbimą.'

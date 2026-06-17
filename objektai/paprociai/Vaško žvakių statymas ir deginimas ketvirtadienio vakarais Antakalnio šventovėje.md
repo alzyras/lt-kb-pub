@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-55159
   teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, stovėjo medinė šventovė, pašvęsta visiems lietuvių dievams.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet citata leidžia tiksliau nurodyti vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-81869
   teiginys: 'Antakalnio šventovėje, skirtoje lietuvių dievams, dvasininkai ketvirtadienio vakarais statydavo ir degindavo vaško žvakes.'
   sudarymo_pagrindimas: 'Citata remia aiškų faktinį teiginį be kabučių ir bibliografinio triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Antakalnis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Antakalnis; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

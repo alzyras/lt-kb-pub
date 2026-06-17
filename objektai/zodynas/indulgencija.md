@@ -29,10 +29,10 @@ Martynas V pa­ skyrė Vytautą vikaru Rusijos kraštuose ir Livonijos vyskupij�
 - t-001
   global_id: t-36782
   teiginys: 'Martynas V suteikė indulgencijų Vytautui ir jo patarėjams.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kontribucija|kontribucija]]; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kamiencas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kamiencas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Rusija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/jubiliejus.md#claim-t-58906|jubiliejus]]: Per jubiliejų popiežius Bonifacas suteikė visišką nuodėmių atleidimą lankantiems apaštalų Petro ir Pauliaus šventoves.
+
 ## Reikšmingi paminėjimai
 
 - c-001

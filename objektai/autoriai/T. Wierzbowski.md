@@ -23,7 +23,7 @@ Wierzbowski), ar Didįjį Reformų (Ketverių metų) seimą (W.
 - t-001
   global_id: t-31014
   teiginys: 'T. Wierzbowskis tyrinėjo Edukacinę Komisiją bendruose Respublikos istorijos rėmuose.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/poliublininiai laikai|poliublininiai laikai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/poliublininiai laikai|poliublininiai laikai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

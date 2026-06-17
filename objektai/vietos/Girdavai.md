@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo palikta Girdavų pilis Tuo metu387 
   global_id: t-58552
   teiginys: 'Girdavas Bartos žemėje turėjo pilį, nuo jo vardo pavadintą Girdavais.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Girdavus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Girdavas|Girdavas]]; mentioned_place: Barta; mentioned_place: Pelplinas; mentioned_place: Tepliava; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Pelplinas; mentioned_place: Tepliava; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas faktinis sakinys apie Girdavus ir paremtas citata.'

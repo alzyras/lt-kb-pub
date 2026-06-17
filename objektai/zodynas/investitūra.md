@@ -25,7 +25,7 @@ tags:
   susije_objektai: 'mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/ciesorius.md#claim-t-36772|ciesorius]]: Zigmanto šalininkas teigė, kad ir neapkarūnuotas ciesorius turi teisę teikti investitūrą karaliams.
+
 ## Reikšmingi paminėjimai
 
 - c-001

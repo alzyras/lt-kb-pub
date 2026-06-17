@@ -28,7 +28,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   global_id: t-78196
   teiginys: 'Leibgvardijos lietuviškojo pėstininkų pulko atsarginės dalys buvo prie Vilniaus, o pagrindinė dalis slopino sukilimą Lenkijoje.'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas, gramatiškas ir tiksliai perteikia citatos faktą apie pulko dalių padėtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Lenkija; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
 
@@ -36,7 +36,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - t-002
   global_id: t-78197
   teiginys: 'Leibgvardijos lietuviškasis pėstininkų pulkas sudarė dalį kautynėms paruoštos Rusijos kariuomenės pagrindo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

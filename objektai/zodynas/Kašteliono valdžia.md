@@ -30,7 +30,7 @@ Išsi­ laisvinę nuo nepakeliamos kašteliono valdžios, Lenkijos mies­ tai, s
   global_id: t-86633
   teiginys: 'Išsivadavę iš kašteliono valdžios, Lenkijos miestai įgijo atleidimą nuo duoklių, savo teisėtvarką ir atskirą miesto valdymą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir paremtas citata apie kašteliono valdžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Haličas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

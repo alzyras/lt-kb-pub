@@ -30,14 +30,13 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   global_id: t-58706
   teiginys: '1311 m. sausio 6 d. Romos karalius Henrikas prie Milano buvo vainikuotas geležiniu vainiku.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]'
   temporaliniai_duomenys: 'įvykio data: 1311 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
-- susijęs iš [[objektai/daiktai/Geležinis vainikas.md#claim-t-59684|Geležinis vainikas]]: 1311 m. sausio 6 d. prie Milano Romos karalius Henrikas buvo vainikuotas geležiniu vainiku.
 - susijęs iš [[objektai/zodynas/Machiavellio mokslas.md#claim-t-02946|Machiavellio mokslas]]: Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.
 - susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
 - susijęs iš [[objektai/asmenys/Henrikas VII.md#claim-t-59978|Henrikas VII]]: 1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku.
@@ -76,6 +75,4 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Bona]] buvo_valdovas Milanas
-- [[objektai/autoriai/Henrikas]] buvo_valdovas Milanas
-- [[objektai/autoriai/Machiavellio]] buvo_valdovas Milanas
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Milanas

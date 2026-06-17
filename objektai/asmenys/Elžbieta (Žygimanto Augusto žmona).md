@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - seimas
-  - valstybė
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -34,7 +33,7 @@ periodo_grupes:
   global_id: t-173147
   teiginys: '1545 m. liepos 17 d. karalienės Elžbietos mirtis nuliūdino rūmus ir Vilniaus miesto gyventojus.'
   sudarymo_pagrindimas: 'Teiginys turi būti apie Elžbietą, o ne daugiausia apie Žygimanto Augusto atvykimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Brasta; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_place: Brasta; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1545 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi būti apie Elžbietą, o ne daugiausia apie Žygimanto Augusto atvykimą.'
@@ -46,7 +45,7 @@ periodo_grupes:
   global_id: t-173148
   teiginys: 'Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, palikti citatos pagrįsti faktai.'
-  susije_objektai: 'location: Trakai; location: Vengrija; location: Vilnius; location: Čekija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
+  susije_objektai: 'location: Trakai; location: Vengrija; location: Vilnius; location: Čekija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Trakai; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Vengrija; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Vilnius; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Čekija'
   temporaliniai_duomenys: 'mirties data: 1543 m.; mirties data: 1545 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Vengrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Čekija“, o ne visam objekto laikotarpiui.'
@@ -59,7 +58,7 @@ periodo_grupes:
   global_id: t-173150
   teiginys: 'Italų meistrai Šv. Stanislovo bažnyčioje pastatė marmurinį antkapį karaliaus žmonai Elžbietai.'
   sudarymo_pagrindimas: 'Teiginys turi OCR triukšmo; citata pagrindžia sutvarkytą faktą apie Elžbietos antkapį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Italija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

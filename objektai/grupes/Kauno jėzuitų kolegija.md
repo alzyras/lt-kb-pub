@@ -27,7 +27,7 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
   global_id: t-86798
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo apie kitą kolegiją, bet citata pagrindžia faktą apie Kauno jėzuitų kolegiją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Užupis'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Užupis'
   temporaliniai_duomenys: 'pastatymo data: 1746 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie kitą kolegiją, bet citata pagrindžia faktą apie Kauno jėzuitų kolegiją.'

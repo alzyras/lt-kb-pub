@@ -15,7 +15,6 @@ tags:
   - dokumentas
   - karalius
   - kraštas
-  - ordinas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   global_id: t-60214
   teiginys: 'Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.'
   sudarymo_pagrindimas: 'Reikia aiškios atribucijos, nes teiginys apima autoriaus apibūdinimą.'
-  susije_objektai: 'location: Prūsai; location: Prūsija; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'location: Prūsai; location: Prūsija; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Ulrichas iš Magdeburgo|Ulrichas iš Magdeburgo]] gyveno Prūsai; [[objektai/asmenys/Ulrichas iš Magdeburgo|Ulrichas iš Magdeburgo]] gyveno Prūsija'
   pagrindžia:
     - c-001
@@ -47,7 +46,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį enciklopedinį faktą apie Ulricho vaidmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

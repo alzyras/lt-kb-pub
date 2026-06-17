@@ -21,7 +21,7 @@ Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią anal
   global_id: t-20069
   teiginys: 'Vilniaus baroko mokykla buvo analogų neturinti baroko architektūrinio stiliaus atmaina.'
   sudarymo_pagrindimas: 'Reikia pašalinti inicialais įvardytą asmenį ir suformuluoti teiginį tiesiogiai apie objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Bokštai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Glaubicas suformavo baroko architektūrinio stiliaus atmainą, neturinčią anal
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia išplėsti pavardės inicialus ir pašalinti OCR laužymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_person: [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Kristupas Glaubicas|Jonas Kristupas Glaubicas]]; mentioned_place: Bokštai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

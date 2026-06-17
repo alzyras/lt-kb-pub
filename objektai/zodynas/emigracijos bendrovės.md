@@ -31,7 +31,7 @@ Todėl, pavyzdžiui, 1926—1929 m., emigracijos bendrovėms gabenant mūsų tau
   global_id: t-74024
   teiginys: '1926–1929 m. emigracijos bendrovės vežė lietuvius daugiausia į Pietų Ameriką, kur daugelis patyrė išnaudojimą ir sunkias gyvenimo sąlygas.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, su šaltinio perspektyvos žodžiais ir pertekliniais fragmentais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926-1929; įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas, su šaltinio perspektyvos žodžiais ir pertekliniais fragmentais.'

@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-20391
   teiginys: 'Lietuva, Latvija ir Estija įkūrė Baltijos Valstybių Tarybą bendrai užsienio politikos pozicijai rengti.'
   sudarymo_pagrindimas: 'Citata nepateikia datos, todėl teiginys sutrumpintas iki joje pagrįstos informacijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
   temporaliniai_duomenys: 'įkūrimo data: 1934 m.; įkūrimo data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nepateikia datos, todėl teiginys sutrumpintas iki joje pagrįstos informacijos.'
@@ -61,7 +61,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako įvykį, datą ir rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
   temporaliniai_duomenys: 'įkūrimo data: 1934 m.; įkūrimo data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nusako įvykį, datą ir rezultatą.'

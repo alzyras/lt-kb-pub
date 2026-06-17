@@ -30,10 +30,7 @@ Vartojamos formos: `raktininkas`, `parakčia`, `angininkas`, `karūžasis`, `ši
   sudarymo_pagrindimas: 'Citata išvardija konkrečias rūmų pareigybes ir jų funkcijas.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Kemlickis.md#claim-t-186125|Kemlickis]]: Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.
-- susijęs iš [[objektai/ivykiai/Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.).md#claim-t-86939|Aleksandro Jogailaičio mirtis ir palaidojimas Vilniuje (1506 m. rugpjūčio 10 d.)]]: Žinia apie 1506 m. rugpjūtį pasiektą pergalę ties Klecku merdintį Aleksandrą Jogailaitį pasiekė Vilniuje.
-- susijęs iš [[objektai/zodynas/Karinės vadovybės rangai.md#claim-t-07727|karinės vadovybės rangai]]: Senovės kariuomenėje buvo keli vadovybės rangai nuo dešimtininko iki aukščiausio vadovo.
-- susijęs iš [[objektai/zodynas/rūmininkas vyno pilstytojas.md#claim-t-36826|rūmininkas vyno pilstytojas]]: Vaidyla iš dvaro duonkepio padėjėjo buvo pakeltas didžiojo kunigaikščio rūmininku, o vėliau tapo vyno pilstytoju.
+
 ## Reikšmingi paminėjimai
 
 - c-001

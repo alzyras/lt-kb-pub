@@ -35,7 +35,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78943
   teiginys: 'Augustas II su Petru I susitarė atimti iš švedų Baltijos pajūrį ir į sąjungą įtraukė Daniją bei Brandenburgo kunigaikštį.'
   sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės ir aiškesnio veiksmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Baltija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Baltija'
   pagrindžia:
     - c-006
 
@@ -44,7 +44,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78945
   teiginys: 'Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas faktinis sakinys apie Augusto II sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-005
 
@@ -53,7 +53,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78946
   teiginys: 'Žymesnieji bajorijos vadai Augusto II reikalautu raštu paskelbė jį paveldimai ir absoliučiai valdančiu Lietuvos didžiuoju kunigaikščiu.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata leidžia suformuluoti užbaigtą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -62,7 +62,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78947
   teiginys: 'Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir patvirtintas citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegų giminė|Sapiegų giminė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Saksonija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sapiegų giminė|Sapiegų giminė]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Saksonija; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
 - t-005
   global_id: t-78949
   teiginys: 'Petro Didžiojo epocha, sutapusi su saksų laikų pradžia, atvėrė naują laikotarpį ir Augusto II valdymo kontekste.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/posakiai/saksų laikų|saksų laikų]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Baltija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/posakiai/saksų laikų|saksų laikų]]; mentioned_place: Baltija'
   pagrindžia:
     - c-001
 
@@ -79,7 +79,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78950
   teiginys: '1706 m. Augustas II Altrandštate sudarė taiką su Karoliu XII, atsisakė Respublikos sosto ir pripažino karaliumi Leščinskį.'
   sudarymo_pagrindimas: 'Reikia išplėsti dalinius vardus ir suformuluoti sakinį aiškiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Altrandštatas; mentioned_place: Brasta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Altrandštatas; mentioned_place: Brasta'
   temporaliniai_duomenys: 'įvykio data: 1706 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti dalinius vardus ir suformuluoti sakinį aiškiau.'
@@ -91,7 +91,7 @@ Augustas II ir jo politiniai siekimai. Augusto II grįžimas į sostą. Augusto 
   global_id: t-78953
   teiginys: '1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Altrandštatas; mentioned_place: Brasta; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Altrandštatas; mentioned_place: Brasta; mentioned_place: Saksonija'
   temporaliniai_duomenys: 'įvykio data: 1697 m.; įvykio data: 1706 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo Augusto II išrinkimą ir politinį siekį.'

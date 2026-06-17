@@ -40,7 +40,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78415
   teiginys: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata apie tikinčiuosius pamedėnus.'
-  susije_objektai: 'location: Belichovas; location: Elbingas; location: Kristburgas; location: Kulmas; location: Marienverderis; location: Viena; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  susije_objektai: 'location: Belichovas; location: Elbingas; location: Kristburgas; location: Kulmas; location: Marienverderis; location: Viena; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Kristburgas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Viena'
   pagrindžia:
     - c-006
@@ -61,7 +61,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78419
   teiginys: 'Pamedės Reisių valsčiuje gyvenę pamedėnai buvo puolami grobimais, gaisrais ir kraujo praliejimu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie pamedėnus, bet pradinėje formuluotėje trūko aiškaus objekto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Pamedė'
+  susije_objektai: 'mentioned_place: Pamedė'
   pagrindžia:
     - c-009
 
@@ -70,8 +70,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78420
   teiginys: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pamedėną Joną ir jo pilį.'
-  susije_objektai: 'owner: Belichovas; owner: Elbingas; owner: [[objektai/asmenys/Konradas|Konradas]]; owner: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė [[objektai/asmenys/Konradas|Konradas]]; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Viena'
+  susije_objektai: 'owner: Belichovas; owner: Elbingas; owner: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Viena'
   pagrindžia:
     - c-010
 
@@ -80,7 +80,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78421
   teiginys: 'Per naują atsimetimą ištikimieji pamedėnai liko tarp tų, kurie nesusimokė atsimesti nuo krikščionybės.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir teologinį kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Elbingas; mentioned_place: Kristburgas'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Kristburgas'
   pagrindžia:
     - c-007
 
@@ -113,7 +113,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78424
   teiginys: 'Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą pamedėnų ir kitų grupių pasidavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Svarcburgo|Henrikas iš Svarcburgo]]; mentioned_place: Prūsija; mentioned_place: Vokietija'
   pagrindžia:
     - c-004
     - c-008
@@ -366,7 +366,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
 - Pamedėnai gyveno [[objektai/vietos/Viena]]
 - Pamedėnai priklause [[objektai/vietos/Belichovas]]
 - Pamedėnai priklause [[objektai/vietos/Elbingas]]
-- Pamedėnai priklause [[objektai/asmenys/Konradas]]
 - Pamedėnai priklause [[objektai/asmenys/Konradas Švabas iš Elbingo]]
 - Pamedėnai priklause [[objektai/vietos/Kulmas]]
 - Pamedėnai priklause [[objektai/vietos/Marienverderis]]

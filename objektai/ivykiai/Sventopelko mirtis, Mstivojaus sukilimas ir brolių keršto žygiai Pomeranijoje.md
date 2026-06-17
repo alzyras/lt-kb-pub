@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: 'Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys kartoja žodį „magistru“ ir ne visai sklandžiai perteikia citatos mintį.'
-  susije_objektai: 'territory: Pomeranija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
+  susije_objektai: 'territory: Pomeranija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Nenurodyta
   teiginys: '1299 m. mirus tėvui, Mstivojus tapo Pomeranijos kunigaikščiu ir paakino prūsų kariuomenę deginti bei plėšti Kulmo žemę ir Pamedę.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūkęs ir turi perteklinį įvadą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradinis teiginys nutrūkęs ir turi perteklinį įvadą.'

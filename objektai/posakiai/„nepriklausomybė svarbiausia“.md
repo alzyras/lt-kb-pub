@@ -30,7 +30,7 @@ amziai:
 - t-001
   global_id: t-75618
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina jos sąlyga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,7 +41,7 @@ amziai:
   global_id: t-75619
   teiginys: 'Stasys Lozoraitis laikėsi idėjos „nepriklausomybė svarbiausia“ ir modus vivendi su Lenkija laikė būtina nepriklausomybės sąlyga.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir pataisyta gramatika.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir pataisyta gramatika.'

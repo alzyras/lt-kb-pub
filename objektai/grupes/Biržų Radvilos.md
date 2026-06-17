@@ -21,7 +21,7 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
   global_id: t-72037
   teiginys: 'Biržų Radvilos vėliau liko tarp svarbiausių protestantizmo rėmėjų po M. Radvilos Rudojo.'
   sudarymo_pagrindimas: 'Pradinis teiginys kalba apie Radvilos Juodojo sūnus, o ne tiesiogiai apie Biržų Radvilas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]'
   pagrindžia:
     - c-001
 
@@ -29,7 +29,7 @@ Radvila Rudasis, o vėliau — jo sūnūs — Biržų Radvilos.
 - t-002
   global_id: t-72038
   teiginys: 'Biržų Radvilos po M. Radvilos Rudojo išliko svarbūs protestantizmo rėmėjai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]'
   pagrindžia:
     - c-001
 

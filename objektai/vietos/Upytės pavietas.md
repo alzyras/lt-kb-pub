@@ -28,7 +28,7 @@ amziai:
   teiginys: '1434 m. rugpjūčio pabaigoje vienas Livonijos kryžiuočių dalinys buvo įsibrovęs į Upytės pavietą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje minimą 1434 m. rugpjūčio pabaigos įsiveržimą į Upytės pavietą. Vertinamųjų ar poleminių formuluočių nepridėta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Livonija; mentioned_place: Upytė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Upytė'
   temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: apie 1434 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje minimą 1434 m. rugpjūčio pabaigos įsiveržimą į Upytės pavietą. Vertinamųjų ar poleminių formuluočių nepridėta.'

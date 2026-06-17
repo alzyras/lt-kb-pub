@@ -79,7 +79,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178771
   teiginys: 'Prie pamarėnų—prūsų sąjungos prisidėjo jotvingiai ir lietuviai29.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   temporaliniai_duomenys: 'įvykio data: 1245 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
@@ -91,7 +91,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178772
   teiginys: 'Jotvingiai, pasistūmėję į Rusios gilumą, kalba ir papročiais buvo panašūs į slavus.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Thunmanas|Thunmanas]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Gardinas; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vilija; mentioned_place: Vilniaus gubernija; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -126,7 +126,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178778
   teiginys: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų antpuolių.'
   sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį su aiškiu objektu ir faktiniu predikatu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Viena; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Viena; mentioned_place: Volinija'
   pagrindžia:
     - c-007
 
@@ -152,7 +152,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   global_id: t-178782
   teiginys: 'Jotvingių pavyzdys rodo, kad jų žemės ūkis buvo greitai pažeidžiamas priešų ir badmečių.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį faktinį sakinį apie jotvingius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Jotvingija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Klėtis|Klėtis]]; mentioned_place: Jotvingija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Volinija'
   pagrindžia:
     - c-004
 
@@ -164,7 +164,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia atribucijos motyvacijai ir kronikos pasakojimo formuluotei.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia'
+  susije_objektai: 'mentioned_place: Bebras; mentioned_place: Gardinas; mentioned_place: Jotvingija; mentioned_place: Juodoji Rusia; mentioned_place: Lietuva; mentioned_place: Rusia'
   pagrindžia:
     - c-012
 
@@ -176,7 +176,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškiai nurodo Tautvilo veiksmą, sąjungininkus ir žygio kryptį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-013
 
@@ -188,7 +188,7 @@ II tūkstantmečio pradžioje pradėjo formuotis prūsų, jotvingių, lietuvių 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia patikslinti įvardžius ir atribuuoti kronikos pasakojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voruta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Poloviečiai|Poloviečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voruta'
   pagrindžia:
     - c-014
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.

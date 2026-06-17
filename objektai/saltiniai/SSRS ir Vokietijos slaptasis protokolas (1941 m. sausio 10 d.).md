@@ -29,7 +29,7 @@ Berlynas ir Maskva susitarė kol kas pietvakarinių lietuvių žemių klausimo n
   global_id: t-21248
   teiginys: '1941 m. sausio 10 d. slaptuoju protokolu SSRS iš Vokietijos už 7,5 mln. aukso dolerių nusipirko pietvakarines lietuvių žemes.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1920 m.; įvykio data: 1926 m.; įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti pilną sakinį.'

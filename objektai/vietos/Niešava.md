@@ -30,7 +30,7 @@ amziai:
 - t-001
   global_id: t-68823
   teiginys: 'Prie Niešavos jie iš Konrado gavo žemių su pilaite ir pasistatė Fogelzango pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -39,7 +39,7 @@ amziai:
   global_id: t-68824
   teiginys: '1424 m. Niešavos miestelyje sudaryta prekybos sutartis dėl laisvo tranzito.'
   sudarymo_pagrindimas: 'Perrašyta gramatiškai, pašalinus žodžių lūžius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/tranzitas|tranzitas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'sutarties data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta gramatiškai, pašalinus žodžių lūžius.'

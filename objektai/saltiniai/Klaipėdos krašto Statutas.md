@@ -28,7 +28,7 @@ Nors Lietuvos vyriausybė skyrė Klaipėdos kraštui nemažai lėšų – vien �
   global_id: t-78149
   teiginys: 'Klaipėdos krašto Statute įrašytas dviejų kalbų lygiateisiškumas 1938 m. pabaigoje faktiškai buvo virtęs fikcija.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nepilnas fragmentas, o citata leidžia suformuluoti pilną faktą apie Statutą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/karo padėtis|karo padėtis]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/karo padėtis|karo padėtis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nepilnas fragmentas, o citata leidžia suformuluoti pilną faktą apie Statutą.'

@@ -51,7 +51,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad po Klecko mūšio Mykolas Glinskis ir Lietuvos kariuomenė grįžo į stovyklą su belaisviais, auksu, sidabru, ginklais ir žirgais.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Reikia įvardyti veikėjus ir aiškiau susieti faktą su Klecko mūšiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė'
   pagrindžia:
     - c-004
 
@@ -61,7 +61,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Klecko mūšyje Mykolas Glinskis su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Karinio priešo vaizdavimą reikia palikti aiškiai priskirtą metraščiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -81,7 +81,7 @@ Nenurodyta
   teiginys: 'Klecko mūšio 1506 m. aprašymas su vietovardžiais buvo vienas iš N. N. Ulaščiko argumentų dėl Bychovco kronikos kilmės iš Naugarduko ar Slucko krašto.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistas ryšys tarp Klecko mūšio aprašymo ir Ulaščiko spėjimo apie kronikos kilmę. Legendinės istorijos kontekstas neplėstas, nes šiam teiginiui pakanka konkretaus argumento.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1506 m.; įvykio data: 1522 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistas ryšys tarp Klecko mūšio aprašymo ir Ulaščiko spėjimo apie kronikos kilmę. Legendinės istorijos kontekstas neplėstas, nes šiam teiginiui pakanka konkretaus argumento.'
@@ -94,7 +94,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad prieš Klecko mūšį etmonas Stanislovas Petravičius Kiška sunkiai susirgo ir nebegalėjo laikytis balne.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Taisytina didžioji raidė po „kad“ ir stilius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -104,7 +104,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad po Klecko mūšio lietuviai gaudė pabėgusius totorius Slucko, Petrikovičių, Ovručo, Žitomiro ir Volynės keliais.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Reikia konkretesnio, citata paremto sakinio ir aiškaus objekto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė; mentioned_place: Žitomiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė; mentioned_place: Žitomiras'
   pagrindžia:
     - c-004
 
@@ -114,7 +114,7 @@ Nenurodyta
   teiginys: 'Bychovco kronika Klecko mūšio pergalę apibūdina kaip Lietuvos Didžiosios Kunigaikštystės patirtą „begalinį dievo gailestingumą“.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tinkamai atribuuoja religinį vertinimą kronikai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Korano giminė|Korano giminė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė|Lietuvos Didžioji Kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Cepra; mentioned_place: Lietuva; mentioned_place: Volynė'
   pagrindžia:
     - c-004
 
@@ -124,7 +124,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad prieš Klecko mūšį dėl Stanislovo Petravičiaus Kiškos ligos etmono pareigos buvo pavestos Mykolui Glinskiui.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Taisytina didžioji raidė po „kad“ ir paliekama būtina metraščio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -134,7 +134,7 @@ Nenurodyta
   teiginys: 'Klecko mūšio aprašymu N. N. Ulaščikas rėmė spėjimą apie Bychovco kronikos kilmę iš Naugarduko ar Slucko krašto.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos mintį apie Ulaščiko argumentą. Nepridėta Liachovičių ar Alberto Goštauto konteksto, nes jis nėra būtinas šiam faktui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1506 m.; įvykio data: 1522 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos mintį apie Ulaščiko argumentą. Nepridėta Liachovičių ar Alberto Goštauto konteksto, nes jis nėra būtinas šiam faktui.'

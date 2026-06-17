@@ -20,7 +20,7 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
 - t-001
   global_id: t-40033
   teiginys: 'Savanoris Antanas Šukys, mokydamasis Kauno Karužų mokykloje, prisiminė, kaip buvo renkami kariai per Jiezną besiveržusiai Raudonajai armijai sulaikyti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Durtuvas|Durtuvas]]; mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Jieznas; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Durtuvas|Durtuvas]]; mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_place: Jieznas; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,6 @@ Svoris be durtuvo - 4,20 kg SAVANORIAI VERŽIASI Į KOVĄ | | Savanoris Antanas 
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.

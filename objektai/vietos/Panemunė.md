@@ -33,7 +33,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
   global_id: t-68891
   teiginys: 'Vytautas, išvykęs į žvalgybą Panemunėje, pranešė Kęstučiui apie kryžiuočius Bajerburgo pilyje prie Veliuonos.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo suprantamas, bet formuluotė „išvykęs žvalgybų“ taisytina į sklandų enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Pirmasis tų pabėgėlių ir tremtinių etapas buvo Vilniaus krašto Panemunė i
 - t-002
   global_id: t-68892
   teiginys: 'Panemunė ir Vilniaus miestas buvo pirmasis pabėgėlių ir tremtinių etapas Vilniaus krašte.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Konradas Jungingenas.md#claim-t-87535|Konradas Jungingenas]]: Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.

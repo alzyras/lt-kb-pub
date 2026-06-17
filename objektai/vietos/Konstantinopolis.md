@@ -35,7 +35,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   global_id: t-177248
   teiginys: 'Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą ir asmenis, bet pradiniame teiginyje yra nutrūkusių fragmentų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnia; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vilnia; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -44,7 +44,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   global_id: t-177249
   teiginys: 'Po Ciprijono mirties Vytautas pristatė Konstantinopolio patriarchui Eufimėjui Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatos faktą apie Konstantinopolio patriarchą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Ciprijonas|Ciprijonas]]; mentioned_person: [[objektai/asmenys/Eufimėjus|Eufimėjus]]; mentioned_person: [[objektai/asmenys/Teodozijus|Teodozijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Ciprijonas|Ciprijonas]]; mentioned_person: [[objektai/asmenys/Teodozijus|Teodozijus]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -53,9 +53,9 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   global_id: t-177250
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   sudarymo_pagrindimas: 'Teiginys pilnai ir tiksliai perteikia citatoje nurodytą įvykį.'
-  susije_objektai: 'territory: Paryžius; territory: Prancūzija; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Paryžius; mentioned_place: Prancūzija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1239 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas buvo valdovas Paryžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Paryžius; mentioned_place: Prancūzija'
+  temporaliniai_duomenys: 'įvykio data: 1239 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai ir tiksliai perteikia citatoje nurodytą įvykį.'
   pagrindžia:
     - c-005
@@ -86,7 +86,7 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   global_id: t-177256
   teiginys: 'Po Ciprijono mirties Vytautas Konstantinopolio patriarchui Eufimėjui pristatė Polocko vyskupą Teodozijų kaip kandidatą į Kijevo metropolitus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Ciprijonas|Ciprijonas]]; mentioned_person: [[objektai/asmenys/Eufimėjus|Eufimėjus]]; mentioned_person: [[objektai/asmenys/Teodozijus|Teodozijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Ciprijonas|Ciprijonas]]; mentioned_person: [[objektai/asmenys/Eufimėjus|Eufimėjus]]; mentioned_person: [[objektai/asmenys/Teodozijus|Teodozijus]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 
@@ -111,11 +111,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
-- susijęs iš [[objektai/daiktai/Viešpaties erškėčių vainikas.md#claim-t-183982|Viešpaties erškėčių vainikas]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/daiktai/Viešpaties erškėčių vainikas.md#claim-t-59709|Viešpaties erškėčių vainikas]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-183974|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/ivykiai/Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.).md#claim-t-62527|Viešpaties erškėčių vainiko perkėlimas į Paryžių (1239 m.)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš Paryžius: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11775|pravoslavai]]: Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
@@ -312,7 +307,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Konstantinopolis
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Konstantinopolis
 - [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Konstantinopolis
-- [[objektai/asmenys/Liudvikas]] buvo_valdovas Konstantinopolis
 - [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]] buvo_valdovas Konstantinopolis
 - [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Konstantinopolis
 - [[objektai/zodynas/pravoslavai]] priklause Konstantinopolis

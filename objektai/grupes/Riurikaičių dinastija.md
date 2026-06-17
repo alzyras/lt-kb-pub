@@ -32,7 +32,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   global_id: t-96866
   teiginys: 'Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis; citata geriau remia šį faktą apie Riurikaičius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-003
 
@@ -41,8 +41,8 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   global_id: t-96867
   teiginys: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   sudarymo_pagrindimas: 'Reikia pataisyti kalbą ir aiškiau susieti teiginį su Riurikaičiais.'
-  susije_objektai: 'owner: [[objektai/asmenys/Jonas|Jonas]]; owner: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; owner: Lietuva; owner: Maskva; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė [[objektai/asmenys/Jonas|Jonas]]; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė Lietuva; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė Maskva'
+  susije_objektai: 'owner: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; owner: Lietuva; owner: Maskva; mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  semantiniai_rysiai: '[[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė Lietuva; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė Maskva'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   global_id: t-96869
   teiginys: 'Riurikaičių dinastijos išsibaigimas 1598 m. Abiejų Tautų Respublikoje neturėjo reikšmingesnių atliepimų.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir paremtas autoriaus vertinimu citatoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1598 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, aiškus ir paremtas autoriaus vertinimu citatoje.'
@@ -131,7 +131,6 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
     - t-004
 
 ## Ryšiai
-- Riurikaičių dinastija priklause [[objektai/asmenys/Jonas]]
 - Riurikaičių dinastija priklause [[objektai/asmenys/Jonas Kalita]]
 - Riurikaičių dinastija priklause [[objektai/vietos/Lietuva]]
 - Riurikaičių dinastija priklause [[objektai/vietos/Maskva]]

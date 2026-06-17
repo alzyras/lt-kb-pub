@@ -28,7 +28,7 @@ Dusburgietis teigia, kad 393 Kad mūšis įvyko 1263 m., rašoma Sembos kanaunin
   global_id: t-61292
   teiginys: 'Sembos kanauninko kronikoje nurodoma, kad mūšis įvyko 1263 m.'
   sudarymo_pagrindimas: 'Sakinys patikslintas kaip šaltinio liudijimas, nekeičiant citatos prasmės.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Helmerichas|Helmerichas]]; mentioned_place: Semba'
   temporaliniai_duomenys: 'mūšio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys patikslintas kaip šaltinio liudijimas, nekeičiant citatos prasmės.'

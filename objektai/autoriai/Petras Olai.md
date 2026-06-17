@@ -22,7 +22,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   global_id: t-88039
   teiginys: 'Petras Olai „Danų kronikoje“ aprašė įvykį, siejamą su Riuriko variagų kelione į Rusiją ir Palemono draugų atvykimu į Lietuvą.'
   sudarymo_pagrindimas: 'Citata patvirtina, kad Petro Olai kronikoje aprašytas įvykis taip interpretuojamas tekste.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

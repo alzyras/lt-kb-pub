@@ -21,7 +21,7 @@ tags:
   global_id: t-19792
   teiginys: 'Lenkų socialistų partijai vadovavo iš etninės Lietuvos kilęs Juzefas Pilsudskis.'
   sudarymo_pagrindimas: 'Pradinis teiginys neatskleidžia požiūrio turinio; citata patikimai remia vadovavimo faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Juzefas Pilsudskis|Juzefas Pilsudskis]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Juzefas Pilsudskis|Juzefas Pilsudskis]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 

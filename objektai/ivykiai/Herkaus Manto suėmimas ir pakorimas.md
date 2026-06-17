@@ -58,7 +58,7 @@ Nenurodyta
   teiginys: 'Herkų Mantą palapinėje užklupo Henrikas iš Šenenbergo ir Helvigas iš Goldbacho, paskui jį pakorė ir pervėrė kalaviju.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas šaltinio įvadas, fragmentiškumas ir OCR nuoroda; faktas suformuluotas pilnu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Helvigas iš Goldbacho|Helvigas iš Goldbacho]]; mentioned_person: [[objektai/asmenys/Henrikas iš Šenenbergo|Henrikas iš Šenenbergo]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kristburgas'
   pagrindžia:
     - c-002
 

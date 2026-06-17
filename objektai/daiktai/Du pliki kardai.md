@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-92955
   teiginys: 'Ordino magistras prašė Jogailos ir Vytauto priimti du kardus kaip pagalbą būsimam susirėmimui atvirame lauke.'
   sudarymo_pagrindimas: 'Teiginyje reikia aiškiau įvardyti objektą ir pašalinti neenciklopedinę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-92956
   teiginys: 'Du riteriai, pažymėti Vengrijos ir Štetino kunigaikštijos ženklais, atnešė du nuogus kardus.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas faktinis teiginys apie du kardus ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
   pagrindžia:
     - c-002
 
@@ -66,7 +66,7 @@ Nenurodyta
 - t-003
   global_id: t-92957
   teiginys: 'Du nuogus kardus nešę pasiuntiniai buvo du riteriai su Vengrijos ir Štetino kunigaikštystės ženklais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Vengrija; mentioned_place: Štetinas'
   pagrindžia:
     - c-001
 

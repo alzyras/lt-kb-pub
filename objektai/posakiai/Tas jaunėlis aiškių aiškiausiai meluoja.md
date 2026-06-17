@@ -22,7 +22,6 @@ Senas senelis nutraukė pamokslininką ir pareiškė žmonėms, kad jaunėlis ai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną sakinį su aiškiu veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 

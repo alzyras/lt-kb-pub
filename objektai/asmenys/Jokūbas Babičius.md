@@ -15,7 +15,6 @@ tags:
   - kunigaikštis
   - miestas
   - mokslininkas
-  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -34,7 +33,7 @@ periodo_grupes:
   global_id: t-87707
   teiginys: 'Jokūbas Babičius 1525 m. Vilniuje veikusioje spaustuvėje spausdino slaviškas knygas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia asmens veiklą Vilniaus spaustuvėje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1525 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia asmens veiklą Vilniaus spaustuvėje.'

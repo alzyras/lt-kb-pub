@@ -29,7 +29,7 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
   global_id: t-05727
   teiginys: 'Stanislovas Rapagelionis vertė dalį giesmių, kurias Mažvydas paskelbė greta 1547 m. pirmojo lietuviško katekizmo.'
   sudarymo_pagrindimas: 'Reikia įvardyti pilną asmens vardą ir pašalinti kiek neaiškią formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
   temporaliniai_duomenys: 'įvykio data: 1547 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia įvardyti pilną asmens vardą ir pašalinti kiek neaiškią formuluotę.'
@@ -41,7 +41,7 @@ Mažvydas išleido 1547 m. pirmąjį lietuvišką katekizmą ir kai kurias giesm
   global_id: t-05728
   teiginys: 'Stanislovas Rapagelionis buvo tarp lietuvių, rašiusių tikybines knygas Mažojoje Lietuvoje.'
   sudarymo_pagrindimas: 'Citata remia glaustesnį teiginį apie jo vaidmenį, be perteklinio apibendrinimo apie kitus autorius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

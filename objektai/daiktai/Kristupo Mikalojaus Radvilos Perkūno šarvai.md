@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   global_id: t-40733
   teiginys: 'Kristupo Mikalojaus Radvilos Perkūno šarvai datuojami XVI-XVII a.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Polockas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_place: Lietuva; mentioned_place: Niurnbergas; mentioned_place: Polockas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

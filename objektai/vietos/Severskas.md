@@ -15,7 +15,6 @@ tags:
   - miestas
   - pilis
   - valdovas
-  - vieta
 amziai:
   - 'XV'
 ---
@@ -32,7 +31,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   global_id: t-86104
   teiginys: 'Vytautui užėmus Seversko Naugardą, Seversko valstybė buvo prijungta prie Lietuvos.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Seversko valstybės prijungimą, o pradinis tekstas buvo nutrūkęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -44,7 +43,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį; vardas paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas'
   pagrindžia:
     - c-002
 
@@ -80,7 +79,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi daug OCR triukšmo; perrašyta į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Serpeiskas; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Serpeiskas; mentioned_place: Starodubas'
   temporaliniai_duomenys: 'įvykio data: 1448 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi daug OCR triukšmo; perrašyta į pilną faktinį sakinį.'
@@ -320,4 +319,4 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
 ## Ryšiai
 - [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] buvo_valdovas Severskas
 - [[objektai/asmenys/Vaitiekus Kiočka]] buvo_valdovas Severskas
-- [[objektai/asmenys/Ivanas]] keliavo_i Severskas
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Severskas

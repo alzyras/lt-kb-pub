@@ -10,7 +10,6 @@ tags:
   - popiežius
   - sąvoka
   - valdovas
-  - vyskupas
 ---
 # dešimtinė
 
@@ -25,7 +24,7 @@ tags:
   global_id: t-173012
   teiginys: 'Ordino santykiuose su lenkų vyskupais kilo ginčų dėl dešimtinės ir šv. Petro skatiko rinkliavų.'
   sudarymo_pagrindimas: 'Teiginys yra rišlus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris; mentioned_place: Ryga; mentioned_place: Tartai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris; mentioned_place: Ryga; mentioned_place: Tartai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -38,7 +37,6 @@ tags:
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Stanislovas Skopas.md#claim-t-87581|Stanislovas Skopas]]: Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.
-- susijęs iš [[objektai/asmenys/Stanislovas Vaitkavičius.md#claim-t-87863|Stanislovas Vaitkavičius]]: Stanislovas Vaitkavičius turėjo žemę, iš kurios buvo mokama kviečių dešimtinė.
 ## Reikšmingi paminėjimai
 
 - c-001

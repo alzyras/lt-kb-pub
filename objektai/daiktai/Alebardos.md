@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-40687
   teiginys: 'Vokiškojo tipo alebarda datuojama XVI a., o kita alebarda - XVI a. antrąja puse-XVII a.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Vokiškojo tipo alebarda|Vokiškojo tipo alebarda]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusijos kariuomenė|Rusijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Vokiškojo tipo alebarda|Vokiškojo tipo alebarda]]; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1568 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

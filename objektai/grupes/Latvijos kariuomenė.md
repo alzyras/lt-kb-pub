@@ -27,7 +27,7 @@ ORiebiniai 1920 m. sausio pradžioje Latvijos ir LenkiJos kariuomenės išstūm�
   global_id: t-38971
   teiginys: '1920 m. sausio pradžioje Latvijos ir Lenkijos kariuomenės išstūmė Raudonąją armiją iš Daugpilio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Latvijos kariuomenės veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Daugpilis; mentioned_place: Latvija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Latvija; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Latvijos kariuomenės veiksmą ir rezultatą.'

@@ -30,7 +30,7 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   susije_objektai: 'owner: Lietuva; owner: Lietuvos Užnemunė; owner: Suvalkai; owner: Užnemunė; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Užnemunė'
   semantiniai_rysiai: 'Suvalkų gubernija priklausė Lietuva; Suvalkų gubernija priklausė Lietuvos Užnemunė; Suvalkų gubernija priklausė Suvalkai; Suvalkų gubernija priklausė Užnemunė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Suvalkų gubernija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Suvalkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Užnemunė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Suvalkų gubernija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Suvalkai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus faktas.'
   pagrindžia:
     - c-001

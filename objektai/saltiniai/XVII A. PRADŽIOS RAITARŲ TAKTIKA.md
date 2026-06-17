@@ -28,7 +28,7 @@ PRADŽIOS RAITARŲ TAKTIKA“ Andžej Geglis, dail.
   global_id: t-39971
   teiginys: 'Andžejus Geglis sukūrė iliustraciją „XVII a. pradžios raitarų taktika“.'
   sudarymo_pagrindimas: 'Citata nurodo kūrinio pavadinimą ir dailininką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]'
   pagrindžia:
     - c-001
 

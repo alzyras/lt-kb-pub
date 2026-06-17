@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-77926
   teiginys: 'J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys sulipęs su antrašte, o citata tiesiogiai paremia tik skulptūros autorystę ir datą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/knygnešystė|knygnešystė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sulipęs su antrašte, o citata tiesiogiai paremia tik skulptūros autorystę ir datą.'

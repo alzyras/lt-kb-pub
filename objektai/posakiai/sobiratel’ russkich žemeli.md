@@ -28,7 +28,7 @@ Jonas III-sis, rusų žemių rinkėjas («sobiratel’ russkich žemeli»), įsi
   global_id: t-100003
   teiginys: 'Jonas III buvo vadinamas rusų žemių rinkėju, „sobiratel’ russkich žemeli“.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos paremtas faktas apie posakį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/Filotiejus|Filotiejus]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bizantija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Filotiejus|Filotiejus]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Bizantija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

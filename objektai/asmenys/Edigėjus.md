@@ -10,7 +10,6 @@ tags:
   - ginklas
   - kunigaikštis
   - mūšis
-  - transportas
 ---
 # Edigėjus
 
@@ -43,7 +42,6 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63377|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: Prieš Vorsklos mūšį Vytautas penkias dienas stovėjo įtvirtintoje stovykloje kitoje Vorsklos pusėje.
 - susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63383|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.
 - susijęs iš Vorksla: Vorksla apibūdinta kaip upė, tekanti pro Poltavą ir iš kairės pusės įtekanti į Dneprą apie 300 km žemiau Kijevo.
-- susijęs iš [[objektai/zodynas/emyras.md#claim-t-42449|emyras]]: Visoje Ordoje garsus emyras Edigėjus padrąsino chaną, o derybos iš karto prasidėjo su Edigėjumi.
 ## Reikšmingi paminėjimai
 
 - c-001

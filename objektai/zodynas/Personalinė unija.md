@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-182715
   teiginys: 'Personalinės unijos laikotarpiu Lietuvą ir Lenkiją valdė tie patys valdovai, nors valstybės liko atskiros.'
   sudarymo_pagrindimas: 'Pradinis teiginys neparemtas citata, todėl perrašytas pagal pateiktą šaltinio vietą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1539 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neparemtas citata, todėl perrašytas pagal pateiktą šaltinio vietą.'
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-182717
   teiginys: 'Lietuvių pareigūnus įtraukus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, personalinės unijos nulemta valstybių sąveika naikino Lietuvos valstybingumą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus interpretacinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -74,7 +74,7 @@ Nenurodyta
 - t-003
   global_id: t-182718
   teiginys: 'Savotiškos personalinės unijos reikalavo lietuviai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -86,7 +86,6 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė prasideda neaiškia nuoroda „to“, o citata leidžia suformuluoti aiškų sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]'
   pagrindžia:
     - c-005
 
@@ -98,18 +97,10 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaišku, kas yra „abidvi pusės“, todėl reikia įvardyti šalis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/unija|unija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179135|Lenkai]]: Po personalinės unijos lenkų pareigūnai buvo siunčiami į Lietuvą su valdovo įgaliojimais, o lietuvių kariuomenė talkino lenkams.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179164|Lenkai]]: Po Krėvos sutarties lenkų pareigūnai buvo siunčiami į Lietuvą, o lietuvių ir lenkų kariuomenės talkino viena kitai.
-- susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74512|Lenkijos valstybės taryba (institucija)]]: Po Krėvos sutarties bendrąjį valdovą Krokuvoje supo Lenkijos valstybės taryba.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169691|Lietuvos Didžioji Kunigaikštija]]: Įtraukus lietuvių pareigūnus į Lenkijos valstybės institucijas, Lietuva darėsi provincija, o personalinė unija naikino jos valstybingumą.
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169697|Lietuvos Didžioji Kunigaikštija]]: Po Krėvos sutarties Gediminaičiams buvo dalijamos kunigaikštijos Lenkijoje, o lenkų pareigūnai su valdovo įgaliojimais siųsti į Lietuvą.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20235|Krėvos sutarties priėmimas (sutartis)]]: Krėvos sutartį skatino įnirtingi vokiečių puolimai, o silpstančiai Lietuvai lenkai tapo sąjungininkais.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45351|Krėvos sutartis (1385 m.)]]: Krėvos sutartį skatino ypač įnirtingi vokiečių puolimai ir silpstančios Lietuvos poreikis turėti lenkus sąjungininkais.
-- susijęs iš [[objektai/posakiai/didelis „remontas“ Krėvės unijoj.md#claim-t-35997|didelis „remontas“ Krėvės unijoj]]: Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
-- susijęs iš [[objektai/zodynas/aneksija.md#claim-t-70086|aneksija]]: Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.
+
 ## Reikšmingi paminėjimai
 
 - c-001

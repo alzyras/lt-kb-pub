@@ -39,7 +39,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   global_id: t-88143
   teiginys: 'Laiškas Livonijos magistrui buvo rašytas Liksnoje antrą savaitę po Velykų, greičiausiai 1396 m.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti faktą apie laiško parašymo vietą ir apytikrę datą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Liksna; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Liksna; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti faktą apie laiško parašymo vietą ir apytikrę datą.'
@@ -59,7 +59,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
 - t-004
   global_id: t-88145
   teiginys: 'Dinaburgo komtūras (parašas) Originalą atitinka: Dr.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -68,7 +68,7 @@ Dinaburgo komtūras praneša Livonijos magistrui, kad Švitrigaila, išleistas i
   global_id: t-88146
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė, kad Švitrigaila išėjo iš nelaisvės, o Vilniuje griuvo Pilies kalnas.'
   sudarymo_pagrindimas: 'Ilgas santraukos fragmentas sutrumpintas iki dviejų aiškių faktų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

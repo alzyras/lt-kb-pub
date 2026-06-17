@@ -26,8 +26,6 @@ Daugirdas apkaltino Leliušą leidus nužudyti valdovą jam pavaldžioje pilyje.
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Daugirdas.md#claim-t-186102|Daugirdas]]: Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vilnių.
-- susijęs iš Vilnius: 1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.
-- susijęs iš Vilnius: Daugirdas užėmė Vilniaus Aukštutinę ir Žemutinę pilis kunigaikščiui Švitrigailai.
 ## Reikšmingi paminėjimai
 
 - c-001

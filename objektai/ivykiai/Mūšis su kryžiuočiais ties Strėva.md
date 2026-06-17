@@ -51,7 +51,7 @@ Nenurodyta
   teiginys: 'Narimantas Glėbas žuvo 1348 m. vasario 2 d. mūšyje su kryžiuočiais ties Strėva.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Narimanto Glėbo žūtį, datą ir mūšio vietą. Religinis ar priešo vertinimas čia neplėtojamas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Pinskas; mentioned_place: Pripetė; mentioned_place: Strėva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Pinskas; mentioned_place: Pripetė; mentioned_place: Strėva'
   temporaliniai_duomenys: 'įvykio data: po 1330 m.; įvykio data: 1330 m.; įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Narimanto Glėbo žūtį, datą ir mūšio vietą. Religinis ar priešo vertinimas čia neplėtojamas.'

@@ -29,7 +29,7 @@ Tačiau LKP pertvarkos taktika („žingsnis po žingsnio“) neparuošė valsty
   global_id: t-20973
   teiginys: 'LKP pertvarkos taktika „žingsnis po žingsnio“ neturėjo valstybės atkūrimo programos ir neparengė tęstinumą įtvirtinančių dokumentų.'
   sudarymo_pagrindimas: 'Pašalinta įžanginė jungtis ir OCR skaidymas, palikta citatos paremta esmė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta įžanginė jungtis ir OCR skaidymas, palikta citatos paremta esmė.'

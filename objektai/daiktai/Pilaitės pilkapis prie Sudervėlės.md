@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87090
   teiginys: 'Pilaitės dvaro lankose prie Sudervėlės upelio dunksojo pilkapis, laikytas lietuvių sumuštų kryžiuočių kapaviete.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinį tekstą reikia išvalyti nuo OCR triukšmo ir sutrumpinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Kaimas; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalvė|Kalvė]]; mentioned_place: Kaimas; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

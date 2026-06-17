@@ -32,7 +32,7 @@ amziai:
   global_id: t-97274
   teiginys: 'Augustino Janulaičio raštas „Užnemunė po Prūsais 1795-1807“ paminėtas tarp jo darbų su 1928 m. data.'
   sudarymo_pagrindimas: 'Citata pagrindžia autorystės kontekstą ir datą, bet tiksliau kalbėti apie paminėjimą tarp raštų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorystės kontekstą ir datą, bet tiksliau kalbėti apie paminėjimą tarp raštų.'
@@ -44,7 +44,7 @@ amziai:
   global_id: t-97275
   teiginys: '„Užnemunė po Prūsais 1795-1807“ išleista 1928 m.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis sakinys ir citata tiesiogiai nurodo leidinio metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas bibliografinis sakinys ir citata tiesiogiai nurodo leidinio metus.'

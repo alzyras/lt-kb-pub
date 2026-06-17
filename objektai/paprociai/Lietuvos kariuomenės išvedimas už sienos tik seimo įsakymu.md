@@ -42,7 +42,7 @@ Nenurodyta
 - t-001
   global_id: t-67152
   teiginys: 'Hetmonas Pacas atsisakė eiti lenkams į pagalbą, aiškindamas, kad Lietuvos kariuomenė neturi teisės peržengti Lenkijos sienos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

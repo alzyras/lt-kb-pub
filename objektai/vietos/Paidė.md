@@ -28,7 +28,7 @@ Per trumpa “| laiką Švedijos kariuomenė užėmė Paidę (Weisenstein), Kuok
   global_id: t-41999
   teiginys: 'Švedijos kariuomenė per trumpą laiką užėmė Paidę, Kuoknesę ir Viljandį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/rokošas|rokošas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viljandis; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kuoknesė; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viljandis; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1608 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'

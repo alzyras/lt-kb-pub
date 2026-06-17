@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-66797
   teiginys: 'Napoleono kariuomenei užėmus Lietuvą, bajorija ėmė rūpintis Lietuvos Didžiosios Kunigaikštijos atkūrimu Napoleono globoje.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Lietuvos Didžiąją Kunigaikštiją ir sutvarkyti sakinio formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

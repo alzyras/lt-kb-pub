@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-87263
   teiginys: '1469 m. karaliaus pavedimu į Vilnių pakviestiems bernardinams bažnyčiai ir vienuolynui statyti buvo atiduotas slėnis prie Vilnios.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūksta ir turi OCR triukšmo, bet citata leidžia jį sutvarkyti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 900 m; įvykio data: 1469 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūksta ir turi OCR triukšmo, bet citata leidžia jį sutvarkyti.'

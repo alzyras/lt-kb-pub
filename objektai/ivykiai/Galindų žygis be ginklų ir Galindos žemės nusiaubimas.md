@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-91904
   teiginys: 'Galindų žynė paragino žemės galinguosius be ginklų kariauti su krikščionimis.'
   sudarymo_pagrindimas: 'Įvardytas veikėjas ir pašalintas neaiškus įvardis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Galinda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 

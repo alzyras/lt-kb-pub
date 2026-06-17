@@ -31,7 +31,7 @@ Ivinskis, Kovos bruožai dėl Žemaičių ir jų sienų , Athenaeum V, 1935, 54-
 - t-001
   global_id: t-32002
   teiginys: 'Z. Ivinskio tekstas „Kovos bruožai dėl Žemaičių ir jų sienų“ nurodytas 1935 m. „Athenaeum“ 6 tome, 54–117 puslapiuose.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

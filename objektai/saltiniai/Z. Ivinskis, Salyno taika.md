@@ -31,7 +31,7 @@ Ivinskis : Salyno taika, LE, t. — Ivinskis, Z.
 - t-001
   global_id: t-32013
   teiginys: 'Z. Ivinskio „Salyno taika“ nurodyta „Lietuvių enciklopedijos“ 26 tome, 351-353 puslapiuose.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Salynas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Salynas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

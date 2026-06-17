@@ -27,7 +27,7 @@ Kad bitininkystė dar ir vėliau buvo svarbi ūkio šaka, rodo randami nuostatai
   global_id: t-31805
   teiginys: '1529 m. Lietuvos Statute buvo nuostatų apie bites ir bitininkų teises.'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį sakinį apie patį šaltinio objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1529 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į glaustesnį sakinį apie patį šaltinio objektą.'

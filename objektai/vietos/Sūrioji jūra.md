@@ -23,7 +23,7 @@ Dusburgietis teigia, kad prūsijos žemės aprašymas Prūsijos žemę riboja i�
   global_id: t-58735
   teiginys: 'Sūrioji jūra Petro Dusburgiečio aprašyme buvo viena iš Prūsijos žemės ribų.'
   sudarymo_pagrindimas: 'Citata pagrindžia Sūriosios jūros vaidmenį apibrėžiant Prūsijos žemės ribas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Dobrynė; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Dobrynė; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 

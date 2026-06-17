@@ -29,7 +29,7 @@ amziai:
   global_id: t-39901
   teiginys: 'Joannis Dlugosii Opera omnia leidinys, parengtas Aleksandro Przezdzieckio, 1877 m. išleistas Krokuvoje.'
   sudarymo_pagrindimas: 'Citata pateikia bibliografinę informaciją, iš kurios galima suformuluoti tvarkingą sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Dlugošas|J. Dlugošas]]; mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1877 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia bibliografinę informaciją, iš kurios galima suformuluoti tvarkingą sakinį.'

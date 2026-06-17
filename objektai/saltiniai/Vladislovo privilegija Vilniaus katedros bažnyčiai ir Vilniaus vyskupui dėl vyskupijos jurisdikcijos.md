@@ -24,7 +24,7 @@ O kaltina­ masis norėjo to teismo išvengti, taip pat tvirtino esąs Vil­ nia
   global_id: t-88352
   teiginys: 'Auksakalys Steponas Genseris buvo paskelbtas laisvu nuo Vilniaus miesto pasaulietinės jurisdikcijos ir cechų valdžios.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūksta, bet citata palaiko sprendimo rezultatą dėl Stepono Genserio jurisdikcijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Steponas Genseris|Steponas Genseris]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

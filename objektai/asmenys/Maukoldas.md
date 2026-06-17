@@ -14,7 +14,6 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - tauta
 amziai:
   - 'XII'
 periodo_grupes:
@@ -44,8 +43,6 @@ periodo_grupes:
 - susijęs iš [[objektai/asmenys/Vidas, pramintas Vilku.md#claim-t-87589|Vidas, pramintas Vilku]]: Vidas, pramintas Vilku, buvo pirmojo Vilniaus kunigaikščio Dovilo arba Dovydo sūnus.
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš Nikono metraštis: Balińskis manė, kad Voskresensko metraštininkas galėjo žinoti ką nors tikra apie Gedimino kilmę, nes rašė praėjus vos amžiui po Jogailos.
-- susijęs iš Konstantinopolis: Vilniečiai iš Konstantinopolio paėmė Polocko kunigaikščio Rostislavo Rogvoldovičiaus vaikus Dovilą ir Maukoldą.
-- susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-176266|vietininkas]]: Rusios kronikininkai liudijo, kad Vilniaus gyventojai vietininkais pasikvietė Dovilą ir Maukoldą.
 ## Reikšmingi paminėjimai
 
 - c-001

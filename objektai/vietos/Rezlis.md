@@ -15,7 +15,6 @@ tags:
   - pilis
   - upė
   - vieta
-  - vyskupas
 amziai:
   - 'XIV'
   - 'XV'
@@ -45,7 +44,7 @@ Dusburgietis teigia, kad tada broliai, norėdami užbėgti už akių būsimiems 
   global_id: t-58621
   teiginys: 'Ordino broliai Bartos žemėje pastatė tris pilis: Bartenšteino, Vizenburgo ir Rezlio.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata remia glaustą faktą apie Rezlio pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_place: Vizenburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_place: Barta; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Kroicburgas; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Varmė; mentioned_place: Vizenburgas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178959|Kryžiuočių ordinas]]: Varmės, Notangos ir Bartos prūsams pasidavus, Kryžiuočių ordino broliai pastatė Kroicburgo, Bartenšteino, Vizenburgo ir Rezlio pilis.

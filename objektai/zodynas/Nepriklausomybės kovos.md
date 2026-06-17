@@ -29,7 +29,7 @@ Gimstanti Pirmoji Lietuvos Respublika 1919-1920 m. turėjo kariauti Nepriklausom
   global_id: t-42425
   teiginys: '1919-1920 m. Nepriklausomybės kovose Pirmoji Lietuvos Respublika kariavo prieš bolševikus, stabdė juos prie Jiezno ir Kėdainių ir vijosi iki Daugpilio.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Daugpilis; mentioned_place: Jieznas; mentioned_place: Kėdainiai; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos Respublika|Lietuvos Respublika]]; mentioned_place: Daugpilis; mentioned_place: Jieznas; mentioned_place: Kėdainiai; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'mūšio data: 1919-1920; mūšio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Nepriklausomybės kovas ir atitinka citatą.'

@@ -31,7 +31,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - t-001
   global_id: t-173439
   teiginys: 'Gotlando salai buvo adresuotas vienas iš trijų 1323 m. gegužės 26 d. laiškų Hanzos miestams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Romai|Romai]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1323 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,7 +41,7 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
 - t-002
   global_id: t-173440
   teiginys: 'Apie 650 m. iš Gotlando ir vidurio Švedijos prasidėjo didelė švedų ekspansija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Durbė; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:

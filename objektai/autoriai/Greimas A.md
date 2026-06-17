@@ -21,7 +21,7 @@ Dusburgietis teigia, kad turėdami omenyje prūsų dievų triadą (Patulas, Patr
   global_id: t-60707
   teiginys: 'Algirdas Greimas veikale „Apie dievus...“ aptarė prūsų dievų triadą ir dievus žemininkus.'
   sudarymo_pagrindimas: 'Citata pateikia Greimą kaip šaltinį apie prūsų dievų triadą ir žemininkus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Nadruva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

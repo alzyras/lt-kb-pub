@@ -46,13 +46,6 @@ Turėdami stiprią pajėgą, bermontininkai nuginklavę išvaikė ten buvusias L
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/J. Aukštuolaitis.md#claim-t-40151|J. Aukštuolaitis]]: J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.
-- susijęs iš [[objektai/grupes/Tautinės darbo apsaugos batalionas.md#claim-t-183187|Tautinės darbo apsaugos batalionas]]: Birželio 28 d. prie Kauno karo komendantūros iš savanorių buvo suformuotas Tautinės darbo apsaugos batalionas.
-- susijęs iš [[objektai/grupes/Tautinės darbo apsaugos batalionas.md#claim-t-20039|Tautinės darbo apsaugos batalionas]]: 1941 m. birželio 28 d. paleidus sukilėlių būrius, iš savanorių prie Kauno karo komendantūros suformuotas TDA batalionas.
-- susijęs iš Nevėžis: Prie Kėdainių lenkai ketino susprogdinti tiltą per Nevėžį, bet 1-ojo pasienio pulko ir Kėdainių komendantūros kariai sutrukdė.
-- susijęs iš Pagiriai: Lenkų kavalerijos brigada užėmė Pagirius, o lietuvių karo lėktuvai sekė jos judėjimą ir atakavo kolonas.
-- susijęs iš Pagiriai: Lenkų kavalerijos brigadai užėmus Pagirius, jos judėjimą sekė ir kolonas atakavo lietuvių karo lėktuvai.
-- susijęs iš Vilijampolė: 1941 m. birželio 26 d. Vilijampolėje lietuvių talkininkai dalyvavo SD inspiruotuose žiauriuose pogromuose.
-- susijęs iš „Lietūkio“ garažas: 1941 m. birželio 27 d. Kauno „Lietūkio“ garaže lietuviai dalyvavo SD inspiruotame žiauriame pogrome.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-31503
   teiginys: '1296 m. žiemą Balgos komtūras galbūt tame pačiame žygyje užėmė Gardino priešpilį.'
   sudarymo_pagrindimas: 'Teiginys išlaiko citatos atsargumą ir aiškiai nusako galimą Gardino priešpilio užėmimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Gardinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys išlaiko citatos atsargumą ir aiškiai nusako galimą Gardino priešpilio užėmimą.'

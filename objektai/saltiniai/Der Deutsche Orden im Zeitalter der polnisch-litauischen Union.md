@@ -32,7 +32,7 @@ Oersdorf : Der Deutsche Orden im Zeitalter der 'polnisch-litauischen Union.
 - t-001
   global_id: t-31657
   teiginys: 'H. Oersdorfo Der Deutsche Orden im Zeitalter der polnisch-litauischen Union apėmė didžiojo magistro Konrado Zöllnerio 1382–1390 m. tarnybą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/E. Wermke|E. Wermke]]; mentioned_person: [[objektai/asmenys/Zöllneris|Zöllneris]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Wermke|E. Wermke]]; mentioned_person: [[objektai/asmenys/Zöllneris|Zöllneris]]'
   temporaliniai_duomenys: 'įvykio data: 1382-1390; įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

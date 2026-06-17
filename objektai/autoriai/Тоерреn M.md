@@ -33,7 +33,7 @@ Dusburgietis teigia, kad m, Tepenas atkreipė dėmesį į Rausvės intaką Romen
   global_id: t-60665
   teiginys: 'M. Tepenas atkreipė dėmesį į Rausvės intaką Romenę rytų Nadruvoje, į pietus nuo Pilkalnio.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas lietuviškas sakinys apie M. Tepeną ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_place: Rausvė; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Tepenas|M. Tepenas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Rausvė; mentioned_place: Romuva'
   temporaliniai_duomenys: 'įvykio data: 1684 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas lietuviškas sakinys apie M. Tepeną ir tiksliai remiasi citata.'

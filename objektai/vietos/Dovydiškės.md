@@ -26,7 +26,7 @@ Jis buvo surašytas slapta, medžioklės metu Dovydiškėse, tur būt, arti Gard
 - t-001
   global_id: t-32138
   teiginys: '1380 m. gegužės 31 d. Dovydiškėse, turbūt netoli Gardino, slapta buvo surašytas dokumentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas'
+  susije_objektai: 'mentioned_place: Gardinas'
   temporaliniai_duomenys: 'įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -33,7 +33,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   global_id: t-90529
   teiginys: 'XIV a. Karšuvos sritis, apėmusi beveik visą Jūros baseiną, tapo negyvenama dykra.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo sutvarkyti OCR klaidas ir kalbą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Karšuvos sritis'
+  susije_objektai: 'mentioned_place: Karšuvos sritis'
   pagrindžia:
     - c-003
 
@@ -42,7 +42,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
   global_id: t-90530
   teiginys: '1303 m. žiemą magistras brolis Konradas su didele kariuomene įsiveržė į Karšuvos žemę ir sudegino visus pastatus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susijęs su Karšuva ir atitinka citatoje nurodytą įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]'
   temporaliniai_duomenys: 'pastatymo data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susijęs su Karšuva ir atitinka citatoje nurodytą įvykį.'
@@ -62,7 +62,7 @@ Tada priešais Jurbarką žemaičiai pasistatė savo pilį — Karšuvą. Jurbar
 - t-004
   global_id: t-90533
   teiginys: 'Nesisekė tada lietuviams ir Karšuvos srityje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karšuviai|Karšuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karšuviai|Karšuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 

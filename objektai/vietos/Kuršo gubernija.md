@@ -29,7 +29,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
 - t-001
   global_id: t-181501
   teiginys: 'Lietuvos Latvijos sienos nustatymas Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo laikoma buvusios Kuršo gubernijos siena.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Daugpilis; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Daugpilis; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Susikūrus nepriklausomai Latvijai, iš pradžių jos ir Lietuvos siena buvo lai
   global_id: t-181502
   teiginys: 'Sukilėliai siekė perimti Kuršo gubernijos vakarinės dalies kontrolę, kad galėtų priimti iš Vakarų Europos atgabentus ginklus.'
   sudarymo_pagrindimas: 'Reikia glaustesnio enciklopedinio sakinio be perteklinės konstrukcijos ir brūkšnio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/asmenys/Teofilis (arkivyskupas)|Teofilis (arkivyskupas)]]; mentioned_place: Daugpilis; mentioned_place: Europa; mentioned_place: Kuršas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Daugpilis; mentioned_place: Europa; mentioned_place: Kuršas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

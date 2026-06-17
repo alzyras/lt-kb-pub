@@ -31,7 +31,7 @@ Fantazuokime toliau: su dirigentų Sauliaus Sondeckio, Gintaro Rinkevičiaus ir 
   global_id: t-26445
   teiginys: 'Jascha Heifetzas buvo 1901 m. Vilniuje gimęs ir smuiko mokęsis virtuozas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Jaschos Heifetzo kilmę ir veiklą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1901 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Jaschos Heifetzo kilmę ir veiklą.'

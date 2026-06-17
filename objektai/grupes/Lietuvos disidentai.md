@@ -38,7 +38,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
 - t-002
   global_id: t-74668
   teiginys: 'Lietuvos disidentai siekė išsaugoti tautos savastį, iš dalies neutralizuoti priešiškų jėgų veiklą ir ginti žmogaus teises.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -71,7 +71,7 @@ Disidentinis judėjimas stengėsi priversti okupacinę valdžią bent neignoruot
   global_id: t-74671
   teiginys: 'Lietuvos disidentinio judėjimo pradžia laikoma 1960 m., kai Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus sakinys apie Lietuvos disidentinį judėjimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus sakinys apie Lietuvos disidentinį judėjimą.'

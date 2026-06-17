@@ -14,7 +14,6 @@ tags:
   - kraštas
   - pilis
   - valdovas
-  - vieta
 amziai:
   - 'IX'
 ---
@@ -31,7 +30,7 @@ Dusburgietis teigia, kad 238 D — stagnum Drusine, Jer — Drûsin; XIII a. vid
   global_id: t-58542
   teiginys: 'Drūsinė XIII a. vidurio dokumentuose minima kaip Drusnie arba Drusa, o apie 890 m. Vulfstanas vietovardį užrašė kaip Truso.'
   sudarymo_pagrindimas: 'Citata remia vietovardžio istorines formas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/autoriai/Vulfstanas|Vulfstanas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Aistmarios; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Aistmarios; mentioned_place: Elbingas'
   temporaliniai_duomenys: 'įvykio data: 890 m; įvykio data: apie 890 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata remia vietovardžio istorines formas.'

@@ -23,7 +23,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   global_id: t-58466
   teiginys: 'Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas gramatiškai užbaigtas.'
-  susije_objektai: 'territory: Baiga; territory: Barta; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta'
+  susije_objektai: 'territory: Baiga; territory: Barta; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta'
   pagrindžia:
     - c-002
 

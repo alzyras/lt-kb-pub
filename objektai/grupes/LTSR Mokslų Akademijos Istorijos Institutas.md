@@ -29,7 +29,7 @@ LTSR Mokslų Akademijos Istorijos Institutas leidžia kas antri metai knygas : A
   global_id: t-31259
   teiginys: 'LTSR Mokslų Akademijos Istorijos Institutas kas dvejus metus leido knygas „Archeologiniai ir etnografiniai tyrinėjimai Lietuvoje“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje nurodytu leidybos faktu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_person: [[objektai/autoriai/A. Tautavičius|A. Tautavičius]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_person: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_person: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Tautavičius|A. Tautavičius]]; mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_author: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179535|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Pakarklis gvildeno Lietuvos istorijos klausimus ir ypač rašė apie teutonų ordinus.

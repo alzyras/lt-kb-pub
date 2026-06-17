@@ -48,7 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-23350
   teiginys: 'Piniginio vieneto įstatymas skelbė litą auksu paremtu Lietuvos piniginiu vienetu, sudarytu iš 100 centų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

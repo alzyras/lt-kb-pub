@@ -27,7 +27,7 @@ Vytautas buvo sudarytosios karo tarybos pirmininkas, todėl jisai buvo ir tikras
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/komputas.md#claim-t-09709|komputas]]: Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.
+
 ## Reikšmingi paminėjimai
 
 - c-001

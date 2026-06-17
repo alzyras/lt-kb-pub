@@ -55,7 +55,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177339
   teiginys: 'Lenkijos karalystės Seimas paskelbė šalinąs Nikolajų I iš Lenkijos karaliaus sosto ir perduodąs suverenitetą tautai.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir aiškiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir aiškiai paremtas citata.'
@@ -78,7 +78,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-004
   global_id: t-177341
   teiginys: 'Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinės Lietuvos nepriklausomybės siekis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vargiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vargiai'
   pagrindžia:
     - c-027
 
@@ -113,7 +113,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-008
   global_id: t-177345
   teiginys: 'Užėmęs Vytauto valdytas pilis ir Gardiną, Jogaila patvarkė Lietuvos gynybą ir grįžo į Lenkiją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-042
 
@@ -130,7 +130,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177348
   teiginys: 'Po 1183 m. lietuvių žygiai padažnėjo ir kasmet vyko ne tik į Rusios žemes, bet ir į Lenkiją bei Livoniją.'
   sudarymo_pagrindimas: 'Pradžia „Vėliau“ buvo kontekstinė, todėl patikslintas laikas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: po 1183 m.; įvykio data: 1183 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradžia „Vėliau“ buvo kontekstinė, todėl patikslintas laikas.'
@@ -141,7 +141,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-011
   global_id: t-177349
   teiginys: 'XIV a. Lenkijos miestai, tokie kaip Krokuva ir Liublinas, jau turėjo gotikos rūmų ir mūrinių gatvių vaizdą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antakalnis; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Antakalnis; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-056
 
@@ -150,7 +150,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177350
   teiginys: 'XIV a. Lenkijoje jau buvo miestų, su kuriais lyginamos aplink Vilniaus pilis buvusios gyvenvietės.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Lenkijos miestus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antakalnis; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Antakalnis; mentioned_place: Krokuva; mentioned_place: Liublinas; mentioned_place: Vilniaus pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-056
 
@@ -179,7 +179,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-015
   global_id: t-177353
   teiginys: 'Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jos provincijų — Didlenkių ir Mažlenkių — atskiri astovų suvažiavimai, vadinami generaliniais seimeliais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_place: Didlenkiai; mentioned_place: Liublinas; mentioned_place: Mažlenkiai'
+  susije_objektai: 'mentioned_place: Didlenkiai; mentioned_place: Liublinas; mentioned_place: Mažlenkiai'
   pagrindžia:
     - c-002
 
@@ -188,7 +188,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177355
   teiginys: '1922 m. sausį lenkai surengė rinkimus Vidurinėje Lietuvoje, kuri formaliai prisijungė prie Lenkijos.'
   sudarymo_pagrindimas: 'Patikslintas citatoje vartojamas objektas ir pašalintas dviprasmiškumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„nei karo, nei taikos“|„nei karo, nei taikos“]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„nei karo, nei taikos“|„nei karo, nei taikos“]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šveicarija'
   temporaliniai_duomenys: 'įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas citatoje vartojamas objektas ir pašalintas dviprasmiškumas.'
@@ -208,7 +208,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177358
   teiginys: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apima citatoje nurodytą tikslą, datą ir sutarties sudarymą per komtūrą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apima citatoje nurodytą tikslą, datą ir sutarties sudarymą per komtūrą.'
@@ -220,7 +220,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177359
   teiginys: '1008 m. pabaigoje iš Lenkijos aisčių krikštyti išvyko misijonierius su 18 palydovų.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus įvardis, todėl agentas sukonkretintas tiek, kiek leidžia citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1008 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra neaiškus įvardis, todėl agentas sukonkretintas tiek, kiek leidžia citata.'
@@ -249,7 +249,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-022
   global_id: t-177362
   teiginys: 'Abiejų Tautų Respublikoje vyravo Lenkija, nes Lietuva bendrame Seime turėjo tik trečdalį vietų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-029
 
@@ -258,7 +258,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177363
   teiginys: 'Lenkija siekė išsaugoti uniją, nes Vytauto karūnacija galėjo visiškai nutraukti jos ryšius su Lietuva.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra aiškinamasis fragmentas, todėl perrašytas į enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-040
 
@@ -267,7 +267,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177364
   teiginys: 'Vytauto karūnacija Lenkijai kėlė pavojų, nes Lietuva galėjo visiškai išsivaduoti iš Lenkijos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-008
 
@@ -297,7 +297,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177371
   teiginys: 'Lenkijos kunigaikštis, prūsų įbaugintas, duodavo jų pasiuntiniams reikalaujamus žirgus ir ryškiaspalvius drabužius.'
   sudarymo_pagrindimas: 'Pašalintas skyriaus pavadinimas ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-014
 
@@ -306,7 +306,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177373
   teiginys: 'Per aštuoniolika laisvo valdymo metų Vytautas paskleidė savo įtaką rusų kraštuose, Lenkijoje ir Aukso Ordoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-023
 
@@ -315,7 +315,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177375
   teiginys: 'Aleksandras dokumente tituluojamas Lenkijos karaliumi ir Lietuvos, Rusios, Prūsijos bei Žemaitijos didžiuoju kunigaikščiu.'
   sudarymo_pagrindimas: 'Citata palaiko pilną sakinį apie Aleksandro titulą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-036
 
@@ -324,7 +324,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177376
   teiginys: '1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nelietė Vilniaus pripažinimo Lenkijai.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir nurodo citatoje pateiktą ultimatumo priėmimo priežastį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir nurodo citatoje pateiktą ultimatumo priėmimo priežastį.'
@@ -397,7 +397,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177384
   teiginys: '1938 m. kovo 19 d. Lietuva priėmė Lenkijos ultimatumą, nes jis nereikalavo pripažinti Vilniaus Lenkijai.'
   sudarymo_pagrindimas: 'Reikia nurodyti metus ir aiškiau suformuluoti ultimatumo turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia nurodyti metus ir aiškiau suformuluoti ultimatumo turinį.'
@@ -421,7 +421,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177388
   teiginys: '1862 m. Kongresinėje Lenkijoje ir Lietuvoje susikūrė „raudonųjų“ organizacijos sukilimui rengti.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir faktas tiesiogiai susijęs su Kongresine Lenkija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1862 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir faktas tiesiogiai susijęs su Kongresine Lenkija.'
@@ -441,7 +441,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-043
   global_id: t-177390
   teiginys: 'Tikocine nukaldinti lenkiški grašiai turėjo būti priimami Lenkijoje ir Lietuvoje pagal lenkiškų grašių kainą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-053
 
@@ -477,7 +477,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177395
   teiginys: '1570 m. sąraše nurodyta, kad už talerį Lenkijoje mokėta po 30 grašių, o Lietuvoje - po 25 lietuviškus grašius.'
   sudarymo_pagrindimas: 'Pradinis tekstas turi OCR ir antraštės triukšmo, bet citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas turi OCR ir antraštės triukšmo, bet citata pagrindžia aiškų faktą.'
@@ -519,7 +519,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177400
   teiginys: 'Lietuvoje, kaip ir Vidurio Europos šalyse (Lenkijoje, Čekijoje, Vengrijoje), skirtingai nei Rytų Europoje, nuo Viduramžių kūrėsi individualus valstiečių ūkis, o ne bendruomenė, formavosi bajorų pilietinė visuomenė, o ne rytietiškas centralizmas ar despotija.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškiai sieja Lenkiją su Vidurio Europos civilizaciniu kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-028
 
@@ -528,7 +528,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177401
   teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   sudarymo_pagrindimas: 'Sutvarkytos kabutės ir paliktas citatos pagrįstas faktas apie santykį su Lenkija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1600 m.; įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkytos kabutės ir paliktas citatos pagrįstas faktas apie santykį su Lenkija.'
@@ -557,7 +557,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177404
   teiginys: 'Apie 1500 m. Lenkijoje buvo trys stačiatikių vyskupijos, o LDK – šešios.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir aiškiai lygina Lenkijos ir LDK vyskupijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Naugardukas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Naugardukas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1387 m.; įvykio data: 1387 m.; įvykio data: 1500 m.; įvykio data: apie 1500 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir aiškiai lygina Lenkijos ir LDK vyskupijas.'
@@ -569,7 +569,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177406
   teiginys: '1230 m. popiežius Grigalius IX patvirtino Lenkijos kunigaikščio susitarimą su Teutonų ordino broliais.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie Lenkijos kunigaikščio susitarimą ir popiežiaus patvirtinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
   temporaliniai_duomenys: 'įvykio data: 1230 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie Lenkijos kunigaikščio susitarimą ir popiežiaus patvirtinimą.'
@@ -581,7 +581,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177407
   teiginys: 'Ordino viršininkas siekė pasinaudoti kaimynų nesutarimais ir išardyti Lietuvos bei Lenkijos sąjungą.'
   sudarymo_pagrindimas: 'Citatoje kalbama apie kaimynų nesutarimus, todėl verta tiksliau perteikti veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-006
 
@@ -590,7 +590,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177408
   teiginys: 'Lenkiškai kalbantiems lietuviams linkstant į Lenkijos valstybingumo idėją, ryškėjo etnografinis Lietuvos nepriklausomybės siekis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir yra per ilgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vargiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Vargiai'
   pagrindžia:
     - c-027
 
@@ -611,7 +611,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177410
   teiginys: 'Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai apie Lenkijos valstybingumo institucijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų seimas|Bajorų seimas]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Krėva; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Bajorų seimas|Bajorų seimas]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-049
 
@@ -619,7 +619,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - t-062
   global_id: t-177411
   teiginys: 'Liublino unijos metu Lenkijoje veikė Didžiosios ir Mažosios Lenkijos atstovų suvažiavimai, vadinti generaliniais seimeliais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Didlenkiai; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_place: Didlenkiai; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
 
@@ -637,7 +637,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177414
   teiginys: 'Lietuvos ir Lenkijos tautų nelaimė paskatino visuomenes ir karalių bandyti gelbėti ATR valstybę.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant neaiškią pradžią ir išlaikant citatos prasmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Plockas; mentioned_place: Raseiniai; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Plockas; mentioned_place: Raseiniai; mentioned_place: Rusija; mentioned_place: Slanimas; mentioned_place: Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1791 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant neaiškią pradžią ir išlaikant citatos prasmę.'
@@ -692,7 +692,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   global_id: t-177421
   teiginys: 'Kai 1815 m. Vienos kongreso nutarimu iš didesnės dalies Varšuvos kunigaikštystės žemių, įskaitant Lietuvos Užnemunę, buvo sudaryta Lenkijos karalystė, vadinamoji Kongresinė Lenkija, jos sostas paveldėjimo teise perduotas Rusijos valdančiajai dinastijai.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai nusako Kongresinės Lenkijos sudarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Varšuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai nusako Kongresinės Lenkijos sudarymą.'
@@ -707,7 +707,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sukonkretintas veikėjas ir pašalinta kontekstinė pradžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-058
 
@@ -719,7 +719,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėsta neaiški nuoroda ir pašalintas perteklinis šaltinio įvadas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Dorpatas; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Dorpatas; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-062
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
@@ -774,19 +774,14 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179260|Lietuviai]]: Lietuvos karalius Pukuveras pasiuntė Vytenį su didele kariuomene į Bresto žemę, kur lietuviai žudė, degino ir grobė.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-72608|Ponų taryba (institucija)]]: Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176132|Žemaičiai]]: Atgavus Žemaičių žemę, karalius ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.
-- susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
 - susijęs iš [[objektai/ivykiai/Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius.md#claim-t-62328|Konrado dovanos prūsų pasiuntiniams siekiant malšinti antpuolius]]: Kunigaikštis Konradas prūsų pasiuntiniams davė žirgų ir ryškiaspalvių drabužių, tačiau dovanos jų antpuolių nesušvelnino.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45349|Krėvos sutartis (1385 m.)]]: Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45350|Krėvos sutartis (1385 m.)]]: 1385 m. sudaryta Krėvos sutartimi su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį.md#claim-t-185815|Lietuvos ginkluota pagalba Prūsijai prieš Boleslovą Narsųjį]]: Speros valdymo metais lietuviai kelis kartus siuntė ginkluotą pagalbą Prūsijai, kai ją puldinėjo Lenkijos karalius Boleslovas Narsusis.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš [[objektai/ivykiai/Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate.md#claim-t-185765|Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas)]]: Karalius viešai pažadėjo lenkams atsižvelgti į jų reikalavimus, bet reikalą ketino perduoti lietuvių seimui.
-- susijęs iš [[objektai/paprociai/Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais.md#claim-t-185900|Valdovo pareiga laisvoje valstybėje tartis dėl karo su didikais]]: Augustas Ivanui aiškino, kad laisvų žmonių valstybėje valdovas įstatymų verčiamas skaitytis su kitų nuomone dėl karo.
 - susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185466|Ugnimi ir kalaviju]]: Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės.
 - susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
-- susijęs iš Andriaus Vygando raštiškas pasižadėjimas Jogailai: Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią.
 - susijęs iš Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius: Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ liko nebaigta ir buvo skelbta „Židinyje“ 1935–1936 m.
 - susijęs iš Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius: Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ buvo originali, bet nebaigta.
 - susijęs iš Lenkijos karaliaus laiškas didžiajam magistrui dėl rūmų gydytojo: Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.
@@ -803,16 +798,12 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - susijęs iš Luckas: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
 - susijęs iš Pamaris: Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.
-- susijęs iš Transilvanija: Transilvanijos kunigaikštis Steponas Batoras, tapęs Lenkijos ir Lietuvos valdovu, Livonijos kare pasiekė lemiamų pergalių prieš Maskvą.
 - susijęs iš Varšuva: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
 - susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
 - susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
 - susijęs iš Volynė: Kazimieras atidavė Volynę Aleksandrui Narimantaičiui su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
 - susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš [[objektai/zodynas/luomai.md#claim-t-185359|luomai]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
-- susijęs iš [[objektai/zodynas/luomas.md#claim-t-184621|luomas]]: Karalius ir luomai nusprendė pasiūlyti Vytautui Lenkijos karalystės vainiką.
-- susijęs iš [[objektai/zodynas/pacta conventa.md#claim-t-182963|pacta conventa]]: Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
 - susijęs iš [[objektai/zodynas/siuzerenas.md#claim-t-95926|siuzerenas]]: Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus.
 - susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11684|supremus dux ir magnus dux]]: Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.
@@ -1180,6 +1171,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59899|Mstivojus]]: Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184797|Mykolas (Žygimanto sūnus)]]: Mykolas iš Mazovijos atvyko į Kališą ir prašė karaliaus grąžinti jam tėvoniją bei tėvo turtus.
+- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75989|Mykolas Sleževičius]]: Mykolas Sleževičius žadėjo dalyti lenkų dvarininkų žemę bežemiams ir mažažemiams, todėl dauguma gyventojų parėmė vyriausybę.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75990|Mykolas Sleževičius]]: Mykolas Sleževičius nepriklausomybės kovose konsolidavo centrinę administraciją ir kvietė tautines mažumas priešintis įsiveržėliams.
 - susijęs iš [[objektai/asmenys/Mykolas Sleževičius.md#claim-t-75993|Mykolas Sleževičius]]: 1920 m. rugsėjį ministras pirmininkas Mykolas Sleževičius Seime ragino griebtis ginklo prieš lenkų puolimą.
@@ -4646,9 +4638,9 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 
 ## Ryšiai
 - [[objektai/asmenys/Gediminas]] valde_teritorija Lenkija
-- [[objektai/asmenys/Grigalius (vicekancleris)]] valde_teritorija Lenkija
 - [[objektai/asmenys/Konradas]] valde_teritorija Lenkija
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]] valde_teritorija Lenkija
+- [[objektai/asmenys/Kūnas]] valde_teritorija Lenkija
 - [[objektai/asmenys/Liubartas]] valde_teritorija Lenkija
 - [[objektai/asmenys/Mstivojus]] valde_teritorija Lenkija
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Lenkija
@@ -4671,7 +4663,6 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - [[objektai/asmenys/Jadvyga]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Jonas]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Jurgis Narimantaitis]] buvo_valdovas Lenkija
 - [[objektai/grupes/Karaimai]] susije_su Lenkija
 - [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]] buvo_valdovas Lenkija
@@ -4680,27 +4671,23 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_valdovas Lenkija
 - [[objektai/grupes/Lenkai]] susije_su Lenkija
-- [[objektai/asmenys/Lešekas]] buvo_valdovas Lenkija
 - [[objektai/grupes/Lietuviai]] susije_su Lenkija
-- [[objektai/asmenys/Lokietka]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Mieška]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Olafas (Norvegijos valdovas)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Lenkija
 - [[objektai/grupes/Ponų taryba|Ponų taryba (institucija)]] susije_su Lenkija
 - [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Skirgaila]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Steponas]] buvo_valdovas Lenkija
+- [[objektai/asmenys/Spera]] buvo_valdovas Lenkija
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Vladislovas]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Vladislovas Lokietka]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Vygandas]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Ziemovitas]] buvo_valdovas Lenkija
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Lenkija
 - [[objektai/asmenys/Šich Achmetas]] buvo_valdovas Lenkija
 - [[objektai/grupes/Žemaičiai]] susije_su Lenkija
 - [[objektai/grupes/7-asis pėstininkų pulkas]] priklause Lenkija
@@ -4715,7 +4702,7 @@ Lietuvos prekybą varžant ordinui, užgrobusiam upių žiotis, didelė dalis pi
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Lenkija
 - [[objektai/vietos/Krušvica]] priklause Lenkija
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Lenkija
-- [[objektai/asmenys/Mykolas]] susije_su Lenkija
+- [[objektai/grupes/Lietuviai]] priklause Lenkija
 - [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] keliavo_i Lenkija
 - [[objektai/asmenys/Odoničius]] keliavo_i Lenkija
 - [[objektai/asmenys/Pilypas (Fermo vyskupas)]] keliavo_i Lenkija

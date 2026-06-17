@@ -18,7 +18,6 @@ tags:
   - grupe
   - karalius
   - karas
-  - sutartis
 amziai:
   - 'XVI'
   - 'XVIII'

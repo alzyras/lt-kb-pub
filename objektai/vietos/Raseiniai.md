@@ -37,7 +37,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   global_id: t-182825
   teiginys: 'Po Vaikių krašto nusiaubimo ginkluota palyda kitą dieną pasiekė Raseinių ribas, o vėliau ir Ariogalos apylinkes.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Ariogala; mentioned_place: Romuva; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_place: Ariogala; mentioned_place: Romuva; mentioned_place: Vaikiai; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-003
 
@@ -61,7 +61,7 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta gremėzdiška sakinio sandara.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 

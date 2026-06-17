@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-20208
   teiginys: 'Po Sausio 13-osios sovietams nepavyko užgniaužti iš Lietuvos pasauliui sklindančios informacijos.'
   sudarymo_pagrindimas: 'Pradinis teiginys teisingas, bet reikėjo susieti jį su įvykio objektu.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Sausio 13-oji (1991 m.)|Sausio 13-oji (1991 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Sausio 13-oji (1991 m.)|Sausio 13-oji (1991 m.)]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: SSRS; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 

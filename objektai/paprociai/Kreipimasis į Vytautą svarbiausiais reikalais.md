@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-93031
   teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo ir paramos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako paprotį ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Ciołek|Stanislovas Ciołek]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Płockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Stanislovas Ciołek|Stanislovas Ciołek]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Płockas'
   pagrindžia:
     - c-001
 
@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-93033
   teiginys: 'Vytautui užtariant lenkų šlėktą ir tarpininkaujant, Jogaila Červinsko stovykloje padidino bajorijos luomo teises.'
   sudarymo_pagrindimas: 'Pašalinta fragmentinė pradžia ir OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Červinskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Červinskas'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-93034
   teiginys: 'Lenkų pakancleriai, vyskupai ir senatoriai kreipdavosi į Vytautą svarbiausiais karūnos reikalais, prašydami patarimo arba paramos.'
   sudarymo_pagrindimas: 'Pirminis tekstas buvo fragmentiškas; citata leidžia suformuluoti pilną faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Ciołek|Stanislovas Ciołek]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Płockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Stanislovas Ciołek|Stanislovas Ciołek]]; mentioned_person: [[objektai/asmenys/Ziemovitas|Ziemovitas]]; mentioned_place: Płockas'
   pagrindžia:
     - c-001
 

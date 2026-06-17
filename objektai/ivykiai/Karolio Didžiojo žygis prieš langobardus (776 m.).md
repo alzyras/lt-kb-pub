@@ -34,8 +34,8 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta autorinė įžanga, OCR triukšmas ir perteklinė formuluotė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis Didysis|Karolis Didysis]]; mentioned_place: Italija'
-  temporaliniai_duomenys: 'įvykio data: 754 m; įvykio data: 776 m'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis Didysis|Karolis Didysis]]; mentioned_place: Italija'
+  temporaliniai_duomenys: 'įvykio data: 754 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta autorinė įžanga, OCR triukšmas ir perteklinė formuluotė.'
   pagrindžia:

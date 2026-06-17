@@ -27,7 +27,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija.
   global_id: t-77822
   teiginys: 'Draugija užsienio lietuviams remti buvo sukurta padėti užsienio lietuviams ir palaikyti jų ryšius su tėvyne.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako draugijos paskirtį ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako draugijos paskirtį ir remiasi citata.'

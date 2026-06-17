@@ -38,7 +38,7 @@ Nenurodyta
   global_id: t-86966
   teiginys: 'Olesnickio atsakymas privertė Vytautą sudvejoti dėl karūnacijos sumanymo, o praradęs viltį gauti karūną jis sunkiai susirgo.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda citatos fragmentu ir nutrūksta; citata bei pavadinimas leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_person: [[objektai/asmenys/Olesnickio|Olesnickio]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Olesnickio|Olesnickio]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

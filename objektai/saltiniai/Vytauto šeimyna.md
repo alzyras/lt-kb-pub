@@ -27,7 +27,7 @@ Plataus dėmesio susilaukė jo studija « Vytauto šeimyna » (atsp. iš Praeiti
 - t-001
   global_id: t-31978
   teiginys: 'Studija „Vytauto šeimyna“ sulaukė plataus dėmesio ir buvo atspausta iš 1933 m. „Praeities“ 2 tomo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1933 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -21,7 +21,7 @@ Dusburgietis teigia, kad tačiau minėtasis Herkus Mantas, iš tolo pamatęs bro
   global_id: t-59171
   teiginys: 'Herkus Mantas, pasakęs Henrikui Ulenbušui „Šiandien pat pasiųsiu tave į dangų“, sunkiai sužeidė jį ietimi.'
   sudarymo_pagrindimas: 'Citata palaiko įvykį ir pasakymą, bet pradinis teiginys per ilgas ir turi išnašos triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]'
   pagrindžia:
     - c-001
 

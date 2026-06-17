@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-35845
   teiginys: 'Valdymo pradžioje Kęstutis ir Algirdas buvo pradėję tartis dėl krikšto.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus sakinys ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
 

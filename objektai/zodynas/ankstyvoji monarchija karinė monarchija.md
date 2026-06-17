@@ -29,7 +29,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   global_id: t-22056
   teiginys: 'XIV a. Lietuvos santvarka kartais apibūdinama kaip karinė monarchija, nes ordinų agresija vertė Lietuvą daug energijos skirti karybai.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia tiesioginį teiginį apie karinę monarchiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -38,7 +38,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   global_id: t-22057
   teiginys: 'Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pritaikytas įrašo objektui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pritaikytas įrašo objektui.'
@@ -53,7 +53,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie ankstyvosios, arba karinės, monarchijos susiformavimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

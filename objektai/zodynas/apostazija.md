@@ -49,7 +49,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-001
   global_id: t-05588
   teiginys: 'Mindaugo apostazijos klausimas šaltinyje pateikiamas kaip viena pagrindinių problemų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-004
@@ -58,7 +58,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-002
   global_id: t-05589
   teiginys: 'Pagrindinės kronikos įsakmiai pažymi Mindaugo apostaziją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
 - t-003
   global_id: t-05590
   teiginys: 'Apostazija šiame tekste reiškia Mindaugo atkritimą nuo krikščionybės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jonas XXII|Jonas XXII]]'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -78,7 +78,7 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   global_id: t-05591
   teiginys: 'Mindaugo apostazijos klausimas siejamas su ginču, ar Mindaugas po Žemaičių laimėjimo prie Durbės atsimetė nuo krikščionybės.'
   sudarymo_pagrindimas: 'Sąvoka perrašyta į pilną faktinį sakinį, paremtą citatos problema.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
   pagrindžia:
     - c-001
 
@@ -96,26 +96,10 @@ Terminas vartojamas ginče dėl Mindaugo santykio su krikštu ir ordinu.
   global_id: t-97278
   teiginys: 'J. Stakauskas pripažino, kad nuomonė apie Mindaugo apostaziją po Durbės mūšio turi tam tikro pagrindo.'
   sudarymo_pagrindimas: 'Pradinė frazė nutrūkusi ir triukšminga, o citata remia pilną sakinį apie Mindaugo apostazijos klausimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Lowmiański|H. Lowmiański]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Durbė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Henrikas Botelis.md#claim-t-184711|Henrikas Botelis]]: Mūšyje žuvo Prūsijos maršalas Henrikas Botelis, Livonijos magistras ir šimtas penkiasdešimt ordino riterių.
-- susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-183552|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
-- susijęs iš [[objektai/asmenys/Klemensas IV.md#claim-t-19064|Klemensas IV]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą pavadino „šviesaus atminimo valdovu“.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113929|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184490|Kryžiuočių ordinas]]: Mūšyje Livonijos kariuomenė buvo sutriuškinta, žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir 150 ordino riterių.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-182934|Žiemgaliai]]: Po Durbės mūšio žiemgaliai atsimetė nuo Ordino ir prisidėjo prie Lietuvos.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89345|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią sukilėlių pusėje puolė žemaičiai.
-- susijęs iš [[objektai/grupes/Žiemgaliai.md#claim-t-89352|Žiemgaliai]]: Kryžiuočiams nepavykus paimti žiemgalių Tervetės pilies, jie pasistatė Dobę, kurią puolė žemaičiai.
-- susijęs iš [[objektai/ivykiai/Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.).md#claim-t-185741|Lietuvių atsiimta jotvingių šalis ir Raigardo įkūrimas (1281 m.)]]: 1281 metais išlikę jotvingiai, pamatę lietuvių kariuomenę, atsimetė nuo lenkų ir prisidėjo prie lietuvių.
-- susijęs iš [[objektai/ivykiai/Prūsų sukilimas prieš kryžiuočius A. Kojelavičiaus pasakojime.md#claim-t-185763|Prūsų sukilimas prieš kryžiuočius A. Kojelavičiaus pasakojime (sukilimas)]]: Prūsai, išsirinkę vadus, atsimetė nuo krikščionybės, prieš šv. Motiejaus dieną griovė bažnyčias ir žiauriai kankino pagautus kunigus.
-- susijęs iš [[objektai/paprociai/Ištikimybė protėvių religijai ir papročiams.md#claim-t-185871|Ištikimybė protėvių religijai ir papročiams]]: Kojelavičiaus pasakojime lietuviai pagonys, ištikimi protėvių religijai ir papročiams, sukūrė Lietuvos valstybę.
-- susijęs iš [[objektai/posakiai/„šviesaus atminimo valdovu“.md#claim-t-77863|„šviesaus atminimo valdovu“]]: 1268 m. popiežius Klemensas IV bulėje Mindaugą vadino „šviesaus atminimo valdovu“.
-- susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
-- susijęs iš Baiga: 1260 m. nuo tikėjimo atsimetę varmiai, notangai ir bartai kelis kartus puolė Baigą ir grobė brolių arklius bei gyvulius.
-- susijęs iš Odojevas: Odojevo kunigaikštis buvo tarp Okos ir Dono aukštupių valdovų, atsimetusių nuo Vytauto.
-- susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-184631|Ordino brolis]]: Mūšyje žuvo Livonijos magistras, Prūsijos maršalas Henrikas Botelis ir šimtas penkiasdešimt ordino riterių, vadinamų broliais.
-- susijęs iš [[objektai/zodynas/erezija.md#claim-t-185402|erezija]]: Petras Skarga sakė, kad nuo krikščionybės atsimetę ar prie erezijų prisidėję žmonės silpnino monarcho valdžią ir griovė Žečpospolitą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

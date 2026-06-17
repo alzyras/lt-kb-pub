@@ -33,10 +33,7 @@ Bet Olivos metraš­ čiai (Annales Oliv., p. 48) rašo, kad tuo tarpu, kai Gedi
   susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Hermanas.md#claim-t-183740|Hermanas]]: Po keturių savaičių apgulties lietuviai pabūklu nukovė meistrą Hermaną, kai jis pilies angoje pastatė bombardą prieš lietuvius.
-- susijęs iš [[objektai/asmenys/Hermanas.md#claim-t-40139|Hermanas]]: Meistras Hermanas po keturių savaičių apgulties pastatė bombardą prieš lietuvius, tačiau buvo jų užmuštas tokiu pat pabūklu.
-- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113454|Bombardos]]: Per apgultį meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai tokiu pat pabūklu jį užmušė.
-- susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113457|Bombardos]]: Po keturių savaičių apgulties meistras Hermanas pilies angoje pastatė bombardą prieš lietuvius, bet lietuviai priešais įtaisė tokį pat pabūklą ir užmušė Hermaną.
+
 ## Reikšmingi paminėjimai
 
 - c-001

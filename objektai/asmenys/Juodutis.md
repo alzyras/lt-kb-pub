@@ -25,7 +25,7 @@ Dusburgietis teigia, kad vis dėlto, kai Karaliaučiaus komtūras sugrįžo, kai
   susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Notanga; mentioned_place: Sklunija; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
+
 ## Reikšmingi paminėjimai
 
 - c-001

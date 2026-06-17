@@ -33,7 +33,7 @@ Dusburgietis teigia, kad apie brolį Konradą, kadaise Tiuringijos landgrafą, p
   global_id: t-58591
   teiginys: 'Brolis Konradas, penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   sudarymo_pagrindimas: 'Citata remia aiškų faktą apie Konrado palaidojimą Markburge; pašalintas perteklinis įvadas.'
-  susije_objektai: 'location: Viena; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Viena'
+  susije_objektai: 'location: Viena; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Konradas (Tiuringijos landgrafas).md#claim-t-59988|Konradas (Tiuringijos landgrafas)]]: Konradas, buvęs Tiuringijos landgrafas ir penktasis Teutonų namų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.

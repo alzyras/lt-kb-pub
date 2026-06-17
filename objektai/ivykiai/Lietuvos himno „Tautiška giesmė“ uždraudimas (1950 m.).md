@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-20298
   teiginys: '1950 m. sovietai uždraudė Lietuvos himną – Vinco Kudirkos „Tautišką giesmę“.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutolsta nuo įvykio objekto; citata geriau pagrindžia himno uždraudimą.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutolsta nuo įvykio objekto; citata geriau pagrindžia himno uždraudimą.'

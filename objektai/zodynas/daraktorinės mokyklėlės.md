@@ -31,7 +31,7 @@ Tokios daraktorinėmis vadintos mokyklėlės masiškai išplito ir miestuose.
   global_id: t-77792
   teiginys: 'Po 1863–1864 m. sukilimo etninėje Lietuvoje masiškai išplito slaptos daraktorinėmis vadintos mokyklėlės.'
   sudarymo_pagrindimas: 'Citata mini masinį plitimą ir miestuose, todėl siaurinimas iki kaimų nėra tikslus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1863-1864; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata mini masinį plitimą ir miestuose, todėl siaurinimas iki kaimų nėra tikslus.'

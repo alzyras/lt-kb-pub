@@ -50,7 +50,7 @@ amziai:
 - t-001
   global_id: t-05395
   teiginys: 'Visas veikalo dėstymas sutelkiamas apie lietuvių tautos valstybingumo idėją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/valstybingumo idėja|valstybingumo idėja]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-004
 
@@ -59,7 +59,7 @@ amziai:
   global_id: t-05396
   teiginys: 'Zenono Ivinskio veikale Lietuvos istorija pradedama XII a. pabaiga, kai lietuvių žygiai jau grindžiami rašytiniais šaltiniais.'
   sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį be nuorodos „šiame veikale“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -68,7 +68,7 @@ amziai:
   global_id: t-05397
   teiginys: 'Zenonas Ivinskis mirė 1971 m. gruodžio 24 d., nebaigęs numatyto plano, o tomą redagavo ir spragas užpildė Paulius Jatulis.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų sakinį apie autorių, tomo būklę ir redaktorių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1492 m.; įvykio data: 1492 m.; įvykio data: 1970 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų sakinį apie autorių, tomo būklę ir redaktorių.'

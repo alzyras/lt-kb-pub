@@ -33,7 +33,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   global_id: t-171341
   teiginys: 'Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.'
   sudarymo_pagrindimas: 'Galima pateikti tiesioginį faktą apie Karijotaičius be perteklinės šaltinio įžangos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-004
 
@@ -41,8 +41,8 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-002
   global_id: t-171342
   teiginys: 'Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Kamenecas; owner: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; owner: Lietuva; owner: Podolė; owner: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė'
-  semantiniai_rysiai: '[[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Teodoras|Teodoras]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Kamenecas; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Lietuva; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Podolė'
+  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Kamenecas; owner: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; owner: Lietuva; owner: Podolė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė'
+  semantiniai_rysiai: '[[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Kamenecas; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Lietuva; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Podolė'
   pagrindžia:
     - c-005
 
@@ -241,5 +241,4 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - Karijotaičiai priklause [[objektai/asmenys/Konstantinas (Karijotaitis)]]
 - Karijotaičiai priklause [[objektai/vietos/Lietuva]]
 - Karijotaičiai priklause [[objektai/vietos/Podolė]]
-- Karijotaičiai priklause [[objektai/asmenys/Teodoras]]
 - [[objektai/vietos/Kijevas]] priklause Karijotaičiai

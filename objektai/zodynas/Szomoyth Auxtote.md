@@ -22,7 +22,7 @@ Tai reiškia: „Žemaitijos žemė yra ir visada bu­ vo vienas ir tas pats, ka
   global_id: t-86574
   teiginys: 'Szomoyth aiškinta kaip žemesnė žemė, o Auxtote – kaip aukštesnė žemė, palyginti su Žemaitija.'
   sudarymo_pagrindimas: 'Pradinė citata nutrūksta, bet šaltinis pagrindžia terminų reikšmių aiškinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/Austurweg|Austurweg]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Vysla; mentioned_place: Žemaitija; mentioned_place: Žemaičių žemė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Vysla; mentioned_place: Žemaitija; mentioned_place: Žemaičių žemė'
   pagrindžia:
     - c-001
 

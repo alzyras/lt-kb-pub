@@ -46,7 +46,6 @@ Nastopka. Nastopkos vadovaujamos 11 brigados dalys veikė šiaurinėje Lietuvos 
   global_id: t-40413
   teiginys: 'Gen. S. Nastopka buvo atleistas iš armijos vado pareigų prieš 1919 m. rugpjūčio 23 d. K. Ladygos paskyrimą armijos vadu.'
   sudarymo_pagrindimas: 'Teiginį verta perrašyti taip, kad pagrindinis faktas būtų apie S. Nastopką, o ne apie K. Ladygą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį verta perrašyti taip, kad pagrindinis faktas būtų apie S. Nastopką, o ne apie K. Ladygą.'

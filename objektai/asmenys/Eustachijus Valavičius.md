@@ -22,7 +22,7 @@ tags:
   global_id: t-87424
   teiginys: 'Eustachijus Valavičius buvo Vilniaus kaštelionas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Eustachijaus Valavičiaus pareigas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nukirptas ir perkrautas sąrašu; citata palaiko konkretų faktą apie Valavičiaus vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
@@ -93,3 +93,8 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
+
+## Ryšiai
+- Eustachijus Valavičius buvo_valdovas [[objektai/vietos/Maskva]]
+- Eustachijus Valavičius buvo_valdovas [[objektai/vietos/Trakai]]
+- Eustachijus Valavičius buvo_valdovas [[objektai/vietos/Vilnius]]

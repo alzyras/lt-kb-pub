@@ -32,7 +32,7 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   global_id: t-187385
   teiginys: 'Vytautas Didysis Volkoviske pastatė bažnyčią.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   global_id: t-187386
   teiginys: 'Iš pradžių jie įvykdavo Volkoviske, o vėliau Slanime.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/generaliniai seimeliai|generaliniai seimeliai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Slanimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/generaliniai seimeliai|generaliniai seimeliai]]; mentioned_place: Lietuva; mentioned_place: Slanimas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.

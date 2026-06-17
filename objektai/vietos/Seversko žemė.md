@@ -22,7 +22,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
 - t-001
   global_id: t-42133
   teiginys: 'Seversko žemė buvo į šiaurės rytus nuo Kijevo, o jos rusų miestus pasiekė Ordoje kilęs badas ir maras.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Severskas; mentioned_place: Volga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Severskas; mentioned_place: Volga'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmo, bet citata palaiko aiškų faktą apie Seversko žemės didikus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_place: Seversko žemės; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Severskas; mentioned_place: Seversko žemės; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -70,7 +70,7 @@ džios likvidavimo didelėje ČernigovoOrdoje kilo badas ir maras, kuris plito �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Pacas|Stanislovas Pacas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Stanislovas Pacas|Stanislovas Pacas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Fiodoras Grigorovičius.md#claim-t-186201|Fiodoras Grigorovičius]]: Lietuvos raštininkas Fiodoras Grigorovičius su Stanislovu Strumila Petravičiumi derėjosi su Ivanu dėl skriaudų atlyginimo.

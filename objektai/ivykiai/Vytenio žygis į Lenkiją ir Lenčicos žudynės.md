@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-59455
   teiginys: 'Kazimieras, Lenkijos kunigaikštis, su 1800 vyrų persekiojo iš Lenkijos besitraukiančius lietuvius.'
   sudarymo_pagrindimas: 'Patikslintas objektas ir suformuotas aiškesnis enciklopedinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-59456
   teiginys: 'Vytenis su 800 vyrų per Sekmines įsiveržė į Lenkiją, užpuolė Lenčicos dvasininkus ir išsivarė daug belaisvių.'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR, bet citata aiškiai remia glaustą faktą apie žygį ir žudynes.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

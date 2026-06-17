@@ -14,7 +14,6 @@ tags:
   - ordinas
   - pilis
   - privilegija
-  - vieta
 amziai:
   - 'XIII'
 ---

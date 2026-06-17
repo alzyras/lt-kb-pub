@@ -28,7 +28,7 @@ Oginskis telkė respublikonų pajėgas Žemaitijoje, Višnioveckiai organizavo b
   global_id: t-41631
   teiginys: 'Bresto vaivadijoje Višnioveckiai telkė LDK pietų bajoriją, pasitelkdami savo šalininkus, tarnus ir rekrūtus iš Voluinės dvarų.'
   sudarymo_pagrindimas: 'Reikia glaustesnės ir tikslesnės formuluotės pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Vileika; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_place: Ašmena; mentioned_place: Lenkija; mentioned_place: Vileika; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1700 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia glaustesnės ir tikslesnės formuluotės pagal citatą.'

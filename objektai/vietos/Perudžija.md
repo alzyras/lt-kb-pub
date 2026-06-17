@@ -28,7 +28,6 @@ Pasiuntiniai rado popiežių Perudžijoje (Š.
   global_id: t-34215
   teiginys: '1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/brevė|brevė]]'
   temporaliniai_duomenys: 'įvykio data: 1388 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Perudžiją ir atitinka citatą.'

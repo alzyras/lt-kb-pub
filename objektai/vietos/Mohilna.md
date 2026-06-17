@@ -28,7 +28,7 @@ Antroji to Metraščio redakcija aprašo, kaip Mindaugo tėvas (Bychovco kroniko
   global_id: t-32373
   teiginys: 'Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.'
   sudarymo_pagrindimas: 'Teiginys pertvarkytas kaip aiškus sakinys apie metraščio pasakojimą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Rusai|Rusai]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'counterparty: [[objektai/grupes/Rusai|Rusai]]; counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1234 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) kariavo prieš Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) kariavo prieš Totoriai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pertvarkytas kaip aiškus sakinys apie metraščio pasakojimą.'

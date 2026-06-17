@@ -28,7 +28,7 @@ kairiajame Dauguvos vidurupio krante, siekdami dabartines Utenos ir Zarasų apsk
 - t-001
   global_id: t-52441
   teiginys: 'Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.'
-  susije_objektai: 'location: Dauguva; location: Latvija; location: Lietuva; location: Utena; location: Zarasai; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Zarasai'
+  susije_objektai: 'location: Dauguva; location: Latvija; location: Lietuva; location: Utena; location: Zarasai; mentioned_place: Dauguva; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Utena; mentioned_place: Zarasai'
   semantiniai_rysiai: '[[objektai/grupes/Sėliai|Sėliai]] gyveno Dauguva; [[objektai/grupes/Sėliai|Sėliai]] gyveno Latvija; [[objektai/grupes/Sėliai|Sėliai]] gyveno Lietuva; [[objektai/grupes/Sėliai|Sėliai]] gyveno Utena; [[objektai/grupes/Sėliai|Sėliai]] gyveno Zarasai'
   pagrindžia:
     - c-001

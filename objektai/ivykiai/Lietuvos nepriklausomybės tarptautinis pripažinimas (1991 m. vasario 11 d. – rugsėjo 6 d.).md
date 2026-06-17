@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-75171
   teiginys: '1991 m. vasario 11 d. Islandijos Altingas pirmasis pripažino Lietuvos nepriklausomybę.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, instituciją ir pripažinimo veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Didžioji Britanija; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Prancūzija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Didžioji Britanija; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Prancūzija; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, instituciją ir pripažinimo veiksmą.'
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-75172
   teiginys: 'Rugpjūtį žlugus Maskvos pučui, per kurį komunistai mėgino susigrąžinti valdžią Sovietų Sąjungoje, kelias į Lietuvos nepriklausomybės pripažinimą tapo laisvas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Didžioji Britanija; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Prancūzija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Didžioji Britanija; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Prancūzija; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'

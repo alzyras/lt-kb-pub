@@ -21,7 +21,7 @@ Be Naugardo, Pskovo, Tverės bei kitų sričių išrengtų raitelių ir Maskvos 
 - t-001
   global_id: t-40323
   teiginys: 'Kunigaikštis Madykas buvo murzos Sivinduko tėvas.'
-  susije_objektai: 'territory: Dorogobužas; territory: Maskva; territory: Smolenskas; territory: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/murza|murza]]; mentioned_person: [[objektai/asmenys/Sivindukas|Sivindukas]]; mentioned_place: Dorogobužas; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  susije_objektai: 'territory: Dorogobužas; territory: Maskva; territory: Smolenskas; territory: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Sivindukas|Sivindukas]]; mentioned_place: Dorogobužas; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
   semantiniai_rysiai: '[[objektai/asmenys/Madykas|Madykas]] buvo valdovas Dorogobužas; [[objektai/asmenys/Madykas|Madykas]] buvo valdovas Maskva; [[objektai/asmenys/Madykas|Madykas]] buvo valdovas Smolenskas; [[objektai/asmenys/Madykas|Madykas]] buvo valdovas Tverė'
   pagrindžia:
     - c-001

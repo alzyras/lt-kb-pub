@@ -20,7 +20,7 @@ Yra duomenų, kad šios ir Vitebsko gvardijos 103-iosios oro desanto divizijos, 
 - t-001
   global_id: t-41198
   teiginys: 'Vitebsko gvardijos 103-ioji oro desanto divizija sausio 8-11 d. buvo perdislokuota į Lietuvą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
   pagrindžia:
     - c-001
 

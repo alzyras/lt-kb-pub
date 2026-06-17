@@ -16,7 +16,6 @@ tags:
   - kunigaikštis
   - ordinas
   - valdovas
-  - vieta
 amziai:
   - 'XIII'
 ---
@@ -33,7 +32,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   global_id: t-175394
   teiginys: 'Petras Dusburgietis Santyro pilį apibūdino kaip pastatytą kenkti tikėjimui ir tikintiesiems.'
   sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl pagrįsta palikti atribuciją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-005
 
@@ -75,7 +74,7 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   global_id: t-175398
   teiginys: 'Prie Santyro Konradas Bremeris pamatė jo tykojusį Sventopelką su daugybe žmonių ir 20 laivų.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nukirstas ir su antraštės triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Konradas Bremeris|Konradas Bremeris]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas'
   pagrindžia:
     - c-001
 

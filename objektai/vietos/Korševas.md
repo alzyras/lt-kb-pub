@@ -15,7 +15,6 @@ tags:
   - miestas
   - ordinas
   - upė
-  - vieta
 amziai:
   - 'XIV'
 ---

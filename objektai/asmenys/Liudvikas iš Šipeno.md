@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie brolį Liudviką iš Šipeno, Prūsijos žemės ma
   global_id: t-60379
   teiginys: 'Liudvikas iš Šipeno buvo keturioliktasis Prūsijos žemės magistras, vadovavo vienus metus ir 1299 m. buvo palaidotas Kulmenzės katedroje.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas; citata remia pareigas, trukmę ir palaidojimo vietą.'
-  susije_objektai: 'location: Kulmenzė; location: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  susije_objektai: 'location: Kulmenzė; location: Prūsija; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]] mirė Kulmenzė; [[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]] mirė Prūsija'
   temporaliniai_duomenys: 'mirties data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas iš Šipeno mirė Kulmenzė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas iš Šipeno mirė Prūsija“, o ne visam objekto laikotarpiui.'

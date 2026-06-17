@@ -38,7 +38,7 @@ Pašuto : Obrazovanie litovskogo gosudarstva (išl. Pašuto, V.
 - t-002
   global_id: t-31047
   teiginys: 'V. T. Pašuto parašė veikalą „Obrazovanie litovskogo gosudarstva“, kurio lietuviškas vertimas išėjo pavadinimu „Lietuvos valstybės susidarymas“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kijevas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Kijevas; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 - susijęs iš Pašuto, V. T. Očerki po istorii Galicko-Volynskoj Rusi: V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.

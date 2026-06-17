@@ -22,7 +22,7 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   global_id: t-95922
   teiginys: 'Lenkijos kariuomenė susirinko į Volbožą ir birželio 26 d. išvyko į Červinską.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Visla; mentioned_place: Červinskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Visla; mentioned_place: Červinskas'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Lenkijos kariuomenė susirinko į Volbožą ir iš ten į Červin­ ską išvyko
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata apie Volbožą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Bidgoščius; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Radzejovas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Bidgoščius; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Radzejovas; mentioned_place: Volynė'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179227|Lietuviai]]: Lietuvos kariuomenė pradėjo rinktis gegužės pabaigoje arba birželio pradžioje.

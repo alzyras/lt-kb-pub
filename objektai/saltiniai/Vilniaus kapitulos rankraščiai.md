@@ -34,7 +34,7 @@ Nenurodyta
   global_id: t-88490
   teiginys: 'Vilniaus kapitulos rankraščiuose buvo Žygimanto Senojo 1542 m. privilegija prieš eretikus, duota Vilniaus vyskupui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos antrašte bei nuoroda į rankraščius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1542 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir remiasi citatos antrašte bei nuoroda į rankraščius.'

@@ -23,7 +23,7 @@ Radvilos pajėgos nusiaubė Rževo apylinkes, tuomet perėję Volgos upę, sudeg
 - t-001
   global_id: t-42166
   teiginys: 'Radvilos pajėgoms artėjant prie Staricos, joje rezidavęs Ivanas IV skubiai evakavo šeimą, dvarą ir iždą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Urdomas; mentioned_place: Volga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Rževas; mentioned_place: Urdomas; mentioned_place: Volga'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78613|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: 1581 m. rugpjūčio 25 d. Kristupo Radvilos pajėgos nusiaubė Rževo apylinkes, sudegino Urdomo miestą ir pasuko Staricos link.

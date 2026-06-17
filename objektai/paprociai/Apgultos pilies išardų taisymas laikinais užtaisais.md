@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87260
   teiginys: 'Aukštutinės pilies gynėjai patrankų pramuštas mūro vietas užtaisydavo žeme, mėšlu, galvijų oda ir vilnų prikimštais maišais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -27,7 +27,7 @@ Be to, į Žemaičių vyskupiją pareiškė pretenzijų Rygos arkivyskupai (Gots
 - t-001
   global_id: t-35080
   teiginys: 'Rygos arkivyskupas Gotszalk Schutte reiškė pretenzijas į Žemaičių vyskupiją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

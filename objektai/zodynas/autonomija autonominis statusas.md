@@ -57,7 +57,7 @@ Visuomeninė veikla, domėjimasis karo eiga ir pokario sutvarkymo reikalais Viln
   global_id: t-70096
   teiginys: '1921 m. rugsėjį Himansas pataisė planą lietuvių naudai: Vilniaus regionas turėjo autonominio rajono, o ne kantono statusą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina citatos informaciją apie Himanso plano pataisą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilniaus regionas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai apibendrina citatos informaciją apie Himanso plano pataisą.'

@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-40701
   teiginys: 'Būgnas-timpanas buvo vienas iš dviejų Vilniaus Šv. apaštalų Petro ir Povilo bažnyčioje saugomų būgnų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

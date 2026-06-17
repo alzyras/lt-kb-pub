@@ -28,7 +28,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   global_id: t-70424
   teiginys: 'Žemlionys karo metu išsirinkdavo narsų ir kantrų vyrą, kuris tapdavo karvedžiu arba atmonu.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų žemlionių veiksmą, o pradinis teiginys pernelyg miglotas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Rėda|Rėda]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]'
   pagrindžia:
     - c-002
     - c-003
@@ -38,7 +38,7 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
   global_id: t-70425
   teiginys: 'Žemlioniu vadintas kiemas, karo metu pagal turimą žemę išleidęs vieną ar kelis raitus kareivius.'
   sudarymo_pagrindimas: 'Pradinis teiginys klaidingai suveda sąvoką į žmogų, o citatoje žemlioniu vadinamas kiemas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,6 @@ Vartojamos formos: `žemlioniu`, `žemlionys`, `žemlionų`.
 - t-003
   global_id: t-70426
   teiginys: '`Žemlionys` šiame tekste reiškia kareivius ar karo sluoksnį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Rėda|Rėda]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/zodynas/Perveiza.md#claim-t-07730|perveiza]]: Perveizos metu netinkamai pasirengęs arba neatvykęs žemlionis buvo išbraukiamas iš reistro ir vėl turėjo mokėti duoklę.

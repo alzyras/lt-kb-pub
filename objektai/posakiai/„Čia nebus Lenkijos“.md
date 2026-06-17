@@ -30,7 +30,7 @@ Caro valdžia: „Čia nebus Lenkijos“ Po sukilimo Lenkijos karalystė neteko 
   global_id: t-75626
   teiginys: 'Posakis „Čia nebus Lenkijos“ siejamas su caro valdžios politika po sukilimo buvusiose LDK žemėse naikinti „lenkų pradus“.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neįvardytas posakis, todėl reikia susieti faktą su objekto pavadinimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.

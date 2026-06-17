@@ -22,7 +22,7 @@ Dusburgietis teigia, kad apie karo laivus ir markgrafo pasitraukimą Išmintinga
   global_id: t-59097
   teiginys: 'Petras Dusburgietis posakiu apie išmintingą žmogų aiškina markgrafo sprendimą pastatyti du karo laivus.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo; citata palaiko glaustą faktą apie posakio funkciją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
   pagrindžia:
     - c-001
 

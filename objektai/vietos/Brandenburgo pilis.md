@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   global_id: t-67728
   teiginys: 'Dusburgietis pasakoja, kad 1322 m. Brandenburgo pilyje ketverių metų Tomas mirė ir atgijo per Viešpaties kryžiaus atskalą.'
   sudarymo_pagrindimas: 'Tai stebuklinis kronikos pasakojimas, todėl reikia atribucijos Dusburgiečiui.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/atskala|atskala]]; mentioned_person: [[objektai/asmenys/Flekenšteinas|Flekenšteinas]]; mentioned_person: [[objektai/asmenys/Gebhardas|Gebhardas]]; mentioned_person: [[objektai/asmenys/Gebhardas iš Manstfeldo|Gebhardas iš Manstfeldo]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1322 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai stebuklinis kronikos pasakojimas, todėl reikia atribucijos Dusburgiečiui.'

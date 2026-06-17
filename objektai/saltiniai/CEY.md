@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-31644
   teiginys: 'CEY 117 numeris pateiktas kaip šaltinio nuoroda.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

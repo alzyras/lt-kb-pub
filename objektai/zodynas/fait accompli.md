@@ -30,7 +30,7 @@ Pilsudskio pavyzdžiu pastatyti visus į fait accompli padėtį ir tada derėtis
   global_id: t-77794
   teiginys: 'Ernestas Galvanauskas siekė jėga užimti Klaipėdos kraštą, sudaryti fait accompli padėtį ir tada derėtis.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas be aiškaus veikėjo; citata leidžia jį sukonkretinti.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas (Livonijos žemės magistras)|Ernestas (Livonijos žemės magistras)]]; mentioned_person: [[objektai/asmenys/Ernestas Galvanauskas|Ernestas Galvanauskas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ernestas Galvanauskas|Ernestas Galvanauskas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra fragmentas be aiškaus veikėjo; citata leidžia jį sukonkretinti.'

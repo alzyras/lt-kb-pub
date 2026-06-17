@@ -30,7 +30,7 @@ amziai:
   global_id: t-88181
   teiginys: 'Dinaburgo komtūro laiške pranešta, kad Vilniaus miestas, katedra ir karaliaus iždas visiškai sudegė.'
   sudarymo_pagrindimas: 'Atsisakyta silpnos pastabos ir panaudotas citatoje esantis turiningas pranešimas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Dinaburgas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Dinaburgas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -48,7 +48,7 @@ amziai:
   global_id: t-88184
   teiginys: 'Dinaburgo komtūras Livonijos magistrui pranešė apie Vilniaus miesto, kapitulos ir pilies gaisrą bei Vytauto patirtus nuostolius.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi puslapio numerio triukšmo; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dinaburgas; mentioned_place: Liksna; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Liksna; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

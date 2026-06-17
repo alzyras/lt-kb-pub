@@ -51,7 +51,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   global_id: t-00056
   teiginys: 'Motiejus Valančius parašė daugybę knygučių ir rūpinosi jų leidimu.'
   sudarymo_pagrindimas: 'Pašalinta santrumpa ir įtraukta citatos palaikoma leidybos veikla.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Vysk. Valančius|Vysk. Valančius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vysk. Valančius|Vysk. Valančius]]'
   pagrindžia:
     - c-009
 
@@ -72,7 +72,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   global_id: t-00059
   teiginys: 'Spaudos draudimo metu Amerikoje buvo išleista ir Motiejaus Valančiaus raštų.'
   sudarymo_pagrindimas: 'Citata paremia faktą apie Valančiaus raštų leidimą Amerikoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -80,7 +80,6 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-004
   global_id: t-00060
   teiginys: 'Valančiaus raginimu daug kur atsirado slaptų mokyklų, kuriose mokyta iš draudžiamųjų knygų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-005
 
@@ -98,7 +97,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
 - t-006
   global_id: t-179551
   teiginys: 'Valančius pasirūpino, kad kunigai turėtų pagarbų požiūrį į lietuviškai kalbančią liaudį, gerai išmoktų lietuviškai ir sakytų pamokslus lietuviškai, davė nurodymą kunigams prie bažnyčių steigti lietuviškas mokyklas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Vysk. Valančius|Vysk. Valančius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vysk. Valančius|Vysk. Valančius]]'
   pagrindžia:
     - c-004
 
@@ -107,7 +106,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   global_id: t-179553
   teiginys: 'Motiejus Valančius 1848 m. buvo paskirtas Telšių (Žemaičių) vyskupijos vyskupu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Motiejų Valančių ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Telšiai; mentioned_place: Vilnius; mentioned_place: Žemaičių vyskupystė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Telšiai; mentioned_place: Vilnius; mentioned_place: Žemaičių vyskupystė'
   temporaliniai_duomenys: 'įvykio data: 1848 m.; įvykio data: 1849 m.; įvykio data: 1875 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Motiejų Valančių ir atitinka citatos informaciją.'
@@ -119,7 +118,7 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   global_id: t-179554
   teiginys: 'Motiejus Valančius XIX a. padarė didelę įtaką Lietuvos politiniams procesams.'
   sudarymo_pagrindimas: 'Citata aiškiai teigia Valančiaus įtaką, o pradinis teiginys per fragmentiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1883 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai teigia Valančiaus įtaką, o pradinis teiginys per fragmentiškas.'
@@ -131,11 +130,9 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   global_id: t-179555
   teiginys: 'Zenonas Ivinskis Motiejui Valančiui priskyrė sveikas pažiūras ir gana kritišką nusistatymą šaltinių atžvilgiu veikale „Žemaičių Vyskupystė“.'
   sudarymo_pagrindimas: 'Teiginys remiasi autoriaus vertinimu, todėl reikia aiškios atribucijos ir sklandesnės formos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Vincas Kudirka|Vincas Kudirka]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Vincas Kudirka|Vincas Kudirka]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/grupes/Blaivybės brolijos.md#claim-t-19661|Blaivybės brolijos]]: Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.
-- susijęs iš [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos.md#claim-t-54361|Valančiaus blaivybės sąjūdis ir blaivybės brolijos]]: Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105707|Simonas Daukantas]]: Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105710|Simonas Daukantas]]: Simonas Daukantas įkalbino Motiejų Valančių rašyti ir lietuviškai išleisti Žemaičių vyskupijos istoriją.
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105714|Simonas Daukantas]]: Simonas Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.
@@ -344,7 +341,3 @@ Motiejus Valančius rodomas ne tik kaip istorinio ir religinio pobūdžio rašt�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/grupes/Blaivybės brolijos]] priklause Motiejus Valančius
-- [[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos]] priklause Motiejus Valančius

@@ -30,7 +30,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   global_id: t-58715
   teiginys: 'Karaliaus Rudolfo pirmagimis, grįždamas po pergalingo žygio prieš Savojos grafą, prigėrė Reine.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės, išnašos ir OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
   temporaliniai_duomenys: 'įvykio data: 1282 m.; įvykio data: 1283 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės, išnašos ir OCR triukšmo.'
@@ -43,7 +42,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
 - susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
 - susijęs iš [[objektai/grupes/Reino konfederacija.md#claim-t-86819|Reino konfederacija]]: 1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.
-- susijęs iš Semba: 1254 m. į Sembos pavergimo žygį vyko Čekijos karalius Otokaras, Otonas ir kiti didikai bei dvasininkai.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
@@ -157,7 +155,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
 - [[objektai/asmenys/Henrikas (Jeruzalės karalius)]] buvo_valdovas Reinas
 - [[objektai/asmenys/Henrikas VI]] buvo_valdovas Reinas
 - [[objektai/asmenys/Otokaras II]] buvo_valdovas Reinas
-- [[objektai/asmenys/Otonas]] buvo_valdovas Reinas
 - [[objektai/grupes/Reino konfederacija]] pastate Reinas
 - [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]] keliavo_i Reinas
 - [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Reinas

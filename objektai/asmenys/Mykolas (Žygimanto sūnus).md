@@ -16,7 +16,6 @@ tags:
   - bajorija
   - kraštas
   - kunigaikštis
-  - pilis
 amziai:
   - 'XV'
 periodo_grupes:
@@ -35,7 +34,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   global_id: t-87558
   teiginys: 'Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.'
   sudarymo_pagrindimas: 'Pradinis claimas buvo apie Švitrigailą ir nutrūko; citata palaiko Mykolo pergalės faktą.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Kotzebue|Kotzebue]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
+  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
   semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo valdovas Lietuva; [[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo valdovas Livonija; [[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo valdovas Ukmergė'
   pagrindžia:
     - c-001
@@ -45,7 +44,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   global_id: t-87559
   teiginys: '1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.'
   sudarymo_pagrindimas: 'Claimas buvo per platus ir turėjo papildomą pilies kontekstą; citata palaiko Mykolo tremties faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Claimas buvo per platus ir turėjo papildomą pilies kontekstą; citata palaiko Mykolo tremties faktą.'
@@ -120,7 +119,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas perteklinis vaizdingumas ir paliktas pagrindinis veiksmas.'
-  susije_objektai: 'location: Lenkija; location: Mazovija; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
+  susije_objektai: 'location: Lenkija; location: Mazovija; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
   semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] keliavo į Lenkija; [[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] keliavo į Mazovija'
   pagrindžia:
     - c-008
@@ -133,7 +132,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išvalytas OCR triukšmas ir suformuotas vientisas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Serpeiskas; mentioned_place: Severskas; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Serpeiskas; mentioned_place: Severskas; mentioned_place: Starodubas'
   temporaliniai_duomenys: 'įvykio data: 1448 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išvalytas OCR triukšmas ir suformuotas vientisas sakinys.'

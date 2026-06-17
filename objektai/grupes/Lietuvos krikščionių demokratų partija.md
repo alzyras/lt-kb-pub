@@ -30,7 +30,7 @@ Smetonos valdymo opozicines jėgas – prasidėjo krikščionių demokratų ir v
   global_id: t-74745
   teiginys: 'Krikščionys demokratai ir liaudininkai pareikalavo vietoj Antano Merkio ministru pirmininku paskirti krikščionims demokratams artimą Stasį Raštikį.'
   sudarymo_pagrindimas: 'Išskleistos santrumpos ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Anglija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

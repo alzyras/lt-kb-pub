@@ -30,7 +30,7 @@ Polska i Litwa, Warsza­ wa 1914, 1-36 p. — Długopolski, Edm. : Władysław �
   global_id: t-29461
   teiginys: 'Edm. Długopolski 1951 m. Vroclave išleido darbą „Władysław Łokietek na tle swoich czasów“.'
   sudarymo_pagrindimas: 'Pirminis tekstas yra bibliografinis fragmentas, bet citata pagrindžia faktą apie autoriaus leidinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Edm. Długopolski|Edm. Długopolski]]; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Edm. Długopolski|Edm. Długopolski]]; mentioned_place: Vroclavas'
   temporaliniai_duomenys: 'įvykio data: 1951 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra bibliografinis fragmentas, bet citata pagrindžia faktą apie autoriaus leidinį.'

@@ -48,7 +48,6 @@ Nenurodyta
   global_id: t-08362
   teiginys: 'Lazda siejama su krive krivaičiu ir kreiva lazda.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Šaldros|Šaldros]]'
   pagrindžia:
     - c-002
 
@@ -58,7 +57,7 @@ Nenurodyta
   teiginys: 'Kūrėjų kūrėjas paėmė ūkės lazdą ir vienas pats valdė tautą kaip anksčiau.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatoje nurodytu veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]'
   pagrindžia:
     - c-003
 

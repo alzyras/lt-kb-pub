@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-59700
   teiginys: 'Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas pasakojimu apie vartų atidarymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Sirenas.md#claim-t-184125|Sirenas]]: Sirenas nutraukė grandines ir gynė Kristburgo pilies tiltą, kol buvo uždaryti pilies vartai.

@@ -23,7 +23,7 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   global_id: t-86142
   teiginys: 'Per vieną lietuvių antpuolį smarkiai nukentėjo Dobrynės kunigaikštystė, tuo metu valdoma kunigaikštienės Anastazijos.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie kunigaikštystės nuniokojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

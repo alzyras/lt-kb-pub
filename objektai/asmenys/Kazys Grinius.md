@@ -15,7 +15,6 @@ tags:
   - karas
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -34,7 +33,6 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   global_id: t-19060
   teiginys: '1926 m. valstiečių liaudininkų lyderis Kazys Grinius buvo išrinktas prezidentu.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti datą ir aiškiau suformuluoti asmens statusą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti datą ir aiškiau suformuluoti asmens statusą.'
@@ -46,7 +44,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   global_id: t-19061
   teiginys: 'Prezidentas Kazys Grinius atstatydino Mykolo Sleževičiaus vyriausybę ir pavedė Augustinui Voldemarui sudaryti naują kabinetą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta, citata pagrindžia visą veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -55,7 +53,7 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   global_id: t-19062
   teiginys: 'Liaudininkas Kazys Grinius vadovavo birželio 19 d. sudarytai vyriausybei.'
   sudarymo_pagrindimas: 'Perrašyta į sakinį su aiškiu asmens vaidmeniu ir be perteklinės pasyvios konstrukcijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į sakinį su aiškiu asmens vaidmeniu ir be perteklinės pasyvios konstrukcijos.'
@@ -70,7 +68,6 @@ Steigiamojo Seimo pirmininku išrinktas LŪS lyderis agronomas Aleksandras Stulg
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko turiningesnį sakinį apie išrinkimą ir paramos sąlygą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/grupes/Lietuvos socialdemokratų partija.md#claim-t-169733|Lietuvos socialdemokratų partija]]: 1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.

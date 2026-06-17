@@ -23,7 +23,7 @@ Amerikoje visų tautinių bažnyčių turtas yra užrašomas vyskupų vardu. Tai
   global_id: t-03184
   teiginys: 'Amerikoje lietuvių laisvamanių ir griežtesniųjų tautininkų įtakoje atsirado tautinių bažnyčių, nepriklausomų nuo katalikų hierarchijos.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau ir glaudžiau, išlaikant citatoje pateiktus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Laisvamanybė ir laisvamaniai|Laisvamanybė ir laisvamaniai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

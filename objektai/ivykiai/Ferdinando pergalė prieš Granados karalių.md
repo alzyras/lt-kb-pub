@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: 'Kastilijos karalius Ferdinandas nugalėjo Granados saracėnų karalių, kuris vėliau turėjo jam mokėti duoklę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys gramatiškai perteikia citatos faktą apie Ferdinando pergalę ir duoklę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/marobortinai|marobortinai]]; mentioned_person: [[objektai/asmenys/Ferdinandas|Ferdinandas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]'
   temporaliniai_duomenys: 'įvykio data: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai perteikia citatos faktą apie Ferdinando pergalę ir duoklę.'

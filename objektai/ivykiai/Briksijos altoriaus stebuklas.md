@@ -38,7 +38,7 @@ Nenurodyta
   teiginys: 'Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai perteikia citatoje aprašytą stebuklą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
 

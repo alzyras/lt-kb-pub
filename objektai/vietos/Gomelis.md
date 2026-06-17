@@ -29,7 +29,7 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
   teiginys: 'Apie 1447 m. Švitrigaila iš Kazimiero gavo Gomelį ir galbūt Turovą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra glaustas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Luckas; mentioned_place: Turovas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Luckas; mentioned_place: Turovas'
   temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1447 m.; įvykio data: apie 1447 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas ir tiksliai perteikia citatos informaciją.'
@@ -42,7 +42,7 @@ Uzos upė įteka į Sožą truputį žemiau Gomelio. Apie 1447 m. Švitrigaila g
   teiginys: 'Uzos upė įteka į Sožą truputį žemiau Gomelio.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako geografinį Uzos ir Sožo santykį su Gomeliu. Nepridėta ginčytinos identifikacijos apie Sušos upę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Bobruiskas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/N. Ulaščikas|N. Ulaščikas]]; mentioned_place: Bobruiskas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.

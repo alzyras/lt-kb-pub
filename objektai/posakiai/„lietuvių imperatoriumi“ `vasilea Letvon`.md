@@ -31,7 +31,7 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ („vasilea Letvon“).'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1371 m.; įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatinis ir tiesiogiai pagrįstas citata.'
@@ -43,7 +43,7 @@ Tačiau būtent šių žygių į Maskvą metu 1371 m. laiške Konstantinopolio p
   global_id: t-186396
   teiginys: '1371 m. laiške Konstantinopolio patriarchui Algirdas pasivadino „lietuvių imperatoriumi“ ir taip prilygino save Bizantijos imperatoriui.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Konstantinopolis; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusia; mentioned_place: Tverė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1371 m.; įvykio data: 1372 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

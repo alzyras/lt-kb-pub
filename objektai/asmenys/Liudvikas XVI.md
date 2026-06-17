@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-19111
   teiginys: '1793 m. sausio 21 d. Prancūzijoje buvo nukirsdintas Liudvikas XVI, o sausio 23 d. Rusija ir Prūsija įvykdė antrąjį LLV padalijimą.'
   sudarymo_pagrindimas: 'Perrašyta aiškesniu pagrindiniu sakiniu, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jakobinizmas|jakobinizmas]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Brasta; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1793 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta aiškesniu pagrindiniu sakiniu, išlaikant citatos faktus.'

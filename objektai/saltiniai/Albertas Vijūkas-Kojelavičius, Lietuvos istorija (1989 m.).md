@@ -47,7 +47,7 @@ amziai:
   teiginys: 'Kojelavičiaus „Lietuvos istorijos“ pirmasis tomas išėjo 1650 m. Gdanske, o antrasis - 1669 m. Antverpene.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko leidybos faktą; reikia pašalinti klaidingą „Kojelavičius teigia“ pradžią.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antverpenas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antverpenas'
   temporaliniai_duomenys: 'įvykio data: 1650 m.; įvykio data: 1669 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko leidybos faktą; reikia pašalinti klaidingą „Kojelavičius teigia“ pradžią.'
@@ -60,7 +60,7 @@ amziai:
   teiginys: 'Alberto Vijūko-Kojelavičiaus „Lietuvos istorija“ Renesanso epochoje nesulaukė pakartotinių leidimų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia išplėsti autoriaus vardą ir patikslinti faktą pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1766 m.; įvykio data: 1846 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti autoriaus vardą ir patikslinti faktą pagal citatos kontekstą.'
@@ -73,7 +73,7 @@ amziai:
   teiginys: 'Juozas Jurginis įvade rašė, kad Kojelavičiaus „Lietuvos istorija“ nėra originalus veikalas ir remiasi M. Strijkovskio kronika.'
   teiginio_tipas: 'interpretacija'
   sudarymo_pagrindimas: 'Teiginys yra apie įvado autoriaus interpretaciją, todėl reikalinga tiksli atribucija ir trumpesnė forma.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]'
   pagrindžia:
     - c-001
 
@@ -83,7 +83,7 @@ amziai:
   teiginys: '1989 m. „Lietuvos istorijos“ leidimas spausdintas pagal 1988 m. „Vagos“ leidimą, o įvadą ir paaiškinimus parašė Juozas Jurginis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata yra leidybiniai duomenys, ne Kojelavičiaus teiginys; sakinį reikia pataisyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/autoriai/Leonas Valkūnas|Leonas Valkūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_author: [[objektai/autoriai/Leonas Valkūnas|Leonas Valkūnas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1988 m.; įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra leidybiniai duomenys, ne Kojelavičiaus teiginys; sakinį reikia pataisyti.'

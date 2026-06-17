@@ -28,7 +28,6 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   global_id: t-88324
   teiginys: 'Petro Olai Danų kronikoje pasakojama, kad apie 880 m. Danijoje dėl nederliaus įsakyta ištremti kas trečią žmogų.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie kronikoje aprašytą įvykį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]'
   temporaliniai_duomenys: 'įvykio data: 880 m; įvykio data: apie 880 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie kronikoje aprašytą įvykį.'

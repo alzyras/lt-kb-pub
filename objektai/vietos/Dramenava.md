@@ -21,7 +21,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   global_id: t-90339
   teiginys: 'Teutonų ordino broliai nusiaubė Pabečių valsčiaus Dramenavos kaimą, paėmė belaisvių ir išžudė daug žmonių.'
   sudarymo_pagrindimas: 'Pašalinti pertekliniai kontekstai, išnašų numeriai ir neaiškūs įvardžiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Kvedenava; mentioned_place: Pabečiai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ Dusburgietis teigia, kad štai todėl, palaužę ir išvaikę tuos, kurie gyveno
   global_id: t-90341
   teiginys: 'Dramenava, vėliau vadinta Drebnau, buvo kaimas į pietus nuo Pabečių.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Pabečiai'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Pabečiai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas.md#claim-t-89359|Dramenavos kaimo nusiaubimas ir sembų kontrpuolimas]]: Broliai puldinėjo sembus, siekdami juos vėl pajungti krikščionių tikėjimui.

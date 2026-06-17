@@ -30,7 +30,7 @@ Tam įtakos turėjo 1974 m. spalio 26–27 d. Niujorke (White Plains) vykusios l
   global_id: t-21930
   teiginys: '1974 m. spalio 26–27 d. White Plainse vyko lietuvių laisvinimo darbo konferencija, patvirtinusi siekį atstatyti nepriklausomą Lietuvą.'
   sudarymo_pagrindimas: 'Pradinė formuluotė remiasi neaiškiu įvardžiu, reikia savarankiško sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Niujorkas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Amerikos lietuvių taryba|Amerikos lietuvių taryba]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Niujorkas'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1951 m.; įvykio data: 1974 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė remiasi neaiškiu įvardžiu, reikia savarankiško sakinio.'

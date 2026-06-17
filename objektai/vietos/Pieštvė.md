@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   global_id: t-58400
   teiginys: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Pieštvę ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kunonas (Brandenburgo komtūras)|Kunonas (Brandenburgo komtūras)]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Dusburgietis teigia, kad apie Junigedos ir Pieštvės pilių papilių sudeginim�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė formuluotė ir patikslintas sakinio savarankiškumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lenkija; mentioned_place: Veliuona; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Veliuona; mentioned_place: Viena'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.

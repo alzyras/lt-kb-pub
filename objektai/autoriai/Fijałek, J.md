@@ -30,7 +30,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - t-001
   global_id: t-54116
   teiginys: 'J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, paskelbtą 1914 m. „KH“ 28 tome.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -40,7 +39,6 @@ Iš ordino žemių patekęs į Vakarus, po studijų Pragos universitete, nuo 140
 - t-002
   global_id: t-54117
   teiginys: 'J. Fijałek parašė darbą „Wnuk Kiejstuta, Jan książę drohiczyński“, publikuotą 1914 m. „KH“ 28 tome.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

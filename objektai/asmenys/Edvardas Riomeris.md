@@ -30,9 +30,9 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   global_id: t-87657
   teiginys: 'Edvardas Riomeris priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   sudarymo_pagrindimas: 'Citata pagrindžia narystę komitete, pradinis teiginys buvo nutrūkęs ir perkrautas vardais.'
-  susije_objektai: 'owner: [[objektai/asmenys/Mykolas|Mykolas]]; owner: Rusija; owner: [[objektai/asmenys/Stanislovas|Stanislovas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Mykolas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Stanislovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Rusija priklausė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia narystę komitete, pradinis teiginys buvo nutrūkęs ir perkrautas vardais.'
   pagrindžia:
     - c-001

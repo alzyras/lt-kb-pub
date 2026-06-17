@@ -31,7 +31,7 @@ Dusburgietis teigia, kad wermke E.
   teiginys: 'E. Wermke parengė Rytų ir Vakarų Prūsijos istorijos bibliografiją, apimančią laikotarpius iki 1929 m., 1930–1938 m. ir 1939–1970 m.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata pateikia E. Wermke bibliografijos pavadinimą ir jos chronologines dalis.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/E. Wermke|E. Wermke]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Wermke|E. Wermke]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1929 m.; įvykio data: 1929 m.; įvykio data: 1930-1938; įvykio data: 1938 m.; įvykio data: 1939-1970; įvykio data: 1970 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia E. Wermke bibliografijos pavadinimą ir jos chronologines dalis.'

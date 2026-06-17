@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: 'Mozyrius XIV a. antrajame ketvirtyje, valdant Gediminui, buvo Lietuvos įtakoje, o XIV a. viduryje galutinai prijungtas Algirdo.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą ir predikatą, o citata tiesiogiai remia Mozyriaus įtakos bei prijungimo chronologiją. Vertinamoji formuluotė neišplečiama.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Mozyrius'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Mozyrius'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Nenurodyta
   teiginys: 'Pasakojimas apie mūšį su chano Kurdo totoriais prie Mozyriaus 1971 m. komentare laikomas galbūt paremtu vietos padavimu.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Spėjamoji kilmė palikta su komentaro atribucija, nes tai interpretacija apie padavimą. Nepridėta jokio papildomo pasakojimo turinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Kurdas|Kurdas]]; mentioned_place: Mozyrius; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kurdas|Kurdas]]; mentioned_place: Mozyrius; mentioned_place: Pripetė'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Spėjamoji kilmė palikta su komentaro atribucija, nes tai interpretacija apie padavimą. Nepridėta jokio papildomo pasakojimo turinio.'
@@ -72,7 +72,7 @@ Nenurodyta
   teiginys: 'Tikslus Mozyriaus prijungimo prie LDK laikas ir aplinkybės nėra žinomi.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Mozyriaus prijungimo datavimo problemą. Nieko nepridėta už citatoje esančio nežinomumo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Mozyrius'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Mozyrius'
   pagrindžia:
     - c-001
 
@@ -82,7 +82,7 @@ Nenurodyta
   teiginys: 'Pasakojimas apie lietuvių ir rusų kunigaikščių mūšį su chano Kurdo totoriais prie Mozyriaus iš kitų šaltinių nežinomas.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys aiškiai pasako, kad pasakojimas apie mūšį nežinomas iš kitų šaltinių. Jis neperžengia citatos ir neprideda naujų mūšio aplinkybių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Kurdas|Kurdas]]; mentioned_place: Mozyrius; mentioned_place: Pripetė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kurdas|Kurdas]]; mentioned_place: Mozyrius; mentioned_place: Pripetė'
   pagrindžia:
     - c-002
 

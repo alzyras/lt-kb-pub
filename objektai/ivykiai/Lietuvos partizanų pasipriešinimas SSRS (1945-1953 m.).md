@@ -6,6 +6,7 @@ saltiniai:
 datos:
   - '1940 m.'
   - '1944 m.'
+  - '1945 m.'
   - '1946 m.'
   - '1953 m.'
 date_start: '1940'
@@ -17,7 +18,6 @@ tags:
   - miestas
   - mūšis
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 ---
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-75182
   teiginys: 'Nuo 1944 m. vasaros sovietų represijos ir teroras kurstė lietuvių pasipriešinimą, išaugusį į dešimtmetį trukusį partizaninį karą.'
   sudarymo_pagrindimas: 'Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/karas po karo|karas po karo]]; mentioned_place: Baltija; mentioned_place: Didžioji Britanija; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštės nuotrupa ir paliktas citatos paremtas faktinis sakinys.'
@@ -85,7 +85,7 @@ Nenurodyta
 - t-004
   global_id: t-75183
   teiginys: 'Nors organizuota ginkluota kova pasibaigė 1953-ųjų pavasarį, keletas pavienių partizanų išsislapstė dar dešimt ir daugiau metų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1944-1953; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

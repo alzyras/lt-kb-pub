@@ -22,7 +22,7 @@ tags:
   global_id: t-32626
   teiginys: 'Uturiai buvo prie Betygalos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata nurodo Uturių vietą prie Betygalos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Betygala; mentioned_place: Kaimas; mentioned_place: Ukraina; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Užpaliai; mentioned_place: Vaišvilčiai; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Butautas|Butautas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vaišelga|Vaišelga]]; mentioned_place: Betygala; mentioned_place: Kaimas; mentioned_place: Ukraina; mentioned_place: Upytė; mentioned_place: Užnemunė; mentioned_place: Užpaliai; mentioned_place: Vaišvilčiai; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 

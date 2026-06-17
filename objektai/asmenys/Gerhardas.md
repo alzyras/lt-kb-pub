@@ -38,11 +38,8 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] keliavo į Prūsija; [[objektai/asmenys/Gerhardas|Gerhardas]] keliavo į Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Gerhardas iš Hircbergo.md#claim-t-184069|Gerhardas iš Hircbergo]]: Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.
-- susijęs iš [[objektai/asmenys/Gerhardas iš Hircbergo.md#claim-t-60286|Gerhardas iš Hircbergo]]: Gerhardas iš Hircbergo dvejus metus vadovavo kaip ketvirtas Prūsijos žemės magistras.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-60287|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
-- susijęs iš [[objektai/asmenys/Gerhardas, pravarde Rudė.md#claim-t-60288|Gerhardas, pravarde Rudė]]: Lietuviai paaukojo dievams Sembos fogtą Gerhardą Rudę, sudegindami jį su šarvais ant jo kovos žirgo.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89834|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: 1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.
 - susijęs iš [[objektai/asmenys/Inocentas IV.md#claim-t-60333|Inocentas IV]]: 1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus.
 - susijęs iš [[objektai/asmenys/Mergelė Marija.md#claim-t-59893|Mergelė Marija]]: Dusburgiečio pasakojime Mergelė Marija ne kartą slaptai ir draugiškai kalbėjosi su broliu Hermanu.

@@ -22,7 +22,7 @@ Bet Lietuvos valdymą perėmė karalius — • — 257 ## Puslapis 274 258 ## P
   global_id: t-86860
   teiginys: 'Žygimantas Senasis, perėmęs Lietuvos valdymą, siekė įvesti tvarką ir nukreipė valdymo mechanizmą reikiama kryptimi.'
   sudarymo_pagrindimas: 'Citata pagrindžia Žygimanto Senojo vaidmenį tvarkant Lietuvos valdymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

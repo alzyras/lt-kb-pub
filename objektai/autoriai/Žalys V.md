@@ -30,7 +30,7 @@ E., Žalys V., edit. Žalys V.
   global_id: t-64892
   teiginys: 'V. Žalys parašė veikalą „Lietuvos diplomatijos istorija (1925–1940)“, kurio pirmas tomas išleistas Vilniuje 2007 m.'
   sudarymo_pagrindimas: 'Citata yra bibliografinė, bet pakankamai pagrindžia autorystę ir leidimo faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2007 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra bibliografinė, bet pakankamai pagrindžia autorystę ir leidimo faktą.'

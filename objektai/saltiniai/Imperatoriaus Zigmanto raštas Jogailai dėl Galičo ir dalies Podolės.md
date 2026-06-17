@@ -22,7 +22,7 @@ Imperatorius Zigmantas raštu pripažino Jogailai teisę į Galičą ir dalį Po
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia rašto turinį ir kartu aprašytą Zigmanto veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Podolė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Podolė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

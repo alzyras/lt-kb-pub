@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-46284
   teiginys: 'Romo Kalantos auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -39,7 +39,6 @@ periodo_grupes:
   global_id: t-46285
   teiginys: 'Sovietų valdžia paskelbė, kad Romo Kalantos susideginimo priežastis buvo sunki psichikos liga šizofrenija.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia sovietų valdžios paskelbtą aiškinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 
@@ -68,7 +67,7 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo Romo Kalantos veiksmus, vietą, datą ir rezultatą.'

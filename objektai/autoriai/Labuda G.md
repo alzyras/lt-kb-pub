@@ -42,7 +42,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   global_id: t-64698
   teiginys: 'G. Labuda nurodė, kad Henriko Barzdotojo dokumentai liudija jo buvimą Prūsijoje 1235 metais.'
   sudarymo_pagrindimas: 'Citata aiškiai palaiko konkretų Labudos teiginį apie Henriko Barzdotojo dokumentus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rudinas; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rudinas; mentioned_place: Silezija'
   temporaliniai_duomenys: 'įvykio data: po 1202 m.; įvykio data: 1202 m.; įvykio data: po 1229 m.; įvykio data: 1229 m.; įvykio data: po 1232 m.; įvykio data: 1232 m.; įvykio data: 1233 m.; įvykio data: po 1234 m.; įvykio data: 1234 m.; įvykio data: 1235 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai palaiko konkretų Labudos teiginį apie Henriko Barzdotojo dokumentus.'
@@ -63,7 +63,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   global_id: t-64700
   teiginys: 'G. Labuda nagrinėjo imperatoriaus ir pagoniškųjų prūsų žemių teisinį santykį.'
   sudarymo_pagrindimas: 'Citata palaiko teminį Labudos darbo apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
 
@@ -72,7 +72,7 @@ Dusburgietis teigia, kad , norėdamas kronikoje 137 Labuda G. Dusburgietis teigi
   global_id: t-64701
   teiginys: 'G. Labuda recenzavo M. Hellmanno darbą apie Prūsijos istorijos pagrindus.'
   sudarymo_pagrindimas: 'Citatoje yra bibliografinė nuoroda į Labudos recenziją, o pradinis teiginys buvo nuotrupa.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 

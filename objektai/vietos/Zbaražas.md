@@ -22,7 +22,7 @@ Zbaražo miestas davė vardą Kaributų kilmės Zbaražskių kunigaikščiams.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata aiškiai remia faktą apie Zbaražo vardo ryšį su Zbaražskių kunigaikščiais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Višniovecas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Višniovecas'
   pagrindžia:
     - c-001
 - susijęs iš Višniovecas: Išgarsėjęs daugybe žygių, Dimitras įkūrė Zbaražo ir Višnioveco miestus.

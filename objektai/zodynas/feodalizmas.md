@@ -32,7 +32,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   global_id: t-82052
   teiginys: 'Michałas Balińskis Gediminą vadino darnesnio ir pajėgesnio feodalizmo kūrėju ir miestų Lietuvoje įkūrėju.'
   sudarymo_pagrindimas: 'Reikia aiškios autorinės charakteristikos atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -41,7 +41,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   global_id: t-82054
   teiginys: 'Įsitvirtinus feodalizmo tvarkai, miestai sustiprėjo, tačiau baronai nuo X a. pradžios puldinėjo pirklius ir žlugdė miestus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai apibendrina citatos faktinį turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-003
 
@@ -59,7 +58,6 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   global_id: t-82056
   teiginys: 'Įsitvirtinus feodalizmui, miestai stiprėjo, bet baronų išpuoliai prieš pirklius nuo X amžiaus pradžios juos žlugdė.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą sakinį apie feodalizmo poveikį miestams.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-003
 
@@ -68,7 +66,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   global_id: t-82057
   teiginys: 'Gediminas apibūdinamas kaip darnesnio ir pajėgesnio feodalizmo kūrėjas bei miestų steigėjas Lietuvoje.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko teiginį apie Gedimino vaidmenį feodalizmo ir miestų raidoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -76,7 +74,7 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
 - t-007
   global_id: t-82058
   teiginys: 'Lietuvos feodalizmas nebuvo galutinai išsiplėtojęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/suverenas|suverenas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -87,29 +85,9 @@ Taigi ir pas mus buvo maždaug tokia pat santvarka, kaip Vakaruose vadinamasis f
   susije_objektai: 'mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176325|Gediminas]]: Balińskis Gediminą apibūdino kaip darnesnio ir pajėgesnio feodalizmo kūrėją bei miestų Lietuvoje įkūrėją.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176399|Gediminas]]: Gediminas apibūdinamas kaip darnesnio feodalizmo kūrėjas ir miestų steigėjas Lietuvoje.
-- susijęs iš [[objektai/autoriai/Z. Raulinaitis.md#claim-t-31088|Z. Raulinaitis]]: Z. Raulinaitis 1970 m. žurnale „Karys“ paskelbė darbą „Apuolės užpuolimus“.
-- susijęs iš [[objektai/ivykiai/Kryžiaus karai.md#claim-t-86953|Kryžiaus karai]]: XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.
-- susijęs iš [[objektai/paprociai/Bajorų prievolės valstybei.md#claim-t-01924|Bajorų prievolės valstybei]]: Lietuvos bajorijos pareigos valstybei priklausydavo nuo bajorų valdomos žemės.
-- susijęs iš Arimo įrankiai Lietuvoje feodalizmo laikotarpyje: P. Dundulienės „Arimo įrankiai Lietuvoje feodalizmo laikotarpyje“ paskelbtas VUMD 2 tome 1955 m., p. 148-168.
 - susijęs iš Lietuva: Lietuvoje miestai kūrėsi tada, kai aukštesnieji kunigaikščiai jau buvo įtvirtinę savo viršenybę.
-- susijęs iš Lietuva: Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba.
 - susijęs iš Vilnius: Gediminas įkūrė Vilnių ir jame sutelkė pagrindinę lietuvių feodalų valdžią.
-- susijęs iš Žemaitija: Gedimino laikais Žemaitijoje tik šen bei ten stovėjo vienišos feodalinių kunigaikščių ir bajorų pilys bei gynybinės gyvenvietės.
-- susijęs iš Žemaitija: Žemaitijoje ir kitose Lietuvos žemėse kilo tik pavienės feodalinių kunigaikščių ir bajorų gynybinės pilys.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai.md#claim-t-86564|Municipalinė teisėtvarka municipaliniai nuostatai]]: Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka.md#claim-t-54793|Municipalinė teisėtvarka]]: Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55269|Riterių luomas]]: Kryžiaus karų poveikis sutramdė feodalizmo piktnaudžiavimą ir iš plėšikaujančios bajorijos suformavo riterių luomą.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-55270|Riterių luomas]]: Balińskis riterių luomą vadino garbingiausiąja viduramžių institucija.
-- susijęs iš [[objektai/zodynas/Riterių luomas.md#claim-t-82096|Riterių luomas]]: Susirėmimas su Rytais prisidėjo prie riterių luomo susiformavimo iš plėšikaujančios bajorijos.
-- susijęs iš [[objektai/zodynas/ankstyvasis feodalizmas kiemai.md#claim-t-183396|ankstyvasis feodalizmas kiemai]]: Valdant Ldk Gediminui Lietuvoje ankstyvojo feodalizmo dvarai vadinti kiemais.
-- susijęs iš [[objektai/zodynas/ankstyvasis feodalizmas kiemai.md#claim-t-22055|ankstyvasis feodalizmas kiemai]]: Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.
-- susijęs iš [[objektai/zodynas/ankstyvoji monarchija karinė monarchija.md#claim-t-22057|ankstyvoji monarchija karinė monarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turėjusi tokių požymių kaip diarchija ir ankstyvasis feodalizmas.
 - susijęs iš [[objektai/zodynas/diarchija.md#claim-t-131656|diarchija]]: Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti visus jai būdingus požymius, kaip antai: diarchija, ankstyvasis feodalizmas – ankstyvieji dvarai, Lietuvoje vadinti „kiemais“.
-- susijęs iš [[objektai/zodynas/marksistinė periodizacija komunistinės istoriografijos nomenklatūra.md#claim-t-28546|marksistinė periodizacija komunistinės istoriografijos nomenklatūra]]: Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į feodalinių santykių atsiradimą, baudžiavos įsigalėjimą ir jos irimą.
-- susijęs iš [[objektai/zodynas/marksistinė periodizacija.md#claim-t-05598|marksistinė periodizacija]]: Sovietiniai istorikai Lietuvos istoriją skirstė pagal marksistinę periodizaciją.
-- susijęs iš [[objektai/zodynas/marksistinė periodizacija.md#claim-t-05599|marksistinė periodizacija]]: Marksistinė Lietuvos istorijos periodizacija feodalizmo epochą skirstė į valstybės susidarymo ir baudžiavos įsigalėjimo laikotarpius.
 ## Reikšmingi paminėjimai
 
 - c-001

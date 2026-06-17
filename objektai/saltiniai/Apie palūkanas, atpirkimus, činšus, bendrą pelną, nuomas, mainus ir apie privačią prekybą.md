@@ -29,7 +29,7 @@ amziai:
   global_id: t-88235
   teiginys: 'Martyno Smigleckio veikalo „Apie palūkanas, atpirkimus, činšus, bendrą pelną, nuomas, mainus ir apie privačią prekybą“ 7-asis leidimas 1640 m. išleistas Krokuvoje.'
   sudarymo_pagrindimas: 'Citata pagrindžia ne pirmą leidimą, o 7-ąjį leidimą Krokuvoje 1640 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Smigleckis|Martynas Smigleckis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1640 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia ne pirmą leidimą, o 7-ąjį leidimą Krokuvoje 1640 m.'

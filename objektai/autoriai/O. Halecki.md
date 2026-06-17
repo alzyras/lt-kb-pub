@@ -68,7 +68,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
 - t-004
   global_id: t-179560
   teiginys: 'O. Halecki gausiais raštais paliko pėdsaką Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -97,7 +97,6 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   global_id: t-179563
   teiginys: 'O. Halecki 1930 m. paskelbė darbą „Witold“.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia bibliografinę citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia bibliografinę citatos informaciją.'
@@ -116,7 +115,7 @@ O. Halecki minimas kaip istorikas ir autorius; šiame tome gausiai cituojami jo 
   global_id: t-179565
   teiginys: 'O. Haleckis gausiais raštais paliko plačių pėdsakų Lietuvos istorijos srityje.'
   sudarymo_pagrindimas: 'Citata palaiko bendrą teiginį apie Haleckio raštų reikšmę Lietuvos istorijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 

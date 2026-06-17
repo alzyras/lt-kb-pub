@@ -24,7 +24,7 @@ Apie tai sužinojęs Vilniaus vysku­ pas Povilas kartu su sufraganu Kiprijonu i
   global_id: t-86872
   teiginys: 'Vilniaus vyskupas Povilas posakiu „Tai ne tas kelias, Maloningasis Pone“ sustabdė karalių ir nukreipė jį į katalikų katedrą.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį ir gramatišką sakinį apie vyskupo veiksmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

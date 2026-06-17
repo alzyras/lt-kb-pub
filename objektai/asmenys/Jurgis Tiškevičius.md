@@ -22,7 +22,7 @@ Jurgis Tiškevičius nuvežė į Maskvą karaliaus laišką ir sveikindamas Ivan
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą Tiškevičiaus pasiuntinybės veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Tiškevičiai|Tiškevičiai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Europa; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Tiškevičiai|Tiškevičiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Europa; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176101|Vilniaus kapitula]]: Apaštališkasis nuncijus Jonas Andrius patvirtino Vilniaus kapitulos Akademijos kolegijos rektoriams perleistas patronato teises.

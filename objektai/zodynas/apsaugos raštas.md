@@ -30,7 +30,7 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   global_id: t-36761
   teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Christmemelio salą ir ten sustojo.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir paremtas citatoje pateiktais faktais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. pasiekė Chri
   global_id: t-36762
   teiginys: 'Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo apsaugos raštą, veikėją, datą ir kelionės vietą.'
-  susije_objektai: 'location: Lietuva; location: Salos; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Salos'
+  susije_objektai: 'location: Lietuva; location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Salos'
   pagrindžia:
     - c-002
 

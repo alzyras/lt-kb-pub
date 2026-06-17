@@ -47,9 +47,9 @@ Nenurodyta
   teiginys: '1298 m. Austrijos kunigaikštis Albrechtas nukovė Romos karalių Adolfą ir paveldėjo sostą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'territory: Austrija; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Austrija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1298 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albrechtas buvo valdovas Austrija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Austrija'
+  temporaliniai_duomenys: 'įvykio data: 1298 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-001

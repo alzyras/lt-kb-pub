@@ -20,7 +20,6 @@ XVI amž. žinios (Herberstein, Guagnini, Lasicius), jog Žemaičiuose tebuvę v
 - t-001
   global_id: t-30638
   teiginys: 'Herbersteino XVI a. žinios, kad Žemaičiuose tebuvę vartojami mediniai arklų noragai, laikomos netiksliomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ašvienis|Ašvienis]]'
   pagrindžia:
     - c-001
 

@@ -60,7 +60,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   global_id: t-58410
   teiginys: 'Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė po Heraklijaus pasitraukimo.'
   sudarymo_pagrindimas: 'Citata pagrindžia įvykį, bet pradinė formuluotė buvo fragmentiška ir su boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
   pagrindžia:
     - c-003
 

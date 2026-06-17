@@ -28,7 +28,7 @@ amziai:
   global_id: t-80654
   teiginys: '1948 m. Vaclovas Voveris buvo paskirtas Kazimieraičio rinktinės vadu ir ėjo Dainavos apygardos vado pavaduotojo pareigas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vaclovo Voverio ryšį su Kazimieraičio rinktine ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Dainava'
+  susije_objektai: 'mentioned_place: Dainava'
   temporaliniai_duomenys: 'įvykio data: 1944 m.; įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Vaclovo Voverio ryšį su Kazimieraičio rinktine ir atitinka citatą.'

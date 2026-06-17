@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - miestas
   - sąvoka
-  - tauta
 ---
 # miestiečių luomas
 
@@ -25,7 +24,7 @@ tags:
   global_id: t-86438
   teiginys: 'Magdeburgo teisės ir iš Lenkijos miestų perimtos laisvės pakėlė miestiečių luomo visuomeninę padėtį virš nelaisvų kaimo žmonių.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie miestiečių luomo padėtį, pašalinus puslapių ir antraščių triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -34,7 +33,7 @@ tags:
   global_id: t-86439
   teiginys: 'Du paskutiniai Jogailaičiai miestiečių luomą paaukštino iki tikrųjų piliečių, o karalius Steponas jį stipriai palaikė.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį ir aiškesnį formuluotės variantą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]'
   pagrindžia:
     - c-001
 

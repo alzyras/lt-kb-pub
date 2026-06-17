@@ -21,10 +21,9 @@ Kutrzeba1 2), nėra juridiškas ir nieko aiškaus nepasako.
   global_id: t-96054
   teiginys: 'St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tinkamai priskiria vertinimą Kutrzebai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/St. Kutrzeba.md#claim-t-100137|St. Kutrzeba]]: St. Kutrzeba 1914 m. paskelbė darbą „Unja Litwy z Polską“.
 - susijęs iš [[objektai/autoriai/Wł. Semkowiczius.md#claim-t-29646|Wł. Semkowiczius]]: Wł. Semkowiczius su J. Fijałeku išleido Vilniaus vyskupijos šaltinių tomą, o su St. Kutrzeba - Lenkijos ir Lietuvos unijos aktus.
 - susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54147|prof. dr. St. Kutrzeba]]: St. Kutrzeba teigė, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.
 - susijęs iš [[objektai/autoriai/prof. dr. St. Kutrzeba.md#claim-t-54148|prof. dr. St. Kutrzeba]]: Prof. dr. St. Kutrzeba pastebėjo, kad terminas „prijungti“ nėra juridiškas ir nieko aiškaus nepasako.

@@ -22,7 +22,7 @@ Dusburgietis teigia, kad dar apie tą patį Neilgai trukus po to, kai tas pats b
   global_id: t-59167
   teiginys: 'Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir turi antraštės triukšmo; citata remia glaustą faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]'
   pagrindžia:
     - c-001
 

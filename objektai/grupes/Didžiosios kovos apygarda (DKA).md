@@ -27,7 +27,7 @@ Rugsėjį savo junginį jis pavadino Didžiosios kovos rinktine. Visų partizan�
 - t-001
   global_id: t-40874
   teiginys: 'Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
   pagrindžia:
     - c-002
 

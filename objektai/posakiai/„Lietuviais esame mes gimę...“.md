@@ -28,7 +28,7 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   global_id: t-75614
   teiginys: 'Jurgis Zauerveinas, kovojęs už lietuvių kalbą Rytų Prūsijoje, parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie posakio kilmę ir autorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1879 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie posakio kilmę ir autorių.'
@@ -40,7 +40,7 @@ Jurgis) Zauerveinas (Georg Sauerwein), kovojęs už lietuvių kalbą Rytų Prūs
   global_id: t-75615
   teiginys: 'Georgas Zauerveinas parašė Mažosios Lietuvos himną su eilute „Lietuviais esame mes gimę“, ir jis greitai išpopuliarėjo Didžiojoje Lietuvoje.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškesnis ryšys tarp himno, eilutės ir paplitimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Georgas Zauerveinas|Georgas Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Georgas Zauerveinas|Georgas Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1879 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų aiškesnis ryšys tarp himno, eilutės ir paplitimo.'

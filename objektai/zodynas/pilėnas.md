@@ -34,7 +34,7 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
   global_id: t-58882
   teiginys: '1301 m. Aukaimio pilėnas Draika norėjo išsižadėti stabų garbinimo ir slapta kreipėsi pagalbos į Ragainės komtūrą Folradą.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į savarankišką sakinį apie pilėną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Folradas|Folradas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1301 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į savarankišką sakinį apie pilėną.'
@@ -111,7 +111,6 @@ Dusburgietis teigia, kad apie pirmąjį Aukaimio pilies sugriovimą 1302 metais 
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-184872|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trisdešimtą apgulos dieną Vytauto kariai pro sugriautus įtvirtinimus įsiveržė į žemutinę pilį.
 - susijęs iš [[objektai/daiktai/Pilies vartai.md#claim-t-59700|Pilies vartai (pilis, XIV a.)]]: Aukaimio pilėnas Draika slapta atidarė pilies vartus brolių kariuomenei, kuri įsiveržė į pilį.
 - susijęs iš [[objektai/ivykiai/Pirmasis Aukaimio pilies sugriovimas (1301 m.).md#claim-t-66825|Pirmasis Aukaimio pilies sugriovimas (1301 m.)]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
-- susijęs iš [[objektai/posakiai/Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes.md#claim-t-59163|Trečią dieną mirsi ir džiaukis, kad tavo siela kaip ir kitos žuvusiųjų sielos nuskris į amžinas linksmybes]]: Kronikos stebuklo pasakojime Mergelė Marija sužeistam Kulmo pilėnui pranašavo, kad jis mirs trečią dieną ir jo siela nuskris į amžinas linksmybes.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-184015|pilėnas pilėnai]]: 1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, kurie įsiveržę vėl sugriovė pilį iki pamatų.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58800|pilėnas pilėnai]]: 1305 m. Aukaimio pilėnas Svirtilas išdavė pilį Ordino broliams, o vėliau su visa šeimyna priėmė krikštą.
 - susijęs iš [[objektai/zodynas/pilėnas pilėnai.md#claim-t-58802|pilėnas pilėnai]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.

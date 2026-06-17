@@ -30,7 +30,7 @@ Truska: Emigracija iš Lietuvos 1868-1914 m. (AkMD, t.
 - t-001
   global_id: t-30784
   teiginys: 'L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_person: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_person: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

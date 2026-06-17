@@ -43,7 +43,7 @@ Dusburgietis teigia, kad otrembskls nekritiškai pasirėmė Livonijos atstovų p
   global_id: t-60991
   teiginys: 'Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.'
   sudarymo_pagrindimas: 'Teiginys tiksliai apibendrina originale minimus Lietuvos karalių ir kraštus.'
-  susije_objektai: 'territory: Lamata; territory: Lietuva; territory: Livonija; territory: Nemunas; territory: Pagraudė; territory: Pskovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Pagraudė; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lamata; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Pagraudė; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

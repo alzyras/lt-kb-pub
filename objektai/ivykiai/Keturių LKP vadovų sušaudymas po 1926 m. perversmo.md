@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20219
   teiginys: 'Po 1926 m. perversmo keturi LKP vadovai buvo nuteisti mirties bausme ir sušaudyti praėjus dešimčiai dienų nuo perversmo pradžios.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti trumpesnį enciklopedinį faktą be perteklinio aiškinimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Estija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1924 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti trumpesnį enciklopedinį faktą be perteklinio aiškinimo.'

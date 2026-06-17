@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-01763
   teiginys: 'Padalinamasis seimas konstitucijomis skyrė milžiniškas pinigų sumas didikams, pasidarbavusiems rusams.'
   sudarymo_pagrindimas: 'Pradinis sakinys neaiškiai sieja konstitucijas ir gavėjus; citata leidžia suformuluoti sklandžiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Radomas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Radomas'
   temporaliniai_duomenys: 'įvykio data: 1775 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys neaiškiai sieja konstitucijas ir gavėjus; citata leidžia suformuluoti sklandžiau.'
@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-01764
   teiginys: 'Per 1773–1775 m. padalinamąjį seimą buvo sunaikintos valstybės pajamos, išgrobsčius daugumą valstybės dvarų ir iždo pinigus.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalinta vertinamoji formuluotė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Radomas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Radomas'
   temporaliniai_duomenys: 'įvykio data: 1773-1775; įvykio data: 1775 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalinta vertinamoji formuluotė.'

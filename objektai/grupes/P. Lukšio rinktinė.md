@@ -29,7 +29,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   global_id: t-41107
   teiginys: 'Prisikėlimo apygardoje buvo atkurta P. Lukšio rinktinė, netrukus pervadinta į Maironio rinktinę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas pateikta citata.'
@@ -41,7 +41,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Lukšio rinktinės 
   global_id: t-41108
   teiginys: '1952 m. J. Paliūnas-Rytas vėl tapo P. Lukšio rinktinės vadu ir tais pačiais metais, po išdavystės apsuptas bolševikų, nusišovė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata patvirtina pareigas, datą bei žūties aplinkybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]'
   temporaliniai_duomenys: 'įvykio data: 1951 m.; įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata patvirtina pareigas, datą bei žūties aplinkybes.'

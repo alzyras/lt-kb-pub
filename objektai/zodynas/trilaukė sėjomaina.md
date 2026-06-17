@@ -27,7 +27,7 @@ Vykdant žemės reformą nyko senieji kaimai, žmonės kėlė savo sodybas į vi
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/vienkiemiai.md#claim-t-77808|vienkiemiai]]: Vykdant žemės reformą žmonės kėlė sodybas į vienkiemius, nyko senieji kaimai ir dingo trilaukė sėjomaina.
+
 ## Reikšmingi paminėjimai
 
 - c-001

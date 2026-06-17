@@ -39,7 +39,7 @@ Nenurodyta
   teiginys: 'Dusburgiečio pasakojime prūsas Dargis po ketvirto balto žirgo bandymo įtikėjo ir tapo uoliu tikėjimo šalininku.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Tai pasakojimas apie stebuklą, todėl palikta šaltinio atribucija ir pašalintas nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Dargis|Dargis]]; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

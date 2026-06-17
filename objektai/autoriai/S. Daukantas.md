@@ -38,7 +38,7 @@ S. Daukantas šiame šaltinyje minimas kaip istorikas, rašytojas; jam priskiria
   global_id: t-45651
   teiginys: 'S. Daukantas savo veikaluose žavėjosi ikikrikščioniškos Lietuvos praeitimi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citatos sakiniu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Telšiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Telšiai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citatos sakiniu.'

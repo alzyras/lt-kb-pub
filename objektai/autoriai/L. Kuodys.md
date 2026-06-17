@@ -21,7 +21,7 @@ Kuodžio redaguota, su dailininko K.
   global_id: t-96056
   teiginys: 'L. Kuodys redagavo vyskupo Valančiaus „Vaikų knygelę“, išleistą su K. Šimonio iliustracijomis.'
   sudarymo_pagrindimas: 'Pašalinta nutrūkusi inicialo konstrukcija.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
   pagrindžia:
     - c-001
 

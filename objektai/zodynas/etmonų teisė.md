@@ -21,7 +21,7 @@ Lietuvos didysis etmonas Mykolas Kazimieras Oginskis į jų reikalavimus pasiai�
 - t-001
   global_id: t-42452
   teiginys: 'Mykolas Kazimieras Oginskis teigė įgyvendinąs seną etmonų teisę rinkti Respublikos kariuomenę, kai į šalį įžengia svetima kariuomenė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

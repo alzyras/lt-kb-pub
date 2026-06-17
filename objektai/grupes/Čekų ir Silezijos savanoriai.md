@@ -23,7 +23,7 @@ tags:
   global_id: t-86838
   teiginys: 'Čekų ir Silezijos savanorių vadai pateko į nelaisvę po nesėkmės brastoje per Šventosios upę ties Ukmerge.'
   sudarymo_pagrindimas: 'Sutvarkyta OCR pažeista formuluotė ir išlaikytas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Brasta; mentioned_place: Maskva; mentioned_place: Mstislavlis; mentioned_place: Silezija'
   pagrindžia:
     - c-001
 

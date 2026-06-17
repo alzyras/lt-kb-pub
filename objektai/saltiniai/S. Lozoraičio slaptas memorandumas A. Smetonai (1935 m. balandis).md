@@ -28,7 +28,7 @@ Lozoraičio įdėja – „nepriklausomybė svarbiausia“, todėl modus L I E T
   global_id: t-26491
   teiginys: 'S. Lozoraitis laikė modus vivendi su Lenkija būtina Lietuvos nepriklausomybės sąlyga.'
   sudarymo_pagrindimas: 'Reikia pašalinti boilerplate „teigė“ ir glaudžiau suformuluoti citatos mintį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti boilerplate „teigė“ ir glaudžiau suformuluoti citatos mintį.'

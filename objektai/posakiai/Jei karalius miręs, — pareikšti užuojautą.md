@@ -29,9 +29,9 @@ Užsieny jau daug kas manė, kad jis miręs; pavyzdžiui, Turkų sultonas buvo a
   global_id: t-02064
   teiginys: 'Maskvos kunigaikštis pasiuntiniams į Krokuvą nurodydavo pareikšti užuojautą, jei karalius būtų miręs.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi citatos skyrybos problemų.'
-  susije_objektai: 'territory: Krokuva; territory: Maskva; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva; mentioned_place: Maskva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1548 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigmantas (Romos imperatorius) buvo valdovas Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas (Romos imperatorius) buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Maskva'
+  temporaliniai_duomenys: 'įvykio data: 1548 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per ilgas ir turi citatos skyrybos problemų.'
   pagrindžia:
     - c-001

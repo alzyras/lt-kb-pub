@@ -21,7 +21,7 @@ Sapiegos. Sapiega, gavęs iš Višnioveckių saugumo garantijas, pasidavė kartu
 - t-001
   global_id: t-40316
   teiginys: 'LDK arklidininkas M. P. Sapiega vadovavo mūšio lauke likusiems pėstininkams, dragūnams ir raitarams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/asmenys/B. P. Sapiega|B. P. Sapiega]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/B. P. Sapiega|B. P. Sapiega]]'
   pagrindžia:
     - c-001
 

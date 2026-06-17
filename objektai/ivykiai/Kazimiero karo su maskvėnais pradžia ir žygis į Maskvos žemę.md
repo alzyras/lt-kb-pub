@@ -38,7 +38,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime 6953 metais nutrūko Kazimiero taika su Maskvos didžiuoju kunigaikščiu.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Palikta metraščio atribucija ir pridėtas citatoje esantis laiko žymuo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą pačią žiemą pasiuntė savo vaivadas, kunigaikščius ir ponus su kariuomene pulti Maskvos žemės.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Išplėstas veiksmo vykdytojų įvardijimas iš citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Maskvos žemės; mentioned_place: Smolenskas; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Maskvos žemės; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis lietuvių pergalę prieš juos vijusius maskvėnus aiškina Dievo pagalba ir pasakoja apie belaisvių nuvarymą į Smolenską.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Dieviška pagalba yra atribucijai jautrus religinis aiškinimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
 
@@ -68,7 +68,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime maskvėnai su totoriais atėjo ir nusiaubė Viazmos žemę.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys aiškus, bet chronikos karo pasakojimui palikta atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
 
@@ -78,7 +78,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Kazimiero kariuomenė nusiaubė Kozelską, Vereją, Možaiską ir Kalugą per žygį į Maskvos žemę.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintas nereikalingas teiginio boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaluga; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_place: Smolenskas; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Kaluga; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_place: Smolenskas; mentioned_place: Viazma'
   pagrindžia:
     - c-001
 

@@ -23,7 +23,7 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į aiškų sakinį apie Kopylį, pašalinus OCR klaidas ir šaltinio triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Petrikovičiai; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Petrikovičiai; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.

@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Prūsai kelis kartus su gausybe ginkluotų vyrų puolė Dobrynės pilį ir privertė brolius vengti rodytis už pilies sienų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinę įžangą ir nuorodos liekaną, citata pagrindžia aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Dobrynė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

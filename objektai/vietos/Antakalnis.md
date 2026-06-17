@@ -63,7 +63,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - t-006
   global_id: t-83141
   teiginys: 'Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Viršupis'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Viršupis'
   pagrindžia:
     - c-005
 
@@ -71,7 +71,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - t-007
   global_id: t-83142
   teiginys: 'Antakalnyje hetmonas Mykolas Pacas pastatė Vilniaus barokinę Šv. Petro ir Povilo bažnyčią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Pacas|Mykolas Pacas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_person: [[objektai/asmenys/Mykolas Pacas|Mykolas Pacas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -79,7 +79,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - t-008
   global_id: t-83143
   teiginys: 'Pagal vieną padavimą Goštautas Antakalnyje pastatydino Šv. Petro bažnyčią pagonių šventyklos vietoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -87,7 +87,7 @@ Antakalnis siejamas su Vilniaus Šv. Petro ir Povilo bažnyčia, ankstesnės pag
 - t-009
   global_id: t-83144
   teiginys: 'Antakalnyje, dabartinės Šv. Petro bažnyčios vietoje, minima medinė visiems lietuvių dievams pašvęsta šventovė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 - susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.

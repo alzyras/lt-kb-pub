@@ -20,7 +20,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
 - t-001
   global_id: t-176270
   teiginys: 'Rusų kronikos Vytautui priskiria susitarimą pasodinti Tochtamyšą caro Kotlogo vietoje ir pačiam valdyti Rusiją iš Maskvos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/saar|saar]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -29,7 +29,7 @@ Todėl ir nenuostabu, kad jis nuoširdžiai priėmė atbėgusį pas save Tochtam
   global_id: t-176271
   teiginys: 'Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.'
   sudarymo_pagrindimas: 'Reikia aiškiau ir tiksliau susieti Vytauto veiksmą su citatoje nurodytu tikslu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Aš tave pasodinsiu Auksinėj Ordoj...|Aš tave pasodinsiu Auksinėj Ordoj...]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-66499
   teiginys: 'Konradas iš Tirbergo su didele kariuomene perėjo užšalusį Nemuną, puolė Bisenės pilį, įsiveržė į ją ir sudegino.'
   sudarymo_pagrindimas: 'Reikia neutralesnės, enciklopedinės formuluotės vietoje vaizdingo posakio „pavertė pelenais“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bisenė; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Bisenė; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 

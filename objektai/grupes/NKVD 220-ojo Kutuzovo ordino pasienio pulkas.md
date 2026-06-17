@@ -29,7 +29,7 @@ amziai:
   global_id: t-80643
   teiginys: '1945 m. gegužės 16 d. Kalniškės miške partizanus puolė 1-ojo Pabaltijo fronto NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet reikia pašalinti OCR triukšmą ir normalizuoti rašybą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Buiničius|Buiničius]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Buiničius|Buiničius]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą, bet reikia pašalinti OCR triukšmą ir normalizuoti rašybą.'

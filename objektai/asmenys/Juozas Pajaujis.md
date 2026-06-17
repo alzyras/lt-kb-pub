@@ -30,7 +30,7 @@ Atsitokėjusi kairioji opozicija dar pabandė perversmininkų stiliumi grąžint
   global_id: t-19016
   teiginys: '1927 m. pavasarį apie Seimo narį Juozą Pajaujį susibūrusios grupės perversmo planas žlugo suėmus J. Pajaujį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citatoje aprašytu perversmo plano žlugimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
   temporaliniai_duomenys: 'įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citatoje aprašytu perversmo plano žlugimu.'

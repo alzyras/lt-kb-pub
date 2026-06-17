@@ -28,7 +28,7 @@ Kruopščiai atrinkęs iš Centrinio Valstybės Archyvo (Kaune) ir eilės kitų 
   global_id: t-31994
   teiginys: 'Jablonskis 1934 m. išleido „XVI amžiaus inventorius“, parengtus iš Kauno Centrinio Valstybės archyvo ir kitų Lietuvos archyvų aktų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateiktais duomenimis.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citatoje pateiktais duomenimis.'

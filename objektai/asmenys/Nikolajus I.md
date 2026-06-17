@@ -33,7 +33,7 @@ periodo_grupes:
   global_id: t-82633
   teiginys: '1855 m., po caro Nikolajaus I mirties ir Rusijai pralaimėjus Krymo karą, imperijoje prasidėjo reformos.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir pagrįstas pateikta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kuratorius|kuratorius]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir pagrįstas pateikta citata.'
@@ -45,7 +45,7 @@ periodo_grupes:
   global_id: t-82634
   teiginys: 'Įkūrus slaptąją policiją, caro Nikolajaus I priežiūra Vilniaus švietimo apygardoje tapo dar akylesnė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ periodo_grupes:
   global_id: t-82635
   teiginys: 'Po Nikolajaus I mirties 1855 m. ir Rusijos pralaimėjimo Krymo kare imperijoje prasidėjo reformos.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, teiginys tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kuratorius|kuratorius]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1855 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas, teiginys tiesiogiai paremtas citata.'

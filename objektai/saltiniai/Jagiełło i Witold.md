@@ -28,7 +28,7 @@ amziai:
 - t-001
   global_id: t-31737
   teiginys: 'P. Koneczny veikalo „Jagiełło i Witold“ I tomas buvo išleistas Lvove 1893 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Koneczny|Koneczny]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lvovas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lvovas'
   temporaliniai_duomenys: 'įvykio data: 1893 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

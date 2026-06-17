@@ -57,7 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-41296
   teiginys: 'Kėdainių gynyba buvo pirmasis Kėdainių įgulos savanorių kovos krikštas.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Šilginėliai'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Kėdainiai; mentioned_place: Šilginėliai'
   pagrindžia:
     - c-005
 

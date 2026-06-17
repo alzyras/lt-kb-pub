@@ -35,7 +35,7 @@ Surinkdamas daug archyvinės medžiagos, Janulaitis parašė išsamų veikalą �
   global_id: t-31288
   teiginys: 'Lietuvos Karininkų Ramovės iniciatyva Janulaitis parašė plačią monografiją apie Kęstutį, bet ją išspausdinti sutrukdė 1940 m. įvykiai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Ramovės iniciatyvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie Ramovės iniciatyvą.'

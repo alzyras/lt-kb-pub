@@ -28,7 +28,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
   teiginys: 'Bielskas lokalizuojamas prie Baltosios, Narevo intako, į pietus nuo Balstogės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Bielsko padėtį ir remiasi ta pačia geografine pastaba. Nepridėta nieko už citatos ribų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Balstogė; mentioned_place: Branskas; mentioned_place: Lenkija; mentioned_place: Narevas'
+  susije_objektai: 'mentioned_place: Balstogė; mentioned_place: Branskas; mentioned_place: Lenkija; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
   teiginys: 'Bielskas buvo Palenkės miestas, 1971 m. leidimo komentare tapatintas su Lenkijos Bielsku Podlaskiu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Patikslinta, kad dabartinė lokalizacija yra leidimo komentaro teiginys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Balstogė; mentioned_place: Branskas; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_place: Balstogė; mentioned_place: Branskas; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Palenkė'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kad dabartinė lokalizacija yra leidimo komentaro teiginys.'
@@ -53,7 +53,7 @@ Bielskas apibūdinamas kaip Palenkės miestas. Bielskas lokalizuojamas prie Balt
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys išskleidžia Bielsko kaip Palenkės miesto padėtį ir yra paremtas citata. OCR triukšmas bei puslapio žymos į teiginį neperkeltos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Balstogė; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_place: Balstogė; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Palenkė'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Miestelėnų luomas.md#claim-t-34347|Miestelėnų luomas]]: Vytauto laikais miestelėnų luomo pagrindai buvo padėti miestams suteikiant pirmąsias savivaldybes, vadintas magdeburgijomis.

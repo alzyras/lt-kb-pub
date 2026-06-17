@@ -24,8 +24,7 @@ Jau Ptolemajas II a.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
-- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
-- susijęs iš Geografija: Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.
+
 ## Reikšmingi paminėjimai
 
 - c-001

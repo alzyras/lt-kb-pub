@@ -29,7 +29,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   global_id: t-78039
   teiginys: 'Po Klaipėdos atplėšimo V. Mironą ministro pirmininko pareigose pakeitė generolas Jonas Černius.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs fragmentas, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Černius|Jonas Černius]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Jonas Černius|Jonas Černius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -38,7 +38,7 @@ Smetonai artimas asmuo – kun. Vladas Mironas. Mironą premjero poste pakeitusi
   global_id: t-78040
   teiginys: 'Priėmus Lenkijos ultimatumą, A. Smetonai artimas kunigas Vladas Mironas pakeitė J. Tūbelį ministro pirmininko pareigose.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, todėl papildytas citatoje esančiu veiksmu ir pareigomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vladas Mironas|Vladas Mironas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Vladas Mironas|Vladas Mironas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentiškas, todėl papildytas citatoje esančiu veiksmu ir pareigomis.'

@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, veiksmą ir sutikimo aplinkybes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Radomas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

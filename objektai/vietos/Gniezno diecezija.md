@@ -24,7 +24,7 @@ Karalius tuoj pat aprūpino ją nemenkomis pajamomis: be turtingos Klodovo klebo
   global_id: t-86185
   teiginys: 'Vilniaus katedrai skirtų pajamų dalimi buvo turtinga Klodovo klebonija Gniezno diecezijoje.'
   sudarymo_pagrindimas: 'Pašalintas susimaišęs puslapio ir pastabų tekstas, paliktas pagrįstas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Gniezno; mentioned_place: Klodovas; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Gniezno; mentioned_place: Klodovas; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

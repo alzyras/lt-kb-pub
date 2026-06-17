@@ -10,7 +10,6 @@ tags:
   - karalius
   - popiežius
   - valdovas
-  - vyskupas
 ---
 # Petras Atsiskyrėlis
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   global_id: t-90005
   teiginys: 'Petras Atsiskyrėlis smarkiai nuliūdo ir apgraudo, vienas pats nerimastingai svarstydamas, ar negalėtų vienaip ar kitaip pagelbėti prislėgtiesiems.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Prancūzija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   global_id: t-90006
   teiginys: 'Petras Atsiskyrėlis su Jeruzalės patriarcho Simeono laiškais vyko pas popiežių Urboną II ir ragino leistis į kelionę į Jeruzalę.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas; citata palaiko glaustą sakinį apie Petro Atsiskyrėlio veiksmus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   global_id: t-90007
   teiginys: 'Pasak Dusburgiečio, Petrui Atsiskyrėliui sapne pasirodęs Jėzus Kristus įpareigojo jį kreiptis į popiežių ir Vakarų valdovus dėl Šventosios Žemės išvadavimo.'
   sudarymo_pagrindimas: 'Reikia šaltinio atribucijos, nes teiginys apie regėjimą; pradinė formuluotė per ilga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Jėzus Kristus|Jėzus Kristus]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jėzus Kristus|Jėzus Kristus]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -52,7 +51,7 @@ Dusburgietis teigia, kad prancūzijos karalystės vieną vargšą bei dievotą �
   global_id: t-90008
   teiginys: 'Petras Atsiskyrėlis buvo vargšas ir dievotas žmogus iš Prancūzijos karalystės, gyvenęs atsiskyręs Amjeno vyskupystėje.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų biografinį faktą apie Petrą Atsiskyrėlį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Prancūzija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prancūzija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/Ordino brolis.md#claim-t-58861|Ordino brolis]]: Petras Dusburgietis buvo Ordino brolis kunigas ir Prūsijos žemės kronikos autorius.

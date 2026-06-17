@@ -85,7 +85,7 @@ Nenurodyta
   global_id: t-176201
   teiginys: 'Skirgaila Trakų piliai ginti iš Ordino maršalkos dovanų gavo keletą didelių patrankų.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia aiškiai susieti armotas su patrankomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Ragainė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Ragainė; mentioned_place: Trakai'
   pagrindžia:
     - c-003
 

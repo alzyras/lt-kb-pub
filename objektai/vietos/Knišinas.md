@@ -32,7 +32,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   global_id: t-86020
   teiginys: 'Mirdamas Knišine, Žygimantas Augustas pavedė užbaigti Šv. Onos bažnyčią, išplėsti Švč. Trejybės prieglaudą ir geriau ją aprūpinti.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį ir pilnesnį pavedimo aprašymą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   global_id: t-86021
   teiginys: 'Žygimantas Augustas mirė 1572 metų liepos 7 dieną Knišine, būdamas 52 metų amžiaus.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia datą, vietą ir amžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   global_id: t-86022
   teiginys: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko šį faktą, pašalintas puslapio triukšmas.'
-  susije_objektai: 'location: Lietuva; location: Rūdninkai; location: Torunė; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Torunė'
+  susije_objektai: 'location: Lietuva; location: Rūdninkai; location: Torunė; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Torunė'
   temporaliniai_duomenys: 'kelionės data: 1576 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustas keliavo į Rūdninkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustas keliavo į Torunė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko šį faktą, pašalintas puslapio triukšmas.'

@@ -27,7 +27,7 @@ nakties sovietų tankai ir šarvuočiai apsiautė televizijos bokštą bei Lietu
   global_id: t-21564
   teiginys: '1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Lietuvos radijo ir televizijos komiteto pastatą, kurį gynė taiki minia.'
   sudarymo_pagrindimas: 'Patikslintas istorinis laikas ir glaudžiau suformuluotas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'pastatymo data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas istorinis laikas ir glaudžiau suformuluotas faktas.'

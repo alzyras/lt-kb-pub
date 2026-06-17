@@ -28,7 +28,7 @@ Dusburgietis teigia, kad kolankowski L.
   global_id: t-61099
   teiginys: 'L. Kolankowskio straipsnis „Litwini a Prusacy“ paskelbtas 1931 m. Lvove išleistame V visuotinio lenkų istorikų suvažiavimo leidinyje.'
   sudarymo_pagrindimas: 'Citata pagrindžia autoriaus, pavadinimo, leidinio, vietos ir metų bibliografinį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_place: Lvovas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lvovas'
   temporaliniai_duomenys: 'įvykio data: 1931 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autoriaus, pavadinimo, leidinio, vietos ir metų bibliografinį faktą.'

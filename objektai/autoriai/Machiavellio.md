@@ -22,8 +22,7 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
   global_id: t-01108
   teiginys: 'Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.'
   sudarymo_pagrindimas: 'Reikia tiesiogiai suformuluoti faktą apie Machiavellio mokslą.'
-  susije_objektai: 'territory: Italija; territory: Milanas; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Italija; mentioned_place: Milanas'
-  semantiniai_rysiai: '[[objektai/autoriai/Machiavellio|Machiavellio]] buvo valdovas Italija; [[objektai/autoriai/Machiavellio|Machiavellio]] buvo valdovas Milanas'
+  susije_objektai: 'territory: Italija; territory: Milanas; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Italija; mentioned_place: Milanas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/Machiavellio mokslas.md#claim-t-02946|Machiavellio mokslas]]: Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.
@@ -43,7 +42,3 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Machiavellio buvo_valdovas [[objektai/vietos/Italija]]
-- Machiavellio buvo_valdovas [[objektai/vietos/Milanas]]

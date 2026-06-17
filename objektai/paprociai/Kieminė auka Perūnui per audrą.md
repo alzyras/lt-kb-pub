@@ -42,7 +42,7 @@ Nenurodyta
 - t-002
   global_id: t-07785
   teiginys: 'Kilus audrai arba grasinant krušai šeimininkas tris kartus apeidavo savo rugius ar varstą su lašinių paltimi ir melsdavo Perūną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]'
   pagrindžia:
     - c-001
 

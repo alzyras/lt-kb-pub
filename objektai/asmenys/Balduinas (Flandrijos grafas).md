@@ -34,7 +34,7 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   semantiniai_rysiai: '[[objektai/asmenys/Balduinas (Flandrijos grafas)|Balduinas (Flandrijos grafas)]] valdė teritoriją Konstantinopolis; [[objektai/asmenys/Balduinas (Flandrijos grafas)|Balduinas (Flandrijos grafas)]] valdė teritoriją Venecija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Konstantinopolio miesto užėmimas (1200 m.).md#claim-t-62333|Konstantinopolio miesto užėmimas (1200 m.)]]: 1200 m. Konstantinopolį užėmė prancūzai ir Venecijos kariai, o Flandrijos grafas Balduinas tapo imperatoriumi.
+
 ## Reikšmingi paminėjimai
 
 - c-001

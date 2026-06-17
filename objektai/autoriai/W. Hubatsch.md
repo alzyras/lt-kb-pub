@@ -29,7 +29,7 @@ Hubatsch^158.
 - t-001
   global_id: t-64883
   teiginys: 'Bonnos universiteto profesorius W. Hubatschas parašė išsamią monografiją apie Prūsų hercogą Albrechtą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

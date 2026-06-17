@@ -42,7 +42,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   global_id: t-175286
   teiginys: 'Dobrynė buvo to paties vardo žemės centras dešiniajame Vyslos krante aukščiau Vloclaveko.'
   sudarymo_pagrindimas: 'Teiginys pilnas, aiškus ir paremtas citata apie Dobrynės vietą bei funkciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Inovroclavas; mentioned_place: Kaimas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Vysla'
   pagrindžia:
     - c-009
 
@@ -72,7 +72,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   global_id: t-175289
   teiginys: 'Vyguntas, būdamas Vladislovo iš Opolės žentas, gavo Dobrynės žemes iki gyvos galvos, nes pati Kernavės kunigaikštija buvo maža.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos informacija apie Vyguntui suteiktas Dobrynės žemes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Kernavė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Kernavė'
   pagrindžia:
     - c-002
 
@@ -89,7 +89,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   global_id: t-175292
   teiginys: 'Prūsai kelis kartus su gausiomis ginkluotomis pajėgomis puolė Dobrynės pilį.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis pasakojamasis kontekstas ir išnašos numeris.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-006
 
@@ -98,7 +98,7 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   global_id: t-175293
   teiginys: 'Dobrynės pilis davė vardą broliams, kurie vėliau buvo pavadinti Dobrynės broliais.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas; citata pagrindžia aiškų faktą apie pilies vardą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Kujavija'
+  susije_objektai: 'mentioned_place: Kujavija'
   pagrindžia:
     - c-003
 

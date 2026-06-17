@@ -32,7 +32,7 @@ Dusburgietis teigia, kad spalio 12 Tuo tarpu brolis Karolis, didysis magistras, 
   global_id: t-89880
   teiginys: 'Kristmemelio pilis buvo pastatyta magistro Karolio.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia trumpą faktą apie Karolio vaidmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kristmemelis; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

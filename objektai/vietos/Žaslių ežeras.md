@@ -22,7 +22,7 @@ Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje
   teiginys: 'Lietuvos metraštyje Žaslių ežeras siejamas su Pajautos stabu, kurį žmonės garbino ir Pajautą laikė deive.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Religinis vertinimas ir kulto vaizdavimas turi likti šaltiniui priskirti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Pajautos stabas buvo pastatytas ties Žaslių ežeru. Žaslių ežeras kronikoje
   teiginys: 'Lietuvos metraštyje Kukovaitis pastato motinos Pajautos vardo stabą ties Žaslių ežeru jos atminimui pagerbti.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys jau yra pilnas lietuviškas sakinys su aiškiu subjektu ir veiksmo vieta. Legendinis pasakojimas paliktas susietas su Lietuvos metraščiu, nepridedant detalių apie Pajautos dievinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Pajauta|Pajauta]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 

@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-87266
   teiginys: 'Dvasiškių ir pasauliečių sienų ginčus turėjo tirti po lygiai paskirti pasauliečių ir dvasiškių komisarai, remdamiesi LDK įstatymais.'
   sudarymo_pagrindimas: 'Citata remia mišrių komisijų ir LDK teisės taikymo tvarką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

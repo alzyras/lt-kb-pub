@@ -40,7 +40,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84408
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje Vilniaus kapitulai buvo dovanojami Paneriai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Panerių dovanojimą privilegijoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Panerių dovanojimą privilegijoje.'
@@ -79,7 +79,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84412
   teiginys: 'Perkėlimai plaustais per Vilijos upę buvo uždrausti tarp Verkių kaimo ir Panerių kaimo.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą draudimą tarp Verkių ir Panerių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -96,7 +96,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84414
   teiginys: 'Perkėlimai plaustais per Viliją buvo draudžiami tarp Verkių kaimo ir Vilniaus kapitulai priklausiusio Panerių kaimo.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį be dokumento nuotrupų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -105,7 +105,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84415
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
   sudarymo_pagrindimas: 'Žodis „šiandien“ yra kontekstinis, todėl reikia aiškiai nurodyti šaltinio aprašymo laiką.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: [[objektai/asmenys/Julijona|Julijona]]; owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Vilnius'
+  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: [[objektai/asmenys/Julijona|Julijona]]; owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Vilnius'
   semantiniai_rysiai: 'Paneriai priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Paneriai priklausė [[objektai/asmenys/Julijona|Julijona]]; Paneriai priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Paneriai priklausė Vilnius'
   pagrindžia:
     - c-004
@@ -114,7 +114,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
 - t-010
   global_id: t-84416
   teiginys: 'Paneriuose veikęs Ypatingasis SD būrys buvo viena iš dviejų lietuvių zonderkomandų, daugiausia vykdžiusių šaudymus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/zonderkomanda|zonderkomanda]]; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Ypatingasis SD būrys Vilniuje|Ypatingasis SD būrys Vilniuje]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Jonava; mentioned_place: Kaunas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -123,7 +123,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84417
   teiginys: '1390 m. Vladislovo Jogailos privilegijoje, kuria Vilniaus kapitulai dovanoti Paneriai, Vilija pavadinta Vigilia.'
   sudarymo_pagrindimas: 'Teiginys tiksliai atspindi citatą apie 1390 m. privilegiją ir Vilijos pavadinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atspindi citatą apie 1390 m. privilegiją ir Vilijos pavadinimą.'

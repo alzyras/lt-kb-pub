@@ -29,7 +29,7 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   global_id: t-86814
   teiginys: '1583 m. Savickių Kristupui Zalivskiui parduota valda vėliau iš Zalivskių atiteko Neliubovičiams.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_group: [[objektai/grupes/Zalivskiai|Zalivskiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas Neliubovičius|Jonas Neliubovičius]]; mentioned_person: [[objektai/asmenys/Vilčiopolskis|Vilčiopolskis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1583 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia suformuluoti pilną sakinį.'

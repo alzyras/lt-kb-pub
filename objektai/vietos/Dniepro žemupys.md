@@ -22,7 +22,7 @@ iš Dniepro žemupio išjudėjo slavai, siekdami įsikurti pratuštėjusiuose ge
   global_id: t-32133
   teiginys: 'Apie VI a. po Kr. iš Dniepro žemupio pajudėję slavai užėmė ir pamažu asimiliavo dalį rytinių baltų žemių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Dniepro žemupį ir slavų judėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/prokalbė|prokalbė]]; mentioned_place: Dniepras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Dniepras'
   pagrindžia:
     - c-001
 

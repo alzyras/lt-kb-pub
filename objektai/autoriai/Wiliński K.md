@@ -29,7 +29,7 @@ Dusburgietis teigia, kad wiliński K.
   global_id: t-60818
   teiginys: 'K. Wilińskis 1984 m. Lodzėje paskelbė darbą apie X–XIII a. lenkų ir prūsų kovas.'
   sudarymo_pagrindimas: 'Citata pateikia K. Wilińskio darbo temą, vietą ir metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1984 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia K. Wilińskio darbo temą, vietą ir metus.'

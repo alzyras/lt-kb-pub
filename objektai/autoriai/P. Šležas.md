@@ -37,7 +37,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   global_id: t-64799
   teiginys: 'P. Šležas 1937 m. leidinyje „Naujoji Romuva“ paskelbė straipsnį „Lietuvos krikštas“.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1937 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia autoriaus, straipsnio, leidinio ir metų duomenis.'
@@ -49,7 +49,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
   global_id: t-64800
   teiginys: 'P. Šležas 1930 m. redagavo kolektyvinę monografiją apie Vytautą Didįjį.'
   sudarymo_pagrindimas: 'Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/M. Krasauskaitė|M. Krasauskaitė]]; mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai sieja Šležą su 1930 m. kolektyvinės monografijos redagavimu.'
@@ -60,7 +60,7 @@ P. Šležas minimas kaip autorius ir redaktorius; jam priskiriami darbai Lietuvo
 - t-003
   global_id: t-64801
   teiginys: 'Turinyje P. Šležui priskiriami skyriai „Vytauto santykiai su Lenkija“ ir „Vytauto konfliktas su Lenkija dėl karūnacijos“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/P. Klimas.md#claim-t-00063|P. Klimas]]: P. Klimas parašė veikalo dalį apie nepriklausomosios valstybės atstatymą ir gyvenimą.

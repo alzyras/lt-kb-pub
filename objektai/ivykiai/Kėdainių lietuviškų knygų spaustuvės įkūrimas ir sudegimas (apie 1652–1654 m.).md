@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-01691
   teiginys: 'Kėdainių lietuviškų knygų spaustuvė veikė vos porą metų ir greičiausiai sudegė 1654 m.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia tiesioginį faktą apie spaustuvės veikimą ir sudegimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kėdainiai; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kėdainiai; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1652 m.; įvykio data: apie 1652 m.; įvykio data: 1654 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia tiesioginį faktą apie spaustuvės veikimą ir sudegimą.'

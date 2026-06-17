@@ -28,7 +28,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   global_id: t-47983
   teiginys: 'Apuolės piliakalnio 3640 m² aikštėje negalėjo tilpti kronikų minimi 15 000 kovotojų.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau, pašalinant neaiškią sakinio konstrukciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Seeburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Seeburgas'
   temporaliniai_duomenys: 'įvykio data: 3640 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau ir aiškiau, pašalinant neaiškią sakinio konstrukciją.'
@@ -40,7 +40,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
   global_id: t-47984
   teiginys: 'Apuolės piliakalnio 3640 kv. m aikštėje negalėjo tilpti kronikose minėti 15 tūkst. kuršių kovotojų.'
   sudarymo_pagrindimas: 'Perrašyta be OCR triukšmo ir perteikta citatos esmė apie Apuolę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Seeburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Seeburgas'
   temporaliniai_duomenys: 'įvykio data: 3640 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta be OCR triukšmo ir perteikta citatos esmė apie Apuolę.'
@@ -51,7 +51,7 @@ Apuolės pilis šiame veikale minima kaip viena ankstyvųjų skandinavų ekspans
 - t-003
   global_id: t-47985
   teiginys: 'VII a. pabaigoje švedai įsikūrė Grobine ir užėmė Apuolės pilį prie Skuodo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:

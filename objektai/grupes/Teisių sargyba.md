@@ -24,7 +24,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   global_id: t-20046
   teiginys: 'Teisių sargyba buvo vyriausybė, turėjusi padėti valdovui tvarkyti valstybės reikalus.'
   sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas iki aiškaus enciklopedinio sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

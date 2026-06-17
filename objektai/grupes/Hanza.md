@@ -64,7 +64,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   global_id: t-116685
   teiginys: 'Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys būtų gramatinis ir turėtų aiškų veiksnį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-007
 
@@ -103,8 +103,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   global_id: t-116692
   teiginys: 'Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiški nuoroda „tuose centruose“.'
-  susije_objektai: 'object: Lietuva; object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] pastatė Lietuva; [[objektai/grupes/Hanza|Hanza]] pastatė [[objektai/zodynas/Adynos|Adynos]]'
+  susije_objektai: 'object: Lietuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] pastatė Lietuva'
   pagrindžia:
     - c-005
 
@@ -361,7 +361,6 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - Hanza pastate [[objektai/vietos/Lietuva]]
 - Hanza pastate [[objektai/vietos/Nemunas]]
 - Hanza pastate [[objektai/vietos/Polockas]]
-- Hanza pastate [[objektai/zodynas/Adynos|adynos]]
 - [[objektai/vietos/Dorpatas]] priklause Hanza
 - Hanza priklause [[objektai/vietos/Europa]]
 - Hanza priklause [[objektai/vietos/Europos geografinis centras]]

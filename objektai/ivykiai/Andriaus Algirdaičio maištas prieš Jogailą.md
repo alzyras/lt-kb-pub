@@ -51,7 +51,7 @@ Nenurodyta
   teiginys: '1971 m. komentare Andriui Algirdaičiui priskiriamas siekis atplėšti Polocką nuo LDK, o 1385 m. spalio 10 d. jis pasidavė Livonijos ordinui kaip vasalas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Motyvas paliktas su atribucija komentarui, nes tai interpretacinis siekio priskyrimas. Datos, veiksmas ir vasalystė perrašyti kaip tiesiogiai paremti citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Lukomlis; mentioned_place: Polockas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Lukomlis; mentioned_place: Polockas; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1381 m.; įvykio data: 1385 m.; įvykio data: 1386 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Motyvas paliktas su atribucija komentarui, nes tai interpretacinis siekio priskyrimas. Datos, veiksmas ir vasalystė perrašyti kaip tiesiogiai paremti citata.'

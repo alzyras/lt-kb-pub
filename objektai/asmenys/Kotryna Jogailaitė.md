@@ -24,7 +24,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   global_id: t-87399
   teiginys: 'Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia santuoką ir Jono titulą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   global_id: t-87400
   teiginys: 'Kotryna Jogailaitė, Švedijos karalienė, buvo paskelbta viena iš valdų, dvarų ir kito turto paveldėtojų.'
   sudarymo_pagrindimas: 'Citata pagrindžia paveldėtojos statusą; pradinis tekstas per ilgas ir nutrūkęs.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-003
 
@@ -42,7 +42,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   global_id: t-87401
   teiginys: 'Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.'
   sudarymo_pagrindimas: 'Pradinė formuluotė klaidingai priskyrė Onai taikomą teiginį Kotrynai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Jogailaitė|Ona Jogailaitė]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 

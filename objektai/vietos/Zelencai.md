@@ -20,7 +20,7 @@ Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, tačiau didel
 - t-001
   global_id: t-42347
   teiginys: 'Birželio 18 d. Lenkijos kariuomenė prie Zelencų sumušė rusus, bet spaudžiama didelių priešo pajėgų ATR kariuomenė traukėsi visu frontu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos kariuomenė|Lenkijos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Miro mūšis (1792 m. birželio 11 d.).md#claim-t-41325|Miro mūšis (1792 m. birželio 11 d.)]]: 1792 m. birželio 11 d. prie Miro įvyko pirmasis didelis mūšis, kuriame Lietuvos kariuomenė patyrė pirmąją nesėkmę.

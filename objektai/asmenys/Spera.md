@@ -49,3 +49,4 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
 
 ## Ryšiai
 - Spera valde_teritorija [[objektai/vietos/Širvinta]]
+- Spera buvo_valdovas [[objektai/vietos/Lenkija]]

@@ -22,7 +22,7 @@ tags:
   global_id: t-80630
   teiginys: 'Poziciniame kare kariai buvo įsitvirtinę apkasuose priešingose upelio pusėse ir šaudė vieni į kitus.'
   sudarymo_pagrindimas: 'Citata apibūdina pozicinį karą apkasuose, o pradinis teiginys yra nutrūkęs ir su kabučių klaida.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 

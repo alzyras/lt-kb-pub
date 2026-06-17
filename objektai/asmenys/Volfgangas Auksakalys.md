@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-87887
   teiginys: 'Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas faktas apie Volfgangą Auksakalį ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_person: [[objektai/asmenys/Štagelis|Štagelis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Štagelis|Štagelis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas faktas apie Volfgangą Auksakalį ir paremtas citata.'

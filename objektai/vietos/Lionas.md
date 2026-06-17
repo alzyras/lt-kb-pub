@@ -15,7 +15,6 @@ tags:
   - kunigaikštis
   - ordinas
   - popiežius
-  - vieta
 amziai:
   - 'XIII'
 ---
@@ -32,7 +31,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   global_id: t-58457
   teiginys: 'Po popiežiaus Klemenso vainikavimo prie Liono esančioje Šv. Justo bažnyčioje griuvusi mūro siena nuslėgė daug žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas ir per ilgas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/oktava|oktava]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-002
 
@@ -41,7 +40,6 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   global_id: t-58458
   teiginys: '1245 m. popiežius sušaukė Lione suvažiavimą, kuriame nutarta švęsti Švenčiausiosios Mergelės Marijos gimimo oktavą.'
   sudarymo_pagrindimas: 'Pašalinta antraštė, nuorodos ir nutrūkęs bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/oktava|oktava]]'
   temporaliniai_duomenys: 'įvykio data: 1245 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta antraštė, nuorodos ir nutrūkęs bibliografinis fragmentas.'
@@ -53,7 +51,7 @@ Dusburgietis teigia, kad apie švenčiausiosios Marijos gimimo oktavos įsteigim
   global_id: t-58459
   teiginys: '1274 m. popiežius Grigalius X sušaukė Lione sinodą, kuriame graikai grįžo į Bažnyčios vienybę, o keli totorių pasiuntiniai buvo pakrikštyti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Liono sinodą ir citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius X|Grigalius X]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Grigalius X|Grigalius X]]'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Liono sinodą ir citatos faktus.'

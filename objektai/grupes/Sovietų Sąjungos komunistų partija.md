@@ -27,7 +27,7 @@ SSKP Sovietų Sąjungos komunistų partija. Stalino, Karlo Markso veikalus, Sovi
   global_id: t-74929
   teiginys: '1989 m. gruodį LKP XX suvažiavime atsiskyrus nuo SSKP atsirado nacionalinė eurokomunistinio tipo partija.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/eurokomunistinio tipo partija|eurokomunistinio tipo partija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir paremtas citata.'

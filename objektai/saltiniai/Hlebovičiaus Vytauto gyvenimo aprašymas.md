@@ -24,7 +24,7 @@ Pats miestas tiesiog visai sunai­ kintas, Kreivoji, arba Žemutinė, pilis, iš
   global_id: t-88425
   teiginys: 'Po kryžiuočių antpuolio Vilnius buvo smarkiai sunaikintas, o Kreivoji, arba Žemutinė, pilis sudeginta.'
   sudarymo_pagrindimas: 'Citata remia faktą apie miesto ir pilies sunaikinimą, bet pradinis tekstas užterštas išnašos fragmentu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_place: Prūsai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ignacas Onacevičius|Ignacas Onacevičius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Prūsai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

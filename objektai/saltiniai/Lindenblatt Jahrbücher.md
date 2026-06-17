@@ -30,7 +30,7 @@ amziai:
   global_id: t-88115
   teiginys: 'Lindenblatto kronikos vietovardis Boparthen pastabose aiškinamas kaip dabartinis Bobiai į šiaurės vakarus nuo Kauno.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie kronikos vietovardžio identifikavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 
@@ -39,7 +39,7 @@ amziai:
   global_id: t-88116
   teiginys: 'Lindenblattas išsaugojo smulkias Vilniaus pilių apgulties aplinkybes, kurių lietuvių metraštininkai nežinojo.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie Lindenblatto pateiktas detales, o pradinė forma sugadinta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lindenblattas|Lindenblattas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

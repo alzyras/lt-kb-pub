@@ -35,7 +35,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   teiginys: 'Teodoras Narbutas plačiai, nors ir nekritiškai, panaudojo Bychovco kroniką devynių tomų „Lietuvių tautos istorijoje“ ir laikė ją itin vertingu šaltiniu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškus ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -44,7 +44,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   global_id: t-186511
   teiginys: 'Teodoras Narbutas rašydavo apie istorinius įvykius ir be atitinkamos faktografinės bazės.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Tadas Kosciuška|Tadas Kosciuška]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -54,7 +54,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   teiginys: '1846 m. atskiru leidiniu paskelbtos Bychovco kronikos išnašose Teodoras Narbutas paaiškino kai kurias teksto vietas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sutelktas į Teodoro Narbuto veiksmą, išlaikant leidinio datą ir kontekstą. Neperkelti citatos vertinimai apie paaiškinimų pasenimą ar klaidingumą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]'
   temporaliniai_duomenys: 'įvykio data: 1846 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutelktas į Teodoro Narbuto veiksmą, išlaikant leidinio datą ir kontekstą. Neperkelti citatos vertinimai apie paaiškinimų pasenimą ar klaidingumą.'
@@ -67,7 +67,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   teiginys: 'Teodoro Narbuto dėka istoriografijoje įsigalėjo dabartinis kronikos pavadinimas „Bychovco kronika“.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys paliktas kaip citatos palaikomas istoriografinis aiškinimas apie pavadinimo įsigalėjimą. Nepridėta papildomų priežasčių ar vėlesnių tyrimų vertinimų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-004
 
@@ -77,7 +77,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   teiginys: 'Nuo 1838 m. Teodoras Narbutas rūpinosi Bychovco kronikos spausdinimu, o 1844 m. lapkričio 23 d. išsiuntė rankraštį į Vilnių A. Renjerui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo datą, veiksmą ir adresatą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1838 m.; įvykio data: 1838 m.; įvykio data: 1844 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo datą, veiksmą ir adresatą.'
@@ -89,7 +89,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   global_id: t-186515
   teiginys: 'Lietuvoje populiarus Teodoras Narbutas susilaukė rūsčios Michało Balińskio kritikos.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -98,7 +98,7 @@ Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos prae
   global_id: t-186516
   teiginys: 'Teodoras Narbutas dar rašė „Lietuvių tautos istoriją“, kai Lietuvos praeities veikalų buvo nedaug.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Simonas Daukantas|Simonas Daukantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/asmenys/Simonas Daukantas.md#claim-t-105708|Simonas Daukantas]]: Simonas Daukantas buvo parašęs veikalą „Darbai žemaičių ir lietuvių“.

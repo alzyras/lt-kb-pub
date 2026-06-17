@@ -30,7 +30,6 @@ Dusburgietis teigia, kad zurkalowski E.
   global_id: t-61388
   teiginys: 'E. Zurkalowskio straipsnis „In welches Jahr fällt die Belagerung Memels durch die Samländer?“ publikuotas 1907 m. Karaliaučiuje leistame AM 44 tome.'
   sudarymo_pagrindimas: 'Citata nurodo straipsnio publikavimo metus ir leidinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1907 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo straipsnio publikavimo metus ir leidinį.'

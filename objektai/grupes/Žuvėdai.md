@@ -35,7 +35,7 @@ amziai:
 - t-002
   global_id: t-66404
   teiginys: 'Žuvėdai 1700 m. išvertė Gintės žinyčią, ieškodami joje paslėptų lobių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Parusėnai|Parusėnai]]; mentioned_object: [[objektai/grupes/Žemgaliai|Žemgaliai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Parusėnai|Parusėnai]]'
   temporaliniai_duomenys: 'įvykio data: 1700 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

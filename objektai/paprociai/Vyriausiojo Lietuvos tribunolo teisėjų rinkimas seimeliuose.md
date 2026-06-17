@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-02046
   teiginys: 'Bajorija seimuose ir seimeliuose reikalavo pertvarkyti vyriausiąjį teismą ir perduoti apeliacinius teismus bajorijai.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia platesnį bajorijos reikalavimą dėl teismų pertvarkos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1578 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia platesnį bajorijos reikalavimą dėl teismų pertvarkos.'

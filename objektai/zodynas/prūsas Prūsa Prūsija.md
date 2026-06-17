@@ -47,7 +47,7 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   global_id: t-58793
   teiginys: 'XIII a. pirmojoje pusėje Semba šaltiniuose minima atskirai nuo Prūsijos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_place: Barta; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Barta; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1255 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir atitinka citatoje pateiktą faktą.'
@@ -59,7 +59,6 @@ Dusburgietis teigia, kad 188 D. — terra Prussi[a]e, Jer.— Pruzinlant. IX—X
   global_id: t-58794
   teiginys: 'Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į vieną aiškų etimologinį teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Vydūnas|Vydūnas]]'
   pagrindžia:
     - c-005
 

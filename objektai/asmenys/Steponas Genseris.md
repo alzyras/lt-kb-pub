@@ -24,7 +24,7 @@ tags:
   global_id: t-87460
   teiginys: 'Steponas Genseris buvo auksakalys, kurį karaliaus dekretas atleido nuo Vilniaus miesto jurisdikcijos ir cechų valdžios.'
   sudarymo_pagrindimas: 'Citata aiškiai įvardija Genserį auksakaliu ir nurodo dekreto sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -33,7 +33,7 @@ tags:
   global_id: t-87461
   teiginys: 'Auksakalys Steponas Genseris buvo pašauktas į teismą Vilniaus miesto auksakalių cecho reikalavimu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Transilvanija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš Aleksandro privilegija Vilniaus auksakalių cechui: Vilniaus auksakalių cecho prašymu auksakalys Steponas Genseris buvo pašauktas į teismą dėl nepaklusimo Aleksandro privilegijai.

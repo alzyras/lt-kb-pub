@@ -14,7 +14,6 @@ tags:
   - kunigaikštis
   - miestas
   - pilis
-  - vieta
 amziai:
   - 'XIII'
 ---

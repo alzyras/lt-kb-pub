@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-67193
   teiginys: 'Per prūsų degintines laidotuves kilmingiesiems degino ginklus, žirgus, tarnus, drabužius, šunis ir sakalus, o nekilmingiesiems – darbo reikmenis.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau, nes citata skiria kilmingųjų ir nekilmingųjų laidotuvių įkapes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-67195
   teiginys: 'Dusburgietis rašo, kad prūsai po mūšio kaip auką dievams sudegino į nelaisvę paimtą kryžiuotį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, paremtas citata ir tinkamai atribuuoja Dusburgiečio pasakojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

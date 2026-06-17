@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-87200
   teiginys: 'Šventaragio slėnyje tarp Vilijos ir Vilnelės degė amžinoji ugnis Gabija, kurią lietuviai labai garbino.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas pagrindinis apeiginis faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Bokštai; mentioned_place: Vilija; mentioned_place: Vilnelė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Bokštai; mentioned_place: Vilija; mentioned_place: Vilnelė'
   pagrindžia:
     - c-001
 

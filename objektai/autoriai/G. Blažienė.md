@@ -21,7 +21,7 @@ Dusburgietis teigia, kad blažienei, filol.
   global_id: t-60701
   teiginys: 'G. Blažienė teikė dalykinių patarimų rengiant Petro Dusburgiečio kronikos leidimą spaudai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo G. Blažienės dalykinius patarimus rengiant knygą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]'
   pagrindžia:
     - c-001
 

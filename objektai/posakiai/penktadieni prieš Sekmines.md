@@ -40,7 +40,7 @@ Santykinis datos nusakymas pagal bažnytinį kalendorių.
   teiginys: 'Formulė „penktadieni prieš Sekmines“ 1971 m. leidinio pastaboje siejama su Kazimiero išvykimu iš Krokuvos į Lietuvą 1440 m. gegužės 13 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia pateikti konkretesnį faktą apie datą ir įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1440 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pateikti konkretesnį faktą apie datą ir įvykį.'

@@ -20,7 +20,6 @@ tags:
   - diplomatas
   - grupe
   - kunigaikštis
-  - vyskupas
 amziai:
   - 'XIII'
 ---
@@ -37,7 +36,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   global_id: t-65108
   teiginys: '„Pranešime...“ Dobrynės broliai minimi greta pagonių brovimosi į Konrado valdas, Vokiečių ordino pakvietimo ir Sventopelko, Lietuvos bei prūsų bendros kovos.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra nutrūkęs ir negramatiškas, todėl reikia pilno sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -55,7 +54,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   global_id: t-65110
   teiginys: 'Dusburgiečio pasakojimas apie Kristaus brolių, vėliau vadintų Dobrynės ordinu, įkūrimą paremtas Hohenlohės pranešimu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu šaltinio komentaru.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobrynė; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobrynė; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1217 m.; įvykio data: 1223 m.; įvykio data: 1225 m.; įvykio data: 1228 m.; įvykio data: 1235 m.; įvykio data: 1248 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu šaltinio komentaru.'
@@ -67,7 +66,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   global_id: t-65111
   teiginys: 'Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir išnašos triukšmas, sakinys paverstas užbaigtu faktu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-004
 
@@ -85,7 +84,7 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   global_id: t-65113
   teiginys: '1235 m. Dobrynės ordinas susijungė su kryžiuočiais.'
   sudarymo_pagrindimas: 'Faktas pagrįstas citata, bet pašalinta netinkama autorinė įžanga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobrynė; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Dobrynė; mentioned_place: Kujavija; mentioned_place: Mazovija; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1217 m.; įvykio data: 1223 m.; įvykio data: 1225 m.; įvykio data: 1228 m.; įvykio data: 1235 m.; įvykio data: 1248 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Faktas pagrįstas citata, bet pašalinta netinkama autorinė įžanga.'

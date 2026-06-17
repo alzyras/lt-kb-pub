@@ -32,7 +32,7 @@ Tačiau bajorai – dvarininkai sudarė tik ¼ dalį vietos bajorų luomo, daugu
 - t-002
   global_id: t-169925
   teiginys: 'Nuo Jekaterinos II laikų vietiniame valdyme veikė luomų institucijos: bajorų dvarininkų susirinkimai ir miestiečių subluomų savivalda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-002
 

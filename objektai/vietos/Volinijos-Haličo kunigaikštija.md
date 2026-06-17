@@ -30,7 +30,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   global_id: t-32693
   teiginys: 'Vaišvilko bandymas sujungti Lietuvos valstybę su Volinijos-Haličo kunigaikštija buvo labai trumpas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie kunigaikštiją ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1269 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie kunigaikštiją ir remiasi citata.'
@@ -42,7 +42,7 @@ Keršydamas už valdžios Lietu­ voje atidavimą Švarnui, kitas Volinijos-Hali
   global_id: t-32694
   teiginys: 'Volinijos-Haličo kunigaikštis Levas, keršydamas už valdžios Lietuvoje atidavimą Švarnui, pasikvietė Vaišvilką į svečius ir jį nužudė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir citata jį pagrindžia.'
-  susije_objektai: 'territory: Lietuva; mentioned_person: [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.).md#claim-t-31508|Švarno išvarymas ir Traidenio įsiviešpatavimas (1269 m.)]]: Traidenis, kaip sprendžiama, jėga išvarė Švarną iš Lietuvos ir 1269 m. turėjo įsiviešpatauti.

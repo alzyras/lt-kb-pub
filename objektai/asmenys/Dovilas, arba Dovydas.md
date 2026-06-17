@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-87493
   teiginys: 'Dovilas, arba Dovydas, šaltinyje laikomas pirmuoju Vilniaus kunigaikščiu, kurį vilniečiai pasikvietė vietininku XII amžiuje.'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti Dovilo vaidmenį, o pradinis teiginys buvo per ilgas ir triukšmingas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dovydas|Dovydas]]; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

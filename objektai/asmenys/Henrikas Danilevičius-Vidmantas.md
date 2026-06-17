@@ -21,7 +21,7 @@ atstovas RL sričiai Henrikas DanilevičiusVidmantas, Aloyzas Žilys-Žirnis ir 
   global_id: t-40134
   teiginys: 'LLKS vadovybės specialusis atstovas RL sričiai Henrikas Danilevičius-Vidmantas nusišovė po nelygios kovos su okupantų kariuomene.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija asmenį, pareigas ir veiksmą, kurį patvirtina citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Gimbutas|Gimbutas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Gimbutas|Gimbutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

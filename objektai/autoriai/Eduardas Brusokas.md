@@ -28,7 +28,7 @@ Eduardas Brusokas (gimęs 1970 m.), Vilniaus universitete įgijo istorijos bakal
   global_id: t-39843
   teiginys: 'Eduardas Brusokas gimė 1970 m., Vilniaus universitete įgijo istorijos bakalauro, o Vytauto Didžiojo universitete - istorijos magistro laipsnį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas biografinis sakinys ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1794 m.; įvykio data: 1970 m.; įvykio data: po 2000 m.; įvykio data: 2000 m.; įvykio data: po 2006 m.; įvykio data: 2006 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas biografinis sakinys ir tiksliai paremtas citata.'

@@ -25,7 +25,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   global_id: t-86794
   teiginys: 'Senovės geografai naują pasienio tautą ilgai vadino skyrų, herulų ir vidivarijų vardais.'
   sudarymo_pagrindimas: 'Citata remia faktą apie herulų vardo vartojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -37,7 +37,7 @@ Iš tokio trijų skirtingų kilmių gyventojų maišymosi ir samplaikos radosi n
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia konkretų faktą apie herulų kariuomenę; pašalintas triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/grupes/Persai|Persai]]; mentioned_person: [[objektai/asmenys/Justinianas|Justinianas]]; mentioned_place: Italija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Justinianas|Justinianas]]; mentioned_place: Italija'
   temporaliniai_duomenys: 'įvykio data: 493 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia konkretų faktą apie herulų kariuomenę; pašalintas triukšmas.'

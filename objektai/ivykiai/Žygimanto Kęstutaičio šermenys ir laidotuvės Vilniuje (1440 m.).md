@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi šalutiniu gandu; citata geriau palaiko faktą apie šermenis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 

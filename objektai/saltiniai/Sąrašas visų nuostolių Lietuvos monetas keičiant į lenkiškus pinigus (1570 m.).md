@@ -44,7 +44,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   global_id: t-88210
   teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo pakeistos į 164 auksinus ir 36 grašius lenkiškų pinigų.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet reikia sutvarkyti mišrią lotynų ir lietuvių formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet reikia sutvarkyti mišrią lotynų ir lietuvių formuluotę.'
@@ -56,7 +56,7 @@ Karalius Steponas ## Puslapis 456 VILNIAUS MIESTO ISTORIJA// TOMAS SĄRAŠAS VIS
   global_id: t-88211
   teiginys: '1570 m. nuostolių sąraše nurodyta, kad už talerius, Lenkijoje vertintus po 30 grašių, Lietuvoje mokėta po 25 lietuviškus grašius.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra antraštės ir puslapio triukšmas, bet citata palaiko konkretų faktą apie monetų keitimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra antraštės ir puslapio triukšmas, bet citata palaiko konkretų faktą apie monetų keitimą.'

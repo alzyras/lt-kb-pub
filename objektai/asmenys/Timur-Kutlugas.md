@@ -22,7 +22,7 @@ Timuras tačiau derybomis norėjo tik laimėti laiko, nes laukė savo karo vado 
 - t-001
   global_id: t-30396
   teiginys: 'Timur-Kutlugas derybomis siekė laimėti laiko, kol sulauks savo karo vado Edigos dalinių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Ediga|Ediga]]; mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ediga|Ediga]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 - susijęs iš Vorskla: Kai Vytautas priartėjo prie Vorsklos upės, ten atvyko Timur-Kutlugo vadas Edyga.

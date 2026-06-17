@@ -29,7 +29,7 @@ Postalininiu metu atsisakius masinio fizinio teroro, ne taip atvirai ir masiška
   global_id: t-22113
   teiginys: 'Atšilimo laikotarpiu po J. Stalino mirties sovietinėje Lietuvoje oficialiai nuolaidžiau vertintas tautinis kultūrinis palikimas.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su objektu ir vieta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

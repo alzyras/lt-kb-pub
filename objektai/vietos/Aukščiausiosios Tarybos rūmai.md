@@ -53,7 +53,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - t-005
   global_id: t-49632
   teiginys: '1991 m. sausio 11-12 d. rūmų vidus buvo įtvirtinamas spygliuota viela, smėlio maišais, armatūros tinklais, užminuotais laiptais ir baldų barikadomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -68,9 +67,11 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
 - susijęs iš [[objektai/asmenys/Audrius Butkevičius.md#claim-t-40046|Audrius Butkevičius]]: 1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.
 - susijęs iš [[objektai/asmenys/Bronislovas Kuzmickas.md#claim-t-18859|Bronislovas Kuzmickas]]: 1990 m. kovo 11 d. Bronislovas Kuzmickas buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
 - susijęs iš [[objektai/asmenys/Jonas Gečas.md#claim-t-40216|Jonas Gečas]]: Jonas Gečas buvo paskirtas Aukščiausiosios Tarybos gynybos štabo viršininku.
+- susijęs iš [[objektai/asmenys/Jonas Gečas.md#claim-t-40217|Jonas Gečas]]: 1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.
 - susijęs iš [[objektai/asmenys/Justinas Gustaitis.md#claim-t-40243|Justinas Gustaitis]]: Justino Gustaičio laiškas buvo rastas pamestame pase Aukščiausiosios Tarybos rūmuose 1991 m. vasario mėnesį.
 - susijęs iš [[objektai/asmenys/Kazimieras Motieka.md#claim-t-19056|Kazimieras Motieka]]: 1990 m. kovo 11 d. Kazimieras Motieka buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.
 - susijęs iš [[objektai/asmenys/Vincas Kudirka.md#claim-t-78009|Vincas Kudirka]]: Spalio 6-ąją Aukščiausiosios Tarybos Prezidiumas legalizavo Vinco Kudirkos „Tautišką giesmę“ ir lietuvių nacionalinius simbolius.
+- susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79217|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.
 - susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79218|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. buvo Aukščiausiosios Tarybos gynybos štabo narys.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170247|Vytautas Landsbergis]]: Dauguma Lietuvos gyventojų dėl žemės reformos nesėkmių kaltino tuometinį Lietuvos Aukščiausiosios Tarybos pirmininką Vytautą Landsbergį.
 - susijęs iš [[objektai/asmenys/Vytautas Landsbergis.md#claim-t-170253|Vytautas Landsbergis]]: 1991 m. sausio 13 d. Vytautas Landsbergis buvo Aukščiausiosios Tarybos pirmininkas ir šalies vadovas.
@@ -216,4 +217,4 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas]] susije_su Aukščiausiosios Tarybos rūmai (institucija)
+- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]] priklause Aukščiausiosios Tarybos rūmai (institucija)

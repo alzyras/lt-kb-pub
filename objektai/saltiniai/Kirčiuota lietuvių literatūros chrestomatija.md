@@ -29,7 +29,7 @@ Kamantausko, KIRČIUOTA LIETUVIŲ LITERATŪROS CHRESTOMATIJA. Iki šiol dar nė 
 - t-002
   global_id: t-36062
   teiginys: 'V. Kamantausko „Kirčiuotos lietuvių literatūros chrestomatijos“ kirčius patikrino dr. Pr. Skardžius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Pr. Skardžius|Pr. Skardžius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pr. Skardžius|Pr. Skardžius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

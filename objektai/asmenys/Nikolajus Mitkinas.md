@@ -29,7 +29,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-25704
   teiginys: 'Nikolajus Mitkinas buvo lietuviškai nekalbantis LKP CK antrasis sekretorius, siekęs „Lietuvą padaryti internacionalinę“.'
   sudarymo_pagrindimas: 'Pradinis teiginys neatitiko citatos, bet citata palaiko kitą faktą apie Mitkiną.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Lietuvą padaryti internacionalinę“|„Lietuvą padaryti internacionalinę“]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neatitiko citatos, bet citata palaiko kitą faktą apie Mitkiną.'

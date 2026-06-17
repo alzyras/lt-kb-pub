@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1324 m. Gedimino Lietuva puolė Kristmemelio pilį, niokojo Rezeknės apylinkes Livonijoje ir smogė Ordino sąjungininkei Mazovijai.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, o citata leidžia suformuluoti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Nemunas; mentioned_place: Rezeknė'
+  susije_objektai: 'mentioned_place: Kristmemelis; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Nemunas; mentioned_place: Rezeknė'
   temporaliniai_duomenys: 'įvykio data: po 1324 m.; įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, o citata leidžia suformuluoti pilną faktinį sakinį.'

@@ -29,7 +29,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   global_id: t-02612
   teiginys: 'Možaiskas buvo Lietuvos sąjungininkas, kurį Maskva privertė pasiduoti jos valdžiai.'
   sudarymo_pagrindimas: 'Citata remia faktą apie Možaiską, bet sakinys performuluotas objektiškai.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Tverė'
   temporaliniai_duomenys: 'įvykio data: 1471 m.; įvykio data: 1479 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia faktą apie Možaiską, bet sakinys performuluotas objektiškai.'
@@ -44,7 +44,7 @@ Pirmiausia ji privertė savo valdžiai pasiduoti Lietuvos sąjungininkus Tverę 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys pataisytas į aiškų faktą apie Možaiską ir Algirdo veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_object: [[objektai/zodynas/žygūnas|žygūnas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Roma'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Deglas|Deglas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Roma'
   pagrindžia:
     - c-002
 

@@ -21,7 +21,7 @@ tags:
 - t-001
   global_id: t-42015
   teiginys: 'J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius apeiti bolševikų iš užnugario.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/J. Šarauskas|J. Šarauskas]]; mentioned_place: Eiguliai; mentioned_place: Kaimas; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/J. Šarauskas.md#claim-t-40172|J. Šarauskas]]: J. Šarauskas į Paobelių kaimą pasiuntė V. Vainauską, P. Lukšį ir 8 kareivius prieš bolševikų apėjimą.

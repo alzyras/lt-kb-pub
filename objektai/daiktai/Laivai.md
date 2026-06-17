@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-12313
   teiginys: '1382 m. pavasarį Kęstutis laivais Nemunu nuplaukė į Ordino sritį ir sustojo ties Jurbarku.'
   sudarymo_pagrindimas: 'Pradinis sakinys stilistiškai neaiškiai sieja armotas su laivais; citata palaiko glaustesnę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys stilistiškai neaiškiai sieja armotas su laivais; citata palaiko glaustesnę formą.'
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-12314
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, faktinis ir paremtas citatos tekstu.'
-  susije_objektai: 'location: Nemunas; location: Salos; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
+  susije_objektai: 'location: Nemunas; location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
   temporaliniai_duomenys: 'kelionės data: 1383 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Salos“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, faktinis ir paremtas citatos tekstu.'
@@ -78,7 +78,7 @@ Nenurodyta
   global_id: t-179482
   teiginys: 'Benjaminas iš Tudelio tvirtino, kad 1160 metais į Aleksandrijos uostą užsukdavo anglų ir Krokuvos pirklių laivai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie laivus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/Benjaminas iš Tudelio|Benjaminas iš Tudelio]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Benjaminas iš Tudelio|Benjaminas iš Tudelio]]; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-009
 
@@ -129,7 +129,7 @@ Nenurodyta
   global_id: t-179487
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu.'
-  susije_objektai: 'location: Nemunas; location: Salos; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
+  susije_objektai: 'location: Nemunas; location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
   temporaliniai_duomenys: 'kelionės data: 1383 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Salos“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu.'
@@ -141,7 +141,7 @@ Nenurodyta
   global_id: t-179488
   teiginys: 'Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

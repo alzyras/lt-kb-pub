@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-11046
   teiginys: '1414 m. Galvės ežero salos pilyje apsilankė Burgundijos riteris Ghillebert de Lannoy.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie apsilankymą pilyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Ghillebert de Lannoy|Ghillebert de Lannoy]]; mentioned_person: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_place: Lietuva; mentioned_place: Salos'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Ghillebert de Lannoy|Ghillebert de Lannoy]]; mentioned_place: Lietuva; mentioned_place: Salos'
   temporaliniai_duomenys: 'įvykio data: 1414 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata apie apsilankymą pilyje.'
@@ -70,7 +70,7 @@ Nenurodyta
   global_id: t-11047
   teiginys: 'Ivinskis Galvės ežero salos pilį vadino žymiausiu Vytauto garbės ir pasididžiavimo statiniu.'
   sudarymo_pagrindimas: 'Teiginys yra vertinamasis, todėl turi būti priskirtas autoriui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_place: Lietuva; mentioned_place: Salos'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Salos'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-05215|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Trakų Galvės ežero salos pilis tapo Vytauto Didžiojo pasididžiavimu.

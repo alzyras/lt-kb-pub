@@ -14,7 +14,6 @@ tags:
   - grupe
   - reforma
   - sukilimas
-  - tikėjimas
 amziai:
   - 'XIX'
 ---
@@ -31,7 +30,7 @@ amziai:
   global_id: t-19973
   teiginys: '„Raudonieji“ buvo prodemokratiškas bajorų jaunimas, 1862 m. Kongresinėje Lenkijoje ir Lietuvoje rengęs sukilimą.'
   sudarymo_pagrindimas: 'Perrašyta į aiškų faktinį sakinį su tariniu ir data.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1862 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų faktinį sakinį su tariniu ir data.'

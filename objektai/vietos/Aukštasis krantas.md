@@ -22,7 +22,7 @@ Aukštasis krantas yra kaimas dešiniame Ušos krante. Aukštasis krantas yra ap
   teiginys: 'Aukštasis krantas yra apie 25 km į šiaurę ar šiaurės vakarus nuo Klecko.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Aukštojo kranto padėtį Klecko atžvilgiu ir yra paremtas citata. Nieko papildomai nepridėta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Aukštasis krantas yra kaimas dešiniame Ušos krante. Aukštasis krantas yra ap
   teiginys: 'Aukštasis krantas yra kaimas dešiniame Ušos krante.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis sakinys apie Aukštąjį krantą ir tiesiogiai remiasi geografine pastaba. Papildomų interpretacijų ar atribucijos nereikia.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Nemunas; mentioned_place: Nesvyžius; mentioned_place: Polonka'
   pagrindžia:
     - c-001
 

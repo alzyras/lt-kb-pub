@@ -43,7 +43,7 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   global_id: t-65205
   teiginys: '1991 m. sausio 8 d. „Jedinstvo“ ir prosovietinės Lietuvos komunistų partijos vadovaujama „penktoji kolona“ mėgino užimti AT rūmus.'
   sudarymo_pagrindimas: 'Perrašyta išlaikant faktą ir aiškų subjektą be perteklinio konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sovietų Sąjunga|Sovietų Sąjunga]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta išlaikant faktą ir aiškų subjektą be perteklinio konteksto.'
@@ -63,7 +63,6 @@ Mažuma komunistų drauge su prosovietine organizacija „Jedinstvo“, veikusia
   global_id: t-65207
   teiginys: 'Apie 400 „raudonraiščių“ vadovavo „Nacionalinio gelbėjimo komiteto“ lyderiai ir Valerijaus Ivanovo organizacija „Jedinstvo“.'
   sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai netikslus; citata leidžia suformuluoti aiškesnį teiginį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-004
 

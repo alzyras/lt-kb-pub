@@ -41,7 +41,7 @@ Bičiūno tos misterijos pastabos ir komentarai. Bičiūno pastabos ir komentara
   global_id: t-34855
   teiginys: 'V. Bičiūnas parengė Vinco Krėvės misterijos „Likimo keliais“ pastabas ir komentarus.'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, citata patvirtina priedo autorystę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/misterija|misterija]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

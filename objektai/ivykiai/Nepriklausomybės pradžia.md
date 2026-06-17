@@ -53,7 +53,7 @@ Nenurodyta
 - t-001
   global_id: t-31461
   teiginys: '1918 metai ilgai buvo laikomi viena kertinių politiškai svarbių Lietuvos istorijos datų kaip nepriklausomybės pradžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1385-1387; įvykio data: 1387 m.; įvykio data: 1569-1572; įvykio data: 1572 m.; įvykio data: 1795 m.; įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -15,7 +15,6 @@ tags:
   - bajorija
   - karas
   - popiežius
-  - tauta
 amziai:
   - 'XV'
 periodo_grupes:
@@ -34,7 +33,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   global_id: t-176865
   teiginys: 'Vytautas, nepaisydamas lenkų pasipriešinimo, pasiuntė Zigmantą Kaributą į Prahą savo vietininku.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Praga; mentioned_place: Praha'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Praga; mentioned_place: Praha'
   temporaliniai_duomenys: 'įvykio data: 1423 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas sakinys ir tiksliai remiasi citata.'
@@ -46,7 +45,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   global_id: t-176866
   teiginys: 'Zigmantas Kaributas vadovavo kai kurioms lenkų kariuomenės dalims per karą, kuriame buvo nuniokoti Prūsai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nesako „kare prieš Prūsus“, todėl formuluotę reikia priderinti prie šaltinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Prūsai; mentioned_place: Zakračimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Prūsai; mentioned_place: Zakračimas'
   pagrindžia:
     - c-001
 
@@ -55,7 +54,7 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
   global_id: t-176867
   teiginys: 'Vytautas pasiuntė savo sūnėną Zigmantą Kaributą į Čekiją vietininku su keliolika tūkstančių kareivių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Praga; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Praga; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -63,8 +62,8 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 - t-005
   global_id: t-176869
   teiginys: 'Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Husitai|Husitai]]; counterparty: [[objektai/asmenys/Kaributas|Kaributas]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; counterparty: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; counterparty: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Kaributas|Kaributas]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Husitai|Husitai]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Čekai|Čekai]]'
+  susije_objektai: 'counterparty: [[objektai/grupes/Husitai|Husitai]]; counterparty: [[objektai/asmenys/Kaributas|Kaributas]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; counterparty: [[objektai/grupes/Čekai|Čekai]]; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Kaributas|Kaributas]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Husitai|Husitai]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/asmenys/Zigmantas Kaributas|Zigmantas Kaributas]] kariavo prieš [[objektai/grupes/Čekai|Čekai]]'
   pagrindžia:
     - c-004
 - susijęs iš Zakračimas: Prie Zakračimo prie Vislos susijungusios lietuvių, rusų, totorių ir lenkų jėgos padėjo nuniokoti Prūsus.
@@ -159,5 +158,4 @@ Tada čekai Kutnos Hožos seime (1421) ir išrinko Vytautą savo karalium, kuris
 - Zigmantas Kaributas kariavo_pries [[objektai/asmenys/Kaributas]]
 - Zigmantas Kaributas kariavo_pries [[objektai/grupes/Lietuviai]]
 - Zigmantas Kaributas kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- Zigmantas Kaributas kariavo_pries [[objektai/asmenys/Zigmantas (Romos imperatorius)]]
 - Zigmantas Kaributas kariavo_pries [[objektai/grupes/Čekai]]

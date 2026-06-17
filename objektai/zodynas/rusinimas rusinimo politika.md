@@ -24,7 +24,7 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
   global_id: t-22285
   teiginys: 'Rusinimo politika Vilniuje siekė parodyti Šiaurės Vakarų krašto centrą ne mažiau stačiatikišką negu katalikišką.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet reikia aiškiai įvardyti rusinimo politiką ir pašalinti fragmentiškumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -33,7 +33,7 @@ Rusinimo politika 1864–1904 metais Šios politikos ėmėsi sukilimo slopintoja
   global_id: t-22286
   teiginys: 'Rusinimo politikos programa siekė silpninti vietos dvarininkiją ir viešajame gyvenime įtvirtinti rusų kalbą.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas, o citata pagrindžia konkretesnį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

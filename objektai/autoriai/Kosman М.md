@@ -21,7 +21,7 @@ Dusburgietis teigia, kad kartais tvirtinama, kad žynių luomo apskritai nėra b
   global_id: t-60731
   teiginys: 'M. Kosmanas teigė, kad žynių luomo apskritai nėra buvę.'
   sudarymo_pagrindimas: 'Pašalintas klaidingas Dusburgiečio priskyrimas ir bibliografinis triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-001
 

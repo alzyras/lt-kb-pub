@@ -32,7 +32,7 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
   global_id: t-45131
   teiginys: '1808 m. Varšuvoje Mokslo bičiulių draugija išleido Ksavero Bogušo knygelę „Apie lietuvių tautos ir kalbos kilmę“.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_person: [[objektai/asmenys/Silvestras Valiūnas|Silvestras Valiūnas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Silvestras Valiūnas|Silvestras Valiūnas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1808 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
@@ -43,7 +43,7 @@ m. Varšuvoje Mokslo bičiulių drau- 3 skyrius • R U S I J O S I M P E R I J 
 - t-003
   global_id: t-45133
   teiginys: 'Mokslo bičiulių draugijos išleistoje Ksavero Bogušo knygelėje teigta, kad lietuvių kalba tinkama aukštajai kultūrai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_person: [[objektai/asmenys/Silvestras Valiūnas|Silvestras Valiūnas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Ksaveras Bogušas|Ksaveras Bogušas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Silvestras Valiūnas|Silvestras Valiūnas]]; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1808 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

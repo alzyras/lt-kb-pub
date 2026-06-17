@@ -21,7 +21,7 @@ Dusburgietis teigia, kad štai koks nuostabus, štai koks nepaprastas įvykis: m
   global_id: t-59133
   teiginys: 'Petras Dusburgietis teigė, kad moteriškos vilionės palaužė Samsoną, Dovydą ir Saliamoną, bet aprašytasis vyras jas nugalėjo.'
   sudarymo_pagrindimas: 'Teiginys yra apie autoriaus vertinimą, bet pradinė formuluotė per ilga ir turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
   pagrindžia:
     - c-001
 

@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87267
   teiginys: 'Vytauto žmonos Ona ir Julijona išpažino graikų apeigų tikėjimą ir dar prieš Lietuvos krikštą turėjo savo koplyčią Trakų pilyje.'
   sudarymo_pagrindimas: 'Reikia pataisyti gramatiką ir aiškiau suformuluoti sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

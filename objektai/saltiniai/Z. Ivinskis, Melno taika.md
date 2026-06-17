@@ -38,7 +38,7 @@ amziai:
   global_id: t-97277
   teiginys: 'Zenono Ivinskio „Melno taika“ paskelbta Lietuvių enciklopedijos 18 tome, p. 172–175.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo OCR fragmentas, o citata pagrindžia pilną bibliografinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Soldau'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Soldau'
   temporaliniai_duomenys: 'įvykio data: 1420-1422; įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo OCR fragmentas, o citata pagrindžia pilną bibliografinį sakinį.'

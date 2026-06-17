@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie brolį Hermaną, trečią magistrą Trečias magis
   global_id: t-60325
   teiginys: 'Hermanas Bartas buvo trečiasis magistras, mirė gegužės 20 dieną ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės ir boilerplate triukšmo; citata palaiko biografinį sakinį.'
-  susije_objektai: 'location: Akonas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Akonas'
+  susije_objektai: 'location: Akonas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Akonas'
   semantiniai_rysiai: '[[objektai/asmenys/Hermanas Bartas|Hermanas Bartas]] mirė Akonas'
   pagrindžia:
     - c-001

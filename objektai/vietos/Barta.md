@@ -16,7 +16,6 @@ tags:
   - ordinas
   - upė
   - valstybė
-  - vieta
 amziai:
   - 'XIII'
   - 'XX'
@@ -34,7 +33,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58337
   teiginys: 'Bartos šiaurinė dalis aprėpė Girdavų, dabartinio Železnodorožno, apylinkes.'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas; citata pagrindžia konkrečią Bartos teritorijos detalę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]'
   pagrindžia:
     - c-002
 
@@ -52,7 +50,7 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   global_id: t-58339
   teiginys: 'Petro Dusburgiečio kronikoje Barta ir Plikoji Barta priskiriamos vienai iš vienuolikos Prūsijos žemės dalių.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas ir su OCR triukšmu; citata pagrindžia aiškų faktą apie Bartos priskyrimą Prūsijos dalims.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Plikoji Barta; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_place: Kulmas; mentioned_place: Lubavas; mentioned_place: Nemunas; mentioned_place: Plikoji Barta; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 

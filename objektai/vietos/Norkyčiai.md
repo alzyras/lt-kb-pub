@@ -28,7 +28,7 @@ Dusburgietis teigia, kad bretkūnui, vieta prie Auksinės (Augstės) netoli Nork
   global_id: t-58606
   teiginys: 'XVI a. J. Bretkūnui žinotuose pasakojimuose vieta prie Auksinės netoli Norkyčių kadaise buvo laikoma vaidilos globoje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie vietą prie Auksinės netoli Norkyčių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Auksinė'
+  susije_objektai: 'mentioned_place: Auksinė'
   pagrindžia:
     - c-001
 

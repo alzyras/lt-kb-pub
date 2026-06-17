@@ -24,7 +24,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   global_id: t-60016
   teiginys: 'Gedūnas buvo senas vyras iš Kandeimu vadinamos šakos, Visigaudo iš Medenavos tėvas, gerai žinojęs Sembos karių galią.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė konteksto įžanga, palikta informacija apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baiga; mentioned_place: Medenava; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Baiga; mentioned_place: Medenava; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 
@@ -33,7 +33,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   global_id: t-60017
   teiginys: 'Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.'
   sudarymo_pagrindimas: 'Pašalinta boilerplate ir įvardžiai pakeisti aiškiu asmens vardu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
   pagrindžia:
     - c-003
 
@@ -45,8 +45,7 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66809|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.
-- susijęs iš Baiga: Po susitaikymo Čekijos karalius nuvedė kariuomenę iki Baigos pilies, kur broliai surado seną vyrą Gedūną.
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -127,9 +126,3 @@ Dusburgietis teigia, kad susitaikius Čekijos karalius nuvedė savo kariuomenę 
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Gedūnas buvo_valdovas [[objektai/vietos/Baiga]]
-- Gedūnas buvo_valdovas [[objektai/vietos/Semba]]
-- Gedūnas buvo_valdovas [[objektai/vietos/Viena]]
-- Gedūnas buvo_valdovas [[objektai/vietos/Čekija]]

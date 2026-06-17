@@ -28,7 +28,7 @@ amziai:
   global_id: t-77837
   teiginys: '1972 m. gegužės 14 d. Romas Kalanta Kaune, sušukęs „Laisvę Lietuvai!“, apsipylė benzinu ir pasidegė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Romas Kalanta|Romas Kalanta]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romas Kalanta|Romas Kalanta]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
@@ -40,10 +40,9 @@ amziai:
   global_id: t-77838
   teiginys: 'Romo Kalantos susideginimo auka sulaukė didžiulio atgarsio ir kėlė Lietuvos nelaisvės klausimą.'
   sudarymo_pagrindimas: 'Patikslinta, kad kalbama apie susideginimo auką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13497|Laisvę Lietuvai!]]: 1972 m. gegužės 14 d. Romas Kalanta prieš pasidegdamas sušuko „Laisvę Lietuvai!“.
 - susijęs iš [[objektai/posakiai/Laisvę Lietuvai!.md#claim-t-13498|Laisvę Lietuvai!]]: Šūksnis „Laisvę Lietuvai!“ siejamas su Romo Kalantos pasidegimu Kauno miesto sode 1972 m. gegužės 14 d.
 ## Reikšmingi paminėjimai
 

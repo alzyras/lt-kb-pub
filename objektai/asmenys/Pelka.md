@@ -28,7 +28,7 @@ periodo_grupes: []
   global_id: t-87821
   teiginys: 'Gniezno arkivyskupas Pelka 1253 m. įšventino Petrą ir pirmąjį Lietuvos vyskupą Vitą vyskupais.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Pelkos atliktą įšventinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1253 m.; įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo Pelkos atliktą įšventinimą.'

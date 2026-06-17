@@ -30,9 +30,9 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   global_id: t-87865
   teiginys: 'Stanislovas Šumskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   sudarymo_pagrindimas: 'Citata remia narystę komitete, o pradinis tekstas nutrūkęs.'
-  susije_objektai: 'owner: [[objektai/asmenys/Mykolas|Mykolas]]; owner: Rusija; owner: [[objektai/asmenys/Stanislovas|Stanislovas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Mykolas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Stanislovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Rusija priklausė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia narystę komitete, o pradinis tekstas nutrūkęs.'
   pagrindžia:
     - c-001

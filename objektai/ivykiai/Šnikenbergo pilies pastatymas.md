@@ -39,7 +39,7 @@ Nenurodyta
   teiginys: 'Broliai ant kalvos prieš tiltą į Baigos pilies lauką pastatė Šnikenbergo pilį ir įkurdino joje brolius, Hertvigą bei kitus karingus vyrus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie pilies pastatymą bei įgulą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Hertvigas|Hertvigas]]; mentioned_place: Baiga; mentioned_place: Viena; mentioned_place: Šnikenbergas'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Viena; mentioned_place: Šnikenbergas'
   pagrindžia:
     - c-001
 

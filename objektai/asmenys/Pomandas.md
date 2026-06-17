@@ -10,7 +10,6 @@ tags:
   - karas
   - kunigaikštis
   - pilis
-  - tikėjimas
 ---
 # Pomandas
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   global_id: t-60193
   teiginys: 'Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinį pasakojimo įvadą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

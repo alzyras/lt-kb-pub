@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: '1243 m. brolis Ditrichas su nedidele kariuomene smogė Sartovicų pilį apgulusioms pajėgoms ir nukovė devynis šimtus vyrų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia apgulos ir mūšio rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_place: Kulmas; mentioned_place: Prūsija; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata remia apgulos ir mūšio rezultatą.'

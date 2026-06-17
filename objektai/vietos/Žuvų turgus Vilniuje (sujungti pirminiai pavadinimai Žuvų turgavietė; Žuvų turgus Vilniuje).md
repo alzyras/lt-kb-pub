@@ -32,7 +32,7 @@ amziai:
   global_id: t-86290
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai bibliotekai užrašė lėšas iš namų ir sklypų, tarp jų Liaudanskų mūrinio namo Žuvų turgavietės gale.'
   sudarymo_pagrindimas: 'Reikia tiksliau perteikti, kad užrašytos lėšos buvo iš namų ir sklypų, ne vien iš vieno namo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas'
   temporaliniai_duomenys: 'įvykio data: 1746 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau perteikti, kad užrašytos lėšos buvo iš namų ir sklypų, ne vien iš vieno namo.'
@@ -44,7 +44,7 @@ amziai:
   global_id: t-86291
   teiginys: 'Netoli Žuvų turgaus Vilniuje pastoriai Čechavičius ir Vendrichovskis septynerius metus viešai vykdė reformuoto tikėjimo apeigas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vendrichovskis|Vendrichovskis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Cvinglis|Cvinglis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vendrichovskis|Vendrichovskis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

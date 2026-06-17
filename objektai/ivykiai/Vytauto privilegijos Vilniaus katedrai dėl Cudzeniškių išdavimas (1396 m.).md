@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-86969
   teiginys: '1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR ir bibliografinio triukšmo; citata remia privilegijos datą, vietą ir dovanojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Ašmena; mentioned_place: Cudzeniškiai; mentioned_place: Dinaburgas; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Ašmena; mentioned_place: Cudzeniškiai; mentioned_place: Dinaburgas; mentioned_place: Medininkai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1396 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir bibliografinio triukšmo; citata remia privilegijos datą, vietą ir dovanojimą.'

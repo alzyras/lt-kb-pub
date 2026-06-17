@@ -10,7 +10,6 @@ tags:
   - ginklas
   - mūšis
   - upė
-  - vieta
 ---
 # Kriukai
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   global_id: t-58576
   teiginys: 'Kriukuose Ordino broliai atsitraukė į kaimą, kai po žygio Notangoje rado priešų užstotus kelius.'
   sudarymo_pagrindimas: 'Citata palaiko įvykį Kriukuose; pašalintas perteklinis pasakojimas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Notanga; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Baiga; mentioned_place: Elbingas; mentioned_place: Kaimas; mentioned_place: Notanga; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad dėl to magistras pasiuntė daug brolių ir ginklaneši
   global_id: t-58577
   teiginys: 'Kriukai buvo kaimas per 6 kilometrus į pietus nuo Kroicburgo, netoli ežerėlio tarp Kaustros ir Pasmaros upių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Kriukų vietą ir remiasi paaiškinimo citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Kaustra; mentioned_place: Kroicburgas'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kaustra; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-001
 - susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.

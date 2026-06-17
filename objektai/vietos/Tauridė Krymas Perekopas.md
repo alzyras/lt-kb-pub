@@ -22,7 +22,7 @@ Po Vytauto pergalės Tauridės, tai yra Krymo arba Perekopo, skitai suartėjo su
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir paliktas aiškus citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Krymas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Krymas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

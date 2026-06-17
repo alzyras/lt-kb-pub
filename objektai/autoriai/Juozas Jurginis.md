@@ -31,7 +31,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   global_id: t-186443
   teiginys: 'Juozas Jurginis parašė šio „Lietuvos istorijos“ leidimo įvadą ir paaiškinimus.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/autoriai/Leonas Valkūnas|Leonas Valkūnas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_author: [[objektai/autoriai/Leonas Valkūnas|Leonas Valkūnas]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Juozas Jurginis šiame leidime nurodomas kaip įvado ir paaiškinimų autorius. 
   teiginys: 'Juozas Jurginis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_author: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas redakcinės komisijos sąrašu.'

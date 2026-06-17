@@ -39,7 +39,7 @@ Nenurodyta
 - t-001
   global_id: t-08296
   teiginys: '`Kilimas` šiame tekste reiškė moterų išeiginę vilnonę skarą ar apsiaustą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/Kilimas|Kilimas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-001
 

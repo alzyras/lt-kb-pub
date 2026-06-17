@@ -28,7 +28,7 @@ amziai:
   global_id: t-32021
   teiginys: '„Zemleustrojstvo i zemeVnyj kadastr v Belorusi i Litve v XVI-XVII vv.“ išleistas 1952 m. kaip „Materijaly po istorii zemledelija v SSSR“ I tomas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą leidimo seriją, tomą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytą leidimo seriją, tomą ir metus.'

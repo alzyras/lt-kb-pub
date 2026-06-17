@@ -31,7 +31,7 @@ Andriolli taip nutapė 1863 m. sukilimą – jis pats išneša žuvusį kovų dr
   global_id: t-26453
   teiginys: 'M. E. Andriolli nutapė 1863 m. sukilimo sceną, kurioje jis iš mūšio lauko prie Dubičių išneša žuvusį kovų draugą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai sieja Andriollį su pavaizduota sukilimo scena.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_object: [[objektai/zodynas/tautinis atgimimas|tautinis atgimimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir citata tiesiogiai sieja Andriollį su pavaizduota sukilimo scena.'

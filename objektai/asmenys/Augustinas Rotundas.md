@@ -29,7 +29,7 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   global_id: t-60086
   teiginys: 'Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį apie Rotundui perduotą kroniką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Chodkevičius|Jonas Chodkevičius]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Jonas Chodkevičius|Jonas Chodkevičius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį apie Rotundui perduotą kroniką.'
@@ -41,7 +41,6 @@ Dusburgietis teigia, kad iI-ojoje pusėje rado etmonas Jonas Chodkevičius, kuri
   global_id: t-60087
   teiginys: 'Augustinas Rotundas, gavęs Dusburgiečio rankraštį, perdavė jį Motiejui Strijkovskiui.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citatos tiesiogiai paremta faktinė informacija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Augustinas Rotundas Milesijus.md#claim-t-87906|Augustinas Rotundas Milesijus]]: Augustinas Rotundas Milesijus buvo bajoras ir abiejų teisių daktaras, 1542 m. išrinktas iš magistrato narių.

@@ -75,7 +75,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169147
   teiginys: 'Tyrinėtojai siejo Dusburgietį iš pradžių su Ragaine, po to su Karaliaučiumi.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Marienburgas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1309 m.; įvykio data: 1327 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
@@ -87,7 +87,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169148
   teiginys: 'Ordino administraciniai centrai buvo Kulmas, Elbingas, Karaliaučius, Ragainė, o nuo 1309 m. ir Marienburgas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, kuriame Ragainė nurodoma tarp Ordino administracinių centrų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lietuva; mentioned_place: Marienburgas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Marienburgas'
   temporaliniai_duomenys: 'įvykio data: po 1309 m.; įvykio data: 1309 m.; įvykio data: po 1312 m.; įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, kuriame Ragainė nurodoma tarp Ordino administracinių centrų.'
@@ -99,7 +99,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169149
   teiginys: 'Ordino pilis iš pradžių vadinta Landishute / Landeshute, o vėliau įsigalėjo baltiškasis Ragainės vardas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos paaiškinimu apie Ragainės vardo raidą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Livonija; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Torunė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Livonija; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Torunė; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: iki 1378 m.; įvykio data: iki 1394 m.; įvykio data: 1291 m.; įvykio data: 1300 m.; įvykio data: 1302 m.; įvykio data: 1378 m.; įvykio data: 1394 m.; įvykio data: 1549 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos paaiškinimu apie Ragainės vardo raidą.'
@@ -111,7 +111,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169150
   teiginys: 'Skalviai prie Ragainės ant kalno turėjo pilį, kurią siaubė didelė rutėnų kariuomenė.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Ragainę, bet pradinėje formuluotėje yra antraštės ir išnašos triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Livonija; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Torunė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Livonija; mentioned_place: Pelplinas; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Torunė; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: iki 1378 m.; įvykio data: iki 1394 m.; įvykio data: 1291 m.; įvykio data: 1300 m.; įvykio data: 1302 m.; įvykio data: 1378 m.; įvykio data: 1394 m.; įvykio data: 1549 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie Ragainę, bet pradinėje formuluotėje yra antraštės ir išnašos triukšmo.'
@@ -123,7 +123,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169152
   teiginys: 'Sembų fogtas brolis Ditrichas su broliais ir tūkstančiu vyrų užpuolė skalvių pilį toje vietoje, kur vėliau buvo Ragainės pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Nemunas'
   pagrindžia:
     - c-017
 
@@ -157,9 +157,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169155
   teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: [[objektai/autoriai/Dusburgas|Dusburgas]]; object: [[objektai/asmenys/Fridrichas|Fridrichas]]; object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'object: [[objektai/asmenys/Fridrichas|Fridrichas]]; object: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'mūšio data: 1317 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas de Libencelė puolė Fridrichas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Gediminas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Dusburgas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas de Libencelė puolė Fridrichas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Gediminas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-012
@@ -169,7 +169,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169156
   teiginys: 'Brolis Bertoldas, vadinamas Briuhavenu, neilgai vadovavo Ragainės piliai ir netrukus buvo paskirtas Karaliaučiaus komtūru.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Bertoldo vaidmenį Ragainėje ir vėlesnį paskyrimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]'
   pagrindžia:
     - c-018
 
@@ -178,7 +178,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169157
   teiginys: '1361 m. žiemą kryžiuočiai iš Ragainės du kartus žygiavo prieš lietuvius, žudė, degino ir plėšė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žygius iš Ragainės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Gardinas; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Gardinas; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1361 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie žygius iš Ragainės.'
@@ -241,7 +241,7 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169163
   teiginys: 'Ragainės komtūras Markvardas Salzbachas su 1600 raitelių prisidėjo prie Vytauto kariuomenės Kijeve.'
   sudarymo_pagrindimas: 'Citata pagrindžia Ragainės komtūro dalyvavimą, bet sakinį reikia sutvarkyti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_object: [[objektai/zodynas/Gaspadorius|Gaspadorius]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-007
 
@@ -309,7 +309,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
     - c-020
 - susijęs iš [[objektai/asmenys/Fridrichas de Libencelė.md#claim-t-87674|Fridrichas de Libencelė]]: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
 - susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89388|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.
-- susijęs iš Dusburgo kronika: Dusburgo kronika prie 1317 m. mini, kad Ragainės komtūras Fridrichas de Libencelė apgulė Gedimino pilį, bet jos neužėmė.
 - susijęs iš Karaliaučius: 1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.

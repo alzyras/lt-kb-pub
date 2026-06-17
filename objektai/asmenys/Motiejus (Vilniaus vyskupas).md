@@ -33,7 +33,7 @@ tags:
   global_id: t-87447
   teiginys: 'Vilniaus vyskupas Motiejus raštu suteikė kapitulai ir jos valdiniams jurisdikciją su teise taikyti bažnytines cenzūras.'
   sudarymo_pagrindimas: 'Claimas buvo kontekstinis fragmentas; citata palaiko konkretų Motiejaus suteiktos jurisdikcijos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ tags:
   global_id: t-87448
   teiginys: 'Vilniaus vyskupas Motiejus buvo nurodytas tarp kunigaikščių ir prelatų sutartyje, kurią leista laiduoti Vilniui.'
   sudarymo_pagrindimas: 'Citata pagrindžia Motiejaus paminėjimą sutartyje, o pradinis teiginys turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Horodlė; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
   pagrindžia:
     - c-001
 

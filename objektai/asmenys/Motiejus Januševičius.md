@@ -22,7 +22,6 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   global_id: t-87795
   teiginys: 'Motiejus Januševičius su broliu Kasparu buvo tarp parapijoje gyvenusių bajorų, privalėjusių mokėti dešimtinę.'
   sudarymo_pagrindimas: 'Claimas buvo ilgas sąrašo fragmentas; citata palaiko Motiejaus Januševičiaus prievolę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
   pagrindžia:
     - c-001
 

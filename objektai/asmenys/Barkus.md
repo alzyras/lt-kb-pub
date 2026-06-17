@@ -26,7 +26,6 @@ Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitij
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Atminimo statula.md#claim-t-185847|Atminimo statula]]: Po Barkaus sudeginimo jo pelenų vietoje pastatyta atminimo statula iki Jogailos laikų buvo laikoma šventenybe.
-- susijęs iš Nemunas: Barkus Jūros žiotyse, kur ji įteka į Nemuną, pasistatė Jurbarko pilį ir gavo valdyti dalį Žemaitijos.
 ## Reikšmingi paminėjimai
 
 - c-001

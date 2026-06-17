@@ -50,7 +50,6 @@ Nenurodyta
 - t-002
   global_id: t-66607
   teiginys: 'Hermano Vartbergės kronika mūšį sieja su 52 ordino broliais ir 600 krikščionių prie Karuzo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-001
 

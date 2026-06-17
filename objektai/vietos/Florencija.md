@@ -32,7 +32,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   global_id: t-83346
   teiginys: '1434 m. spalio 20 d. popiežius Eugenijus IV iš Florencijos parašė Žygimantui Kęstutaičiui laišką dėl Sofijos.'
   sudarymo_pagrindimas: 'Teiginys performuluotas į aiškų sakinį apie iš Florencijos rašytą laišką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Konstantinopolis'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: 1452 m.; įvykio data: 1453 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys performuluotas į aiškų sakinį apie iš Florencijos rašytą laišką.'
@@ -44,7 +44,7 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   global_id: t-83347
   teiginys: 'Popiežius Eugenijus IV 1434 m. spalio 20 d. iš Florencijos rašytame laiške užtarė Sofiją Žygimantui Kęstutaičiui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Konstantinopolis'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_place: Konstantinopolis'
   temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: 1452 m.; įvykio data: 1453 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
@@ -141,3 +141,4 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
 
 ## Ryšiai
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Florencija
+- [[objektai/asmenys/Eugenijus IV]] buvo_valdovas Florencija

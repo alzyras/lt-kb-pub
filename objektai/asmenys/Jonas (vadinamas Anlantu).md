@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Albrechto, Romos karaliaus, nužudymą 1308 viešp
   global_id: t-60344
   teiginys: '1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Austrija; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Austrija'
+  susije_objektai: 'territory: Austrija; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Austrija'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas (vadinamas Anlantu)|Jonas (vadinamas Anlantu)]] buvo valdovas Austrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1308 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas (vadinamas Anlantu) buvo valdovas Austrija“, o ne visam objekto laikotarpiui.'

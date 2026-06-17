@@ -30,7 +30,7 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
 - t-001
   global_id: t-171614
   teiginys: 'Maksimaitienė pateikė duomenų apie sukilėlių kovinius veiksmus 1863 m. Augustavo gubernijoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Augustavas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Užnemunė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,7 +41,7 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   global_id: t-171616
   teiginys: '1863 m. Augustavo gubernijoje, į kurią įėjo lietuviškoji Užnemunė, įvyko 62 sukilėlių mūšiai su caro kariuomene.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, faktinis ir atitinka citatoje pateiktus duomenis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Augustavas; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Narva; mentioned_place: Užnemunė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Augustavas; mentioned_place: Kaimas; mentioned_place: Kaunas; mentioned_place: Narva; mentioned_place: Užnemunė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, faktinis ir atitinka citatoje pateiktus duomenis.'
@@ -59,7 +59,7 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   susije_objektai: 'owner: Augustavas; owner: Lietuva; owner: Lietuvos Užnemunė; owner: Suvalkai; owner: Suvalkų gubernija; owner: Užnemunė; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Augustavas; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Užnemunė'
   semantiniai_rysiai: 'Augustavo gubernija priklausė Augustavas; Augustavo gubernija priklausė Lietuva; Augustavo gubernija priklausė Lietuvos Užnemunė; Augustavo gubernija priklausė Suvalkai; Augustavo gubernija priklausė Suvalkų gubernija; Augustavo gubernija priklausė Užnemunė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustavo gubernija priklausė Augustavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Suvalkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Užnemunė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustavo gubernija priklausė Suvalkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Augustavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Augustavo gubernijos pavadinimą ir Užnemunės priklausomybę.'
   pagrindžia:
     - c-003

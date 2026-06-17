@@ -39,7 +39,7 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
 - t-001
   global_id: t-54792
   teiginys: 'Teutonų teisė Lenkijos miestų kontekste siejama su atleidimu nuo duoklių, krašto teisės prievolių, sava teisėtvarka ir atskiru miesto valdymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,6 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   global_id: t-54793
   teiginys: 'Municipaliniai liudijimai buvo miestų ir jų feodalinių valdovų taikos sutartys, kuriose miestai dažnai diktuodavo sąlygas.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį faktą apie municipalinius liudijimus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]'
   pagrindžia:
     - c-002
 
@@ -57,15 +56,13 @@ Vartojama Europos, Kastilijos, Krokuvos ir kitų Lenkijos miestų teisinės raid
   global_id: t-54794
   teiginys: 'Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik šimtmečiu aplenkė Prancūzijos miestų teisėtvarką.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Kastiliją ir Prancūziją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Ispanija; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Ispanija; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: po 1020 m.; įvykio data: 1020 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir paremtas citata apie Kastiliją ir Prancūziją.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Otonas Didysis.md#claim-t-87814|Otonas Didysis]]: Otono Didžiojo laikais Italijos miestai nusikratė teutonų pareigūnų ir valdžios priekyje pastatė konsulus.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai.md#claim-t-86563|Municipalinė teisėtvarka municipaliniai nuostatai]]: Kastilijoje municipaliniai nuostatai buvo žinomi jau nuo 1020 m. ir beveik vienu amžiumi aplenkė Prancūzijos miestų teisėtvarką.
-- susijęs iš [[objektai/zodynas/Municipalinė teisėtvarka municipaliniai nuostatai.md#claim-t-86564|Municipalinė teisėtvarka municipaliniai nuostatai]]: Municipaliniai liudijimai dažniausiai buvo taikos sutartys, kuriose miestai diktuodavo sąlygas nugalėtiems baronams.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -23,7 +23,7 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   global_id: t-69251
   teiginys: 'Protestantizmas padėjo Skandinavijai pritapti prie dinamiškosios šiaurinės Vakarų Europos dalies.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata remia glaustą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje.md#claim-t-87305|Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]: Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.
@@ -88,4 +88,4 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Germantas]] buvo_valdovas Skandinavija
+- [[objektai/asmenys/Šventaragis]] buvo_valdovas Skandinavija

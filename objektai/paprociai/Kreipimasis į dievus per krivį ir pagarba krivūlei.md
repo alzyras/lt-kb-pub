@@ -43,7 +43,7 @@ Nenurodyta
   teiginys: 'Krivio pasiuntinys, keliaudamas su krivūle ar kitu žinomu ženklu, sulaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir aiškiai įvardytas krivio pasiuntinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Krivūlė|Krivūlė]]; mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

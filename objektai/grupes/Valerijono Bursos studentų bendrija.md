@@ -35,7 +35,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - t-001
   global_id: t-55069
   teiginys: 'Bursa buvo skirta sunkios padėties studentams, turintiems tikslą pabaigti studijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - t-002
   global_id: t-55070
   teiginys: 'Valerijono Bursos studentų bendrijoje galėjo gyventi studentai nepriklausomai nuo tautybės.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Valerijono bursos; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Valerijono bursos; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - t-003
   global_id: t-55071
   teiginys: 'Studentų bendrijoje turėjo būti prefektas arba senjoras, prižiūrintis pamaldumo, garbingumo ir broliškos santarvės laikymąsi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -60,7 +60,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   global_id: t-55072
   teiginys: 'Dokumento autoriai studentų bendriją ir minėtą namą norėjo pavadinti Valerijono Bursa.'
   sudarymo_pagrindimas: 'Citata remia pavadinimo intenciją, bet pradinė formuluotė yra nevikri.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Valerijono Bursa'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono Bursa'
   pagrindžia:
     - c-003
 
@@ -68,7 +68,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
 - t-005
   global_id: t-55073
   teiginys: 'Namų ir rūsio nuomos pajamos turėjo būti skiriamos Bursos studentų būtinoms reikmėms.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Valerijono Bursa'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono Bursa'
   pagrindžia:
     - c-003
 
@@ -77,7 +77,7 @@ Studentų gyvenimo ir paramos bendrija prie Valerijono Bursos.
   global_id: t-81661
   teiginys: 'Valerijono Bursa buvo skirta laisvam studentų gyvenimui, nepriklausomai nuo jų tautybės.'
   sudarymo_pagrindimas: 'Pradinė mintis paremta citata, bet ją galima suformuluoti glaudžiau ir gramatiškiau.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Valerijono Bursa'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_place: Valerijono Bursa'
   pagrindžia:
     - c-004
 

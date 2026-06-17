@@ -22,7 +22,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   global_id: t-89590
   teiginys: 'Krikščionys pavijo ir išžudė neginkluotą kariuomenę, o sūduviai ir kitos kaimyninės gentys įsibrovė į Galindą.'
   sudarymo_pagrindimas: 'Citata remia glaustesnį, gramatinį konteksto teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Galinda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Dusburgietis teigia, kad ši, užjausdama savąją lytį, sušaukė pas save vis
   global_id: t-89591
   teiginys: 'Pabėgę belaisviai krikščionims pranešė, kad netikėlių kariuomenė neturėjo ginklų ir kitų gynimosi priemonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia aiškią faktinę mintį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Galinda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Galinda'
   pagrindžia:
     - c-001
 

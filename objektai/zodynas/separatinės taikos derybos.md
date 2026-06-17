@@ -31,7 +31,7 @@ amziai:
   global_id: t-75587
   teiginys: '1917 m. pabaigoje Vokietija, rengdamasi separatinėms taikos deryboms su Sovietų Rusija, spaudė Lietuvos Tarybą deklaruoti Lietuvos valstybę ir prisijungimą prie Vokietijos.'
   sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir tiesiogiai paremtas citata.'

@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-01117
   teiginys: 'Milkės žodynui prakalbą 1800 m. parašė Karaliaučiaus filosofas Kantas.'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandesnę formą, išlaikant citatoje pagrįstą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1800 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į sklandesnę formą, išlaikant citatoje pagrįstą faktą.'

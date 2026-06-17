@@ -33,7 +33,7 @@ Dusburgietis teigia, kad liaudies tradicija mena, kad ant Kaukų kalnelio apiera
   global_id: t-58994
   teiginys: 'Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   sudarymo_pagrindimas: 'Citata pagrindžia žynio autoritetą ir jo pasiuntinio statusą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Krivūlė|Krivūlė]]; mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 

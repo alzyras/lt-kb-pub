@@ -31,9 +31,9 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   global_id: t-87542
   teiginys: 'Leonas Rogalskis priklausė 1830 m. rudenį Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   sudarymo_pagrindimas: 'Citata pagrindžia narystę komitete; pradinis teiginys buvo nutrūkęs.'
-  susije_objektai: 'owner: [[objektai/asmenys/Leonas|Leonas]]; owner: [[objektai/asmenys/Mykolas|Mykolas]]; owner: Rusija; owner: [[objektai/asmenys/Stanislovas|Stanislovas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Leonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Mykolas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Stanislovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Rusija priklausė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia narystę komitete; pradinis teiginys buvo nutrūkęs.'
   pagrindžia:
     - c-002
@@ -43,7 +43,7 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   global_id: t-87543
   teiginys: 'Leonas Rogalskis, iš Žemaitijos kilęs istoriko draugas, Varšuvoje padarė valstybinę karjerą ir skatino tęsti pradėtą darbą.'
   sudarymo_pagrindimas: 'Pradinis sakinys per daug gremėzdiškas; citata leidžia suformuluoti aiškesnį faktinį teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_place: Varšuva; mentioned_place: Ščorsai'
+  susije_objektai: 'mentioned_place: Varšuva; mentioned_place: Ščorsai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.

@@ -33,10 +33,7 @@ Apie farmacijos būklę Lietuvoje trumpą žinutę išspausdino profeso­ rius V
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Volfgangą ir atitinka citatą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Volfgangas Auksakalys.md#claim-t-87887|Volfgangas Auksakalys]]: Volfgangas Auksakalys garsėjo Vilniuje 1522 m., Žygimanto Senojo laikais.
-- susijęs iš [[objektai/asmenys/Štagelis.md#claim-t-87935|Štagelis]]: Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184501|Kryžiuočių ordinas]]: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama nusiaubė Lietuvą, sunaikindamas Ariogalos, Pernaravos ir Labūnavos žemes.
-- susijęs iš [[objektai/grupes/Vokiečių amatininkai Vilniuje.md#claim-t-86833|Vokiečių amatininkai Vilniuje]]: Žygimanto Senojo laikais Vilniuje buvo daug turtingų auksakalių, kurie buvo vokiečiai arba vokiečių kilmės.
 - susijęs iš [[objektai/ivykiai/Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.).md#claim-t-185764|Prūsų žygis į Lietuvą ir nesėkminga Gardino apgultis (1363 m.)]]: Priešams grįžus į Prūsiją, visą Lietuvą užgulė badas, siejamas su prastu oru ir nuolatiniais priešų antpuoliais.
 - susijęs iš Lietuvos Metrikos raštai dėl sklypo Vilniaus vaistinei: Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.
 - susijęs iš Volfgango „Uwagi Historyczne“ leidinyje „Dziennik Wileński“: Profesorius Volfgangas 1816 m. „Dziennik Wileński“ IV tome išspausdino trumpą žinutę apie farmacijos būklę Lietuvoje.

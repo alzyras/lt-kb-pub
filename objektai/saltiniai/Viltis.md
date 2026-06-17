@@ -22,7 +22,7 @@ Smetonos, redaguojamoji „Viltis".
   global_id: t-45773
   teiginys: 'Apie Antano Smetonos redaguotą „Vilties“ žurnalą susitelkusi būsimų tautininkų grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų subjektą, todėl jis išskleistas pagal citatą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Krikščionys|Krikščionys]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

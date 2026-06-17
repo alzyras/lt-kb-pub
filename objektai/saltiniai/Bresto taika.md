@@ -27,7 +27,7 @@ amziai:
   global_id: t-21028
   teiginys: '1918 m. lapkričio 13 d. Bresto taikos sąlygos su Vokietija buvo anuliuotos.'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustesnį faktą apie Bresto taikos sąlygų anuliavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ukraina; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Ukraina; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia glaustesnį faktą apie Bresto taikos sąlygų anuliavimą.'

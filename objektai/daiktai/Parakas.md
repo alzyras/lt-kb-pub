@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-54733
   teiginys: 'Kryžiuočių kariaunoje, po penkių sunkių apsupties savaičių ir plintant ligoms, visiškai baigėsi parakas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Prūsija; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Prūsija; mentioned_place: Vilija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40079|D. Kuruta]]: Generolas leitenantas grafas D. Kuruta laikinai perdavė vadovavimą generolui leitenantui baronui D. Osten-Sakenui.

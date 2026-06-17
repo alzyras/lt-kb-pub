@@ -22,7 +22,7 @@ Dusburgietis teigia, kad magistras tol nekėlė kojos į miestą, kol jo sienoje
   global_id: t-82104
   teiginys: 'Fundacijos privilegija buvo parašyta lotynų kalba ant pergamento, didesnio nei uolektis ilgio ir pločio.'
   sudarymo_pagrindimas: 'Palikta tik aiškiai citatos palaikoma informacija apie uolektį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Nabuchodonosaras.md#claim-t-60391|Nabuchodonosaras]]: Nabuchodonosaras, pamatęs, kad liepsna nepakenkė Danieliui ir jo bičiuliams, pripažino Aukščiausiojo Dievo ženklus ir stebuklus.

@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-08298
   teiginys: 'Klėtis buvo pakelta ant trinkų ar akmenų, grįsta ir lubota lentomis dėl sausumo.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -27,7 +27,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   teiginys: 'Aleksandras Bychovcas buvo Gardino gubernijos Volkovysko apskrities teisėjas, pagal kurį XIX a. praminta Bychovco kronika.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir aiškiau susietas su asmeniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Gardinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas'
   pagrindžia:
     - c-002
 
@@ -37,7 +37,7 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   teiginys: 'Aleksandrui Bychovcui priklausiusioje Mogiliovcų dvaro bibliotekoje prieš 1830 m. buvo aptiktas Bychovco kronikos rankraštis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_place: Lietuva; mentioned_place: Mogiliovcai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bychovco kronikos rankraštis|Bychovco kronikos rankraštis]]; mentioned_person: [[objektai/asmenys/Ipolitas Klimaševskis|Ipolitas Klimaševskis]]; mentioned_place: Lietuva; mentioned_place: Mogiliovcai'
   temporaliniai_duomenys: 'įvykio data: po 1446 m.; įvykio data: 1446 m.; įvykio data: 1506 m.; įvykio data: 1830 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatinis ir paremtas citata.'
@@ -50,7 +50,6 @@ Pagal Aleksandrą Bychovcą XIX a. prigijo Bychovco kronikos pavadinimas. Jam pr
   teiginys: 'Teodoro Narbuto prašomas Aleksandras Bychovcas perdavė rankraštį Vincentui Janovskiui, kad šis persiųstų jį Narbutui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Bychovco kronikos rankraštis.md#claim-t-186811|Bychovco kronikos rankraštis]]: Aleksandras Bychovcas perdavė Bychovco kronikos rankraštį Vincentui Janovskiui, kuris 1834.II.4 persiuntė jį Teodorui Narbutui į Saurus.

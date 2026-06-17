@@ -20,7 +20,7 @@ Tik didieji mūsų kalbininkai Jaunius su Būga visas tas gimines vadino aisčia
 - t-001
   global_id: t-64676
   teiginys: 'K. Jaunius su K. Būga kelias gimines vadino aisčiais, remdamasis viduramžių raštais ir vietovardžiais.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Baltija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Baltija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

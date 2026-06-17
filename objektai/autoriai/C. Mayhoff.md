@@ -29,7 +29,7 @@ Dusburgietis teigia, kad mayhoff.
   global_id: t-60681
   teiginys: 'C. Mayhoffas redagavo Plinijaus „Naturalis historiae“ V tomą, apimantį XXXI–XXXVII knygas.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Mayhoffą kaip leidinio redaktorių.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Plinius C. Secundus|Plinius C. Secundus]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Plinius C. Secundus|Plinius C. Secundus]]'
   pagrindžia:
     - c-001
 

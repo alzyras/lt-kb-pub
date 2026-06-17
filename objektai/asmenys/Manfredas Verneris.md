@@ -30,7 +30,7 @@ Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui (Manfred 
   global_id: t-17579
   teiginys: '1994 m. sausį Manfredas Verneris gavo A. Brazausko laišką dėl Lietuvos pageidavimo tapti NATO nare.'
   sudarymo_pagrindimas: 'Pirminis teiginys labiau apie A. Brazauską, todėl perrašyta sutelkiant faktą į Manfredą Vernerį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys labiau apie A. Brazauską, todėl perrašyta sutelkiant faktą į Manfredą Vernerį.'

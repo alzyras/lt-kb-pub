@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-08351
   teiginys: 'Vyženos buvo toks svarbus daiktas, kad vaikai turėjo mokėti jas vyžti.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]'
   pagrindžia:
     - c-002
 

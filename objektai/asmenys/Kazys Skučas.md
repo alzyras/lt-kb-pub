@@ -21,7 +21,7 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
   global_id: t-17560
   teiginys: 'Sovietų pusė reikalavo atleisti vidaus reikalų ministrą generolą Kazį Skučą kaip tariamą „provokacijų“ kaltininką.'
   sudarymo_pagrindimas: 'Pradinis fragmentas nėra sakinys, o citata pagrindžia konkretų faktą apie Skučą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Merkys'
+  susije_objektai: 'mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Merkys'
   pagrindžia:
     - c-001
 

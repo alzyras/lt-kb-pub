@@ -30,9 +30,9 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   global_id: t-19285
   teiginys: 'Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'owner: [[objektai/asmenys/Karolis|Karolis]]; owner: Maskva; owner: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; owner: SSRS; owner: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'owner: Maskva; owner: SSRS; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jurijus susiję su Karolis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Tomas (Hertvigo iš Pokarvių sūnus)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Maskvos Helsinkio grupė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurijus susiję su SSRS“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Maskvos Helsinkio grupė priklausė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Maskvos Helsinkio grupė priklausė SSRS“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
@@ -42,21 +42,21 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
   global_id: t-19286
   teiginys: '1960 m. Tomas Venclova su Aleksandru Štromu ir Pranu Morkumi užmezgė ryšius su Maskvos disidentais ir teikė jiems informaciją iš Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Disidentinio judėjimo pradžia Lietuvoje (1960 m.)|Disidentinio judėjimo pradžia Lietuvoje (1960 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Pranas Morkus|Pranas Morkus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1948 m.; įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys nutrūkęs, bet citata leidžia suformuluoti aiškų faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
 - susijęs iš [[objektai/asmenys/Aleksandras Štromas.md#claim-t-18780|Aleksandras Štromas]]: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais ir padėjo leisti žurnalą „Sintaksis“.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75688|Andrejus Sacharovas]]: Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą, informavusios kitas valstybes apie žmogaus teisių pažeidimus.
+- susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Jurijus Orlovas.md#claim-t-19034|Jurijus Orlovas]]: Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.
 - susijęs iš [[objektai/asmenys/Karolis Garuckas.md#claim-t-19048|Karolis Garuckas (kunigas)]]: 1976 m. Vilniuje įkurtai Helsinkio grupei priklausęs kunigas Karolis Garuckas palaikė ryšius su SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Ona Lukauskaitė-Poškienė.md#claim-t-19182|Ona Lukauskaitė-Poškienė]]: Ona Lukauskaitė-Poškienė buvo poetė, buvusi kalinė ir Vilniuje įsikūrusios Helsinkio grupės narė.
+- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74673|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupės nariai palaikė ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
@@ -111,5 +111,8 @@ Disidentinio judėjimo pradžia Lietuvoje laikomi 1960 m., kai pirmieji lietuvia
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jurijus]] susije_su Tomas Venclova
 - [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause Tomas Venclova
+- Tomas Venclova susije_su [[objektai/vietos/Maskva]]
+- Tomas Venclova susije_su [[objektai/grupes/Maskvos Helsinkio grupė]]
+- Tomas Venclova susije_su [[objektai/vietos/SSRS]]
+- Tomas Venclova susije_su [[objektai/vietos/Vilnius]]

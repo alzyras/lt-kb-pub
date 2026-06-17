@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-89445
   teiginys: 'Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.'
   sudarymo_pagrindimas: 'Pašalintas neapibrėžtas kontekstas ir suformuluotas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Baiga; mentioned_place: Engelsbergas'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Engelsbergas'
   pagrindžia:
     - c-002
 

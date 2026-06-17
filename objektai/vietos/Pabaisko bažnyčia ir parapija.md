@@ -29,7 +29,7 @@ amziai:
   global_id: t-173860
   teiginys: 'Pabaisko bažnyčios ir klebonijos fundacijos privilegija buvo sudaryta 1544 metais.'
   sudarymo_pagrindimas: 'Citata pagrindžia privilegijos objektą ir datą; praleistas dokumento antraščių triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia privilegijos objektą ir datą; praleistas dokumento antraščių triukšmas.'
@@ -41,7 +41,7 @@ amziai:
   global_id: t-173861
   teiginys: 'Pabaisko parapijos ribos turėjo eiti nuo Širvintos upės iki Šventosios ir būti juosiamos Kertušos upės.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretų faktą apie parapijos ribas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kertuša; mentioned_place: Vilnius; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_place: Kertuša; mentioned_place: Vilnius; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ amziai:
   global_id: t-173862
   teiginys: 'Pabaisko bažnyčia buvo pastatyta Šventosios Trejybės, Mergelės Marijos Ėmimo į dangų, šv. Egidijaus ir šv. Jurgio garbei.'
   sudarymo_pagrindimas: 'Ilgas dokumento fragmentas sutrumpintas iki aiškaus fakto apie bažnyčią.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Luckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Lenkija; mentioned_place: Luckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -59,7 +59,7 @@ amziai:
   global_id: t-173863
   teiginys: 'Pagal fundaciją nustatytose ribose karčemos turėjo priklausyti Pabaisko bažnyčiai.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie fundacijos nustatytą priklausomybę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/filija|filija]]'
   pagrindžia:
     - c-001
 

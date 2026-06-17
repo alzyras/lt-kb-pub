@@ -22,7 +22,7 @@ Kerim Berdis netoli Volgos su kariuomene ryžtingai užpuolė savo brolį Jerim 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas neaiškus giminystės objektas ir išlaikyta citatos paremta informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; mentioned_person: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jerim Berdis|Jerim Berdis]]; mentioned_person: [[objektai/asmenys/Kerim Berdis|Kerim Berdis]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).

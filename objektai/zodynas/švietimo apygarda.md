@@ -28,7 +28,7 @@ Naujasis caras Aleksandras I (1801—1825 m) 1802 m. Rusijoje įsteigė švietim
   global_id: t-03234
   teiginys: '1802 m. Aleksandras I Rusijos imperiją padalijo į šešias švietimo apygardas.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo nereikalingų detalių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras I|Aleksandras I]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1802 m.; įvykio data: 1825 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir išvalytas nuo nereikalingų detalių.'

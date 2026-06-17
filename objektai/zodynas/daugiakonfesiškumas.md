@@ -14,7 +14,6 @@ tags:
   - privilegija
   - sąvoka
   - valstybė
-  - vyskupas
 amziai:
   - 'XVI'
 ---
@@ -40,28 +39,19 @@ Daugiakultūriškumas ir daugiakonfesiškumas kartais laikomi didžiausiu Lenkij
   global_id: t-22101
   teiginys: 'LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.'
   sudarymo_pagrindimas: 'Teiginys susietas su žodyno objektu ir išlaiko citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Brasta; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Brasta; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1596 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su žodyno objektu ir išlaiko citatos faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171435|Totoriai]]: Iki unijos su Lenkija LDK turėjo totorių musulmonų bendruomenę, kurios Lenkijoje iki tol nebuvo.
-- susijęs iš [[objektai/ivykiai/Varšuvos konfederacija.md#claim-t-77910|Varšuvos konfederacija]]: Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje.
-- susijęs iš [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių.md#claim-t-183293|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]: 1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma.
-- susijęs iš [[objektai/ivykiai/Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių.md#claim-t-20594|Žygimanto Augusto privilegija dėl krikščioniškų konfesijų teisių (privilegija)]]: 1563 m. Žygimanto Augusto privilegija Lietuvoje sulygino visų krikščioniškų konfesijų teises.
 - susijęs iš [[objektai/paprociai/LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas.md#claim-t-77947|LDK bažnytinės unijos bandymai ir graikų katalikų įsitvirtinimas]]: Apie 1500 m. katalikiškoje LDK veikė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 - susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54262|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš [[objektai/paprociai/LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija.md#claim-t-54263|LDK daugiakonfesiškumo juridinis įforminimas ir religinė tolerancija]]: Lenkijoje ir Lietuvoje tolerancijos ribos vėliau siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 - susijęs iš [[objektai/posakiai/„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“.md#claim-t-26347|„didžiausią Europoje tolerancijos uostą“ „Europos tolerancijos lopšys“]]: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip neturinčią analogo Europoje ir Lenkiją vadino didžiausiu Europos tolerancijos uostu.
 - susijęs iš Varšuvos konfederacija (1573 m.): Lenkijoje daugiakonfesiškumas juridiškai įformintas 1573 m. Varšuvos konfederacijoje po Liublino unijos.
-- susijęs iš Žygimanto Augusto privilegija (1563 m.): 1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma.
-- susijęs iš Žygimanto Augusto privilegija (1563 m.): 1563 m. Žygimanto Augusto privilegija sulygino visų krikščioniškų konfesijų teises ir tapo Antrojo bei Trečiojo Lietuvos Statutų teisine norma.
 - susijęs iš Lenkija: Istorikai XVI–XVII a. Lenkijos religinę toleranciją apibūdino kaip Europoje neturėjusią analogo.
 - susijęs iš Vakarų Europa: Vakarų Europos XVI a. religinį nepakantumą simbolizavo 1572 m. Baltramiejaus naktis Paryžiuje.
-- susijęs iš Varšuva: Lenkijoje daugiakonfesiškumo juridinis įforminimas įvyko 1573 m. Varšuvos konfederacijoje.
-- susijęs iš Vidurio Rytų Europa: LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta.
-- susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22098|daugiakonfesiškumas daugiakultūriškumas]]: LDK daugiakonfesiškumą rodė šešios stačiatikių vyskupijos, pavaldžios Kijevo metropolijai.
 - susijęs iš [[objektai/zodynas/daugiakonfesiškumas daugiakultūriškumas.md#claim-t-22099|daugiakonfesiškumas daugiakultūriškumas]]: Lenkijoje ir Lietuvoje tolerancijos ribos siaurėjo lėtai ir be prievartos, o daugiakonfesiškumas išsilaikė iki XX a.
 ## Reikšmingi paminėjimai
 

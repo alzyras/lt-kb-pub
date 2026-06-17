@@ -14,7 +14,6 @@ tags:
   - karalius
   - privilegija
   - vieta
-  - vyskupas
 amziai:
   - 'XVI'
 ---
@@ -31,7 +30,7 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   global_id: t-86099
   teiginys: 'Šv. Jono bažnyčios klebonas Adomas Ancypa skunde nurodė pagal fundacijas valdantis Pukančius su kitomis valdomis.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Pukančių laikymą pagal fundacijas, bet pradinė formuluotė fragmentiška.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_place: Rudamina'
+  susije_objektai: 'mentioned_place: Rudamina'
   pagrindžia:
     - c-002
 
@@ -40,7 +39,7 @@ Jaugi 1571 metų birželio 1 dieną Vil­ niaus vyskupas Valerijonas Protasevič
   global_id: t-86100
   teiginys: '1571 m. birželio 1 d. Vilniaus vyskupas Valerijonas Protasevičius Pukančius priskyrė prie valdų, skirtų vikarui ir jo pagalbininkams išlaikyti.'
   sudarymo_pagrindimas: 'Teiginys buvo triukšmingas OCR fragmentas, bet citata aiškiai patvirtina valdų paskyrimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Rudamina; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Rudamina; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1571 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo triukšmingas OCR fragmentas, bet citata aiškiai patvirtina valdų paskyrimą.'

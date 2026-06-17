@@ -32,7 +32,7 @@ Ipatijaus metraštis mini^215 , jog buvę du Mindaugo priešų opozicijos centra
   global_id: t-32381
   teiginys: 'Per Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo Gerdenis.'
   sudarymo_pagrindimas: 'Pašalintas ankstesnio sakinio kontekstas ir paliktas aiškus faktas apie Nalšėnus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Dauguva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Dauguva'
   temporaliniai_duomenys: 'įvykio data: 1267 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas ankstesnio sakinio kontekstas ir paliktas aiškus faktas apie Nalšėnus.'

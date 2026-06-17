@@ -30,7 +30,7 @@ Jis pasidavė Maskvai, gaudamas Perejeslavlį.
   global_id: t-99942
   teiginys: 'Andriaus brolis Dimitras pasidavė Maskvai ir gavo Perejeslavlį.'
   sudarymo_pagrindimas: 'Pataisytas vardas ir paliktas citatos tiesiogiai remiamas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Brianskas; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Trubčevskas'
+  susije_objektai: 'mentioned_place: Brianskas; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Trubčevskas'
   temporaliniai_duomenys: 'įvykio data: 1379-1380; įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisytas vardas ir paliktas citatos tiesiogiai remiamas faktas.'

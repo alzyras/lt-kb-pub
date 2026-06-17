@@ -15,7 +15,6 @@ tags:
   - miestas
   - pilis
   - upė
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -62,7 +61,7 @@ Tačiau kai Algirdas, užsiėmęs karais su Rusia, lai­ mėjęs sostą, netruku
   global_id: t-85860
   teiginys: 'Testamente nurodyta, kad Tikocine buvę apmušalai ir kiti užtiesalai turėjo atitekti karalaitėms seserims.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra nebaigtas daiktų sąrašas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Alebardos|Alebardos]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Alebardos|Alebardos]]; mentioned_object: [[objektai/daiktai/Balnas|Balnas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Papuošalai|Papuošalai]]; mentioned_object: [[objektai/daiktai/Šarvai|Šarvai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]'
   pagrindžia:
     - c-001
 

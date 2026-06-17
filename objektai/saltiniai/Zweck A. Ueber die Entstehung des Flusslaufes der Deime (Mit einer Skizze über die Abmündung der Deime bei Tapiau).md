@@ -29,7 +29,6 @@ Dusburgietis teigia, kad zweck A.
   global_id: t-61389
   teiginys: 'A. Zwecko straipsnis apie Deimės upės vagos susidarymą publikuotas 1896 m. AM 33 tome.'
   sudarymo_pagrindimas: 'Citata pateikia straipsnio temą, metus ir leidinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1896 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia straipsnio temą, metus ir leidinį.'

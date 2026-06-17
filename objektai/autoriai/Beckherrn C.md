@@ -24,7 +24,7 @@ Dusburgietis teigia, kad 210 Apie prūsų ginklus, karybą — Beckherrn C.. Dus
   global_id: t-60547
   teiginys: 'C. Beckherrnas rašė apie prūsų ginklus ir karybą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja Beckherrno darbą su prūsų ginklais ir karyba.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

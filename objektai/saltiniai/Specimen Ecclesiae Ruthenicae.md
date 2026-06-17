@@ -22,7 +22,7 @@ Daugiau apie tai žinių yra įdėję: K u 1 c z y ń sk i Specimen Ecclesiae Ru
   global_id: t-88475
   teiginys: 'Specimen Ecclesiae Ruthenicae pateikė daugiau žinių apie Vytauto ryšių nutraukimą su Maskvos metropolitu Fotijumi.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas, bet citata leidžia suformuluoti pilną faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fotijus|Fotijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

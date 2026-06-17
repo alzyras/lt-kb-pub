@@ -22,7 +22,7 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
   global_id: t-42430
   teiginys: 'Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai savo ugnimi stengėsi husarus sulaikyti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie arkebuzierius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiečiai|Kuršiečiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiečiai|Kuršiečiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -31,7 +31,7 @@ Lietuvos arkebuzieriai rėmė ugnimi husarų ataką, o švedų arkibuzieriai sav
   global_id: t-42431
   teiginys: 'Kitose tercijos rikiuotės vietose didžiąją dalį šaulių sudarė ne tokiais galingais ginklais aprūpinti arkebuzieriai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/tercija|tercija]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vaina.md#claim-t-40499|Vaina]]: Rotmistro A. Vainos husarams buvo pasiųstos kelios kuršiečių reitarų kuopos kaip pastiprinimas.

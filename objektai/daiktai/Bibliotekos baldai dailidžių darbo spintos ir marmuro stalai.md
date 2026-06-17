@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-87108
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai skyrė lėšų bibliotekos langams taisyti, dailidžių darbo spintoms įsigyti ir marmuro stalams.'
   sudarymo_pagrindimas: 'Pirminis sakinys beveik tinkamas, bet citata aiškiau remia lėšų skyrimą ir marmuro stalus be papildomo veiksmažodžio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas'
   temporaliniai_duomenys: 'įvykio data: 1746 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis sakinys beveik tinkamas, bet citata aiškiau remia lėšų skyrimą ir marmuro stalus be papildomo veiksmažodžio.'

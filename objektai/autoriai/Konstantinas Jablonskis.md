@@ -27,7 +27,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - t-001
   global_id: t-179506
   teiginys: 'Konstantinas Jablonskis 1960 m. suredagavo ir išleido 1529 m. Lietuvos Statutą „Statut Velikogo Knjažestva Litovskogo“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Baltarusija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1529 m.; įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -37,7 +37,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
 - t-002
   global_id: t-179507
   teiginys: 'Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_person: [[objektai/autoriai/K. Jablonskis|K. Jablonskis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Jablonskis|K. Jablonskis]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Išskirtiną vietą Lietuvos istoriografijoje užima teisės ir kul­ tūros ist
   global_id: t-179508
   teiginys: 'Konstantinas Jablonskis iš senosios Lietuvos valstybės raštinių kalbos išrinko 299 lietuviškus žodžius ir 1941 m. išleido šaltinių ištraukų rinkinį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai ir tiksliai perteikia citatoje nurodytą Jablonskio darbą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai ir tiksliai perteikia citatoje nurodytą Jablonskio darbą.'

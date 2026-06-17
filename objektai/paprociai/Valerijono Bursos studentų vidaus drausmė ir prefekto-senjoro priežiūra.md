@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87306
   teiginys: 'Valerijono Bursoje prefektas arba senjoras turėjo prižiūrėti, kad studentai laikytųsi pamaldumo, garbingumo, broliškos santarvės ir papročių.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra mišrus lotyniško ir lietuviško teksto fragmentas su puslapio triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]'
   pagrindžia:
     - c-001
 

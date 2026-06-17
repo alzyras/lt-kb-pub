@@ -31,7 +31,7 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
 - t-001
   global_id: t-70140
   teiginys: 'Akte brolija, arba fraternitas, siejama su viena tauta, viena visuomene, bendrais seimais ir bendrai renkamu karaliumi.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai|Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Akte yra sakoma: Kad būtų viena tauta, viena visuomenė, viena brolija (frater
   global_id: t-70141
   teiginys: 'Akte fraternitas siejama su viena brolija, viena tauta, viena visuomene, bendrais seimais ir bendrai renkamu karaliumi.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra citatos fragmentas su nutrūkusia pabaiga, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai|Kad būtų viena tauta, viena visuomenė, viena brolija (fraternitas) ir bendri seimai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

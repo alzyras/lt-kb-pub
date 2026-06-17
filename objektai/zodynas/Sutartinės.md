@@ -28,7 +28,7 @@ Vartojamos formos: `sutartiniais`, `sutartines`, `sutartinėmis`.
   global_id: t-07663
   teiginys: 'Sutartinės vadintos dainomis, kurias sueigose dainuodavo atlieptinai.'
   sudarymo_pagrindimas: 'Citata aiškiai paaiškina sutartinių pavadinimą ir dainavimo būdą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Trimitai|Trimitai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

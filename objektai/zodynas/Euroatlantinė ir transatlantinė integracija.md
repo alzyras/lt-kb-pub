@@ -30,7 +30,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   global_id: t-69999
   teiginys: 'Glaudus trijų Baltijos valstybių bendradarbiavimas padėjo visoms sėkmingai integruotis į transatlantines organizacijas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie transatlantinę integraciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
   temporaliniai_duomenys: 'įvykio data: 1934 m.; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie transatlantinę integraciją.'
@@ -42,7 +42,7 @@ Santykiai su kaimynėmis ir transatlantinė integracija. Lietuva pasirinko euroa
   global_id: t-70000
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Lietuvos pasirinkimą su euroatlantine integracija ir citata tai pagrindžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1992 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Lietuvos pasirinkimą su euroatlantine integracija ir citata tai pagrindžia.'

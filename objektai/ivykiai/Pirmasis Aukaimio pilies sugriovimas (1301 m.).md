@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-66824
   teiginys: 'Draikai slapta atidarius Aukaimio pilies vartus, broliai įsiveržė, beveik visus išžudė, moteris ir vaikus paėmė į nelaisvę ir sudegino pilį su papiliu.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau, nes citata atskiria nužudytuosius nuo į nelaisvę paimtų moterų ir vaikų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]; mentioned_place: Aukaimis'
   pagrindžia:
     - c-001
 
@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-66825
   teiginys: '1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, pilnas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_person: [[objektai/asmenys/Folradas|Folradas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pilėnas|pilėnas]]; mentioned_person: [[objektai/asmenys/Pinas|Pinas]]; mentioned_place: Aukaimis; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1301 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, pilnas ir paremtas citata.'

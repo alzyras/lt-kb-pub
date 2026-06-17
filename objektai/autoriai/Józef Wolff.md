@@ -33,7 +33,7 @@ Józef Wolff šiame šaltinyje minimas kaip istorikas ir veikalo „Ród Gedimin
   global_id: t-11262
   teiginys: 'Józef Wolff buvo 1886 m. Krokuvoje išleisto veikalo „Ród Gediminą“ autorius.'
   sudarymo_pagrindimas: 'Bibliografinė citata remia autorystę, vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1886 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinė citata remia autorystę, vietą ir metus.'

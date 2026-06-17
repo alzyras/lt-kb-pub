@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-01930
   teiginys: 'Baudžiauninkai turėdavo priklausyti tam tikėjimui, kurio kunigą ponas paskirdavo savo bažnyčioje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

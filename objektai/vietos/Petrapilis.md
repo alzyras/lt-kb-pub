@@ -29,7 +29,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
 - t-001
   global_id: t-68917
   teiginys: 'Čartoriskiai pasiuntė Stanislovą Augustą Poniatauską į Petrapilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]'
   pagrindžia:
     - c-002
 
@@ -38,7 +38,6 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   global_id: t-68918
   teiginys: '1903 m. Petrapilyje buvo išleistas „Litovskaja Metrika“ teismo bylų knygų tomas.'
   sudarymo_pagrindimas: 'Citata pagrindžia leidimo vietą ir objektą, bet pradinis teiginys yra fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1903 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia leidimo vietą ir objektą, bet pradinis teiginys yra fragmentas.'
@@ -53,7 +52,7 @@ Tuo tarpu caras Petras I sėkmingai kariavo su švedais Estijoje, — užėmė N
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir suformuotas pilnas sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63844|Kotryna II]]: Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.

@@ -32,7 +32,7 @@ Kadangi Baltijos valstybių įjungimas į Sovietų Sąjungą prieštaravo SSRS d
   global_id: t-26335
   teiginys: 'Lietuvos Persitvarkymo Sąjūdžio Steigiamasis suvažiavimas vyko Vilniaus sporto rūmuose 1988 m. spalio 22–23 d.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Vilniaus sporto rūmus ir paremtas nuotraukos antrašte.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)|Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)|Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas (1988 m. spalio 22–23 d.)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1940 m.; įvykio data: 1988 m.; įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Vilniaus sporto rūmus ir paremtas nuotraukos antrašte.'

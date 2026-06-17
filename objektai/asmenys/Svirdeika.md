@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-80723
   teiginys: 'Svirdeika 1376 m. birželio 7 d. su savo pajėgomis įėjo į Narkyčius kartu su Algirdu ir Kęstučiu.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų Svirdeikos veiksmą ir datą, bet pradinė formuluotė yra citatos fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marienverderis; mentioned_place: Nadruva; mentioned_place: Įsrutis'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marienverderis; mentioned_place: Nadruva; mentioned_place: Įsrutis'
   temporaliniai_duomenys: 'įvykio data: 1376 m.; įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų Svirdeikos veiksmą ir datą, bet pradinė formuluotė yra citatos fragmentas.'

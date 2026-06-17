@@ -31,7 +31,7 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   global_id: t-21527
   teiginys: 'Kryžių kalnas tapo kovos už tikėjimo laisvę simboliu ir buvo pramintas lietuviška Golgota.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį teiginį apie simbolinę Kryžių kalno reikšmę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį teiginį apie simbolinę Kryžių kalno reikšmę.'
@@ -46,7 +46,7 @@ Priklausomybės dešimtmečiais ypač atsiskleidė kryžiaus, kaip stiprybės ir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys nėra pakankamai susietas su note objektu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/posakiai/lietuviška Golgota|lietuviška Golgota]]; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1961 m.; įvykio data: 1993 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nėra pakankamai susietas su note objektu.'

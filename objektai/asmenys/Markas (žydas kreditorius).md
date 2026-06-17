@@ -21,7 +21,7 @@ tags:
   global_id: t-87547
   teiginys: 'Žydui kreditoriui Markui už šešių savaičių palūkanas nuo 250 zlotų buvo sumokėta 15 florinų.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra apskaitos fragmentas su lotynišku datų intarpu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Pekarskis|Pekarskis]]; mentioned_place: Brasta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Raudonieji|Raudonieji]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_person: [[objektai/asmenys/Pekarskis|Pekarskis]]; mentioned_place: Brasta'
   pagrindžia:
     - c-002
 
@@ -30,10 +30,9 @@ tags:
   global_id: t-87548
   teiginys: 'Rugpjūčio 17 d. pas žydą Marką karališkiesiems didžiojo kunigaikščio reikalams buvo užstatyta grandinė.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie užstatymą pas Marką, bet sakinį reikia išvalyti nuo santrumpų ir OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/posakiai/Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs.md#claim-t-41469|Vienas kraujo lašas būt tave nuplovęs Vienų vienas žodis būt tave apgynęs]]: Zikaras Aisčio eilutę „Vienų vienas žodis būt tave apgynęs“ aiškina kaip priminimą apie protestų ir Vyriausybės pasitraukimo galimybę 1940 m.
+
 ## Reikšmingi paminėjimai
 
 - c-001

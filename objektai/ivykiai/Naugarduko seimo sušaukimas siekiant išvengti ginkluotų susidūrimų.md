@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir remiasi citatos informacija.'
-  susije_objektai: 'location: Lietuva; location: Naugardukas; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'location: Lietuva; location: Naugardukas; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 

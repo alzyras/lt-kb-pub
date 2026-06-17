@@ -32,7 +32,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   global_id: t-78033
   teiginys: 'Po caro administracijos tyrimo politiškai nepatikimu laikytas Joachimas Lelevelis buvo pašalintas iš profesorių.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Lelevelio pašalinimą kaip politiškai nepatikimo profesoriaus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Universitete dirbo garsūs mokslininkai: istorikas Joachimas Lelevelis (Joachim 
   global_id: t-78034
   teiginys: 'Istorikas Joachimas Lelevelis dirbo universitete jo klestėjimo laikotarpiu.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs sąrašas; citata pagrindžia glaustą faktą apie Lelevelį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Lelevelis|Lelevelis]]; mentioned_place: Austrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Andrius Sniadeckis|Andrius Sniadeckis]]; mentioned_person: [[objektai/asmenys/Johanas Pėteris Frankas|Johanas Pėteris Frankas]]; mentioned_person: [[objektai/asmenys/Jonas Sniadeckis|Jonas Sniadeckis]]; mentioned_place: Austrija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Andrius Sniadeckis.md#claim-t-183521|Andrius Sniadeckis]]: Andrius Sniadeckis dirbo Vilniaus universitete kaip chemikas ir biologas.

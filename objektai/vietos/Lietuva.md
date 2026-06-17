@@ -19,6 +19,7 @@ datos:
   - '1240 m.'
   - '1245 m.'
   - '1246 m.'
+  - '1253 m.'
   - '1573 m.'
 date_start: '1205'
 date_end: '1573'
@@ -75,7 +76,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180067
   teiginys: 'Pirmosios Lietuvoje suteiktos teisės būtų pagerinusios miesto būklę, jei šalyje nebūtų kilęs vidaus karas.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir perteklinis pasakojimo kontekstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]'
   pagrindžia:
     - c-034
 
@@ -84,7 +85,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180068
   teiginys: 'Lietuva pasirinko euroatlantinės integracijos kelią, todėl 1992 m. birželio 8 d. priėmė konstitucinį aktą „Dėl Lietuvos Respublikos nesijungimo į postsovietines Rytų sąjungas“ (panašiai pasielgė Latvija ir Estija).'
   sudarymo_pagrindimas: 'Teiginys pilnas ir sieja Lietuvos euroatlantinę kryptį su konstituciniu aktu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/posakiai/„valdomos demokratijos“|„valdomos demokratijos“]]; mentioned_place: Estija; mentioned_place: Latvija; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1992 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir sieja Lietuvos euroatlantinę kryptį su konstituciniu aktu.'
@@ -96,7 +97,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180069
   teiginys: '1991 m. Lietuvą pripažino Prancūzija, Didžioji Britanija, JAV ir rugsėjo 6 d. SSRS.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata apie Lietuvos tarptautinį pripažinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Didžioji Britanija; mentioned_place: Prancūzija; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Didžioji Britanija; mentioned_place: Prancūzija; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1940 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas citata apie Lietuvos tarptautinį pripažinimą.'
@@ -138,7 +139,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180073
   teiginys: 'Lietuvių tautinio judėjimo iškilimą dalis lenkų laikė Rusijos carizmo politikos projektu, gimusiu tik tam, kad skaldytų ir silpnintų lenkų jėgą, o vėliau Lietuvos valstybės atkūrimą laikys tik Vokietijos intriga.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir nurodo dalies lenkų požiūrį į Lietuvos judėjimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Modus vivendi|Modus vivendi]]; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-007
 
@@ -147,7 +148,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180074
   teiginys: 'LLKS Vasario 16-osios deklaracijoje numatytas Lietuvos valstybės atkūrimas ir demokratinės respublikos santvarka.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai nusako LLKS deklaracijos nuostatas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/organas|organas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Jonas Žemaitis-Vytautas|Jonas Žemaitis-Vytautas]]; mentioned_place: Kaunas; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1929 m.; įvykio data: 1936-1938; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai nusako LLKS deklaracijos nuostatas.'
@@ -168,7 +169,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180076
   teiginys: '1918 m. vasario 16 d. Taryba Vilniuje paskelbė atkurianti nepriklausomą, demokratiniais pamatais sutvarkytą Lietuvos valstybę su sostine Vilniumi.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai aprašo Vasario 16-osios rezoliucijos esmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai aprašo Vasario 16-osios rezoliucijos esmę.'
@@ -192,7 +193,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180079
   teiginys: 'Balińskis Kryžiuočių ordino nuniokojimą iki Medininkų ir Ašmenos vadino paskutiniu smūgiu pagoniškai Lietuvai.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis fragmentas, todėl reikia aiškaus sakinio su atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ašmena; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ašmena; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Medininkai'
   pagrindžia:
     - c-051
 
@@ -201,7 +202,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180080
   teiginys: 'Iki XII a. pabaigos Lietuva buvo Rusios įtakoje, o vėliau savo antpuoliais ėmė bauginti Rusią ir Lenkiją.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Skandinavija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Skandinavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-040
 
@@ -210,7 +211,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180081
   teiginys: '1941 m. birželio 14–18 d. okupacinė valdžia įvykdė pirmąjį masinį Lietuvos gyventojų trėmimą ir deportavo 17,5 tūkst. žmonių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai nurodo trėmimo datą bei mastą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai nurodo trėmimo datą bei mastą.'
@@ -264,7 +265,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180086
   teiginys: 'Michałas Balińskis suprato Lietuvos miestų ir miestiečių luomo vėlyvos raidos priežastis.'
   sudarymo_pagrindimas: 'Pataisytas OCR ir išplėstas autoriaus vardas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]'
   pagrindžia:
     - c-029
 
@@ -273,7 +274,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180088
   teiginys: 'Tvirtindama pozicijas prieš Kryžiuočių ordiną, Lietuva tais pačiais metais sudarė taiką su Didžiuoju Naugardu.'
   sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Naugardas; mentioned_place: Suomija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Naugardas; mentioned_place: Suomija'
   pagrindžia:
     - c-102
 
@@ -291,7 +292,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180091
   teiginys: '1430 m. Vytautas į Trakus ir Vilnių sukvietė šiaurės šalių kunigaikščius ir pasiuntinius, ketindamas karūnuotis Lietuvos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Pulavai; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Pulavai; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus ir tiesiogiai paremtas citata.'
@@ -324,7 +325,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180094
   teiginys: 'XVI–XVII a. Lietuva buvo šiauriausias katalikiškosios Pietų ir Vidurio Europos kultūrinio pasaulio pakraštys.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiški nuoroda „šio pasaulio“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Europa; mentioned_place: Madridas'
+  susije_objektai: 'mentioned_object: Vidurio Europa; mentioned_place: Europa; mentioned_place: Madridas'
   pagrindžia:
     - c-013
 
@@ -333,7 +334,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180095
   teiginys: '1506 m. rugpjūtį ties Kłecku pasiekta Lietuvos pergalė užkirto Krymo ordai kelią į artimiausias valstybės vaivadijų sostines.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Krymas; mentioned_place: Kłeckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krymas; mentioned_place: Kłeckas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citatos duomenimis.'
@@ -345,7 +346,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180096
   teiginys: 'XIII a., Mindaugui pasiskelbus Lietuvos karaliumi ir siekus priimti Romos tikėjimą, popiežius paskyrė Lietuvai vyskupą.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet pradiniame sakinyje yra antraščių ir fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Poznanė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį, bet pradiniame sakinyje yra antraščių ir fragmentų.'
@@ -378,7 +379,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180099
   teiginys: 'Nutrūkusi prekyba su Rusia ir Prūsija bei nuolatinis priešo pavojus Lietuvos sostinę vertė karine stovykla arba mūšio lauku.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
   pagrindžia:
     - c-093
 
@@ -387,7 +388,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180100
   teiginys: 'Ordino vadovas siekė išardyti Lietuvos ir Lenkijos sąjungą ir 1390 m. sausio 19 d. per komtūrą sudarė sutartį su Vytautu.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas paremtas faktas apie Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kernavė; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kernavė; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas paremtas faktas apie Lietuvą.'
@@ -399,7 +400,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180101
   teiginys: '1940 m. birželio 14 d. V. Molotovas įteikė J. Urbšiui ultimatumą, reikalaujantį įsileisti neribotus sovietų dalinius ir pakeisti Lietuvos vyriausybę.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo ir datos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Maskva; mentioned_place: Merkys'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Maskva; mentioned_place: Merkys'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje trūksta aiškaus veikėjo ir datos.'
@@ -411,7 +412,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180103
   teiginys: 'Ir šiandien vartojama sąvoka „litvakas“ susijusi su gyvenamosios vietos pavadinimu – tai žydas iš Lietuvos (turima omenyje istorinė Lietuva – LDK po Liublino unijos).'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paaiškina sąvokos „litvakas“ ryšį su Lietuva.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_object: [[objektai/zodynas/litvakai Lite litviš|litvakai Lite litviš]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_place: Liublinas'
   pagrindžia:
     - c-099
 
@@ -420,7 +421,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180104
   teiginys: 'Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatos faktus apie Lietuvos ryšius.'
-  susije_objektai: 'owner: Dniepras; owner: Dniestras; owner: Kafa; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Podolė; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kafa; mentioned_place: Kijevas; mentioned_place: Podolė'
+  susije_objektai: 'owner: Dniepras; owner: Dniestras; owner: Kafa; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Podolė; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kafa; mentioned_place: Kijevas; mentioned_place: Podolė'
   semantiniai_rysiai: 'Lietuva priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Lietuva priklausė Dniepras; Lietuva priklausė Dniestras; Lietuva priklausė Kafa; Lietuva priklausė Kijevas; Lietuva priklausė Podolė'
   pagrindžia:
     - c-015
@@ -453,7 +454,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180108
   teiginys: 'Lietuvos bajorija jautėsi sudaranti vieną luomą su Lenkijos bajorija, bet Lietuva pati rūpinosi savo gynyba ir sutartimis.'
   sudarymo_pagrindimas: 'Sutvarkyta gramatika ir sutrumpinta iki aiškaus fakto apie Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_place: Lenkija; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1600 m.; įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutvarkyta gramatika ir sutrumpinta iki aiškaus fakto apie Lietuvą.'
@@ -465,7 +466,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180109
   teiginys: 'Mykolo Balinskio veikalas laikomas informacijos šaltiniu apie ikikrikščionišką Lietuvos valstybės istoriją.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Lietuvos istoriją, bet pradinė formuluotė yra apie leidinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Danutė|Danutė]]; mentioned_person: [[objektai/autoriai/Irena Katilienė|Irena Katilienė]]; mentioned_person: [[objektai/autoriai/Jūratė Dalia Baronienė|Jūratė Dalia Baronienė]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/autoriai/Romas Dubonis|Romas Dubonis]]; mentioned_person: [[objektai/autoriai/Skirmantė Ramanauskaitė|Skirmantė Ramanauskaitė]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Irena Katilienė|Irena Katilienė]]; mentioned_author: [[objektai/autoriai/Jūratė Dalia Baronienė|Jūratė Dalia Baronienė]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_author: [[objektai/autoriai/Romas Dubonis|Romas Dubonis]]; mentioned_author: [[objektai/autoriai/Skirmantė Ramanauskaitė|Skirmantė Ramanauskaitė]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1836-1837; įvykio data: 1837 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko teiginį apie Lietuvos istoriją, bet pradinė formuluotė yra apie leidinį.'
@@ -477,7 +478,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180110
   teiginys: '1939 m. Kauno sporto halėje Lietuvos vyrų krepšinio rinktinė antrą kartą tapo Europos čempione.'
   sudarymo_pagrindimas: 'Pataisyta gramatinė derinimo forma pagal Lietuvos rinktinę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė|Lietuvos vyrų krepšinio rinktinė]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Vargiai; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos vyrų krepšinio rinktinė|Lietuvos vyrų krepšinio rinktinė]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Vargiai; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pataisyta gramatinė derinimo forma pagal Lietuvos rinktinę.'
@@ -489,7 +490,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180115
   teiginys: 'Po Vytauto mirties Vladislovas Jogaila netrukus paskyrė savo vietininką Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Ryga'
   pagrindžia:
     - c-039
 
@@ -498,7 +499,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180116
   teiginys: 'Vakarams skirtoje korespondencijoje Lietuva buvo vadinama karalyste.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatinis, aiškus ir tiesiogiai paremtas citata.'
@@ -519,7 +520,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180118
   teiginys: 'Vytauto karūnacija galėjo visiškai išvaduoti Lietuvą iš Lenkijos ir sumažinti Lenkijos galią Europoje.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos remiamas faktinis teiginys apie Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Lenkija'
   pagrindžia:
     - c-084
 
@@ -537,7 +538,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180120
   teiginys: 'Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata apie baroko laikotarpį Lietuvoje.'
-  susije_objektai: 'location: Nesvyžius; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
+  susije_objektai: 'location: Nesvyžius; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nesvyžius; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1586 m.; gyvenimo laikotarpis: 1586 m.; gyvenimo laikotarpis: 1784-1787; gyvenimo laikotarpis: 1787 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas citata apie baroko laikotarpį Lietuvoje.'
@@ -549,7 +550,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180121
   teiginys: 'Žygimantas Augustas įsakė lietuvišką monetą, kainavusią du lietuviškus grašius, imti už pustrečio lenkiško grašio.'
   sudarymo_pagrindimas: 'Nutrūkęs dokumento fragmentas perrašytas į aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/grašis|grašis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lenkija; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-111
 
@@ -596,7 +597,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180128
   teiginys: '1219 m. Lietuvoje vyriausiojo kunigaikščio dar nebuvo, bet 1245–1246 m. Mindaugas jau vadintas aukščiausiuoju karaliumi.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir paremtas citata apie Lietuvos suvienijimo požymius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'įvykio data: 1219 m.; įvykio data: 1235 m.; įvykio data: 1240 m.; įvykio data: apie 1240 m.; įvykio data: 1245-1246; įvykio data: 1246 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir paremtas citata apie Lietuvos suvienijimo požymius.'
@@ -608,7 +609,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180129
   teiginys: 'Pasak citatos, Lietuvos vardas Europai tapo žinomas tik X amžiuje.'
   sudarymo_pagrindimas: 'Ilga etnogenezės interpretacija sutrumpinta neperžengiant citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidivarijai|Vidivarijai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Baltija; mentioned_place: Būgas; mentioned_place: Dvina; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-042
 
@@ -617,7 +618,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180130
   teiginys: 'Manoma, kad jei ne vokiečių puolimas, slavų ekspansija, Lietuvos valstybė ir Lietuvos vardas būtų aprėpęs gerokai platesnes (gal net visas) baltų genčių žemes.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir perteikia citatoje nurodytą hipotetinį vertinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-025
 
@@ -647,7 +648,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180135
   teiginys: 'Kryžiaus karai prieš Lietuvą iš dalies paaiškina Lietuvos ekspansiją į mongolų nuteriotas Kijevo Rusios žemes ir jų pajungimą – taip buvo kaupiami ištekliai kovai Vakaruose.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir aiškiai nurodo Lietuvos ekspansijos paaiškinimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/posakiai/„nuo jūros iki jūros“|„nuo jūros iki jūros“]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baltija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Baltija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia'
   pagrindžia:
     - c-076
 
@@ -656,7 +657,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180136
   teiginys: 'Lietuvos delegacija pareiškė nepripažįstanti Zigmanto didžiuoju kunigaikščiu, nes jis buvo išrinktas be lietuvių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta sąraše, todėl paliktas pilnas ir citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta sąraše, todėl paliktas pilnas ir citatos paremtas faktas.'
@@ -668,7 +669,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180137
   teiginys: 'Mindaugo karūnacija užbaigė Lietuvos valstybės susikūrimą, nes Lietuvą pripažino to meto pasaulis.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)|Mindaugo karūnacija (1253 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija|Mindaugo karūnacija]]; mentioned_event: [[objektai/ivykiai/Mindaugo karūnacija (1253 m.)|Mindaugo karūnacija (1253 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1952-1953; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citata.'
@@ -680,7 +681,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180138
   teiginys: 'Kryžiuočiai, įsibrovę į Lietuvą su Vytauto pulkais, užėmė Kernavę ir Maišiagalą, bet Vilniaus neužėmė.'
   sudarymo_pagrindimas: 'Citata palaiko trumpesnį faktinį sakinį apie žygio eigą Lietuvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kernavė; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Kernavė; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-041
 
@@ -698,7 +699,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180140
   teiginys: 'Praradusi senas rinkas, Lietuvos ekonomika 1992–1994 m. patyrė sukrėtimą, o 1993 m. realusis BVP sudarė 40 proc. 1988 m. BVP.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai pateikia ekonomikos nuosmukio duomenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Bendrasis vidaus produktas (BVP)|Bendrasis vidaus produktas (BVP)]]'
   temporaliniai_duomenys: 'įvykio data: 1988 m.; įvykio data: 1992-1994; įvykio data: 1993 m.; įvykio data: 1994 m.; įvykio data: po 1995 m.; įvykio data: 1995 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai pateikia ekonomikos nuosmukio duomenį.'
@@ -710,7 +710,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180141
   teiginys: 'Lietuva 1939 m. sausio 10 d. ratifikavo neutralumo įstatymą, bet toliau manevravo tarp Varšuvos, Maskvos ir Berlyno.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Baltija; mentioned_place: Berlynas; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_place: Baltija; mentioned_place: Berlynas; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1938 m.; įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs.'
@@ -731,7 +731,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180143
   teiginys: 'Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai aprašo trečiąjį valstybės padalijimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1795 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai aprašo trečiąjį valstybės padalijimą.'
@@ -743,7 +743,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180144
   teiginys: 'Modernioji Lietuvos vardo samprata vis labiau siejo Lietuvą su lietuvių kalbos vartojimu.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo per bendras; citata leidžia įvardyti konkrečią prasmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/istorinė Lietuva|istorinė Lietuva]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-022
 
@@ -772,7 +772,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-070
   global_id: t-180148
   teiginys: 'Tačiau lietuviai visą laiką reikalavo, kad seimai būtų šaukiami ir Lietuvoje ar bent pasienyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-057
 
@@ -798,7 +798,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180151
   teiginys: 'Kryžiuočiai svetimtaučius įtikino, kad visa Lietuva tebėra pagonių šalis.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko sutvarkytą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Anglija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Anglija'
   pagrindžia:
     - c-033
 
@@ -807,7 +807,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180152
   teiginys: 'Pasak teksto, lietuvių tauta pirmiausia Dievui nusilenkė Vilniuje, kai Petras Goštautas pakvietė Šv. Pranciškaus vienuolius.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį apie Lietuvą ir Vilniuje minėtą krikščionybės pradžią.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Možaiskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Petras Goštautas|Petras Goštautas]]; mentioned_place: Antakalnis; mentioned_place: Baltija; mentioned_place: Brasta; mentioned_place: Možaiskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-089
 
@@ -816,7 +816,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180153
   teiginys: 'Lietuvos politinių grupuočių teritorinės aspiracijos apėmė etnines lietuvių žemes Vilniaus, Kauno, Suvalkų ir Gardino gubernijose bei dalį Kuršo.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra perteklinė metafora ir neaiški nuoroda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gardinas; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Suvalkai'
   pagrindžia:
     - c-032
 
@@ -825,7 +825,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180154
   teiginys: '1838 m. Mykolas Balinskis aiškino rusų valdžiai, kad jo Vilniaus istorijos veikalo tikslas buvo Lietuva ir jos senoji sostinė.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be nutrūkusios citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Rusų-lietuvių valstybė|Rusų-lietuvių valstybė]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1818 m.; įvykio data: 1818 m.; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškesnį sakinį be nutrūkusios citatos.'
@@ -837,7 +837,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180155
   teiginys: 'Po antrojo LLV padalijimo Lietuvos Didžiajai Kunigaikštijai liko tik etninės lietuvių ir vakarinės baltarusių žemės.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai apie LDK teritorijos likutį po padalijimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/jakobinizmas|jakobinizmas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1793 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai apie LDK teritorijos likutį po padalijimo.'
@@ -857,7 +857,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180157
   teiginys: '1570 m. Lietuvos monetos buvo keičiamos į lenkiškus pinigus, fiksuojant dėl to patirtus nuostolius.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_person: [[objektai/asmenys/Motiejus Kaviečnijskis|Motiejus Kaviečnijskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1570 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradiniame teiginyje yra antraštės triukšmo.'
@@ -893,7 +893,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180160
   teiginys: '1941 m. birželio 22 d. prasidėjus Vokietijos ir Sovietų Sąjungos karui, Lietuvą vokiečiai užėmė per tris dienas, todėl sovietai tik kai kuriuos politinius kalinius paskubomis išgabeno iš Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citata.'
@@ -905,7 +905,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180162
   teiginys: 'Lietuvoje yra geografinis Europos centras, kurį Prancūzijos nacionalinis geografijos institutas lokalizavo 25 km į šiaurę nuo Vilniaus.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra antraštės ir citatos triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Prancūzija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Prancūzija; mentioned_place: Vilnius'
   pagrindžia:
     - c-064
 
@@ -953,7 +953,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180169
   teiginys: 'Sąjūdis įvykdė rinkimų programos dalį, susijusią su Lietuvos valstybės nepriklausomybės atkūrimu ir jos piliečių atskyrimu nuo sovietų jurisdikcijos.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiški nuoroda „Taip“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
     - c-069
 
@@ -974,7 +974,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180171
   teiginys: 'Lietuvos diplomatai padėjo išlaikyti okupuotos Lietuvos politinį atminimą tarptautinėje sąmonėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo metaforiškas; perrašyta į aiškų enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/primus inter pares|primus inter pares]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/primus inter pares|primus inter pares]]'
   temporaliniai_duomenys: 'įvykio data: iki 1940 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo metaforiškas; perrašyta į aiškų enciklopedinį sakinį.'
@@ -986,7 +986,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180172
   teiginys: 'Kaunas, vadintas vartais į pagoniškąją Lietuvą, buvo miestas, pagarsėjęs tvirtovėmis ir prekyba.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir išlaikytas citatos turinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-073
 
@@ -1037,7 +1037,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180179
   teiginys: 'Vokiečių vermachtui įžengiant į Lietuvą, daug lietuvių jį sutiko palankiai, kai kurie net su gėlėmis rankose.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir aprašo lietuvių reakciją į vermachto įžengimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių aktyvistų frontas|Lietuvių aktyvistų frontas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: SSRS; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvių aktyvistų frontas|Lietuvių aktyvistų frontas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Berlynas; mentioned_place: SSRS; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir aprašo lietuvių reakciją į vermachto įžengimą.'
@@ -1049,7 +1049,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180180
   teiginys: 'Suvažiavimas priėmė rezoliuciją, kurioje reikalauta suteikti Lietuvai politinę autonomiją ir Vilniuje rinkti Seimą visuotiniu balsavimu.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neįvardytas suvažiavimo rezultatas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-068
 
@@ -1058,7 +1058,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180181
   teiginys: 'J. J. Chodkevičius apgynė LDK antspaudus ir paliko galimybę išsaugoti Lietuvos valstybingumą.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiau susietas su citatoje nurodytu veiksmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Lenkija; mentioned_place: Liublinas'
   pagrindžia:
     - c-065
 
@@ -1067,7 +1067,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180183
   teiginys: '1219 m. priešmindauginė Lietuva, greičiausiai valdoma Živinbudo ir susijungusi su Žemaitija, sudarė sutartį su Volyne.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir perteikia citatoje pateiktą atsargią išvadą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Prūsai; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/baltų sąjunga|baltų sąjunga]]; mentioned_object: [[objektai/zodynas/priešmindauginė Lietuva|priešmindauginė Lietuva]]; mentioned_person: [[objektai/asmenys/Popiežius Honorijus II|Popiežius Honorijus II]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Prūsai; mentioned_place: Volynė'
   temporaliniai_duomenys: 'įvykio data: 1205 m.; įvykio data: 1210 m.; įvykio data: 1218 m.; įvykio data: 1219 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir perteikia citatoje pateiktą atsargią išvadą.'
@@ -1079,7 +1079,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180184
   teiginys: 'Zigmantas siūlė Jogailai karūnuoti Vytautą, nes Vytautas buvo nusipelnęs Lietuvai įvesdamas joje krikščionybę.'
   sudarymo_pagrindimas: 'Pirminis tekstas nutrūksta, todėl iš citatos suformuotas pilnas faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Luckas'
   pagrindžia:
     - c-091
 
@@ -1088,7 +1088,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180186
   teiginys: 'Steigiamojo Seimo rinkimai Vilnijoje ir Mažojoje Lietuvoje nevyko, nes Lietuva tų teritorijų nekontroliavo.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda šnekamuoju kontekstu ir yra gremėzdiškas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Vilnija'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnija'
   pagrindžia:
     - c-108
 
@@ -1096,7 +1096,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - t-102
   global_id: t-180188
   teiginys: 'Lietuvai ir Lenkijai seimų konstitucijos buvo rašomos atskirai, o vienos valstybės konstitucija kitoje negaliojo be specialaus priėmimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -1105,7 +1105,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180189
   teiginys: 'Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.'
   sudarymo_pagrindimas: 'Reikia atribucijos, nes tai religinio stebuklo pasakojimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Paplotėlis|Paplotėlis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Mergelė Marija|Mergelė Marija]]'
   pagrindžia:
     - c-078
 
@@ -1153,7 +1153,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180198
   teiginys: '1921 m. rugsėjo 22 d. Lietuva buvo priimta į Tautų Sąjungą, nors didžiosios Vakarų valstybės dar negarantavo Lietuvos pripažinimo de jure.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai nurodo Lietuvos priėmimą į Tautų Sąjungą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_object: [[objektai/zodynas/de jure|de jure]]; mentioned_place: Europa; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Antantė|Antantė]]; mentioned_place: Europa; mentioned_place: Skandinavija'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiksliai nurodo Lietuvos priėmimą į Tautų Sąjungą.'
@@ -1165,7 +1165,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180199
   teiginys: '1940 m. birželio 16 d. sovietų divizijos, žygiuodamos per Lietuvą, strategiškai atkirtusios Latviją ir Estiją nuo Vokietijos.'
   sudarymo_pagrindimas: 'Citata remia aiškesnį sakinį apie sovietų kariuomenės veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Europa; mentioned_place: Latvija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia aiškesnį sakinį apie sovietų kariuomenės veiksmus.'
@@ -1189,7 +1189,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   global_id: t-180201
   teiginys: 'Lenkijai prijungus sritis, neprisiekusių bajorų žemės buvo atimtos, todėl Lietuvai grėsė suvereniteto praradimas.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje trūksta aiškaus konteksto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lenkija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_place: Lenkija; mentioned_place: Rusija'
   pagrindžia:
     - c-035
 
@@ -1213,7 +1213,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta publicistinio veiksmažodžio forma, faktas išlaikytas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Kaunas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_place: Kaunas; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta publicistinio veiksmažodžio forma, faktas išlaikytas.'
@@ -1291,7 +1291,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir įvardžiai pakeisti aiškiais vardais.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas]]; mentioned_place: Kujavija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Kropidlas|Jonas Kropidlas]]; mentioned_place: Kujavija; mentioned_place: Vilnius'
   pagrindžia:
     - c-119
 
@@ -1327,7 +1327,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Užbaigtas nutrūkęs teiginys ir pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Livonija; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Livonija; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis'
   pagrindžia:
     - c-122
 
@@ -1339,7 +1339,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš netvarkingo OCR fragmento atkurta citatos paremta mintis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]'
   pagrindžia:
     - c-123
 
@@ -1363,7 +1363,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys gramatiškas, aiškus ir religiniu klausimu jau priskiria vertinimą Rygos vyskupui ir klebonui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]; mentioned_place: Ryga'
   pagrindžia:
     - c-125
 
@@ -1403,6 +1403,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas.md#claim-t-77940|Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena.
 - susijęs iš Karo muziejaus sodelis: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis.
 - susijęs iš Kaunas: 1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, palaidotas Nežinomas kareivis.
+- susijęs iš Vilnius: Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.
 - susijęs iš [[objektai/zodynas/Žuvusių karių kultas.md#claim-t-22353|Žuvusių karių kultas]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, rūpintasi karių kapais ir kurtas žuvusių karių kultas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176293|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176303|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.
@@ -1430,16 +1431,11 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.
 - susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
-- susijęs iš Smolenskas: Pasak cituojamo metraščio, dalį Lietuvos miestų valdė Smolensko kunigaikščiai.
-- susijęs iš Trakai: Algirdas valdė Vilniuje, o Kęstutis - Trakuose.
-- susijęs iš Trakai: Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnelė: Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
 - susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
 - susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
-- susijęs iš Vilnius: Algirdas valdė Lietuvą iš Vilniaus, o Kęstutis valdė iš Trakų.
-- susijęs iš Vilnius: Lietuvą vienu metu valdė du didieji kunigaikščiai: Algirdas Vilniuje, o Kęstutis Trakuose.
 - susijęs iš Voluinė: Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.
 - susijęs iš [[objektai/zodynas/Pilininkai kaštelionai seniūnas.md#claim-t-86638|Pilininkai kaštelionai seniūnas]]: Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.
 - susijęs iš [[objektai/zodynas/Pilininkas.md#claim-t-55266|Pilininkas]]: Lietuvoje pilininkai valdė miestą panašiai kaip Lenkijoje kaštelionai ir vykdė teisminę priežiūrą kartu su seniūnu.
@@ -1476,6 +1472,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
 - susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
+- susijęs iš Čikaga: 1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.
 - susijęs iš [[objektai/zodynas/viduriniojo akmens amžiaus laikotarpis mezolitas.md#claim-t-74039|viduriniojo akmens amžiaus laikotarpis mezolitas]]: Pirmieji žmonės Lietuvoje neabejotinai gyveno viduriniojo akmens amžiaus, arba mezolito, laikotarpiu nuo maždaug 10000 iki 3000 m. pr. Kr.
 - susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
@@ -1555,10 +1552,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173336|Žygimantas Senasis]]: Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.
 - susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
-- susijęs iš [[objektai/autoriai/Henriką von Rebdorf.md#claim-t-30637|Henriką von Rebdorf]]: Kronikininkas Henrikas von Rebdorfas rašė, kad 1358 m. liepą Lietuvos karalius pas imperatorių buvo atsiuntęs savo brolį.
-- susijęs iš [[objektai/autoriai/Mikšas.md#claim-t-01116|Mikšas]]: Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.
 - susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
-- susijęs iš [[objektai/daiktai/Karūna.md#claim-t-186815|Karūna]]: Vytautas Didysis buvo vaizduojamas kaip Žalgirio mūšio laimėtojas ir Lietuvos karaliaus karūnos siekęs valdovas.
 - susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172079|Apaštalų Sostas]]: Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.
 - susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72025|Atskiri Lietuvos seimai]]: XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.
 - susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
@@ -1586,22 +1580,17 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172837|Vilniaus miestiečių luomas]]: Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187458|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187461|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad Maskvos didysis kunigaikštis Dimitrijujus Ivanovičius nutraukė taiką su Algirdu ir atsiuntė karo paskelbimą.
 - susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Kersovo antpuolis ir Lešeko kontrataka.md#claim-t-62312|Kersovo antpuolis ir Lešeko kontrataka]]: Aštuoni šimtai Lietuvos raitelių nuniokojo 10 Kersovo kaimų, o Krokuvos kunigaikštis Lešekas kontratakoje beveik visus juos sunaikino.
 - susijęs iš [[objektai/ivykiai/Klecko mūšis (1506 m. rugpjūčio 6 d.).md#claim-t-171467|Klecko mūšis (1506 m. rugpjūčio 6 d.)]]: Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.
 - susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45349|Krėvos sutartis (1385 m.)]]: Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
 - susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45350|Krėvos sutartis (1385 m.)]]: 1385 m. sudaryta Krėvos sutartimi su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Lietuvos valstybės sukūrimas XIII a. viduryje.md#claim-t-75201|Lietuvos valstybės sukūrimas XIII a. viduryje]]: Lietuvos Didžioji Kunigaikštija buvo sukurta XIII a. viduryje, o jos pirmasis valdovas buvo Mindaugas.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-24563|Mindaugo karūnacija (1253 m.)]]: Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija.md#claim-t-183264|Mindaugo karūnacija]]: Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.
 - susijęs iš [[objektai/ivykiai/Mindaugo karūnacija.md#claim-t-66787|Mindaugo karūnacija]]: Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.
 - susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš [[objektai/ivykiai/Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate.md#claim-t-185765|Radomo seimas, Lietuvos didikų susitaikymo mėginimas ir Aleksandro paralyžius senate (seimas)]]: Karalius viešai pažadėjo lenkams atsižvelgti į jų reikalavimus, bet reikalą ketino perduoti lietuvių seimui.
 - susijęs iš [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis.md#claim-t-185643|Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]: Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.
 - susijęs iš [[objektai/ivykiai/Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu.md#claim-t-185644|Susitarimas dėl Podolės valdymo ir Teodoro Sanguškos paskyrimas Severesko kunigaikščiu]]: Karalius ir Vytautas susitarė, kad Severesko kunigaikštystėje Lietuvos didžiojo kunigaikščio vietininku bus Teodoras Sanguška.
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis.md#claim-t-186585|Vorsklos mūšis (mūšis)]]: Lietuvos metraštis teigia, kad Tarp Vorsklos mūšyje žuvusiųjų buvo Polocko kunigaikštis Andrius Kęstutaitis, Smolensko kunigaikštis Glėbas Svetoslavovičius ir Krokuvos vaivada Spytka.
 - susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185543|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Vytautui pasitraukus pas kryžiuočius, Jogaila nukreipė jėgas į Poleksiją, kurią Mazovijos kunigaikštis Jonušas buvo neseniai atėmęs iš lietuvių.
 - susijęs iš [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.).md#claim-t-62953|Vytenio užimta Karkuso pilis (1298 m.)]]: 1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.
 - susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
@@ -1609,21 +1598,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09532|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą.
 - susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09533|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
 - susijęs iš [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje.md#claim-t-87305|Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]: Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.
-- susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185466|Ugnimi ir kalaviju]]: Skitams dviem voromis užpuolus Lenkiją ir siaubiant ją ugnimi bei kalaviju, karalius įsitraukė į karą dėl Podolės.
 - susijęs iš [[objektai/posakiai/būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros.md#claim-t-09682|būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros]]: Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros.
-- susijęs iš [[objektai/posakiai/„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“.md#claim-t-186398|„Lietuvoje pradėjo valdyti pašėlęs (okajauyj), nedorovingas, prakeiktas ir negailestingas Traidenis“]]: Traidenis apibūdintas kaip pašėlęs, nedorovingas, prakeiktas ir negailestingas Lietuvos valdovas.
 - susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186401|„Lietuvos karaliaus sūnus“]]: Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.
 - susijęs iš [[objektai/posakiai/„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“.md#claim-t-36031|„jam patinkąs mažiau iškalbingas, bet užtatai tiesakalbis.“]]: Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.
 - susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
-- susijęs iš 1528 m. Žygimanto Senojo įstatymas Žemaičių žemei: 1528 m. sausio 20 d. karalius pasirašė Žemaičių žemei atskirą įstatymą, garantavusį jos teises ir privilegijas.
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
-- susijęs iš Andriaus Vygando raštiškas pasižadėjimas Jogailai: Starodubo kunigaikštis Andrius Vygandas raštiškai pasižadėjo po Vytauto mirties su kitais Lietuvos kunigaikščiais pripažinti Jogailos valdžią.
-- susijęs iš Henriko von Rebdorfo kronika: Henriko von Rebdorfo kronika mini, kad 1358 m. liepą Lietuvos karalius pas imperatorių atsiuntė savo brolį.
 - susijęs iš Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius: Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ liko nebaigta ir buvo skelbta „Židinyje“ 1935–1936 m.
 - susijęs iš Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius: Studija „Jogaila, didysis Lietuvos kunigaikštis ir Lenkijos karalius“ buvo originali, bet nebaigta.
 - susijęs iš Lietuvos Metrikos raštai dėl sklypo Vilniaus vaistinei: Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
-- susijęs iš Livonijos atstovų prieštaravimas dėl 1323 m. taikos: Livonijos atstovų prieštaravimo originale minimas Lietuvos karalius ir Aukštaičių, Žemaičių, Pskovo bei rusų kraštai.
 - susijęs iš Brasta: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
 - susijęs iš Drohičinas: Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.
 - susijęs iš Drohičinas: Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.
@@ -1640,7 +1623,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Praga: Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.
 - susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
 - susijęs iš Riazanės kunigaikštystė: Riazanės didysis kunigaikštis Olegas su sąjungininkais puolė Lietuvą ir jai padarė žalos.
-- susijęs iš Transilvanija: Transilvanijos kunigaikštis Steponas Batoras, tapęs Lenkijos ir Lietuvos valdovu, Livonijos kare pasiekė lemiamų pergalių prieš Maskvą.
 - susijęs iš Varšuva: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
 - susijęs iš Vilnius: 1544 m. Žygimantas Augustas apsigyveno Vilniuje kaip Lietuvos didysis kunigaikštis ir perėmė valdžią Lietuvoje.
 - susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
@@ -1650,21 +1632,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Vilnius: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, kurioje dažnai būdavo ir pats karalius.
 - susijęs iš Vilnius: Po Podolės prijungimo prie Lietuvos kunigaikštis Teodoras su šeima buvo išgabentas į Vilnių.
 - susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
-- susijęs iš Volinijos-Haličo kunigaikštija: Volinijos-Haličo kunigaikštis Levas, keršydamas už valdžios Lietuvoje atidavimą Švarnui, pasikvietė Vaišvilką į svečius ir jį nužudė.
 - susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
 - susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
-- susijęs iš Černigovas: Po pergalės prieš totorių chaną didysis kunigaikštis Skirmantas Rusų žemėje paėmė Černigovą.
 - susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
 - susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš [[objektai/zodynas/pacta conventa.md#claim-t-182963|pacta conventa]]: Pagal pacta conventa karalius turėjo tiek valdžios, kiek bajorija jam suteikdavo išrinkimo metu sudaroma sutartimi.
 - susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
 - susijęs iš [[objektai/zodynas/siuzerenas.md#claim-t-95926|siuzerenas]]: Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus.
 - susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11684|supremus dux ir magnus dux]]: Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.
-- susijęs iš [[objektai/zodynas/supremus dux ir magnus dux.md#claim-t-11685|supremus dux ir magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
-- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36841|supremus dux magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
 - susijęs iš [[objektai/zodynas/taikytojas.md#claim-t-185369|taikytojas]]: Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius.
-- susijęs iš [[objektai/zodynas/tėvonija tėvų palikimas.md#claim-t-183484|tėvonija tėvų palikimas]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
-- susijęs iš [[objektai/zodynas/tėvonija.md#claim-t-183482|tėvonija]]: Lietuvos didysis kunigaikštis Vytautas Voluinę laikė savo tėvonijos dalimi.
 - susijęs iš [[objektai/zodynas/vietininkas.md#claim-t-184647|vietininkas]]: Karalius laikinai paskyrė Spiteką valdų vietininku.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
@@ -2888,6 +2863,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184796|Mykolas (Žygimanto sūnus)]]: Mykolas svajojo valdyti visą Lietuvą ir sumanė slapta nužudyti valdovą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87559|Mykolas (Žygimanto sūnus)]]: 1440 m. balandį, sąmokslininkams Trakų pilyje nužudžius Žygimantą, jo sūnus Mykolas buvo ištremtas.
+- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
 - susijęs iš [[objektai/asmenys/Mykolas Borisovičius Šeina.md#claim-t-40355|Mykolas Borisovičius Šeina]]: Rusų kariuomenės vado Mykolo Borisovičiaus Šeinos štabas prie Smolensko pasidavė ATR valdovui Vladislovui Vazai.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184799|Mykolas Glinskis]]: Didžioji dauguma Smolensko žemės bajorų atvirai linko į Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184801|Mykolas Glinskis]]: Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.
@@ -4755,9 +4731,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179002|Kryžiuočių ordinas]]: Po nepavykusio Vilniaus apsiautimo Ordinas grobuoniškus planus nukreipė prieš Žemaitiją.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179006|Kryžiuočių ordinas]]: Iki Tannenbergo kautynių kryžiuočiai Vakarų Europai pristatydavo lietuvius kaip pavojingus rytų „saracėnus“, bet kryžiaus karų šauksmas pamažu tilo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179007|Kryžiuočių ordinas]]: Vytautas pakėlė Lietuvos vardą sudarydamas kampaniją prieš Ordiną, po kurios Ordinas buvo diskredituotas.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179008|Kryžiuočių ordinas]]: 1429 m. Lucko suvažiavime dalyvavo ir Vokiečių ordino pasiuntiniai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179011|Kryžiuočių ordinas]]: Per visą XIV a. Vokiečių ordino pavojus skatino Lietuvą derėtis ir svarstyti priešo išpažįstamo tikėjimo priėmimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179014|Kryžiuočių ordinas]]: Sužinoję apie Gedimino skundą popiežiui, Prūsijos minoritai ir abatai Paulius bei Jordanas stojo ginti kryžiuočių.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179018|Kryžiuočių ordinas]]: Lietuvos žemdirbystę trikdė nuolatiniai kryžiuočių užpuolimai, kurių kartais būdavo po keturis ar penkis per metus.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179019|Kryžiuočių ordinas]]: Ordino magistras, plėsdamas veiksmus Lietuvos pasienyje, įsakė netoli Gardino pastatyti Naująjį Gardiną ir Metenburgą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179030|Kryžiuočių ordinas]]: Rygos pasiuntiniai popiežiui pranešė, kad Gediminas prašė Ordino riterių, vyskupų ir Livonijos miestų tarpininkauti sudarant taiką.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179031|Kryžiuočių ordinas]]: Po Lietuvos krikšto ir Europos pripažinimo katalikiška valstybe kryžiuočių ordinas nebebuvo pateisinamas.
@@ -4767,13 +4743,13 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179052|Kryžiuočių ordinas]]: Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179057|Kryžiuočių ordinas]]: Ordino riteriai Liubeke siūlė prieš sprendimą dėl Lietuvos krikšto pirmiausia pasiųsti į Lietuvą pasiuntinius.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179061|Kryžiuočių ordinas]]: Kai Žemaičių nepavyko įveikti ginklu, kryžiuočiai skatino Gediminaičių vidaus kovas arba į jas sėkmingai kišosi.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179062|Kryžiuočių ordinas]]: Paaštrėjus santykiams su Kryžiuočių ordinu, Vytautas parėmė žemaičius, o šie išvarė kryžiuočius iš savo krašto.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179063|Kryžiuočių ordinas]]: Balińskis kryžiuočių grobuoniškumą laikė viena ilgalaikių kliūčių Lietuvos pažangai.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179064|Kryžiuočių ordinas]]: 1410 m. Žalgirio mūšyje Lenkijos ir Lietuvos jungtinė kariuomenė sutriuškino Vokiečių ordiną.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179066|Kryžiuočių ordinas]]: 1408-1414 m. kovose su kryžiuočiais Lietuvos monarcho pastangos buvo nukreiptos į Prūsijos ordino pajėgų silpninimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179067|Kryžiuočių ordinas]]: Lucko suvažiavime Vokiečių ordinas rėmė Vytauto vainikavimo planą kaip atsvarą Lenkijai regione.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179070|Kryžiuočių ordinas]]: Ignas Onacevičius Karaliaučiuje rinko istorinius dokumentus iš slaptojo Kryžiuočių ordino archyvo.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179072|Kryžiuočių ordinas]]: 1409 m. Kryžiuočių ordinas Ragainėje sulaikė Jogailos Lietuvai siųstus javus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179073|Kryžiuočių ordinas]]: Vokiečių ordinas trukdė Vytautui pastatyti Lietuvą Europos katalikiškųjų šalių greton.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179075|Kryžiuočių ordinas]]: Vokiečių ordino magistrui uždraudus į Lietuvą įvežti druską, Vytautas liepė vokiečių pirkliams iki Sekminių išvykti iš Lietuvos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179076|Kryžiuočių ordinas]]: Ordino riteriai pasinaudojo Gedimino valdų suskaidymu, kuris, anot šaltinio, susilpnino krašto galią.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179077|Kryžiuočių ordinas]]: 1422 m. Vilniui leista laiduoti prie Osos upės sudarytos sutarties su kryžiuočiais patikimumą.
@@ -9321,6 +9297,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Maskva: Lietuvos metraščiuose užrašyti epiniai siužetai apie Gedimino sapną, Algirdo žygius į Maskvą ir Kęstučio bei Birutės meilę.
 - susijęs iš Maskva: 1617–1618 m. žygyje į Maskvą Jonas Karolis Chodkevičius pasiekė laimėjimų, tačiau Maskvos užimti nepavyko.
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė santykius su Maskvos disidentais ir teikė informaciją iš Lietuvos.
+- susijęs iš Maskva: XV a. pabaigoje sustiprėjusi Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui.
 - susijęs iš Maskva: Kaip neprivaloma disciplina lietuvių kalba įsileista ir į kelias Užnemunės vidurines mokyklas, Maskvos universitete paskirta dešimt valstybės stipendijų šių mokyklų auklėtiniams, turintiems atestate lietuvių kalbos pažymį.
 - susijęs iš Maskva: Napoleonui teko trauktis iš Maskvos, o traukimosi metu jo kariuomenė sunyko.
 - susijęs iš Maskva: XV a. pabaigoje stiprėjanti Maskvos valstybė ėmė kelti grėsmę Lietuvos teritorijos vientisumui.
@@ -9330,7 +9307,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Maskva: Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.
 - susijęs iš Maskva: Lietuvos kariuomenė į Vilnių įžengė liepos 15 d., jau pasirašius sutartį Maskvoje.
 - susijęs iš Maskva: 1494 m. balandžio 18 d. Maskvoje Lietuvos pasiuntiniai pasirašė amžinos taikos sutartį su caru.
-- susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
 - susijęs iš Maskva: 1960 m. Aleksandras Štromas, Tomas Venclova ir Pranas Morkus užmezgė ryšius su Maskvos disidentais.
 - susijęs iš Maskva: Livonijos Ordinas įtikinėjo Naugardą ir Maskvą, kad Vytauto planai jiems yra pražūtingi, kadangi jis siekiąs užvaldyti visas rusų žemes.
 - susijęs iš Maskva: Leonidui Brežnevui įsitvirtinus valdžioje, Maskvoje sustiprėjusios stalininės jėgos prisidėjo prie valdymo sugriežtinimo.
@@ -9587,7 +9563,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Perejeslavlis: Gediminas, užėmęs Brianską ir Perejeslavlį, išplėtė lietuvių valdų ribas ligi Putivlio.
 - susijęs iš Perekopas: Krime susikūrė Perekopo chanatas, kurio sostinės pilis buvo vadinama Perekopu.
 - susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
-- susijęs iš Perekopas: Perekopu vadinosi Krime atsiradusio Perekopo chanato sostinės pilis.
+- susijęs iš Perekopas: 1443 m. Vilniuje totorių pasiuntinių prašymu Chadži Girėjus buvo iškilmingai paskelbtas Perekopo chanu.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
 - susijęs iš Pernarava: Prūsų magistras su Bavarijos grafo Volfgango ir Livonijos kryžiuočių parama sunaikino Ariogalos, Pernaravos ir Labūnavos žemes Žemaitijoje.
@@ -9918,6 +9894,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - susijęs iš Smolenskas: Jaunutis po pabėgimo ieškojo prieglobsčio Smolenske.
 - susijęs iš Smolenskas: Plėsdamas savo valdžią rytuose, Vytautas energingai sutvarkė Smolenską.
 - susijęs iš Smolenskas: Po Liublino unijos Lietuva kartu su Lenkija vėliau atsiėmė Smolenską.
+- susijęs iš Smolenskas: Smolenskas buvo vienas iš miestų, iš kurių susidarė atskiros kunigaikštijos.
 - susijęs iš Smolenskas: 1411 m. pavasarį Vytautui vykstant pro Smolenską iki Kijevo, tų kraštų kunigaikščiai reiškė jam paklusnumą.
 - susijęs iš Smolenskas: 1507-1508 m. kare Vosylius III su Glinskiu artinosi prie Smolensko, laikyto svarbiu strateginiu punktu prie Dniepro aukštupio.
 - susijęs iš Smolenskas: Zigmanto Vazos laikais, Maskvoje vykstant didžiajai suirutei, Smolenskas buvo atgautas.
@@ -14160,17 +14137,16 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
     - t-128
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras]] mire Lietuva
 - [[objektai/asmenys/Aleksandras Jogailaitis]] mire Lietuva
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] mire Lietuva
 - [[objektai/asmenys/Birutė]] mire Lietuva
 - [[objektai/asmenys/Gediminas]] mire Lietuva
 - [[objektai/asmenys/Kazimieras Karigaila]] mire Lietuva
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] mire Lietuva
+- [[objektai/asmenys/Kūnas]] mire Lietuva
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Lietuva
 - [[objektai/asmenys/Augustas]] valde_teritorija Lietuva
 - [[objektai/asmenys/Daugirdas Gedgaila]] valde_teritorija Lietuva
-- [[objektai/asmenys/Dlugošas]] valde_teritorija Lietuva
 - [[objektai/asmenys/Gediminas]] valde_teritorija Lietuva
 - [[objektai/asmenys/Jadvyga]] valde_teritorija Lietuva
 - [[objektai/asmenys/Karijotas]] valde_teritorija Lietuva
@@ -14181,12 +14157,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde_teritorija Lietuva
 - [[objektai/asmenys/Narimantas Gediminaitis]] valde_teritorija Lietuva
 - [[objektai/asmenys/Skirgaila]] valde_teritorija Lietuva
-- [[objektai/asmenys/Tame (Baigos brolis)]] valde_teritorija Lietuva
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] valde_teritorija Lietuva
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Lietuva
 - [[objektai/asmenys/Vytenis]] valde_teritorija Lietuva
+- [[objektai/asmenys/Švitrigaila]] valde_teritorija Lietuva
 - [[objektai/asmenys/Boleslovas Maldingasis]] gyveno Lietuva
 - [[objektai/asmenys/Derska]] gyveno Lietuva
-- [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas]] gyveno Lietuva
 - [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų]] gyveno Lietuva
 - [[objektai/grupes/JAV lietuviai]] gyveno Lietuva
 - [[objektai/asmenys/Jadvyga Jogailienė]] gyveno Lietuva
@@ -14198,8 +14174,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/grupes/Skalviai]] gyveno Lietuva
 - [[objektai/grupes/Sėliai]] gyveno Lietuva
 - [[objektai/grupes/Totoriai]] gyveno Lietuva
-- [[objektai/asmenys/Vaidila]] gyveno Lietuva
-- [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Lietuva
 - [[objektai/grupes/Žydai]] gyveno Lietuva
 - [[objektai/asmenys/Adalbertas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]] buvo_valdovas Lietuva
@@ -14209,7 +14183,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Andrius Kopernikas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Andrius Vingaudas]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Antanas (vaistininkas)]] pastate Lietuva
+- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]] pastate Lietuva
 - [[objektai/grupes/Apaštalų Sostas]] susije_su Lietuva
 - [[objektai/grupes/Atskiri Lietuvos seimai]] susije_su Lietuva
 - [[objektai/asmenys/Augustas]] buvo_valdovas Lietuva
@@ -14230,7 +14204,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/grupes/Hanza]] pastate Lietuva
 - [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Henrikas IV]] buvo_valdovas Lietuva
-- [[objektai/autoriai/Henriką von Rebdorf]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Ivanas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Ivanas (Maskvos valdovas)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]] buvo_valdovas Lietuva
@@ -14240,7 +14213,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Jonas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Jonas Gornostajus]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Jonas Olesnickis]] buvo_valdovas Lietuva
 - [[objektai/grupes/Karaimai]] susije_su Lietuva
@@ -14248,12 +14220,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Karolis (švedų kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Kazimieras (Lietuvos didysis kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Kiška]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] buvo_valdovas Lietuva
 - [[objektai/grupes/Krymo chanatas]] susije_su Lietuva
 - [[objektai/grupes/Kryžiuočių ordinas]] susije_su Lietuva
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Levas (Haličo kunigaikštis)]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Lešekas]] buvo_valdovas Lietuva
 - [[objektai/grupes/Lietuviai]] susije_su Lietuva
 - [[objektai/grupes/Lietuvos Didžiosios Kunigaikštystės Ponų Taryba]] susije_su Lietuva
 - [[objektai/grupes/Lietuvos bajorija]] susije_su Lietuva
@@ -14264,7 +14233,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Mieška]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Lietuva
-- [[objektai/autoriai/Mikšas]] pastate Lietuva
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Mykolas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]] buvo_valdovas Lietuva
@@ -14282,8 +14250,9 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Skirgaila]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Skirmantas]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Steponas]] buvo_valdovas Lietuva
+- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]] buvo_valdovas Lietuva
+- [[objektai/asmenys/Steponas Batoras]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Tautvila]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Tautvilas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Teodoras]] buvo_valdovas Lietuva
@@ -14292,7 +14261,6 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Traidenis I]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vaclovas (Vanka)]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vaitiekus Kiočka]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vaišelga|Vaišelga (kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vasilijus Berezuiskis]] buvo_valdovas Lietuva
@@ -14304,14 +14272,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vosylius I]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Vygandas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Lietuva
 - [[objektai/asmenys/Vytenis]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Zemovitas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Ziemovitas (Mazovijos jaunesnysis kunigaikštis)]] buvo_valdovas Lietuva
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Zigmantas I]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Šich Achmetas]] buvo_valdovas Lietuva
 - [[objektai/asmenys/Šventaragis]] buvo_valdovas Lietuva
@@ -14321,13 +14287,12 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/A. Smetona]] keliavo_i Lietuva
 - [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklause Lietuva
 - [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]] keliavo_i Lietuva
-- [[objektai/asmenys/Albertas (Rygos vyskupas)]] keliavo_i Lietuva
 - [[objektai/asmenys/Aleksandras]] keliavo_i Lietuva
 - [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Lietuva
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]] susije_su Lietuva
+- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Lietuva
 - [[objektai/grupes/Anglai]] keliavo_i Lietuva
-- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Lietuva
 - [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] keliavo_i Lietuva
+- [[objektai/asmenys/Antanas Terleckas]] susije_su Lietuva
 - [[objektai/asmenys/Augustas]] keliavo_i Lietuva
 - [[objektai/vietos/Augustavo gubernija]] priklause Lietuva
 - [[objektai/asmenys/Butrimas]] keliavo_i Lietuva
@@ -14343,19 +14308,19 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Geremferdenas]] keliavo_i Lietuva
 - [[objektai/grupes/Hanza]] priklause Lietuva
 - [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Lietuva
-- [[objektai/asmenys/Ivanas]] keliavo_i Lietuva
 - [[objektai/asmenys/Ivanas Sidorovičius]] keliavo_i Lietuva
 - [[objektai/asmenys/Jadvyga]] keliavo_i Lietuva
 - [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] keliavo_i Lietuva
 - [[objektai/asmenys/Joachimas Pavlovičius]] keliavo_i Lietuva
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Lietuva
 - [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Lietuva
+- [[objektai/asmenys/Jonas Kauneckas]] susije_su Lietuva
+- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]] susije_su Lietuva
 - [[objektai/vietos/Karaliaučius]] priklause Lietuva
 - [[objektai/grupes/Karijotaičiai]] priklause Lietuva
 - [[objektai/grupes/Kariuomenės ir Iždo komisijos]] priklause Lietuva
 - [[objektai/vietos/Kaunas]] priklause Lietuva
 - [[objektai/vietos/Kijevas]] priklause Lietuva
-- [[objektai/asmenys/Konradas]] keliavo_i Lietuva
 - [[objektai/asmenys/Konstantinas (Karijotaitis)]] puole Lietuva
 - [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Lietuva
 - [[objektai/asmenys/Lengvenis]] keliavo_i Lietuva
@@ -14368,6 +14333,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - Lietuva priklause [[objektai/vietos/Podolė]]
 - Lietuva priklause [[objektai/vietos/Užnemunė]]
 - Lietuva priklause [[objektai/vietos/Varšuva]]
+- [[objektai/grupes/Lietuviai]] priklause Lietuva
 - [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause Lietuva
 - [[objektai/asmenys/Liudvikas (Antiochijos patriarchas)]] keliavo_i Lietuva
 - [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] keliavo_i Lietuva
@@ -14376,14 +14342,14 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Lietuva
 - [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Lietuva
 - [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Lietuva
+- [[objektai/asmenys/Motiejus]] keliavo_i Lietuva
 - [[objektai/asmenys/Motiejus iš Blonios]] keliavo_i Lietuva
-- [[objektai/asmenys/Mykolas]] susije_su Lietuva
 - [[objektai/asmenys/Mykolas Rusalka]] keliavo_i Lietuva
 - [[objektai/asmenys/Mykolas Sapienskis]] keliavo_i Lietuva
 - [[objektai/grupes/Nepriklausomų Valstybių Sandrauga]] keliavo_i Lietuva
 - [[objektai/vietos/Osterodė]] priklause Lietuva
-- [[objektai/asmenys/Palemonas]] keliavo_i Lietuva
 - [[objektai/asmenys/Pelužis]] keliavo_i Lietuva
+- [[objektai/asmenys/Petras Cidzikas]] susije_su Lietuva
 - [[objektai/daiktai/Pilaitės kunigaikščių pilis]] priklause Lietuva
 - [[objektai/vietos/Podolė]] priklause Lietuva
 - [[objektai/asmenys/Popiežius Honorijus II]] susije_su Lietuva
@@ -14395,15 +14361,15 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/vietos/Saremos]] priklause Lietuva
 - [[objektai/asmenys/Simonas Rapolovskis]] keliavo_i Lietuva
 - [[objektai/asmenys/Skirgaila]] keliavo_i Lietuva
+- [[objektai/asmenys/Steponas Batoras]] keliavo_i Lietuva
 - [[objektai/vietos/Suvalkų gubernija]] priklause Lietuva
 - [[objektai/grupes/Sūduviai]] puole Lietuva
 - [[objektai/asmenys/Tautvilas]] keliavo_i Lietuva
-- [[objektai/asmenys/Timūr-Kutlukas]] susije_su Lietuva
+- [[objektai/asmenys/Tochtamišas]] susije_su Lietuva
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Lietuva
 - [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] susije_su Lietuva
 - [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Lietuva
 - [[objektai/vietos/Užnemunė]] priklause Lietuva
-- [[objektai/asmenys/Vasilijus]] keliavo_i Lietuva
 - [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Lietuva
 - [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]] keliavo_i Lietuva
 - [[objektai/grupes/Vilniaus miestiečių luomas]] priklause Lietuva
@@ -14412,6 +14378,7 @@ Lietuva čia yra ir politinė valstybė, ir savarankiška teisinė bei instituci
 - [[objektai/asmenys/Vladislovas Vaza]] keliavo_i Lietuva
 - [[objektai/vietos/Voluinė]] priklause Lietuva
 - [[objektai/grupes/Vyriausioji Lietuvos Mokykla]] priklause Lietuva
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Lietuva
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Lietuva
 - [[objektai/zodynas/autokratinė monarchinė imperija]] priklause Lietuva
 - [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]] priklause Lietuva

@@ -22,7 +22,7 @@ Patriarchali­ niuose Lietuvos santykiuose iš buvusiųjų vergų būklėje žmo
   global_id: t-99982
   teiginys: 'XV-XVI a. didžiojo kunigaikščio ir kilmingųjų ūkiuose dvarų bernai buvo žinomi kaip iš buvusių vergų būklės žmonių kilusi nelaisvoji šeimyna.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ Gandai apie Mengli Girėjaus žygį į Ukrainą paskatino Aleksandrą su žmona 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir konkrečiai nusako laiško siuntimo aplinkybes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Krymas; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Krymas; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 

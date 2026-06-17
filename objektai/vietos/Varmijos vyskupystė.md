@@ -33,7 +33,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   global_id: t-02829
   teiginys: '1564 m. Varmijos vyskupas Stanislovas Hozijus atkvietė jėzuitus į Lenkiją ir įkurdino juos Braunsberge.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį sakinį, susiejantį Varmijos vyskupystę su Braunsbergu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Hozijus|Stanislovas Hozijus]]; mentioned_place: Braunsbergas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Hozijus|Stanislovas Hozijus]]; mentioned_place: Braunsbergas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1564 m.; įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį sakinį, susiejantį Varmijos vyskupystę su Braunsbergu.'
@@ -45,7 +45,7 @@ Lenkija atgavo savo Pamarį, Dancigą ir — buvusiam aisčių krašte — Elbin
   global_id: t-02830
   teiginys: '1466 m. Torno taika Varmijos vyskupystę perleido Lenkijai.'
   sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus fakto apie Varmijos vyskupystę.'
-  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Marijenburgas; mentioned_place: Tornas; mentioned_place: Torno'
+  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Marijenburgas; mentioned_place: Tornas; mentioned_place: Torno'
   temporaliniai_duomenys: 'įvykio data: 1466 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpinta iki aiškaus fakto apie Varmijos vyskupystę.'

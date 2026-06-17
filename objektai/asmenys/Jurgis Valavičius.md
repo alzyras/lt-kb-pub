@@ -22,7 +22,7 @@ Jurgis Valavičius su kitais sužeistais pulkų vadais prasiskynė kelią per gi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas, pašalintas puslapio triukšmas ir nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

@@ -28,7 +28,7 @@ Sureguliavus santykius su sąjungininkais, stengiantis išvengti dvejonių dėl 
   global_id: t-21168
   teiginys: 'Sureguliavus santykius su sąjungininkais, Lietuva su Vokietija pasirašė prekybos ir laivininkystės sutartį.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir nutrūkęs, o citata pagrindžia sutarties pasirašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys per ilgas ir nutrūkęs, o citata pagrindžia sutarties pasirašymą.'

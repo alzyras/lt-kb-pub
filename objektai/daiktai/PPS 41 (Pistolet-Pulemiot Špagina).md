@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-39272
   teiginys: 'PPS 41 buvo vienas gausiausiai gamintų Antrojo pasaulinio karo pistoletų-kulkosvaidžių.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį teiginį apie ginklą be perteklinio jungimo su kitu faktu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos partizanai|Lietuvos partizanai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis.md#claim-t-38696|pistoletai-kulkosvaidžiai pistoletas-kulkosvaidis]]: Pistoletas-kulkosvaidis PPS Antrojo pasaulinio karo metu rusų pradėtas kurti ir gaminti kaip paprastesnė PPS-41 alternatyva.

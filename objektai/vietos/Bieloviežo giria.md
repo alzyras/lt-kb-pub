@@ -22,7 +22,7 @@ Vytautas pakvietė Jogailą žiemai į Bieloviežo girią medžioti stumbrų.
   teiginys: 'Vytautas pasikvietė Jogailą žiemai į Bieloviežo girią pramogai medžioti stumbrų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie įvykį Bieloviežo girioje ir tiesiogiai paremtas citata. Titulai nėra kartojami, todėl papildoma atribucija nereikalinga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Lietuva; mentioned_place: Luckas'
   pagrindžia:
     - c-001
 

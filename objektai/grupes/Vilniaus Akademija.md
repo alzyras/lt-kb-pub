@@ -27,7 +27,7 @@ amziai:
   global_id: t-31370
   teiginys: 'Albertas Vijūkas Kojalavičius buvo Vilniaus Akademijos profesorius ir vėliau išryškėjo kaip žymus Lietuvos istorikas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Vilniaus Akademijos profesorių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -34,7 +34,6 @@ Kartais buvo šaudoma „šachmatine“ tvarka (vienu metu - kas antras).
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į aiškų enciklopedinį sakinį be kabučių ir skliaustinio fragmento.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]'
   pagrindžia:
     - c-002
 

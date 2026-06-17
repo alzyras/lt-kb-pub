@@ -34,7 +34,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
 - t-001
   global_id: t-78742
   teiginys: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite buvo teksto apie Lietuvos partizanų mūšius bendraautoris.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -43,7 +43,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   global_id: t-78743
   teiginys: 'Arvydas Anušauskas yra teksto „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autorius.'
   sudarymo_pagrindimas: 'Citata pateikia autoriaus vardą prie teksto pavadinimo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -64,7 +64,7 @@ Arvydas Anušauskas šiame leidinyje minimas kaip straipsnio apie žymiausius Li
   global_id: t-78745
   teiginys: 'Arvydas Anušauskas kartu su Karoliu Zikaru ir Loreta Uzdraite parengė tekstą „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“.'
   sudarymo_pagrindimas: 'Sąrašo įrašas perrašytas į pilną faktinį sakinį apie autorių.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

@@ -32,13 +32,13 @@ lietuvių didikai jau turėjo prilygti Vakarų Europos riteriams, tai iliustruoj
   global_id: t-39597
   teiginys: '1329 m. lietuvių didikas Margalis dvikovoje susirėmė su Čekijos karaliumi Jonu Liuksemburgiečiu.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Margalio dvikovą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_place: Europa; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Europa; mentioned_place: Čekija'
   temporaliniai_duomenys: 'įvykio data: 1329 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą apie Margalio dvikovą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186836|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-66653
   teiginys: 'Istoriografijoje laikomasi nuomonės, kad Dusburgietis perdėjo Kulmo žemės nusiaubimo mastą.'
   sudarymo_pagrindimas: 'Citata remia interpretacinį teiginį, ne pradinį fragmentą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Mazovija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Mazovija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1216 m.; įvykio data: 1217 m.; įvykio data: 1220 m.; įvykio data: 1226 m.; įvykio data: 1230 m.; įvykio data: 1231 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia interpretacinį teiginį, ne pradinį fragmentą.'

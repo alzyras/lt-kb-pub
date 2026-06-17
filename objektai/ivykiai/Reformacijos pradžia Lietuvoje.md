@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-20460
   teiginys: 'Abraomas Kulvietis siekė lietuvių kalbą padaryti švietimo sistemos pagrindu ir išugdyti lietuvių inteligentiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiksliai perteikia citatos informaciją.'

@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1298 m. birželio 29 d. Prūsijos ir Livonijos ordino pajėgos nukovė per 4 tūkst. Rygos miestiečių ir lietuvių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citatoje nurodyta data bei aukų skaičiumi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Goliubo pilis; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Goliubo pilis; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: 1298 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, konkretus ir paremtas citatoje nurodyta data bei aukų skaičiumi.'

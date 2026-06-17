@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-66479
   teiginys: 'Bartenšteino pilyje buvo apsupta 400 brolių ir ginklanešių, o prūsai aplink pilį įrengė tris kuorus su 1300 karių.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą apsuptą įgulą ir prūsų kuorus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-001
 
@@ -68,7 +68,7 @@ Nenurodyta
   global_id: t-66480
   teiginys: 'Broliai su 150 vyrų užgrobė prūsų katilą, sugriovė tris kuorus, o iš 1300 jų gynėjų mirties išvengė tik nedaugelis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos informaciją apie katilą, kuorus ir gynėjus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Nenurodyta
   global_id: t-66481
   teiginys: 'Bartenšteino pilį palikę broliai pasitraukė į Karaliaučių ir Elbingą, o priešai vėliau įsibrovė į pilį ir ją panaudojo puldinėjimams.'
   sudarymo_pagrindimas: 'Citata palaiko pilies apleidimą ir vėlesnį priešų įsibrovimą, pradinį teiginį reikia išvalyti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-004
 

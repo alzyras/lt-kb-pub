@@ -34,7 +34,7 @@ Torunės komtūras Liudvikas kurstė brolių nesantaiką ir skatino Švitrigail�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o pradinėje formoje yra OCR klaida ir perteklinis kontekstas.'
-  susije_objektai: 'location: Torunė; location: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė; mentioned_place: Vilnius'
+  susije_objektai: 'location: Torunė; location: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Torunės komtūras)|Liudvikas (Torunės komtūras)]] gyveno Torunė; [[objektai/asmenys/Liudvikas (Torunės komtūras)|Liudvikas (Torunės komtūras)]] gyveno Vilnius'
   pagrindžia:
     - c-002

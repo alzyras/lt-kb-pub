@@ -22,7 +22,7 @@ Vėliau Lietuvos metropolitu pradė­ jo skaitytis Gniezno arkivyskupas, bet iš
   global_id: t-35043
   teiginys: 'Šaltinio vertinimu, XVII a. pabaigoje Vilniaus vyskupas Bžostovskis juridiškai buvo teisus atsisakydamas klausyti Gniezno arkivyskupo.'
   sudarymo_pagrindimas: 'Teiginys perteikia šaltinio juridinį vertinimą, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46005|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos datuojamos 1767 m. ir siejamos su Apšvietos epochos pradžia.

@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-66993
   teiginys: 'Pagal Dlugošo pasakojimą, prieš mirtį Vytautas Lietuvą pavedė Jogailai ir liepė jam atiduoti raktus nuo iždo ir pilių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia Dlugošo pasakojimu paremtą faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 

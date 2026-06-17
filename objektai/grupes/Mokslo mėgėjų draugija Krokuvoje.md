@@ -22,7 +22,7 @@ Iš Krokuvos atėjo į Vilnių prašymas, kad arčiau lietuvių stovįs universi
   global_id: t-01420
   teiginys: 'Mokslo mėgėjų draugija Krokuvoje prašė Vilniaus universiteto patyrinėti lietuvių praeitį ir jai apie tai pranešti.'
   sudarymo_pagrindimas: 'Pašalinta šaltinio frazės konstrukcija ir suformuluotas aiškus faktinis teiginys apie draugiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Rėza|Rėza]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

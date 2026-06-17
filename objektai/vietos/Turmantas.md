@@ -31,7 +31,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
   global_id: t-80250
   teiginys: '4-osios baterijos būrys laikė Aukštakalnio-Salako-Kiemionių liniją ir turėjo pulti Turmanto kryptimi.'
   sudarymo_pagrindimas: 'Pašalintas pašalinis granatos aprašymas ir OCR triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ Delsiklis granatą detonuoja po 4 sekundžių 4-osios baterijos būrys), laikė 
 - t-003
   global_id: t-80251
   teiginys: 'Kariuomenės dalinys, laikęs liniją Aukštakalnis-Salakas-Kiemionys, turėjo pulti Turmanto kryptimi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/1-asis pėstininkų pulkas.md#claim-t-78158|1-asis pėstininkų pulkas]]: 1-ojo pėstininkų pulko batalionui parėmus puolimą, buvo užimta Turmanto geležinkelio stotis ir seni vokiečių apkasai.

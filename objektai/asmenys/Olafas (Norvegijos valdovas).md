@@ -10,7 +10,6 @@ tags:
   - karalius
   - krikštas
   - kunigaikštis
-  - valdovas
 ---
 # Olafas (Norvegijos valdovas)
 
@@ -25,7 +24,7 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   global_id: t-19180
   teiginys: 'Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, citata palaiko aiškų faktą apie Olafą.'
-  susije_objektai: 'territory: Islandija; territory: Kijevas; territory: Kijevo Rusia; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Švedija; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  susije_objektai: 'territory: Islandija; territory: Kijevas; territory: Kijevo Rusia; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Švedija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Islandija; [[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Kijevas; [[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Lenkija; [[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Lietuva; [[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Prūsija; [[objektai/asmenys/Olafas (Norvegijos valdovas)|Olafas (Norvegijos valdovas)]] buvo valdovas Švedija'
   temporaliniai_duomenys: 'valdymo pradžia: 997 m'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Islandija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (Norvegijos valdovas) buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'

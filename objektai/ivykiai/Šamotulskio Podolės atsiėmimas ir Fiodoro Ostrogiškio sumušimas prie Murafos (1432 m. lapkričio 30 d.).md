@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia veiksmų eigą, o pradinis teiginys nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Braclavas; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Braclavas; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -64,7 +64,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinį sakinį reikia patikslinti, nes jame neįvardyti kovoję veikėjai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Lvovas'
+  susije_objektai: 'mentioned_place: Lvovas'
   temporaliniai_duomenys: 'mūšio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinį sakinį reikia patikslinti, nes jame neįvardyti kovoję veikėjai.'

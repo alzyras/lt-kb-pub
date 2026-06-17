@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-66564
   teiginys: 'Grįžtančią lietuvių kariuomenę tarp Luko ir Narevo užpuolė broliai, nukovę 350 žmonių; kiti žuvo dykroje.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir palikta citata paremta įvykio esmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Bebras; mentioned_place: Lukas; mentioned_place: Narevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Bebras; mentioned_place: Lukas; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 

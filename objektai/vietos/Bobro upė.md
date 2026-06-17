@@ -22,7 +22,7 @@ Aleksandras prie Bobro upės sužinojo apie pralaimėjimą ir Obolcuose įrengė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau ir aiškiau, išlaikant tik citatos palaikomus faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]'
   pagrindžia:
     - c-001
 

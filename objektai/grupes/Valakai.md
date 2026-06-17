@@ -22,7 +22,7 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   global_id: t-92846
   teiginys: 'Vytauto kariuomenėje buvo lietuvių, žemaičių, vokiečių, lenkų, totorių, rusų ir valakų.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškus faktas apie valakus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -30,7 +30,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
 - t-002
   global_id: t-92847
   teiginys: 'Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
   pagrindžia:
     - c-004
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.

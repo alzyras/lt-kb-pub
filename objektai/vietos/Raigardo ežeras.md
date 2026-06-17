@@ -22,7 +22,7 @@ tags:
 - t-001
   global_id: t-32497
   teiginys: 'Raigardo ežeras buvo perpus dalijamas aprašytos sienos linijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lukas; mentioned_place: Merūniškiai'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lukas; mentioned_place: Merūniškiai'
   pagrindžia:
     - c-001
 

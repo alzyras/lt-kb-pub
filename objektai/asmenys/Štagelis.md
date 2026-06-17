@@ -30,7 +30,7 @@ Garsėjo: Volfgangas Auksakalys - 1522 m., Štagelis - 1530 m.
   global_id: t-87935
   teiginys: 'Štagelis Vilniuje garsėjo kaip auksakalys 1530 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie Štagelį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_person: [[objektai/asmenys/Volfgangas Auksakalys|Volfgangas Auksakalys]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Volfgangas Auksakalys|Volfgangas Auksakalys]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1522 m.; įvykio data: 1530 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį apie Štagelį.'

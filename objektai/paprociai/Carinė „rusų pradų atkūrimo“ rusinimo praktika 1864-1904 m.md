@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-54214
   teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti rusai mokytojai.'
   sudarymo_pagrindimas: 'Teiginys aiškiau susiejamas su note objektu ir pašalinamas perteklinis formuluotės neapibrėžtumas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-54215
   teiginys: 'Rusinimo politikos 1864–1904 m. ėmėsi Vilniaus generalgubernatorius M. Muravjovas, pasitelkęs Ivaną Kornilovą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1864-1904; įvykio data: 1904 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiesiogiai paremtas citata.'
@@ -72,7 +72,7 @@ Nenurodyta
 - t-003
   global_id: t-54216
   teiginys: 'Rusintojai siekė „lenkų pradų naikinimo“ politiką papildyti „rusų pradų atkūrimu“, nes separatizmą siejo su vietos bajorija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
   pagrindžia:
     - c-001
 
@@ -81,7 +81,7 @@ Nenurodyta
   global_id: t-54217
   teiginys: 'Carinėje „rusų pradų atkūrimo“ praktikoje lietuvių kalba nebuvo įleista į švietimo įstaigas, o „rusų pradus“ turėjo diegti iš Rusijos gilumos atvykę rusai mokytojai.'
   sudarymo_pagrindimas: 'Perrašymas tiksliau perteikia citatos informaciją apie mokytojų kilmę ir vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -90,7 +90,7 @@ Nenurodyta
   global_id: t-54218
   teiginys: 'Rusintojai tikėjosi laimėti, kai „lenkų pradų naikinimo“ politiką papildys „rusų pradų atkūrimo“ politika.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo negrabios sintaksės; citata leidžia aiškiai suformuluoti mintį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
   pagrindžia:
     - c-001
 

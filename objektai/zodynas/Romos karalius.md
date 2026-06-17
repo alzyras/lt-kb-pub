@@ -22,7 +22,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-001
   global_id: t-36751
   teiginys: 'Romos karalius laikytas galinčiu karūnuoti ir kurti karalystes be popiežiaus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 
@@ -30,7 +30,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-002
   global_id: t-36752
   teiginys: 'Krokuvos profesoriai teigė, kad Romos karalius Zigmantas negalėjo suteikti karūnos, nes pats nebuvo gavęs ciesoriaus titulo iš popiežiaus.'
-  susije_objektai: 'territory: Krokuva; mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.

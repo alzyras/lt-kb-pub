@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-87634
   teiginys: 'Bernardas Zanobijus buvo romietis mūrijimo meistras, sudaręs sutartį dėl Šv. Stanislovo katedros permūrijimo nuo 1536 m.'
   sudarymo_pagrindimas: 'Citata patvirtina Bernardo Zanobijaus kilmę, amatą ir sutarties objektą, bet pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Bernardas|Bernardas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1536 m.; įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina Bernardo Zanobijaus kilmę, amatą ir sutarties objektą, bet pradinė formuluotė nutrūkusi.'

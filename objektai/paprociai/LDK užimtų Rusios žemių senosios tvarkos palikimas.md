@@ -52,7 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-54269
   teiginys: 'LDK užimtuose kraštuose lietuviai iš pradžių nekeisdavo susiklosčiusios tvarkos ir palikdavo senąsias kunigaikštijų struktūras.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“|„senovės negriauname, naujovių neįvedame“]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„senovės negriauname, naujovių neįvedame“|„senovės negriauname, naujovių neįvedame“]]'
   pagrindžia:
     - c-001
 

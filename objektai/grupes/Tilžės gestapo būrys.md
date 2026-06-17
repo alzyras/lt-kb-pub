@@ -27,7 +27,7 @@ Specialiosios SD grupės (Tilžės gestapo būrys) 1941 m. birželio 24 d. suša
   global_id: t-20049
   teiginys: 'Tilžės gestapo būrys 1941 m. birželio 24–27 d. Gargžduose, Kretingoje ir Palangoje sušaudė 526 žydus.'
   sudarymo_pagrindimas: 'Teiginys tiksliai susieja veikėją, laiką, vietas ir aukų skaičių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Gargždai; mentioned_place: Kretinga; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Tilžė; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Gargždai; mentioned_place: Kretinga; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Tilžė; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai susieja veikėją, laiką, vietas ir aukų skaičių.'

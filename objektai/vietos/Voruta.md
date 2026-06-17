@@ -22,7 +22,7 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   teiginys: 'Lietuvos metraštis Vorutą vaizduoja kaip pilį, kurioje Mindaugas užsidarė vengdamas kautis atvirame lauke.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Vaizdavimas yra interpretacinis, todėl pridėta šaltinio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,6 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   teiginys: 'Mindaugas, nenorėdamas kautis atvirame lauke, užsidarė pilyje Vorutoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,6 @@ Mindaugas užsidarė pilyje-vorutoje. Voruta šiame gabale vaizduojama kaip gyny
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-187709|Jotvingiai]]: Lietuvos metraštyje Mindaugo svainis po Mindaugo pasitraukimo į Vorutos pilį naktį išvaikė rusus ir jotvingius.

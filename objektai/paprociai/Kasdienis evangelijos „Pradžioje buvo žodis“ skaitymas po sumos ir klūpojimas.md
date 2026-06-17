@@ -43,7 +43,7 @@ Nenurodyta
   teiginys: 'Didysis magistras Verneris nustatė, kad kunigai kasdien po sumos skaitytų evangeliją „Pradžioje buvo žodis“.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir su antraštės triukšmu; citata palaiko nutarimą dėl kasdienio evangelijos skaitymo.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Pradžioje buvo žodis|Pradžioje buvo žodis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]'
   pagrindžia:
     - c-001
 

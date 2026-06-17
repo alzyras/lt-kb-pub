@@ -40,7 +40,7 @@ Dusburgietis teigia, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno, 
   global_id: t-60989
   teiginys: '„Lietuvos TSR istorijoje“ neaiškiai minima, kad prūsus ir vakarinius lietuvius tarp Vyslos ir Nemuno skyrė Persantės upė.'
   sudarymo_pagrindimas: 'Reikia pataisyti šaltinio pavadinimo formą ir pašalinti nesklandžią konstrukciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Jurginis J|Jurginis J]]; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jurginis J|Jurginis J]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 

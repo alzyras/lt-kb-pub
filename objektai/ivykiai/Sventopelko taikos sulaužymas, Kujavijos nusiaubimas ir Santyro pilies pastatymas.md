@@ -41,7 +41,7 @@ Nenurodyta
   teiginys: 'Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Santyro pilies pastatymą, o pradinis teiginys cituoja kalbą ir yra perkrautas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Nogatas; mentioned_place: Santyras; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Nogatas; mentioned_place: Santyras; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 

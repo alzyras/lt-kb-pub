@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-35870
   teiginys: '1424 m. Niešavoje sudaryta prekybos sutartis „über transitus“ nustatė laisvą tranzitinę prekybą tarp kelių kraštų pirklių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Niešava; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Niešava; mentioned_place: Rusija'
   temporaliniai_duomenys: 'sutarties data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

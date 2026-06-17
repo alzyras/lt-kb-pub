@@ -34,7 +34,6 @@ VYČIO APYGARDOS vadas Alfonsas Smetona-Žygaudas (1915-1950), buvęs policinink
   global_id: t-41203
   teiginys: '1948 m. Alfonsas Smetona-Žygaudas tapo Vyčio apygardos vadu po Jono Krištaponio ir Danieliaus Vitelio-Briedžio žūties.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie Vyčio apygardos vadą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]'
   temporaliniai_duomenys: 'įvykio data: po 1944 m.; įvykio data: 1944 m.; įvykio data: 1948 m.; įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie Vyčio apygardos vadą.'

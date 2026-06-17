@@ -33,7 +33,7 @@ Jonas II, iš Lietuvos kunigaikščių, karaliaus Zigmanto I tikras sūnus, 1519
   global_id: t-87718
   teiginys: 'Jonas II, karaliaus Zigmanto I sūnus, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją ir mirė 1538 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas; citata leidžia suformuluoti aiškesnį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1519 m.; įvykio data: 1536 m.; įvykio data: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys gremėzdiškas; citata leidžia suformuluoti aiškesnį sakinį.'

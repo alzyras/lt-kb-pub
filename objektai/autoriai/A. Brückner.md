@@ -32,7 +32,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
 - t-001
   global_id: t-64507
   teiginys: 'A. Brückner parašė Dzieje kultury polskiej pirmą tomą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Jungfer|V. Jungfer]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   global_id: t-64508
   teiginys: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
   sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį nei vien priskyrimą istorikų kartai.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Fr. Papée|Fr. Papée]]'
+  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   global_id: t-64509
   teiginys: 'Al. Brückner pagonių lietuvių kultūrą laikė gana žema.'
   sudarymo_pagrindimas: 'Teiginys tinkamai perteikia citatoje nurodytą Brücknerio vertinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 

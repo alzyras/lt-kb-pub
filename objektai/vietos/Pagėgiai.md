@@ -31,7 +31,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
   global_id: t-41997
   teiginys: 'Pagėgių sukilėlių grupę sudarė 3 kuopos, kuriose buvo 13 karininkų, 180 kareivių ir 250 šaulių.'
   sudarymo_pagrindimas: 'Citata leidžia pateikti konkretesnį faktą apie Pagėgių grupę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Šilutė'
+  susije_objektai: 'mentioned_place: Šilutė'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - t-003
   global_id: t-41998
   teiginys: 'Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.'
-  susije_objektai: 'location: Šilutė; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Šilutė'
+  susije_objektai: 'location: Šilutė; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Šilutė'
   pagrindžia:
     - c-003
 

@@ -49,7 +49,7 @@ vasarį „abu lietuvių karaliai“ puolė Prūsijoje Rastenburgą, niokojo Bar
   global_id: t-79721
   teiginys: 'Baigos komtūras Ditrichas iš Altenburgo pastatė Lunenburgo pilį Bartos žemėje, Gubros ir Sainos santakoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo statytoją, objektą ir vietą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Saina'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Altenburgo|Ditrichas iš Altenburgo]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Ilienburgas; mentioned_place: Kristburgas; mentioned_place: Saina'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.

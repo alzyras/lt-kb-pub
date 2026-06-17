@@ -22,7 +22,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   global_id: t-68827
   teiginys: 'Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiksliai paremtas citata apie Nogato geografinę padėtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Aismares; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Aismares; mentioned_place: Vysla'
   pagrindžia:
     - c-003
 
@@ -39,7 +39,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
 - t-003
   global_id: t-68829
   teiginys: 'Nogatu buvo plaukiama iš Aistmarių į Vyslą prekybos keliu, kuriuo Lietuvos prekės galiausiai pasiekdavo Dancigą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_place: Dancigas; mentioned_place: Deimena; mentioned_place: Labguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Deimena; mentioned_place: Labguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.

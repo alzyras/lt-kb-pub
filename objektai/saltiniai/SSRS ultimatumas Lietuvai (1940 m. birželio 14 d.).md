@@ -27,7 +27,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   global_id: t-75516
   teiginys: 'Birželio 15-osios naktį Lietuvos vyriausybė svarstė, ar priešintis okupacijai, ar priimti SSRS ultimatumą.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir aiškiau susietas su SSRS ultimatumu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-002
 
@@ -35,7 +35,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
 - t-002
   global_id: t-75517
   teiginys: '1940 m. birželio 14 d. vakare J. Urbšys iš V. Molotovo gavo ultimatumą, kuriuo Lietuvai pareikalauta įsileisti neribotus sovietų karinius dalinius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Merkys'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Merkys'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -46,7 +46,7 @@ Smetonos laiškas sovietų prezidentui Michailui Kalininui, nei dviejų aukštų
   global_id: t-75518
   teiginys: 'Prieš invaziją sovietai pradėjo Baltijos šalių oro ir jūrų blokadą, o birželio 15-osios paryčiais atakavo kelis Lietuvos pasienio postus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Anglija; mentioned_place: Baltija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Anglija; mentioned_place: Baltija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 

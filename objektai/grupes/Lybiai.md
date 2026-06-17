@@ -42,7 +42,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-003
   global_id: t-96813
   teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
-  susije_objektai: 'location: Baltija; location: Dauguva; location: Kuršas; location: Latgalija; location: Latvija; location: Vidžemė; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
+  susije_objektai: 'location: Baltija; location: Dauguva; location: Kuršas; location: Latgalija; location: Latvija; location: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
   semantiniai_rysiai: '[[objektai/grupes/Lybiai|Lybiai]] gyveno Baltija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Dauguva; [[objektai/grupes/Lybiai|Lybiai]] gyveno Kuršas; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latgalija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latvija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Vidžemė'
   pagrindžia:
     - c-001

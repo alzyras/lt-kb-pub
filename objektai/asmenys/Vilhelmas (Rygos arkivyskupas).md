@@ -22,7 +22,7 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip savarankiškas faktinis sakinys apie asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Rygos arkivyskupas Vilhelmas priešinosi Fiurstenbergo veiksmams prieš bažnyč
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turėjo neaiškų veikėją; citata leidžia formuluoti faktą apie Vilhelmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kuoknesė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kuoknesė; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

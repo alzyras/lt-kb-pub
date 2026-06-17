@@ -21,7 +21,7 @@ Netrukus pradėjo eiti „Vienybė Lietuvininkų" ir vargonininko Bačkausko Tam
   global_id: t-01017
   teiginys: 'Vargonininkas Bačkauskas Tamošauskas redagavo laikraštį „Saulė“, kuris pradėjo eiti netrukus po „Vienybės Lietuvininkų“.'
   sudarymo_pagrindimas: 'Perrašymas aiškiau nurodo asmens veiksmą ir pašalina OCR klaidą laikraščio pavadinime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 

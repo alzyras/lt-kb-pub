@@ -22,7 +22,7 @@ Vis dėlto aukų nebuvo išvengta: sargyboje žuvo Dzūkų būrio partizanas Vac
   global_id: t-40873
   teiginys: 'Sargyboje žuvo Daukšių būrio kovotojai Alfonsas Kirtiklis, Juozas Laukaitis ir dar šeši laisvės kovotojai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Daukšių būrio kovotojus ir jų žūties aplinkybę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Daukšiai'
+  susije_objektai: 'mentioned_place: Daukšiai'
   pagrindžia:
     - c-001
 

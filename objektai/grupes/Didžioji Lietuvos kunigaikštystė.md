@@ -11,7 +11,6 @@ tags:
   - karalius
   - tauta
   - valdovas
-  - valstybė
 ---
 # Didžioji Lietuvos kunigaikštystė
 
@@ -35,7 +34,7 @@ tags:
   global_id: t-96096
   teiginys: 'Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.'
   sudarymo_pagrindimas: 'Pašalinti citatos ir OCR artefaktai, išlaikant pagrindinį citata paremtą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Viena'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/zodynas/dominija.md#claim-t-173017|dominija]]: Dokumente numatyta, kad po Vytauto mirties Didžioji Lietuvos Kunigaikštystė ir jos dominijos turi tekti Jogailai ir Lenkijai.

@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87307
   teiginys: '1536 m. Žygimantas Senasis nustatė, kad Vilniaus magistratą sudarytų po lygiai katalikų ir stačiatikių burmistrai bei tarybos nariai.'
   sudarymo_pagrindimas: 'Citata palaiko konkretesnį faktą apie mišrią magistrato sudėtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1536 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretesnį faktą apie mišrią magistrato sudėtį.'

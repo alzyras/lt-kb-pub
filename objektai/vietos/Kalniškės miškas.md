@@ -31,7 +31,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   global_id: t-171634
   teiginys: '1945 m. gegužės 16 d. Kalniškės miške apie 90 partizanų puolė NKVD kariuomenės 220-asis Kutuzovo ordino pulkas.'
   sudarymo_pagrindimas: 'Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Buiničius|Buiničius]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Buiničius|Buiničius]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta su taisyklinga vietovardžio forma ir išlaikytais citatos faktais.'
@@ -43,7 +43,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   global_id: t-171635
   teiginys: '1944 m. Jonas Neifalta su žmona pasitraukė į Kalniškės mišką ir pradėjo vadovauti iš gimtinės kaimų suburtiems vyrams.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]'
   temporaliniai_duomenys: 'įvykio data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Joną Neifaltą su Kalniškės mišku ir yra pagrįstas citata.'
@@ -55,7 +55,7 @@ Kartu su žmona 1944 m. jis pasitraukė į Kalniškės mišką, kur pradėjo vad
   global_id: t-171636
   teiginys: 'Kalniškės miškas tęsiasi apie kilometrą už Krosnos Lazdijų link ir yra 3–4 km pločio bei apie 8 km ilgio kalvotas mišrus miškas.'
   sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Krosna; mentioned_place: Lazdijai; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Krosna; mentioned_place: Lazdijai; mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į sklandesnį sakinį, išlaikant citatoje nurodytą vietą ir apibūdinimą.'

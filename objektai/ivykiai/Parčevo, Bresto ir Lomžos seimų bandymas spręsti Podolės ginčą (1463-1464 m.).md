@@ -41,7 +41,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra apie autoriaus spėjimą, todėl palikta atribucija ir sutvarkyta kalba.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Parčevas; mentioned_place: Podolė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Parčevas; mentioned_place: Podolė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

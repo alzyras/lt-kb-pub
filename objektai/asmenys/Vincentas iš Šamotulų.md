@@ -22,7 +22,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkyta OCR klaida ir pašalinta nereikalinga įžanga.'
-  susije_objektai: 'territory: Braclavas; territory: Lvovas; territory: Viena; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Fiodoras|Fiodoras]]; mentioned_place: Braclavas; mentioned_place: Lvovas; mentioned_place: Viena'
+  susije_objektai: 'territory: Braclavas; territory: Lvovas; territory: Viena; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Braclavas; mentioned_place: Lvovas; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Braclavas; [[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Lvovas; [[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Viena'
   pagrindžia:
     - c-001
@@ -35,7 +35,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant neaiškią formuluotę ir išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]'
   pagrindžia:
     - c-002
 

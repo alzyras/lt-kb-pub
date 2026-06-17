@@ -28,7 +28,7 @@ Populiariausiu tapo nuo 1896 m. leistas „Tėvynės sargas“, kurio spiritus m
   global_id: t-22304
   teiginys: '1896 m. pradėto leisti „Tėvynės sargo“ spiritus movens buvo jaunas kunigas Juozas Tumas-Vaižgantas.'
   sudarymo_pagrindimas: 'Reikia sutrumpinti ir pašalinti perteklinį vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]; mentioned_person: [[objektai/asmenys/Juozas Tumas-Vaižgantas|Juozas Tumas-Vaižgantas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Juozas Tumas-Vaižgantas|Juozas Tumas-Vaižgantas]]'
   temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sutrumpinti ir pašalinti perteklinį vertinimą.'

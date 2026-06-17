@@ -22,7 +22,7 @@ Slupskis Brastoje davė palūkanų nuo filipkų 38 lietuviškus gra­ šius.
   global_id: t-86525
   teiginys: 'Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie filipkas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]; mentioned_place: Brasta; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]; mentioned_place: Brasta; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

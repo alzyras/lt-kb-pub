@@ -28,7 +28,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-001
   global_id: t-114001
   teiginys: '1579 m. kovo 6 d. Valerijonas Protasevičius fundacijos teise užrašė Akademijai ir kolegijai tris mūrinius namus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,10 +39,10 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114002
   teiginys: '1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą.'
-  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/bursa|bursa]]'
+  susije_objektai: 'object: Vilnius; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius'
   temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė bursa“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą.'
   pagrindžia:
     - c-013
@@ -52,7 +52,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114003
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius paprieštaravo, kad į sutartį būtų įtraukta sąlyga dėl Augustino tikėjimo laisvo išpažinimo.'
   sudarymo_pagrindimas: 'Pašalinta dokumento kalbos fragmentiškumas ir aiškiai įvardyta ginčyta sąlyga.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -60,7 +60,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-004
   global_id: t-114004
   teiginys: 'Vilniaus vyskupas Valerijonas Protasevičius siekė sutrukdyti protestantų ketinimui įkurti kolegiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -69,7 +69,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114005
   teiginys: 'Valerijonas Protasevičius įsakė surinktas disidentų knygas viešai deginti priešais Šv. Jono bažnyčią.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Protasevičiaus įsakymą ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-003
 
@@ -78,7 +77,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114006
   teiginys: 'Valerijonas Protasevičius 1556 m. buvo perkeltas į Vilniaus katedrą ir mirė 1579 m. gruodžio 21 d.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia perkėlimą į Vilniaus katedrą ir mirties datą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1556 m.; įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia perkėlimą į Vilniaus katedrą ir mirties datą.'
@@ -90,7 +89,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114007
   teiginys: 'Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citata tiesiogiai pagrįstas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-015
 
@@ -98,7 +97,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-008
   global_id: t-114008
   teiginys: 'Valerijonas Protasevičius paprieštaravo, kad religijos laisvės sąlyga būtų įtraukta į sutartį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -107,8 +106,8 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114009
   teiginys: 'Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/bursa|bursa]]; object: [[objektai/zodynas/diecezija|diecezija]]; object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/bursa|bursa]]; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/diecezija|diecezija]]; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/įpėdinis|įpėdinis]]'
+  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/įpėdinis|įpėdinis]]'
   pagrindžia:
     - c-005
 
@@ -117,7 +116,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114010
   teiginys: 'Valerijonas Protasevičius siekė užbėgti už akių protestantų ketinimui Vilniuje įkurti kolegiją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Valerijono Protasevičiaus veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Valerijono Protasevičiaus veiksmą.'
@@ -129,7 +128,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114011
   teiginys: '1579 m. Vilniuje duotą Bursos įkūrėjo atminimo aktą vyskupas Valerijonas pasirašė savo ranka.'
   sudarymo_pagrindimas: 'Citata mini akto datą, vietą ir įrašą, kad vyskupas Valerijonas pasirašė savo ranka.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata mini akto datą, vietą ir įrašą, kad vyskupas Valerijonas pasirašė savo ranka.'
@@ -140,7 +139,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-012
   global_id: t-114012
   teiginys: 'Valerijonas Protasevičius buvo Vilniaus vyskupas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -149,7 +148,6 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114013
   teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino valdovą su jomis nesutikti.'
   sudarymo_pagrindimas: 'Fragmentas pradėtas nuo konteksto; citata leidžia suformuoti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dominija|dominija]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   pagrindžia:
     - c-007
 
@@ -158,10 +156,10 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114014
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/bursa|bursa]]'
+  susije_objektai: 'object: Vilnius; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius'
   temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė bursa“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-013
@@ -170,7 +168,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 - t-015
   global_id: t-114015
   teiginys: 'Valerijonas Protasevičius atmetė katalikų tikėjimui prieštaraujančias sąlygas ir ragino su jomis nesutikti.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
   pagrindžia:
     - c-014
 
@@ -179,7 +177,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114016
   teiginys: '1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi citatos formuluote.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius; mentioned_place: Šv. Jonų bažnyčia'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius; mentioned_place: Šv. Jonų bažnyčia'
   temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1850 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir remiasi citatos formuluote.'
@@ -191,7 +189,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114017
   teiginys: 'Valerijonas Protasevičius 1569 metais pirmasis pakvietė jėzuitų ordiną į Vilnių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir perteiktas pagrindinis citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -200,7 +198,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114018
   teiginys: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
   sudarymo_pagrindimas: 'Pradinis teiginys triukšmingas; perrašyta į glaustą sakinį apie asmens veiksmą.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] buvo valdovas Vilnius'
   pagrindžia:
     - c-005
@@ -570,6 +568,4 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
 ## Ryšiai
 - Valerijonas Protasevičius (vyskupas) buvo_valdovas [[objektai/vietos/Vilnius]]
 - Valerijonas Protasevičius (vyskupas) pastate [[objektai/vietos/Vilnius]]
-- Valerijonas Protasevičius (vyskupas) pastate [[objektai/zodynas/bursa]]
-- Valerijonas Protasevičius (vyskupas) pastate [[objektai/zodynas/diecezija]]
 - Valerijonas Protasevičius (vyskupas) pastate [[objektai/zodynas/įpėdinis]]

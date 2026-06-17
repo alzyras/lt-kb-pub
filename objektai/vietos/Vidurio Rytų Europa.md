@@ -21,7 +21,7 @@ LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavi
   global_id: t-15343
   teiginys: 'LDK išsiskiria iš Vidurio Rytų Europos regiono daugiakonfesiškumo legitimavimo ar juridinio įforminimo sparta.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiesiogiai paremtas citata apie Vidurio Rytų Europą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/daugiakonfesiškumas|daugiakonfesiškumas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Europa; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

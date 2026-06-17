@@ -21,7 +21,7 @@ tags:
   global_id: t-21706
   teiginys: 'Nacių valdžios laikotarpiu kartais buvo sudeginami ištisi kaimai, tarp jų Pirčiupiai.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo ne iki galo sklandus, todėl suformuluotas aiškus faktas apie Pirčiupius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-23463
   teiginys: 'Religinėse manifestacijose maldininkai įsigydavo nelegaliai išspausdintų maldaknygių, katekizmų ir Šventojo Rašto leidinių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nemini objekto, o citata aiškiai palaiko sakinį apie nelegalią religinę literatūrą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kryžių kalnas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Kryžių kalnas'
   temporaliniai_duomenys: 'įvykio data: 1993 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nemini objekto, o citata aiškiai palaiko sakinį apie nelegalią religinę literatūrą.'

@@ -12,6 +12,7 @@ datos:
   - '1965 m.'
   - '1972 m.'
   - '1989 m.'
+  - '1990 m.'
   - '2026 m.'
 date_start: '1924'
 date_end: '2026'
@@ -39,7 +40,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78352
   teiginys: '1989 m. gruodį Vilniuje įvykęs LKP XX suvažiavimas turėjo didelę įtaką Lietuvos komunistų partijos veiklai.'
   sudarymo_pagrindimas: 'Patikslintas objektas, kad teiginys aiškiai sietųsi su note pavadinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas objektas, kad teiginys aiškiai sietųsi su note pavadinimu.'
@@ -72,7 +73,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78355
   teiginys: 'Per Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-011
 
@@ -81,7 +82,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78357
   teiginys: 'LKP atsiskyrus nuo SSKP, atsirado nacionalinė eurokomunistinio tipo partija su reformuota programa ir nauju statutu.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, kas atsirado po LKP atsiskyrimo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/eurokomunistinio tipo partija|eurokomunistinio tipo partija]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/eurokomunistinio tipo partija|eurokomunistinio tipo partija]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-012
 
@@ -90,7 +91,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78358
   teiginys: 'Sovietai, siekdami sumažinti Lietuvos žmonių paramą nepriklausomybei, paskelbė ekonominę blokadą ir skatino atskirų Lietuvos regionų atsiskyrimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata palaiko sutvarkytą sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 
@@ -111,7 +112,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78361
   teiginys: 'Prosovietiška Lietuvos komunistų partija organizavo rusakalbius sąjunginio pavaldumo gamyklų darbininkus mėginamam valstybiniam perversmui.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis ir sakinys per ilgas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -140,7 +141,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78365
   teiginys: 'TSKP platformos Lietuvos komunistų partija įkūrė slaptą Nacionalinio gelbėjimo komitetą, parengusį prezidentinio valdymo įvedimo Lietuvoje planą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Lietuvos komunistų partiją ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Michailas Gorbačiovas|Michailas Gorbačiovas]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-007
 
@@ -149,7 +150,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78366
   teiginys: '1940 m. birželio 25 d. LKP buvo įteisinta, nors kitos politinės partijos liko neįteisintos.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_place: Lietuva; mentioned_place: Sniečkus'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis ir tiesiogiai paremtas citata.'
@@ -161,7 +162,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78367
   teiginys: 'Per vadinamojo Liaudies seimo rinkimus kandidatus galėjo kelti tik komunistų partija, komjaunimas, MOPR’as ir komunistų vadovaujamos profesinės sąjungos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/aneksija|aneksija]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -170,7 +171,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78373
   teiginys: '1990 m. rinkimų kampanijoje savarankiška LKP skelbė šūkį „Lietuva be suvereniteto – Lietuva be ateities“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
@@ -182,7 +183,7 @@ LKP Lietuvos komunistų partija. Keturi Lietuvos komunistų partijos (LKP) vadov
   global_id: t-78374
   teiginys: 'Po 1926 m. gruodžio perversmo keturi Lietuvos komunistų partijos vadovai buvo nuteisti mirties bausme ir po dešimties dienų sušaudyti.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Estija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1924 m.; įvykio data: po 1926 m.; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir paremtas citata.'

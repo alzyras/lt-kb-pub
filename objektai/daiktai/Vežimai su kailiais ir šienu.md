@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-87125
   teiginys: 'Kęstučiui puolant Vilnių, į miestą įvairiais keliais buvo įvežta keli šimtai kailių ir šieno prikrautų vežimų su paslėptais ginkluotais vyrais.'
   sudarymo_pagrindimas: 'Pašalinti nutrūkę fragmentai ir paliktas citata pagrįstas faktas apie vežimus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vorskla'
   pagrindžia:
     - c-001
 

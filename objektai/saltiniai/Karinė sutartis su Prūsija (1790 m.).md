@@ -39,7 +39,7 @@ Karalius tuo tarpu kreipėsi pagalbos į Prūsiją, su kuria seimo (1790 m.) buv
 - t-002
   global_id: t-67426
   teiginys: 'Prūsija rėmė seimą siekdama spausti Rusiją, kuri nesutiko leisti jai užimti Dancigo ir Torno.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Dancigas; mentioned_place: Prūsija; mentioned_place: Torno'
+  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Prūsija; mentioned_place: Torno'
   temporaliniai_duomenys: 'įvykio data: 1790 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -27,7 +27,7 @@ Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis, susitik
   global_id: t-42237
   teiginys: 'Užpelkių miške buvo numatytas Prisikėlimo apygardos štabo posėdis ir susitikimas su vietos kovotojais.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, tik sujungtas į vieną sklandų sakinį pagal citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Laurynas Mingilas-Džiugas|Laurynas Mingilas-Džiugas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Laurynas Mingilas-Džiugas|Laurynas Mingilas-Džiugas]]'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pagrįstas, tik sujungtas į vieną sklandų sakinį pagal citatos turinį.'

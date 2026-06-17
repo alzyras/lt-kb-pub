@@ -23,7 +23,7 @@ Kitais metais sūduvių ir lietuvių vadas Skomantas (Didžiojo magistro kroniko
   global_id: t-40424
   teiginys: 'Sūduvių ir lietuvių vadas Skomantas su didele kariuomene siaubė Kulmo teritoriją, puolė Kulmą ir sunaikino Eimsučio bei Cipelio pilis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Skomantą ir tiksliai remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Cipelis|Cipelis]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Drūsinė; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Pagansčiai; mentioned_place: Pamedė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Cipelis|Cipelis]]; mentioned_place: Drūsinė; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Pagansčiai; mentioned_place: Pamedė'
   pagrindžia:
     - c-001
 

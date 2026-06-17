@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-20458
   teiginys: 'Pranciškus Skorina buvo pirmasis Lietuvos spaustuvininkas, kilęs iš rusėnų kultūrinės aplinkos ir gimęs Polocko pirklių šeimoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata apie Pranciškų Skoriną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1517-1519; įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata apie Pranciškų Skoriną.'
@@ -63,7 +63,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Praha; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Paduva; mentioned_place: Polockas; mentioned_place: Praha; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įkūrimo data: 1517-1519; įkūrimo data: 1519 m.; įkūrimo data: 1522 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, pilnas ir tiesiogiai paremtas citata.'

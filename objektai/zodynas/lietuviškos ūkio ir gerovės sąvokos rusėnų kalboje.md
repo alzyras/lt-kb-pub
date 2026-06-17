@@ -21,7 +21,7 @@ Lietuvos Metrikos rusėnų kalbą pateko ir buvo vartojamos net Ukrainoje lietuv
   global_id: t-22217
   teiginys: 'XV–XVI a. Lietuvos Metrikos rusėnų kalboje vartotos lietuviškos ūkio sąvokos, tarp jų „litovka“, „doilida“, „jevje“ ir „sviren“.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, pilnas ir atitinka citatoje išvardytas lietuviškas ūkio sąvokas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_object: [[objektai/zodynas/alodas alodinė nuosavybė|alodas alodinė nuosavybė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 

@@ -38,7 +38,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad po Kęstučio ir Vytauto motinos nužudymo Vytautas pabėgo iš nelaisvės pas Prūsų Ordino didįjį magistrą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, pašalinta perteklinė įvardžių grandinė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas, pabėgęs iš nelaisvės, nubėgo pas Prūsų Ordino didįjį magistrą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pridėtas būtinas kontekstas apie pabėgimą iš nelaisvės.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

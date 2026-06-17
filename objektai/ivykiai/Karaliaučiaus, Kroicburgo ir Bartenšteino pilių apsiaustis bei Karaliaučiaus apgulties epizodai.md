@@ -86,7 +86,7 @@ Nenurodyta
   global_id: t-59181
   teiginys: 'Dusburgietis Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustį aprašė kaip Belialo sūnų grasinimą viešpaties tautai.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra negramatiškas citatos fragmentų junginys, bet citata remia autoriaus retorikos apibūdinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsiaustis|apsiaustis]]; mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Kroicburgas'
   pagrindžia:
     - c-003
 
@@ -119,7 +119,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys neatitinka pateiktos citatos svarbiausio faktinio turinio.'
-  susije_objektai: 'location: Bartenšteinas; location: Elbingas; location: Kroicburgas; location: Prūsai; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
+  susije_objektai: 'location: Bartenšteinas; location: Elbingas; location: Kroicburgas; location: Prūsai; mentioned_place: Bartenšteinas; mentioned_place: Elbingas; mentioned_place: Kroicburgas; mentioned_place: Prūsai'
   pagrindžia:
     - c-007
 

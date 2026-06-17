@@ -48,7 +48,7 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
 - t-002
   global_id: t-171549
   teiginys: '„Hermano Vartbergės Livonijos kronika“ šiame veikale cituojamas chunk_0003: piltenės pilies puolimas ir lietuvių apgulimo mašinos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Livonija; mentioned_place: Piltenė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_place: Livonija; mentioned_place: Piltenė'
   temporaliniai_duomenys: 'įvykio data: 1329 m.; įvykio data: 1330 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -59,7 +59,6 @@ Cituojama „Hermano Vartbergės Livonijos kronika“ ištrauka apie 1236 m. Sau
   global_id: t-171550
   teiginys: 'Hermano Vartbergės „Livonijos kronikos“ ištraukoje aprašomas Ordino brolių sumušimas prie Karusės.'
   sudarymo_pagrindimas: 'Pirminis teiginys sumaišytas su vadovėlio maketo tekstu; citata palaiko aiškesnį sakinį apie ištraukos temą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-003
 

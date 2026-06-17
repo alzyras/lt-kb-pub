@@ -22,7 +22,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-001
   global_id: t-35615
   teiginys: 'Krokuvos profesoriai rašte įrodinėjo, kad Romos karalius Zigmantas neturi teisės suteikti karūnos.'
-  susije_objektai: 'territory: Krokuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
+  susije_objektai: 'territory: Krokuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Krokuva'
   semantiniai_rysiai: '[[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]] susiję su Krokuva'
   pagrindžia:
     - c-002
@@ -31,7 +31,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-002
   global_id: t-35616
   teiginys: 'Krokuvos profesoriai Romos karaliaus teisę karūnuoti kitus laikė nepakankama ir žemesne už popiežiaus teises.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Dr. Baptistas Cigala.md#claim-t-35051|Dr. Baptistas Cigala]]: Dr. Baptistas Cigala antrame atsakyme teigė, kad karūnacijai atlikti nereikia popiežiaus patvirtinimo.

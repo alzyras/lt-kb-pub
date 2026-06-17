@@ -25,10 +25,7 @@ Rusai nuo senų laikų Velykų dieną dovanodavo vienas kitam margutį kaip bič
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Akademijos teatro įranga|Akademijos teatro įranga]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/zodynas/viečė|viečė]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184666|Algirdas (Lietuvos valdovas)]]: Algirdas, žmonos Julijonos prašymu sutikęs priimti krikščionybę, Vitebsko rusams pastatė porą šventovių.
-- susijęs iš [[objektai/asmenys/Julijona.md#claim-t-184743|Julijona]]: Julijonos noru Algirdas sutiko priimti krikščionybę ir Vitebske pastatė rusams dvi šventoves.
-- susijęs iš Vitebskas: Algirdas, priėmęs krikščionybę žmonos Julijonos noru, neatmetė rusų apeigų ir pastatė rusams Vitebske porą šventovių.
-- susijęs iš [[objektai/zodynas/stabmeldžių apeigos.md#claim-t-185394|stabmeldžių apeigos]]: Algirdas viešai laikėsi stabmeldžių apeigų, bet Julijonos noru sutiko priimti krikščionybę.
+
 ## Reikšmingi paminėjimai
 
 - c-001

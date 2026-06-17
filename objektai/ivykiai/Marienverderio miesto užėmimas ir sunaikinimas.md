@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-59563
   teiginys: 'Antrosios atskalūnybės metais prūsai užėmė Marienverderio miestą, dalį gyventojų paėmė į nelaisvę, dalį išžudė, o miestą sugriovė ir sudegino.'
   sudarymo_pagrindimas: 'Citata remia reikšmingą įvykio rezultatą, o pradinis teiginys apima tik pasirengimo fragmentą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Marienverderis; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

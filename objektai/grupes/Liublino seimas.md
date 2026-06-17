@@ -10,7 +10,6 @@ tags:
   - karalius
   - seimas
   - unija
-  - valstybė
 ---
 # Liublino seimas
 

@@ -21,7 +21,7 @@ tags:
   global_id: t-100209
   teiginys: 'A. Salio straipsnis „Kęstučio vardas“ paskelbtas „Lietuvių enciklopedijos“ 11 tome, 405-407 puslapiuose.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs fragmentas, o citata pateikia pilną bibliografinį įrašą.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Kučinskas|A. Kučinskas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
   pagrindžia:
     - c-001
 

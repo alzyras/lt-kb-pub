@@ -22,7 +22,7 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškas, bet turi perteklinę autorinę įžangą.'
-  susije_objektai: 'location: Gardinas; location: Lietuva; location: Prūsija; location: Reinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Reinas'
+  susije_objektai: 'location: Gardinas; location: Lietuva; location: Prūsija; location: Reinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Reinas'
   semantiniai_rysiai: '[[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Gardinas; [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Lietuva; [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Prūsija; [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Reinas'
   pagrindžia:
     - c-001

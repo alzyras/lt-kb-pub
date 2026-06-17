@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Namo tvarte, arba kūtėje, laikytos karvės, jaučiai ir avys, o už jo buvo atskira arklių kūtė.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata palaiko gyvulių laikymą kūtėje ir atskirą arklių kūtę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 

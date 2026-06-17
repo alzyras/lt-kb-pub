@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-88030
   teiginys: 'M. Ročka vertė 1966 m. leidyklos „Mintis“ išleistus „Gedimino laiškus“.'
   sudarymo_pagrindimas: 'Citata palaiko vertėjo faktą, bet pradinis teiginys yra bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/V. Pašuta|V. Pašuta]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Pašuta|V. Pašuta]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   temporaliniai_duomenys: 'įvykio data: 1966 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko vertėjo faktą, bet pradinis teiginys yra bibliografinis fragmentas.'

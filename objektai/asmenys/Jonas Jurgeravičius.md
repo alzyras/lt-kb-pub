@@ -22,7 +22,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   global_id: t-87721
   teiginys: 'Jono Jurgeravičiaus privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas, bet citata aiškiai remia privilegijų atšaukimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-001
 

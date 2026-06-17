@@ -30,7 +30,7 @@ Zakrzewski, W.
 - t-001
   global_id: t-31090
   teiginys: 'W. Zakrzewski 1890 m. paskelbė darbą „Bitwa pod Grunwaldem“.'
-  susije_objektai: 'mentioned_object: [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d]]; mentioned_person: [[objektai/autoriai/W. Zakrzewski|W. Zakrzewski]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/W. Zakrzewski|W. Zakrzewski]]; mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1890 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

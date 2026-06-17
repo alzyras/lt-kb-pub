@@ -20,7 +20,6 @@ tags:
   - grupe
   - miestas
   - tauta
-  - valdovas
 amziai:
   - 'XVIII'
   - 'XIX'
@@ -38,7 +37,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   global_id: t-169559
   teiginys: 'Radikaliau nusiteikę bajorai nesusitaikė su buvusios savo valstybės praradimu, todėl bandė ją atkurti – per Napoleono karus ir du sukilimus – 1830–1831 m. ir 1863–1864 m.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir remiasi citatoje nurodytais įvykiais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1830-1831; įvykio data: 1831 m.; įvykio data: 1863-1864; įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir remiasi citatoje nurodytais įvykiais.'
@@ -58,7 +57,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
 - t-003
   global_id: t-169561
   teiginys: 'Bajorai buvo vienintelis privilegijuotas visuomenės luomas, turėjęs politines teises ir siuntęs atstovus į Seimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -79,7 +78,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   global_id: t-169563
   teiginys: 'Bajorai turėjo savivaldą gubernijos ir apskrities lygmeniu, vadinamuosius seimelius, kurie vykdė pagalbines valdžios aparato funkcijas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-005
 
@@ -106,7 +105,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   global_id: t-169566
   teiginys: 'Ketverių metų seimas pirmą kartą bandė miestiečių luomui suteikti beveik lygias teises su bajorais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja miestiečių teises su bajorų luomu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Ketverių metų seimas|Ketverių metų seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   temporaliniai_duomenys: 'įvykio data: po 1788 m.; įvykio data: 1788 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja miestiečių teises su bajorų luomu.'
@@ -118,7 +117,7 @@ Lietuvos Statutai apibrėžė ir įteisino bajoriškąją santvarką. Tačiau po
   global_id: t-169568
   teiginys: 'Lietuvoje politinėmis teisėmis naudojosi tik bajorų luomas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir paremtas citatos faktu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05197|Liubartas]]: Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.

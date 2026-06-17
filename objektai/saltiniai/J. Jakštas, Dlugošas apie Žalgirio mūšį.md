@@ -29,7 +29,7 @@ amziai:
 - t-001
   global_id: t-31722
   teiginys: 'J. Jakšto „Dlugošas apie Žalgirio mūšį“ 1960 m. išspausdintas TaPr I tomo 2 numeryje, p. 165–181.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1960 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20466
   teiginys: '1998–1999 m. Rusijos finansų krizė Lietuvai sukėlė biudžeto sunkumų, nes iki krizės daug lietuviškų prekių buvo eksportuojama į NVS, pirmiausia Rusiją.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretesnį teiginį apie krizės poveikį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1998 m.; įvykio data: 1998-1999; įvykio data: 1999 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti konkretesnį teiginį apie krizės poveikį.'

@@ -22,7 +22,6 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   global_id: t-88067
   teiginys: 'Janockis buvo vienas iš Roizijaus biografų, kurių klaidas pataisė Ossolinskis.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Janockio vaidmenį ir klaidų taisymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]'
   pagrindžia:
     - c-001
 
@@ -31,7 +30,7 @@ Janockis jį vadina dar tiks­ liau - Mieleskiu ir pasakoja, kad, Žy­ gimanto 
   global_id: t-88068
   teiginys: 'Janockis Augustą Rotundą vadino Mieleskiu ir pasakojo, kad šis Žygimanto Augusto nurodymu pradėjo lotyniškai rašyti „Lietuvos istoriją“.'
   sudarymo_pagrindimas: 'Citata remia teiginį apie Janockio vartotą pavardės formą ir jo pasakojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Kristupas Varševickis.md#claim-t-87760|Kristupas Varševickis]]: Kristupas Varševickis, jėzuitų rektorius, 1572 m. žiemą dalyvavo kapitulos susirinkime vyskupo rūmuose.

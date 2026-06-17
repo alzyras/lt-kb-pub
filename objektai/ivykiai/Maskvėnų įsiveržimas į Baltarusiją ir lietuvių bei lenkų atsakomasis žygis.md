@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko kariuomenės sudėtį ir susidūrimą; pašalinti puslapio antraščių intarpai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Davaina|Davaina]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Lesniovolskis|Stanislovas Lesniovolskis]]; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Davaina|Davaina]]; mentioned_person: [[objektai/asmenys/Stanislovas Lesniovolskis|Stanislovas Lesniovolskis]]; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 

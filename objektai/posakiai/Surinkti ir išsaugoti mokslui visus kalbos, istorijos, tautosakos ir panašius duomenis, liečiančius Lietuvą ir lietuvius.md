@@ -29,7 +29,7 @@ Draugija savo statuto . 1 įsirašė šitokį darbo tikslą: „Surinkti ir išs
   global_id: t-02077
   teiginys: 'Draugija statuto 1 paragrafe įrašė tikslą mokslui surinkti ir išsaugoti kalbos, istorijos, tautosakos ir panašius duomenis apie Lietuvą ir lietuvius.'
   sudarymo_pagrindimas: 'Reikia tiksliau perteikti citatos formuluotę apie duomenis, liečiančius Lietuvą ir lietuvius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1879 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau perteikti citatos formuluotę apie duomenis, liečiančius Lietuvą ir lietuvius.'

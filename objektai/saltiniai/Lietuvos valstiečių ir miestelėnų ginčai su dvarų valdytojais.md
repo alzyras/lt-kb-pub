@@ -28,7 +28,7 @@ iš XVI-XVII amžių doku­ mentų rinkinio « Lietuvos valstiečių ir miestel�
   global_id: t-31823
   teiginys: 'K. Jablonskis sudarė pirmąjį XVI-XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie K. Jablonskio sudarytą pirmąjį tomą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Jablonskis|K. Jablonskis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Jablonskis|K. Jablonskis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

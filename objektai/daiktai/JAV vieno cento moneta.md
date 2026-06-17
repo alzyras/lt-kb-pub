@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-64932
   teiginys: 'JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.'
   sudarymo_pagrindimas: 'Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_person: [[objektai/asmenys/Victor David Brenner|Victor David Brenner]]; mentioned_place: Europa; mentioned_place: Prancūzija; mentioned_place: Tryškiai; mentioned_place: Turkija; mentioned_place: Vilnius; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1901 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata sieja JAV vieno cento autorių su Victor David Brenneriu, o pradinė pretenzija nukrypsta nuo objekto.'

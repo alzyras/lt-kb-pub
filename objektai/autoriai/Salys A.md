@@ -38,7 +38,7 @@ Dusburgietis teigia, kad didysis..., p. 11; Salys A. Dusburgietis teigia, kad 3,
   global_id: t-64846
   teiginys: 'A. Salys Ragainės vardo kilmę siejo su Lietuva.'
   sudarymo_pagrindimas: 'Citata palaiko aiškią autoriaus poziciją, o pradinė formuluotė yra fragmentiška.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Salys|A. Salys]]; mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_place: Lietuva; mentioned_place: Ragainė; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1312 m.; įvykio data: 1549 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškią autoriaus poziciją, o pradinė formuluotė yra fragmentiška.'

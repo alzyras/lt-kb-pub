@@ -31,7 +31,7 @@ Vis dėlto ir valdžiai buvo aišku, kad etninės Lietuvos kaimo mokyklose prad�
   global_id: t-70176
   teiginys: 'Iš dvikalbių elementorių kirilika sumanymo kilo siekis lietuvių raštijoje lotyniškąjį raidyną pakeisti rusiškuoju.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta ir turi būti perrašytas į užbaigtą sakinį apie raidynų keitimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1864 m.; įvykio data: 1904 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta ir turi būti perrašytas į užbaigtą sakinį apie raidynų keitimą.'

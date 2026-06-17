@@ -40,7 +40,7 @@ Dusburgietis teigia, kad tačiau kąi į Kulmo pilį atvyko nemažos kariuomenė
   global_id: t-60097
   teiginys: 'Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Burchardo veiksmą ir pilies perkėlimo kryptį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Salos; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Salos; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

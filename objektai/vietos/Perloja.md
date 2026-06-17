@@ -32,7 +32,6 @@ amziai:
   global_id: t-50178
   teiginys: 'Gruodžio 16 d. Marcinkonių bataliono vyrai puolė Perlojos stribų įgulą ir ją sunaikino.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Perlojos stribų įgulą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-001
 

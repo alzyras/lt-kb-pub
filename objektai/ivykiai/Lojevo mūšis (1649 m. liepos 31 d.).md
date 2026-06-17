@@ -65,7 +65,7 @@ Nenurodyta
   global_id: t-49173
   teiginys: 'Lojevo mūšyje kazokų kariuomenė buvo perskelta į dvi dalis, jos kairysis sparnas sumuštas, o M. Kričevskio kariai atsitraukė į mišką.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako mūšio eigą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]; mentioned_place: Braginas; mentioned_place: Dniepras; mentioned_place: Lojevas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_place: Braginas; mentioned_place: Dniepras; mentioned_place: Lojevas'
   pagrindžia:
     - c-002
 

@@ -22,7 +22,7 @@ Rugsėjo 14 d. mirė kitas Lietuvos ir Kęstučio kaimynas Liudvikas Anjou, Lenk
   global_id: t-100074
   teiginys: 'Liudvikas Anjou mirė rugsėjo 14 d. ir paliko Lenkiją bei Vengriją neaiškioje būklėje savo mažametėms dukterims ir jų būsimiems vyrams.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį enciklopedinį sakinį be dalyvinės pradžios.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ tags:
   global_id: t-24538
   teiginys: 'Prancūzų kalbininkas Antuanas Mejė pabrėžė archajišką lietuvių valstiečių kalbos pobūdį.'
   sudarymo_pagrindimas: 'Pašalinta nukirsta pabaiga ir palikta citatos esmė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/posakiai/„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“.md#claim-t-20873|„Tas, kuris nori žinoti, kaip kalbėjo mūsų proseneliai, turi atvažiuoti pasiklausyti, kaip kalba lietuvis valstietis.“]]: Antuanas Mejė lietuvių valstiečio kalbą siejo su prosenelių kalbos pažinimu.

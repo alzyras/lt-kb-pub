@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-20252
   teiginys: '1941 m. birželio 23 d. sudarytos Laikinosios vyriausybės vadovu tapo literatūros dėstytojas Juozas Ambrazevičius.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, predikatą ir yra tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Juozas Ambrazevičius|Juozas Ambrazevičius]]; mentioned_place: Berlynas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Ambrazevičius|Juozas Ambrazevičius]]; mentioned_place: Berlynas'
   temporaliniai_duomenys: 'įvykio data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų subjektą, predikatą ir yra tiesiogiai paremtas citata.'

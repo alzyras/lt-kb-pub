@@ -25,7 +25,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   global_id: t-41881
   teiginys: 'Ties Lojevu ekspedicinės pajėgos persikėlė į dešinįjį Dniepro krantą ir patraukė vakarų kryptimi Mozyriaus bei Slucko link.'
   sudarymo_pagrindimas: 'Pakeistas neaiškus įvardis ir suformuluotas savarankiškas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Dnepras; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Mozyrius; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Dnepras; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Mozyrius; mentioned_place: Sluckas'
   pagrindžia:
     - c-003
 
@@ -58,7 +58,7 @@ Ties Lojevu jie persikėlė į dešinįjį Dniepro krantą ir paspartinę žygio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Lojevo padėtį prie Dnepro ir Sožo santakos. OCR triukšmas iš citatos neperkeltas, papildomų faktų nepridėta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]]; mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Dnepras; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Burnašas|Burnašas]]; mentioned_place: Dnepras; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Sluckas'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/autoriai/A. Vijūkas Kojelavičius.md#claim-t-102834|A. Vijūkas Kojelavičius]]: A. Vijūkas Kojelavičius 1651 m. veikale „Apie 1648 ir 1649 metų žygius prieš Zaporožės kazokus“ rašė apie Lojevo mūšį.

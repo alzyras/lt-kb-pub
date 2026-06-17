@@ -29,7 +29,7 @@ Be lietuvių, mūšyje dalyvavo į pagalbą prieš mėnesį karaliaus atsiųsti 
   global_id: t-38968
   teiginys: 'Mūšyje lietuviams talkino leninės Kuršo ir Žiemgalos kunigaikštystės daliniai, apie 300 Fridricho Ketlerio reitarų.'
   sudarymo_pagrindimas: 'Dvitaškio konstrukcija pakeista pilnu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Vėliavos|Vėliavos]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Kuršas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Žiemgala'
   pagrindžia:
     - c-001
 

@@ -30,7 +30,7 @@ amziai:
 - t-001
   global_id: t-32616
   teiginys: '1285 m. pavasarį Tverės sritį plėšė tie patys užpuolikai, kurie 1284 m. vėl žygiavo į Lenkiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Tverė'
   temporaliniai_duomenys: 'įvykio data: 1284 m.; įvykio data: 1285 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

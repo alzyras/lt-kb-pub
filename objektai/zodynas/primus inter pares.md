@@ -30,7 +30,7 @@ Lozoraitis diplomatijos šefo pareigas interpretavo kaip primus inter pares (pir
   global_id: t-22257
   teiginys: 'Stasys Lozoraitis diplomatijos šefo pareigas aiškino kaip primus inter pares, pirmojo tarp lygiųjų, vaidmenį tarp pasiuntinių.'
   sudarymo_pagrindimas: 'Vardas turi būti išplėstas, o sakinys suformuluotas enciklopediškiau.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]'
   temporaliniai_duomenys: 'įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Vardas turi būti išplėstas, o sakinys suformuluotas enciklopediškiau.'

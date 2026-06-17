@@ -38,7 +38,7 @@ Nenurodyta
   global_id: t-41365
   teiginys: 'Suvalkų derybose Lietuvos delegacija reikalavo laikinos demarkacijos linijos ir lenkų pajėgų atitraukimo už su Sovietų Rusija suderėtų sienų.'
   sudarymo_pagrindimas: 'Originalas gremėzdiškas, todėl sutrumpintas ir sugramatintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/demarkacijos linija|demarkacijos linija]]; mentioned_place: Bastūnai; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Sovietų Rusija; mentioned_place: Suvalkai; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija; mentioned_place: Sovietų Rusija; mentioned_place: Suvalkai; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-41367
   teiginys: 'Spalio 7 d. buvo nustatyta demarkacinė linija nuo Vokietijos sienos iki Juodosios Ančios ir Nemuno santakos, toliau palei Vilniaus-Lydos geležinkelį iki Bastūnų stoties.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai perteikia demarkacinės linijos nustatymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/demarkacijos linija|demarkacijos linija]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Varėna; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Varėna; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 

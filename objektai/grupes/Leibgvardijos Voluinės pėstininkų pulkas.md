@@ -28,7 +28,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
   global_id: t-78198
   teiginys: 'Leibgvardijos Voluinės pėstininkų pulkas sudarė kautynėms paruoštos Rusijos kariuomenės pagrindo dalį.'
   sudarymo_pagrindimas: 'Pradinė formuluotė aprašo rikiuotę, bet ne užrašo objektą; citata leidžia suformuluoti aiškų teiginį apie pulką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Kautynėms paruoštą Rusijos kariuomenės pagrindą sudarė: Leibgvardijos liet
 - t-002
   global_id: t-78199
   teiginys: 'Leibgvardijos Voluinės pėstininkų pulkas buvo įtrauktas į kautynėms paruoštos Rusijos kariuomenės pagrindą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Podolė; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Voluinė'
   temporaliniai_duomenys: 'įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -21,7 +21,7 @@ Dusburgietis teigia, kad toppen M Einleitung.—SRP, 1, S.
   global_id: t-61319
   teiginys: 'M. Toppeno „Einleitung“ paskelbta SRP pirmojo tomo 3–20 puslapiuose.'
   sudarymo_pagrindimas: 'Citata pateikia publikacijos vietą rinkinyje; pašalintas gretimos nuorodos triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Toppen M|Toppen M]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Toppen M|Toppen M]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-001
 

@@ -31,7 +31,7 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
 - t-001
   global_id: t-72714
   teiginys: 'Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/sidabrinė duoklė|sidabrinė duoklė]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]'
   temporaliniai_duomenys: 'įvykio data: 1434 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -58,11 +58,7 @@ dabar jie, be to, buvo atleisti ir nuo pastočių, nuo pilių statymo ir remonta
   temporalinis_llm_pakomentavimas: 'Pirminis sakinys per ilgas; palikta citatos paremta esmė apie pastotes.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-172839|Vilniaus miestiečių luomas]]: 1451 m. Kazimieras atleido Magdeburgo teisei paklususius Vilniaus miestiečius nuo pastočių davimo.
-- susijęs iš [[objektai/paprociai/Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka.md#claim-t-87132|Vilniaus miestiečių Magdeburgo teisės, prekybos laisvės ir municipalinių pajamų tvarka]]: Dar būdamas didžiuoju kunigaikščiu, Kazimieras atleido Vilniaus miestiečius nuo muito mokesčio visoje Lietuvoje.
-- susijęs iš Pskovas: Vilniuje sudaryta sutartis su Kazimiero globoje likusiu Pskovu praplėtė Pskovo prekybinius santykius su Lietuvos sostine.
-- susijęs iš Pskovas: Vilniuje sudaryta sutartis su Pskovu praplėtė šio miesto prekybinius santykius su Lietuvos sostine.
-- susijęs iš [[objektai/zodynas/pastočių davimas.md#claim-t-86604|pastočių davimas]]: 1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo.
+
 ## Reikšmingi paminėjimai
 
 - c-001

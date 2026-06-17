@@ -23,7 +23,7 @@ tags:
   global_id: t-41992
   teiginys: 'Antanas Šukys prisiminė 2-ojo pėstininkų pulko I bataliono sustojimą Pagirių kaime žygiuojant į Panevėžio frontą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Pagirius su bataliono sustojimu ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ tags:
 - t-002
   global_id: t-41994
   teiginys: 'Lenkų kavalerijos brigadai užėmus Pagirius, jos judėjimą sekė ir kolonas atakavo lietuvių karo lėktuvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/komendantūra|komendantūra]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis'
   pagrindžia:
     - c-002
 
@@ -43,7 +43,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR ženklas ir neaiškus kontekstinis pradėjimas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/komendantūra|komendantūra]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Kėdainiai; mentioned_place: Nevėžis'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.

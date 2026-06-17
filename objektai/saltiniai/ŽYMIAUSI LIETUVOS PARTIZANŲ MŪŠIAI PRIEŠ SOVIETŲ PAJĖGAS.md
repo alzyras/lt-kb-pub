@@ -22,7 +22,7 @@ tags:
   global_id: t-80767
   teiginys: 'Straipsnio „Žymiausi Lietuvos partizanų mūšiai prieš sovietų pajėgas“ autoriai yra Arvydas Anušauskas, Karolis Zikaras ir Loreta Uzdraitė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas bibliografinis faktas apie straipsnio autorystę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

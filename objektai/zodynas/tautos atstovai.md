@@ -30,7 +30,7 @@ Konstitucija ypač didelių galių suteikė Seimui, kurį sudarė vadinamieji ta
   global_id: t-70357
   teiginys: '1928 m. Konstitucija numatė, kad prezidentą septyneriems metams renka ypatingi tautos atstovai.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
   temporaliniai_duomenys: 'įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą apie ypatingus tautos atstovus.'

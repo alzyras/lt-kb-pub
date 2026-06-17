@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-31440
   teiginys: 'Iki nepriklausomybės dešimtmečių 1795 m. Lietuvos ir Lenkijos paskutinis padalinimas laikytas kertine politiškai svarbia Lietuvos istorijos data.'
   sudarymo_pagrindimas: 'Citata remia tikslesnį sakinį su nurodytu laikotarpiu ir vertinimo pobūdžiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1385-1387; įvykio data: 1387 m.; įvykio data: 1569-1572; įvykio data: 1572 m.; įvykio data: 1795 m.; įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia tikslesnį sakinį su nurodytu laikotarpiu ir vertinimo pobūdžiu.'

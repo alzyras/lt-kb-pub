@@ -22,7 +22,6 @@ Valstiečiai, eidami baudžiavą, turėjo vadinamuosius servitutus, t. Sužinoj�
   global_id: t-03170
   teiginys: 'Baudžiavos laikais servitutai buvo valstiečių teisės dvaro miškuose ganyti, šienauti, žvejoti dvaro ežeruose ir kirstis malkų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata leidžia suformuluoti pilną apibrėžiamąjį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]'
   pagrindžia:
     - c-002
 

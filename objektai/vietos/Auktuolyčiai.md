@@ -28,7 +28,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   global_id: t-58523
   teiginys: 'Brolis Ditrichas Nadruvos Katavos valsčiuje su kariuomene puolė Auktuolyčių pilį ir po kelių antpuolių į ją įsiveržė.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia Ditricho vadovautą Auktuolyčių pilies puolimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nadruva; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Nadruva; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 
@@ -37,7 +37,6 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   global_id: t-58524
   teiginys: 'Auktuolyčių pilis buvo Katavos, arba Katinavos, valsčiaus centras.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Nadruviai.md#claim-t-65936|Nadruviai]]: Katinavos apylinkėse esanti Katinavos kalva nadruvių buvo laikoma šventa.

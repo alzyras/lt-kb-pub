@@ -24,7 +24,7 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   global_id: t-85926
   teiginys: 'Gabrieliui Bekešui leista Alantos dvarą su priklausiniais turėti ir naudoti visiems būsimiems laikams.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia citatoje nurodytą leidimą valdyti Alantos dvarą su priklausiniais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]'
   pagrindžia:
     - c-002
 
@@ -33,7 +33,7 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   global_id: t-85927
   teiginys: 'Karalius Alantos dvarą Ukmergės apskrityje po Grigaliaus Astiko atidavė Gabrieliui Bekešui.'
   sudarymo_pagrindimas: 'Reikia išplėsti dalinę nuorodą „po jo“ ir patikslinti Bekešo vardą pagal kontekstą.'
-  susije_objektai: 'territory: Ukmergė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Ukmergė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.

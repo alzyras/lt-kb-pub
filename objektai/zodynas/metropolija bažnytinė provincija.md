@@ -24,7 +24,7 @@ Be to, dar bandyta steigti atskirą Lietuvos katalikų bažnyčios provinciją, 
   global_id: t-22230
   teiginys: 'Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.'
   sudarymo_pagrindimas: 'Susiaurinta iki pastabos objekto ir pašalintos perteklinės dalys apie kitus terminus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/bažnytinė provincija|bažnytinė provincija]]; mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_place: Lietuva; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Katalikų Bažnyčia|Katalikų Bažnyčia]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 

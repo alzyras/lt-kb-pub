@@ -24,7 +24,7 @@ Krašto viduje jis tapo absoliutišku valdovu, kurio supykinti bijodami valdinia
   global_id: t-35060
   teiginys: 'Enejas Silvijus Picolomini pasakojo, kad Vytauto valdiniai, bijodami jį supykinti, net patys ėjo kartis.'
   sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria pasakojimą Eneėjui Silvijui Picolominiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Europa; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Europa; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

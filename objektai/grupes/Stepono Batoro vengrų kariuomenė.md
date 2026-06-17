@@ -30,7 +30,7 @@ amziai:
   global_id: t-86827
   teiginys: 'Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.'
   sudarymo_pagrindimas: 'Pirminis tekstas nutrūkęs, bet citata leidžia suformuluoti pilną teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė; mentioned_place: Velikije Lūki'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Maskva; mentioned_place: Ukmergė; mentioned_place: Velikije Lūki'
   pagrindžia:
     - c-001
 

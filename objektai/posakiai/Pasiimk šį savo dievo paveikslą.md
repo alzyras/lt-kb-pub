@@ -22,7 +22,7 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
   global_id: t-89599
   teiginys: 'Skomantas mirties patale pasakojo, kad prieš atsivertimą pakėlė ir nuvalė pagrobtą Marijos bei jos sūnaus paveikslą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Skomanto veiksmą, bet ne šio posakio žodžius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Dusburgietis teigia, kad šis atsakė, kad esąs nukovęs daugybę krikščioni�
   global_id: t-89600
   teiginys: 'Dusburgietis Skomanto atsivertimą vaizduoja kaip perėjimą nuo Dievo bažnyčios persekiojimo prie krikščionių vado vaidmens.'
   sudarymo_pagrindimas: 'Citata remia autoriaus vertinimo santrauką, o pradinis tekstas turi antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

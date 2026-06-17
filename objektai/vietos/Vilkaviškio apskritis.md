@@ -27,7 +27,7 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
 - t-001
   global_id: t-42276
   teiginys: '1948 m. vasario 1 d. Vilkaviškio apskrities Gulbiniškių kaime MGB operatyvinė karinė grupė apsupo sodyboje besislėpusius partizanus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -38,7 +38,7 @@ X GULBINIŠKIŲ KAUTYNĖS 1948 m. vasario 1 d. Vilkaviškio aps. ŽIŪRŲ-GUDELI
   global_id: t-42277
   teiginys: '1950 m. birželio 22-23 d. Vilkaviškio apskrities Žiūrų-Gudelių kaimo apylinkėse MGB pajėgos puolė Tauro apygardos partizanų grupę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, paremtas citatos duomenimis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Pilviškiai; mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, paremtas citatos duomenimis.'

@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87292
   teiginys: 'Vilnius buvo centras, iš kurio karalius ir Vytautas, atgavę Žemaičių žemę, ėmėsi jos gyventojų atvertimo į krikščionybę.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia Vilniaus vaidmenį Žemaičių krikščioninimo veikloje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

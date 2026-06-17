@@ -37,7 +37,6 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   global_id: t-41233
   teiginys: 'Prieš Žuvinto-Palių mūšį Žuvinto-Palių partizanų persekiojimas tęsėsi.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo pernelyg kontekstinis, todėl patikslintas į savarankišką sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo pernelyg kontekstinis, todėl patikslintas į savarankišką sakinį.'

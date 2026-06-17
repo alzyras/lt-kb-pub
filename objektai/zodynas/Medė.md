@@ -37,7 +37,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   global_id: t-70028
   teiginys: 'Medės Daukanto tekste vadinamos giriomis, buvusiomis į šiaurę nuo tyrų prie Tyrulės upės.'
   sudarymo_pagrindimas: 'Citata tiesiogiai paaiškina žodį „medės“ kaip girias ir nurodo jų vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Juodoji jūra; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_place: Juodoji jūra; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

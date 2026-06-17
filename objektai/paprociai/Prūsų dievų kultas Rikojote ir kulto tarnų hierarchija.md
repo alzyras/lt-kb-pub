@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-54329
   teiginys: 'Simono Grunau kronikoje Rikojoto šventyklos prūsų dievų trejetą sudarė Pakulas, Perkūnas ir Patrimpas.'
   sudarymo_pagrindimas: 'Reikia šaltinio atribucijos, nes citata remiasi Simono Grunau kronikos pasakojimu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Nenurodyta
 - t-002
   global_id: t-54330
   teiginys: 'Prūsų dievais laikyti požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -62,7 +62,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Ilgas teiginys sutrumpintas, išlaikant citatos paremtą šaltinio atributiką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaidilutė|vaidilutė]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

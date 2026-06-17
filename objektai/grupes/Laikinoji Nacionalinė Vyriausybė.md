@@ -28,7 +28,7 @@ Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadin
   global_id: t-40979
   teiginys: 'Varšuvoje įsikūręs sukilimo rengimo Nacionalinis Centro komitetas, pasivadinęs Laikinąja Nacionaline Vyriausybe, pakvietė sukilėlius pradėti karinius veiksmus visoje buvusioje Lenkijos karalystėje.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškiai sieja Nacionalinį Centro komitetą su Laikinąja Nacionaline Vyriausybe ir jos veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, aiškiai sieja Nacionalinį Centro komitetą su Laikinąja Nacionaline Vyriausybe ir jos veiksmu.'

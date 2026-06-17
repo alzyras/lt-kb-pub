@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-31481
   teiginys: 'Veliuonos suvažiavime taikos labui sutikta atsisakyti Klaipėdos su trijų mylių ruožu nuo jūros.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 

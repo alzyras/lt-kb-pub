@@ -24,7 +24,7 @@ Dusburgietis teigia, kad vėliau brolį Liudviką iš nelaisvės išvadavo viena
   global_id: t-58885
   teiginys: 'Brolis Gerhardas prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmą ir nutrūkusią pabaigą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

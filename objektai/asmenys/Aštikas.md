@@ -30,7 +30,7 @@ Garbingosios Mergelės Marijos gimimo dieną (rugsėjo 8), dalyvaujant Jo Dideny
   global_id: t-87629
   teiginys: '1434 m. rugsėjo 8 d. Trakuose Vilniaus kaštelionas Aštikas buvo tarp akto patvirtinimui pritarusių asmenų.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Aštiko pareigas ir dalyvavimą, pašalinant OCR triukšmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_person: [[objektai/asmenys/Kęsgaila|Kęsgaila]]; mentioned_place: Lionas; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1434 m.; įvykio data: 1436 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną sakinį apie Aštiko pareigas ir dalyvavimą, pašalinant OCR triukšmą.'

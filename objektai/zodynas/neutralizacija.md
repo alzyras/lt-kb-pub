@@ -42,7 +42,7 @@ Kilus klausimui dėl Nemuno neutralizacijos ryšium su Lietuvos pripažinimu de 
 - t-002
   global_id: t-70251
   teiginys: 'Nemuno neutralizacijos klausimas kilo ryšium su Lietuvos pripažinimu de jure.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/de jure|de jure]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Paryžius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Paryžius'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -24,7 +24,7 @@ Kad yra prasidėjęs ir kilęs ginčas bei nesutarimas tarp didžiai gerbiamo Kr
   global_id: t-86160
   teiginys: 'Vilniaus vyskupui leista aikštėje ir bažnyčios teritorijoje įrengti tiek mėsinių, kiek jis anksčiau turėjo turguje ir Vilniaus aikštėje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

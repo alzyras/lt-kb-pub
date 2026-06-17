@@ -32,7 +32,7 @@ Jau nuo seno visoje Lietuvoje, jai priklausančioje Rusioje ir Livonijos vokieč
   global_id: t-86456
   teiginys: 'Feodalinis valdymas nuo seno buvo įsitvirtinęs Lietuvoje, jai priklausiusioje Rusioje ir Livonijos vokiečių žemėse.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai remiasi citatos pradžia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/Šlėktų laisvė|Šlėktų laisvė]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 

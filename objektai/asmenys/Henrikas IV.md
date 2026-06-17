@@ -33,7 +33,7 @@ Dalyvavo ir Lancasterio grafas Derby, būsimasis Anglijos karalius Henrikas IV (
   global_id: t-30261
   teiginys: 'Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Anglija; territory: Lietuva; territory: Prancūzija; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'territory: Anglija; territory: Lietuva; territory: Prancūzija; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija'
   semantiniai_rysiai: '[[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Anglija; [[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Lietuva; [[objektai/asmenys/Henrikas IV|Henrikas IV]] buvo valdovas Prancūzija'
   pagrindžia:
     - c-001

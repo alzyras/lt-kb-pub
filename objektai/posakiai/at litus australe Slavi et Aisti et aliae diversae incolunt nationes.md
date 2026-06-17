@@ -30,8 +30,8 @@ Apie 830 m. Ka­ roliaus Didžiojo biografas Einhardas (Vita Caroli Magni) minė
   global_id: t-31554
   teiginys: 'Apie 830 m. Einhardas „Vita Caroli Magni“ pietiniame Baltijos krante minėjo slavus, aisčius ir kitas tautas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie posakio šaltinį ir turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_person: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_place: Baltija'
-  temporaliniai_duomenys: 'įvykio data: 830 m; įvykio data: 890 m; įvykio data: apie 830 m.; įvykio data: 880-890'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Baltija'
+  temporaliniai_duomenys: 'įvykio data: 890 m; įvykio data: apie 830 m.; įvykio data: 880-890'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie posakio šaltinį ir turinį.'
   pagrindžia:

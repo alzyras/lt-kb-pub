@@ -36,7 +36,6 @@ Nenurodyta
   global_id: t-02041
   teiginys: 'Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.'
   sudarymo_pagrindimas: 'Sakinys papildytas inventorių paskirtimi, kurią tiesiogiai pagrindžia citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]'
   pagrindžia:
     - c-001
 

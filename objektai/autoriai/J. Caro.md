@@ -29,7 +29,6 @@ HrlU, IV, 127 p. — J. Caro : Geschichte Polens, III, 1869, 211 p.
   global_id: t-100111
   teiginys: 'J. Caro 1869 m. išleido veikalo „Geschichte Polens“ trečią tomą.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1869 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra bibliografinis fragmentas; citata leidžia suformuluoti glaustą faktinį sakinį.'

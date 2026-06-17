@@ -14,7 +14,6 @@ tags:
   - karalius
   - kunigaikštis
   - mūšis
-  - ordinas
 amziai:
   - 'XIII'
 ---

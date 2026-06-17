@@ -70,7 +70,7 @@ Nenurodyta
 - t-003
   global_id: t-55053
   teiginys: 'Po metų laikymo užstatą reikėjo parodyti teisėjui, o netinkamą užstatą buvo leidžiama parduoti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

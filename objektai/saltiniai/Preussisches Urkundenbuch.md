@@ -31,7 +31,7 @@ PUB = Preussisches Urkundenbuch, t.
   global_id: t-67523
   teiginys: '1222 arba 1223 m. Konrado privilegija vyskupui Kristijonui patvirtina Kulmo ir kitų šios žemės pilių sunaikinimą.'
   sudarymo_pagrindimas: 'Pašalintas išnašos numeris ir OCR triukšmas; faktas remiamas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas'
+  susije_objektai: 'mentioned_place: Kulmas'
   temporaliniai_duomenys: 'įvykio data: 1223 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos numeris ir OCR triukšmas; faktas remiamas citata.'
@@ -43,7 +43,7 @@ PUB = Preussisches Urkundenbuch, t.
   global_id: t-67524
   teiginys: '„Preussisches Urkundenbuch“ nurodomas prie teiginio, kad Kristijonas 1215 m. antroje pusėje arba 1216 m. pradžioje paskelbtas pirmuoju Prūsijos vyskupu.'
   sudarymo_pagrindimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1215 m.; įvykio data: 1216 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį reikia susieti su šaltinio objektu, nes citatoje jis pateiktas kaip bibliografinė nuoroda.'

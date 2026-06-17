@@ -36,7 +36,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81588
   teiginys: '1390 m. žygyje prancūzams ir kitiems kariams vadovavo riteris Boucicaut.'
   sudarymo_pagrindimas: 'Pašalintas išnašos ženklas ir pridėtas citatos kontekste nurodytas žygio laikas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Boucicaut|Boucicaut]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas IV|Henrikas IV]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Anglija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Škotai|Škotai]]; mentioned_person: [[objektai/asmenys/Henrikas IV|Henrikas IV]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Anglija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1390 m.; įvykio data: 1391 m.; įvykio data: 1393 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas išnašos ženklas ir pridėtas citatos kontekste nurodytas žygio laikas.'
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81592
   teiginys: 'Prancūzai priėmė lenkų kvietimą į dvikovą ir kautynių vieta pasirinko Prahą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Praha'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Praha'
   pagrindžia:
     - c-004
 
@@ -66,7 +66,7 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81593
   teiginys: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   sudarymo_pagrindimas: 'Teiginys buvo OCR fragmentas; citata pagrindžia prancūzų savanorių atvykimą į žygį.'
-  susije_objektai: 'location: Anglija; location: Lietuva; location: Prancūzija; location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija'
+  susije_objektai: 'location: Anglija; location: Lietuva; location: Prancūzija; location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Anglija; [[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Lietuva; [[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prancūzija; [[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prūsija'
   pagrindžia:
     - c-003

@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie karą su Vonsdorfo [Unzatrapio] žemės gyventojai
   global_id: t-58422
   teiginys: 'Karaliaučiaus komtūras su sembų kariuomene netikėtai įsibrovė į Vonsdorfo, arba Unzatrapio, žemę.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir pastabų triukšmas, paliktas citatos palaikomas faktas apie žemę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
   temporaliniai_duomenys: 'įvykio data: 1257 m.; įvykio data: 1258 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir pastabų triukšmas, paliktas citatos palaikomas faktas apie žemę.'

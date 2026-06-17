@@ -22,7 +22,7 @@ Pats miestelis dali­ jamas į aukštutinį ir žemutinį: pirmajame stovi aukš
   global_id: t-86616
   teiginys: 'Veliuonos aukštutinio miestelio gotikinės mūro bažnyčios mažesnioji dalis buvo vadinama Sanctuarium.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas tiesiogiai paremtas faktas apie terminą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Veliuona; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Veliuona; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176705|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautui priskiriama pirmoji vienos Žemaitijos bažnyčios fundacija po krikščionybės įvedimo.

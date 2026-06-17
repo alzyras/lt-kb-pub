@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - mūšis
   - pilis
-  - vieta
 ---
 # Višogrudas
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   global_id: t-58489
   teiginys: 'Magistro pasiųsta kariuomenė Lenkijoje apsupo Višogrudą, Lenkijos karaliaus pilį prie Vyslos.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrauktas į vieną aiškų faktą apie Višogrudą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Vysla'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.

@@ -23,7 +23,7 @@ tags:
   global_id: t-02098
   teiginys: 'Burba rašė, kad Šliūpo lietuvystei naudingi darbai priimtini, jei neprieštarauja tikėjimui, nes tautiškuose dalykuose svarbi visuomeniška pažvalga.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, nutrūkęs ir turi būti sutrauktas į vieną aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

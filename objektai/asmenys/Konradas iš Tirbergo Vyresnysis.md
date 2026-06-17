@@ -33,7 +33,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   global_id: t-89912
   teiginys: 'Konradas iš Tirbergo Vyresnysis su broliais įsiveržė į Pagudės žemę, ją nusiaubė, apiplėšė ir išsivarė moteris bei vaikus į nelaisvę.'
   sudarymo_pagrindimas: 'Teiginys remiamas citata, bet reikia normalaus vardo rašymo ir glaustumo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bansas|Bansas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Pabečiai; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Pabečiai; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   global_id: t-89913
   teiginys: 'Konradas iš Tirbergo Vyresnysis buvo maršalas tuo metu, kai Ditrichas iš Gaterslebeno ėjo Prūsijos žemės magistro pareigas.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia aiškaus antecedento vietoj „tuo pat metu“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Gaterslebeno|Ditrichas iš Gaterslebeno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Ditrichas iš Gaterslebeno|Ditrichas iš Gaterslebeno]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-009
 
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   global_id: t-89914
   teiginys: 'Konradas iš Tirbergo Vyresnysis pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.'
   sudarymo_pagrindimas: 'Citata remia konkretų veiksmą; pradinis tekstas nutrūkęs.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Barta; mentioned_place: Nadruva; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1274 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia konkretų veiksmą; pradinis tekstas nutrūkęs.'
@@ -93,7 +93,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   global_id: t-89918
   teiginys: 'Dusburgietis Konradą iš Tirbergo Vyresnįjį ir jo brolį Konradą Jaunesnįjį apibūdino kaip ryžtingus ir karo žygiais išgarsėjusius vyrus.'
   sudarymo_pagrindimas: 'Tai autoriaus vertinimas, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsija'
   pagrindžia:
     - c-007
 
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad tuo pat metu maršalu buvo brolis Konradas iš Tirbergo
   global_id: t-89921
   teiginys: 'Konradas iš Tirbergo Vyresnysis buvo Konrado iš Tirbergo Jaunesniojo tikrasis brolis.'
   sudarymo_pagrindimas: 'Pagrindinis pradinis teiginys apie kitą asmenį, bet citata remia giminystės faktą apie note objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/asmenys/Ditrichas iš Gaterslebeno.md#claim-t-60265|Ditrichas iš Gaterslebeno]]: Ditrichas iš Gaterslebeno buvo aštuntasis Prūsijos žemės magistras ir nuo 1271 m. vadovavo šešerius metus.

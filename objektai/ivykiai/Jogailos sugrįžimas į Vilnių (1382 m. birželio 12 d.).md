@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-28819
   teiginys: '1382 m. birželio 12 d. Jogailai atvykus į Vilnių, Hanulis jam įteikė pilies raktus.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia sakinį apie patį Jogailos sugrįžimą į Vilnių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Hanulis|Hanulis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Hanulis|Hanulis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1382 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata geriau pagrindžia sakinį apie patį Jogailos sugrįžimą į Vilnių.'

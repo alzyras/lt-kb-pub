@@ -29,7 +29,7 @@ Priselkov, M.
 - t-001
   global_id: t-31841
   teiginys: 'M. Priselkovo ir M. Fasmerio „Otryvki V. N. Beneševiča po istoriji russkoj cerkvi XIV v.“ publikuota 1916 m., p. 49–61.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Fasmer|M. Fasmer]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Fasmer|M. Fasmer]]'
   temporaliniai_duomenys: 'įvykio data: 1916 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

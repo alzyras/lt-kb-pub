@@ -30,7 +30,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   global_id: t-75528
   teiginys: 'Motiejaus Valančiaus atvaizdas buvo publikuotas J. K. Vilčinskio „Vilniaus albume“.'
   sudarymo_pagrindimas: 'Citata paremia tik vaizdo sąsają su „Vilniaus albumu“, todėl teiginys sutrumpintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1858 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata paremia tik vaizdo sąsają su „Vilniaus albumu“, todėl teiginys sutrumpintas.'
@@ -42,7 +42,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   global_id: t-75529
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pavaizduota Vilniaus katedra.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata leidžia suformuluoti faktą apie albumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -63,7 +63,7 @@ Vilniaus universiteto Didysis kiemas ir Šv. Vilniaus katedra iš J. Prancūzų 
   global_id: t-75532
   teiginys: 'J. K. Vilčinskio „Vilniaus albume“ pateiktas Vilniaus Verkių rūmų interjero vaizdas.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia tvarkingą faktą apie albumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/daiktai/Vilniaus Verkių rūmų interjeras|Vilniaus Verkių rūmų interjeras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Vilniaus Verkių rūmų interjeras|Vilniaus Verkių rūmų interjeras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

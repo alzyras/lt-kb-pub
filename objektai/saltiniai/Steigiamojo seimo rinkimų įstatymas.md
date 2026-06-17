@@ -30,7 +30,7 @@ amziai:
   global_id: t-02285
   teiginys: 'Steigiamojo seimo rinkimų įstatymas buvo paskelbtas 1919 m. lapkričio 20 d.'
   sudarymo_pagrindimas: 'Citata patikslina paskelbimo dieną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patikslina paskelbimo dieną.'

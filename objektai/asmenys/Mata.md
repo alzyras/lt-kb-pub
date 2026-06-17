@@ -10,7 +10,6 @@ tags:
   - karalius
   - mūšis
   - ordinas
-  - tikėjimas
 ---
 # Mata
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   global_id: t-60055
   teiginys: 'Pipino sūnus Mata, kurio tėvas žuvo pirmosiose kovose prieš Ordiną, vėliau tarnavo Ordinui.'
   sudarymo_pagrindimas: 'Citata pagrindžia Matos kilmę ir tarnybą Ordinui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]'
   pagrindžia:
     - c-002
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad štai pirmosiose kovose prieš Ordiną žuvusio Pipino 
   global_id: t-60056
   teiginys: 'Kilmingas pamedėnas Mata, Pipino sūnus, patarė broliams ir kariuomenei pulti priešus pėsčiomis, palikus arklius užnugaryje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi perteklinį kontekstą, bet citata patvirtina Matos patarimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Kuršas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Kuršas; mentioned_place: Viena'
   pagrindžia:
     - c-003
 

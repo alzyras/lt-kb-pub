@@ -33,7 +33,7 @@ Dusburgietis teigia, kad 34, p. 112; Pašuta V., Lietuvos..., p. 108; Jurginis J
   global_id: t-64574
   teiginys: 'Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas bibliografine nuoroda į Dundulienės darbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Ole
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas pilnas Fedoro Ivanovičiaus Jaroslavičiaus vardas ir paliktas ryšys su Alšėniškiais. Nepridėtos valdos ar santuokos detalės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

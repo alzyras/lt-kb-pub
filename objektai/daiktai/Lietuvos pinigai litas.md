@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-19550
   teiginys: 'Lito susiejimas su JAV doleriu laikytas vienu išmintingiausių atsikūrusios Lietuvos ekonominės politikos sprendimų.'
   sudarymo_pagrindimas: 'Pirminis teiginys neatitinka citatos, bet citata pagrindžia faktą apie litą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1993 m.; įvykio data: 1993 m.; įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys neatitinka citatos, bet citata pagrindžia faktą apie litą.'

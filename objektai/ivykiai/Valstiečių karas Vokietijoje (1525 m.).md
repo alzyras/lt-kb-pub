@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia taisyti OCR klaidas ir atriboti Gvagninio pateiktą apibūdinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/autoriai/Aleksandras Gvagninis|Aleksandras Gvagninis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Aleksandras Gvagninis|Aleksandras Gvagninis]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1525 m.; įvykio data: apie 1525 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia taisyti OCR klaidas ir atriboti Gvagninio pateiktą apibūdinimą.'

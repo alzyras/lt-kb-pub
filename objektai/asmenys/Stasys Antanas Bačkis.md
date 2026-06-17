@@ -31,7 +31,7 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
   global_id: t-19246
   teiginys: 'Stasys Antanas Bačkis 1983–1991 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.'
   sudarymo_pagrindimas: 'Teiginys perrašytas kaip sakinys apie konkretų asmenį ir jo pareigas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Baltija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Lozoraitis|Stasys Lozoraitis]]; mentioned_place: Baltija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas kaip sakinys apie konkretų asmenį ir jo pareigas.'
@@ -61,6 +61,3 @@ LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo dip
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Stasys Antanas Bačkis

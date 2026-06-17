@@ -34,10 +34,6 @@ Bet, greta visų rinkliavų ūkio produktais ir amatininkų gaminiais, kai kuri�
   susije_objektai: 'mentioned_place: Horodlė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Viešų miesto paslaugų pelno skyrimas Vilniaus iždui.md#claim-t-87186|Viešų miesto paslaugų pelno skyrimas Vilniaus iždui]]: Prie Vilniaus rotušės leistų krautuvių, viešos miesto virtuvės ir vyninės pelnas buvo skiriamas miesto iždui.
-- susijęs iš Polianų dvaras: Aplink Polianų dvarą prie Ašmenos valstiečiai kelis kartus rado lietuviškų rublių, tai yra sidabrinių lazdelių arba liejinukų.
-- susijęs iš [[objektai/zodynas/lietuviški grašiai, pusgrašiai ir rubliai.md#claim-t-86480|lietuviški grašiai, pusgrašiai ir rubliai]]: Lietuviški rubliai, vadinti sidabrinėmis lazdelėmis arba liejinukais, šioje kalykloje greičiausiai buvo daromi rusišku pavyzdžiu.
-- susijęs iš [[objektai/zodynas/pastočiai.md#claim-t-72714|pastočiai]]: Bajorai buvo atleisti nuo pastočių, pilių statymo ir remontavimo, didžiojo kunigaikščio pievų pjovimo bei sidabrinės.
 - susijęs iš [[objektai/zodynas/sidabrinė duoklė tributum serebsčina.md#claim-t-34312|sidabrinė duoklė tributum serebsčina]]: Sidabrinė duoklė buvo piniginis paklusnybės mokestis, daugiausia žinomas sidabrinės arba serebsčinos vardu.
 ## Reikšmingi paminėjimai
 

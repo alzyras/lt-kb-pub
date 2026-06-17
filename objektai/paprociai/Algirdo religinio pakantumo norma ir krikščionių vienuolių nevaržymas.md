@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87193
   teiginys: 'Algirdas toleravo krikščionybę, bet dar nedraudė Perkūno garbinimo ir nekeitė pagonių šventyklų krikščionių bažnyčiomis.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas ir sutrumpintas pagal citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]'
   pagrindžia:
     - c-001
 

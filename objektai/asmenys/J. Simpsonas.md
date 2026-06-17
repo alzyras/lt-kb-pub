@@ -21,7 +21,7 @@ Simpsono klausimą dėl požiūrio į federaciją su Rusija atsakė, kad „Liet
   global_id: t-26443
   teiginys: 'J. Simpsonas paklausė A. Voldemaro apie požiūrį į federaciją su Rusija.'
   sudarymo_pagrindimas: 'Citata apie J. Simpsoną pagrindžia tik klausimo faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

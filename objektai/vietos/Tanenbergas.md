@@ -11,7 +11,6 @@ tags:
   - kraštas
   - ordinas
   - valstybė
-  - vieta
 ---
 # Tanenbergas
 

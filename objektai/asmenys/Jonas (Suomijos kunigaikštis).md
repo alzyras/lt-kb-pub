@@ -23,7 +23,7 @@ Jis taip pat palaimino Vilniuje Suomijos kunigaikščio Jono, kuris vėliau tapo
   global_id: t-87712
   teiginys: 'Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi.'
   sudarymo_pagrindimas: 'Citata palaiko santuoką ir vėlesnį karaliaus titulą, bet pradinis sakinys remiasi neaiškiu įvardžiu.'
-  susije_objektai: 'territory: Suomija; territory: Vilnius; territory: Švedija; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'territory: Suomija; territory: Vilnius; territory: Švedija; mentioned_place: Suomija; mentioned_place: Vilnius; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas (Suomijos kunigaikštis)|Jonas (Suomijos kunigaikštis)]] buvo valdovas Suomija; [[objektai/asmenys/Jonas (Suomijos kunigaikštis)|Jonas (Suomijos kunigaikštis)]] buvo valdovas Vilnius; [[objektai/asmenys/Jonas (Suomijos kunigaikštis)|Jonas (Suomijos kunigaikštis)]] buvo valdovas Švedija'
   pagrindžia:
     - c-001

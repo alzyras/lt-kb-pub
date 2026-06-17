@@ -30,7 +30,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   global_id: t-74752
   teiginys: 'Lietuvos laisvės lyga nuo 1976 m. pogrindyje leido laikraštį „Laisvės šauklys“, o nuo 1978 m. – žurnalą „Vytis“.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta, pašalinta neapibrėžta frazė apie kitus leidinius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1976 m.; įvykio data: 1976 m.; įvykio data: po 1978 m.; įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta, pašalinta neapibrėžta frazė apie kitus leidinius.'
@@ -54,7 +54,7 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   global_id: t-74756
   teiginys: 'Lietuvos laisvės lyga siekė ne reformuoti SSRS, o taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.'
   sudarymo_pagrindimas: 'Santrumpa išplėsta į pilną organizacijos pavadinimą, teiginys sutrumpintas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Santrumpa išplėsta į pilną organizacijos pavadinimą, teiginys sutrumpintas.'
@@ -129,4 +129,5 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Lietuvos laisvės lyga
+- [[objektai/asmenys/Antanas Terleckas]] susije_su Lietuvos laisvės lyga
+- [[objektai/asmenys/Petras Cidzikas]] susije_su Lietuvos laisvės lyga

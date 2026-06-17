@@ -67,7 +67,7 @@ Nenurodyta
   global_id: t-71789
   teiginys: 'Švedijos kariuomenės vadovybė sureagavo į lietuvių imituotą atsitraukimą ir įsakė pulti „besitraukiančius“ lietuvius.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį skliaustinį komentarą ir suformuluoti glaustą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1270 m.; įvykio data: 1279 m.; įvykio data: 1410 m.; įvykio data: 1514 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti perteklinį skliaustinį komentarą ir suformuluoti glaustą sakinį.'
@@ -79,7 +79,7 @@ Nenurodyta
   global_id: t-71790
   teiginys: 'Karolis Chodkevičius įsakė Lietuvos kariuomenei imituoti atsitraukimą visu frontu.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau ir enciklopediškiau, pašalinant neaiškų žodį „visam“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1270 m.; įvykio data: 1279 m.; įvykio data: 1410 m.; įvykio data: 1514 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau ir enciklopediškiau, pašalinant neaiškų žodį „visam“.'

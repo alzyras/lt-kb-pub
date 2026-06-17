@@ -27,7 +27,7 @@ Pabūgęs visko netekti, Augustas Altrandštate (Saksonijoje) padarė su Karoliu
   global_id: t-02333
   teiginys: '1706 m. Augustas Altrandštate sudarė taiką su Karoliu, atsisakė Respublikos sosto ir pripažino Leščinskį karaliumi.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyti citatoje paremti faktai apie Altrandštatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Brasta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Karolis XII|Karolis XII]]; mentioned_place: Brasta'
   temporaliniai_duomenys: 'įvykio data: 1706 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išlaikyti citatoje paremti faktai apie Altrandštatą.'

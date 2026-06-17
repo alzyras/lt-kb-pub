@@ -25,7 +25,7 @@ tags:
   global_id: t-06880
   teiginys: 'Vytautas maršalkai pareiškė, kad piktuoju iš jo dar niekas nieko nelaimėjo ir kad savo nusistatymo jis nekeičia.'
   sudarymo_pagrindimas: 'Citata remia faktą apie Vytauto pasakytą poziciją, o ne abstrakčią formulės interpretaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

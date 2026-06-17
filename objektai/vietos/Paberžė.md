@@ -27,7 +27,7 @@ Birželio 3 d. buvo užimti Daugailiai, Tauragnai, birželio 4 d. Paberžė.
   global_id: t-41990
   teiginys: '1919 m. birželio 4 d. lietuvių kariai užėmė Paberžę, persekiodami bolševikus.'
   sudarymo_pagrindimas: 'Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Iš citatos išplėstas veiksnys ir kontekstas, kad sakinys būtų enciklopedinis.'

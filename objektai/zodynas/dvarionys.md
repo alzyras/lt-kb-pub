@@ -22,7 +22,7 @@ Lietuvos metraštyje karaliaus Aleksandro dvarionys lietuviai ir rusai buvo pasi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išskleistas subjektas – Aleksandro dvarionys, o valdovų titulai palikti su šaltinio atribucija. Nepridėta daugiau apie totorių persekiojimą, nes teiginys skirtas žodžio vartosenai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

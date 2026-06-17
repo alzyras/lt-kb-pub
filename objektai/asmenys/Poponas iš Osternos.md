@@ -15,7 +15,6 @@ tags:
   - kraštas
   - kunigaikštis
   - ordinas
-  - pilis
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   global_id: t-59944
   teiginys: 'Poponas iš Osternos buvo antras Prūsijos žemės magistras, pareigas ėjo septynerius metus ir 1241 m. jų atsisakė.'
   sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir perteklinę atribuciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti antraštės triukšmą ir perteklinę atribuciją.'
@@ -46,7 +45,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   global_id: t-59945
   teiginys: 'Poponas iš Osternos tuo metu buvo šeštasis Teutonų namų ordino didysis magistras.'
   sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir autorystės boilerplate.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Livonija; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 
@@ -68,7 +67,7 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   global_id: t-59947
   teiginys: 'Magistras Poponas pavedė Konradui Bremeriui nuplukdyti į Elbingą tris maisto prikrautus laivus.'
   sudarymo_pagrindimas: 'Pradinis teiginys sujungia antraštę, ilgą kontekstą ir nutrūksta.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas'
   pagrindžia:
     - c-004
 

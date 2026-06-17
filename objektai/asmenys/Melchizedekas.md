@@ -23,7 +23,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   global_id: t-60387
   teiginys: 'Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.'
   sudarymo_pagrindimas: 'Citata remiasi bibline scena, todėl tinka šaltinio pasakojimo atribucija.'
-  susije_objektai: 'territory: Prūsija; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Prūsija; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Melchizedekas|Melchizedekas]] buvo valdovas Prūsija'
   pagrindžia:
     - c-001

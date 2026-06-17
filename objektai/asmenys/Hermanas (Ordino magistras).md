@@ -34,7 +34,7 @@ Dusburgietis teigia, kad padedamas šių maldininkų, atvykusių į Torunę, mag
   global_id: t-60029
   teiginys: 'Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir užterštas antrašte; citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Salos; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Marienverderis; mentioned_place: Pamedė; mentioned_place: Saksonija; mentioned_place: Salos; mentioned_place: Viena'
   temporaliniai_duomenys: 'pastatymo data: 1233 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir užterštas antrašte; citata palaiko konkretų faktą.'

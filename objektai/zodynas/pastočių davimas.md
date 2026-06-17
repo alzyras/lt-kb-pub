@@ -30,7 +30,7 @@ Karalius už nuopelnus da­ lijo bajorams statydintis žemės sklypus, priklausa
   global_id: t-86604
   teiginys: '1451 metais Kazimieras miestiečius, paklūstančius Magdeburgo teisei, atleido nuo pastočių davimo.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/pastočiai|pastočiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -30,7 +30,7 @@ Lenkijoje tai įvyko tik po Liublino unijos – būtent 1573 m. vadinamojoje Var
   global_id: t-78143
   teiginys: 'Lenkijoje daugiakonfesiškumas juridiškai įformintas 1573 m. Varšuvos konfederacijoje po Liublino unijos.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, todėl faktas išplėstas į savarankišką sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/daugiakonfesiškumas|daugiakonfesiškumas]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/daugiakonfesiškumas|daugiakonfesiškumas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1563 m.; įvykio data: 1573 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, todėl faktas išplėstas į savarankišką sakinį.'

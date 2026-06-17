@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-01890
   teiginys: 'Šiaulių ekonomijos sukilėliai norėjo susidėti su Ukrainos valstiečiais, bet atvykusi kariuomenė jų sukilimą žiauriai numalšino.'
   sudarymo_pagrindimas: 'Perrašyta apie note objektą ir išlaikyta citatos atrama.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekonomija|ekonomija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Ukraina; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_place: Ukraina; mentioned_place: Šiauliai'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-01891
   teiginys: '1769 m. Šiaulių ekonomijos valstiečių sukilimas buvo ypač garsus valstiečių sukilimų atvejis.'
   sudarymo_pagrindimas: 'Pradinė formuluotė buvo pernelyg bendra.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekonomija|ekonomija]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1769 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė buvo pernelyg bendra.'

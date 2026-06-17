@@ -22,7 +22,7 @@ Kai kurie Kojelavičiaus minimi šaltiniai teigė, kad Daumantas įkūrė Svyri�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikalinga atribucija, nes citata kalba apie kitų šaltinių minimą kilmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Giedraičiai; mentioned_place: Utena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_place: Giedraičiai; mentioned_place: Utena'
   pagrindžia:
     - c-001
 

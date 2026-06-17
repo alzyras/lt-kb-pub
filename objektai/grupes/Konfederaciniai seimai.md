@@ -22,7 +22,6 @@ Kadangi seimo iširimas dažnai grėsdavo valstybei dideliais pavojais, tai prie
   global_id: t-72117
   teiginys: 'Konfederaciniai seimai buvo skirti seimų iširimui išvengti ir numatytus klausimus spręsdavo balsų dauguma.'
   sudarymo_pagrindimas: 'Pradinė formuluotė turi neaiškų įvardį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 

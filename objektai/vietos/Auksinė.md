@@ -42,7 +42,7 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   global_id: t-58518
   teiginys: 'Auksinės apylinkės siejamos su pagonišku kultu, remiantis vietovardžiais Juodkapis, Sernupė ir galbūt Auksinės upės vardu.'
   sudarymo_pagrindimas: 'Citata palaiko ryšį su pagonišku kultu ir nurodo argumentus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/Šernas|Šernas]]; mentioned_place: Europa; mentioned_place: Prieglius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Šernas|Šernas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Europa; mentioned_place: Prieglius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92027|Auksinė Orda]]: Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.

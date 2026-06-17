@@ -31,7 +31,6 @@ Taktinį pranašumą sąlygojo jų lengvoji kavalerija.
 - susijęs iš Krymo pusiasalis: Krymo pusiasalio nuošalumas nuo Lenkijos, Lietuvos ir Maskvos valstybės totoriams teikė strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo Krymą ir didino totorių pagrindinės buveinės strateginį pranašumą.
 - susijęs iš Perekopo sąsmauka: Įtvirtinta Perekopo sąsmauka saugojo sunkiai pasiekiamą totorių bazę, iš kurios jie galėjo leistis į tolimus žygius.
-- susijęs iš [[objektai/zodynas/husarai.md#claim-t-49272|husarai]]: Husarai buvo XVI a. Lietuvoje atsiradusi vengriško tipo lengvoji kavalerija.
 - susijęs iš [[objektai/zodynas/rotmistras.md#claim-t-70311|rotmistras]]: Rotmistras buvo kavalerijos dalinio vadas, su šaukimo raštais pats rinkdavęs bajoriškos kilmės karius.
 - susijęs iš [[objektai/zodynas/sunkioji kavalerija.md#claim-t-42513|sunkioji kavalerija]]: Tautinio autoramento pagrindu formuota sunkioji kavalerija buvo husarai.
 ## Reikšmingi paminėjimai

@@ -20,7 +20,7 @@ Informacinių blokų apie karybą sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPER
 - t-001
   global_id: t-41550
   teiginys: 'Karolis Zikaras parengė informacinį bloką „Lietuvos karyba XIII a.“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_person: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Andžej Geglis|Andžej Geglis]]; mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]'
   pagrindžia:
     - c-001
 

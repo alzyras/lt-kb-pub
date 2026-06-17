@@ -24,7 +24,7 @@ Dusburgietis teigia, kad — balista, Jer.— armbrost; arbaletas— kilpinis la
   global_id: t-58846
   teiginys: 'Henrikas Tupadelis buvo įgudęs balistininkas, raginęs apsuptuosius gintis ir gesinęs piliai padegti skirtus degalus.'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai taisytinas, bet citata remia faktą apie balistininką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Henrikas Tupadelis|Henrikas Tupadelis]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

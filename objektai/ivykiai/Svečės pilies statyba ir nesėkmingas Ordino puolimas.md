@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-66924
   teiginys: 'Jis mat norėjo neleisti statyti čia pilies.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Biala; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Semba; mentioned_place: Svečė; mentioned_place: Torunė; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Biala; mentioned_place: Kaimas; mentioned_place: Kulmas; mentioned_place: Nogatas; mentioned_place: Semba; mentioned_place: Svečė; mentioned_place: Torunė; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 

@@ -35,7 +35,7 @@ Nenurodyta
   global_id: t-07781
   teiginys: 'Karo grobis buvo dalijamas į keturias dalis: dievams, kunigaikščiui su tarnais ar kunigais, kareiviams ir žuvusiųjų giminėms.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, o perrašymas glaustai įvardija visas keturias grobio dalis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]'
   pagrindžia:
     - c-001
 

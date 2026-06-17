@@ -14,7 +14,6 @@ tags:
   - karas
   - kraštas
   - mūšis
-  - valstybė
 amziai:
   - 'XX'
 ---
@@ -51,7 +50,7 @@ amziai:
   global_id: t-40868
   teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir, palaipsniui judėdami į pietus, pasiekė Raseinius.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisyta skyryba, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Raseiniai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169965|Ernestas Galvanauskas]]: Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę.

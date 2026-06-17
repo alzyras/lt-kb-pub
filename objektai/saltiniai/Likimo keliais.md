@@ -22,7 +22,7 @@ Misterijos „LIKIMO KELIAIS” II da­ lis, su priedu — V. 8, — „Likimo k
 - t-001
   global_id: t-36078
   teiginys: '„Likimo keliais“ II dalis išleista kaip Vinco Krėvės raštų VIII tomo dalis su V. Bičiūno pastabomis ir komentarais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/misterija|misterija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

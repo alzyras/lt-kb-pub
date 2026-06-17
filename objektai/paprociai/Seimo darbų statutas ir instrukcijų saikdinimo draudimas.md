@@ -37,7 +37,7 @@ Nenurodyta
   global_id: t-02018
   teiginys: 'Iki statuto seimo darbai vyko be nustatytos tvarkos ir dažnai iširdavo atstovams nesusitarus išrinkti maršalkos.'
   sudarymo_pagrindimas: 'Sutrumpinta ir susieta su note objektu apie seimo darbų tvarką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-02019
   teiginys: 'Atstovų priesaikos griežtai laikytis seimelių instrukcijų buvo uždraustos, nes dėl jų anksčiau iširdavo daug seimų.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas aiškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 

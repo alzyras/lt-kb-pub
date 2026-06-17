@@ -21,7 +21,7 @@ Lietuviai tų knygpalaikių neėmė nė į rankas, o slaptųjų knygų skaičius
   global_id: t-03035
   teiginys: 'Lietuviai neėmė į rankas valdžios leistų rusiškomis raidėmis spausdintų knygpalaikių.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki tiesiogiai apie terminą pagrįsto fakto.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Rusiškosios raidės|Rusiškosios raidės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ tags:
   global_id: t-77855
   teiginys: 'Lietuvos siekis atgauti Vilnių vedė ją į revizionistinių valstybių draugiją, todėl lietuviai vadinami „revizionistais per prievartą“.'
   sudarymo_pagrindimas: 'Pradinis teiginys per silpnas ir abstraktus; citata pagrindžia aiškesnį sakinį apie priežastį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Varšuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/buferinė valstybė saugumo kordonas cordon sanitaire.md#claim-t-101572|buferinė valstybė saugumo kordonas cordon sanitaire]]: Lietuva tik iš dalies tapo buferine valstybe, nes siekis atgauti Vilnių ją vedė į revizionistinių valstybių draugiją.

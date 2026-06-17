@@ -20,7 +20,7 @@ Gasiūnas, Vysk.
 - t-001
   global_id: t-30670
   teiginys: 'J. Gasiūnas rengė spaudai veikalą „Vysk. K. Paltaroko gyvenimas“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
   pagrindžia:
     - c-001
 

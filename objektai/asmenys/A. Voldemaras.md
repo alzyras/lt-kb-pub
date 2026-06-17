@@ -15,7 +15,6 @@ tags:
   - miestas
   - seimas
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 periodo_grupes:
@@ -46,7 +45,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   global_id: t-77997
   teiginys: 'A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas.'
   sudarymo_pagrindimas: 'Pradinis sakinys gremėzdiškas; citata leidžia glaustesnę enciklopedinę formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1927 m.; įvykio data: 1928 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys gremėzdiškas; citata leidžia glaustesnę enciklopedinę formą.'
@@ -58,7 +57,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   global_id: t-77998
   teiginys: '1929 m. rugsėjį A. Voldemaras neteko pareigų, nes atsisakė tapti užsienio reikalų ministru.'
   sudarymo_pagrindimas: 'Pradinė formuluotė „liko be pareigų“ taisytina į neutralesnę enciklopedinę kalbą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė „liko be pareigų“ taisytina į neutralesnę enciklopedinę kalbą.'
@@ -94,7 +93,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   global_id: t-78001
   teiginys: 'Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo per silpnai kontekstualizuotas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vienvaldystė|vienvaldystė]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/in corpore|in corpore]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo per silpnai kontekstualizuotas.'

@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-66771
   teiginys: '1940 m. birželio 7 d. Maskvoje Viačeslavas Molotovas brutaliai elgėsi su Antanu Merkiu ir kaltino Lietuvą antisovietiškumu.'
   sudarymo_pagrindimas: 'Teiginys nutrūkęs ties inicialu, o citata leidžia įvardyti asmenis ir veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Viačeslavas Molotovas|Viačeslavas Molotovas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/Viačeslavas Molotovas|Viačeslavas Molotovas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1939 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys nutrūkęs ties inicialu, o citata leidžia įvardyti asmenis ir veiksmą.'
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-66772
   teiginys: '1940 m. gegužės pabaigoje Maskva apkaltino Lietuvą sovietų bazių kareivių grobimu ir pakvietė į Maskvą premjerą Antaną Merkį.'
   sudarymo_pagrindimas: 'Teiginys nutrūkęs, bet citata palaiko pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys nutrūkęs, bet citata palaiko pilną faktinį sakinį.'
@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-66773
   teiginys: '1940 m. birželio 10 d. Kaune nutarta pasiųsti Juozą Urbšį į Maskvą, nes Antanui Merkiui nesisekė normalizuoti situacijos.'
   sudarymo_pagrindimas: 'Teiginys yra fragmentas, bet citata palaiko konkretų sprendimą ir priežastį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Kaunas; mentioned_place: Maskva; mentioned_place: Merkys'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Maskva; mentioned_place: Merkys'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra fragmentas, bet citata palaiko konkretų sprendimą ir priežastį.'
@@ -81,7 +81,7 @@ Nenurodyta
   global_id: t-66774
   teiginys: '1940 m. gegužės pabaigoje Maskva viešai apkaltino Lietuvą grobiant kareivius iš sovietų bazių.'
   sudarymo_pagrindimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, faktinis ir tiesiogiai paremtas citata.'

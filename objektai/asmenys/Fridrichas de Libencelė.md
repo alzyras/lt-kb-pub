@@ -30,10 +30,10 @@ periodo_grupes:
   global_id: t-87674
   teiginys: '1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: [[objektai/autoriai/Dusburgas|Dusburgas]]; object: [[objektai/asmenys/Fridrichas|Fridrichas]]; object: [[objektai/asmenys/Gediminas|Gediminas]]; object: Ragainė; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ragainė'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/asmenys/Fridrichas|Fridrichas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/autoriai/Dusburgas|Dusburgas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė Ragainė'
+  susije_objektai: 'object: [[objektai/asmenys/Fridrichas|Fridrichas]]; object: [[objektai/asmenys/Gediminas|Gediminas]]; object: Ragainė; mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ragainė'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/asmenys/Fridrichas|Fridrichas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Fridrichas de Libencelė|Fridrichas de Libencelė]] puolė Ragainė'
   temporaliniai_duomenys: 'mūšio data: 1317 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas de Libencelė puolė Fridrichas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Gediminas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Dusburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Ragainė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas de Libencelė puolė Fridrichas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Gediminas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas de Libencelė puolė Ragainė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
@@ -61,7 +61,6 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Fridrichas de Libencelė puole [[objektai/autoriai/Dusburgas]]
 - Fridrichas de Libencelė puole [[objektai/asmenys/Fridrichas]]
 - Fridrichas de Libencelė puole [[objektai/asmenys/Gediminas]]
 - Fridrichas de Libencelė puole [[objektai/vietos/Ragainė]]

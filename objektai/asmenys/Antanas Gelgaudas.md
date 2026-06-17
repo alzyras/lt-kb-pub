@@ -30,7 +30,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
 - t-001
   global_id: t-63475
   teiginys: 'Antanas Gelgaudas vadovavo 1831 m. birželį į Lietuvą pasiųstai reguliariajai Lenkijos karalystės kariuomenei.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,7 +41,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   global_id: t-63476
   teiginys: 'Antanas Gelgaudas, palikęs štabą, pats dalyvavo mūšyje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Antano Gelgaudo veiksmą mūšyje.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ karių, kuriai vadovavo generolas Antanas Gelgaudas.
   global_id: t-63477
   teiginys: 'Jungtinei sukilėlių kariuomenei vadovavo generolas Antanas Gelgaudas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Antano Gelgaudo vadovavimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

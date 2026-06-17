@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-01602
   teiginys: 'Centralinio komiteto pirmininku buvo Rusijos Dūmos atstovas M. Yčas.'
   sudarymo_pagrindimas: 'Originalas nutrūkęs ir nebaigtas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Janulaitis|A. Janulaitis]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Janulaitis|A. Janulaitis]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

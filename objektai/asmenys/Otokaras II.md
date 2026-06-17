@@ -15,7 +15,6 @@ tags:
   - karalius
   - karvedys
   - kunigaikštis
-  - vyskupas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   global_id: t-175267
   teiginys: 'Otokaras II atsakė: „Pakanka, eik kur tinkamas ir pasieksi, ko nori“.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Otokaras|Otokaras]]; mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -43,7 +42,7 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   global_id: t-175269
   teiginys: '1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
-  susije_objektai: 'territory: Austrija; territory: Kulmas; territory: Reinas; territory: Varmė; territory: Vokietija; territory: Čekija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Otokaras|Otokaras]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'territory: Austrija; territory: Kulmas; territory: Reinas; territory: Varmė; territory: Vokietija; territory: Čekija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Austrija; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Kulmas; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Reinas; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Varmė; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Vokietija; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1254 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Reinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Varmė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Vokietija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'

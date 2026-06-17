@@ -31,7 +31,7 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
 - t-001
   global_id: t-182783
   teiginys: 'Virgoličiaus rinktinė iš Kuršėnų persikėlė į Šiaulius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Virgoličiaus rinktinė|Virgoličiaus rinktinė]]; mentioned_person: [[objektai/asmenys/Virgoličius|Virgoličius]]; mentioned_place: Dauguva; mentioned_place: Kuršėnai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

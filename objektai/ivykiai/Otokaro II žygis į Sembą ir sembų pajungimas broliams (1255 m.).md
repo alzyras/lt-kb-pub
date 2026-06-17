@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-66805
   teiginys: 'Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.'
   sudarymo_pagrindimas: 'Citata patvirtina žygį į Sembą, bet pradinė formuluotė turi netikslią atribuciją ir bibliografinį triukšmą.'
-  susije_objektai: 'territory: Prūsija; territory: Semba; territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Otokaras|Otokaras]]; mentioned_person: [[objektai/asmenys/Otokaras II|Otokaras II]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Čekija'
+  susije_objektai: 'territory: Prūsija; territory: Semba; territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Otokaras II|Otokaras II]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1255 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina žygį į Sembą, bet pradinė formuluotė turi netikslią atribuciją ir bibliografinį triukšmą.'
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-66806
   teiginys: 'Otokaras II, Otonas Brandenburgietis, vyskupai ir kiti kilmingieji dalyvavo žygyje sembams pavergti.'
   sudarymo_pagrindimas: 'Citata remia dalyvių išvardijimą, bet pradinė formuluotė yra fragmentiška ir perkrauta šaltinio tekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Otokaras|Otokaras]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-005
 
@@ -68,7 +68,7 @@ Nenurodyta
   global_id: t-66807
   teiginys: 'Čekijos karalius su kariuomene įsiveržė į Sembą prie Medenavos, degino vietovę, ėmė žmones į nelaisvę ir juos žudė.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia puolimą, bet pradinė formuluotė turi nereikalingą atribuciją ir šaltinio fragmentų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_place: Medenava; mentioned_place: Prūsai; mentioned_place: Rudava; mentioned_place: Semba; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Medenava; mentioned_place: Prūsai; mentioned_place: Rudava; mentioned_place: Semba; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -77,7 +77,7 @@ Nenurodyta
   global_id: t-66808
   teiginys: 'Čekijos karalius perdavė broliams įkaitus ir patarė ant kalvos, kur vėliau stovėjo Karaliaučiaus pilis, pastatyti pilį tikėjimui ginti.'
   sudarymo_pagrindimas: 'Citata remia faktą, o pradinė formuluotė nutrūksta ir kopijuoja per daug šaltinio teksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -86,7 +86,7 @@ Nenurodyta
   global_id: t-66809
   teiginys: 'Po kariuomenės susitaikymo Čekijos karalius nuvedė ją iki Baigos pilies, kur broliai surado Sembos karių galią žinojusį Gedūną.'
   sudarymo_pagrindimas: 'Citata patvirtina veiksmų seką, bet pradinė formuluotė prasideda boilerplate ir yra per ilga.'
-  susije_objektai: 'territory: Baiga; territory: Semba; territory: Viena; territory: Čekija; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gedūnas|Gedūnas]]; mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Baiga; mentioned_place: Semba; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 

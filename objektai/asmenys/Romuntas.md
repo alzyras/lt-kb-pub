@@ -25,10 +25,7 @@ Romuntas buvo Giliginio sūnus ir sosto įpėdinis.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Giliginas|Giliginas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Giliginas.md#claim-t-186041|Giliginas]]: Giliginui mirė sūnus ir sosto įpėdinis Romuntas.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-184844|Traidenis (valdovas, XIII a.)]]: Kojelavičiaus pasakojime Traidenis dar Romuntui gyvam esant vadovavo kariuomenei kaip vyriausiasis vadas.
-- susijęs iš [[objektai/asmenys/Trobius.md#claim-t-186083|Trobius]]: Mirus Romuntui, Žemaitijos kunigaikščiui Trobiui buvo pavesta valdyti Lietuvą.
-- susijęs iš [[objektai/zodynas/globėjo titulas laikinas valdytojas.md#claim-t-185404|globėjo titulas laikinas valdytojas]]: Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą, kai buvo tinkamų Romunto sūnų.
 ## Reikšmingi paminėjimai
 
 - c-001

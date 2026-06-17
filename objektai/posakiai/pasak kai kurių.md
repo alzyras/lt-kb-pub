@@ -14,7 +14,6 @@ tags:
   - miestas
   - pilis
   - posakis
-  - upė
 amziai:
   - 'XIII'
 ---

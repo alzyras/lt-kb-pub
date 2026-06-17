@@ -29,7 +29,7 @@ amziai:
   global_id: t-31291
   teiginys: 'Tarybiniai istorikai teigė, kad Lietuvos Tarybų respublikos suverenumas po kliūčių esą buvęs įvykdytas 1940 m.'
   sudarymo_pagrindimas: 'Reikia aiškiau parodyti, kad tai tarybinių istorikų pozicija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_object: [[objektai/zodynas/suverenumas|suverenumas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/suverenumas|suverenumas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau parodyti, kad tai tarybinių istorikų pozicija.'

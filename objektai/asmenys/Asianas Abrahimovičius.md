@@ -22,7 +22,7 @@ Kartu su juo yra siunčiamas ir mūsų priskirtas vertėjas Asianas Abrahimovič
   global_id: t-87628
   teiginys: 'Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra OCR fragmentas, o citata aiškiai patvirtina Asianui Abrahimovičiui priskirtą vertėjo vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Maišiagala; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Maišiagala; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

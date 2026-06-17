@@ -22,7 +22,7 @@ Lietuvos - 2-asis pėstininkų pulkas, 6-asis raitųjų šaulių pulkas, 12-asis
   global_id: t-38927
   teiginys: '2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.'
   sudarymo_pagrindimas: 'Pirminis tekstas yra sąrašo fragmentas, bet citata pagrindžia aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Mosin-Nagant šautuvas.md#claim-t-39209|Mosin-Nagant šautuvas]]: Po 1877-1878 m. Rusijos-Turkijos karo Rusijos karinė vadovybė nurodė sukurti naujo tipo ginklą, kuriuo tapo Mosin-Nagant šautuvas.

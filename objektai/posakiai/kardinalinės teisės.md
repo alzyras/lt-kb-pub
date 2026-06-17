@@ -10,7 +10,6 @@ tags:
   - elekcija
   - karalius
   - posakis
-  - seimas
 ---
 # kardinalinės teisės
 

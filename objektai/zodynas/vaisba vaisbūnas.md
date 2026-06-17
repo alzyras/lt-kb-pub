@@ -21,7 +21,7 @@ Todėl net iki mūsų laikų yra išlikęs žodis vaisba, kurs reiškia prekybą
   global_id: t-43358
   teiginys: 'Žodis „vaisba“ reiškė prekybą, o „vaisbūnas“ - pirklį.'
   sudarymo_pagrindimas: 'Pirminis teiginys prasideda kontekstiniu „Todėl“ ir turi būti paverstas savarankišku žodyno faktu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Vaisba ir vaisbūnas|Vaisba ir vaisbūnas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

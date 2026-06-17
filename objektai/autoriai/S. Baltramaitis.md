@@ -21,7 +21,7 @@ Silvestro Baltramaičio veikalas, nors jame rūpestingai sužymėta daug Lietuvo
   global_id: t-29592
   teiginys: 'Zenonas Ivinskis Silvestro Baltramaičio Lietuvos istorijos bibliografijos veikalą laikė rūpestingai sudarytu, bet gerokai pasenusiu.'
   sudarymo_pagrindimas: 'Teiginys yra vertinamasis, todėl reikalinga aiški šaltinio autoriaus atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

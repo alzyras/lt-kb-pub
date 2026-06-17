@@ -84,7 +84,7 @@ Nenurodyta
   teiginys: 'Žalgirio pergalė pakirto Vokiečių ordino hegemoniją ir pašalino jo egzistencinę grėsmę Lietuvai bei Lenkijai.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia pateikti konkretesnį ir informatyvesnį pergalės padarinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Žemaitija'
   pagrindžia:
     - c-002
 
@@ -111,7 +111,16 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatos chronologiniu įrašu.'
   pagrindžia:
     - c-005
-
+- susijęs iš [[objektai/autoriai/O. Urbonas.md#claim-t-30887|O. Urbonas]]: O. Urbonas parašė veikalą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“, išleistą 1960 m. Brooklyne.
+- susijęs iš [[objektai/autoriai/Urbonas, O.md#claim-t-31020|Urbonas, O]]: O. Urbonas 1960 m. Brukline paskelbė darbą „1410 metų karas su kryžiuočiais ir Žalgirio mūšis“.
+- susijęs iš [[objektai/autoriai/W. Zakrzewski.md#claim-t-31074|W. Zakrzewski]]: W. Zakrzewski parašė darbą „Bitwa pod Grunwaldem“, paskelbtą 1890 m. leidinyje RTPNP.
+- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54139|Werminghoef, A]]: A. Werminghoefas 1910 m. Berlyne paskelbė darbą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
+- susijęs iš [[objektai/autoriai/Werminghoef, A.md#claim-t-54140|Werminghoef, A]]: A. Werminghoef 1910 m. Berlyne išleido veikalą apie Tannenbergo mūšį ir jo reikšmę vokietybei Rytuose.
+- susijęs iš [[objektai/autoriai/Zakrzewski, W.md#claim-t-31090|Zakrzewski, W]]: W. Zakrzewski 1890 m. paskelbė darbą „Bitwa pod Grunwaldem“.
+- susijęs iš [[objektai/autoriai/Zaskevičius, St.md#claim-t-54143|Zaskevičius, St]]: St. Zaskevičius 1930 m. paskelbė darbą „Trijų elementų reikšmė Tannenbergo kautynėse“.
+- susijęs iš [[objektai/grupes/Lietuvos kariuomenė.md#claim-t-184333|Lietuvos kariuomenė]]: Vytauto kariuomenę išretino Žalgirio kautynės ir prie Marienburgo prasidėjusios ligos.
+- susijęs iš St. Zaskevičius, Trijų elementų reikšmė Tannenbergo kautynėse: St. Zaskevičiaus „Trijų elementų reikšmė Tannenbergo kautynėse“ paskelbta 1930 m. kaip atspaudas iš MŽ.
+- susijęs iš W. Zakrzewski, Bitwa pod Grunwaldem: W. Zakrzewskio darbas „Bitwa pod Grunwaldem“ paskelbtas „RTPNP“ 17 tome 1890 m., p. 11-28.
 ## Reikšmingi paminėjimai
 
 - c-001

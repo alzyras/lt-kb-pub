@@ -31,7 +31,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - t-001
   global_id: t-46320
   teiginys: 'Po Lenkijos ultimatumo priėmimo Vladas Mironas atleido Stasį Lozoraitį, kurio politinė linija pralaimėjo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vladas Mironas|Vladas Mironas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladas Mironas|Vladas Mironas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -42,9 +42,9 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
   global_id: t-46321
   teiginys: 'LDT aukščiausia valdžia priklausė diplomatijos šefui, tas pareigas ėjo diplomatai Stasys Lozoraitis (1940–1983 m.) ir Stasys Antanas Bačkis (1983–1991 m.).'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Stasio Lozoraičio pareigas LDT.'
-  susije_objektai: 'owner: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/primus inter pares|primus inter pares]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/primus inter pares|primus inter pares]]; mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1940-1983; priklausymo laikotarpis: 1983 m.; priklausymo laikotarpis: 1983-1991; priklausymo laikotarpis: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Stasys Antanas Bačkis“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Stasio Lozoraičio pareigas LDT.'
   pagrindžia:
     - c-005
@@ -63,7 +63,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - t-004
   global_id: t-46323
   teiginys: 'Užsienio reikalų ministras Stasys Lozoraitis kartu su Stasiu Raštikiu modernizavo diplomatiją ir kariuomenę bei parengė naują nacionalinio saugumo strategiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Raštikis|Stasys Raštikis]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -73,7 +73,7 @@ Ruošiantis 1939 m. pasaulinei parodai Niujorke, Lietuvos Respublikos užsienio 
 - t-005
   global_id: t-46324
   teiginys: 'Stasys Lozoraitis 1940–1983 m. ėjo Lietuvos diplomatinės tarnybos diplomatijos šefo pareigas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_place: Baltija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Antanas Bačkis|Stasys Antanas Bačkis]]; mentioned_place: Baltija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1940-1983; įvykio data: 1983 m.; įvykio data: 1983-1991; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

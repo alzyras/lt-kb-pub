@@ -22,7 +22,7 @@ Be tö, ir ba­ jorė Sofija Simonovna iš Alberto Tžasibrodos žemės dešim­
   global_id: t-87610
   teiginys: 'Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie jo žemę, bet pradinis tekstas yra netvarkingas fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Ona Tarnavska|Ona Tarnavska]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Gelvonai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Tarnavska|Ona Tarnavska]]; mentioned_place: Gelvonai'
   pagrindžia:
     - c-001
 

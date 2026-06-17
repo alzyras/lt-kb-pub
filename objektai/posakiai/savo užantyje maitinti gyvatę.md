@@ -37,7 +37,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
 - t-001
   global_id: t-36019
   teiginys: 'Atsisakydamas Vytautą priimti, Jogaila teigė, kad laikymasis su juo išvien reikštų savo užantyje maitinti gyvatę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lietuva; mentioned_place: Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Mozūrija'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ Metafora nusako pavojingo sąjungininko laikymą arti savęs ir čia siejama su 
   global_id: t-36020
   teiginys: 'Jogaila teigė, kad laikytis išvien su Vytautu reikštų savo užantyje maitinti gyvatę.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Mozūrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Mozūrija'
   pagrindžia:
     - c-001
 

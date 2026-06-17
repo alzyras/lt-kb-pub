@@ -47,8 +47,7 @@ Kunigaikščiai valdė savo žemes ir teisė jose gyvenančius žmones per savo 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/paprociai/Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių.md#claim-t-93016|Bažnyčių ir dvasininkų atleidimas nuo mokesčių ir prievolių]]: Bažnyčios ir dvasininkai buvo atleisti nuo mokesčių, natūralijų, teismų ir pilių statymo prievolių.
-- susijęs iš [[objektai/zodynas/Sūdas.md#claim-t-07709|sūdas]]: Sūdas vartojamas skolų ir ginčo sprendimo kontekste, kai sprendimą galėjo persūdyti didysis kunigaikštis.
+
 ## Reikšmingi paminėjimai
 
 - c-001

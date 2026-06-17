@@ -27,7 +27,7 @@ Pradžios mokyklų mokytojams paruošti tenai buvo įsteigta mokytojų seminarij
   global_id: t-02849
   teiginys: '1866 m. Veiveriuose įsteigta mokytojų seminarija rengė pradžios mokyklų mokytojus, joje dėstyta ir lietuvių kalba.'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai negrakštus ir turi kontekstinį žodį „tenai“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/mokytojų seminarija|mokytojų seminarija]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Užnemunė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/mokytojų seminarija|mokytojų seminarija]]; mentioned_place: Užnemunė; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1866 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys gramatiškai negrakštus ir turi kontekstinį žodį „tenai“.'

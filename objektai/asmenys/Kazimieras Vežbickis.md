@@ -29,7 +29,7 @@ Jo Karališkosios Didenybės sekretorius Adrijanas Vežbickis, užrašydamas Blo
   global_id: t-87752
   teiginys: '1746 m. Kazimieras Vežbickis su Mykolu Vežbickiu skyrė bibliotekai lėšų iš namų ir sklypų pajamų knygoms gausinti.'
   sudarymo_pagrindimas: 'Pirminis teiginys kalba apie Adrijaną, bet citata palaiko atskirą faktą apie Kazimierą Vežbickį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas'
   temporaliniai_duomenys: 'įvykio data: 1746 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys kalba apie Adrijaną, bet citata palaiko atskirą faktą apie Kazimierą Vežbickį.'

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-97124
   teiginys: 'Seniausia miškinės bitininkystės forma Lietuvoje yra paliudyta ir mitologijoje bei tautosakoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie miškinės bitininkystės liudijimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-97125
   teiginys: '1529 m. Lietuvos Statuto nuostatai apie bites ir bitininkų teises rodo, kad bitininkystė tebebuvo svarbi ūkio šaka.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos argumentą apie bitininkystės svarbą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1529 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos argumentą apie bitininkystės svarbą.'
@@ -77,7 +77,7 @@ Nenurodyta
 - t-004
   global_id: t-97127
   teiginys: 'Bitininkystė Lietuvoje sukūrė bičiulyste vadintus papročius ir žmonių santykiavimo formas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -38,7 +38,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-002
   global_id: t-05162
   teiginys: 'Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Livonija; mentioned_place: Nalšėnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lybiai|Lybiai]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Livonija; mentioned_place: Nalšėnai'
   pagrindžia:
     - c-005
 
@@ -90,7 +90,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti Daumantą ir jo žmonos vaidmenį.'
-  susije_objektai: 'location: Nalšia; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšia'
+  susije_objektai: 'location: Nalšia; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšia'
   semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] keliavo į Nalšia'
   pagrindžia:
     - c-007
@@ -103,7 +103,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir antraštės triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]'
   pagrindžia:
     - c-008
 
@@ -127,7 +127,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paremtas citata ir atskiria faktą nuo šaltinių priskyrimo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Giedraičiai; mentioned_place: Utena'
+  susije_objektai: 'mentioned_place: Giedraičiai; mentioned_place: Utena'
   pagrindžia:
     - c-010
 
@@ -161,11 +161,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-183745|Juozas Daumantas]]: Juozas Daumantas prisiminimuose pasakojo apie Tauro apygardos partizanų viešnagę per 1945 m. Kalėdas, pasibaigusią susišaudymu.
 - susijęs iš [[objektai/asmenys/Juozas Daumantas.md#claim-t-40235|Juozas Daumantas]]: Juozas Daumantas prisiminimuose aprašė Tauro apygardos partizanų susišaudymą per 1945 m. Kalėdas.
 - susijęs iš [[objektai/asmenys/Kantautas.md#claim-t-186123|Kantautas]]: Žemaičiai mielai priėmė Kantautą seniūnu, nes jis buvo jų krašto žmogus ir Daumanto giminaitis.
-- susijęs iš [[objektai/asmenys/Lauras.md#claim-t-186007|Lauras]]: Lauras, žmonių vadintas Rimantu, po žinios apie tėvo nužudymą paliko vienuolyną ir pradėjo vadovauti karui prieš Daumantą.
-- susijęs iš [[objektai/asmenys/Lauras.md#claim-t-186008|Lauras]]: Lauras po sutelktų pajėgų patraukė prieš Daumantą, mūšyje įgijo persvarą ir nukovė Daumantą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113906|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113915|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184789|Mindaugas (valdovas, XIII a.)]]: Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184848|Treniota]]: Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90063|Treniota]]: Treniota veikė išvien su Nalšios kunigaikščiu Daumantu, kuris 1263 m. nužudė Mindaugą.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-90064|Treniota]]: Po 1260 m. Durbės mūšio žemaičiai, tarpininkaujant Treniotai, siūlė Mindaugui atsimesti nuo krikščionybės ir kariauti su Livonija.
@@ -175,8 +172,6 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - susijęs iš [[objektai/grupes/Rogvoldovičiai.md#claim-t-86820|Rogvoldovičiai]]: Mstislavui Vladimirovičiui užėmus Polocką, Rogvoldovičiai pabėgo į Konstantinopolį.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176152|Žemaičiai]]: Po Durbės mūšio žemaičiai per Treniotą siūlė Mindaugui atsimesti nuo krikščionybės ir pradėti karą su Livonija.
 - susijęs iš [[objektai/ivykiai/Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.).md#claim-t-31409|Daumanto žygis į Nalšėnus ir Gerdenio žūtis (1266-1267 m.)]]: Gerdenis pralaimėjo Daumantui, pasitraukė su kariuomenės likučiais, o per kitą Daumanto žygį į Nalšėnus 1267 m. žiemą žuvo.
-- susijęs iš [[objektai/paprociai/Šermenų kėlimas rūmuose mirus valdovo žmonai.md#claim-t-185927|Šermenų kėlimas rūmuose mirus valdovo žmonai]]: Mirus Mindaugo žmonai, į rūmus buvo pakviesta Daumanto žmona sutvarkyti šeimynos moterų ir iškelti mirusiajai šermenis.
-- susijęs iš Gyvosios atminties programa: LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus.
 - susijęs iš Lietuvių karas su kryžiuočiais: Lietuvių kare su kryžiuočiais Dovydas Gardiniškis įvardijamas kaip Lietuvos didžiojo kunigaikščio vietininkas ir Gardino pilininkas.
 - susijęs iš Durbė: 1260 m. liepos 13 d. prie Durbės žemaičiai sutriuškino jungtinę Vokiečių ir Livonijos ordinų kariuomenę.
 - susijęs iš Iženos upelis: Antano Jančio-Žaibo bunkeryje Šimonių girioje prie Iženos upelio žuvo 6 partizanai.

@@ -46,7 +46,6 @@ Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (p
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai autoriaus apibendrinimas, todėl palikta šaltinio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.).md#claim-t-185693|Bajazito puolimas Valachijoje ir lenkų pagalba Steponui (1485 m.)]]: 1485 m. Bajazitas pradėjo karą prieš Valachijos valdovą Steponą ir užėmė kelis Dakijos miestus.

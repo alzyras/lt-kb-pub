@@ -21,7 +21,7 @@ Chodkevičius pasiuntė kelias raitarų ir „lisovčikų“ vėliavas į kontra
   global_id: t-41063
   teiginys: 'J. K. Chodkevičius pasiuntė kelias raitarų ir lisovčikų vėliavas į kontrataką prieš janičarus.'
   sudarymo_pagrindimas: 'Citata mini ir raitarus, o perrašymas tiksliau perteikia palaikomą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]'
   pagrindžia:
     - c-001
 

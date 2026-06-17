@@ -28,7 +28,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
 - t-001
   global_id: t-72688
   teiginys: 'Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis, arba etnografinėmis, žemėmis.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)|Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)|Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -37,7 +37,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   global_id: t-72689
   teiginys: 'Pradinė Latvijos ir Lietuvos siena nesutapo su etnografine lietuvių siena, todėl pradžioje kildavo nesusipratimų.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardyta minima siena.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardyta minima siena.'
@@ -49,7 +49,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   global_id: t-72690
   teiginys: 'Okupacijos metu Vilniaus konferencija ir Taryba būsimos Lietuvos ribas siejo su lietuvių gyvenamosiomis etnografinėmis žemėmis.'
   sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant perteklinę konstrukciją ir išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)|Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)|Vilniaus konferencija (1917 m. rugsėjo 18–22 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ kadangi ji nesutapo su etnografine lietuvių siena, tai pradžioje čia pasitaik
   global_id: t-72691
   teiginys: 'Pradinė Lietuvos ir Latvijos siena laikyta buvusia Kuršo gubernijos siena, tačiau ji nesutapo su etnografine lietuvių siena.'
   sudarymo_pagrindimas: 'Pašalintas antraštinis triukšmas ir teiginys suformuluotas kaip vienas aiškus faktinis sakinys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštinis triukšmas ir teiginys suformuluotas kaip vienas aiškus faktinis sakinys.'

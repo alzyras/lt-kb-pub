@@ -18,7 +18,7 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
 - t-001
   global_id: t-70215
   teiginys: 'Lėnas čia reiškia Ordino valdžiai pavaldžią feodalinę valdą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -27,12 +27,10 @@ Lėnas čia minimas kaip feodalinės priklausomybės forma: viename šaltinyje t
   global_id: t-70216
   teiginys: 'Vytautas pažadėjo valdyti savo tėviškę kaip Ordino lėną, jei Ordinas padėtų ją atgauti.'
   sudarymo_pagrindimas: 'Reikia aiškiai įtraukti citatoje nurodytą sąlygą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184269|Jogaila (kunigaikštis, XIV–XV a.)]]: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
-- susijęs iš Podolija: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
-- susijęs iš Podolė: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
+
 ## Reikšmingi paminėjimai
 
 - c-001

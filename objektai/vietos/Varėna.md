@@ -50,7 +50,7 @@ amziai:
   global_id: t-172037
   teiginys: 'Spalio 7 d. nustačius demarkacinę liniją, Varėnos ir Bastūnų stotys liko lenkams.'
   sudarymo_pagrindimas: 'Patikslintas kontekstas ir išlaikyta citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/demarkacijos linija|demarkacijos linija]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Bastūnai; mentioned_place: Nemunas; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

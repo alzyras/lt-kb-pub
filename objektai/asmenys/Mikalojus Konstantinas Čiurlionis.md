@@ -24,7 +24,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-001
   global_id: t-101688
   teiginys: 'Čiurlionio muziejaus senojo meno ekspozicija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -32,7 +32,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-002
   global_id: t-101689
   teiginys: 'Mikalojus Konstantinas Čiurlionis studijavo muziką ir dailę Varšuvoje bei Leipcige.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Leipcigas; mentioned_place: Varšuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -53,7 +53,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   global_id: t-101691
   teiginys: 'Mikalojus Konstantinas Čiurlionis muziką ir dailę studijavo Varšuvoje ir Leipcige.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Leipcigas; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Leipcigas; mentioned_place: Varšuva'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   global_id: t-101692
   teiginys: 'Mikalojus Konstantinas Čiurlionis, kilęs iš etniškai lietuviškos aplinkos, bet dar gerai nemokėjęs lietuviškai, pasirinko lietuvius.'
   sudarymo_pagrindimas: 'Pataisyta nelogiška formuluotė „nors buvo kilęs“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. K. Čiurlionis|M. K. Čiurlionis]]; mentioned_place: Varšuva'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
   global_id: t-101693
   teiginys: 'Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta M. K. Čiurlionio kūrybos albumų.'
   sudarymo_pagrindimas: 'Pašalinta gremėzdiška konstrukcija ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 
@@ -79,7 +79,7 @@ Mikalojus Konstantinas Čiurlionis pristatomas kaip lietuvių dailininkas ir kom
 - t-008
   global_id: t-101695
   teiginys: 'Po Stalino mirties, atšilimo laikotarpiu, buvo spausdinami Mikalojaus Konstantino Čiurlionio kūrybos albumai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/atšilimas|atšilimas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Balys Sruoga.md#claim-t-18847|Balys Sruoga]]: Po J. Stalino mirties atšilimo laikotarpiu buvo išspausdinta Balio Sruogos kūrinių.

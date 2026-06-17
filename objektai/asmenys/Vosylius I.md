@@ -35,7 +35,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   global_id: t-64265
   teiginys: 'Vosylius I, Dimitro Donskojaus sūnus ir Vytauto žentas, mirdamas norėjo, kad Vytautas globotų jo šeimą.'
   sudarymo_pagrindimas: 'Citata patvirtina faktą, bet reikėjo pašalinti išnašų ir OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina faktą, bet reikėjo pašalinti išnašų ir OCR triukšmą.'
@@ -46,7 +46,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
 - t-002
   global_id: t-64266
   teiginys: 'Vosylius I buvo Vytauto žentas, su kuriuo Vytautas oficialiai laikėsi taikos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Jomantas|Jomantas]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hlebas|Hlebas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Smolenskas; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
@@ -55,7 +55,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   global_id: t-64267
   teiginys: '1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
+  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
   semantiniai_rysiai: '[[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Lietuva; [[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Maskva; [[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Palanga'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1425 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius I buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius I buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius I buvo valdovas Palanga“, o ne visam objekto laikotarpiui.'
@@ -68,7 +68,7 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   global_id: t-64268
   teiginys: 'Vosyliaus I laikysena paskatino Vytautą pradėti karo veiksmus prieš Vosylių I; jie truko 1406–1408 m.'
   sudarymo_pagrindimas: 'Reikia tiksliau atskirti karo veiksmų pradžią nuo jų trukmės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1406-1408; įvykio data: 1408 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia tiksliau atskirti karo veiksmų pradžią nuo jų trukmės.'

@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas neutraliu enciklopediniu stiliumi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_place: Dakija; mentioned_place: Lietuva; mentioned_place: Valachija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_place: Dakija; mentioned_place: Lietuva; mentioned_place: Valachija'
   temporaliniai_duomenys: 'įvykio data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas neutraliu enciklopediniu stiliumi.'
@@ -55,7 +55,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys išvalytas nuo OCR klaidų ir išlaiko citatos remiamą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Valachija'
+  susije_objektai: 'mentioned_place: Valachija'
   pagrindžia:
     - c-002
 

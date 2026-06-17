@@ -28,7 +28,7 @@ periodo_grupes: []
   global_id: t-87777
   teiginys: '1632 m. sausio 2 d. Akademijos rektorius Frizijus iš Žemaičių vyskupo Merkelio Geišos Eljaševičiaus nupirko mūrinį namą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Merkelį Geišą Eljaševičių ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1632 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Merkelį Geišą Eljaševičių ir atitinka citatą.'

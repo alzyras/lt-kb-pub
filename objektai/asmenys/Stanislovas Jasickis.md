@@ -29,7 +29,7 @@ Stanislovas Jasickis, vaistininkas, kuriam pabo­ do mokėti po 140 auksinų, u�
   global_id: t-87858
   teiginys: '1699 metais vaistininkas Stanislovas Jasickis už 5 000 lenkiškų auksinų nupirko Švarco mūriniu vadintą namą.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo pirkėją, sumą ir įsigytą namą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]'
   pagrindžia:
     - c-001
 

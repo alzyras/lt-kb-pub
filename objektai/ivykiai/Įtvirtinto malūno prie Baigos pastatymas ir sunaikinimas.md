@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-91921
   teiginys: 'Prie Baigos broliai pastatė prie upės į pilį panašiai sutvirtintą malūną, kurį prūsai netrukus užėmė, gynėjus išžudė ir sudegino.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR fragmentas; citata pagrindžia aiškų sakinį apie malūno pastatymą ir sunaikinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_object: [[objektai/zodynas/vitingas|vitingas]]; mentioned_place: Aistmarios; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_place: Aistmarios; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 

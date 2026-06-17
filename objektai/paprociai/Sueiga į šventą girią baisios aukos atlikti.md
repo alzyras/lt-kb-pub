@@ -35,7 +35,6 @@ Nenurodyta
   global_id: t-07805
   teiginys: 'Žemaičių giminių pasiuntiniai nustatytu laiku sueidavo į šventą girią atlikti baisios aukos pagal seną įprotį.'
   sudarymo_pagrindimas: 'Citata pagrindžia sueigą, dalyvius, vietą ir aukos atlikimą; sakinys patikslintas pagal šaltinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]'
   pagrindžia:
     - c-001
     - c-002

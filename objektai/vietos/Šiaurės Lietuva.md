@@ -24,7 +24,7 @@ tags:
   global_id: t-80579
   teiginys: 'Bermontininkai užėmė Šiaurės Lietuvą ir judėdami į pietus pasiekė net Raseinius.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir OCR triukšmo, o citata palaiko aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva; mentioned_place: Raseiniai'
   pagrindžia:
     - c-002
 
@@ -42,7 +42,7 @@ tags:
   global_id: t-80581
   teiginys: 'Šiaurės Lietuva atsidūrė bermontininkų rankose, o judėdami į pietus bermontininkai pasiekė net Raseinius.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus, gramatiškas ir paremtas citata apie bermontininkų užimtą Šiaurės Lietuvą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Raseiniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_place: Lietuva; mentioned_place: Raseiniai'
   pagrindžia:
     - c-002
 

@@ -23,7 +23,7 @@ Ducis Withowdi super bona Tudeniski [Didžiojo kunigaikščio Vytauto privilegij
   global_id: t-88247
   teiginys: 'Vilniaus kapitulos archyve buvo didžiojo kunigaikščio Vytauto privilegija dėl Cudzeniškių valdos.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra pavadinimo fragmentas be faktinio predikato.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Cudzeniškiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Cudzeniškiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

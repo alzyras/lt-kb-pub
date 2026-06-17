@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie Auktuolyčių pilies užkariavimą Neilgai trukus 
   global_id: t-58569
   teiginys: 'Brolis Ditrichas su kariuomene atžygiavo į Nadruvos valsčių Katavą ir pradėjo pulti Auktuolyčių pilį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos faktą apie Katavos valsčių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Auktuolyčiai; mentioned_place: Nadruva; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Auktuolyčiai; mentioned_place: Nadruva; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 

@@ -14,7 +14,6 @@ tags:
   - karalius
   - kunigaikštis
   - pilis
-  - privilegija
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -33,7 +32,7 @@ p. 247, byloja, kad tas Riazanės kunigaikščio autentiškas lai­ davimas už 
   global_id: t-87903
   teiginys: 'Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.'
   sudarymo_pagrindimas: 'Citata pagrindžia laidavimo faktą, o pradiniame teiginyje yra OCR ir fragmento triukšmo.'
-  susije_objektai: 'territory: Medininkai; territory: Riazanė; territory: Vilnius; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Riazanė; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Medininkai; territory: Riazanė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai; mentioned_place: Riazanė; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)|Aleksandras (Riazanės kunigaikštis)]] buvo valdovas Medininkai; [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)|Aleksandras (Riazanės kunigaikštis)]] buvo valdovas Riazanė; [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis)|Aleksandras (Riazanės kunigaikštis)]] buvo valdovas Vilnius'
   pagrindžia:
     - c-001

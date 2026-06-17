@@ -28,7 +28,7 @@ Algimantas Daugirdas (gimęs 1949 m.), 1972 m. baigė KTU (tuometinį Kauno poli
   global_id: t-39848
   teiginys: 'Algimantas Daugirdas gimė 1949 m., o 1972 m. baigė KTU, tuometinį Kauno politechnikos institutą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas biografinis sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/karyba|karyba]]; mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Latvija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1794-1831; įvykio data: 1795-1940; įvykio data: 1831 m.; įvykio data: 1940 m.; įvykio data: 1949 m.; įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas biografinis sakinys.'

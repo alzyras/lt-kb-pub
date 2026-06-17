@@ -31,7 +31,7 @@ amziai:
   global_id: t-68322
   teiginys: 'Salynas, vokiškai vadintas Sallinwerder, turėjo būti viena iš Nemuno salų tarp Nevėžio žiočių ir Kulautuvos.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Salynas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Salynas; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -40,7 +40,7 @@ amziai:
   global_id: t-68323
   teiginys: 'Nemuno saloje „Salyne“ (kiek žemiau Kulautuvos) Vytauto ir didžiojo magistro Konrado delegacijų susitikime buvo patvirtinta kryžiuočiams užleista Žemaitija iki Nevėžio ir Sūduva iki Šešupės aukštupio.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Kulautuvos apylinkes su Salyno susitikimu ir jo nutarimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Nemunas; mentioned_place: Nevėžis; mentioned_place: Sūduva; mentioned_place: Šešupė; mentioned_place: Žemaitija'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Kulautuvos apylinkes su Salyno susitikimu ir jo nutarimu.'

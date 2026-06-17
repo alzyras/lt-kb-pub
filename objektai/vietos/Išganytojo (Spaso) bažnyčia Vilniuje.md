@@ -14,7 +14,6 @@ tags:
   - karas
   - miestas
   - pilis
-  - vieta
 amziai:
   - 'XVI'
 ---
@@ -31,7 +30,7 @@ Trejybės cerkvę, kur dabar yra Aušros vartai, ketvirtuosius - ties Išganytoj
   global_id: t-86191
   teiginys: '1505 m. sprendime vieni Vilniaus miesto vartai buvo numatyti ties Išganytojo (Spaso) bažnyčia.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo fragmentas, todėl perrašyta į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilniaus miesto vartai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilniaus miesto vartai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo fragmentas, todėl perrašyta į pilną sakinį.'

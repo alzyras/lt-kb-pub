@@ -24,7 +24,7 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
   global_id: t-32365
   teiginys: 'Siena per dykrą ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.'
   sudarymo_pagrindimas: 'Reikia aiškiau perteikti citatos kontekstą ir suvienodinti Ordino rašybą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Liepona; mentioned_place: Sūduva; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_place: Liepona; mentioned_place: Sūduva; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 - susijęs iš Liepona: Sūduvos dykroje siena buvo nužymėta visu Lieponos paupiu iki Širvintos upės ir jos krantu iki įtekėjimo į Šešupę.

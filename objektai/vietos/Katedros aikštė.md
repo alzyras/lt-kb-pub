@@ -22,7 +22,7 @@ Katedros) aikštėje dalyvavo apie 30 tūkst., liepos 9 Vingio parke (LPS vadovy
   global_id: t-26328
   teiginys: 'Birželio 24 d. Gedimino, dabartinėje Katedros, aikštėje vykusiame mitinge dalyvavo apie 30 tūkst. žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; perrašyta į pilną sakinį apie Katedros aikštę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

@@ -27,15 +27,14 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   global_id: t-21932
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Maskva; object: Nesvyžius; object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Maskva; mentioned_place: Nesvyžius'
+  susije_objektai: 'object: Maskva; object: Nesvyžius; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_place: Maskva; mentioned_place: Nesvyžius'
   temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ivanas Fiodorovas pastatė reformacija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ivanas Fiodorovas pastatė Nesvyžius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-26597|Ivanas Fiodorovas]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
 - susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš [[objektai/ivykiai/Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas.md#claim-t-20459|Radvilų ir Chodkevičių spaustuvių steigimai ir Brastos spaustuvės perkėlimas]]: 1562 m. Radvila Juodasis įkūrė spaustuvę Nesvyžiuje, o 1569 m. Chodkevičiai įsteigė spaustuvę Zabluduve.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23198|Ivanas Fiodorovas]]: Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23199|Ivanas Fiodorovas]]: Chodkevičiai priglobė Ivaną Fiodorovą Zabluduvo spaustuvėje, o jis nulėmė jos stačiatikišką pobūdį.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23200|Ivanas Fiodorovas]]: 1569 m. Chodkevičiai Zabluduve priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą, kuris nulėmė stačiatikišką spaustuvės pobūdį.
@@ -74,4 +73,3 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 ## Ryšiai
 - [[objektai/grupes/Chodkevičiai]] pastate Zabluduvas
 - [[objektai/asmenys/Ivanas Fiodorovas]] pastate Zabluduvas
-- [[objektai/asmenys/Radvila]] pastate Zabluduvas

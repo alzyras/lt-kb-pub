@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-87159
   teiginys: 'Leonas Sapiega, vyskupas Bžostovskis, kanauninkas Vaišnarovičius ir kiti dovanotomis bei užrašytomis knygomis praturtino biblioteką.'
   sudarymo_pagrindimas: 'Reikia sutvarkyti OCR pažeistas formas ir išlaikyti citatos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_place: Lietuva; mentioned_place: Užupis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_place: Lietuva; mentioned_place: Užupis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-87160
   teiginys: '1623 m. Adrijanas Vežbickis įpareigojo Akademijos kolegiją iš Blonių valdos pajamų kasmet skirti po 100 auksinų knygoms įsigyti.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas'
   temporaliniai_duomenys: 'įvykio data: 1623 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiksliai paremtas citata.'

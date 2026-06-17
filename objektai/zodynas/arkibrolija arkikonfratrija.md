@@ -31,7 +31,7 @@ amziai:
   global_id: t-86582
   teiginys: '1539 m. kardinolas Komendoni Vilniaus vyskupui Valerijonui Protasevičiui atsiuntė bulę dėl Dievo Kūno arkibrolijos steigimo.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir paremtas citatos duomenimis apie bulę ir arkibrolijos steigimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Dievo Kūno arkibrolija|Dievo Kūno arkibrolija]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dievo Kūno arkibrolija|Dievo Kūno arkibrolija]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1539 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir paremtas citatos duomenimis apie bulę ir arkibrolijos steigimą.'

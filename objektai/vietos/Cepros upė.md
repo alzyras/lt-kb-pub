@@ -23,7 +23,7 @@ Bėgdami iš mūšio lauko, daug skitų įklimpo į Cepros upės dumblą ir ten 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta vaizdinga perteklinė formuluotė, paliktas citata paremtas faktas apie Cepros upę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Cepra'
+  susije_objektai: 'mentioned_place: Cepra'
   pagrindžia:
     - c-001
 

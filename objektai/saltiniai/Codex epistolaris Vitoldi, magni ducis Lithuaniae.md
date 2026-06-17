@@ -30,7 +30,7 @@ amziai:
   global_id: t-12448
   teiginys: 'Šiame veikale bibliografijoje santrumpa C. ep. V. išskleidžiama kaip 1376-1430 m. Vytauto laiškų rinkinys, kurį parengė A. Prochaska ir išleido Krokuvoje 1882 m.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_place: Krokuva'
   temporaliniai_duomenys: 'įvykio data: 1376-1430; įvykio data: 1430 m.; įvykio data: 1882 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

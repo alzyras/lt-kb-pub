@@ -21,7 +21,7 @@ Laurinavičius Č., Sirutavičius V.
   global_id: t-19476
   teiginys: 'V. Sirutavičius kartu su Č. Laurinavičiumi parašė veikalą „Sąjūdis: nuo „persitvarkymo“ iki Kovo 11-osios“.'
   sudarymo_pagrindimas: 'Bibliografinis įrašas palaiko autorystę, todėl sakinys sukonkretintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

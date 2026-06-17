@@ -20,7 +20,7 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 - t-001
   global_id: t-36465
   teiginys: 'Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
-  susije_objektai: 'owner: Gunlaukenas; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsija; owner: Trakai; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Gunlaukenas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
+  susije_objektai: 'owner: Gunlaukenas; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsija; owner: Trakai; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
   semantiniai_rysiai: 'Osterodė priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Osterodė priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Osterodė priklausė Gunlaukenas; Osterodė priklausė Lietuva; Osterodė priklausė Prūsija; Osterodė priklausė Trakai'
   pagrindžia:
     - c-001

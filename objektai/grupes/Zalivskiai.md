@@ -27,7 +27,7 @@ Savickiai pardavė Kristupui Zalivskiui, iš Zalivskių atiteko Neliubovičiams.
   global_id: t-86836
   teiginys: '1583 m. Savickiai pardavė namą Kristupui Zalivskiui, o vėliau jis iš Zalivskių atiteko Neliubovičiams.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia namo pardavimo ir vėlesnio perėjimo faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Neliubovičiai|Neliubovičiai]]; mentioned_group: [[objektai/grupes/Savickiai|Savickiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Cimermanas|Cimermanas]]'
   temporaliniai_duomenys: 'prekybos laikotarpis: 1583 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „prekybos laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia namo pardavimo ir vėlesnio perėjimo faktą.'

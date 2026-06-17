@@ -54,7 +54,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-122989
   teiginys: '1581 m. Steponas Batoras iš Vilniaus išsiuntė pasiuntinybę į Švediją per Lauryną Goslickį.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų pasiuntinybės į Švediją faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų pasiuntinybės į Švediją faktą.'
@@ -66,7 +66,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-122990
   teiginys: 'Lietuvos auksas buvo pasisavintas tik iš Švedijos ir Šveicarijos bankuose saugotų atsargų.'
   sudarymo_pagrindimas: 'Pradinis sakinys netiksliai suformuluotas, citata leidžia aiškiau įvardyti saugotą auksą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/daiktai/Lietuvos auksas|Lietuvos auksas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Šveicarija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liaudies vyriausybė|Liaudies vyriausybė]]; mentioned_object: [[objektai/daiktai/Lietuvos auksas|Lietuvos auksas]]; mentioned_place: Lietuva; mentioned_place: Sniečkus; mentioned_place: Šveicarija'
   pagrindžia:
     - c-001
 
@@ -87,7 +87,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-122992
   teiginys: 'Suomijos kunigaikštis Jonas, vėliau tapęs Švedijos karaliumi, Vilniuje vedė Kotryną Jogailaitę.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, susijusį su būsimu Švedijos karaliumi.'
-  susije_objektai: 'territory: Suomija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Suomija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Suomija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -95,7 +95,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-006
   global_id: t-122994
   teiginys: 'Daugelis brangenybių buvo išvežta į Maskvą ir į Švediją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -115,7 +115,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-008
   global_id: t-122997
   teiginys: '1581 metais iš Vilniaus buvo išsiųsta pasiuntinybė į Švediją per Lauryną Goslickį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -141,7 +141,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
 - t-011
   global_id: t-123000
   teiginys: 'Vilniuje buvo palaiminta Suomijos kunigaikščio Jono, vėliau tapusio Švedijos karaliumi, santuoka su Kotryna Jogailaite.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Suomija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Suomija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -150,7 +150,7 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   global_id: t-123001
   teiginys: 'Archeologiniai duomenys rodo apie 650 m. prasidėjusią didelę švedų ekspansiją iš Gotlando ir vidurio Švedijos.'
   sudarymo_pagrindimas: 'Pataisyta kalba ir OCR triukšmas, faktas tiesiogiai remiamas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Durbė; mentioned_place: Gotlandas'
   temporaliniai_duomenys: 'įvykio data: 650 m; įvykio data: apie 650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pataisyta kalba ir OCR triukšmas, faktas tiesiogiai remiamas citata.'

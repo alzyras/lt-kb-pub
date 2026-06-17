@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-40720
   teiginys: 'Iž-54 buvo SSRS gamybos lygiavamzdis 12 kalibro dvivamzdis medžioklinis šautuvas, naudotas 1991 m. parlamento rūmų gynybos savanorio.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia citatoje nurodytas šautuvo savybes bei naudojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiksliai perteikia citatoje nurodytas šautuvo savybes bei naudojimą.'

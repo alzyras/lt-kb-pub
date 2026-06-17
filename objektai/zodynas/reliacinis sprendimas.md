@@ -30,7 +30,7 @@ amziai:
   global_id: t-86615
   teiginys: '1586 m. liepos 11 d. Stepono Batoro reliaciniu sprendimu Vilniaus gyventojams įsakyta švęsti pagal naują kalendorių.'
   sudarymo_pagrindimas: 'Citata pateikia sprendimo datą, autorių ir jo turinį apie naujo kalendoriaus šventes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia sprendimo datą, autorių ir jo turinį apie naujo kalendoriaus šventes.'

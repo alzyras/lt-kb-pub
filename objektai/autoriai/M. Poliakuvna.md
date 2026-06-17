@@ -27,7 +27,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   global_id: t-64724
   teiginys: 'M. Poliakuvna parašė straipsnį „Galindia“, paskelbtą 1964 m. Vroclave, Varšuvoje ir Krokuvoje išleistame SSS tome.'
   sudarymo_pagrindimas: 'Bibliografinis įrašas palaiko konkretų faktą apie publikaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krokuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1964 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinis įrašas palaiko konkretų faktą apie publikaciją.'
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad poliakuvna). Dusburgietis teigia, kad pollakówna M. Za
   global_id: t-64726
   teiginys: 'M. Poliakuvna kėlė mintį, kad Petras Dusburgietis galėjo rašyti Marienburge.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko tyrėjos mintį apie Dusburgiečio darbo vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Marienburgas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1309 m.; įvykio data: 1327 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko tyrėjos mintį apie Dusburgiečio darbo vietą.'

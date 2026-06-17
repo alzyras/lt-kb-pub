@@ -10,7 +10,6 @@ tags:
   - daiktas
   - miestas
   - pilis
-  - tauta
 ---
 # Pilys
 
@@ -45,7 +44,7 @@ Nenurodyta
   global_id: t-59675
   teiginys: 'Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.'
   sudarymo_pagrindimas: 'Citata pagrindžia trumpą faktą apie pilių statybą Prūsijoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Barta; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Notanga; mentioned_place: Palenkė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Notanga; mentioned_place: Palenkė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Andrejus Možaiskis.md#claim-t-186176|Andrejus Možaiskis]]: Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.

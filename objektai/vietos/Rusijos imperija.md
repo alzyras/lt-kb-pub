@@ -54,7 +54,7 @@ Tokios politikos Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse Rusi
   global_id: t-47172
   teiginys: 'Rusijos imperijos valdžia 40 metų vykdė rusinimo politiką Lenkijos karalystėje ir aneksuotose buvusios LLV žemėse.'
   sudarymo_pagrindimas: 'Patikslinta neaiški nuoroda „tokios politikos“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
 

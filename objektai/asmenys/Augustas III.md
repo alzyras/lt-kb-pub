@@ -31,7 +31,6 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   global_id: t-82222
   teiginys: 'Po Augusto III mirties atsirado nemaža kandidatų į sostą, tarp jų buvo ir greitai miręs vyresnysis Augusto III sūnus.'
   sudarymo_pagrindimas: 'Patikslintas pilnesnis faktas apie kandidatus po Augusto III mirties.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
   pagrindžia:
     - c-002
 
@@ -40,7 +39,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   global_id: t-82224
   teiginys: 'Po Augusto II mirties ATR karaliumi tapo Rusijos remiamas Augusto II sūnus Augustas III.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Augusto III tapimą karaliumi ir Rusijos paramą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -49,7 +48,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   global_id: t-82227
   teiginys: 'Po Augusto II mirties Rusija, Austrija ir Prūsija priešinosi tiek Fridriko Augusto, tiek Leščinskio išrinkimui į sostą.'
   sudarymo_pagrindimas: 'Teiginys apie Augusto III objektą geriau remiamas per Fridriko Augusto kandidatūrą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Austrija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -58,7 +57,7 @@ Augustas III — svetimųjų pastatytasis karalius. Augustui II mirus, daugumas 
   global_id: t-82228
   teiginys: 'Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą.'
   sudarymo_pagrindimas: 'Citata patvirtina Augusto III privilegiją, bet pradinė formuluotė yra triukšminga ir nepakankamai glausta.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Stanislovas Leščinskis.md#claim-t-79165|Stanislovas Leščinskis]]: Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.

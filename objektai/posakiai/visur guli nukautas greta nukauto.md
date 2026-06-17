@@ -22,7 +22,7 @@ Po mūšio Kitą dieną po kautynių Mykolas Radvila Rudasis laiške savo pusbro
   global_id: t-39040
   teiginys: 'Posakiu „visur guli nukautas greta nukauto“ Mykolas Radvila Rudasis apibūdino po kautynių persekioto priešo žūtis.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo apie laišką, o perrašymas tiesiogiai susieja citatoje esantį posakį su jo vartojimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

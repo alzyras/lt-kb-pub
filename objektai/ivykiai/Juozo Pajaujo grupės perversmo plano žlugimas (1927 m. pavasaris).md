@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20213
   teiginys: '1927 m. pavasarį, suėmus Juozą Pajaujį, žlugo apie jį susibūrusios grupės perversmo planas grąžinti Seimą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo laiką, veikėją, veiksmą ir plano rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
   temporaliniai_duomenys: 'įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo laiką, veikėją, veiksmą ir plano rezultatą.'

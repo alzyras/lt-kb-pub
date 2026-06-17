@@ -31,7 +31,7 @@ Rusijos pajėgų vadovybė Rusijos pajėgų, nukreiptų prieš sukilėlius, vyri
   global_id: t-40375
   teiginys: 'Nikolajus Repinas buvo Rusijos pajėgų, nukreiptų prieš sukilėlius, vyriausiasis vadas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Nikolajaus Repino pareigas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Bogdanas Knorringas|Bogdanas Knorringas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bogdanas Knorringas|Bogdanas Knorringas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

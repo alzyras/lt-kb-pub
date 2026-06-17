@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-87045
   teiginys: 'Horodlės privilegija turėjo Žygimanto Augusto patvirtinimą su dviem antspaudais.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje yra neaiški nuoroda „tos privilegijos“, todėl ji išplėsta pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Horodlė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Horodlė'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-87046
   teiginys: 'Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje nurodytus originalo bei antspaudų požymius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

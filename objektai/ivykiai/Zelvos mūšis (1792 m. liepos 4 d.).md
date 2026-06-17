@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-80682
   teiginys: '1792 m. liepos 4 d. LDK kariuomenė patyrė antrąjį pralaimėjimą prie Zelvos.'
   sudarymo_pagrindimas: 'Pradinis teiginys per plačiai apima Zelencų mūšį, o citata leidžia tikslų sakinį apie Zelvos mūšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelencai; mentioned_place: Zelva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelencai; mentioned_place: Zelva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per plačiai apima Zelencų mūšį, o citata leidžia tikslų sakinį apie Zelvos mūšį.'

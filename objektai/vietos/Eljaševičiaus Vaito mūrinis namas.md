@@ -31,7 +31,7 @@ amziai:
   global_id: t-86183
   teiginys: '1632 m. sausio 2 d. Akademijos rektorius Frizijus nupirko mūrinį namą, kitados vadintą Eljaševičiaus, o tada Vaito vardu.'
   sudarymo_pagrindimas: 'Pašalinti nutrūkę fragmentai ir išlaikyta citata paremta informacija apie namą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/bursa|bursa]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1632 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinti nutrūkę fragmentai ir išlaikyta citata paremta informacija apie namą.'

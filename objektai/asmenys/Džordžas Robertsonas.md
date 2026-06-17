@@ -31,7 +31,7 @@ Tarptautinės konferencijos Vilniuje „NATO vaidmuo besikeičiančioje Europos 
   global_id: t-26439
   teiginys: 'Džordžas Robertsonas 2000 m. gegužės 19 d. Vilniuje dalyvavo konferencijoje apie NATO vaidmenį Europos saugumo aplinkoje.'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR ir puslapio triukšmą, paliekant citatos pagrindžiamą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Valdas Adamkus|Valdas Adamkus]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vašingtonas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_person: [[objektai/asmenys/Valdas Adamkus|Valdas Adamkus]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vašingtonas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2000 m.; įvykio data: 2003 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR ir puslapio triukšmą, paliekant citatos pagrindžiamą faktą.'

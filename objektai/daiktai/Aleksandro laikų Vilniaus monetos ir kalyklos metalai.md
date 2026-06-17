@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-87070
   teiginys: 'Aleksandro laikų Vilniaus kalyklos išlaidose buvo minimi sidabras, varis, darbas ir kiti kalyklai priklausę dalykai.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie kalyklos metalus ir išlaidas, o OCR triukšmas pašalintas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-87071
   teiginys: 'Ulriko Hozijaus prižiūrima Vilniaus monetų kalykla veikė vis energingiau ir teikė nemaža pajamų karaliaus iždui.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vilniaus kalyklą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

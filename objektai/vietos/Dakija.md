@@ -22,7 +22,7 @@ Boleslovas, bijodamas rimtesnių veiksmų prieš jį, pasitraukė iš Lucko į D
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, veiksmą ir kryptį į Dakiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Luckas; mentioned_place: Mazovija; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Luckas; mentioned_place: Mazovija; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185934|Boleslovas Švitrigaila]]: Po Žygimanto pašalinimo Boleslovas Švitrigaila vėl galėjo tikėtis grįžti į valdžią, nors didikai jo tebekenė ir keikė.

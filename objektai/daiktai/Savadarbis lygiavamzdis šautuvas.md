@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-39281
   teiginys: 'Savadarbį lygiavamzdį 16,5 mm kalibro šautuvą 1991 m. pagamino savanoris I. Drakša.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia kalibrą, gamintoją ir pagaminimo metus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/I. Drakša|I. Drakša]]; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_person: [[objektai/asmenys/I. Drakša|I. Drakša]]; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia kalibrą, gamintoją ir pagaminimo metus.'

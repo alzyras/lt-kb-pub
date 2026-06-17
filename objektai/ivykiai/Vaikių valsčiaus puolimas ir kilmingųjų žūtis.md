@@ -38,7 +38,7 @@ Nenurodyta
   teiginys: 'Vaikių valsčiuje iš pasalų buvo nukauta daug kilmingųjų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata nepateikia aiškaus įvardyto veikėjo šiame fragmente, bet remia įvykio faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Pagraudė; mentioned_place: Vaikiai'
+  susije_objektai: 'mentioned_place: Pagraudė; mentioned_place: Vaikiai'
   pagrindžia:
     - c-001
     - c-002

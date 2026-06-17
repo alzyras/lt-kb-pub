@@ -31,7 +31,7 @@ Raimundas Lopata įvardytas leidinio redakcinės kolegijos pirmininku ir minimas
   global_id: t-23254
   teiginys: 'Raimundas Lopata buvo tarp mokslininkų, tyrusių istorijos politikos problemas.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretesnį, gramatišką teiginį apie asmens veiklos sritį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1009 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretesnį, gramatišką teiginį apie asmens veiklos sritį.'

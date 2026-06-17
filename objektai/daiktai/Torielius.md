@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Per išeiginių aukų apeigą viršaitis nešė duonos šmotelį ant torieliaus ir midaus kaušą arba taurę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia tikslesnį veiksmą; pradinis teiginys netiksliai nurodo padėjimą ant torieliaus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Taurės|Taurės]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

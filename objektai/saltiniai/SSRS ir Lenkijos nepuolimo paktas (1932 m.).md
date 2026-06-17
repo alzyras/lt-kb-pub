@@ -27,7 +27,7 @@ Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą
   global_id: t-21245
   teiginys: 'Keičiantis Europos politikai, sovietams suartėjus su Lenkija ir 1932 m. liepą pasirašius SSRS ir Lenkijos nepuolimo paktą iš esmės subliuško sovietų įsipareigojimai Lietuvai dėl Vilniaus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'

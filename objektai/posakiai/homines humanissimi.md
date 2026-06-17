@@ -27,7 +27,7 @@ Adomas, tiesa, kalbėjo apie «sembus arba prūsus» (« Sembi vėl Pruzzi »), 
 - t-001
   global_id: t-31557
   teiginys: 'Adomas Bremenietis sembus arba prūsus vadino „homines humanissimi“ ir teigė, kad jie gelbėja pavojuje atsidūrusius jūroje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Adomas Bremenietis|Adomas Bremenietis]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Adomas Bremenietis|Adomas Bremenietis]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Prūsai; mentioned_place: Skandinavija'
   temporaliniai_duomenys: 'įvykio data: 1072-1076'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

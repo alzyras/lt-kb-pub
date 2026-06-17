@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį apie note objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]'
   pagrindžia:
     - c-001
 

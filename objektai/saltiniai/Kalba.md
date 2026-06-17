@@ -29,7 +29,7 @@ tags:
   global_id: t-34910
   teiginys: '„Kalbos“ numeryje buvo įdėtas paskutinis prof. Jablonskio-Rygiškių Jono straipsnis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
   pagrindžia:
     - c-002
 

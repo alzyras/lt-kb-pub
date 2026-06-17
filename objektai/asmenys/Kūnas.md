@@ -37,14 +37,9 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Kernius|Kernius]]; mentioned_place: Lietuva; mentioned_place: Nevėžis'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77997|A. Voldemaras]]: A. Voldemaras užsienio politiką pakreipė radikalesne kryptimi, pabrėždamas, kad be Vilniaus Lietuva nėra vienas kūnas.
 - susijęs iš [[objektai/asmenys/Albertas (Karaliaučiaus komtūras).md#claim-t-60228|Albertas (Karaliaučiaus komtūras)]]: Dusburgiečio pasakojime per žygį prieš Lietuvą besimeldžiančiam Karaliaučiaus komtūrui Albertui prie burnos pasirodė komunijos paplotėlis.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89608|Albertas iš Meiseno]]: Albertui iš Meiseno, žygiuojant su broliais prieš tikėjimo priešus, prie burnos pasirodė komunijos paplotėlis.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89609|Albertas iš Meiseno]]: Albertas iš Meiseno, traukdamas su broliais prieš tikėjimo priešus, pasitraukė nuo kitų ir meldėsi dėl Kristaus kūno priėmimo.
-- susijęs iš [[objektai/asmenys/Albertas iš Meiseno.md#claim-t-89610|Albertas iš Meiseno]]: Dusburgiečio pasakojime Albertas iš Meiseno priėmė ore prie jo burnos pasirodžiusį komunijos paplotėlį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82174|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, būdamas nusilpęs kūnu, bet sveiko proto, nurodė po jo mirties išpildyti paskutinius įsakymus.
 - susijęs iš [[objektai/asmenys/Augustas III.md#claim-t-82228|Augustas III]]: Augustas III privilegija suteikė Akademijos spaustuvei karališkosios spaustuvės titulą.
-- susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75775|Augustinas Voldemaras]]: Augustinas Voldemaras užsienio politiką stūmė radikalesne kryptimi ir pabrėžė, kad be Vilniaus Lietuva nėra vienas kūnas.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54954|Barbora Radvilaitė]]: Testamente nurodyta karalienės Barboros palaikus iš Šventojo Kazimiero koplyčios perkelti į Šv. Onos bažnyčią.
 - susijęs iš [[objektai/asmenys/Boleslavas (Mazovijos kunigaikštis).md#claim-t-87486|Boleslavas (Mazovijos kunigaikštis)]]: 1323 m. laiške nurodyta, kad per Mazovijos kunigaikščio Boleslavo valdas buvo galima saugiai atvykti į Vilniuje valdomą žemę.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54963|Elena (vyskupas, XV–XVI a.)]]: Aleksandro testamentas pavedė Žygimantui ir kitiems globoti Eleną bei jos teises.
@@ -76,7 +71,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/daiktai/Negęstančioji ugnis.md#claim-t-59695|Negęstančioji ugnis]]: Prūsai pagal senovinį paprotį garbino negęstančiąją ugnį.
 - susijęs iš [[objektai/daiktai/Paplotėlis.md#claim-t-59699|Paplotėlis]]: Žygio prieš Lietuvą metu broliui Albertui prie burnos pasirodė Viešpaties kūnas paplotėlio pavidalu.
 - susijęs iš [[objektai/daiktai/Šventojo kryžiaus ženklas.md#claim-t-59715|Šventojo kryžiaus ženklas]]: Broliai paženklino save šventojo kryžiaus ženklu ir prasiveržė pro didelę lietuvių kariuomenę.
-- susijęs iš [[objektai/grupes/Bajorijos konfederacija.md#claim-t-72035|Bajorijos konfederacija]]: Varšuvoje susidariusi bajorijos konfederacija siekė sujungti visas buvusios Respublikos žemes į vieną kūną.
 - susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54837|Dievo Kūno arkibrolija]]: Dievo Kūno arkibrolija Vilniuje buvo įsteigta 1539 m. kardinolo Komendonio atsiųsta bule.
 - susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54838|Dievo Kūno arkibrolija]]: 1539 m. kardinolas Komendoni atsiuntė bulę, kuria buvo steigiama Dievo Kūno arkibrolija.
 - susijęs iš [[objektai/grupes/Dievo Kūno arkibrolija.md#claim-t-54839|Dievo Kūno arkibrolija]]: Dievo Kūno arkibrolijos arkikonfratrija buvo funduota 1573 m. vasario 3 d., o tų pačių metų lapkričio 27 d. iškilmingai įvesdinta.
@@ -87,12 +81,10 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/grupes/Maloningosios Dievo Motinos brolija.md#claim-t-86808|Maloningosios Dievo Motinos brolija]]: 1589 m. liepos 29 d. Dievo Kūno koplyčioje buvo paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas.
 - susijęs iš [[objektai/grupes/NKGB.md#claim-t-65926|NKGB]]: Prienų NKGB tardytojas Arkadijus Kruglovas prie durų paleido automato seriją.
 - susijęs iš [[objektai/ivykiai/Brandenburgo pilies sunaikinimas ir atstatymas.md#claim-t-62752|Brandenburgo pilies sunaikinimas ir atstatymas (pilis)]]: Prūsams sunaikinus Brandenburgo pilį, Brandenburgo markgrafas toje pačioje vietoje pastatydino kitą pilį tuo pačiu vardu.
-- susijęs iš [[objektai/ivykiai/Briksijos altoriaus stebuklas.md#claim-t-62218|Briksijos altoriaus stebuklas]]: Prie šventojo altoriaus netoli Rozėjos Briksijoje vynas žmonių akyse pavirto krauju, o duona kūnu.
 - susijęs iš [[objektai/ivykiai/Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.).md#claim-t-62286|Henriko VII mirtis ir palaidojimas Pizoje (1313 m. rugpjūčio 24 d.)]]: 1313 m. rugpjūčio 24 d. Sienos grafystėje mirė imperatorius Henrikas VII, o jo kūnas buvo palaidotas Pizoje.
 - susijęs iš [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.).md#claim-t-71747|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]: Kalniškės mūšyje žuvo Neifalto-Lakūno žmona, partizanė slapyvardžiu Pušelė.
 - susijęs iš [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.).md#claim-t-71748|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]: Neifalta-Lakūnas per Kalniškės mūšį nežuvo; citatoje nurodoma, kad jis žuvo apie 1946 m.
 - susijęs iš [[objektai/ivykiai/Kalniškės mūšis (1945 m. gegužės 16-17 d.).md#claim-t-71749|Kalniškės mūšis (1945 m. gegužės 16-17 d.)]]: Liudytojas teigė Neifaltą-Lakūną po Kalniškės mūšio matęs ne kartą.
-- susijęs iš [[objektai/ivykiai/Kęstučio žūtis Krėvos kalėjime (1382 m.).md#claim-t-92931|Kęstučio žūtis Krėvos kalėjime (1382 m.)]]: Kęstučio kūnas Vilniuje senu papročiu buvo iškilmingai sudegintas su jo arkliais, sakalais, šunimis ir ginklais.
 - susijęs iš [[objektai/ivykiai/Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.).md#claim-t-75207|Lietuvos vyrų krepšinio rinktinės antroji pergalė Europos čempionate Kaune (1939 m.)]]: 1939 m. Kaune Lietuva antrą kartą laimėjo Europos krepšinio čempionatą.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų.md#claim-t-183943|Martyno iš Golino kova su 20 prūsų plėšikų]]: Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį.
 - susijęs iš [[objektai/ivykiai/Martyno iš Golino kova su 20 prūsų plėšikų.md#claim-t-62392|Martyno iš Golino kova su 20 prūsų plėšikų]]: Po kovos pririštas sargybinis išsilaisvino, rado sunkiai sužeistą Martyną iš Golino ir nuvežė jį į Rudino pilį.
@@ -103,7 +95,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/ivykiai/Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.).md#claim-t-01846|Vilniaus katedros unijos atnaujinimo pasižadėjimas (1812 m. liepos 14 d.)]]: Vilniaus universiteto jaunuomenės iniciatyva 1812 m. liepos 14 d. Vilniaus katedroje iškilmingai pasižadėta atnaujinti uniją.
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86881|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Pastačius Švč. Trejybės prieglaudą, dalis Vilijos tilto mokesčio turėjo būti skiriama ligonių maistui, drabužiams, vaistams ir kitoms reikmėms.
 - susijęs iš [[objektai/paprociai/Aisčių laidotuvių ir vėlinių apeigos.md#claim-t-05335|Aisčių laidotuvių ir vėlinių apeigos]]: Wulfstano aprašyti aisčiai mirusiojo kūną laikydavo mėnesius, iš jo turto keldavo puotas, o likutį išdalydavo per arklių lenktynes.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89445|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitose minėtose pilyse broliai po vakarinių ar rytmetinių pamaldų plakdavo savo kūną rykštėmis.
 - susijęs iš [[objektai/paprociai/Bendri Lietuvos ir Lenkijos seimai.md#claim-t-01937|Bendri Lietuvos ir Lenkijos seimai]]: Akte numatyti bendri seimai ir bendra karaliaus elekcija, tačiau jų vykdymo tvarka turėjo būti nustatyta vėliau.
 - susijęs iš [[objektai/paprociai/Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu.md#claim-t-91922|Kapinių šventinimas ir kapų šlakstymas švęstu vandeniu]]: Kapinių šventinimo metu vyskupas šlakstė mirusiųjų kapus švęstu vandeniu.
 - susijęs iš [[objektai/paprociai/Kristaus kūno šventės šventimas.md#claim-t-183990|Kristaus kūno šventės šventimas]]: 1310 metais popiežius Klemensas V Vieno susirinkime patvirtino Kristaus kūno šventę.
@@ -119,7 +110,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89584|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis „namus“ aiškina kaip Celestino III Jeruzalėje įkurtą ir pašventintą Teutonų ordino ligoninę.
 - susijęs iš [[objektai/posakiai/Išmintis pasistatė sau namus, ji išsikirto septynis šulus.md#claim-t-89586|Išmintis pasistatė sau namus, ji išsikirto septynis šulus]]: Petras Dusburgietis septyniais dvasiniais šulais vadino klusnumą, neturtą, skaistybę, gailestį, išpažinimą, atgailą ir artimo meilę.
 - susijęs iš [[objektai/posakiai/Mirė tikrai mūsų tautos garbė.md#claim-t-67275|Mirė tikrai mūsų tautos garbė.]]: Vytautas mirė susitaikęs su Dievu, o jo kūnas aštuonias dienas buvo viešai išstatytas žmonių atsisveikinimui.
-- susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59167|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas žygyje atsiskyrė nuo kitų brolių ir meldėsi, kad namie būtų galėjęs priimti Kristaus kūną.
 - susijęs iš [[objektai/posakiai/Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas.md#claim-t-59168|Viešpatie Jėzau Kristau, jeigu šis paplotėlis — tavo tikras kūnas]]: Brolis Albertas paprašė, kad paplotėlis įeitų į jį, jei tai tikras Kristaus kūnas, ir priėmė ore pasirodžiusį paplotėlį.
 - susijęs iš [[objektai/posakiai/negęstančiąją ugnį.md#claim-t-59137|negęstančiąją ugnį]]: Be to, jie garbino, kaip buvo įprasta senovėje, negęstančiąją ugnį.
 - susijęs iš [[objektai/posakiai/patraukti, pašaukti, net jėga priversti.md#claim-t-100002|patraukti, pašaukti, net jėga priversti]]: Jogaila dokumente įsipareigojo lietuvių tautos gyventojus „patraukti, pašaukti, net jėga priversti“ paklusti Romos Bažnyčiai.
@@ -136,8 +126,6 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Karalių privilegijos dėl Dievo Kūno koplyčios mūrinių namų atleidimo nuo mokesčių: Dievo Kūno koplyčiai skirtus mūrinius namus nuo mokesčių atleido Žygimantas III, Vladislovas IV ir Jonas Kazimieras.
 - susijęs iš Lietuvos ponų tarybos laiškas Kristupui Radvilai apie Stepono Batoro mirtį (1586 m. gruodžio 13 d.): Po Stepono Batoro mirties Lietuvos ponų taryba prašė Kristupo Radvilos atvykti prie mirusio valdovo kūno arba skubiai atsiųsti savo nuomonę.
 - susijęs iš Maloningosios Dievo Motinos brolijos įkūrimo paskelbimas ir Petro Skargos promocija: 1589 m. liepos 29 d. Dievo Kūno koplyčioje paskelbtas Maloningosios Dievo Motinos brolijos įkūrimas ir Petro Skargos promocija.
-- susijęs iš Martyno iš Opavos popiežių ir imperatorių istorija: Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.
-- susijęs iš Ptolomėjaus iš Lukos Analai: Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.
 - susijęs iš Vilniaus arkikonfratrijos fundavimo ir įvesdinimo dokumentai: Vilniaus arkikonfratrija buvo funduota 1573 m. vasario 3 d., o iškilmingai įvesdinta tų pačių metų lapkričio 27 d.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
 - susijęs iš Šv. Jono Akademijos Spaustuvės kronika: 1631 m. Akademijos kolegija įgijo sklypą ir mūrinį namą, kurį vėliau pavertė spaustuve.
@@ -150,10 +138,8 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
 - susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios ankstyvieji dokumentai buvo prarasti 1660 m. maskvėnų užėmimo ir 1737 m. gaisro metu.
 - susijęs iš Dievo Kūno koplyčia: Trakų vaivada Oginskis kėlė Dievo Kūno koplyčią iš griuvėsių ir, skyręs daug lėšų, ją išpuošė.
 - susijęs iš Dievo Kūno koplyčia: Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas.
-- susijęs iš Karaliaučius: Dusburgietis pasakoja, kad žygio prieš Lietuvą metu besimeldžiančiam Karaliaučiaus komtūrui Albertui pasirodė Kristaus kūnas.
 - susijęs iš Kaunas: Sportas tapo integralia gyvenimo dalimi, tai pademonstruota per pirmąją tautinę olimpiadą Kaune 1938 m., kurioje gausiai dalyvavo ir užsienio šalių lietuviai.
 - susijęs iš Kirsnava: Brolis Fridrichas, grįždamas su grobiu iš Kirsnavos valsčiaus, buvo priešų nukautas kartu su 30 vyrų.
-- susijęs iš Krokuva: Kryžius su Šventojo Kryžiaus medžiu turėjo būti paliktas Krokuvos pilies koplyčioje, kur ilsėjosi karaliaus kūnas.
 - susijęs iš Krokuva: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje prie tėvo kapo.
 - susijęs iš Lenkijos karalystė: Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.
 - susijęs iš Lietuva: Žygio prieš Lietuvą metu Karaliaučiaus komtūrui Albertui meldžiantis, kronikoje aprašytas viešpaties kūno pasirodymas paplotėlio pavidalu.
@@ -224,5 +210,10 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     - t-002
 
 ## Ryšiai
+- Kūnas mire [[objektai/vietos/Ivanskas]]
 - Kūnas mire [[objektai/vietos/Krokuva]]
 - Kūnas mire [[objektai/vietos/Lenkijos karalystė]]
+- Kūnas mire [[objektai/vietos/Lietuva]]
+- Kūnas mire [[objektai/vietos/Vilnius]]
+- Kūnas valde_teritorija [[objektai/vietos/Lenkija]]
+- Kūnas valde_teritorija [[objektai/vietos/Vilnius]]

@@ -38,7 +38,7 @@ amziai:
   global_id: t-86072
   teiginys: 'Kardinolas Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią, kurioje ilgai buvo laikomos pamaldos.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kardinalija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kardinalija'
   pagrindžia:
     - c-002
 

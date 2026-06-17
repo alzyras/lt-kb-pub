@@ -40,7 +40,7 @@ Volyniečių žygiavimas į Naugarduką ėjo per Pinsko pelkes link Sčaros. Sč
   teiginys: '1251–1252 m. karo aprašyme volyniečių žygis į Naugarduką minimas kaip ėjęs per Pinsko pelkes link Sčaros.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Sčarą su 1251–1252 m. karo aprašymu. Jame nepaverčiama komentaro prielaida platesniu faktu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vasilka|Vasilka]]; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Pinskas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Naugardukas; mentioned_place: Nemunas; mentioned_place: Pinskas; mentioned_place: Volynė'
   temporaliniai_duomenys: 'mūšio data: 1251-1252; mūšio data: 1252 m.; mūšio data: 1262 m.; mūšio data: apie 1262 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip mūšio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Sčarą su 1251–1252 m. karo aprašymu. Jame nepaverčiama komentaro prielaida platesniu faktu.'

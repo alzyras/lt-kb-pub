@@ -40,7 +40,7 @@ Dusburgietis teigia, kad apie šventos Elžbietos kanonizavimą 1235 viešpaties
   global_id: t-58613
   teiginys: '1235 m. popiežius Grigalius IX kanonizavo šventą Elžbietą Perudžoje, brolių pamokslininkų konvente.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius IX|Grigalius IX]]'
   temporaliniai_duomenys: 'įvykio data: 1235 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citata.'

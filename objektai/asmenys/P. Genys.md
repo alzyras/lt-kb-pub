@@ -21,7 +21,7 @@ Birželio 3 d. P. Genys užima Svėdasus. | O po to Užpalius ir birželio 5 d. 
   global_id: t-39794
   teiginys: 'P. Genys birželio 3 d. užėmė Svėdasus, vėliau Užpalius, o birželio 5 d. - Antalieptę.'
   sudarymo_pagrindimas: 'Teiginyje yra OCR skyrybos triukšmo; citata leidžia suformuluoti vientisą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Antalieptė; mentioned_place: Užpaliai'
+  susije_objektai: 'mentioned_place: Antalieptė; mentioned_place: Užpaliai'
   pagrindžia:
     - c-001
 - susijęs iš Antalieptė: P. Genys po Svėdasų ir Užpalių užėmimo ėmė Antalieptę birželio 5 d.

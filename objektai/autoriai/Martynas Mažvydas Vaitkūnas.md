@@ -45,7 +45,7 @@ Martynas Mažvydas Vaitkūnas šiame šaltinyje minimas kaip autorius, raštinin
 - t-002
   global_id: t-64754
   teiginys: 'Martynas Mažvydas Vaitkūnas 1547 m. išleido pirmąjį lietuvišką katekizmą, kai kurias giesmes ir kelias tikybines knygutes.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Martynas Mažvydas|Martynas Mažvydas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas Mažvydas|Martynas Mažvydas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   temporaliniai_duomenys: 'įvykio data: 1547 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

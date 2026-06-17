@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-87139
   teiginys: 'Vilniaus gyventojams buvo leista turguje pirkti mėsą vyskupo įrengtose mėsinėse, nepaisant miesto pareigūnų draudimų.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra OCR pažeista privilegijos formuluotė, bet citata aiškiai remia glaustą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

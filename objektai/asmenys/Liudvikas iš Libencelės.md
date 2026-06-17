@@ -15,7 +15,6 @@ tags:
   - karalius
   - karas
   - pilis
-  - tikėjimas
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   global_id: t-59882
   teiginys: '1294–1300 m. Liudvikas iš Libencelės buvo Ragainės komtūras ir daug kartų kariavo su lietuviais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą antraštę bei tekstą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Lietuva; mentioned_place: Ragainė'
+  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Lietuva; mentioned_place: Ragainė'
   semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]] kariavo prieš [[objektai/asmenys/Liudvikas|Liudvikas]]; [[objektai/asmenys/Liudvikas iš Libencelės|Liudvikas iš Libencelės]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'mūšio data: 1294-1300; mūšio data: 1300 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas iš Libencelės kariavo prieš Liudvikas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas iš Libencelės kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui.'
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   global_id: t-59884
   teiginys: 'Liudvikas iš Libencelės ir Markvardas iš Revelingės su dviem broliais ir 26 ginklanešiais užpuolė plėšikautojus ir 25 jų nukovė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo veikėjus, jų pajėgas ir kovos rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Markvardas (Ragainės komtūras)|Markvardas (Ragainės komtūras)]]; mentioned_person: [[objektai/asmenys/Markvardas iš Revelingės|Markvardas iš Revelingės]]; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 
@@ -83,7 +82,7 @@ Dusburgietis teigia, kad apie tai, kaip brolis Liudvikas iš Libencelės pirmą 
   global_id: t-59887
   teiginys: '1296 m. Liudvikas iš Libencelės su kitais broliais ir 200 vyrų dalyvavo žygyje, per kurį buvo sudeginta Kimelio pilis.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų žygio rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimelis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimelis; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1296 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata leidžia suformuluoti aiškų žygio rezultatą.'

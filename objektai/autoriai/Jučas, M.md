@@ -29,7 +29,7 @@ Jučas, M.
 - t-001
   global_id: t-30718
   teiginys: 'M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Jučas|M. Jučas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mūšio data: 1959 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

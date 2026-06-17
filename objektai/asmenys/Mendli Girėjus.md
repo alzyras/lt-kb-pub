@@ -10,7 +10,6 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - valstybė
 ---
 # Mendli Girėjus
 

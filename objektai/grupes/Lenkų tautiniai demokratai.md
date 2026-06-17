@@ -23,7 +23,7 @@ Lietuvos teritorijoje taip pat veikė daug visuomeninių ir kultūrinių organiz
   global_id: t-77826
   teiginys: 'Lenkų tautiniai demokratai buvo labiausiai Lietuvoje veiklą išplėtojusi lenkų politinė jėga.'
   sudarymo_pagrindimas: 'Pradinis teiginys per bendras ir nėra tiesiogiai apie užrašo objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Romanas Dmovskis|Romanas Dmovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Romanas Dmovskis|Romanas Dmovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/zodynas/tautinė mažuma etninė kultūrinė mažuma.md#claim-t-169934|tautinė mažuma etninė kultūrinė mažuma]]: Lenkų tautiniai demokratai etniniams lietuviams įsivaizduojamoje Lenkijos valstybėje numatė etninės kultūrinės mažumos statusą.

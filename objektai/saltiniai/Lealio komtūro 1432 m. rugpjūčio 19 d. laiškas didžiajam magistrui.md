@@ -30,7 +30,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   global_id: t-88440
   teiginys: 'Lealio komtūro laiškas didžiajam magistrui datuotas 1432 m. rugpjūčio 19 d. Rygoje.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną faktinį sakinį apie laiško datą ir vietą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti pilną faktinį sakinį apie laiško datą ir vietą.'

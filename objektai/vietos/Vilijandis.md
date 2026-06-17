@@ -30,7 +30,7 @@ amziai:
   global_id: t-38668
   teiginys: '1560 m. rusai užėmė Alūksnę, Vilijandį.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Narva; mentioned_place: Saremos; mentioned_place: Suomija; mentioned_place: Tartu'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos kariuomenė|Maskvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Narva; mentioned_place: Saremos; mentioned_place: Suomija; mentioned_place: Tartu'
   temporaliniai_duomenys: 'įvykio data: 1558 m.; įvykio data: 1560 m.; įvykio data: 1561 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, pilnas ir tiesiogiai paremtas citata.'

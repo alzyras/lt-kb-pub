@@ -21,7 +21,7 @@ Podolės žemės tėvonys bei paveldėtojai“.
   global_id: t-38782
   teiginys: 'Podolėje veikė tėvonių paskirti atamanai, duodavę duoklę atvykstantiems Ordos baskakams.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo tik fragmentas be predikato.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_place: Podolė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus.md#claim-t-09544|Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]: Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.

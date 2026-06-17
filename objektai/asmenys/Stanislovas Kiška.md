@@ -34,7 +34,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   global_id: t-79162
   teiginys: 'LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį.'
-  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Smolenskas'
+  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Smolenskas'
   semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]] buvo valdovas Smolenskas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1502 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Kiška buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui.'
@@ -46,7 +46,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
 - t-002
   global_id: t-79163
   teiginys: 'Rugpjūčio 5 d. paryčiais etmonas Stanislovas Kiška dėl žygio vargų nebegalėjo vadovauti ir pageidavo toliau važiuoti vežimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Kazanė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Kazanė; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Viazma'
   temporaliniai_duomenys: 'įvykio data: 1442 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau akcentuoja Kazimiero veiksmą, todėl perrašyta aiškiau apie Kiškos vaidmenį.'
@@ -73,7 +73,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata apie Kiškos žygį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Viazma'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Viazma'
   pagrindžia:
     - c-004
 
@@ -85,7 +85,7 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Antraštės ir puslapio triukšmas pašalintas, išlaikytas remiamas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Maskva'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.

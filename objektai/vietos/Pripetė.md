@@ -46,7 +46,6 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, vietą ir veiksmą, remiamą citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kaidanas|Kaidanas]]'
   pagrindžia:
     - c-002
 
@@ -58,7 +57,7 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir susietas su Pripete be perteklinių detalių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Dnepras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijai|Kalavijai]]; mentioned_place: Dnepras'
   pagrindžia:
     - c-003
 - susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
@@ -160,4 +159,3 @@ Karaliaus lėšomis buvo iškastas kitas kanalas, kuris jungia Pripetės intaką
 
 ## Ryšiai
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Pripetė
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Pripetė

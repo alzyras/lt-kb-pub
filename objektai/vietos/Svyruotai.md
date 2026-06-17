@@ -22,7 +22,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Svyruotus.
   teiginys: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Svyruotus kartu su kitomis valdomis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia išplėsti asmens identifikavimą ir ištaisyti fragmentišką šaltinio formą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
   pagrindžia:
     - c-001
 - susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.

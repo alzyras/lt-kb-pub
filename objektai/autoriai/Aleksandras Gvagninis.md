@@ -45,7 +45,7 @@ J. Jurginio įvade Aleksandras Gvagninis pateikiamas kaip vienas Alberto Vijūko
   teiginys: 'Aleksandras Gvagninis buvo 1578 m. lotyniškojo „Sarmatų Europos aprašymo“ autorius ir vienas Kojelavičiaus pirmtakų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata pagrindžia autorystę, metus ir santykį su Kojelavičiumi.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Europa'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_place: Europa'
   temporaliniai_duomenys: 'įvykio data: 1578 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia autorystę, metus ir santykį su Kojelavičiumi.'

@@ -30,7 +30,7 @@ amziai:
   global_id: t-32413
   teiginys: 'Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.'
   sudarymo_pagrindimas: 'Pirminį teiginį verta patikslinti citatoje nurodytu laikotarpiu.'
-  susije_objektai: 'location: Dauguva; location: Dniepras; location: Europa; location: Pripetė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/geležies amžius|geležies amžius]]; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Pripetė'
+  susije_objektai: 'location: Dauguva; location: Dniepras; location: Europa; location: Pripetė; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_object: [[objektai/zodynas/geležies amžius|geležies amžius]]; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Pripetė'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 800 m; gyvenimo laikotarpis: 400-800'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminį teiginį verta patikslinti citatoje nurodytu laikotarpiu.'

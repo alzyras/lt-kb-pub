@@ -50,7 +50,7 @@ Nenurodyta
 - t-001
   global_id: t-67095
   teiginys: 'JAV lietuviai leido laikraščius, kūrė chorus, finansiškai rėmė Lietuvos kultūrinį gyvenimą ir rengė politines akcijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1879 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -61,9 +61,9 @@ Nenurodyta
   global_id: t-67096
   teiginys: '1910 m. JAV gyveno 207 tūkst. lietuvių, kurie kūrė spaudą, draugijas ir organizacijas, chorų veiklą bei politines akcijas.'
   sudarymo_pagrindimas: 'Pirminis teiginys labiau akcentavo emigraciją, o citata leidžia suformuluoti tiesioginį faktą apie JAV lietuvių praktikas.'
-  susije_objektai: 'location: Lietuva; location: Rusija; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'location: Lietuva; location: Rusija; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1868 m.; gyvenimo laikotarpis: 1868 m.; gyvenimo laikotarpis: 1879 m.; gyvenimo laikotarpis: 1910 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Georgas (liet. Jurgis) Zauerveinas gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Georgas (liet. Jurgis) Zauerveinas gyveno Rusija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys labiau akcentavo emigraciją, o citata leidžia suformuluoti tiesioginį faktą apie JAV lietuvių praktikas.'
   pagrindžia:
     - c-002
@@ -72,7 +72,7 @@ Nenurodyta
 - t-003
   global_id: t-67097
   teiginys: 'JAV lietuviai leido lietuviškus laikraščius, kūrė chorus, rėmė Lietuvos kultūrą ir rengė politines akcijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/autoriai/Zauerveinas|Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1879 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -28,7 +28,7 @@ Rohačevas minimas Aleksandro 1492.IX.27 instrukcijoje. Rohačevas lokalizuojama
   teiginys: 'Rohačevas lokalizuojamas prie Chlepenio į pietus nuo Rževo.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus lokalizacijos sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Chlepenis; mentioned_place: Kaluga; mentioned_place: Mosalskas; mentioned_place: Rževas; mentioned_place: Serpeiskas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Chlepenis; mentioned_place: Kaluga; mentioned_place: Mosalskas; mentioned_place: Rževas; mentioned_place: Serpeiskas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

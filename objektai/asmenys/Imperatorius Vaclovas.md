@@ -24,7 +24,7 @@ Prancū­ zai priėmė tą kvietimą į dvikovą: Prahą - kautynių vieta, o im
   global_id: t-87516
   teiginys: 'Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vaclovo pasirinktą vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Praha'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Praha'
   pagrindžia:
     - c-001
 

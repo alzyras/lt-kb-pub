@@ -33,7 +33,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101677
   teiginys: 'Prasidėjus perversmui Maskvoje, Michailas Gorbačiovas buvo izoliuotas Kryme.'
   sudarymo_pagrindimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija'
   pagrindžia:
     - c-005
 
@@ -42,7 +42,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101678
   teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Lietuva; mentioned_place: Mažeikiai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir išlaikytas citatos faktas.'
@@ -54,7 +54,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101679
   teiginys: '1991 m. kovą Maskvos demonstracijoje daugiau nei 200 tūkst. dalyvių skandavo šūkius prieš Gorbačiovą ir už Lietuvą.'
   sudarymo_pagrindimas: 'Pradinis tekstas prasideda fragmentu ir tęsiasi kita tema, citata palaiko konkretų demonstracijos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas prasideda fragmentu ir tęsiasi kita tema, citata palaiko konkretų demonstracijos faktą.'
@@ -66,7 +66,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101680
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo.'
   sudarymo_pagrindimas: 'Reikėjo aiškesnės sakinio sandaros apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikėjo aiškesnės sakinio sandaros apie asmenį.'
@@ -86,7 +86,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101682
   teiginys: 'SSRS vadovybė su Michailu Gorbačiovu priešakyje reikalavo atšaukti Kovo 11 Aktą.'
   sudarymo_pagrindimas: 'Išplėsta vardo forma ir pašalinta santrumpa.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„kas buvo pavogta, turi būti grąžinta“|„kas buvo pavogta, turi būti grąžinta“]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/„kas buvo pavogta, turi būti grąžinta“|„kas buvo pavogta, turi būti grąžinta“]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-006
 
@@ -95,7 +95,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101683
   teiginys: '1991 m. sausio 10 d. Michailas Gorbačiovas ultimatyviai pareikalavo nedelsiant visiškai atkurti SSRS ir Lietuvos SSR konstitucijų galiojimą.'
   sudarymo_pagrindimas: 'Perrašyta į tikslesnį sakinį su metais ir citatoje esančiu reikalavimo turiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Danutė|Danutė]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į tikslesnį sakinį su metais ir citatoje esančiu reikalavimo turiniu.'
@@ -106,7 +106,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
 - t-008
   global_id: t-101684
   teiginys: '1991 m. kovą Michailas Gorbačiovas Maskvos demonstracijoje sulaukė daugiau nei 200 tūkst. dalyvių raginimo atsistatydinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1991 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -117,7 +117,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101685
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvoje LKP vadovybė laikėsi pasyviai.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje daug antraštės ir puslapio triukšmo, citata palaiko faktą apie pertvarkos pradžios kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje daug antraštės ir puslapio triukšmo, citata palaiko faktą apie pertvarkos pradžios kontekstą.'
@@ -129,7 +129,7 @@ S SRS pradėjus vykdyti Michailo Gorbačiovo pertvarkos politiką, Lietuvoje, ki
   global_id: t-101686
   teiginys: 'Michailo Gorbačiovo pertvarkos politikos pradžioje Lietuvos visuomenės nepasitenkinimas didėjo, kol ji pati ėmėsi iniciatyvos.'
   sudarymo_pagrindimas: 'Reikėjo aiškiau susieti faktą su Michailu Gorbačiovu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Rimgaudas Songaila|Rimgaudas Songaila]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikėjo aiškiau susieti faktą su Michailu Gorbačiovu.'

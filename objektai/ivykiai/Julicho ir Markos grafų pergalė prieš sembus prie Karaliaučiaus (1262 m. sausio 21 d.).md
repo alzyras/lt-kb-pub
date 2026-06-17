@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-66571
   teiginys: 'Per kovą prie Karaliaučiaus į pagalbą buvo pasikviesti visi Karaliaučiaus broliai ir jų ginklanešiai.'
   sudarymo_pagrindimas: 'Fragmentas išplėstas į pilną sakinį su aiškiu įvykio kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-66572
   teiginys: '1262 m. sausio 21 d. Julicho grafas ir Markos grafas Engelbertas su didele kariuomene atvyko į Karaliaučiaus pilį.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]'
   temporaliniai_duomenys: 'kelionės data: 1262 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citata.'
@@ -67,7 +67,7 @@ Nenurodyta
   global_id: t-66573
   teiginys: 'Prieš kautynes žvalgas Stantekas, sunkiai sužeistas sembų sargybos, pranešė maldininkams apie pasalą.'
   sudarymo_pagrindimas: 'Sutrumpintas ilgas pasakojimas ir aiškiai įvardytas veikėjas bei rezultatas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kaimas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Kaimas; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sutrumpintas ilgas pasakojimas ir aiškiai įvardytas veikėjas bei rezultatas.'
@@ -79,7 +79,7 @@ Nenurodyta
   global_id: t-66574
   teiginys: 'Dusburgietis pasakoja, kad vienas prūsas iš anksto pranašavo sembų išžudymą švento Vincento dieną.'
   sudarymo_pagrindimas: 'Kadangi teiginys yra apie kronikos pasakojamą pranašystę, atribucija šaltiniui tinkama.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-001
 

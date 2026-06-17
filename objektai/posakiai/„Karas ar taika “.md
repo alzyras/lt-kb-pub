@@ -30,7 +30,7 @@ Voldemarui klausimą „Karas ar taika?“ A.
   global_id: t-26348
   teiginys: 'Ženevoje J. Pilsudskis paklausė A. Voldemaro „Karas ar taika?“, o šis atsakė, kad karo padėties tarp Lietuvos ir Lenkijos nėra.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentas, bet citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ženeva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Voldemaras|Augustinas Voldemaras]]; mentioned_person: [[objektai/asmenys/J. Pilsudskis|J. Pilsudskis]]; mentioned_person: [[objektai/asmenys/Petras Klimas|Petras Klimas]]; mentioned_person: [[objektai/asmenys/Pilsudskis|Pilsudskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Ženeva'
   temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo fragmentas, bet citata palaiko pilną sakinį.'

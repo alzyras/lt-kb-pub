@@ -10,7 +10,6 @@ tags:
   - ginklas
   - kraštas
   - miestas
-  - pilis
 ---
 # Mietas
 
@@ -45,7 +44,7 @@ Nenurodyta
   global_id: t-80693
   teiginys: 'Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie mietą; pradinė formuluotė sumaišyta su nesusijusiu ginklo aprašymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kopčius|Kopčius]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_person: [[objektai/asmenys/Kopčius|Kopčius]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Kopčius.md#claim-t-80736|Kopčius]]: Totoriai nukirto žuvusio raštininko Kopčiaus galvą, pamovė ją ant mieto ir tyčiojosi iš likusių gyvųjų.

@@ -31,7 +31,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   global_id: t-90250
   teiginys: 'Po Gotfrido atsistatydinimo Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru ir iškeliavo į Ordino būstinę Venecijoje.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir tiksliai paremtas pateikta citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Prūsija; mentioned_place: Venecija'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsija; mentioned_place: Venecija'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   global_id: t-90251
   teiginys: '1303 m. Elbingo kapituloje Zigfridas iš Foichtvangeno buvo išrinktas didžiuoju magistru.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietą ir pareigas, kurias patvirtina citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1303 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietą ir pareigas, kurias patvirtina citata.'

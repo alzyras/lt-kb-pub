@@ -30,7 +30,7 @@ tags:
   global_id: t-64837
   teiginys: 'S. Grunau ir vėlesni autoriai Krivį vadino Krivių Krivaičiu.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Grunau vartotą pavadinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Livonija; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60509|Powierski J]]: J. Powierski cituojamas aiškinant Romovės šventojo ąžuolo ryšį su indoeuropiečių mitologiniais vaizdiniais.

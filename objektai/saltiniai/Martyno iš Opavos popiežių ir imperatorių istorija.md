@@ -72,7 +72,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   global_id: t-60882
   teiginys: 'Martyno iš Opavos istorijoje pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona – kūnu.'
   sudarymo_pagrindimas: 'Tai legendinis šaltinio pasakojimas, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-002
 
@@ -105,7 +105,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   global_id: t-60885
   teiginys: 'Martyno iš Opavos istorijoje Inocentas III minimas kaip popiežius, o Otonas IV ir Fridrichas II – kaip imperatoriai.'
   sudarymo_pagrindimas: 'Citata remia tik šaltinyje pateiktą titulų ir valdovų paminėjimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas II|Fridrichas II]]; mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-006
 
@@ -114,7 +114,7 @@ Dusburgietis teigia, kad čekijos vienuolis Martynas iš Opavos (Martinus Polonu
   global_id: t-60886
   teiginys: 'Po popiežiaus Klemenso vainikavimo prie Liono išgriuvusi mūro siena pražudė daug žmonių ir sužeidė patį popiežių.'
   sudarymo_pagrindimas: 'Citata remia įvykį, o pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/oktava|oktava]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lionas; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lionas; mentioned_place: Prancūzija'
   pagrindžia:
     - c-009
 

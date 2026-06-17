@@ -30,7 +30,7 @@ Roko maršams vadovavo LPS iniciatyvinės grupės narys, populiarios muzikos gru
   global_id: t-26431
   teiginys: 'Algirdas Kaušpėdas, LPS iniciatyvinės grupės narys ir grupės „Antis“ lyderis, vadovavo Roko maršams.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija asmenį, pareigas ir veiksmą, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1989 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija asmenį, pareigas ir veiksmą, o citata tai patvirtina.'

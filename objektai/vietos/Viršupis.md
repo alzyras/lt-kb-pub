@@ -23,7 +23,7 @@ Be Rūdninkų, didieji Lietuvos kunigaikščiai prie pat Vil­ niaus, už Antaka
   global_id: t-86267
   teiginys: 'Didieji Lietuvos kunigaikščiai prie Vilniaus, už Antakalnio priemiesčio, turėjo miesto dvarą, vadinamą Viršupiu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai nusako Viršupio dvaro vietą bei paskirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Antakalnis; mentioned_place: Lietuva; mentioned_place: Rūdninkai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Antakalnis; mentioned_place: Lietuva; mentioned_place: Rūdninkai'
   pagrindžia:
     - c-001
 - susijęs iš Antakalnis: Viršupio dvaras buvo prie pat Vilniaus, už Antakalnio priemiesčio.

@@ -21,7 +21,7 @@ Ji veždavo savo prekes Nemunu; iš Nemuno kelias ėjo per jo šaką Giliją; pa
   global_id: t-02406
   teiginys: 'Lietuvos prekės iš Nemuno per Giliją ir Kuršmares buvo plukdomos Deimena pro Labguvą į Prieglių.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pataisyta neaiški konstrukcija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_place: Dancigas; mentioned_place: Labguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nogatas; mentioned_place: Prieglius'
+  susije_objektai: 'mentioned_place: Dancigas; mentioned_place: Labguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Nogatas; mentioned_place: Prieglius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/A. Becenbergeris.md#claim-t-56717|A. Becenbergeris]]: A. Becenbergeris šiame šaltinyje pristatomas kaip tyrinėtojas, nustatęs lietuvių ir prūsų kalbinę ribą pagal vietovardžių paplitimą.

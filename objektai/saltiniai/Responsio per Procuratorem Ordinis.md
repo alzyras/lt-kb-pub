@@ -24,7 +24,7 @@ Ordinis apie tai plačiai pasa­ koja.
   global_id: t-88329
   teiginys: '„Responsio per Procuratorem Ordinis“ pasakojo apie arkivyskupo Fridricho pasiuntinius pas lietuvių valdovą.'
   sudarymo_pagrindimas: 'Citata pateikia šio šaltinio pasakojimo turinį, o pradinis teiginys yra fragmentiškas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Livonija; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 

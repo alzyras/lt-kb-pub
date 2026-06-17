@@ -22,7 +22,7 @@ Iš bažnytinio suvažiavimo grįžę pasiuntiniai parsivežė laišką, kuriuo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia laiško paskirtį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_place: Lvovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

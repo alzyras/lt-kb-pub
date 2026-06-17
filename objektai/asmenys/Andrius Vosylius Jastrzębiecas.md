@@ -14,7 +14,6 @@ tags:
   - didikas
   - karalius
   - krikštas
-  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -33,7 +32,7 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
   global_id: t-35029
   teiginys: 'Andrius Vosylius Jastrzębiecas buvo paskirtas Vilniaus vyskupu ir nuo Lietuvos krikšto pradžios vadovavo apaštalavimo darbui.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,7 +40,7 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
 - t-002
   global_id: t-35030
   teiginys: 'Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.'
-  susije_objektai: 'location: Rusija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Rusija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Andrius Vosylius Jastrzębiecas|Andrius Vosylius Jastrzębiecas]] keliavo į Rusija; [[objektai/asmenys/Andrius Vosylius Jastrzębiecas|Andrius Vosylius Jastrzębiecas]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Andrius Vosylius Jastrzębiecas keliavo į Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Vosylius Jastrzębiecas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'

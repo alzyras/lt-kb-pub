@@ -52,7 +52,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   global_id: t-114296
   teiginys: 'Iš Italijos kilęs de Senis Vilnių papuošė nuostabaus darbo meno kūriniais.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į sklandesnį, enciklopedinį sakinį be šaltinio fragmentiškumo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -69,7 +69,7 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   global_id: t-114298
   teiginys: 'Katalikybė sudarė prielaidas Italijos ir Ispanijos baroko kultūrai plisti Vakarų Europos katalikiškose šalyse.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi neišbaigtą skliaustinį fragmentą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Ispanija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -345,9 +345,8 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
     - t-009
 
 ## Ryšiai
-- [[objektai/asmenys/Bona]] buvo_valdovas Italija
 - [[objektai/asmenys/Deziderijus]] buvo_valdovas Italija
-- [[objektai/autoriai/Machiavellio]] buvo_valdovas Italija
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Italija
 - [[objektai/grupes/Hanza]] priklause Italija
 - [[objektai/vietos/Olandija]] priklause Italija
 - [[objektai/asmenys/Simeonas]] keliavo_i Italija

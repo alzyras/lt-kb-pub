@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-87512
   teiginys: 'Turkijos čiaušas Ibrahimas su dvidešimt dviem tarnais turėjo būti aprūpintas nakvyne Vilniaus mieste.'
   sudarymo_pagrindimas: 'Citata pagrindžia čiaušo ir jo tarnų apgyvendinimo nurodymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Ibrahimas|Ibrahimas]]; mentioned_place: Gardinas; mentioned_place: Turkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Ibrahimas|Ibrahimas]]; mentioned_place: Gardinas; mentioned_place: Turkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ periodo_grupes:
   global_id: t-87513
   teiginys: 'Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.'
   sudarymo_pagrindimas: 'Citata pagrindžia Ibrahimo pareigas, siuntimo tikslą ir buvimą Vilniuje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Ibrahimas|Ibrahimas]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Alytus; mentioned_place: Baisogala; mentioned_place: Borisovas; mentioned_place: Breslauja; mentioned_place: Dubingiai; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Turkija; mentioned_place: Veliuona; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Alytus; mentioned_place: Baisogala; mentioned_place: Borisovas; mentioned_place: Breslauja; mentioned_place: Dubingiai; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Turkija; mentioned_place: Veliuona; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -46,7 +46,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata leidžia suformuluoti aiškų sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kauno pilis; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kauno pilis; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'įvykio data: 1361 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi OCR triukšmo, bet citata leidžia suformuluoti aiškų sakinį.'

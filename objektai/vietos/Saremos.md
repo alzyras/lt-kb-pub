@@ -31,7 +31,7 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43877
   teiginys: 'Danams atiteko Saremos, arba Eželio, vyskupystė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,10 +41,10 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-002
   global_id: t-43878
   teiginys: 'Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.'
-  susije_objektai: 'owner: Kuršas; owner: Lietuva; owner: Livonija; owner: Maskva; owner: Ryga; owner: [[objektai/asmenys/Steponas|Steponas]]; owner: Talinas; owner: Tartai; owner: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai'
-  semantiniai_rysiai: 'Saremos priklausė [[objektai/asmenys/Steponas|Steponas]]; Saremos priklausė [[objektai/grupes/Švedai|Švedai]]; Saremos priklausė Kuršas; Saremos priklausė Lietuva; Saremos priklausė Livonija; Saremos priklausė Maskva; Saremos priklausė Ryga; Saremos priklausė Talinas; Saremos priklausė Tartai'
+  susije_objektai: 'owner: Kuršas; owner: Lietuva; owner: Livonija; owner: Maskva; owner: Ryga; owner: Talinas; owner: Tartai; owner: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Talinas; mentioned_place: Tartai'
+  semantiniai_rysiai: 'Saremos priklausė [[objektai/grupes/Švedai|Švedai]]; Saremos priklausė Kuršas; Saremos priklausė Lietuva; Saremos priklausė Livonija; Saremos priklausė Maskva; Saremos priklausė Ryga; Saremos priklausė Talinas; Saremos priklausė Tartai'
   temporaliniai_duomenys: 'priklausymo laikotarpis: iki 1582 m.; priklausymo laikotarpis: 1582 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Saremos priklausė Steponas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Švedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Kuršas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Ryga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Talinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Tartai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Saremos priklausė Švedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Kuršas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Ryga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Talinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Saremos priklausė Tartai“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Karusės mūšis (1270 m. vasario 16 d.).md#claim-t-66608|Karusės mūšis (1270 m. vasario 16 d.)]]: Karusės mūšyje lietuviai ir vyskupų pajėgos 1270 m. vasario 16 d. ties Karuse susitiko ant užšalusios jūros ledo.
@@ -100,7 +100,6 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - Saremos priklause [[objektai/vietos/Livonija]]
 - Saremos priklause [[objektai/vietos/Maskva]]
 - Saremos priklause [[objektai/vietos/Ryga]]
-- Saremos priklause [[objektai/asmenys/Steponas]]
 - Saremos priklause [[objektai/vietos/Talinas]]
 - Saremos priklause [[objektai/vietos/Tartai]]
 - Saremos priklause [[objektai/grupes/Švedai]]

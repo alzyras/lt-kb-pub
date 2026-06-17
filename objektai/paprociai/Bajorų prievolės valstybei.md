@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-01924
   teiginys: 'Lietuvos bajorijos pareigos valstybei priklausydavo nuo bajorų valdomos žemės.'
   sudarymo_pagrindimas: 'Reikia išskleisti neaiškų įvardį ir pataisyti formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

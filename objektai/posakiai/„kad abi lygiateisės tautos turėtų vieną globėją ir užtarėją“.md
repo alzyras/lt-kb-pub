@@ -23,7 +23,7 @@ Stanislovo garbei („kad abi lygiateisės tautos turėtų vieną globėją ir u
   global_id: t-20902
   teiginys: 'Jogailos pastatyta katedra pašvęsta šv. Stanislovui, „kad abi lygiateisės tautos turėtų vieną globėją ir užtarėją“.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

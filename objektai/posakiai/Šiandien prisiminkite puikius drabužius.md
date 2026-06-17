@@ -23,7 +23,7 @@ Dusburgietis teigia, kad kurie ne kurie Prūsijos kilmingieji ištikimai palaik�
   global_id: t-59172
   teiginys: 'Sembas Sklodas iš Kvedenavos ragino giminaičius prisiminti puikius drabužius, kurių jie dažnai gaudavo iš Ordino brolių.'
   sudarymo_pagrindimas: 'Citata pagrindžia kalbėtoją, adresatus ir posakio turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/asmenys/Sklodas iš Kvedenavos|Sklodas iš Kvedenavos]]; mentioned_place: Kvedenava; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Noliubas|Noliubas]]; mentioned_person: [[objektai/asmenys/Sklodas iš Kvedenavos|Sklodas iš Kvedenavos]]; mentioned_place: Kvedenava; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

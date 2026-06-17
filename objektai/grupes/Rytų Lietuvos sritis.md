@@ -28,7 +28,7 @@ amziai:
 - t-001
   global_id: t-41137
   teiginys: 'Bunkeryje susisprogdino Rytų Lietuvos srities vadas Antanas Slučka-Šarūnas, Joana Railaitė-Neringa ir partizanas Juozas Jovaiša-Lokys.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Šimonių girios apgultis|Šimonių girios apgultis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,7 +39,6 @@ amziai:
   global_id: t-41138
   teiginys: 'Spalio 28 d. čekistai buvo atvesti prie tuometinio Šiaurės Rytų partizanų srities štabo bunkerio Jovaišų sodyboje.'
   sudarymo_pagrindimas: 'Reikia pašalinti perteklinį ir kiek netikslų vietos formulavimą, paliekant citata paremtą sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
   pagrindžia:
     - c-001
 
@@ -51,7 +50,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

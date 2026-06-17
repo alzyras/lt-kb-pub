@@ -32,7 +32,7 @@ Miesto archyve: Žygimanto Seno­ jo privilegija, datuota Rūdninkuose, 1534 met
   global_id: t-88518
   teiginys: 'Miesto archyve buvo Žygimanto Senojo privilegijos dėl Drujos vandens, datuotos 1534 m. liepos 4 d. ir 1535 m. liepos 17 d.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir pagrįstas citatoje nurodytomis miesto archyvo privilegijų datomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1534 m.; įvykio data: 1535 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir pagrįstas citatoje nurodytomis miesto archyvo privilegijų datomis.'

@@ -30,7 +30,7 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
 - t-001
   global_id: t-52535
   teiginys: 'Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems valstiečių reformos nesusipratimams spręsti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]'
   temporaliniai_duomenys: 'įvykio data: 1855-1881; įvykio data: 1881 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,7 +41,7 @@ didesniesiems nesusipratimams spręsti — visų tarpininkų suvažiavimai, vadi
   global_id: t-52536
   teiginys: 'Taikos suvažiavimai buvo visų taikos tarpininkų susirinkimai, skirti didesniems reformos vykdymo nesusipratimams spręsti.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima platesnį reformos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]'
   temporaliniai_duomenys: 'įvykio data: 1855-1881; įvykio data: 1881 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir apima platesnį reformos kontekstą.'

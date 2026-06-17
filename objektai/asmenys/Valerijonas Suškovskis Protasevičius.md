@@ -22,7 +22,7 @@ Vilniaus vyskupo įpėdiniu tapo Lucko vyskupas Valerijonas Suškovskis Protasev
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys turi įvardį ir OCR skaidymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

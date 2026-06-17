@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-41380
   teiginys: 'Per Vilniaus išvadavimą A. Nelepcos vadovaujama apie 30 karių grupė puolė Pacų rūmus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Vilniaus išvadavimo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/A. Nelepcos|A. Nelepcos]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pacai|Pacai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/A. Nelepcos|A. Nelepcos]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/LDK 1-oji Tautinė brigada.md#claim-t-40975|LDK 1-oji Tautinė brigada]]: 1794 m. balandžio 16 d. Šiauliuose ir jų apylinkėse sukilimą pradėjo LDK 1-oji Tautinė brigada, anksčiau vadinta Kauno husarais.

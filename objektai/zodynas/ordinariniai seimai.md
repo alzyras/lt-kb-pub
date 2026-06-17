@@ -49,7 +49,6 @@ Tai buvo vadinamieji ordinariniai seimai, kurių darbas trukdavo šešetą savai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu, o citata leidžia pateikti aiškesnį sakinį apie objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-004
 

@@ -24,7 +24,7 @@ tags:
   global_id: t-88330
   teiginys: 'Schützo Prūsijos kronika minima kaip šaltinis apie viduramžių riterių puotas prieš karo žygius.'
   sudarymo_pagrindimas: 'Citata tik fragmentiškai, bet pakankamai nurodo Schützo kroniką prie pasakojimo apie riterių priėmimo paprotį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

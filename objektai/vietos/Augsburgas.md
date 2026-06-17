@@ -28,7 +28,7 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
   teiginys: 'Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518 m.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Miechovita|Miechovita]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Miechovita|Miechovita]]'
   temporaliniai_duomenys: 'įvykio data: 1518 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'

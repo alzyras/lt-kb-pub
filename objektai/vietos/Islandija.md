@@ -80,7 +80,7 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
 
 ## Ryšiai
 - [[objektai/asmenys/Adalbertas]] buvo_valdovas Islandija
-- [[objektai/asmenys/Germantas]] buvo_valdovas Islandija
 - [[objektai/asmenys/Mieška]] buvo_valdovas Islandija
 - [[objektai/asmenys/Olafas (Norvegijos valdovas)]] buvo_valdovas Islandija
 - [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Islandija
+- [[objektai/asmenys/Šventaragis]] buvo_valdovas Islandija

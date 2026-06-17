@@ -72,7 +72,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
 - t-003
   global_id: t-55047
   teiginys: '1505 m. Vilniaus gyventojams nurodyta apjuosti miestą mūro siena, o negalintiems jos statyti - tverti statinių tvorą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Išganytojo (Spaso) bažnyčia Vilniuje; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -113,7 +113,7 @@ Naudotos miestų apsaugai ir miesto prieigoms kontroliuoti.
   global_id: t-89431
   teiginys: '1506 m. totorių grėsmės išsigandę vilniečiai apjuosė Vilnių mūro pylimu ir pašalino medinius statinius.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1506 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas; citata aiškiai remia faktą apie Vilniaus apjuosimą mūro pylimu.'

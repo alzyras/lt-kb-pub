@@ -21,7 +21,7 @@ Kapsukas-Mickevičius.
   global_id: t-40487
   teiginys: 'V. Kapsukas-Mickevičius buvo Lietuvos bolševikų lyderis.'
   sudarymo_pagrindimas: 'Perrašyta glaustai, be perteklinio įvardijimo apie šaltinio formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Jieznas; mentioned_place: Lentvaris; mentioned_place: Lietuva; mentioned_place: Prienai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Jieznas; mentioned_place: Lentvaris; mentioned_place: Lietuva; mentioned_place: Prienai'
   pagrindžia:
     - c-001
 

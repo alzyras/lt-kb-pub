@@ -31,7 +31,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
 - t-001
   global_id: t-179549
   teiginys: 'M. Jučas parašė veikalą „Vytautas Didysis“, išleistą Čikagoje 2010 m.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 2010 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -42,7 +42,7 @@ M. Jučas. Vytautas Didysis. Chicago, 2010;.
   global_id: t-179550
   teiginys: 'M. Jučas Petro Dusburgiečio kronikos faktais rėmė koncepcijų apie prūsus kritiką.'
   sudarymo_pagrindimas: 'Citata triukšminga, bet palaiko bendrą teiginį apie autoriaus poziciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/Jučas, M.md#claim-t-30718|Jučas, M]]: M. Jučas parašė 1959 m. Vilniuje išleistą darbą „Žalgirio mūšis“.

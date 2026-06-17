@@ -27,7 +27,7 @@ Dusburgietis teigia, kad powierski J.
   global_id: t-61243
   teiginys: 'J. Powierskio straipsnis apie Dusburgo žinią dėl prūsų antpuolių ir laikinos Kulmo žemės okupacijos paskelbtas 1971 m. Olsztyne.'
   sudarymo_pagrindimas: 'Citata palaiko autorių, straipsnio temą ir publikavimo metus.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko autorių, straipsnio temą ir publikavimo metus.'

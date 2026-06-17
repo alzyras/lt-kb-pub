@@ -15,7 +15,6 @@ tags:
   - karalius
   - kunigaikštis
   - valdovas
-  - vyskupas
 amziai:
   - 'XII'
   - 'XIII'
@@ -35,7 +34,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   global_id: t-60014
   teiginys: 'Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas pateikta ištrauka.'
-  susije_objektai: 'territory: Bremenas; territory: Prūsija; territory: Ryga; territory: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras IV|Aleksandras IV]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Bremenas; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vokietija'
+  susije_objektai: 'territory: Bremenas; territory: Prūsija; territory: Ryga; territory: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras IV|Aleksandras IV]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Bremenas; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vokietija'
   semantiniai_rysiai: '[[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Bremenas; [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Ryga; [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Vokietija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1190 m.; valdymo laikotarpis: po 1191 m.; valdymo laikotarpis: 1191 m.; valdymo laikotarpis: 1244 m.; valdymo laikotarpis: 1251 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Bremenas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Ryga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
@@ -48,7 +47,7 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   global_id: t-60015
   teiginys: 'Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų Fridricho vaidmenį, o pradinis teiginys yra nebaigtas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Joanitų ordinas|Joanitų ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Joanitų ordinas|Joanitų ordinas]]; mentioned_group: [[objektai/grupes/Tamplierių ordinas|Tamplierių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 

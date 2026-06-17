@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-09850
   teiginys: 'Kėdainių gynyba tapo pirmuoju Kėdainių įgulos savanorių kovos krikštu.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-002
 

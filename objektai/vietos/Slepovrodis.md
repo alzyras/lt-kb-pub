@@ -22,7 +22,7 @@ Gedimino žygio metu Slepovrodis kartu su Belgorodu, Kanevu ir Čerkasais pasida
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintos OCR klaidos ir išryškintas su Slepovrodžiu susijęs faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brianskas; mentioned_place: Kanevas; mentioned_place: Kijevas; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Brianskas; mentioned_place: Kanevas; mentioned_place: Kijevas; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
   pagrindžia:
     - c-001
 

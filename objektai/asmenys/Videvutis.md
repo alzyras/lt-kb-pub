@@ -22,7 +22,7 @@ Dusburgietis teigia, kad problemą bandyta spręsti dar XV a.: Prūsijos vardas 
   global_id: t-60073
   teiginys: 'Kai kuriuose šaltiniuose Prūsijos pradžia siejama su Pruteniu ir Videvučiu.'
   sudarymo_pagrindimas: 'Citata palaiko tik tradicijos paminėjimą, todėl reikia atsargaus ir trumpo teiginio.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Prutenis|Prutenis]]; mentioned_person: [[objektai/asmenys/Prūsijus|Prūsijus]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Prutenis|Prutenis]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

@@ -23,7 +23,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   global_id: t-87871
   teiginys: 'Tšecieskis buvo vienas iš talentingų reformatų, kuriems nepavyko sutelkti pakankamai stiprių pajėgų kovai su jėzuitais.'
   sudarymo_pagrindimas: 'Citata remia Tšecieskio vaidmenį reformacijos šalininkų kontekste, bet pradinis tekstas per ilgas ir triukšmingas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Jėzuitų ordinas.md#claim-t-172115|Jėzuitų ordinas]]: Disidentai negalėjo sutelkti tokių stiprių pajėgų kovai su jėzuitais, kurie buvo tvirtai susieti savo brolijos regulų.

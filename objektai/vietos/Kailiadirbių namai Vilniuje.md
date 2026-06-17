@@ -23,7 +23,7 @@ Tačiau savo kai­ lius jie taip pelningai parduodavo, kad daugelis jų Vilniuje
   global_id: t-86192
   teiginys: 'Kailiadirbių namai Vilniaus turguje buvo pastatyti miesto lėšomis prie mūrinių krautuvių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

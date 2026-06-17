@@ -22,10 +22,9 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-60448
   teiginys: 'Trinta kartu su Govina, Stanta ir Misinu rengė notangų žygį, per kurį Stanta įsibrovė į Bartenšteino pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, nutrūkęs ir turi vertinamojo šaltinio triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_place: Bartenšteinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Misinas|Misinas]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Misinas.md#claim-t-60176|Misinas]]: Misinas kartu su Govina, Stanta, Trinta ir kitais vadovavo notangų žygiui prieš Bartenšteino pilį.
 - susijęs iš Rumšiškės: Atšilimo laikotarpiu Rumšiškėse netoli Kauno buvo įsteigtas Liaudies buities muziejus.
 ## Reikšmingi paminėjimai
 

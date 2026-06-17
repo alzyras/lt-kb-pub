@@ -27,7 +27,7 @@ Lenkas pirmiausiai pasakė, kad jie naktį gavę telefonogramą apie karo paliau
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/paliaubos.md#claim-t-70265|paliaubos]]: Lenkų atstovas pasakė, kad lenkai naktį gavo telefonogramą apie karo paliaubas.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -21,7 +21,7 @@ Džiuvė su 3 kuopa žvalgė SudeikiųTalaikių-Kušneriūnų rajoną.
   global_id: t-39695
   teiginys: 'Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Antalieptė; mentioned_place: Daugailiai; mentioned_place: Sudeikiai; mentioned_place: Utena'
+  susije_objektai: 'mentioned_place: Antalieptė; mentioned_place: Daugailiai; mentioned_place: Sudeikiai; mentioned_place: Utena'
   pagrindžia:
     - c-001
 

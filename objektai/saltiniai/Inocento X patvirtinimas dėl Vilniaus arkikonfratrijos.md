@@ -32,7 +32,7 @@ amziai:
   global_id: t-88428
   teiginys: 'Popiežius Inocentas X 1646 m. patvirtino Vilniaus arkikonfratrijos agregavimą prie Romos.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Inocento X patvirtinimą, teiginys sutrumpintas ir išvalytas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Dievo Kūno arkibrolija|Dievo Kūno arkibrolija]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dievo Kūno arkibrolija|Dievo Kūno arkibrolija]]; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1646 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai nurodo Inocento X patvirtinimą, teiginys sutrumpintas ir išvalytas.'

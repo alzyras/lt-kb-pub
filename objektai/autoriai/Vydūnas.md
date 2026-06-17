@@ -42,7 +42,6 @@ Ypač daug tenka nukentėti Tilžėje gyvenančiam rašytojui filosofui Vydūnui
     - c-003
 - susijęs iš [[objektai/autoriai/Vileišis V.md#claim-t-62662|Vileišis V]]: V. Vileišis yra 1935 m. Kaune išleisto veikalo „Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje“ autorius.
 - susijęs iš Vileišis V. Tautiniai santykiai Mažojoje Lietuvoje ligi Didžiojo karo istorijos ir statistikos šviesoje: V. Vileišio darbas apie tautinius santykius Mažojoje Lietuvoje ligi Didžiojo karo išleistas Kaune 1935 m.
-- susijęs iš [[objektai/zodynas/prūsas Prūsa Prūsija.md#claim-t-58794|prūsas Prūsa Prūsija]]: Manoma, kad žodžiai *prūsis ir *prūsas iš pradžių galėjo reikšti išprususius, išsilavinusius žmones.
 ## Reikšmingi paminėjimai
 
 - c-001

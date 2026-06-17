@@ -29,7 +29,7 @@ Talentingas lėktuvų konstruktorius ir dizaineris Antanas Gustaitis, buvęs Lie
   global_id: t-19876
   teiginys: 'Nuo 1934 m. Lietuvos karo aviacijai vadovavęs Antanas Gustaitis sukonstravo ANBO lėktuvų seriją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Lietuvos karo aviaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Lietuvos karo aviaciją.'

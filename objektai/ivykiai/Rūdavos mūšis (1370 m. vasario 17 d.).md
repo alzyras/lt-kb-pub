@@ -55,7 +55,7 @@ Nenurodyta
   global_id: t-66862
   teiginys: 'Rūdavos mūšis 1370 m. vasario 17 d. prie Rudavos, netoli Karaliaučiaus, baigėsi dideliu lietuvių pralaimėjimu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą datą, vietą bei baigtį.'
-  susije_objektai: 'event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/ivykiai/Rūdavos mūšis|Rūdavos mūšis]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Rudava'
+  susije_objektai: 'event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_event: [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Rudava'
   semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)|Rūdavos mūšis (1370 m. vasario 17 d.)]]'
   temporaliniai_duomenys: 'mūšio data: 1370 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Rūdavos mūšis (1370 m. vasario 17 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vokiečiai dalyvavo mūšyje Rūdavos mūšis (1370 m. vasario 17 d.)“, o ne visam objekto laikotarpiui.'

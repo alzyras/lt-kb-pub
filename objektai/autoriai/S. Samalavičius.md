@@ -30,7 +30,7 @@ Apie Vilniaus amatų pramonę, dar­ bininkų padėtį, amatininkų cechus XIX a
   global_id: t-30971
   teiginys: 'S. Samalavičius pateikė duomenų apie Vilniaus amatų pramonę, darbininkų padėtį ir amatininkų cechus XIX a. pabaigoje ir XX a. pradžioje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako S. Samalavičiaus pateiktų duomenų sritį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_person: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_person: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Merkys; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Merkys; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

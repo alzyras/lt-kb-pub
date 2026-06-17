@@ -10,7 +10,6 @@ tags:
   - grupe
   - kraštas
   - ordinas
-  - valdovas
 ---
 # Podolės bajorai
 

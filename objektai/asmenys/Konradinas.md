@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie Konradino, imperatoriaus Fridricho II anūko, žū
   global_id: t-60371
   teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiksliai paremtas citata.'
-  susije_objektai: 'territory: Vokietija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Vokietija'
+  susije_objektai: 'territory: Vokietija; mentioned_place: Vokietija'
   semantiniai_rysiai: '[[objektai/asmenys/Konradinas|Konradinas]] buvo valdovas Vokietija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1268 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradinas buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'

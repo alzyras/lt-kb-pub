@@ -32,7 +32,7 @@ amziai:
   global_id: t-182872
   teiginys: 'Kęstutis Prūsuose puolė Ortelsburgą, taip pat talkino Liubarto ir Algirdo žygiuose.'
   sudarymo_pagrindimas: 'Pašalinta neaiški nuoroda „tais pačiais metais“, išlaikyti citatos remiami faktai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

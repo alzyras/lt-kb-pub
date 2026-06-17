@@ -21,7 +21,7 @@ Lietuviai vyko daugiausia į Pietų Amerikos šalis (Argentiną, Braziliją, Ven
   global_id: t-21870
   teiginys: 'Venesuela buvo viena Pietų Amerikos šalių, į kurias daugiausia vyko lietuviai.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet perrašytas taip, kad būtų tiesiogiai apie Venesuelą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Afrika; mentioned_place: Urugvajus; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Urugvajus; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Antanas Gustaitis.md#claim-t-75691|Antanas Gustaitis]]: Antanas Gustaitis sukonstravo lengvąjį bombonešį ANBO VIII, 1939 m. pagamintą Kauno aviacijos dirbtuvėse.

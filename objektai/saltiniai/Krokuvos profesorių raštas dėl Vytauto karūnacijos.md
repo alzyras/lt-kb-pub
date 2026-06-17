@@ -22,7 +22,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-001
   global_id: t-93054
   teiginys: 'Krokuvos profesoriai rašte teigė, kad Romos karalius Zigmantas neturėjo teisės suteikti karūnos, nes nebuvo gavęs popiežiaus suteikto ciesoriaus titulo.'
-  susije_objektai: 'territory: Krokuva; mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -31,7 +31,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   global_id: t-93055
   teiginys: 'Krokuvos profesoriai rašte teigė, kad karūnuoti gali tik popiežius, o Romos karalius Zigmantas tokios teisės neturi.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų faktą apie rašto argumentą, o pradinis sakinys yra kontekstinis fragmentas.'
-  susije_objektai: 'territory: Krokuva; mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 

@@ -21,7 +21,7 @@ tags:
   global_id: t-02407
   teiginys: 'Dniepro ir Desnos upyne buvo užimtos Briansko, Trubčevsko ir Naugardo Sieversko kunigaikštystės.'
   sudarymo_pagrindimas: 'Pradinėje formuluotėje neaiškus veikėjas, bet faktas apie Desnos upyną pagrįstas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Dniepras; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_place: Trubčevskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Dniepras; mentioned_place: Naugardas; mentioned_place: Smolenskas; mentioned_place: Trubčevskas'
   pagrindžia:
     - c-001
 - susijęs iš Dniepras: Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.

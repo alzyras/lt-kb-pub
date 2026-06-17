@@ -31,16 +31,16 @@ periodo_grupes:
   global_id: t-18978
   teiginys: 'Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.'
   sudarymo_pagrindimas: 'Pradinis teiginys neakcentuoja asmens; citata tiesiogiai nurodo jo narystę TTGK.'
-  susije_objektai: 'owner: [[objektai/asmenys/Jonas|Jonas]]; owner: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; owner: Lietuva; owner: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'owner: Lietuva; owner: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Jonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Juozas Zdebskis (kunigas)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Alfonsas (Kastilijos karalius) susiję su Maskva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Juozas Zdebskis (kunigas) susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Juozas Zdebskis (kunigas) susiję su Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neakcentuoja asmens; citata tiesiogiai nurodo jo narystę TTGK.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75690|Andrejus Sacharovas]]: Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios Helsinkio Baigiamojo akto nuostatų įgyvendinimą.
 - susijęs iš [[objektai/asmenys/Juozas Zdebskis.md#claim-t-19031|Juozas Zdebskis (kunigas)]]: 1978 m. lapkričio 22 d. kunigas Juozas Zdebskis su Alfonsu Svarinsku ir Sigitu Tamkevičiumi Maskvoje pranešė apie TTGK įkūrimą.
+- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63313|Sigitas Tamkevičius]]: Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116745|Katalikų Bažnyčia]]: „Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74678|Lietuvos Helsinkio grupė]]: 1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.
@@ -84,4 +84,6 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Alfonsas (Kastilijos karalius)]] susije_su Jonas Kauneckas
+- Jonas Kauneckas susije_su [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
+- Jonas Kauneckas susije_su [[objektai/vietos/Lietuva]]
+- Jonas Kauneckas susije_su [[objektai/vietos/Maskva]]

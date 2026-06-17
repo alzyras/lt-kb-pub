@@ -54,7 +54,7 @@ Dusburgietis teigia, kad neselmanu, baigiant J. Dusburgietis teigia, kad 6 Bopp 
   global_id: t-60553
   teiginys: 'G. H. F. Neselmano darbai „Die Sprache...“ ir „Thesaurus...“ įtraukti į prūsų kalbos paminklų bibliografiją.'
   sudarymo_pagrindimas: 'Citatoje bibliografiškai išvardyti du G. H. F. Neselmano darbai.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

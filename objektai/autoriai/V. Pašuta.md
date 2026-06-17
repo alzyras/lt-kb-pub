@@ -33,7 +33,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   global_id: t-60523
   teiginys: 'V. Pašuta siejo Dusburgiečio rutėnus su Smolensko kunigaikščių rusais.'
   sudarymo_pagrindimas: 'Citata palaiko konkrečią V. Pašutos poziciją, o pradinis teiginys per ilgas ir triukšmingas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Salos; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Salos; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -42,7 +42,7 @@ Dusburgietis teigia, kad pašuta parodė kronikos autoriaus siekimą cementuoti 
   global_id: t-60525
   teiginys: 'V. Pašuta rašė apie prūsų tautos kovą, Lietuvos valstybės susidarymą ir revanšistus.'
   sudarymo_pagrindimas: 'Citata pateikia V. Pašutos darbų pavadinimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/autoriai/I. Štai.md#claim-t-88063|I. Štai]]: I. Štai kartu su V. Pašuta parengė leidinį „Gedimino laiškai“, kuriuo remiamasi cituojant laiško vertimą.

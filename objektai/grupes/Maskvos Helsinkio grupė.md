@@ -31,14 +31,13 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
   global_id: t-24932
   teiginys: '1976 m. gegužės 12 d. buvo įkurta pirmoji Maskvos Helsinkio grupė, vadovaujama Jurijaus Orlovo.'
   sudarymo_pagrindimas: 'Pašalintas nuotraukos, puslapio ir antraštės triukšmas, paliktas konkretus faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Alfonsas (Kastilijos karalius)|Alfonsas (Kastilijos karalius)]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1976 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nuotraukos, puslapio ir antraštės triukšmas, paliktas konkretus faktas.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
@@ -46,6 +45,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
 - susijęs iš [[objektai/asmenys/Jurijus Orlovas.md#claim-t-19034|Jurijus Orlovas]]: Jurijus Orlovas vadovavo 1976 m. gegužės 12 d. įkurtai pirmajai Maskvos Helsinkio grupei.
 - susijęs iš [[objektai/asmenys/Karolis Garuckas.md#claim-t-19048|Karolis Garuckas (kunigas)]]: 1976 m. Vilniuje įkurtai Helsinkio grupei priklausęs kunigas Karolis Garuckas palaikė ryšius su SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Ona Lukauskaitė-Poškienė.md#claim-t-19182|Ona Lukauskaitė-Poškienė]]: Ona Lukauskaitė-Poškienė buvo poetė, buvusi kalinė ir Vilniuje įsikūrusios Helsinkio grupės narė.
+- susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74678|Lietuvos Helsinkio grupė]]: 1976 m. rudenį Vilniuje įsikūrė grupė, panaši į Maskvos Helsinkio grupę.
@@ -76,5 +76,7 @@ Akademiko Andrejaus Sacharovo iniciatyva SSRS steigėsi grupės, stebėjusios He
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Jurijus]] susije_su Maskvos Helsinkio grupė
 - [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause Maskvos Helsinkio grupė
+- Maskvos Helsinkio grupė priklause [[objektai/vietos/Maskva]]
+- Maskvos Helsinkio grupė priklause [[objektai/vietos/SSRS]]
+- [[objektai/asmenys/Tomas Venclova]] susije_su Maskvos Helsinkio grupė

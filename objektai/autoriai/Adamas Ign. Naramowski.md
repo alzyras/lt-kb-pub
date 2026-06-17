@@ -29,7 +29,7 @@ Adamas Ign. Naramowski siejamas su Vilniuje 1726 m. išleistu veikalu „Facies 
   global_id: t-54630
   teiginys: 'Naramowskis parašė platų istorijos veikalą, naudotą žinioms apie Vilniaus vyskupus.'
   sudarymo_pagrindimas: 'Repair claim-quote anchor overlap.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

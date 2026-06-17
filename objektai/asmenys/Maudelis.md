@@ -23,7 +23,7 @@ Dusburgietis teigia, kad po to, kai mūsų aukščiau minėtas Tirskas, Maudelio
   global_id: t-60386
   teiginys: 'Maudelis buvo Vėluvos pilininko Tirsko sūnus.'
   sudarymo_pagrindimas: 'Citata patvirtina giminystę ir pašalina perteklinį, nutrūkusį tekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/posakiai/krikšto prikelti naujam gyvenimui|krikšto prikelti naujam gyvenimui]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Tirskas|Tirskas]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Nadruva; mentioned_place: Vėluva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60067|Tirskas]]: Tirskas su sūnumi Maudeliu ir daugybe ginklanešių buvo paliktas nadruvių pastatytoje pilyje.

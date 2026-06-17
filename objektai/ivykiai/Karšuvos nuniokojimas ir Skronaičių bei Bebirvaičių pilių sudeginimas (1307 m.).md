@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-28824
   teiginys: '1307 m. Ragainės komtūro riteriai nusiaubė Karšuvą, o rudenį sudegino karšuvių paliktas Skronaičių ir Bebirvaičių pilis.'
   sudarymo_pagrindimas: 'Pirminis teiginys per daug bendras, citata leidžia suformuluoti konkretesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karšuviai|Karšuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Karšuva; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karšuviai|Karšuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Karšuva; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'įvykio data: 1307 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per daug bendras, citata leidžia suformuluoti konkretesnį faktą.'

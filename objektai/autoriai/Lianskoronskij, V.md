@@ -30,7 +30,7 @@ Lianskoronskij, V.
   global_id: t-29547
   teiginys: 'V. Lianskoronskij rašė apie Vytauto 1399 m. žygį prieš totorius ir mūšį prie Vorsklos.'
   sudarymo_pagrindimas: 'Citata išvardija jo darbus apie Vytauto žygį ir Vorsklos mūšį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'įvykio data: 1399 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata išvardija jo darbus apie Vytauto žygį ir Vorsklos mūšį.'

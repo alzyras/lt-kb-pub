@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-20312
   teiginys: 'Juozo Urbšio kelionės į Maskvą išvakarėse pradėta dalinė Lietuvos kariuomenės demobilizacija buvo rizikingas žingsnis.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nutrūkęs; citata palaiko aiškų teiginį apie demobilizaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/demobilizacija|demobilizacija]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

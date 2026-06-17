@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87079
   teiginys: 'Lietuvos Metrikoje buvo karaliaus knygų sąrašas, o kai kurios Žygimantų bibliotekos knygos saugotos Vilniaus universiteto bibliotekoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentas su puslapio nuorodos triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-87080
   teiginys: 'Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra linksnio klaida, o citata palaiko pataisytą sakinį.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

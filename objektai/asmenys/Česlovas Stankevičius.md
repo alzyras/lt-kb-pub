@@ -29,7 +29,7 @@ Paskelbus Lietuvos nepriklausomybę 1990 m. kovo 11 d. Lietuvos Respublikos AT-A
   global_id: t-19350
   teiginys: '1990 m. kovo 11 d. Česlovas Stankevičius buvo Lietuvos Respublikos Aukščiausiosios Tarybos pirmininko pavaduotojas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Česlovą Stankevičių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aloyzas Sakalas|Aloyzas Sakalas]]; mentioned_person: [[objektai/asmenys/Kazimieras Motieka|Kazimieras Motieka]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_person: [[objektai/asmenys/Aloyzas Sakalas|Aloyzas Sakalas]]; mentioned_person: [[objektai/asmenys/Kazimieras Motieka|Kazimieras Motieka]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Česlovą Stankevičių.'

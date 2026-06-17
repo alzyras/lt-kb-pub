@@ -28,7 +28,7 @@ Griebtasi šantažo – grasinta prijungti jau lietuvišką Klaipėdos kraštą 
   global_id: t-26334
   teiginys: 'Grasinant Lietuvai siūlyta iš lenkiškai ir rusiškai kalbančio Vilniaus regiono sukurti autonomiją ar mini Lietuvos SSR.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, teiginys sutrumpintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, teiginys sutrumpintas.'

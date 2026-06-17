@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-28928
   teiginys: 'Vytautas skyrė žemių Medininkų vyskupui ir parapijų bažnyčioms.'
   sudarymo_pagrindimas: 'Teiginys sukonkretintas pagal citatą ir paverstas enciklopediniu sakiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 

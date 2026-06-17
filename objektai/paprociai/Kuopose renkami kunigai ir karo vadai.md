@@ -35,7 +35,7 @@ Nenurodyta
   global_id: t-07788
   teiginys: 'Į kuopas suėjęs svietas rinkdavo žynius arba kunigus iš dorų, išmintingų ir patyrusių vyrų.'
   sudarymo_pagrindimas: 'Teiginį reikia aiškiai susieti su kuopose renkamais kunigais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Rėda|Rėda]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
     - c-002

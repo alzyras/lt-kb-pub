@@ -33,7 +33,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   global_id: t-59976
   teiginys: 'Baltramiejaus dieną Henrikas VII mirė Sienos grafystėje ir buvo palaidotas Pizoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą šaltinio formuluotę; citata pagrindžia mirtį ir palaidojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-001
 
@@ -42,7 +41,6 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   global_id: t-59977
   teiginys: 'Henrikas VII Romoje, Laterano bažnyčioje, buvo vainikuotas imperatoriumi po 62 metų nuo Fridricho II mirties.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Henriko VII vainikavimo vietą, titulą ir chronologinį kontekstą pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-004
 
@@ -51,7 +49,7 @@ Dusburgietis teigia, kad apie Henriko, Liuksemburgo grafo, išrinkimą Romos kar
   global_id: t-59978
   teiginys: '1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR ir antraštės triukšmo; citata pagrindžia glaustą sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Milanas'
+  susije_objektai: 'mentioned_place: Milanas'
   temporaliniai_duomenys: 'įvykio data: 1311 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir antraštės triukšmo; citata pagrindžia glaustą sakinį.'

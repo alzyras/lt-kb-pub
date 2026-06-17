@@ -21,7 +21,7 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
 - t-001
   global_id: t-36637
   teiginys: 'Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Padnieprė'
+  susije_objektai: 'mentioned_place: Padnieprė'
   pagrindžia:
     - c-001
 - susijęs iš Padnieprė: Vytautas Padnieprės srityje turėjo vietininkų mokesčiams rinkti net ten, kur nebuvo jo dvarų.

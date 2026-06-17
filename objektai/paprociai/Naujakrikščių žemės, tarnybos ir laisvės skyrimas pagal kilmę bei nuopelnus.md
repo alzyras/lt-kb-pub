@@ -43,7 +43,7 @@ Nenurodyta
   teiginys: 'Aukštos kilmės naujakrikščiai gaudavo žemės be prievolių, o nekilmingieji turėjo tarnauti broliams pagal Prūsijos papročius.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata palaiko glaustą taisyklės formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
     - c-002

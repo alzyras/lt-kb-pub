@@ -50,7 +50,7 @@ amziai:
   global_id: t-179585
   teiginys: 'Popiežius Bonifacas IX rėmė neofitą Vytautą kaip kovotoją su katalikų priešais.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir aiškiai įvardytas Bažnyčios ganytojas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Bonifacas IX|Bonifacas IX]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/posakiai/„krikščionys turi raudoti dėl jo mirties“.md#claim-t-186393|„krikščionys turi raudoti dėl jo mirties“]]: Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.

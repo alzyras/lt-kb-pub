@@ -14,7 +14,6 @@ tags:
   - kunigaikštis
   - mūšis
   - pilis
-  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:
@@ -33,7 +32,7 @@ Tačiau Vilniaus vyskupas Petras tam prieštaravo, atsisakydamas sutuokti dėl t
   global_id: t-87701
   teiginys: 'Kujavų vyskupas Janas Kropidła Vytauto prašymu palaimino Vytauto ir Julijonos Alšėniškės santuoką.'
   sudarymo_pagrindimas: 'Citata aiškiai pagrindžia Jano Kropidłos vaidmenį palaiminant santuoką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Alšėnai; mentioned_place: Dniepras; mentioned_place: Krėva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Alšėnai; mentioned_place: Dniepras; mentioned_place: Krėva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1418 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai pagrindžia Jano Kropidłos vaidmenį palaiminant santuoką.'

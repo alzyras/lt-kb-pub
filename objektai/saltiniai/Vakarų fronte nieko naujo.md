@@ -27,7 +27,7 @@ Remarko „VAKARŲ FRONTE NIEKO NAUJO“.
   global_id: t-96066
   teiginys: 'E. M. Remarko „Vakarų fronte nieko naujo“ iš originalo vertė J. Kalnėnas, o viršelį piešė J. Burba.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/E. M. Remarko|E. M. Remarko]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. M. Remarko|E. M. Remarko]]'
   temporaliniai_duomenys: 'įvykio data: 1929 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'

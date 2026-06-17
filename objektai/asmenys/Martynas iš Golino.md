@@ -20,7 +20,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-001
   global_id: t-63905
   teiginys: 'Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Viena'
   pagrindžia:
     - c-009
 
@@ -37,7 +37,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
 - t-003
   global_id: t-63907
   teiginys: 'Dusburgietis pasakoja, kad sesers nužudymas sukėlė Martynui neapykantą netikėliams ir vėlesnį kerštą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-003
 
@@ -55,7 +55,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63909
   teiginys: 'Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia atkartoja antraštę ir silpną kontekstą, bet citata paremia konkretų veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vytis|Vytis]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rudinas; mentioned_place: Viena'
   pagrindžia:
     - c-009
 
@@ -81,7 +81,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63912
   teiginys: 'Martynas iš Golino žygiuodavo su Rudino ir vėliau Karaliaučiaus broliais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Rudinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Rudinas'
   pagrindžia:
     - c-001
 
@@ -90,7 +90,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63913
   teiginys: 'Karaliaučiaus komtūras paskyrė Martyną iš Golino į Pelužio būrį, traukusį keršyti lietuvių kunigaikščiui.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Martyno paskyrimą į Pelužio vadovaujamą žygį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Pelužis|Pelužis]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
   pagrindžia:
     - c-008
 
@@ -108,7 +108,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63915
   teiginys: 'Martynas iš Golino žygiuodavo su Rudino broliais, o vėliau su Karaliaučiaus broliais.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą šaltinio įvadą ir nuorodų triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Rudinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Mata|Mata]]; mentioned_person: [[objektai/asmenys/Pipinas|Pipinas]]; mentioned_place: Rudinas'
   pagrindžia:
     - c-001
 
@@ -117,7 +117,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63916
   teiginys: 'Petras Dusburgietis Martyną iš Golino priskyrė prie krikščionių plėšikautojų, garsėjusių nuostabiais ir nepaprastais žygiais.'
   sudarymo_pagrindimas: 'Teiginys yra apie autoriaus vertinimą, todėl tinkama aiški atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Kaimas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -143,7 +143,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63919
   teiginys: 'Martynas iš Golino pateko į nelaisvę kartu su nėščia seserimi, kurią ją paėmęs prūsas nužudė žygio metu.'
   sudarymo_pagrindimas: 'Citata paremia faktą, bet pradinė formuluotė per ilga ir fragmentiška.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-003
 
@@ -152,7 +152,7 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   global_id: t-63920
   teiginys: 'Po sesers nužudymo Martynas iš Golino ėmė nekęsti netikėlių ir, išsivadavęs iš nelaisvės, smarkiai jiems smogė.'
   sudarymo_pagrindimas: 'Pradinė formuluotė kopijuoja fragmentą ir turi mažosios raidės klaidą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-010
 

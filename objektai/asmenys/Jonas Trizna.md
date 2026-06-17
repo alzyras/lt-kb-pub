@@ -22,7 +22,7 @@ Jonas Trizna su kitais karvedžiais patrankų ugnimi ir išpuoliais privertė pr
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga, bet citata palaiko faktą apie asmens veiksmus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mechmet Girėjus|Mechmet Girėjus]]; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ Pirmasis didelis mūšis įvyko birželio 11 d. prie Miro.
   global_id: t-41934
   teiginys: 'Birželio 11 d. prie Miro įvyko didelis mūšis, kuriame Lietuvos kariuomenė patyrė nesėkmę.'
   sudarymo_pagrindimas: 'Pradinis teiginys per daug kontekstinis; citata leidžia suformuluoti aiškesnį sakinį apie Miro.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelencai; mentioned_place: Zelva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Zelencai; mentioned_place: Zelva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184778|Liubartas]]: Liubartas be kovos atgavo iš jo neseniai atimtą tėvoniją, sustiprino senąją pilį ir paliepė sugriauti naująją.

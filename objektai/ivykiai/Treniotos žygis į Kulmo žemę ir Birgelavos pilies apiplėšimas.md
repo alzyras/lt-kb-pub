@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Treniota subūrė iki 30 tūkst. vyrų, įsiveržė į Kulmo žemę ir paėmė Birgelavos pilį, pagrobdamas gyvulius bei mantą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Birgelava; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Birgelava; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

@@ -29,7 +29,7 @@ Taigi, drįstume teigti, kad bent jau iki Jogailos tapsmo Lenkijos karaliumi 138
   global_id: t-77856
   teiginys: 'Lietuvos istorijos autoriai Lietuvą iki Jogailos tapimo Lenkijos karaliumi 1386 m. vadina „savotiška arba nesistemine karalyste“.'
   sudarymo_pagrindimas: 'Teiginys perteikia autorių vertinimą, todėl reikalinga atribucija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1386 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia autorių vertinimą, todėl reikalinga atribucija.'

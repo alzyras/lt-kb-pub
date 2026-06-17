@@ -44,7 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-35873
   teiginys: 'Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Drohičinas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Lyda; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Drohičinas; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Lyda; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

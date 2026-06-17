@@ -23,7 +23,7 @@ Dusburgietis teigia, kad už pelkės tilto prie grindos247, prie dabartinio vie�
   global_id: t-58848
   teiginys: 'Prie grindos ir dabartinio vieškelio broliai sutvirtino malūną kaip pilį ir paliko jame sargybą.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra fragmentiškas; citata pagrindžia sakinį apie vietą prie grindos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

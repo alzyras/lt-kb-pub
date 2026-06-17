@@ -30,7 +30,7 @@ amziai:
   global_id: t-21021
   teiginys: 'Baltijos valstybių santarvės ir bendradarbiavimo sutartis buvo susijusi su Baltijos Valstybių Tarybos įkūrimu.'
   sudarymo_pagrindimas: 'Pirminis teiginys prideda citatoje nepagrįstą aplinkybę apie sutarties atkūrimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
+  susije_objektai: 'mentioned_place: Baltarusija; mentioned_place: Baltija; mentioned_place: Estija; mentioned_place: Latvija'
   temporaliniai_duomenys: 'sutarties data: 1934 m.; sutarties data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys prideda citatoje nepagrįstą aplinkybę apie sutarties atkūrimą.'

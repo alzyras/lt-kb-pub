@@ -38,7 +38,7 @@ Savęs išaukštinimo ir politinio nuopelno deklaracija.
   teiginys: 'A. Goštauto memoriale Albertas Goštautas save vaizduoja kaip jauną Lietuvos tėvynės gynėją nuo M. Glinskio.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia aiškesnio asmens, veiksmo ir atribucijos, nepridedant neparemtų detalių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/memorialas|memorialas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

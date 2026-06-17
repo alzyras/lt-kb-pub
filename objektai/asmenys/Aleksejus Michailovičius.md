@@ -29,7 +29,7 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - t-001
   global_id: t-78940
   teiginys: '1655 m. Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Smolenskas; mentioned_place: Šklovas'
+  susije_objektai: 'mentioned_place: Smolenskas; mentioned_place: Šklovas'
   temporaliniai_duomenys: 'įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,7 +39,7 @@ Smolenske caras Aleksejus Michailovičius jį paskelbė vyriausiuoju vadu.
 - t-002
   global_id: t-78941
   teiginys: 'Smolenske caras Aleksejus Michailovičius paskelbė vyriausiąjį vadą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurijus|Jurijus]]; mentioned_place: Smolenskas; mentioned_place: Šklovas'
+  susije_objektai: 'mentioned_place: Smolenskas; mentioned_place: Šklovas'
   temporaliniai_duomenys: 'įvykio data: 1655 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

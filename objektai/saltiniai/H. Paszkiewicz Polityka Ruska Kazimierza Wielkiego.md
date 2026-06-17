@@ -26,7 +26,7 @@ Paszkiewicz : Polityka Ruska Kazimierza Wiel­ kiego, Warszawa 1925, 197 p. 5 i�
 - t-001
   global_id: t-31697
   teiginys: 'H. Paszkiewicziaus „Polityka Ruska Kazimierza Wielkiego“ 1925 m. išleista Varšuvoje.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/H. Paszkiewicz|H. Paszkiewicz]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Paszkiewicz|H. Paszkiewicz]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1925 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

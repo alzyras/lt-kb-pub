@@ -32,7 +32,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   global_id: t-30206
   teiginys: '1385 m. rudenį Andrius Polockietis su Livonijos magistru sudarė vasalinę sutartį.'
   sudarymo_pagrindimas: 'Teiginys aiškiai išplečia citatos įvardį ir yra paremtas šaltiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Livonija; mentioned_place: Polockas'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai išplečia citatos įvardį ir yra paremtas šaltiniu.'
@@ -54,7 +54,7 @@ Užėmęs Lukomlį, Andrius Polockietis kėlė ir toliau neramumą. Andrius Polo
   global_id: t-30208
   teiginys: 'Užėmęs Lukomlį, Andrius Polockietis ir toliau kėlė neramumus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai susijęs su Andriumi Polockiečiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir aiškiai susijęs su Andriumi Polockiečiu.'

@@ -69,7 +69,7 @@ amziai:
   global_id: t-90740
   teiginys: 'Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.'
   sudarymo_pagrindimas: 'Reikia pašalinti neįvardytą veikėją, nes citatos fragmentas nepateikia kunigaikščio vardo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Dobrynė; mentioned_place: Sedlcai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_place: Dobrynė; mentioned_place: Sedlcai'
   pagrindžia:
     - c-007
 
@@ -86,7 +86,7 @@ amziai:
   global_id: t-90742
   teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina Kujavijos valdymą.'
-  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-008
 
@@ -107,7 +107,7 @@ amziai:
   global_id: t-90744
   teiginys: 'Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, ištaisytas OCR triukšmas ir paliktas citata pagrįstas faktas.'
-  susije_objektai: 'territory: Dobrynė; territory: Lenkija; territory: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Vengrija'
+  susije_objektai: 'territory: Dobrynė; territory: Lenkija; territory: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -128,7 +128,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Dubliuojamas fragmentiškas teiginys, kurį citata pagrindžia kaip pilną faktą.'
-  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-008
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.

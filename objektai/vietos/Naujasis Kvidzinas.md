@@ -45,7 +45,6 @@ Nežiūrint nera­ mumų, po keturių savaičių nepaliaujamo darbo pilis buvo b
   global_id: t-36434
   teiginys: 'Naujojo Kvidzino tvirtovė buvo pavesta valdyti Vytautui.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia, kad Naujojo Kvidzino tvirtovė buvo pavesta Vytautui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

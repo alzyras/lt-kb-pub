@@ -37,8 +37,7 @@ Soclagerį ištikus politinei, ekonominei, tautinei krizei, lietuviai surado jė
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.
-- susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
+
 ## Reikšmingi paminėjimai
 
 - c-001

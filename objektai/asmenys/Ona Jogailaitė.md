@@ -68,7 +68,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - t-003
   global_id: t-54981
   teiginys: 'Karalaitei Onai (Onai Jogailaitei) turėjo būti atiduotas kraitis ir tūkstantis raudonųjų vengriškų zlotų auksu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Ispanija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Neapolis; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Braunsbergas; mentioned_place: Ispanija; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Neapolis; mentioned_place: Vengrija; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 
@@ -100,7 +100,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
 - t-007
   global_id: t-54985
   teiginys: 'Jeigu Ona Jogailaitė po testatoriaus mirties būtų nuskriausta, jai turėjo atitekti visas jo kilnojamasis ir nekilnojamasis turtas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Švedija'
   pagrindžia:
     - c-007
 
@@ -117,7 +117,7 @@ Ona Jogailaitė Žygimanto Augusto testamente įvardijama kaip karalaitė, viena
   global_id: t-82639
   teiginys: 'Karalaitė Ona Jogailaitė Lenkijoje turėjo likti su jai skirtomis valdomis, žemėmis ir pinigų sumomis.'
   sudarymo_pagrindimas: 'Teiginys pašalina OCR triukšmą ir aiškiai perteikia citatoje nurodytą Onai skirtą aprūpinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Lenkija; mentioned_place: Švedija'
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87401|Kotryna Jogailaitė]]: Karalaitė Ona turėjo dalį jai perduoto turto atiduoti Kotrynai Jogailaitei, Švedijos karalienei.

@@ -46,7 +46,7 @@ Dusburgietis teigia, kad pretorijus (1664— 1684 m. gyvenęs Nibudžiuose, į �
   global_id: t-60954
   teiginys: 'M. Prätoriaus „Deliciae“ siejama su pasakojimu, kad vieta prie Auksinės netoli Norkyčių kadaise buvo vaidilos globoje.'
   sudarymo_pagrindimas: 'Citata patvirtina pasakojimo turinį ir nuorodą į M. Prätoriaus veikalą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Auksinė; mentioned_place: Norkyčiai'
+  susije_objektai: 'mentioned_place: Auksinė; mentioned_place: Norkyčiai'
   pagrindžia:
     - c-003
 

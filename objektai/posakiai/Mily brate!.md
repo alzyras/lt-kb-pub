@@ -39,7 +39,7 @@ Broliškas ar familiariai mandagus kreipinys į pašnekovą.
   teiginys: 'XVI a. teismų dekretų kalboje ir Bychovco kronikos tiesioginėje kalboje vartota kreipinio formulė „Mily brate!“.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys gramatiškas, aiškus ir paremtas citata apie kreipinio formulę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

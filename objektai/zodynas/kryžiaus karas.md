@@ -66,7 +66,7 @@ Terminas vartojamas tiek kalbant apie konkretų skelbimą ginti ordiną nuo toto
 - t-002
   global_id: t-05441
   teiginys: 'Kryžiaus karo žygio vadovavimas šiame šaltinyje siejamas su Prūsų riterių magistru.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Pabaltijys; mentioned_place: Prūsai; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Durbė; mentioned_place: Lietuva; mentioned_place: Pabaltijys; mentioned_place: Prūsai; mentioned_place: Čekija'
   pagrindžia:
     - c-002
 

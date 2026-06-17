@@ -30,7 +30,7 @@ Dusburgietis teigia, kad endzelynu ir kt., išsamiai tyrė prūsų kalbą bei jo
   global_id: t-60572
   teiginys: 'J. Endzelynas parašė veikalą „Senprūšu valoda“.'
   sudarymo_pagrindimas: 'Bibliografinė nuoroda leidžia suformuluoti trumpą faktą apie autoriaus darbą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

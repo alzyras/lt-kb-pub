@@ -24,7 +24,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   global_id: t-58850
   teiginys: 'Karalius davė vėliavas iškabinti prie jo ir jo tėvų žemių bei kiemų, kad niekas, pamatęs karaliaus vėliavą, nedrįstų jo skriausti.'
   sudarymo_pagrindimas: 'Pašalinta perteklinė atribucija, išnašos ženklas ir sakinys padarytas gramatiškas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-002
 
@@ -45,7 +45,7 @@ Dusburgietis teigia, kad paskui karalius įteikė jam savo vėliavas, kad jas i�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys neatitiko pateiktos citatos svarbiausio fakto apie kiemus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Ringėlas|Ringėlas]]; mentioned_place: Semba'
   pagrindžia:
     - c-003
 

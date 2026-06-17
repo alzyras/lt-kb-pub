@@ -28,7 +28,7 @@ Iš rusėnų kultūrinės aplinkos buvo kilęs ir pirmasis Lietuvos spaustuvinin
   global_id: t-21671
   teiginys: 'Pranciškus Skorina baigė Paduvos universitetą ir ten įgijo medicinos daktaro laipsnį.'
   sudarymo_pagrindimas: 'Citata labiau remia glaustesnį sakinį su aiškiu veiksmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pranciškus Skorina|Pranciškus Skorina]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Ukrainiečiai|Ukrainiečiai]]; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1517-1519; įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata labiau remia glaustesnį sakinį su aiškiu veiksmu.'

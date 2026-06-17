@@ -34,7 +34,7 @@ Pijarų mokyklos — vienur pilnos kolegijos, kitur žemesniosios mokyklos — b
   global_id: t-182774
   teiginys: '1919 m. sausio 9 d. bolševikų pajėgos užėmė Panevėžį, o J. Variakojis su pirmuoju savanorių būriu pasitraukė į Kėdainius.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas ir suformuluotas citata paremtas faktas apie Panevėžį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]; mentioned_place: Kėdainiai'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas ir suformuluotas citata paremtas faktas apie Panevėžį.'

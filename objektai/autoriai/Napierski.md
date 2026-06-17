@@ -29,7 +29,7 @@ periodo_grupes: []
   global_id: t-88002
   teiginys: 'Napierskio veikale „Index Codicis Hist. Dipl. Livon.“ pateiktas Vytauto 1426 m. sausio 13 d. laiško turinys.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, užbaigtas ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, užbaigtas ir atitinka citatos informaciją.'
@@ -41,7 +41,7 @@ periodo_grupes: []
   global_id: t-88003
   teiginys: 'Dr. Napierskis patvirtino nuorašo perrašymo teisingumą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Napierskio atsakomybę už nuorašo perrašymo teisingumą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ periodo_grupes: []
   global_id: t-88004
   teiginys: 'Napierskis perdavė dviejų dokumentų nuorašus ir buvo Livonijos dokumentų rinkinio nuorodos autorius.'
   sudarymo_pagrindimas: 'Citata patvirtina Napierskio perduotus nuorašus ir jo autorystę nuorodoje apie Livonijos dokumentus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Livonija; mentioned_place: Vengrija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

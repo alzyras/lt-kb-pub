@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-50798
   teiginys: '1422 m. Vytautas Didysis grąžino Žemaičių kraštą Lietuvai ir užbaigė dėl jo 1283–1422 m. trukusius karus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie Žemaičių krašto grąžinimą Lietuvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Breslavas; mentioned_place: Kėzmarkas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Breslavas; mentioned_place: Kėzmarkas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1283-1422; įvykio data: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos informacija apie Žemaičių krašto grąžinimą Lietuvai.'

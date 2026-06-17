@@ -58,7 +58,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys beveik tinkamas, bet pašalintas boilerplate ir patikslintas antecedentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Starodubas'
   pagrindžia:
     - c-003
 

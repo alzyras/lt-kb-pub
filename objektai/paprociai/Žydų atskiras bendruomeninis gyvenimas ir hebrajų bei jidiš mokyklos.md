@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-77942
   teiginys: 'Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.'
   sudarymo_pagrindimas: 'Patikslinta formuluotė ir pašalintas negrabumas „kėlė gyventi“.'
-  susije_objektai: 'location: Lietuva; location: Palestina; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Lietuva; mentioned_place: Palestina'
+  susije_objektai: 'location: Lietuva; location: Palestina; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Palestina'
   pagrindžia:
     - c-002
 

@@ -36,7 +36,7 @@ Nenurodyta
   teiginys: 'Mindaugas, pasak metraščio, nesiryžo kautis atvirame lauke ir užsidarė Vorutos pilyje.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys aiškus ir tinkamai priskirtas metraščiui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Voruta'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Voruta'
   pagrindžia:
     - c-002
 
@@ -56,7 +56,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, Tautvilas su jotvingiais, žemaičiais ir Danieliaus duota pagalba išžygiavo prieš Mindaugą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Metraštinė žinia palikta priskirta šaltiniui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

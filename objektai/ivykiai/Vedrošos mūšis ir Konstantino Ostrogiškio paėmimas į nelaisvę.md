@@ -46,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs ir turi puslapio triukšmo; citata palaiko sąrašą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje išvardytus po mūšio išsigelbėjusius asmenis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_person: [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Bogdanas Maskevičius|Bogdanas Maskevičius]]; mentioned_person: [[objektai/asmenys/Teodoras Nemyra|Teodoras Nemyra]]'
   pagrindžia:
     - c-003
 

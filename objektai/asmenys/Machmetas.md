@@ -15,7 +15,6 @@ tags:
   - didikas
   - karalius
   - kunigaikštis
-  - valdovas
 amziai:
   - 'XV'
 periodo_grupes:
@@ -34,7 +33,7 @@ periodo_grupes:
   global_id: t-96027
   teiginys: 'Machmetas pasiuntė savo sūnų auklėtis į Vytauto Didžiojo dvarą ir rėmė Vytauto žygius į Pskovą bei Naugardą.'
   sudarymo_pagrindimas: 'Citata palaiko Machmeto sūnaus siuntimą ir paramą Vytautui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Luckas; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_place: Luckas; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Machmeto sūnaus siuntimą ir paramą Vytautui.'
@@ -58,7 +57,7 @@ periodo_grupes:
   global_id: t-96029
   teiginys: '1424 m. Aukso Ordos chanu tapo Vytauto palaikomas Machmetas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko Machmeto tapimą chanu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   temporaliniai_duomenys: 'įvykio data: 1422 m.; įvykio data: 1424 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko Machmeto tapimą chanu.'
@@ -71,15 +70,11 @@ periodo_grupes:
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71639|Krymo totoriai]]: 1427 m. pabaigoje Vytauto remiamas Machmetas pavaldė Pavolgio, Juodmarių pakraščio ir Krymo totorius.
 - susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71641|Krymo totoriai]]: 1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.
 - susijęs iš [[objektai/grupes/Lietuvos totoriai.md#claim-t-78380|Lietuvos totoriai]]: Lietuvos totorių vėliavų įvedimas į mūšį dar labiau padidino švedų kavalerijoje kilusią paniką.
-- susijęs iš [[objektai/ivykiai/Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje.md#claim-t-34470|Didžiojo Machmeto įsodinimas į Kipčako sostą ir įsigalėjimas Ordoje]]: 1424 m. Didysis Machmetas Vytauto padedamas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 m.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
-- susijęs iš [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.).md#claim-t-184234|Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]: Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.
-- susijęs iš [[objektai/ivykiai/Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.).md#claim-t-35891|Užvolgio totorių sumušimas ir Machmeto iškėlimas į Aukso Ordos chanus (1424 m.)]]: Vytauto pasiųsta kariuomenė sumušė Užvolgio totorius, o Vytauto palaikomas Machmetas tapo Aukso Ordos chanu.
 - susijęs iš Juodmarių pakraštys: Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.
 - susijęs iš Kipčakas: 1424 m. Vytauto padedamas Didysis Machmetas užėmė Kipčako sostą ir išsilaikė jame iki 1437 ar 1438 metų.
 - susijęs iš Krymas: 1427 m. Vytauto palaikomas Machmetas paėmė savo valdžion Pavolgio, Juodmarių pakraščio ir Krymo totorius.
 - susijęs iš Pavolgis: 1427 m. Vytauto palaikomas Machmetas į savo valdžią paėmė Pavolgio, Juodmarių pakraščio ir Krymo totorius.
-- susijęs iš [[objektai/zodynas/saar.md#claim-t-70315|saar]]: 1427 m. pradžioje buvo penki saarai, bet metų pabaigoje galutinai įsigalėjo Vytauto palaikomas Machmetas.
 ## Reikšmingi paminėjimai
 
 - c-001

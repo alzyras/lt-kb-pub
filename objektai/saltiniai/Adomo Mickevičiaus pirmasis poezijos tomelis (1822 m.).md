@@ -28,7 +28,7 @@ amziai:
   global_id: t-20996
   teiginys: '1822 m. Vilniuje išėjo pirmasis Adomo Mickevičiaus poezijos tomelis, o vėliau poetas pagarsėjo visoje Europoje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia pilną sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1822 m.; įvykio data: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata pagrindžia pilną sakinį.'
@@ -43,7 +43,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie šaltinio objektą ir atitinka citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1822 m.; įvykio data: 1897 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie šaltinio objektą ir atitinka citatą.'

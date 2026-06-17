@@ -40,7 +40,7 @@ amziai:
   global_id: t-10441
   teiginys: '1411 m. Torunės taikoje Žemaitija Vytautui ir Jogailai atiteko „iki gyvos galvos“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/posakiai/„iki gyvos galvos“|„iki gyvos galvos“]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Klaipėda; mentioned_place: Torunė; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Klaipėda; mentioned_place: Torunė; mentioned_place: Žemaitija'
   temporaliniai_duomenys: 'įvykio data: 1410 m.; įvykio data: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'

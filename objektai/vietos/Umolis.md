@@ -22,7 +22,7 @@ Umolis buvo gyvenvietė prie Slucko. Strijkovskis Umolį lokalizavo laukuose už
   teiginys: 'Umolis buvo gyvenvietė prie Slucko.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys jau turi aiškų subjektą ir predikatą, o citata tiesiogiai nurodo Umolį kaip gyvenvietę prie Slucko. Papildomų faktų nepridėta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Sluckas; mentioned_place: Slučė'
+  susije_objektai: 'mentioned_place: Sluckas; mentioned_place: Slučė'
   pagrindžia:
     - c-001
 

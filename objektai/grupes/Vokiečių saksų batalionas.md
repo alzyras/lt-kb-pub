@@ -21,7 +21,7 @@ Stapulionio vadovaujamas Joniškėlio partizanų batalionas, Šeduvos-Panevėži
   global_id: t-41199
   teiginys: 'Vokiečių saksų batalionas dengė Šeduvos-Panevėžio geležinkelio liniją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas faktinis sakinys apie vokiečių saksų batalioną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 - susijęs iš Šeduva: Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.

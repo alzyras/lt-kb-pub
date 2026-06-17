@@ -23,9 +23,7 @@ Kai atskirų asmenų ir delegacijų rūpesčiai nieko negelbėjo, jie 1879 m. pa
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir publicistinis; palikta aiški citatos remiama faktinė dalis.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Europos Parlamentas.md#claim-t-74107|Europos Parlamentas]]: ES piliečiai turi teisę teikti peticijas Europos Parlamentui.
-- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į ES ir NATO (2004 m.).md#claim-t-75212|Lietuvos įstojimas į ES ir NATO (2004 m.)]]: Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.
-- susijęs iš [[objektai/ivykiai/Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.).md#claim-t-75222|Lietuvos įstojimas į Europos Sąjungą (2004 m. gegužės 1 d.)]]: Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.
+
 ## Reikšmingi paminėjimai
 
 - c-001

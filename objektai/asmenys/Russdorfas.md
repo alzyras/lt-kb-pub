@@ -10,7 +10,6 @@ tags:
   - karalius
   - kraštas
   - mokslininkas
-  - popiežius
 ---
 # Russdorfas
 
@@ -24,7 +23,7 @@ Taip pat neužmiršo jo papra­ šyt, kad popiežius uždraustų Vytauto karūna
 - t-001
   global_id: t-35271
   teiginys: 'Russdorfas buvo numatytos sąjungos su Vytautu ir Zigmantu dalyvis; ši sąjunga turėjo būti nukreipta prieš Lenkiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Niurnbergas; mentioned_place: Viena; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Niurnbergas; mentioned_place: Viena; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.).md#claim-t-66700|Lietuvos ir ordino sienos galutinis patvirtinimas pagal Melno taiką (1422 m.)]]: 1422 m. rugsėjo 27 d. prie Melno ežero buvo pasirašyta taika su ordinu.

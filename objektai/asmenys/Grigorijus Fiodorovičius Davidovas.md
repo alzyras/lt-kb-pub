@@ -21,7 +21,7 @@ bojarinų Grigorijaus Fiodorovičiaus Davidovo, Ivano Andrejevičiaus Čeliadnin
 - t-001
   global_id: t-40127
   teiginys: 'Grigorijus Fiodorovičius Davidovas buvo vienas iš bojarinų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

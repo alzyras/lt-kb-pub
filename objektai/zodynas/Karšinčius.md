@@ -28,7 +28,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   global_id: t-07705
   teiginys: 'Karšinčius turėjo nukaršinti priėmusius tėvus ir po jų mirties paveldėdavo visą turtą.'
   sudarymo_pagrindimas: 'Citata remia globos ir paveldėjimo pareigas, bet ne bendrą išlaikymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]'
   pagrindžia:
     - c-001
     - c-002
@@ -38,7 +37,6 @@ Vartojamos formos: `karšinčium`, `karšinčių`.
   global_id: t-07706
   teiginys: 'Karšinčius galėjo būti mažasis sūnus, likęs tėvų namuose ir paveldėjęs tėviškę bei palikimą.'
   sudarymo_pagrindimas: 'Citata remia konkretesnį paveldėjimo vaidmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.

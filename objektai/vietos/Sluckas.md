@@ -73,7 +73,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - t-004
   global_id: t-84802
   teiginys: 'Slucke buvo įkurta jėzuitų kolegija, paremta sudėtine fundacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Naugardukas'
   pagrindžia:
     - c-003
 
@@ -112,7 +112,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   global_id: t-84806
   teiginys: 'Žygio maršrutas nuo Lojevo ėjo vakarų kryptimi Mozyriaus ir Slucko link.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis, o citata nepateikia pakankamo pagrindo įvardyti veikėjus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius'
   pagrindžia:
     - c-002
 
@@ -217,7 +217,7 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalvinai|Kalvinai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Gričino pelkės'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalvinai|Kalvinai]]; mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_place: Gričino pelkės'
   temporaliniai_duomenys: 'įvykio data: 1640 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti.'
@@ -597,13 +597,12 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 
 ## Ryšiai
 - [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]] valde_teritorija Sluckas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Sluckas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Sluckas
 - [[objektai/asmenys/Simonas Olelkaitis]] buvo_valdovas Sluckas
 - [[objektai/asmenys/Skirmantas]] buvo_valdovas Sluckas
-- [[objektai/asmenys/Ivanas]] keliavo_i Sluckas
 - [[objektai/asmenys/Martynas iš Golino]] keliavo_i Sluckas
 - Sluckas priklause [[objektai/vietos/Naugardukas]]
 - Sluckas priklause [[objektai/grupes/Totoriai]]
 - Sluckas priklause [[objektai/vietos/Vilnius]]
 - Sluckas priklause [[objektai/vietos/Vitebskas]]
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Sluckas

@@ -32,7 +32,7 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
   global_id: t-36840
   teiginys: 'Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.'
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje aiškinamą Jogailos ir Vytauto titulų santykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai perteikia citatoje aiškinamą Jogailos ir Vytauto titulų santykį.'
@@ -43,9 +43,9 @@ Jam mirus Vilniaus d. kun. tapo Jogaila, kuris, spren­ džiant iš 1379 m. suta
 - t-002
   global_id: t-36841
   teiginys: 'Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.'
-  susije_objektai: 'territory: Lietuva; territory: Trakai; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_object: [[objektai/zodynas/supremus dux ir magnus dux|supremus dux ir magnus dux]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1379 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1379 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

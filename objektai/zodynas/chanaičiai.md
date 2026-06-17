@@ -22,7 +22,7 @@ Didikai Naugarduke pasiuntė sučiupti belaisvio, kad sužinotų, kur buvo chana
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, baigtinis ir pakankamai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Horodiščė; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Horodiščė; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 

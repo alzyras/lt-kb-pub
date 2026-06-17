@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškus ir atitinka citatoje nurodytą įvykio aplinkybę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Sluckas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Sluckas; mentioned_place: Volynė'
   pagrindžia:
     - c-001
 

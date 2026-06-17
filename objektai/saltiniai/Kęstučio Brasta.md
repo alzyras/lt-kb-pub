@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-31778
   teiginys: '„Kęstučio Brasta“ nurodoma Lietuvių enciklopedijos 11 tome, 405 puslapyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Kučinskas|A. Kučinskas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
   pagrindžia:
     - c-001
 

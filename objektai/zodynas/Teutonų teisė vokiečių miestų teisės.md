@@ -33,7 +33,7 @@ Tad jau nuo seno buvusi turtinga, Krokuva už pirmąją municipalinę tvarką, p
   global_id: t-86642
   teiginys: 'Krokuva 1257 m. gavo teutonų teises, o Poznanė ir Sandomiras pagal vokiečių miestų teisę ėmė tvarkytis XIII a.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir glaustai perteikia citatoje pateiktą informaciją apie miestų teises.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Haličas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Lvovas; mentioned_place: Poznanė; mentioned_place: Sandomiras'
   temporaliniai_duomenys: 'įvykio data: 1257 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir glaustai perteikia citatoje pateiktą informaciją apie miestų teises.'

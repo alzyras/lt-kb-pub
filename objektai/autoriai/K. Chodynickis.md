@@ -21,7 +21,7 @@ Chodynickis ir J.
   global_id: t-30732
   teiginys: 'K. Chodynickis daug dėmesio skyrė atskiriems Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir atitinka citatoje pateiktą informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Lenkų istorikai ir Lietuvos istoriografijos tyrėjai.md#claim-t-179529|Lenkų istorikai ir Lietuvos istoriografijos tyrėjai]]: K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.

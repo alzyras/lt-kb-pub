@@ -38,7 +38,7 @@ Nenurodyta
 - t-001
   global_id: t-67068
   teiginys: 'Miesto atstovai išėję pasitikdavo valdovą ir atverdavo jam miesto vartus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Irpenė; mentioned_place: Kijevas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Irpenė; mentioned_place: Kijevas; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

@@ -29,7 +29,7 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   global_id: t-64567
   teiginys: 'Pratorius M., Deliciae., (1871), p. 99; Basanavičius J., Iš gyvenimo vėlių.., p. XXXIII).'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Dusburgietis teigia, kad pratorius M., Deliciae., (1871), p. 99; Basanavičius J
   global_id: t-64568
   teiginys: 'Basanavičiaus veikale nurodomas Vangrapės upės kilpoje, apie 400 m į pietus nuo Tamoviškių, žinomas Kampsvykalnio piliakalnis.'
   sudarymo_pagrindimas: 'Citata remia bibliografinę nuorodą į Basanavičiaus veikalą, o pradinė formuluotė netiksli ir perkrauta.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Vangrapė'
   temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: apie 400 m.; įvykio data: 1275 m.; įvykio data: 1366 m.; įvykio data: 1371 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata remia bibliografinę nuorodą į Basanavičiaus veikalą, o pradinė formuluotė netiksli ir perkrauta.'

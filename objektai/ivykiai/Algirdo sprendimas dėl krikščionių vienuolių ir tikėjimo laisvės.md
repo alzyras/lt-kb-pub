@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-55117
   teiginys: 'Algirdas viešai nubaudė pranciškonų nužudymo vadeivas ir liepė paskelbti krikščionių vienuolių gyvenimo bei tikėjimo laisvę.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatoje nurodytą Algirdo sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -47,7 +47,7 @@ Nenurodyta
 - t-002
   global_id: t-55118
   teiginys: 'Po Algirdo sprendimo Goštautas vėl atsikvietė vienuolių iš Lenkijos ir pastatydino mūrinę bažnyčią bei vienuolyną Smėlynėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-81825
   teiginys: 'Algirdas viešai nubaudė žiauraus poelgio vadus ir paskelbė valią nevaržomai gyventi krikščionių vienuoliams bei laisvai išpažinti tikėjimą.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o pradinėje formuluotėje yra OCR ir puslapio triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/zodynas/regula|regula]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

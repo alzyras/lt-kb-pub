@@ -29,7 +29,7 @@ Pochodowicz, t.
 - t-001
   global_id: t-30695
   teiginys: 'J. Pochodowicz buvo vienas „Bibliografia Regionu Białostockiego“ redaktorių.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/U. Lewicka|U. Lewicka]]; mentioned_place: Balstogė; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/U. Lewicka|U. Lewicka]]; mentioned_place: Balstogė; mentioned_place: Varšuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/U. Lewicka.md#claim-t-31019|U. Lewicka]]: U. Lewicka kartu su J. Pochodowicz redagavo „Bibliografia Regionu Białostockiego“ pirmąjį tomą.

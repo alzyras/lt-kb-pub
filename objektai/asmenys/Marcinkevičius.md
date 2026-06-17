@@ -21,7 +21,7 @@ Marcinkevičių ir dar vieną rusą karininką.
   global_id: t-39596
   teiginys: 'Leitenantas Marcinkevičius buvo vienas iš trijų NKGB dalinio vadų, kuriuos nukovė Tigras.'
   sudarymo_pagrindimas: 'Citata palaiko Marcinkevičiaus laipsnį, vaidmenį ir žūties aplinkybę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_person: [[objektai/asmenys/Tigras|Tigras]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKGB|NKGB]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algimantas Marcinkevičius.md#claim-t-78042|Algimantas Marcinkevičius]]: Algimantas Marcinkevičius šaltinyje siejamas su Lietuvos kardiochirurgijos mokykla.

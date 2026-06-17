@@ -26,8 +26,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   global_id: t-30956
   teiginys: 'Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatos duomenimis apie Rimberto liudijimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Rimbertas|Rimbertas]]'
-  temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: 853 m; įvykio data: apie 675 m.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
+  temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: apie 675 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos duomenimis apie Rimberto liudijimą.'
   pagrindžia:
@@ -37,7 +37,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - t-002
   global_id: t-30957
   teiginys: 'Rimbertas pirmasis paminėjo kuršių (Cori) vardą ir rašė, kad jie anksčiau priklausę švedų valdžiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/autoriai/Rimbertas|Rimbertas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: apie 675 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
@@ -47,7 +47,7 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
 - t-003
   global_id: t-30958
   teiginys: 'Rimbertas apie 875 m. parašė šv. Ansgaro gyvenimą, kuriame nušviečiami Baltijos pajūrio kariniai santykiai.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_place: Baltija; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Rimbertas|Rimbertas]]; mentioned_place: Baltija; mentioned_place: Kuršas'
   temporaliniai_duomenys: 'įvykio data: 875 m; įvykio data: apie 875 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:

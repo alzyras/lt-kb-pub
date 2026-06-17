@@ -21,7 +21,7 @@ Kolyškai. Kolyškos. Kolyška norėjo su savo kariais vytis priešą, tačiau t
 - t-001
   global_id: t-40053
   teiginys: 'B. Kolyška kartu su Z. Sierakausku, S. Kozakausku ir keliais kitais karininkais pateko į nelaisvę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/S. Kozakauskas|S. Kozakauskas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 

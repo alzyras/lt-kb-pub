@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-01927
   teiginys: 'Bajorija siekė draudimo didžiajam kunigaikščiui priimti pabėgusius bajorų valstiečius.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti konkretesnį teiginį apie baudžiavos įtvirtinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-01929
   teiginys: 'Privilegija paliko bajorų dvaruose gyvenusius valstiečius visiškoje jų ponų valdžioje.'
   sudarymo_pagrindimas: 'Reikia pašalinti neapibrėžtą formuluotę „po privilegijos“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
   pagrindžia:
     - c-003
 

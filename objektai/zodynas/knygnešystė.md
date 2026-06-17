@@ -26,8 +26,6 @@ Susiformavo tvirta kontrabandinės knygnešystės tradicija, ir į XIX a.
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/J. Zikaro skulptūra „Knygnešys“.md#claim-t-77926|J. Zikaro skulptūra „Knygnešys“]]: J. Zikaro skulptūra „Knygnešys“ datuojama 1939 m.
-- susijęs iš [[objektai/ivykiai/Lietuvių raštijos tradiciniu raidynu draudimo pradžia.md#claim-t-25044|Lietuvių raštijos tradiciniu raidynu draudimo pradžia]]: M. Valančius ragino nepriimti valdžios brukamų knygų ir slapta organizavo lietuviškos spaudos tradiciniu raidynu spausdinimą Rytprūsiuose.
 - susijęs iš [[objektai/zodynas/knygnešystė knygnešiai.md#claim-t-22189|knygnešystė knygnešiai]]: Knygnešystė apėmė Rytprūsiuose spausdintos lietuviškos spaudos tradiciniu raidynu nelegalų platinimą Lietuvoje.
 ## Reikšmingi paminėjimai
 

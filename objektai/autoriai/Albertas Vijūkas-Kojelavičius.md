@@ -27,7 +27,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   teiginys: 'Albertas Vijūkas-Kojelavičius buvo Vilniaus aukštosios mokyklos profesorius ir savo veikalą skyrė jos studentams.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia profesoriaus pareigas ir dedikaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1611 m.; įvykio data: 1650 m.; įvykio data: 1669 m.; įvykio data: 1766 m.; įvykio data: 1846 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia profesoriaus pareigas ir dedikaciją.'
@@ -40,7 +40,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   teiginys: 'J. Jurginis įvade nurodo, kad Albertas Vijūkas-Kojelavičius buvo teisus vadindamas save istoriku.'
   teiginio_tipas: 'interpretacija'
   sudarymo_pagrindimas: 'Teiginys yra apie Jurginio vertinimą, todėl reikalinga atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/autoriai/Aleksandras Gvagninis|Aleksandras Gvagninis]]; mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Europa'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Aleksandras Gvagninis|Aleksandras Gvagninis]]; mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_place: Europa'
   pagrindžia:
     - c-004
 
@@ -50,7 +50,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   teiginys: 'Albertas Vijūkas-Kojelavičius 1677 m. mirė Varšuvoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia mirties metus ir vietą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: iki 1666 m.; įvykio data: 1666 m.; įvykio data: 1677 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia mirties metus ir vietą.'
@@ -76,7 +76,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   teiginys: 'Albertas Vijūkas-Kojelavičius gimė 1609 m. Vijūkų dvarelyje netoli Kauno.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia gimimo metus ir vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1609 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia gimimo metus ir vietą.'
@@ -91,7 +91,7 @@ Albertas Vijūkas-Kojelavičius šiame leidime pateikiamas kaip „Lietuvos isto
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai įvado autoriaus vertinimas, todėl palikta atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_person: [[objektai/autoriai/P. Paprockis|P. Paprockis]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Jurginis|Juozas Jurginis]]; mentioned_author: [[objektai/autoriai/P. Paprockis|P. Paprockis]]; mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/asmenys/Stanislovas Hozijus.md#claim-t-186254|Stanislovas Hozijus]]: Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.

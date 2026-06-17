@@ -28,7 +28,7 @@ Papildomos aiškios formos neišskirtos.
   global_id: t-07749
   teiginys: 'Iki didžiosios pusrytės arba pietų žydams pilyje nebuvo leidžiama pirkti prekių pirmiau už krikščionis.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja didžiąją pusrytę su prekybos apribojimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-001
 

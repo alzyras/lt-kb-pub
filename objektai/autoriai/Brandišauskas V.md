@@ -22,7 +22,7 @@ Brandišauskas V.
   global_id: t-19386
   teiginys: 'V. Brandišauskas parašė veikalą „Siekiai atkurti Lietuvos valstybingumą (1940 06–1941 09)“.'
   sudarymo_pagrindimas: 'Bibliografinė eilutė nurodo autorių ir veikalo pavadinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -10,7 +10,6 @@ tags:
   - miestas
   - privilegija
   - ritualas
-  - tauta
 ---
 # Vilniaus rusinai
 

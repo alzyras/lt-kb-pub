@@ -51,7 +51,7 @@ Nenurodyta
   global_id: t-75265
   teiginys: '1991 m. sausio 12-osios vakarą žmonės rinkosi budėti prie parlamento, Lietuvos radijo ir televizijos bei televizijos bokšto.'
   sudarymo_pagrindimas: 'Pašalintos antraštės ir puslapio triukšmas, sakinys užbaigtas pagal citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintos antraštės ir puslapio triukšmas, sakinys užbaigtas pagal citatą.'
@@ -63,7 +63,7 @@ Nenurodyta
   global_id: t-75266
   teiginys: '1991 m. sausio 13-ąją Lietuvos AT-AS kreipėsi į SSRS žmones ir ragino stabdyti sovietų kariuomenės agresiją.'
   sudarymo_pagrindimas: 'Perrašyta glaustai, pašalinant dviprasmišką konstrukciją ir išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1967 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaustai, pašalinant dviprasmišką konstrukciją ir išlaikant citatos faktus.'
@@ -75,7 +75,7 @@ Nenurodyta
   global_id: t-75267
   teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -84,7 +84,7 @@ Nenurodyta
   global_id: t-75268
   teiginys: 'Sausio 13-osios herojai minimi tarp XX a. Lietuvos įnašą į Europos istoriją simbolizuojančių veikėjų.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs pašalinis paveikslo aprašas ir paliktas citatos palaikomas teiginys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Mikalojus Konstantinas Čiurlionis|Mikalojus Konstantinas Čiurlionis]]; mentioned_place: Baltija; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1909 m.; įvykio data: 1944 m.; įvykio data: 1988-1990; įvykio data: 1990 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas nutrūkęs pašalinis paveikslo aprašas ir paliktas citatos palaikomas teiginys.'
@@ -96,7 +96,7 @@ Nenurodyta
   global_id: t-75270
   teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1967 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'

@@ -29,7 +29,7 @@ amziai:
   global_id: t-88501
   teiginys: 'Vytauto laiškas didžiajam magistrui dėl gydytojo buvo datuotas Obolcuose 1426 m. sausio 13 dieną.'
   sudarymo_pagrindimas: 'Citata pagrindžia laiško turinį, vietą ir datą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1426 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia laiško turinį, vietą ir datą.'

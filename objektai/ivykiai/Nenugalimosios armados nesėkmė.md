@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-77905
   teiginys: '1588 m. Nenugalimosios armados nesėkmė ženklino Ispanijos galybės saulėlydį; po audros sutrukdyto išsilaipinimo Anglijoje Ispanija žygio nekartojo.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo dviejų sakinių, todėl sutrauktas į vieną aiškų sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Anglija; mentioned_place: Ispanija; mentioned_place: Portugalija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Anglija; mentioned_place: Ispanija; mentioned_place: Portugalija; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1588 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo dviejų sakinių, todėl sutrauktas į vieną aiškų sakinį.'

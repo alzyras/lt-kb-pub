@@ -44,7 +44,6 @@ Nenurodyta
   teiginys: '1241 m. birželio 3 d. per pietus įvykęs didysis saulės užtemimas buvo toks smarkus, kad matėsi žvaigždės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir OCR triukšmas; teiginys suformuluotas kaip pilnas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   temporaliniai_duomenys: 'įvykio data: 1241 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir OCR triukšmas; teiginys suformuluotas kaip pilnas faktas.'

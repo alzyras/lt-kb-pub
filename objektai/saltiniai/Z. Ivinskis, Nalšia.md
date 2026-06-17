@@ -29,7 +29,7 @@ Ivinskis, Nalšia , LE XIX, 1959, 490- 491 ; Z.
   global_id: t-30128
   teiginys: 'Z. Ivinskio „Nalšia“ 1959 m. nurodyta „Lietuvių enciklopedijos“ XIX tome, 490-491 puslapiuose.'
   sudarymo_pagrindimas: 'Citata pagrindžia sutvarkytą bibliografinį teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Nalšia'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Nalšia'
   temporaliniai_duomenys: 'įvykio data: 1959 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia sutvarkytą bibliografinį teiginį.'

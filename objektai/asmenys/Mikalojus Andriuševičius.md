@@ -21,7 +21,7 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   global_id: t-87783
   teiginys: 'Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys.'
   sudarymo_pagrindimas: 'Citata pagrindžia pareigybę ir priskyrimą tarybos nariams.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/taurininkas|taurininkas]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_place: Lietuva; mentioned_place: Melnikas'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 

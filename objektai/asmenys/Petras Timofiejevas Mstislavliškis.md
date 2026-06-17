@@ -30,7 +30,7 @@ periodo_grupes:
   global_id: t-87831
   teiginys: '1575 m. Vilniuje Petras Timofiejevas Mstislavliškis pirmą kartą išspausdino leidinį „Cztėry Ewangelje“.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, veiksmą, vietą, datą ir leidinį; citata tai patvirtina.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lukas; mentioned_place: Maskva; mentioned_place: Upytė; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1575 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, veiksmą, vietą, datą ir leidinį; citata tai patvirtina.'

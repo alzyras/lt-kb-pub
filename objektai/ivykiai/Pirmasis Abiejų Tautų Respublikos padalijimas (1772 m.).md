@@ -47,7 +47,7 @@ Nenurodyta
 - t-001
   global_id: t-41343
   teiginys: 'Pirmojo Abiejų Tautų Respublikos padalijimo sutartys buvo pasirašytos 1772 m. Sankt Peterburge, o 1773–1775 m. patvirtintos Varšuvos delegaciniame seime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/delegacinis seimas|delegacinis seimas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1772 m.; įvykio data: 1773-1775; įvykio data: 1775 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

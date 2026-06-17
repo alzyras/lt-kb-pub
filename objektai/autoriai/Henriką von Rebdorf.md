@@ -29,10 +29,9 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
 - t-001
   global_id: t-30637
   teiginys: 'Kronikininkas Henrikas von Rebdorfas rašė, kad 1358 m. liepą Lietuvos karalius pas imperatorių buvo atsiuntęs savo brolį.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/autoriai/Henriką von Rebdorf|Henriką von Rebdorf]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1358 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henriką von Rebdorf buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1358 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš Henriko von Rebdorfo kronika: Henriko von Rebdorfo kronika mini, kad 1358 m. liepą Lietuvos karalius pas imperatorių atsiuntė savo brolį.
@@ -52,6 +51,3 @@ Pagal kronikininką Henriką von Rebdorf 1358 m. liepos mėn.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Henriką von Rebdorf buvo_valdovas [[objektai/vietos/Lietuva]]

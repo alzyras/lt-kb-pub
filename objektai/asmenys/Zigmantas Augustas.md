@@ -11,7 +11,6 @@ tags:
   - bajorija
   - kunigaikštis
   - popiežius
-  - valdovas
 ---
 # Zigmantas Augustas
 
@@ -33,7 +32,7 @@ Zigmantas II (1506—1548 m.) ir jo karai su Maskva. Zigmanto II valdymo pabaiga
   global_id: t-93758
   teiginys: 'Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Zigmanto Augusto sistemą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Lietuvos pinigai.md#claim-t-12874|Lietuvos pinigai]]: Apie 1565 m. Zigmantas Augustas mėgino suvienodinti Lietuvos ir Lenkijos pinigų vertę, kaldindamas lenkiškos vertės monetas Tikocine.

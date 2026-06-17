@@ -22,7 +22,7 @@ N ors Rusijos imperijos vidaus politika nerusiškų imperijos regionų ir „pak
   global_id: t-18775
   teiginys: 'Aleksandro III laikais rusų nacionalizmas tapo vyraujančiu Rusijos imperijos vidaus politikos principu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas faktinis sakinys apie Aleksandro III laikus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

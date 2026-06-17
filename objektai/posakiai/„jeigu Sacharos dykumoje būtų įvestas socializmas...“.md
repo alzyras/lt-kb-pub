@@ -32,7 +32,7 @@ tags:
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/deficitas talonai.md#claim-t-183407|deficitas talonai]]: Komandinės planinės ekonomikos neefektyvumas pašieptas juoku, kad socializmas Sacharoje sukeltų smėlio deficitą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

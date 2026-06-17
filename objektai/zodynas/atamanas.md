@@ -21,7 +21,7 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
 - t-001
   global_id: t-42433
   teiginys: 'Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Kamenecas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Kamenecas; mentioned_place: Podolė'
   pagrindžia:
     - c-002
 
@@ -30,7 +30,7 @@ Podolėje veikė jų paskirti atamanai, kurie nuo Podolės žemės duodavo duokl
   global_id: t-42434
   teiginys: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie atamanus ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/baskakas|baskakas]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/tėvonys|tėvonys]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonys|tėvonys]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 

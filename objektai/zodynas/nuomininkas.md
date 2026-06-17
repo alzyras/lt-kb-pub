@@ -32,7 +32,7 @@ Jie rūpinosi visais dvaro ūkio reikalais, stengėsi padidinti jo pro­ dukting
   global_id: t-36819
   teiginys: 'Vytautas įkurdindavo darbininkus savo neužimtose žemėse, atleisdavo juos nuo lažo ir padarydavo laisvus nuomininkus.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatoje aprašyta Vytauto praktika.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Lažas|Lažas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Žemaitija'
   pagrindžia:
     - c-002
 

@@ -14,7 +14,6 @@ tags:
   - grupe
   - kunigaikštis
   - miestas
-  - upė
 amziai:
   - 'XV'
 ---
@@ -40,7 +39,7 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   global_id: t-86724
   teiginys: 'IX amžiuje Rusioje variagais vadinti normanai iš Skandinavijos Baltijos pakrantėse siekė plėšikavimo ir prekybos.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo OCR triukšmo.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse.md#claim-t-87178|Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]: IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse.
@@ -149,4 +148,4 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Tame (Baigos brolis)]] prekiavo_su Normanai
+- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] prekiavo_su Normanai

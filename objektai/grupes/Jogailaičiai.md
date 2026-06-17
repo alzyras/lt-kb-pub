@@ -44,7 +44,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
 - t-002
   global_id: t-110662
   teiginys: 'Dviejų paskutiniųjų Jogailaičių paaukštintas miestiečių luomas valdant Steponui turėjo stiprų karaliaus palaikymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   global_id: t-110663
   teiginys: 'Dviejų paskutiniųjų Jogailaičių laikais miestiečių luomas buvo paaukštintas iki tikrųjų piliečių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailaičius ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/leičiai liečiai leišiai|leičiai liečiai leišiai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]'
   pagrindžia:
     - c-002
 

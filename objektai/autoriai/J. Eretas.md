@@ -29,7 +29,7 @@ Eretas, Kazys Pakštas. Eretas, Valančiaus šviesa už marių.
 - t-001
   global_id: t-30667
   teiginys: 'J. Eretas parengė spaudai veikalą „Valančiaus šviesa už marių“ apie Pranciškaus Juro ir jo bendrininkų gyvenimą bei veiklą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]'
   pagrindžia:
     - c-002
 

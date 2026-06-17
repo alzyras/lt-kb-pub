@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-01902
   teiginys: 'Žemaičių kunigaikštystės privilegija patvirtino Vytauto laikų žemaičių teises ir garantavo, kad krašto seniūną jie rinksis patys.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet suformuluotas aiškiau apie privilegiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-82505|Kazimieras Jogailaitis]]: Kazimiero karaliavimas Lenkijoje ir jo santykiai su.

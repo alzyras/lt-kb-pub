@@ -30,7 +30,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   global_id: t-88280
   teiginys: 'Michało Balińskio „Vilniaus akademijos istorija“ buvo išleista 1862 m.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas į sklandų enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1579-1803; įvykio data: 1803 m.; įvykio data: 1862 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet perrašytas į sklandų enciklopedinį sakinį.'
@@ -42,7 +42,7 @@ Bene garsiausias istoriko darbas - tai Vilniaus akademijos istorija ir kartu su 
   global_id: t-88281
   teiginys: '„Vilniaus akademijos istorija“ buvo laikoma bene garsiausiu Michalo Balinskio istoriniu darbu.'
   sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai suprantamas, bet turi OCR triukšmo ir perteklinę šalutinę informaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

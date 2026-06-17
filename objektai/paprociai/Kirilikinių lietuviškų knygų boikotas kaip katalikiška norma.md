@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-54250
   teiginys: 'Kirilikinių lietuviškų knygų boikotas sužlugdė valdžios užmačią lietuvių raštijoje lotyniškąjį raidyną pakeisti kirilika.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia aiškiai įvardyti boikotą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kirilika|kirilika]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-001
 

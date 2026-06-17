@@ -49,7 +49,7 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   global_id: t-73356
   teiginys: 'Pirmoji krikščionių bendruomenė Padauguvyje buvo silpna ir dažnai nukentėdavo nuo pagonių antpuolių.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Livonija'
   temporaliniai_duomenys: 'įvykio data: 1180 m.; įvykio data: apie 1180 m.; įvykio data: 1229 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'

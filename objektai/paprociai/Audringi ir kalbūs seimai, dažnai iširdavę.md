@@ -37,7 +37,7 @@ Nenurodyta
   global_id: t-01911
   teiginys: 'Seimai paprastai būdavo audringi ir kalbūs, o po ilgų kalbų dažnai iširdavo; iki minimo momento iš Augusto II šauktų seimų buvo iširę septyni.'
   sudarymo_pagrindimas: 'Pašalinta situacinė pabaiga ir OCR triukšmas, paliktas pagrindinis faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 

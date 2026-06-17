@@ -21,7 +21,7 @@ Bolševikai tą dieną į lietuvių pusę paleido užtvarą ir tęsė puolimą K
 - t-001
   global_id: t-78194
   teiginys: 'Kėdainių įgulos savanoriai pirmąjį kovos krikštą patyrė sulaikydami bolševikų puolimą Kėdainių link.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 

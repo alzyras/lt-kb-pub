@@ -25,7 +25,7 @@ Suvalkų kraštas: jis greičiausiai nenorėjo leisti per daug laimėti lenkams,
   global_id: t-95214
   teiginys: 'Užnemunėje, citatoje tapatinamoje su Suvalkų kraštu, kaimai XIX a. išsiskirstė vienkiemiais.'
   sudarymo_pagrindimas: 'Reikia pašalinti santrumpos ir fragmentiškumo įspūdį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vienkiemiai|vienkiemiai]]; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Užnemunė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Suvalkai; mentioned_place: Užnemunė'
   pagrindžia:
     - c-001
 

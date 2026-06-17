@@ -21,7 +21,7 @@ Egiptiečiai šioje vietoje įtraukiami į senųjų lietuvių kontaktų tinklą.
   global_id: t-07832
   teiginys: 'Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.'
   sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį apie prekybinius ryšius.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Finikiečiai|Finikiečiai]]; mentioned_group: [[objektai/grupes/Finikiečiai|Finikiečiai]]; mentioned_object: [[objektai/zodynas/Prekėjai|Prekėjai]]; mentioned_object: [[objektai/zodynas/Pažinės|Pažinės]]; mentioned_object: [[objektai/zodynas/Įšleitė|Įšleitė]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'counterparty: [[objektai/grupes/Finikiečiai|Finikiečiai]]; mentioned_group: [[objektai/grupes/Finikiečiai|Finikiečiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/grupes/Egiptiečiai|Egiptiečiai]] prekiavo su [[objektai/grupes/Finikiečiai|Finikiečiai]]'
   pagrindžia:
     - c-001

@@ -24,7 +24,7 @@ Pakviesti į tarnybą savo krašto interesams ginti vaikinai ir merginos turėjo
   global_id: t-21977
   teiginys: 'Atkurtos Lietuvos URM jauni diplomatai dėl ambicijų, energijos ir netradicinių žingsnių gavo epitetą „Baltic Kindergarten“.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata aiškiai pagrindžia epiteto atsiradimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lenino paminklas Vilniuje|Lenino paminklas Vilniuje]]; mentioned_object: [[objektai/posakiai/„Baltic Kindergarten“|„Baltic Kindergarten“]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Lenino paminklas Vilniuje|Lenino paminklas Vilniuje]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

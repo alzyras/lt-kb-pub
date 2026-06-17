@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-13450
   teiginys: 'Antanas Gustaitis sukonstravo ANBO seriją, o Kauno karo aviacijos dirbtuvėse pastatyti 66 tokie lėktuvai.'
   sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'pastatymo data: po 1934 m.; pastatymo data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip pastatymo data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir tiksliai perteikia citatos informaciją.'
@@ -81,7 +81,7 @@ Nenurodyta
   global_id: t-13451
   teiginys: 'ANBO VIII buvo Antano Gustaičio sukonstruotas ir Kauno aviacijos dirbtuvėse 1939 m. pagamintas lengvasis bombonešis.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina ANBO VIII ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Kaunas; mentioned_place: Venesuela'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina ANBO VIII ir yra paremtas citata.'
@@ -105,7 +105,7 @@ Nenurodyta
   global_id: t-23270
   teiginys: 'Antanas Gustaitis sukonstravo lėktuvų seriją ir pavadino ją ANBO pagal sakinio „Antanas nori būti ore“ žodžių pirmąsias raides.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nusako ANBO pavadinimo kilmę ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai nusako ANBO pavadinimo kilmę ir remiasi citata.'

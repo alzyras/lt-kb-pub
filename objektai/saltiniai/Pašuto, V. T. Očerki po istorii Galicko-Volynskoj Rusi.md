@@ -26,7 +26,7 @@ Pašuto, V.
 - t-001
   global_id: t-31885
   teiginys: 'V. T. Pašuto „Očerki po istorii Galicko-Volynskoj Rusi“ išleista 1950 m. Maskvoje.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/V. T. Pašuto|V. T. Pašuto]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. T. Pašuto|V. T. Pašuto]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

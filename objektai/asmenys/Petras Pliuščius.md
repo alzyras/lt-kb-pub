@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-87927
   teiginys: 'Petras Pliuščius 1620 m. buvo Vilniaus burmistras nuo katalikų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas|Leonas]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kuzma Mamoničius|Kuzma Mamoničius]]; mentioned_person: [[objektai/asmenys/Leonas Mamoničius|Leonas Mamoničius]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Varšuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1597 m.; įvykio data: 1600 m.; įvykio data: 1610 m.; įvykio data: 1620 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytas pareigas, metus ir konfesinę grupę.'

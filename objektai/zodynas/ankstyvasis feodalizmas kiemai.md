@@ -28,7 +28,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   global_id: t-22055
   teiginys: 'Valdant Ldk Gediminui ankstyvojo feodalizmo požymiu Lietuvoje buvo ankstyvieji dvarai, vadinti kiemais.'
   sudarymo_pagrindimas: 'Citata tiksliau sieja kiemus su ankstyvojo feodalizmo požymiu, o ne su atskiru susiformavimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiksliau sieja kiemus su ankstyvojo feodalizmo požymiu, o ne su atskiru susiformavimu.'
@@ -43,7 +43,7 @@ Valdant Ldk Gediminui susiformavo ankstyvoji, arba karinė, monarchija, turinti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tikslingiau sutelkti teiginį į žodyno objekto sąvoką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

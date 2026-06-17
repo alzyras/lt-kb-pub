@@ -22,7 +22,7 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
 - t-001
   global_id: t-70303
   teiginys: 'Mykolui Sapiegai pasidavus, bajorijos regimentorius grąžino jam kardą ir nusivežė jį savo karietoje į Valkininkus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_place: Valkininkai'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Konfederacijos maršalka buvo išrinktas Katilas, o regimentorium (karo vadu) �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas veikėjas ir pašalinta perteklinė kontekstinė pastaba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Leipūnai; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Leipūnai; mentioned_place: Valkininkai'
   pagrindžia:
     - c-002
 

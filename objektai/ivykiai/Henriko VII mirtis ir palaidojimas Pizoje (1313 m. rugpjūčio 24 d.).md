@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1313 m. rugpjūčio 24 d. Sienos grafystėje mirė imperatorius Henrikas VII, o jo kūnas buvo palaidotas Pizoje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinį autorystės įvadą; citata ir pavadinimas pagrindžia datą, vietą ir palaidojimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
   temporaliniai_duomenys: 'mirties data: 1313 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi perteklinį autorystės įvadą; citata ir pavadinimas pagrindžia datą, vietą ir palaidojimą.'

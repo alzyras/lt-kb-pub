@@ -35,7 +35,7 @@ Rimantas Jasas parengė 1971 m. lietuvišką Bychovco kronikos leidimą: išvert
   teiginys: 'Rimantas Jasas išvertė Bychovco kroniką ir parašė 1971 m. leidinio įvadą bei paaiškinimus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Perrašyta tiksliau: citata remia vertimą, įvadą ir paaiškinimus, bet ne formuluotę apie viso leidinio išvertimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/K. Korsakas|K. Korsakas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_author: [[objektai/autoriai/K. Korsakas|K. Korsakas]]'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta tiksliau: citata remia vertimą, įvadą ir paaiškinimus, bet ne formuluotę apie viso leidinio išvertimą.'

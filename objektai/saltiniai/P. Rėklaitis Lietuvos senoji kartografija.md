@@ -29,7 +29,7 @@ Radvilos Lietuvos žemėlapis, Aidai 1952, 10 nr., 445-448 p. ; P.
 - t-001
   global_id: t-31880
   teiginys: 'P. Rėklaičio „Lietuvos senoji kartografija“ paskelbta „Tautos Praeities“ II tomo 1 dalyje, Romoje 1964 m., p. 64-76.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/autoriai/J. Andrius|J. Andrius]]; mentioned_person: [[objektai/autoriai/P. Rėklaitis|P. Rėklaitis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Juodoji jūra; mentioned_place: Lietuva; mentioned_place: Roma'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Andrius|J. Andrius]]; mentioned_author: [[objektai/autoriai/P. Rėklaitis|P. Rėklaitis]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Juodoji jūra; mentioned_place: Lietuva; mentioned_place: Roma'
   temporaliniai_duomenys: 'įvykio data: 1964 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

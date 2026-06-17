@@ -50,9 +50,9 @@ Nenurodyta
   global_id: t-59684
   teiginys: '1311 m. sausio 6 d. prie Milano Romos karalius Henrikas buvo vainikuotas geležiniu vainiku.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo datą, vietą, asmenį ir vainikavimo objektą.'
-  susije_objektai: 'territory: Milanas; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Milanas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1311 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas buvo valdovas Milanas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Milanas'
+  temporaliniai_duomenys: 'įvykio data: 1311 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo datą, vietą, asmenį ir vainikavimo objektą.'
   pagrindžia:
     - c-001

@@ -44,7 +44,7 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   global_id: t-87576
   teiginys: 'Islandų keliautojas Snorro, vykdamas per Europos šiaurę, prie Vilniaus ir Trakų rado savo genties naujakurių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Snorro kelionę ir jo rastus gentainius prie Vilniaus bei Trakų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Europa; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

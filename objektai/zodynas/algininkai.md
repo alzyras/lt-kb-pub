@@ -23,7 +23,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, paliktas citatos remiamas faktas apie algininkų samdymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Teodosija (Kafa)'
+  susije_objektai: 'mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta aiškiau susiejant veiksmą su Minsko puolimu ir algininkais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Minskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Minskas'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia algininkų vietą kariuomenės rikiuotėje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   pagrindžia:
     - c-003
 
@@ -59,22 +59,10 @@ Karalius Kazimieras leido Kafos gyventojams savo valdomose žemėse samdyti algi
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas titulas, o sakinio branduolys paliktas apie algininkų išsiuntimą į pagalbą. Nepridėta totorių persekiojimo ir platesnės antraštės informacijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/dvarionis|dvarionis]]; mentioned_place: Bobruiskas; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Perekopas; mentioned_place: Podolė; mentioned_place: Pripetė; mentioned_place: Sluckas'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Eustachijus Daškevičius.md#claim-t-186199|Eustachijus Daškevičius]]: Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.
-- susijęs iš [[objektai/asmenys/Jonas Černinas.md#claim-t-186219|Jonas Černinas]]: Aleksandras pavedė čekui Jonui Černinui Čekijoje ir Vokietijoje nusamdyti didelius algininkų būrius.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
-- susijęs iš [[objektai/grupes/Kafos gyventojai.md#claim-t-185450|Kafos gyventojai]]: Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.
-- susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186761|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per vasalinės priesaikos ceremoniją Kolomyjoje Stepono palydovų ant žemės suguldytos vėliavėlės simbolizavo jų moldaviškąsias valdas.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.
-- susijęs iš [[objektai/ivykiai/Skitų sumušimas Volynėje ir prie Slučės.md#claim-t-185768|Skitų sumušimas Volynėje ir prie Slučės]]: Krymo skitai trimis žygio voromis smarkiai nuniokojo Volynę, kai dėl karo su Maskva joje nebuvo likę karių ir karvedžių.
-- susijęs iš [[objektai/paprociai/Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai.md#claim-t-185924|Samdinių verbavimas krikščioniškose karalystėse įgulos tarnybai]]: Kafos gyventojai, bijodami augančios turkų galybės, sumanė krikščioniškose karalystėse samdyti įgulos tarnybai tinkamų karių.
-- susijęs iš Borisovas: Glinskis, nutraukęs Minsko apgulą, su savo kariais pirmiausia nužygiavo į Borisovą, o iš ten į Oršą.
-- susijęs iš Minskas: Maskvėnams apsupus Smolenską, Aleksandras įsikūrė Minske, kad iš arti vadovautų kariuomenei kilus karui.
-- susijęs iš Sniatinas: Sniatinas lokalizuojamas į rytus nuo Kolomyjos.
-- susijęs iš Teodosija (Kafa): Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščioniškų karalysčių karių įgulos tarnybai.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -22,7 +22,7 @@ Lietuvos didikai prašė karaliaus paskirti Slucko kunigaikštį Simoną Olelkai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko prašymą paskirti Simoną Olelkaitį vietininku.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

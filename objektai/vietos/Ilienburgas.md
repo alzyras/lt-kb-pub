@@ -18,7 +18,6 @@ tags:
   - miestas
   - ordinas
   - pilis
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -47,7 +46,7 @@ Dusburgietis teigia, kad be to, tas pats komtūras pastatė miestą prie Barten�
   global_id: t-58559
   teiginys: 'Kristburgo komtūras Luterbergas pastatė miestą prie Ilienburgo pilies.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir citata tiesiogiai patvirtina miesto pastatymą prie Ilienburgo pilies.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Luterbergas|Luterbergas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Bartenšteinas; mentioned_place: Kristburgas; mentioned_place: Lunenburgas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.

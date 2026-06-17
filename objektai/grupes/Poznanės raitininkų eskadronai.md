@@ -22,7 +22,7 @@ Lenkijos - 7-asis pėstininkų pulkas, 1-asis, 2-asis ir 4-asis šaulių pulkai,
   global_id: t-38997
   teiginys: 'Panerių mūšyje Poznanės raitininkų eskadronai buvo tarp Lenkijos sukilėlių kariuomenės dalinių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Poznanės raitininkų eskadronus su Panerių mūšio sukilėlių pajėgomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Trakų sukilėlių daliniai|Trakų sukilėlių daliniai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.

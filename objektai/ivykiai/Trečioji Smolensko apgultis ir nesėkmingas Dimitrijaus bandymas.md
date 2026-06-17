@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas emocinis ir OCR pažeistas tekstas, paliktas aiškus citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitrijus|Dimitrijus]]; mentioned_person: [[objektai/asmenys/Sologubas|Sologubas]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

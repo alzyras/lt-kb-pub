@@ -26,7 +26,7 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
   global_id: t-71512
   teiginys: 'J. Voigtas 1827–1838 m. išleido devynių tomų veikalą „Geschichte Preussens“, kuriame nagrinėjo kryžiuočių santykius su Lietuva.'
   sudarymo_pagrindimas: 'Pradinis teiginys klaidingai priskiria 1857–1859 m. ir CDPr leidimą vienam veiksmui; citata geriau palaiko kitą konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1647 m.; įvykio data: 1827-1838; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys klaidingai priskiria 1857–1859 m. ir CDPr leidimą vienam veiksmui; citata geriau palaiko kitą konkretų faktą.'
@@ -38,7 +38,7 @@ Voigt, Geschichte Preussens (iki 1525 m.), I-IX (1827-1839);.
   global_id: t-71513
   teiginys: 'J. Voigtas 1827–1838 m. devynių tomų veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m.'
   sudarymo_pagrindimas: 'Reikia pataisyti pavardės lietuvinimą ir pašalinti rašybos klaidą pavadinime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1525 m.; įvykio data: 1525 m.; įvykio data: 1647 m.; įvykio data: 1827-1838; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti pavardės lietuvinimą ir pašalinti rašybos klaidą pavadinime.'

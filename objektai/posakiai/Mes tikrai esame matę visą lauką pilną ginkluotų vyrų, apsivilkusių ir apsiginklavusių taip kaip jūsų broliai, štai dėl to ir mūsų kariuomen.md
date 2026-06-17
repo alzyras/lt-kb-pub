@@ -40,7 +40,7 @@ Dusburgietis teigia, kad šis, išvydęs tokį nedidelį brolių karių būrį, 
   global_id: t-103453
   teiginys: 'Petras Dusburgietis pagudėnams priskiria pasakojimą, kad jų kariuomenė bėgo pamačiusi lauką, pilną ginkluotų vyrų.'
   sudarymo_pagrindimas: 'Teiginys apie pasakymo priskyrimą turi būti aiškus ir ne raw citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]'
   pagrindžia:
     - c-002
 

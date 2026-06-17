@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-63308
   teiginys: 'Viceministro Kazimiero Masiliūno iniciatyva ir rūpesčiu lietuvių istorikai parašė ir išleido plačios apimties Lietuvos istoriją.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_person: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Adolfas Šapoka|Adolfas Šapoka]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

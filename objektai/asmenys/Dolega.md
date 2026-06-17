@@ -22,7 +22,7 @@ Vienas pulkas, Dolegos vedamas, antras kunigo Mackevičiaus, trečias kunigo Pe�
   global_id: t-39720
   teiginys: 'Dolega vadovavo vienam iš trijų didžiausių Lietuvos kariuomenės pulkų.'
   sudarymo_pagrindimas: 'Pradinė formuluotė yra sakinio fragmentas; citata pagrindžia Dolegos vadovavimą pulkui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Peža-Palionis.md#claim-t-39799|Peža-Palionis]]: Kunigas Peža-Palionis vadovavo trečiajam Lietuvos kariuomenės pulkui, sudarytam iš dalgėmis ginkluotų sodiečių.

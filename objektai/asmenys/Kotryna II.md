@@ -32,7 +32,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63840
   teiginys: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'territory: Austrija; territory: Prancūzija; territory: Prūsija; territory: Rusija; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Austrija; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'territory: Austrija; territory: Prancūzija; territory: Prūsija; territory: Rusija; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Austrija; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
   semantiniai_rysiai: '[[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Austrija; [[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Prancūzija; [[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Prūsija; [[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Rusija'
   pagrindžia:
     - c-004
@@ -42,7 +42,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63842
   teiginys: 'Stanislovas Augustas Poniatovskis buvo Kotrynos II nurodytas kandidatas į Respublikos sostą ir jos statytinis.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kotrynos II vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Prūsai; mentioned_place: Rusija; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Prūsai; mentioned_place: Rusija; mentioned_place: Sūduva'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63843
   teiginys: 'Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Kotryna II kaip asmeniu.'
-  susije_objektai: 'territory: Europa; territory: Rusija; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_place: Europa; mentioned_place: Rusija'
+  susije_objektai: 'territory: Europa; territory: Rusija; mentioned_place: Europa; mentioned_place: Rusija'
   semantiniai_rysiai: '[[objektai/asmenys/Kotryna II|Kotryna II]] valdė teritoriją Europa; [[objektai/asmenys/Kotryna II|Kotryna II]] valdė teritoriją Rusija'
   temporaliniai_duomenys: 'valdymo pradžia: 1762-1796; valdymo pradžia: 1796 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kotryna II valdė teritoriją Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kotryna II valdė teritoriją Rusija“, o ne visam objekto laikotarpiui.'
@@ -64,7 +64,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63844
   teiginys: 'Po Petro III pašalinimo ir nužudymo valdžią Rusijoje perėmė Kotryna II, Anhalt-Cerbsto kunigaikštytė vokietaitė.'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir turi šalutinio konteksto; citata remia glaustesnį faktą apie Kotryną II.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_place: Petrapilis; mentioned_place: Rusija; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čartoriskiai|Čartoriskiai]]; mentioned_place: Petrapilis; mentioned_place: Rusija; mentioned_place: Saksonija'
   pagrindžia:
     - c-003
 
@@ -72,7 +72,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
 - t-005
   global_id: t-63849
   teiginys: 'Kotryna II įvykdė Respublikos padalijimus, kurių metu jos trečdalį turėjo užleisti Prūsijai ir Austrijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_place: Austrija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Austrija; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš Austrija: Per Abiejų Tautų Respublikos padalijimus Kotryna II trečdalį padalytos valstybės turėjo užleisti Prūsijai ir Austrijai.

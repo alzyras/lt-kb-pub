@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87311
   teiginys: 'Vilniaus vyskupui Povilui ir jo įpėdiniams suteikta pasaulietinė valdžia prieš ilgiau kaip metus bažnytinių cenzūrų vengusius asmenis.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra privilegijos fragmentas, todėl perrašytas į savarankišką faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/instigatorius|instigatorius]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

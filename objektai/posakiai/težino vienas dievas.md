@@ -21,7 +21,7 @@ Dusburgietis teigia, kad kodėl šitaip yra, nežinau, težino vienas dievas, ku
   global_id: t-59160
   teiginys: 'Petras Dusburgietis skalvių tvenkinio pokytį aiškino kaip vienam Dievui žinomą dalyką.'
   sudarymo_pagrindimas: 'Sakinys aiškiai perteikia autoriaus aiškinimą ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]'
   pagrindžia:
     - c-001
 

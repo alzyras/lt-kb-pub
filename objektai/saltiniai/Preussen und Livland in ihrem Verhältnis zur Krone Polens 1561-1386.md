@@ -30,7 +30,7 @@ Stammler : Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386 
   global_id: t-31894
   teiginys: 'K. D. Stammlerio „Preussen und Livland in ihrem Verhältnis zur Krone Polens 1561-1386“ pasirodė 1953 m.'
   sudarymo_pagrindimas: 'Citata palaiko trumpą bibliografinį teiginį, o pradinę formuluotę verta sugramatinti.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/E. Wermke|E. Wermke]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Wermke|E. Wermke]]'
   temporaliniai_duomenys: 'įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko trumpą bibliografinį teiginį, o pradinę formuluotę verta sugramatinti.'

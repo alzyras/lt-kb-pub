@@ -30,7 +30,7 @@ Vartojamos formos: `vėdliais`, `vėdlių`.
   pagrindžia:
     - c-001
     - c-002
-- susijęs iš [[objektai/zodynas/Gaspadinė.md#claim-t-70005|gaspadinė]]: `Gaspadinė` šiame tekste reiškia vestuvių šeimininkę ar vaišių tvarkytoją.
+
 ## Reikšmingi paminėjimai
 
 - c-001

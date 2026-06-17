@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-89423
   teiginys: 'Štarkenbergo pilies statybos metu prūsų kariuomenė netikėtai užpuolė ir išžudė magistro sušauktus darbininkus.'
   sudarymo_pagrindimas: 'Pradinis teiginys beveik tinkamas, bet reikia aiškiai įvardyti įvykį ir pašalinti perteklinę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-89424
   teiginys: 'Teutonų ordino didysis magistras Anonas įsakė Prūsijos magistrui ir broliams prie Osos pastatyti būsimą Štarkenbergo pilį.'
   sudarymo_pagrindimas: 'Pirminis teiginys neįvardijo Štarkenbergo pilies, nors citata leidžia ją aiškiai susieti su įsakymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Anonas (didysis magistras)|Anonas (didysis magistras)]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
   pagrindžia:
     - c-001
 
@@ -58,7 +58,7 @@ Nenurodyta
   global_id: t-89425
   teiginys: 'Po pirmųjų statybų žudynių magistras vėl sušaukė žmones, užbaigė Štarkenbergo pilį ir jai ginti paskyrė brolių bei ginklanešių.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir aiškiai perteikia citatoje aprašytą pilies užbaigimą po žudynių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Štarkenbergas'
   pagrindžia:
     - c-001
 

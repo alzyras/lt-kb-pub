@@ -23,7 +23,6 @@ IL 4U 326 ## Puslapis 343 IV KNYGA tautoms, kurios paprastai patenka jų globai,
   global_id: t-86622
   teiginys: 'Apskritys turėjo būti perduotos tik užstato, o ne dominijos teise.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia skirtį tarp užstato ir dominijos teisės.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dominija|dominija]]'
   pagrindžia:
     - c-001
 

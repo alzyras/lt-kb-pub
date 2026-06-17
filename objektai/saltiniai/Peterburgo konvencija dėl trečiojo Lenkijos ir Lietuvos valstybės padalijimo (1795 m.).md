@@ -33,7 +33,7 @@ Sukilimo pralaimėjimas pagreitino finalą – 1795 m. spalio 24 d. Peterburge R
   global_id: t-21225
   teiginys: '1795 m. spalio 24 d. Peterburge Rusija, Austrija ir Prūsija pasirašė konvenciją dėl trečiojo Lenkijos ir Lietuvos valstybės padalijimo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie dokumento pasirašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Prūsija; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Peterburgas; mentioned_place: Prūsija; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1795 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie dokumento pasirašymą.'

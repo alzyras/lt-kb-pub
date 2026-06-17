@@ -20,7 +20,7 @@ dr. Jonas Arvasevičius Korektorė Ieva Puluikienė Fotografė Giedrė Maksimovi
 - t-001
   global_id: t-40631
   teiginys: 'Jonas Arvasevičius buvo leidinio kalbos redaktorius.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Loreta Uzdraitė|Loreta Uzdraitė]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171496|Karolis Zikaras]]: Karolis Zikaras buvo vienas iš šio leidinio iliustracijų rinkėjų.

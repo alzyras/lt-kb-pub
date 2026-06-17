@@ -45,12 +45,10 @@ Terminas žymi nustatytą kariuomenės skaičių ar karo etatą, nuo kurio prikl
   global_id: t-09709
   teiginys: 'Komputu lenkiškai vadintas karo tarybos nustatytas karo etatas.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, teiginys paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/karo taryba|karo taryba]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Turkija; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Turkija; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Francois Paulin Dalairac.md#claim-t-181536|Francois Paulin Dalairac]]: Francois Paulin Dalairac vadinasi lenkų autoramentu [Armee Polonoise], 0 ją sudaro du trečdaliai, tai yra 24 000 raitelių.
-- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairac rašė, kad Karūnos ir Lietuvos kariuomenė buvo padalyta į lenkų ir svetimšalių autoramentus.
-- susijęs iš Francois Paulin Dalairac atsiminimai apie Lenkijos ir Lietuvos kariuomenes: Francois Paulin Dalairaco atsiminimuose Lenkijos ir Lietuvos kariuomenės skirstomos į lenkų ir svetimšalių autoramentus.
+
 ## Reikšmingi paminėjimai
 
 - c-001

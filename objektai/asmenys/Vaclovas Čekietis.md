@@ -31,7 +31,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - t-001
   global_id: t-35304
   teiginys: '1392 m. Vaclovas Čekietis kartu su Zigmantu Vengriečiu ir Ordinu buvo tarp mėgintos sudaryti koalicijos prieš Lenkiją vyriausių vadų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1343 m.; įvykio data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -41,7 +41,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - t-002
   global_id: t-35305
   teiginys: 'Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.'
-  susije_objektai: 'territory: Dubysa; territory: Europa; territory: Nemunas; territory: Prancūzija; territory: Vokietija; territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'territory: Dubysa; territory: Europa; territory: Nemunas; territory: Prancūzija; territory: Vokietija; territory: Čekija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Dubysa; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Europa; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Nemunas; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Prancūzija; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Vokietija; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Čekija'
   pagrindžia:
     - c-001
@@ -54,7 +54,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina Vaclovo paminėtą vaidmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 

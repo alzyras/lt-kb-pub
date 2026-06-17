@@ -32,7 +32,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
 - t-001
   global_id: t-178763
   teiginys: 'Bazilijonų ordinas daugiausia rūpinosi unitų mokymu ir Lietuvoje turėjo kelias dešimtis vienuolynų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   global_id: t-178764
   teiginys: 'Konstantinas Ostrogiškis prie Švč. Trejybės cerkvės netoli Medininkų vartų įkurdino Šv. Bazilijaus ordino vienuolius.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo veikėją, vietą ir bazilijonų įkurdinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]]; mentioned_place: Medininkai'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   global_id: t-178765
   teiginys: 'Mamoničių spaustuvė vėliau, matyt, atiteko bazilijonams.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, glaustas ir išlaiko citatoje esantį atsargumą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Vilniuje šie turėjo net savą, popiežiaus išlaikomą, kunigų seminariją; m
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškių įvardžių ir OCR klaida, todėl faktą reikia suformuluoti aiškiai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Unitai|Unitai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 

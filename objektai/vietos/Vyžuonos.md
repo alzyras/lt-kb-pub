@@ -30,7 +30,6 @@ Verždamiesi toliau lietuviai ir vokiečiai užėmė Vyžuonas. Kolonos padalini
   global_id: t-42342
   teiginys: 'Kolonos padaliniai įsitvirtino Vyžuonose ir Vyžuonų dvare po to, kai buvo atsisakyta tolesnio puolimo.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir aiškiau susietas faktas su vieta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-001
 

@@ -10,7 +10,6 @@ tags:
   - kraštas
   - miestas
   - vieta
-  - vyskupas
 ---
 # Saremas
 

@@ -28,7 +28,7 @@ amziai:
   global_id: t-41104
   teiginys: 'A. Ramanauskas 1945 m. balandį įstojo į Nemunaičio apylinkių partizanų būrį ir iš karto buvo išrinktas jo vadu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie būrį ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Alytus'
+  susije_objektai: 'mentioned_place: Alytus'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie būrį ir tiesiogiai remiasi citata.'

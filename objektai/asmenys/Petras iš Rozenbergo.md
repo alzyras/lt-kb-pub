@@ -32,7 +32,7 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   global_id: t-60408
   teiginys: '1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinė formuluotė per daug išplėsta.'
-  susije_objektai: 'location: Prūsija; location: Reinas; location: Čekija; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Čekija'
+  susije_objektai: 'location: Prūsija; location: Reinas; location: Čekija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Petras iš Rozenbergo|Petras iš Rozenbergo]] keliavo į Prūsija; [[objektai/asmenys/Petras iš Rozenbergo|Petras iš Rozenbergo]] keliavo į Reinas; [[objektai/asmenys/Petras iš Rozenbergo|Petras iš Rozenbergo]] keliavo į Čekija'
   temporaliniai_duomenys: 'kelionės data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Petras iš Rozenbergo keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras iš Rozenbergo keliavo į Reinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras iš Rozenbergo keliavo į Čekija“, o ne visam objekto laikotarpiui.'

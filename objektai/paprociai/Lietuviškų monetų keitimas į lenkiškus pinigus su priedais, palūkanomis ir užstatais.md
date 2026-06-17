@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-87137
   teiginys: '1572 m. sausio 1–vasario 9 d. Varšuvoje lietuviškos monetos buvo keičiamos į lenkiškus pinigus, suma siekė 164 zl. 36 gr.'
   sudarymo_pagrindimas: 'Pirminis teiginys turi lotyniškų datų ir OCR triukšmo, citata pagrindžia glaustą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Monetos|Monetos]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1572 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys turi lotyniškų datų ir OCR triukšmo, citata pagrindžia glaustą faktą.'
@@ -64,7 +64,7 @@ Nenurodyta
   global_id: t-87138
   teiginys: 'Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą monetų keitimo faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_person: [[objektai/asmenys/Turčinas|Turčinas]]; mentioned_place: Brasta; mentioned_place: Lukovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/suma|suma]]; mentioned_place: Brasta; mentioned_place: Lukovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-78653
   teiginys: 'Kablinio šautuvo parako užtaisas per specialią angą būdavo uždegamas smilkstančiu virbu arba dagtimi.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie kablinio šautuvo veikimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]'
   pagrindžia:
     - c-002
 
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-78654
   teiginys: 'Kablinio šautuvo apačioje pritvirtintas žemyn nukreiptas kablys buvo skirtas stipriai šūvio atatrankai sušvelninti.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas, bet citata palaiko glaustesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Zaberezinskis.md#claim-t-40543|Zaberezinskis]]: Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos atmušė.

@@ -14,7 +14,6 @@ tags:
   - diplomatas
   - krikštas
   - popiežius
-  - vyskupas
 amziai:
   - 'XIV'
 periodo_grupes:

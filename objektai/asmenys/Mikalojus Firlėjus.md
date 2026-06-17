@@ -22,7 +22,7 @@ Mikalojus Firlėjus uoliai vykdė karaliaus įsakymą padėti puolamam Kiškai, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie Firlėjaus veiksmą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

@@ -29,7 +29,7 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   global_id: t-83302
   teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Patikslinta formuluotė, kad sakinys būtų sklandesnis ir tiksliau atitiktų citatą.'
-  susije_objektai: 'owner: Dniepras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_place: Dniepras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė'
+  susije_objektai: 'owner: Dniepras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė'
   semantiniai_rysiai: 'Dniestras priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Dniestras priklausė Dniepras; Dniestras priklausė Kijevas; Dniestras priklausė Lietuva; Dniestras priklausė Podolė'
   pagrindžia:
     - c-001

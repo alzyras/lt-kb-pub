@@ -30,7 +30,7 @@ Dusburgietis teigia, kad koeppen.— Marburg, 1958; [3 Lieferung): Nachträge, R
   global_id: t-60712
   teiginys: 'H. Koeppenas parengė „Preussisches Urkundenbuch“ trečio tomo 1342–1345 m. dalį ir ketvirtą tomą.'
   sudarymo_pagrindimas: 'Bibliografinė citata aiškiai nurodo Koeppeno parengtas leidinio dalis.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]'
   temporaliniai_duomenys: 'įvykio data: 1342-1345; įvykio data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinė citata aiškiai nurodo Koeppeno parengtas leidinio dalis.'

@@ -29,7 +29,7 @@ amziai:
   global_id: t-86229
   teiginys: '1581 m. viešosios rimties drumstėjai Vilniuje užpuolė reformatų maldos namus ir Danieliaus Lenčickio prižiūrimą spaustuvę.'
   sudarymo_pagrindimas: 'Citata palaiko užpuolimo faktą, o teiginys sutvarkytinas į glaustą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko užpuolimo faktą, o teiginys sutvarkytinas į glaustą enciklopedinį sakinį.'

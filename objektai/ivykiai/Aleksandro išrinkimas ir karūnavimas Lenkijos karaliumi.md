@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-186789
   teiginys: 'Redakcinė pastaba nurodo, kad Aleksandras Krokuvoje buvo vainikuotas 1501.XII.12.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Melnikas'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Melnikas'
   pagrindžia:
     - c-002
 

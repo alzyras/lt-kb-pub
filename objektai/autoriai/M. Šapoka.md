@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-19431
   teiginys: 'M. Šapoka redagavo leidinį „Millennium of Lithuania: Millennium Lithuaniae“, išleistą Vilniuje 2009 m.'
   sudarymo_pagrindimas: 'Citata nurodo redaktorių, leidinio pavadinimą, vietą ir metus.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_person: [[objektai/autoriai/H. Olszewski|H. Olszewski]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Olszewski|H. Olszewski]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo redaktorių, leidinio pavadinimą, vietą ir metus.'

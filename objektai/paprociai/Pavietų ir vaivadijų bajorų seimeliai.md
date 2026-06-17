@@ -39,7 +39,6 @@ Nenurodyta
   global_id: t-02002
   teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams ir turėjo skirtingus vardus pagal atliekamą funkciją.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata leidžia glaustai apibendrinti esmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 
@@ -48,7 +47,7 @@ Nenurodyta
   global_id: t-02003
   teiginys: 'Seimeliuose bajorija svarstydavo savo reikalus, rinkdavo teismą, kitus urėdus ir atstovus į seimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys tėra antraštė be faktinio predikato.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/urėdas|urėdas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-002
 

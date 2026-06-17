@@ -65,8 +65,7 @@ Nuo Nyderlandų nepriklausomybės kovų (1602 m. Ostendės gynybos) buvo naudoja
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
-- susijęs iš [[objektai/zodynas/Brandskugeliai karkasai.md#claim-t-42419|Brandskugeliai karkasai]]: Brandskugeliai buvo tuščiaviduriai ketaus sviediniai su padegamuoju mišiniu, o karkasai - ovalūs iš geležinių žiedų sudaryti padegamieji sviediniai.
+
 ## Reikšmingi paminėjimai
 
 - c-001

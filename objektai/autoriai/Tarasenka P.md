@@ -40,7 +40,7 @@ Dusburgietis teigia, kad rogajny), o rytiniame — prie Vištyčio miestelio —
   global_id: t-64858
   teiginys: 'P. Tarasenka cituojamas kaip šaltinis apie žmonių stebuklingu laikytą akmenį prie Vištyčio miestelio.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus siejimą su konkrečiu faktu, o pradinis tekstas yra fragmentiškas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/P. Tarasenka|P. Tarasenka]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Tarasenka|P. Tarasenka]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-002
 

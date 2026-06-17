@@ -28,7 +28,7 @@ Branskas apibūdinamas kaip Palenkės miestas. Branskas lokalizuojamas prie Nure
   teiginys: 'Branskas lokalizuojamas prie Nureco, Vakarų Bugo intako.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Bransko lokalizaciją. Jis neperima perteklinio konteksto apie Bielską.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Balstogė; mentioned_place: Bielskas; mentioned_place: Lenkija; mentioned_place: Narevas'
+  susije_objektai: 'mentioned_place: Balstogė; mentioned_place: Bielskas; mentioned_place: Lenkija; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Branskas apibūdinamas kaip Palenkės miestas. Branskas lokalizuojamas prie Nure
   teiginys: 'Branskas buvo Palenkės miestas, 1971 m. leidimo komentare priskirtas Lenkijos Balstogės vaivadijai.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Patikslinta, kad administracinė lokalizacija yra leidimo komentaro teiginys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Balstogė; mentioned_place: Bielskas; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_place: Balstogė; mentioned_place: Bielskas; mentioned_place: Lenkija; mentioned_place: Narevas; mentioned_place: Palenkė'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta, kad administracinė lokalizacija yra leidimo komentaro teiginys.'

@@ -38,10 +38,7 @@ Vartojamos formos: `šaldrų`, `prašaleičių`, `prašaleičiai`.
   teiginys: '`Šaldrų / prašaleičių` šiame tekste reiškia svetimus atvykėlius ar prašalaičius.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Namas.md#claim-t-08307|Namas]]: Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.
-- susijęs iš [[objektai/daiktai/Ūkės lazda.md#claim-t-08362|Ūkės lazda]]: Lazda siejama su krive krivaičiu ir kreiva lazda.
-- susijęs iš [[objektai/zodynas/Nomadžiai.md#claim-t-07634|nomadžiai]]: Nomadžiais prašaliečiai vadino visą tautą, nes šis vardas aiškintas kaip žmonės, gyvenantys namuose.
-- susijęs iš [[objektai/zodynas/Žiuponai.md#claim-t-07692|žiuponai]]: Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.
+
 ## Reikšmingi paminėjimai
 
 - c-001

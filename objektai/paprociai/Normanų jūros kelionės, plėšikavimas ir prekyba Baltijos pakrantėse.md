@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-87178
   teiginys: 'IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki citata pagrįsto fakto be perteklinių vertinamųjų fragmentų.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Normanai|Normanai]]; counterparty: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
+  susije_objektai: 'counterparty: [[objektai/grupes/Normanai|Normanai]]; mentioned_group: [[objektai/grupes/Normanai|Normanai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-002
 

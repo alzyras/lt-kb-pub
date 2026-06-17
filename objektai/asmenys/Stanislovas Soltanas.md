@@ -22,7 +22,7 @@ Lietuvos atstovai pasirodė net garbingiau nei Lenkijos – iš penkių balsų, 
   global_id: t-19245
   teiginys: 'LDK rūmų maršalas Stanislovas Soltanas buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.'
   sudarymo_pagrindimas: 'Pašalinta neužbaigta pavardė ir paliktas citatos palaikomas faktas apie asmenį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis maršalas|didysis maršalas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Ignotas Potockis.md#claim-t-18924|Ignotas Potockis]]: LDK didysis maršalas Ignotas Potockis buvo vienas iš trijų Lietuvos atstovų, balsavusių už priešinimąsi.

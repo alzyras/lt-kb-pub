@@ -21,7 +21,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   global_id: t-100141
   teiginys: 'Klaudijas Ptolemajas „Geografijoje“ pateikė galindų ir sūdinų vardus kaip du neabejotinus baltų kilčių vardus.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi įvardžio ir nutrūkusios citatos fragmentą, todėl jį reikia suformuluoti kaip pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_person: [[objektai/autoriai/Klaudios Ptolemaios|Klaudios Ptolemaios]]; mentioned_person: [[objektai/asmenys/Ptolemajas|Ptolemajas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Klaudios Ptolemaios|Klaudios Ptolemaios]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Galindai|Galindai]]'
   pagrindžia:
     - c-001
 

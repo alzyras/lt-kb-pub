@@ -31,7 +31,7 @@ Berija ir apie ką jie kalbėjo, iki šiol nežinoma.
   global_id: t-19104
   teiginys: 'Lavrentijus Berija lankė Joną Žemaitį-Vytautą kameroje, o šis apsilankymas rodo, kad Berija partizaninį karą Lietuvoje laikė rimta grėsme sovietų valdymui.'
   sudarymo_pagrindimas: 'Išplėsti inicialai ir pašalinta dviprasmybė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1951 m.; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėsti inicialai ir pašalinta dviprasmybė.'

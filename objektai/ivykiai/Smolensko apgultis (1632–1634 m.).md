@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-09880
   teiginys: '1634 m. sausio 24 d. Vladislovo Vazos vadovaujama lietuvių ir lenkų kariuomenė privertė rusų pajėgas kapituliuoti prie Smolensko.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Krymo totoriai|Krymo totoriai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_person: [[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1633 m.; įvykio data: 1634 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako veikėją, veiksmą, datą ir rezultatą.'
@@ -53,7 +53,7 @@ Nenurodyta
 - t-002
   global_id: t-09881
   teiginys: 'Smolenską gynė apie 2 tūkst. Lietuvos karių, miestas buvo smarkiai apšaudytas ir šturmuojamas, bet nesėkmingai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Gonsevskis|Aleksandras Gonsevskis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Gonsevskis|Aleksandras Gonsevskis]]; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
@@ -74,9 +74,9 @@ Nenurodyta
   global_id: t-09883
   teiginys: '1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Lietuva; object: [[objektai/grupes/Maskvėnai|Maskvėnai]]; object: [[objektai/grupes/Rusai|Rusai]]; object: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'object: Lietuva; object: [[objektai/grupes/Maskvėnai|Maskvėnai]]; object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mūšio data: 1632 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas puolė Zigmantas (Romos imperatorius)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Maskvėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas puolė Maskvėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001

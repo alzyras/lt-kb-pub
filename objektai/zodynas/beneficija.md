@@ -22,13 +22,10 @@ O brangiausius mūsų brolius Viešpatyje, Vilniaus bažnyčios prelatus ir kana
   global_id: t-86583
   teiginys: 'Vilniaus bažnyčios prelatai, kanauninkai ir kiti diecezijos beneficijų turėtojai buvo raginami dalį skirti kolegijai.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra citatos fragmentas; perrašyta į savarankišką faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Mykolas Glinskis.md#claim-t-184801|Mykolas Glinskis]]: Pagal sutarties sąlygas Mykolas Glinskis turėjo likti Maskvos kunigaikštystėje kaip tremtinys be vilties sugrįžti.
-- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185780|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Jonui Sapiegai, karaliaus vardu valdžiusiam Vitebską, buvo pavesta tartis su Vasilijaus pasiuntiniais dėl taikos sąlygų.
-- susijęs iš [[objektai/ivykiai/Vasilijaus taikos prašymas ir taika su maskvėnais.md#claim-t-185781|Vasilijaus taikos prašymas ir taika su maskvėnais]]: Paskelbus taikos su maskvėnais sąlygas, dalis žmonių reiškė nepasitenkinimą paskutiniuoju susitarimo straipsniu.
-- susijęs iš Silezija: Pagal Vladislovo ir Jono susitarimą Jonas turėjo gauti Sileziją kaip beneficiją iš Vladislovo.
+
 ## Reikšmingi paminėjimai
 
 - c-001

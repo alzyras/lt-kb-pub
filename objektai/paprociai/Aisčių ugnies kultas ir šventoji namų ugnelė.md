@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-12421
   teiginys: 'Senovės Lietuvoje nėra rimtų liudijimų apie tikybos šventnamius, o šventosios ugnies pastogės, jei buvo, neišsiskyrė iš paprastų trobesių.'
   sudarymo_pagrindimas: 'Teiginys faktinis, bet sutvarkytas ir labiau susietas su šventąja ugnimi.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -74,7 +74,7 @@ Nenurodyta
   global_id: t-93015
   teiginys: 'Senovės Lietuvoje žinoma keletas kulto tarnų vardų, bet nerasta jų organizacinio ryšio ar rimtų tikybos šventnamių liudijimų.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje liko OCR ir išnašos triukšmo, todėl jį reikia sutvarkyti.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Grunau|S. Grunau]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 

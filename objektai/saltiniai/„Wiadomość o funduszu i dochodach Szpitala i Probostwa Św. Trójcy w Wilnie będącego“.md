@@ -29,7 +29,7 @@ amziai:
   global_id: t-88519
   teiginys: '„Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą dokumento datą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/koadjutorius|koadjutorius]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   temporaliniai_duomenys: 'įvykio data: 1788 m.; įvykio data: 1789 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatoje pateiktą dokumento datą.'

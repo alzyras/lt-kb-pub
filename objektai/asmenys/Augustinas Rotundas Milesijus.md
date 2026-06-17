@@ -32,7 +32,7 @@ Augustinas Rotundas Milesijus (Mieleskis), abiejų teisių daktaras, išrinktas 
   global_id: t-87906
   teiginys: 'Augustinas Rotundas Milesijus buvo bajoras ir abiejų teisių daktaras, 1542 m. išrinktas iš magistrato narių.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, išlaikant tik citatoje nurodytus faktus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]'
   temporaliniai_duomenys: 'įvykio data: 1511 m.; įvykio data: 1527 m.; įvykio data: 1542 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta sklandžiau, išlaikant tik citatoje nurodytus faktus.'

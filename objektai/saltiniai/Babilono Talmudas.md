@@ -22,7 +22,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   global_id: t-78116
   teiginys: 'Sklido gandai, kad Vilniaus išminčiai atmintinai mokėjo visus 64 Talmudo tomus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir remiasi citatoje nurodytais gandais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/litvakai Lite litviš|litvakai Lite litviš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -31,7 +31,7 @@ Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose 
   global_id: t-78117
   teiginys: 'Vilniaus Gaonas redagavo ir komentavo Babilono Talmudą; tai citatoje įvardijama kaip didžiausias jo nuopelnas.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie Babilono Talmudo redagavimą ir komentavimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/ješiva|ješiva]]; mentioned_person: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

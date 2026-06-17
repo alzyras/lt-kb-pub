@@ -21,7 +21,7 @@ Hermanas Corneris minimas kaip dominikonas ir kronikos autorius. Jo kronika citu
   global_id: t-54637
   teiginys: 'Hermanas Corneris savo kronikoje Gedimino laiškų neminėjo ir viską priskyrė Rygos arkivyskupui.'
   sudarymo_pagrindimas: 'Manual fix after rewrite gate.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Ryga'
   pagrindžia:
     - c-001
 

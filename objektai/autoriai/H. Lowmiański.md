@@ -30,7 +30,7 @@ H. Lowmiański minimas kaip istorikas ir tyrėjas; šiame tome jo darbai pasitel
   global_id: t-05941
   teiginys: 'H. Lowmiański 1931–1932 m. Vilniuje išleido dviejų tomų veikalą „Studja nad początkami społeczeństwa i państwa litewskiego“.'
   sudarymo_pagrindimas: 'Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/I. Lappo|I. Lappo]]; mentioned_place: Petrapilis; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/I. Lappo|I. Lappo]]; mentioned_place: Petrapilis; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1931-1932; įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia pridėti leidimo vietą, metus ir tomų skaičių.'

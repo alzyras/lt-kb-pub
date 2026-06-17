@@ -21,7 +21,7 @@ Dusburgietis teigia, kad ragaina — miškų deivė (Lasickis J., Apie žemaiči
   global_id: t-61067
   teiginys: 'Dovydaičio ir Biržiškos veikalo „Auka“ puslapiai 153–154 nurodomi prie liaudyje žinomų aukų Ragiui ir Ragei.'
   sudarymo_pagrindimas: 'Teiginys performuluotas kaip aiški nuoroda į šaltinio turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 

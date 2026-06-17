@@ -32,7 +32,6 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   global_id: t-79110
   teiginys: 'Kunigaikštis Michailas Bulgakovas-Golica Oršos mūšyje vadovavo dešiniajam flangui.'
   sudarymo_pagrindimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]'
   temporaliniai_duomenys: 'įvykio data: 1516 m.; įvykio data: 1551 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Claimas yra aiškus, gramatiškas ir paremtas citata.'
@@ -44,7 +43,6 @@ Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršo
   global_id: t-79111
   teiginys: 'Kunigaikštis Michailas Bulgakovas-Golica, vienas iš vaivadų, pasiųstų Oršos link, mūšyje vadovavo dešiniajam flangui.'
   sudarymo_pagrindimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/flangas|flangas]]'
   temporaliniai_duomenys: 'įvykio data: 1516 m.; įvykio data: 1551 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Claimas yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'

@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-59430
   teiginys: 'Per sūduvių žygį į pelkes sprukusi krikščionė pasipriešino ją ketinusiam nužudyti sūduvių kariui ir jį mirtinai užtroškino dumblu.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų epizodą, o pradinis teiginys nebaigtas ir per daug pažodinis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 

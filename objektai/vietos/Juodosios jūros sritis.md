@@ -24,7 +24,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   global_id: t-28525
   teiginys: 'Pietuose valstybė apėmė plačią Podoliją, nusitęsusią link Juodosios jūros srities stepių.'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandesnę, aiškią faktinę formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Volga'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Volga'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,7 @@ Pietuose ji apėmė plačią Podoliją, nusitęsusią link stepių Juodosios jū
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perrašytas be neaiškaus įvardžio ir su citatoje esančiu kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Viena; mentioned_place: Volga'
   pagrindžia:
     - c-002
 

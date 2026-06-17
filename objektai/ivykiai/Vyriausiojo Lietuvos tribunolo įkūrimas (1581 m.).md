@@ -46,7 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-66984
   teiginys: 'Vyriausiasis Lietuvos tribunolas buvo svarstytas keliuose Lietuvos seimuose ir galutinai įkurtas 1581 m.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos tribunolas|Vyriausiasis Lietuvos tribunolas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vyriausiasis Lietuvos tribunolas|Vyriausiasis Lietuvos tribunolas]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1578 m.; įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

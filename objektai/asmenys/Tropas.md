@@ -22,7 +22,7 @@ Dusburgietis teigia, kad taip pat buvęs jų nužudytas dar vienas vyras, vardu 
   global_id: t-60449
   teiginys: 'Petras Dusburgietis Tropą mini kaip nužudytą labai taurų ir karštai tikintį vyrą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Tropą ir tiksliai perteikia citatos informaciją bei vertinimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Adomo Mickevičiaus paminklas Vilniuje.md#claim-t-101534|Adomo Mickevičiaus paminklas Vilniuje]]: 1987 m. rugpjūčio 23 d. LLL iniciatyva prie Adomo Mickevičiaus paminklo Vilniuje surengtas protesto mitingas.

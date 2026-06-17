@@ -10,7 +10,6 @@ tags:
   - karalius
   - kunigaikštis
   - miestas
-  - vyskupas
 ---
 # Henrikas (Mazovijos kunigaikštis)
 

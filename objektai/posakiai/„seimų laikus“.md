@@ -29,7 +29,7 @@ Voldemaras atvirai pabrėždavo stiprių prezidento galių būtinybę, nevertino
   global_id: t-20942
   teiginys: 'A. Smetona ir A. Voldemaras pabrėžė stiprias prezidento galias ir neketino grįžti į „seimų laikus“, prilygintus netvarkai bei anarchijai.'
   sudarymo_pagrindimas: 'Citata mini abu veikėjus, todėl teiginį reikia patikslinti ir sutrumpinti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]'
   temporaliniai_duomenys: 'įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata mini abu veikėjus, todėl teiginį reikia patikslinti ir sutrumpinti.'

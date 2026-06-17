@@ -30,7 +30,7 @@ Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais, V
   global_id: t-39939
   teiginys: 'A. Daugirdo „Vilniaus pedagoginio universiteto studentų-savanorių kuopa 1991-1996 metais“ išleista Vilniuje 2011 m.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą apie šaltinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 2011 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą apie šaltinį.'

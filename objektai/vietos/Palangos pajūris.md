@@ -27,7 +27,7 @@ Tik Palangos pajūris (nuo Šventosios) ir kai kurios Pakuršės lietuviškos so
   global_id: t-02652
   teiginys: 'Palangos pajūris nuo Šventosios buvo priskirtas prie Lietuvos.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki fakto apie Palangos pajūrį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Palanga; mentioned_place: Žiemgala'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas iki fakto apie Palangos pajūrį.'

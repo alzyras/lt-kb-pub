@@ -23,7 +23,7 @@ Dusburgietis teigia, kad kronikos autorius, politiniai ir ideologiniai uždavini
   global_id: t-58915
   teiginys: 'Dusburgiečio dedikacija rodo, kad jis buvo Kryžiuočių ordino brolis kunigas, o vėliau galėjo būti magistro kapelionas.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos informaciją apie Dusburgiečio statusą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]'
   pagrindžia:
     - c-001
 

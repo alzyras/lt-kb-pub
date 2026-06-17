@@ -29,7 +29,7 @@ Kuczyński, S. Kuczyński : Wielka wojna z Zakonem Krzyżackim w latach 1409-11 
 - t-001
   global_id: t-30994
   teiginys: 'St. M. Kuczyński 1955 m. Varšuvoje paskelbė veikalą „Wielka wojna z Zakonem Krzyżackim w latach 1409-11“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Jakubovskis|J. Jakubovskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Jakubovskis|J. Jakubovskis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1955 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

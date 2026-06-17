@@ -36,7 +36,7 @@ Vartojamos formos: `viežą`, `viežos`.
   global_id: t-07714
   teiginys: 'Vieža Daukanto tekste buvo žemėje iškasta, kartais išmūryta duobė kaltininkams nustatytą laiką kalinti.'
   sudarymo_pagrindimas: 'Citata remia aiškesnę ir konkretesnę termino reikšmę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Dybas.md#claim-t-08289|Dybas]]: Kaltininkus pririšdavo prie dybo ir plakdavo.

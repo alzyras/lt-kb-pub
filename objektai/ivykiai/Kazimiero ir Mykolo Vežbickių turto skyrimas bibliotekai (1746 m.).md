@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-86951
   teiginys: '1746 m. Kazimieras ir Mykolas Vežbickiai skyrė bibliotekai lėšas iš mūrinių namų ir Užupio sklypų pelno knygoms gausinti.'
   sudarymo_pagrindimas: 'Citata pagrindžia metus, veikėjus, turto šaltinius ir paskirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Užupis'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaišių stalai|Vaišių stalai]]; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Užupis'
   temporaliniai_duomenys: 'įvykio data: 1746 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia metus, veikėjus, turto šaltinius ir paskirtį.'

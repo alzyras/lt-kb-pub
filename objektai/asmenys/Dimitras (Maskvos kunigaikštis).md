@@ -36,7 +36,7 @@ Bet kadaise Europą drebėti vertusi jų galybė jau buvo žuvusi, puolama Algir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys prasideda kontekstiniu fragmentu.'
-  susije_objektai: 'territory: Europa; territory: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
+  susije_objektai: 'territory: Europa; territory: Maskva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
   semantiniai_rysiai: '[[objektai/asmenys/Dimitras (Maskvos kunigaikštis)|Dimitras (Maskvos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)|Dimitras (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-002

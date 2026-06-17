@@ -22,7 +22,7 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į sklandesnį pilną sakinį, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jazbutas|Jazbutas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Narevas'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Liudviko Libencelės kariai tais pačiais metais nukovė dvidešimt penkis Aukai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Liudviko Libencelės veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_place: Kimelis; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kimelis; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

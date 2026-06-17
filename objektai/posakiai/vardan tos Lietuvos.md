@@ -32,7 +32,7 @@ Formulė pateikiama kaip patriotinė kovos ir ištvermės ašis, siejama su Vyta
 - t-001
   global_id: t-36022
   teiginys: 'Posakis „vardan tos Lietuvos“ siejamas su patriotizmu, praeities meile ir jėgomis kovoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/tautinė sąmonė|tautinė sąmonė]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tautinė sąmonė|tautinė sąmonė]]'
   pagrindžia:
     - c-002
 

@@ -24,7 +24,7 @@ Toliau, Lietuvoje jokio teismo sprendimas nubausti ką nors infamija ar banicija
   global_id: t-74030
   teiginys: 'Lietuvoje teismo sprendimas dėl infamijos ar banicijos negaliojo, kol jo nepatvirtindavo kancleris.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas; citata leidžia suformuluoti glaustesnį sakinį apie note objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -64,7 +64,7 @@ Reikšmė aiški iš citatos konteksto ir neplečiama už tiesioginio šaltinio 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Perekopas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš Maskva: Balińskis teigė, kad Maskvoje buvo išlikęs priežodis: kas Vilniuje nebuvo, tas stebuklų neregėjo.
+
 ## Reikšmingi paminėjimai
 
 - c-001

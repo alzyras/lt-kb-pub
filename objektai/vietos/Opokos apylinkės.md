@@ -28,7 +28,7 @@ Galiausiai buvo nusiaubtos Opokos apylinkės.
   global_id: t-41984
   teiginys: '1581 m. K. Radvilos Perkūno reido metu buvo nusiaubtos Opokos apylinkės.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo kontekstinis; citata leidžia aiškiai susieti įvykį su 1581 m. reidu.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis)|K. Radvilos Perkūno reidas (1581 m. liepa-spalis)]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo kontekstinis; citata leidžia aiškiai susieti įvykį su 1581 m. reidu.'

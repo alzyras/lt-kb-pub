@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-31738
   teiginys: '„Jaunutis, Gedimino sūnus“ nurodytas LE 9 tome, 355–356 puslapiuose.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Liubartas Gediminaitis|Liubartas Gediminaitis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Liubartas Gediminaitis|Liubartas Gediminaitis]]'
   pagrindžia:
     - c-001
 

@@ -22,7 +22,7 @@ Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „K
   global_id: t-41482
   teiginys: 'Kryžiuočiai, pamanę, jog mūšis laimėtas, užtraukė pergalės giesmę „Kristus prisikėlė“.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, turi aiškų veikėją ir veiksmą, o citata jį palaiko.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/flangas|flangas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10168|Vėliavos]]: Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.

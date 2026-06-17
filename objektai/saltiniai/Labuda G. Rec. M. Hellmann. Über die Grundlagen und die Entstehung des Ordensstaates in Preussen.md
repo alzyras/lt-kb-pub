@@ -27,7 +27,6 @@ Dusburgietis teigia, kad labuda G.
   global_id: t-61121
   teiginys: 'G. Labudos recenzija apie M. Hellmanno „Über die Grundlagen und die Entstehung des Ordensstaates in Preussen“ paskelbta 1964 m. Torunėje, ZHP 29 tome.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie recenzijos publikaciją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1964 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie recenzijos publikaciją.'

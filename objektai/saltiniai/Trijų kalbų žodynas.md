@@ -29,7 +29,6 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   global_id: t-21286
   teiginys: '„Trijų kalbų žodynas“ buvo Konstantino Sirvydo veikalas, pasirodęs 1620 m.'
   sudarymo_pagrindimas: 'Pirminė formuluotė per daug vertinamoji; citata remia autorių, pavadinimą ir datą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
   temporaliniai_duomenys: 'įvykio data: 1620 m.; įvykio data: 1741 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminė formuluotė per daug vertinamoji; citata remia autorių, pavadinimą ir datą.'
@@ -44,7 +43,7 @@ Iškalbingas yra Konstantino Sirvydo veikalo pavadinimas – „Trijų kalbų ž
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie žodyno turinį ir tvarką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
 

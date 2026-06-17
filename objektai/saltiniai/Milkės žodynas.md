@@ -28,7 +28,7 @@ amziai:
   global_id: t-02247
   teiginys: '1800 m. prakalboje Milkės žodynui Kantas teigė, kad lietuvių kultūrinės teisės palaikytinos.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, o citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_person: [[objektai/autoriai/Milkė|Milkė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Milkė|Milkė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1800 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, o citata leidžia suformuluoti aiškų faktą.'

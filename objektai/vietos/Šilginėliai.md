@@ -22,7 +22,7 @@ Raudonarmiečiai, matydami, jog jų artilerija lietuvių Dar tą pačią vasario
   global_id: t-80614
   teiginys: 'Vasario 7 d. bolševikai kelis kartus puolė Šilginėlių kaime buvusią lietuvių sargybą, mėgindami pralaužti jos gynybą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pirminis teiginys prideda citatoje nenurodytus metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_place: Kaimas; mentioned_place: Kėdainiai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Geltonas lankelis ant kepurės.md#claim-t-78651|Geltonas lankelis ant kepurės]]: Pirmojo pavyzdžio uniformą gavę Lietuvos kariai dėvėjo kepures su geltonomis juostomis ir trispalvius kairės rankovės antsiuvus.

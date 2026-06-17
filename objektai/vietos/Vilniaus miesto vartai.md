@@ -10,7 +10,6 @@ tags:
   - pilis
   - pinigai
   - transportas
-  - vieta
 ---
 # Vilniaus miesto vartai
 

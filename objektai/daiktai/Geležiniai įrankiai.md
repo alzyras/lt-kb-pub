@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-31107
   teiginys: 'J. Stankus rašė apie geležinių įrankių technologiją Lietuvoje V-VIII ir IX-XIII a.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje minimą J. Stankaus tyrimų temą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_person: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_person: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_person: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/E. Danilaitė|E. Danilaitė]]; mentioned_author: [[objektai/autoriai/E. Radzvilovaitė|E. Radzvilovaitė]]; mentioned_author: [[objektai/autoriai/J. Stankus|J. Stankus]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Brūkšniuotoji keramika|Brūkšniuotoji keramika]]; mentioned_object: [[objektai/daiktai/Sidabro dirbiniai|Sidabro dirbiniai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

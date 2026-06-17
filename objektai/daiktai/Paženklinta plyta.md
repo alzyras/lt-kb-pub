@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-08313
   teiginys: 'Paskuojoji plyta turėjo dvikežį skersį, o ženklas buvo siunčiamas didžiajam kunigaikščiui.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

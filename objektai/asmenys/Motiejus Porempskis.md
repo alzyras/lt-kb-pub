@@ -23,7 +23,7 @@ O būtent, iš besiskundžiančiųjų pusės - Mikalojus Unga­ rns, Pilypas Gla
   global_id: t-87797
   teiginys: 'Motiejus Porempskis buvo vienas iš besiskundžiančiųjų, reikalavusių kaltinamajam taikyti privilegijoje numatytą bausmę.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas citatos palaikomas procesinis vaidmuo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Cechas|Cechas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Pilypas|Pilypas]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Albertas Skvemevita.md#claim-t-87609|Albertas Skvemevita]]: Albertas Skvemevita per įgaliotinius reikalavo, kad kaltinamasis pripažintų civilinę teisę ir paklustų auksakalių cechui.

@@ -32,7 +32,7 @@ Tuo būdu ordino centras pasidarė Marijenburgas. Lenkija atgavo savo Pamarį, D
 - t-001
   global_id: t-43757
   teiginys: 'Pagal 1466 m. Torno taiką Lenkijai atiteko Elbingas, Marijenburgas ir visa Varmijos vyskupystė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Tornas; mentioned_place: Torno; mentioned_place: Varmijos vyskupystė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_place: Dancigas; mentioned_place: Lenkija; mentioned_place: Tornas; mentioned_place: Torno; mentioned_place: Varmijos vyskupystė'
   temporaliniai_duomenys: 'įvykio data: 1466 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

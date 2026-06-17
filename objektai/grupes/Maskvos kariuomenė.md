@@ -23,7 +23,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   global_id: t-38877
   teiginys: 'Lietuvos ir Lenkijos šaltinių duomenimis, Vasilijaus III sutelktoje Maskvos kariuomenėje buvo 80 000 karių, daugiausia raitelių.'
   sudarymo_pagrindimas: 'Reikia pašalinti antraštės triukšmą ir pataisyti OCR klaidą valdovo varde.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/murza|murza]]; mentioned_person: [[objektai/asmenys/Madykas|Madykas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Madykas|Madykas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
   pagrindžia:
     - c-002
 
@@ -32,7 +32,7 @@ Maskvos pajėgos Vasilijaus 111 sutelktą Maskvos kariuomenę sudarė (Lietuvos 
   global_id: t-38878
   teiginys: 'Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.'
   sudarymo_pagrindimas: 'Pradinis sakinys gramatiškai nepakankamai savarankiškas, todėl patikslintas objektas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/murza|murza]]; mentioned_person: [[objektai/asmenys/Madykas|Madykas]]; mentioned_person: [[objektai/asmenys/Sivindukas|Sivindukas]]; mentioned_place: Dorogobužas; mentioned_place: Maskva; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Madykas|Madykas]]; mentioned_person: [[objektai/asmenys/Sivindukas|Sivindukas]]; mentioned_place: Dorogobužas; mentioned_place: Maskva; mentioned_place: Tverė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Zigmantas Herberšteinas.md#claim-t-40547|Zigmantas Herberšteinas]]: Diplomatas Zigmantas Herberšteinas vėliau aprašė mūšį ir perteikė Čeliadnino žodžius apie Lietuvos kariuomenės persikėlimą.

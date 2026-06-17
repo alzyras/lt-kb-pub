@@ -24,7 +24,7 @@ Dusburgietis teigia, kad tačiau nenorėdami grįžti tuščiomis rankomis, užp
   global_id: t-58880
   teiginys: 'Sodžių, tiek ir vieno kiemo nobilio gyvenvietę.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Aukaimis; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Aukaimis; mentioned_place: Kaimas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

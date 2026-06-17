@@ -55,7 +55,7 @@ Nenurodyta
 - t-001
   global_id: t-08355
   teiginys: 'Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
   pagrindžia:
     - c-001
 
@@ -63,7 +63,7 @@ Nenurodyta
 - t-002
   global_id: t-08356
   teiginys: 'Prie karūžojo buvo laikoma karės vėliava tos apykartos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/Perveiza|Perveiza]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -71,7 +71,7 @@ Nenurodyta
 - t-003
   global_id: t-08357
   teiginys: 'Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Skydas|Skydas]]'
   pagrindžia:
     - c-003
 
@@ -99,7 +99,7 @@ Nenurodyta
 - t-006
   global_id: t-10168
   teiginys: 'Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/posakiai/„Kristus prisikėlė“|„Kristus prisikėlė“]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„Kristus prisikėlė“|„Kristus prisikėlė“]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-008
 
@@ -115,7 +115,7 @@ Nenurodyta
 - t-008
   global_id: t-12341
   teiginys: 'Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Drevenca; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Drevenca; mentioned_place: Krokuva'
   pagrindžia:
     - c-006
 
@@ -168,7 +168,7 @@ Nenurodyta
   global_id: t-176210
   teiginys: 'Vyriausioji Lenkijos vėliava pateko į priešų rankas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Ulrichas von Jungingenas|Ulrichas von Jungingenas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-009
 
@@ -177,7 +177,7 @@ Nenurodyta
   global_id: t-176211
   teiginys: 'Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir susietas su vėliavomis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_object: [[objektai/posakiai/„Kristus prisikėlė“|„Kristus prisikėlė“]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/posakiai/„Kristus prisikėlė“|„Kristus prisikėlė“]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-008
 
@@ -216,7 +216,7 @@ Nenurodyta
   global_id: t-176215
   teiginys: 'XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų konstrukcijos pobūdį ir padaryti sakinį tikslesnį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Gediminaičių stulpai|Gediminaičių stulpai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Gediminaičių stulpai|Gediminaičių stulpai]]; mentioned_object: [[objektai/daiktai/Stulpai|Stulpai]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'įvykio data: 1399 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų konstrukcijos pobūdį ir padaryti sakinį tikslesnį.'

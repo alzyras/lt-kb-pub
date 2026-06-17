@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1255 m. Brandenburgo markgrafas Jonas žiemą atžygiavo į Prūsiją, bet dėl šiltos žiemos nepasiekė savo tikslo.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia aiškesnį enciklopedinį sakinį apie žygio nesėkmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1255 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia aiškesnį enciklopedinį sakinį apie žygio nesėkmę.'

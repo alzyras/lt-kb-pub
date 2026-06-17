@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi nereikalingą autorinę formulę ir OCR skiemenavimo liekanų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_place: Krymas'
   pagrindžia:
     - c-001
 

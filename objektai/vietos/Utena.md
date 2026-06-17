@@ -34,7 +34,7 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   global_id: t-172016
   teiginys: '1919 m. gegužės 24 d. gen. S. Žukauskas įsakė K. Ladygos vadovaujamai Ukmergės rinktinei žygiuoti Ukmergės–Daugpilio plentu ir užimti Uteną.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų įtrauktas citatoje nurodytas žygio kelias ir aiškus tikslas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Ukmergė'
+  susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Lietuva; mentioned_place: Ukmergė'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad būtų įtrauktas citatoje nurodytas žygio kelias ir aiškus tikslas.'

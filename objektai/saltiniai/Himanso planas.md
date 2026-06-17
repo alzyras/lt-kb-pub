@@ -33,7 +33,7 @@ Abi šalys sutarė priimti tą planą kaip „bazę diskusijom“. 1921 m. vasar
   global_id: t-45675
   teiginys: 'Lenkijos ir Lietuvos federacijos planas suiro, o Maskva tai vertino kaip didžiausią savo diplomatijos laimėjimą.'
   sudarymo_pagrindimas: 'Sakinys pilnas ir paremtas citatoje pateiktu vertinimu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 

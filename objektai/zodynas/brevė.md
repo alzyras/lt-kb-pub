@@ -35,11 +35,7 @@ Italijoje), kur jie buvo maloniai priimti ir gavo jo brevę (1388.
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė yra OCR fragmentas; citata leidžia suformuluoti aiškų faktą apie brevę.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176308|Algirdas (Lietuvos valdovas)]]: Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.
-- susijęs iš [[objektai/asmenys/Dobrogostas.md#claim-t-82254|Dobrogostas]]: Poznanės vyskupas Dobrogostas buvo pasiųstas pas popiežių Urboną VI ir anksčiau tarpininkavo Algirdui bei Inocentui VI.
-- susijęs iš [[objektai/asmenys/Inocentas VI.md#claim-t-35100|Inocentas VI]]: Inocentas VI buvo popiežius, kurio santykiuose su Algirdu kartą tarpininkavo Poznanės vyskupas Dobrogostas.
-- susijęs iš [[objektai/ivykiai/Vilniaus vyskupystės įkūrimas.md#claim-t-176181|Vilniaus vyskupystės įkūrimas]]: Popiežius Urbonas VI įgaliojo vyskupą Dobrogostą sutvarkyti bažnytinius reikalus Lietuvoje ir įkurti Vilniaus vyskupiją.
-- susijęs iš Perudžija: 1388 m. balandžio 8 d. pasiuntiniai Perudžijoje rado popiežių ir gavo jo brevę.
+
 ## Reikšmingi paminėjimai
 
 - c-001

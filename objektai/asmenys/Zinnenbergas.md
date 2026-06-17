@@ -30,7 +30,7 @@ Iš tiesų jau 1323 metų pradžioje atvyko riteriai Zinnenbergas ir Egerbergas 
   global_id: t-87893
   teiginys: '1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.'
   sudarymo_pagrindimas: 'Citata tiksliau kalba apie du riterius, todėl teiginys pataisytas.'
-  susije_objektai: 'location: Vilnius; location: Čekija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Egerbergas|Egerbergas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius; mentioned_place: Čekija'
+  susije_objektai: 'location: Vilnius; location: Čekija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Egerbergas|Egerbergas]]; mentioned_place: Vilnius; mentioned_place: Čekija'
   semantiniai_rysiai: '[[objektai/asmenys/Zinnenbergas|Zinnenbergas]] keliavo į Vilnius; [[objektai/asmenys/Zinnenbergas|Zinnenbergas]] keliavo į Čekija'
   pagrindžia:
     - c-001

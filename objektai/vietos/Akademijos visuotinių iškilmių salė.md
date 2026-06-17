@@ -42,7 +42,7 @@ Salė lokalizuojama įėjus pro didžiuosius bažnyčios vartus, kairėje pusėj
   global_id: t-55240
   teiginys: 'Akademijos visuotinių iškilmių salėje buvo 20 paprastos tapybos portretų ir trimis eilėmis išrikiuoti mediniai suolai.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia aiškiai įvardyti salę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

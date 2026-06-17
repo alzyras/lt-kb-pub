@@ -23,7 +23,7 @@ tags:
 - t-001
   global_id: t-68911
   teiginys: 'Ordinas išvežė žymesniųjų Žemaičių bajorų vaikus į Pavyslį kaip įkaitus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-001
 

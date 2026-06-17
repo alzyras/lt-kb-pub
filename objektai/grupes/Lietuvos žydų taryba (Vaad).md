@@ -27,7 +27,7 @@ amziai:
   global_id: t-74811
   teiginys: '1920 m. sudaryta Lietuvos žydų taryba (Vaad) turėjo spręsti socialinius ir kultūrinius Lietuvos žydų reikalus.'
   sudarymo_pagrindimas: 'Pridėta citatoje nurodyta sudarymo data, kad sakinys būtų enciklopediškesnis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Antisemitizmas|Antisemitizmas]]; mentioned_object: [[objektai/zodynas/Kahalai|Kahalai]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėta citatoje nurodyta sudarymo data, kad sakinys būtų enciklopediškesnis.'

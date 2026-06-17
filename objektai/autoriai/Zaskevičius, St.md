@@ -28,7 +28,7 @@ Zaskevičius, St.
 - t-001
   global_id: t-54143
   teiginys: 'St. Zaskevičius 1930 m. paskelbė darbą „Trijų elementų reikšmė Tannenbergo kautynėse“.'
-  susije_objektai: 'mentioned_object: [[objektai/ivykiai/Tanenbergo mūšis 1410 m. liepos 15 d|Tanenbergo mūšis 1410 m. liepos 15 d]]'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Žalgirio mūšis (1410 m.)|Žalgirio mūšis (1410 m.)]]'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

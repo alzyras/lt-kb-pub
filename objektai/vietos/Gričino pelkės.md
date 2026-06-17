@@ -28,7 +28,7 @@ Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.
   teiginys: 'Gričino pelkės buvo didžiuliai pelkių plotai į pietus nuo Slucko.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Gričino pelkių pobūdį ir vietą. Pašalinis datavimo fragmentas iš citatos neįtrauktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Sluckas'
   temporaliniai_duomenys: 'įvykio data: 1505 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Gričino pelkių pobūdį ir vietą. Pašalinis datavimo fragmentas iš citatos neįtrauktas.'

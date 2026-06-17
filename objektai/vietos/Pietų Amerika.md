@@ -27,7 +27,7 @@ Neprasigyvenę smulkūs mažažemiai valstiečiai susiviliojo emigracija, daugia
   global_id: t-21704
   teiginys: 'Pietų Amerikos šalys tapo pagrindine neprasigyvenusių smulkių mažažemių valstiečių emigracijos kryptimi, kai JAV įvedė imigracijos kvotas.'
   sudarymo_pagrindimas: 'Perrašyta į aiškų sakinį apie Pietų Ameriką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų sakinį apie Pietų Ameriką.'

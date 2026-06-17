@@ -29,7 +29,7 @@ Jono Kuklierio kūno 1920 m.
 - t-001
   global_id: t-40221
   teiginys: 'Leitenantas Jonas Kuklieris žuvo mūšyje netoli Vidugirio kaimo iki 1920 m. rugsėjo 22 d.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija|Augustavo-Suvalkų operacija]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija|Augustavo-Suvalkų operacija]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: iki 1920 m.; įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

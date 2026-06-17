@@ -27,7 +27,6 @@ Dusburgietis teigia, kad šapoka A.
   global_id: t-61397
   teiginys: 'A. Šapokos „Přanyslo (Ottakaro) II žygiai į Prūsus“ paskelbta 1939 m. „Praeities“ 3 tome, 1-35 puslapiuose.'
   sudarymo_pagrindimas: 'Citata pateikia šaltinio autorių, pavadinimą ir publikavimo duomenis.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]'
   temporaliniai_duomenys: 'įvykio data: 1939 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia šaltinio autorių, pavadinimą ir publikavimo duomenis.'

@@ -14,7 +14,6 @@ tags:
   - karas
   - kraštas
   - kunigaikštis
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -42,7 +41,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į pilną enciklopedinį sakinį be OCR triukšmo.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Astravos sutartis|Astravos sutartis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Astravos sutartis|Astravos sutartis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'sutarties data: 1392 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į pilną enciklopedinį sakinį be OCR triukšmo.'

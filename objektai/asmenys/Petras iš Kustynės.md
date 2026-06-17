@@ -15,7 +15,6 @@ tags:
   - didikas
   - kraštas
   - krikštas
-  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:

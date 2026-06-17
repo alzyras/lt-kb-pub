@@ -33,13 +33,9 @@ Tam tikslui buvo įsakyta paruošti vadinamuo- sius inventorius, kuriuose nuo se
     - c-002
 - susijęs iš [[objektai/autoriai/K. Jablonskis.md#claim-t-179503|K. Jablonskis]]: K. Jablonskis sudarė pirmąjį XVI–XVII a. dokumentų rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
 - susijęs iš [[objektai/autoriai/Konstantinas Jablonskis.md#claim-t-179507|Konstantinas Jablonskis]]: Konstantinas Jablonskis sudarė pirmąjį rinkinio „Lietuvos valstiečių ir miestelėnų ginčai su dvarų valdytojais“ tomą.
-- susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179538|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: P. Dundulienė, R. Marčėnas ir A. Makarevičius rašė apie žemdirbystės istoriją Lietuvoje ir ekonomikos klausimus.
-- susijęs iš [[objektai/autoriai/P. Dundulienė.md#claim-t-30896|P. Dundulienė]]: P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.
-- susijęs iš [[objektai/paprociai/Valstiečių prievolių inventorizavimas ir suvienodinimas.md#claim-t-02041|Valstiečių prievolių inventorizavimas ir suvienodinimas]]: Privatiniuose dvaruose valstiečių prievolėms suvienodinti buvo įsakyta parengti inventorius, kuriuose surašytos jų pareigos.
 - susijęs iš Lietuvos inventoriai XVII amž: Rinkinys „Lietuvos inventoriai XVII amž.“ buvo sudarytas drauge su M. Juču ir išleistas 1962 m.
 - susijęs iš Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams: Jablonskis 1960 m. suredagavo „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“ ir parašė pratarmę.
 - susijęs iš Prūsija: 1960 m. buvo suredaguotas leidinys „Prūsijos valdžios gromatos, pagraudenimai ir apsakymai lietuviams valstiečiams“.
-- susijęs iš Šiaulių ekonomija: R. Marčėnas 1969 m. paskelbė darbą apie Šiaulių ekonomijos valstiečių sukilimą 1769 m.
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-64922
   teiginys: 'Lietuvos gotikinės architektūros ypatumas – gynybinis pobūdis: net ir sakraliniai pastatai turėjo gynybinius bokštus ar šaunamąsias angas – Vytauto laikais daugiausia statyta būtent gynybinių statinių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bokštai; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bokštai; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Naugardukas'
   pagrindžia:
     - c-001
 

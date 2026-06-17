@@ -30,7 +30,7 @@ Dusburgietis teigia, kad šitaip iš dievo malonės tą dieną krito daugiau nei
   global_id: t-59085
   teiginys: 'Vienas prūsas išpranašavo sembų sutriuškinimą ir Karaliaučiaus broliams pareiškė, kad sembai dar tą pačią dieną bus išžudyti.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibendrina citatoje pateiktą pranašystę ir posakį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-001
 

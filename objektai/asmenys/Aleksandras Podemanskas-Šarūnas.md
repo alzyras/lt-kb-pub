@@ -21,7 +21,7 @@ tags:
   global_id: t-78938
   teiginys: 'Aleksandras Podemanskas-Šarūnas talkino Jono Neifalto-Lakūno vadovaujamam partizanų koviniam vienetui.'
   sudarymo_pagrindimas: 'Citata patvirtina jo vaidmenį partizanų koviniame vienete.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jonas Neifalta-Lakūnas.md#claim-t-79051|Jonas Neifalta-Lakūnas]]: Jonas Neifalta-Lakūnas vadovavo partizanų koviniam vienetui, kuriam talkino Aleksandras Podemanskas-Šarūnas.

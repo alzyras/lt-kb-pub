@@ -22,7 +22,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   global_id: t-02589
   teiginys: 'Liublino unijos metu Mažlenkiai buvo viena iš dviejų Lenkijos provincijų, rengusių atskirus generalinius seimelius.'
   sudarymo_pagrindimas: 'Pataisyta rašyba ir sutrumpinta, paliekant citatos palaikomą faktą apie Mažlenkius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.

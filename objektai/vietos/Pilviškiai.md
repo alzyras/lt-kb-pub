@@ -27,7 +27,7 @@ Pilviškių vis. Pilviškių vls.
 - t-001
   global_id: t-42027
   teiginys: '1950 m. birželio 22–23 d. Vilkaviškio apskrities Pilviškių valsčiaus Žiūrų-Gudelių apylinkėse MGB pajėgos puolė Tauro apygardos partizanus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1950 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -37,7 +37,7 @@ Pilviškių vis. Pilviškių vls.
 - t-002
   global_id: t-42028
   teiginys: '1948 m. vasario 1 d. Vilkaviškio apskrities Pilviškių valsčiaus Gulbiniškių kaime MGB grupė apsupo sodyboje besislėpusius partizanus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Vilkaviškis'
+  susije_objektai: 'mentioned_place: Gulbiniškiai; mentioned_place: Kaimas; mentioned_place: Vilkaviškis'
   temporaliniai_duomenys: 'įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

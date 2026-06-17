@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-54228
   teiginys: 'Didžiojo Vilniaus Seimo rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstine nuoroda ir yra per ilgas; citata leidžia jį sukonkretinti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -57,7 +57,7 @@ Nenurodyta
 - t-002
   global_id: t-54229
   teiginys: 'Rezoliucijos ragino nemokėti valdžiai mokesčių, neiti į kariuomenę ir organizuoti vietos savivaldą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstine nuoroda; citata palaiko aiškesnę vieno sakinio formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1906 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda kontekstine nuoroda; citata palaiko aiškesnę vieno sakinio formą.'

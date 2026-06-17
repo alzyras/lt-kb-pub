@@ -27,7 +27,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
   global_id: t-41084
   teiginys: 'Prisikėlimo apygardoje atkurta P. Lukšio rinktinė netrukus buvo pervadinta Maironio rinktine.'
   sudarymo_pagrindimas: 'Sakinys pilnas, gramatiškas ir tiesiogiai susijęs su Maironio rinktine.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/P. Lukšio rinktinė|P. Lukšio rinktinė]]; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_group: [[objektai/grupes/Kęstučio apygarda|Kęstučio apygarda]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_group: [[objektai/grupes/P. Lukšio rinktinė|P. Lukšio rinktinė]]; mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pilnas, gramatiškas ir tiesiogiai susijęs su Maironio rinktine.'
@@ -38,7 +38,7 @@ Lukšio rinktinė (netrukus pervadinta į Maironio), joje J. Apygradoje prasidė
 - t-002
   global_id: t-41085
   teiginys: 'Prisikėlimo apygardos reorganizacijos metu Maironio rinktinės vadas Juozas Paliūnas-Rytas tapo apygardos vado pavaduotoju.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_person: [[objektai/autoriai/Maironis|Maironis]]; mentioned_place: Užpelkiai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Maironis|Maironis]]; mentioned_event: [[objektai/ivykiai/Užpelkių kautynės|Užpelkių kautynės]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Juozas Paliūnas-Rytas|Juozas Paliūnas-Rytas]]; mentioned_place: Užpelkiai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

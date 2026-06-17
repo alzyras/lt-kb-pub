@@ -30,7 +30,7 @@ kunigaikščių Genealoginę lentešis, šiaip ar taip, bet vertinamas aulę, su
   global_id: t-88076
   teiginys: 'Miilleris buvo Maskvos archyvo vedėjas, kurio Rusijos genealoginėmis knygomis rėmėsi Kochas.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja Miillerį su Maskvos archyvu ir genealoginėmis knygomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

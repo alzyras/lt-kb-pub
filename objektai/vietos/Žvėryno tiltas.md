@@ -29,7 +29,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   global_id: t-42416
   teiginys: 'Žvėryno tiltas buvo užtvertas „Kraz“ sunkvežimiu ir dviem „Kirovec“ traktoriais, o Goštauto gatvė blokuota sunkiąja technika.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/ATAS|ATAS]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/ATAS|ATAS]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
@@ -41,7 +41,7 @@ Pociaus vadovaujamų vyrų buvo išdėstyti ties Žvėryno tiltu kitoje Neries p
   global_id: t-42417
   teiginys: 'Pirmomis sausio įvykių dienomis dalis A. Pociaus vadovaujamų ginkluotų gynėjų buvo išdėstyti ties Žvėryno tiltu kitoje Neries pusėje.'
   sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatą ir aiškiau įvardija veikėją.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/posakiai/Nepakartoti 1940 m. klaidos!|Nepakartoti 1940 m. klaidos!]]'
   temporaliniai_duomenys: 'įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys patikslintas pagal citatą ir aiškiau įvardija veikėją.'

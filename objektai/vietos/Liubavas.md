@@ -22,7 +22,7 @@ Ih pradėjom sukti Liubavo link, kur kaip tik buvo pats bolševikų centras.
   global_id: t-38504
   teiginys: 'Liubave buvo bolševikų centras, kurio link pasuko pasakojime minimi žygio dalyviai.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR klaida ir pirmojo asmens forma, todėl reikia enciklopedinio sakinio.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 - susijęs iš Raketija: Baigus apsupimo žiedą susitiko Raketijos ir Liubavo raitieji emvedistai.

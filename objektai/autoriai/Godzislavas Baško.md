@@ -29,7 +29,7 @@ Apie tai mini Kroni­ ka Lechitów i Polaków, parašyta Poznanės kustodo G o d
   global_id: t-88090
   teiginys: 'Godzislavo Baško parašyta „Kronika Lechitów i Polaków“ mini, kad Vitas buvo pirmasis Lietuvos vyskupas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir pagrįstas citata apie Baško kronikoje minimą Vitą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/in partibus infidelium|in partibus infidelium]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_person: [[objektai/asmenys/Vitas|Vitas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Poznanė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir pagrįstas citata apie Baško kronikoje minimą Vitą.'

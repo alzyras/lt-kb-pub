@@ -21,7 +21,7 @@ Karinėms operacijoms ėmėsi vadovauti į Vilnių atvykęs sssR gynybos vicemin
   global_id: t-40514
   teiginys: 'Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir antraštės nuotrupa; faktas paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: SSRS; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

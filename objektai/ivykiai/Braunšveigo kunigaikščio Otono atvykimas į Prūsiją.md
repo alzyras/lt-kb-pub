@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Braunšveigo kunigaikštis Otonas su daugybe maldininkų atvyko į Prūsiją padėti sunkioje padėtyje atsidūrusiems broliams.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys perima retorinį ir antraštinį triukšmą.'
-  susije_objektai: 'location: Prūsija; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Prūsija'
+  susije_objektai: 'location: Prūsija; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

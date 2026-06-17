@@ -30,7 +30,7 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   global_id: t-41823
   teiginys: '1601 m. balandžio 1 d. Švedijos kariuomenė apsupo Kuoknesės pilį, bet joje buvusi lietuvių įgula nepasidavė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Kuoknesės pilies apsuptį ir įgulos laikyseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kuoknesė; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1601 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Kuoknesės pilies apsuptį ir įgulos laikyseną.'

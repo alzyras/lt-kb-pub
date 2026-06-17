@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-86922
   teiginys: '1812 m. prancūzams valdant Vilnių ir Lietuvą, krašto bajorai laukė žinių apie Napoleono kampaniją Rusijos imperijos gilumoje.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas kaip aiškus faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1812 m.; įvykio data: 1814 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas kaip aiškus faktas.'
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-86923
   teiginys: 'Po Napoleono sutriuškinimo Rusijoje kurį laiką pagyvėjo visuomeninis gyvenimas.'
   sudarymo_pagrindimas: 'Reikia sklandesnio enciklopedinio sakinio be publicistinės formos „pastebimas“.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Rusija'
   pagrindžia:
     - c-001
 

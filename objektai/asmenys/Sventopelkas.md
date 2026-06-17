@@ -55,7 +55,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - t-004
   global_id: t-90014
   teiginys: 'Dusburgietis Sventopelką vaizduoja kaip su prūsais bendradarbiavusį „išdaviką“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dobrynė; mentioned_place: Kulmas; mentioned_place: Kulmo žemė; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -64,7 +64,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90015
   teiginys: '1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citatos pabaigos informacija.'
-  susije_objektai: 'territory: Barta; territory: Durbė; territory: Pomeranija; territory: Prūsai; territory: Prūsija; territory: Torunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė'
+  susije_objektai: 'territory: Barta; territory: Durbė; territory: Pomeranija; territory: Prūsai; territory: Prūsija; territory: Torunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė'
   semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Barta; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Durbė; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Prūsai; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Prūsija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Torunė'
   temporaliniai_duomenys: 'valdymo pabaiga: po 1246 m.; valdymo pabaiga: 1246 m.; valdymo pabaiga: 1253 m.; valdymo pabaiga: 1254 m.; valdymo pabaiga: 1260 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sventopelkas buvo valdovas Barta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Durbė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Torunė“, o ne visam objekto laikotarpiui.'
@@ -77,7 +77,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90016
   teiginys: 'Sventopelkas subūrė du tūkstančius karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Vysla'
   pagrindžia:
     - c-019
 
@@ -94,7 +94,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90018
   teiginys: 'Sventopelkas sutelkė savo kariuomenę ir Prūsijos naujakrikščius keršyti broliams dėl jų užimtos pamedėnų pilies.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Sventopelko motyvą ir veiksmą, paremtą citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-022
 
@@ -103,7 +103,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90019
   teiginys: 'Petras Dusburgietis Pamario kunigaikštį Sventopelką vadina išdaviku dėl bendradarbiavimo su prūsais prieš Ordiną.'
   sudarymo_pagrindimas: 'Citata kalba apie autoriaus vertinimą, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/asmenys/Jogaila (Lenkijos karalius, 1382 m.)|Jogaila (Lenkijos karalius, 1382 m.)]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Lokietka|Lokietka]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Pamaris; mentioned_place: Prūsija'
   pagrindžia:
     - c-025
 
@@ -132,7 +132,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - t-012
   global_id: t-90022
   teiginys: '1246 m. karo pasakojime Dusburgietis Sventopelkui priskiria kovinę kalbą ir didelius nuostolius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1246 m.; įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -163,7 +163,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90025
   teiginys: 'Sventopelkas po metų sulaužė taikos sutartį ir su naujakrikščiais atkritėliais bei sūduviais nusiaubė Kulmo žemę.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia sutarties sulaužymą ir Kulmo žemės nuniokojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -171,7 +171,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - t-016
   global_id: t-90026
   teiginys: 'Šiame gabale Sventopelkas siejamas su taikos atnaujinimu, nauju jos sulaužymu ir Santyro pilies pastatymu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Druzigeris|Druzigeris]]; mentioned_place: Austrija; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Santyras; mentioned_place: Vokietija'
   pagrindžia:
     - c-009
 
@@ -197,7 +197,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - t-019
   global_id: t-90029
   teiginys: 'Dusburgietis Sventopelką vaizduoja kaip Prūsijos tikėjimo ir tikinčiųjų persekiotoją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėvonija|tėvonija]]; mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   pagrindžia:
     - c-019
 
@@ -206,7 +206,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90030
   teiginys: 'Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai pagrįstas citata apie Marienverderio statybą.'
-  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
+  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
   semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Bebras; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kaimas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Krokuva; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kujavija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kulmas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Marienverderis; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Nogatas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Prūsai; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Prūsija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Rizenburgas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Vroclavas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Vysla'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sventopelkas keliavo į Bebras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Marienverderis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Nogatas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Vroclavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Vysla“, o ne visam objekto laikotarpiui.'
@@ -236,7 +236,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90034
   teiginys: 'Sventopelkas per Henriką iš Lichtenšteino skundėsi broliais ir reikalavo grąžinti sūnų, duotą jiems kaip įkaitą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Sventopelko derybinį kreipimąsi ir reikalavimą grąžinti įkaitą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
   pagrindžia:
     - c-016
 
@@ -245,7 +245,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90035
   teiginys: 'Sventopelkas taikos sąlygomis turėjo atiduoti broliams Sartovicų pilį ir įkaitais atsiųsti sūnų Mstivojų, Vimarą ir Vojaką.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo taikos sąlygas ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Užstato daiktai Trakų žydų privilegijoje|Užstato daiktai Trakų žydų privilegijoje]]'
   pagrindžia:
     - c-013
 
@@ -254,7 +254,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90036
   teiginys: 'Prieš mirtį Sventopelkas sušaukė savo sūnus ir patarė jiems niekada nesipriešinti Ordino broliams.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata palaiko paskutinės valios turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Kulmas; mentioned_place: Pamedė; mentioned_place: Pilėnai; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Vysla'
   temporaliniai_duomenys: 'įvykio data: 1299 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata palaiko paskutinės valios turinį.'
@@ -265,7 +265,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - t-027
   global_id: t-90037
   teiginys: 'Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.'
-  susije_objektai: 'location: Kulmas; location: Marienverderis; location: Pomeranija; location: Prūsija; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  susije_objektai: 'location: Kulmas; location: Marienverderis; location: Pomeranija; location: Prūsija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Pomeranija; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kulmas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Marienverderis; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Prūsija'
   pagrindžia:
     - c-004
@@ -305,23 +305,18 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-024
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Bernheimo.md#claim-t-59909|Ditrichas iš Bernheimo]]: 1242 m. gruodžio 3 d. Ditrichas iš Bernheimo su keturiais broliais ir 24 ginklanešiais slapta įsigavo į Sartovicų pilį.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60010|Druzigeris]]: Magistro siųstas Druzigeris pabėgo, kai pamatė daugybę nukautųjų prie grobio gurguolės.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Veidos.md#claim-t-60278|Fridrichas iš Veidos]]: Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176333|Gediminas]]: Gedimino sąjungininkas Vladislovas Lokietka stojo į ginkluotą kovą prieš Ordiną, siekdamas atgauti Pamarį.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-184081|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino užgriuvo Sventopelko karius ir susigrąžino jų atimtą grobį.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60026|Henrikas iš Lichtenšteino]]: Sventopelkas paprašė atsiųsti Henriką iš Lichtenšteino ir jam išdėstė nusiskundimus broliais dėl įkaitu laikomo sūnaus.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60027|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino užgriuvo priešus ir susigrąžino jų atimtą grobį.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-184083|Henrikas iš Veidos]]: Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89834|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: 1243 m. popiežius Inocentas IV iš Hermano iš Zalcos pareiškimų sužinojo apie Prūsijos krikščionių nuostolius dėl Sventopelko.
 - susijęs iš [[objektai/asmenys/Inocentas IV.md#claim-t-60333|Inocentas IV]]: 1243 m. popiežius Inocentas IV pasiuntė Vilhelmą į Prūsiją padalyti žemės į keturias vyskupystes ir sutvarkyti taisytinus dalykus.
-- susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63803|Kazimieras (Kujavijos kunigaikštis)]]: Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63806|Kazimieras (Kujavijos kunigaikštis)]]: Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.
-- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63809|Kazimieras (Kujavijos kunigaikštis)]]: Sventopelkas įsibrovė į kunigaikščio Kazimiero žemę Kujaviją ir ją nusiaubė degindamas bei plėšdamas.
 - susijęs iš [[objektai/asmenys/Konradas Bremeris.md#claim-t-60364|Konradas Bremeris]]: Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu.
 - susijęs iš [[objektai/asmenys/Konradas iš Dortmundo.md#claim-t-60366|Konradas iš Dortmundo]]: Prūsai nužudė Konradą iš Dortmundo su visa jo šeimyna per žemutinių Prūsijos apygardų puolimą.
@@ -336,12 +331,9 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60061|Samboras (Sventopelko sūnus)]]: Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60062|Samboras (Sventopelko sūnus)]]: Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.
 - susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60201|Samboras]]: Samboras su Pomeranijos kunigaikščiu ir ginklanešiais užstojo kelius prūsams, kad šie negalėtų pasprukti.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60076|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: M. Poliakuvna atkreipė dėmesį į dokumentus, susijusius su popiežiaus pasiuntinio Vilhelmo iš Modenos veikla Prūsijoje.
 - susijęs iš [[objektai/asmenys/Vilhelmas iš Modenos.md#claim-t-60078|Vilhelmas iš Modenos (vyskupas, XIII–XIV a.)]]: 1243 m. popiežius Inocentas IV pasiuntė į Prūsiją Vilhelmą, buvusį Modenos vyskupą.
 - susijęs iš [[objektai/asmenys/Vimaras [Gneomiras].md#claim-t-60465|Vimaras [Gneomiras]]]: Sventopelkas turėjo įkaitais broliams atsiųsti Mstivojų, burggrafą Vimarą ir kariuomenės vadą Vojaką.
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90071|Vladislovas Lokietka]]: Dusburgietis Vladislovą Lokietką vaizduoja kaip Gedimino sąjungininką, kovojusį prieš Ordiną dėl Pamario.
 - susijęs iš [[objektai/asmenys/Vojakas [Vojachas].md#claim-t-60467|Vojakas [Vojachas]]]: Vojakas [Vojachas] davė broliams raštą, savo antspaudu patvirtintą277.
 - susijęs iš [[objektai/autoriai/Ivinskis Z.md#claim-t-91932|Ivinskis Z]]: Z. Ivinskio darbas apie Saulės-Šiaulių kautynes cituojamas aiškinant 1236 m. rugsėjo 22 d. mūšį, kuriame lietuviai sutriuškino kalavijuočius.
 - susijęs iš [[objektai/autoriai/R. Batūra.md#claim-t-97214|Romas Batūra]]: Romas Batūra cituojamas aiškinant 1236 m. rugsėjo 22 d. Saulės mūšį, kuriame lietuviai sutriuškino kalavijuočius.
@@ -360,7 +352,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - susijęs iš [[objektai/ivykiai/Antrosios laivų kautynės prie Svečės pilies.md#claim-t-62198|Antrosios laivų kautynės prie Svečės pilies (pilis)]]: Prie Svečės pilies Sventopelkas su ginklanešiais ir 10 laivų vėl užpuolė Elbingo brolių laivus.
 - susijęs iš [[objektai/ivykiai/Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.).md#claim-t-62755|Brolio Popono atvykimas, Mstivojaus įkaitavimas ir senosios taikos atnaujinimas (1244 m.)]]: 1244 m. atvykus magistrui Poponui ir pagalbai iš Vokietijos bei Austrijos, Sventopelkas pabandė susitaikyti su broliais ir senoji taika buvo atnaujinta.
 - susijęs iš [[objektai/ivykiai/Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.).md#claim-t-66511|Brolių ir kryžininkų žygis į Pomeraniją bei didysis mūšis su Sventopelku (1246 m.)]]: 1246 m. Sventopelkas su didesne kariuomene persekiojo atsitraukiančius brolius, bet mūšyje prarado 1500 vyrų.
-- susijęs iš [[objektai/ivykiai/Elbingo pilies ir miesto puolimas.md#claim-t-62256|Elbingo pilies ir miesto puolimas (miestas)]]: Pomeranijos kunigaikštis Sventopelkas sutelkė didelę kariuomenę ir patraukė užimti Elbingo pilies bei miesto.
 - susijęs iš [[objektai/ivykiai/Krikščionių pergalingas mūšis prie Zirgūnos upės.md#claim-t-91906|Krikščionių pergalingas mūšis prie Zirgūnos upės]]: Prie Zirgūnos upės Hermano vadovaujami krikščionys sumušė prūsų kariuomenę, o mūšyje krito daugiau nei penki tūkstančiai prūsų.
 - susijęs iš [[objektai/ivykiai/Kryžiaus karo paskelbimas prieš Sventopelką (1245 m.).md#claim-t-62841|Kryžiaus karo paskelbimas prieš Sventopelką (1245 m.)]]: 1245 m. apaštališkojo sosto legatas paskelbė kryžiaus karą prieš Sventopelką ir įsakė jį skelbti įvairiose karalystėse bei provincijose.
 - susijęs iš [[objektai/ivykiai/Laivų kautynės prie Santyro.md#claim-t-62359|Laivų kautynės prie Santyro]]: Prie Santyro brolis Konradas Bremeris užpuolė Sventopelko laivus ir dalį jų paskandino arba smarkiai apgadino.
@@ -378,7 +369,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89405|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Po susitaikymo Sventopelkas grąžino brolius ir kitus rastus belaisvius, tarp jų 70 kilmingų matronų.
 - susijęs iš [[objektai/ivykiai/Sventopelko ir brolių susitaikymas (1243 m. pavasaris).md#claim-t-89406|Sventopelko ir brolių susitaikymas (1243 m. pavasaris)]]: Sventopelkas atvyko pas legatą ir brolius, pripažino savo klaidą ir paprašė pasigailėjimo.
 - susijęs iš [[objektai/ivykiai/Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje.md#claim-t-62925|Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)]]: Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais.
-- susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62927|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Broliams negrąžinus sūnaus, Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš [[objektai/ivykiai/Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas.md#claim-t-62928|Sventopelko taikos sulaužymas, Kujavijos nusiaubimas ir Santyro pilies pastatymas (pilis)]]: Sventopelkas surinko stiprią kariuomenę, įsibrovė į Kujaviją ir degindamas bei plėšdamas baisiai ją sunaikino.
 - susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-183965|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
 - susijęs iš [[objektai/ivykiai/Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos.md#claim-t-66922|Sventopelko įsiveržimas į Kulmo žemę ir jo kariaunos žūtis prie Vyslos]]: Sventopelkas subūrė 2000 karių, perplukdė juos per Vyslą ir įsibrovė į Kulmo žemę.
@@ -407,8 +397,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - susijęs iš Sventopelko ir Ordino 1243 m. sutartis: M. Tepenas nurodė, kad Dusburgietis rėmėsi žuvusia Sventopelko ir Ordino 1243 m. sutartimi.
 - susijęs iš Elbingas: Elbingo broliai, stokodami išteklių ir laukdami laivų, siuntė atgal laivus bei žygūnus sužinoti padėties Kulmo žemėje.
 - susijęs iš Elbingas: Elbingo broliai, stokodami atsargų ir laukdami laivų, gavę žinių apie Kulmo žemę pasiuntė atgal laivus ir žygūnus.
-- susijęs iš Elbingas: Sventopelkas puolė Elbingo pilį ir miestą, manydamas, kad ten beveik neliko nei brolių, nei miestiečių.
-- susijęs iš Elbingas: Pomeranijos kunigaikštis Sventopelkas sutelkė kariuomenę ir patraukė prie Elbingo pilies bei miesto, ketindamas juos užimti.
 - susijęs iš Kristburgas: Pastačius Kristburgo pilį, naujakrikščiai ir Sventopelkas nutarė ją sunaikinti.
 - susijęs iš Kristburgas: Magistras Henrikas Kalėdų išvakarėse užėmė pamedėnų pilį vietoje, kuri vėliau vadinta Senuoju Kristburgu.
 - susijęs iš Kristburgas: Prūsai ir Sventopelkas susitarė apsupti Kristburgo pilį ir nesitraukti, kol ji nebus sulyginta su žeme.
@@ -420,11 +408,9 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - susijęs iš Kulmas: Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.
 - susijęs iš Kulmo žemė: Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis.
 - susijęs iš Kulmo žemė: Sventopelkas su dviem tūkstančiais karių perplaukė Vyslą, įsibrovė į Kulmo žemę ir ją nusiaubė per dvi dienas bei naktis.
-- susijęs iš Kulmo žemė: Ordino įsikūrimas Mazovijos kunigaikščio Konrado dovanotoje Kulmo žemėje laikomas Ordino veiklos Prūsijoje pagrindu.
 - susijęs iš Kulmo žemė: Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.
 - susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, degino ir grobė, bet grįždami rado priešų užstotus kelius.
 - susijęs iš Notanga: Magistro pasiųsti broliai ir ginklanešiai įsibrovė į Notangą, bet grįždami turėjo atsitraukti į Kriukų kaimą.
-- susijęs iš Pamaris: Lenkijos karalius Vladislovas Lokietka, norėdamas atgauti Pamarį, stojo į ginkluotą kovą prieš Ordiną.
 - susijęs iš Pomeranija: Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką.
 - susijęs iš Poterbergas: Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują pilį, pramintą Poterbergu.
 - susijęs iš Poterbergas: Magistras Poponas kalvoje tarp Kulmo miesto ir senosios pilies pastatė naują pilį, pramintą Poterbergu.
@@ -442,7 +428,6 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - susijęs iš Vysla: Neradę laivų prie Vyslos, Sventopelko kariai puolė į upę ir paskendo, išskyrus Sventopelką ir kelis kitus.
 - susijęs iš Vysla: Sventopelkas perplukdė du tūkstančius karių per Vyslą ir įsiveržė į Kulmo žemę.
 - susijęs iš Vysla: Magistras ir Sventopelkas susitiko vienoje Vyslos saloje, bet po ilgų derybų išsiskyrė nesudarę taikos.
-- susijęs iš Vysla: Sventopelkas Vyslos ir Nogato santakoje pastatė Santyro pilį.
 - susijęs iš Vėluva: 1323 m. spalio 16 d. Varmės vyskupo ir kapitulos dokumente buvo minėti lietuvių žygiai į Vėluvą.
 - susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58844|atsimetėliai naujakrikščiai atsimetėliai]]: Sventopelkas paskatino Prūsijos žemės naujakrikščius atsimesti nuo tikėjimo.
 - susijęs iš [[objektai/zodynas/atsimetėliai naujakrikščiai atsimetėliai.md#claim-t-58845|atsimetėliai naujakrikščiai atsimetėliai]]: Petras Dusburgietis Sventopelką ir jo bendrus vadino Prūsijos žemės naujakrikščiais atsimetėliais.
@@ -982,10 +967,8 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 
 ## Ryšiai
 - Sventopelkas kariavo_pries [[objektai/grupes/Pamedėnai]]
-- [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Sventopelkas
 - Sventopelkas buvo_valdovas [[objektai/vietos/Barta]]
 - Sventopelkas buvo_valdovas [[objektai/vietos/Durbė]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Elbingas]]
 - Sventopelkas buvo_valdovas [[objektai/vietos/Kulmas]]
 - Sventopelkas buvo_valdovas [[objektai/vietos/Pomeranija]]
 - Sventopelkas buvo_valdovas [[objektai/vietos/Poznanė]]

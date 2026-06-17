@@ -42,7 +42,7 @@ amziai:
   global_id: t-65305
   teiginys: 'Lietuvos totoriai ir kazokai buvo vertinami dėl manevringumo persekiojant bėgantį priešą.'
   sudarymo_pagrindimas: 'Originalas buvo fragmentiškas sąrašo elementas, todėl performuluotas į pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos totoriai|Lietuvos totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Dauguva; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -51,7 +51,7 @@ amziai:
   global_id: t-65306
   teiginys: 'Ukrainos kazokų stovyklą pirmiausia atakavo janičarai, o po jų puolė turkų kavalerija.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta perteklinė skliaustinė detalė.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Janičarai|Janičarai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Ukraina'
   pagrindžia:
     - c-004
 

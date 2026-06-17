@@ -29,7 +29,7 @@ amziai:
   global_id: t-01397
   teiginys: 'Lietuvos Vyčių Sąjunga telkė katalikų jaunimą, turėjo apie 100 kuopų ir leido laikraštį „Vytis“.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs ir daugiausia kalbėjo apie kitą organizaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_object: [[objektai/zodynas/organas|organas]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemlionys|Žemlionys]]; mentioned_place: Lietuva; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1912 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs ir daugiausia kalbėjo apie kitą organizaciją.'

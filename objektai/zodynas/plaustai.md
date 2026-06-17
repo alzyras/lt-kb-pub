@@ -24,7 +24,7 @@ Taip pat norime uždrausti ir uždraudžiame bei užginame perkėlimus, vadi­ n
   global_id: t-86608
   teiginys: 'Plaustais vadinti perkėlimai per Vilijos upę buvo uždrausti tarp Verkių ir Panerių kaimų.'
   sudarymo_pagrindimas: 'Citata pagrindžia draudimą, o pradinis teiginys yra nutrūkęs ir triukšmingas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kernavė; mentioned_place: Nemenčinė; mentioned_place: Paneriai; mentioned_place: Verkiai; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

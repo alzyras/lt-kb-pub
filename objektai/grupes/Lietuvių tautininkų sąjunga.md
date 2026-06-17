@@ -44,7 +44,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   global_id: t-44994
   teiginys: 'LKDP bloko balsais tautininkų lyderis Antanas Smetona buvo išrinktas Lietuvos prezidentu ir prisiekė laikytis Konstitucijos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie tautininkų lyderį ir pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/konstitucijos|konstitucijos]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
   global_id: t-44995
   teiginys: 'Kandidatus į Seimą siūlė apskričių tarybos, o Kaune – miesto taryba, tačiau juos kelti galėjo tik tautininkų kontroliuojamos savivaldybės.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Seimo kandidatų siūlymą ir kėlimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-005
 
@@ -70,7 +70,7 @@ Tautininkai, susitarę su krikščionių demokratų bloku, vengdami naujos vyria
 - t-005
   global_id: t-44997
   teiginys: 'Tautininkai ir krikščionys demokratai gruodžio įvykius teisino skelbdami, kad išgelbėjo Lietuvą nuo komunistų perversmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Estija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Estija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1924 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

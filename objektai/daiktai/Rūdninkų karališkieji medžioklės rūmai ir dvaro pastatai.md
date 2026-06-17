@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87003
   teiginys: 'Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie žvėryną, o pradinė formuluotė nutrūkusi ir užteršta pastabos fragmentais.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Rūdninkai; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žgvižda'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Rūdninkai; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žgvižda'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87004
   teiginys: 'Rūdninkų karališkųjų medžioklės rūmų vietoje buvo išlikę plytų ir akmens pamatų griuvėsiai.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo per daug priklausomas nuo citatos konteksto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Rūdninkai'
+  susije_objektai: 'mentioned_place: Rūdninkai'
   pagrindžia:
     - c-002
 

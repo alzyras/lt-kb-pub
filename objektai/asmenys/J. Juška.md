@@ -10,7 +10,6 @@ tags:
   - karas
   - miestas
   - mūšis
-  - transportas
 ---
 # J. Juška
 

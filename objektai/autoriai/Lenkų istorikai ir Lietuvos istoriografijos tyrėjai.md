@@ -28,7 +28,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - t-001
   global_id: t-179509
   teiginys: 'Po II pasaulinio karo jaunoji lenkų istorikų karta ėmė įžvalgiau ir objektyviau vertinti Lietuvos praeitį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-013
 
@@ -37,7 +37,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179510
   teiginys: 'Po II pasaulinio karo J. Ochmańskio ir P. Lossowskio darbai rodė įžvalgesnį jaunosios lenkų istorikų kartos požiūrį į Lietuvos praeitį.'
   sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs, o citata palaiko išbaigtą apibendrinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-013
 
@@ -55,7 +55,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179514
   teiginys: 'O. Haleckis gausiais raštais paliko plačius pėdsakus Lietuvos istorijos tyrimuose ir emigracijoje skyrė dėmesio Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -63,7 +63,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - t-005
   global_id: t-179515
   teiginys: 'M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama ir sulaukė kelių laidų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]; mentioned_person: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]; mentioned_author: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1647 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -74,7 +74,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179516
   teiginys: 'O. Balzeris tyrinėjo Lenkijos ir Lietuvos unijos aktus ir leido svarbius teisės istorijos šaltinius.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie O. Balzerio veiklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/O. Balzeris|O. Balzeris]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/O. Balzeris|O. Balzeris]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -83,7 +83,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179517
   teiginys: 'O. Balzeris buvo teisės istorikas ir svarbių šaltinių, tarp jų „Corpus iuris polonici“, leidėjas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/O. Balzeris|O. Balzeris]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/O. Balzeris|O. Balzeris]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -110,7 +110,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179520
   teiginys: 'A. Prochaska savo raštų gausumu apie XIV-XV a. Lietuvą pralenkė kitus lenkų istorikus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir remiasi citatos vertinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Lietuva; mentioned_place: Roma'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Roma'
   pagrindžia:
     - c-011
 
@@ -119,7 +119,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179521
   teiginys: 'J. Voigtas 1827-1838 m. veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki Vokiečių ordino žlugimo 1525 m.'
   sudarymo_pagrindimas: 'Citata pagrindžia datuotą ir tikslesnį veikalo apibūdinimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/J. Voigt|J. Voigt]]; mentioned_person: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Voigt|J. Voigt]]; mentioned_author: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1525 m.; įvykio data: 1647 m.; įvykio data: 1827-1838; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia datuotą ir tikslesnį veikalo apibūdinimą.'
@@ -140,7 +140,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179523
   teiginys: 'J. Voigtas 1827-1838 m. devyniatomiame veikale „Geschichte Preusseus“ nagrinėjo kryžiuočių santykius su Lietuva iki 1525 m.'
   sudarymo_pagrindimas: 'Pradinis tekstas per ilgas ir turi bibliografinio fragmento požymių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/J. Voigt|J. Voigt]]; mentioned_person: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Voigt|J. Voigt]]; mentioned_author: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: iki 1525 m.; įvykio data: 1525 m.; įvykio data: 1647 m.; įvykio data: 1827-1838; įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas per ilgas ir turi bibliografinio fragmento požymių.'
@@ -151,7 +151,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - t-014
   global_id: t-179524
   teiginys: 'A. Prochaska rašė apie XIV-XV a. Lietuvą, išleido Vytauto Didžiojo aktų kodeksą ir parašė Jogailos bei Vytauto monografijas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Lietuva; mentioned_place: Roma'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Prochaska|A. Prochaska]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Roma'
   pagrindžia:
     - c-011
 
@@ -160,7 +160,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179525
   teiginys: 'W. Kamienieckis parašė eilę studijų apie Lietuvos XIV-XV a. visuomeninius-socialinius santykius.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra kontekstinis fragmentas, ne savarankiškas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/W. Kamienieckis|W. Kamienieckis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/W. Kamienieckis|W. Kamienieckis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra kontekstinis fragmentas, ne savarankiškas sakinys.'
@@ -172,7 +172,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179526
   teiginys: 'Wł. Semkowiczius išleido Vilniaus vyskupijos šaltinių tomą ir Lenkijos bei Lietuvos unijos aktus.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai perteikia citatoje nurodytus leidinius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/autoriai/Wł. Semkowiczius|Wł. Semkowiczius]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Wł. Semkowiczius|Wł. Semkowiczius]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -180,7 +180,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
 - t-017
   global_id: t-179527
   teiginys: 'W. Kamienieckis parašė studijų apie XIV-XV a. Lietuvos visuomeninius ir socialinius santykius.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/W. Kamienieckis|W. Kamienieckis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/W. Kamienieckis|W. Kamienieckis]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Liublinas'
   temporaliniai_duomenys: 'įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -191,7 +191,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179528
   teiginys: 'M. Zeilleris 1647 m. išleido Didžiosios Lietuvos Kunigaikštystės istoriją, kuri anuomet buvo labai vertinama.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]; mentioned_person: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/H. Koeppenas|H. Koeppenas]]; mentioned_author: [[objektai/autoriai/M. Zeilleris|M. Zeilleris]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1647 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai paremtas citata.'
@@ -203,7 +203,7 @@ Latkowskis buvo pirmasis, kuris bandė nustatyti Lietuvos valstybės pradžios d
   global_id: t-179529
   teiginys: 'K. Chodynickis ir J. Jakubowskis daug dėmesio skyrė Gediminaičių laikų klausimams ir Lietuvos seniesiems šaltiniams.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/autoriai/K. Chodynickis|K. Chodynickis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Chodynickis|K. Chodynickis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 

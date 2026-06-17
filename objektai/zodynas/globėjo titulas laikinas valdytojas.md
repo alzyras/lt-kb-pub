@@ -22,7 +22,7 @@ Kojelavičius svarstė, kodėl Trobiui reikėjo globėjo titulu valdyti Lietuvą
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia teiginį apie autoriaus svarstymą dėl globėjo titulo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Romuntas|Romuntas]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Trobius|Trobius]]; mentioned_place: Daugpilis; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

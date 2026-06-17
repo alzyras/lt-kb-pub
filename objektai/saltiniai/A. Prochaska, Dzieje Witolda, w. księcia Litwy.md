@@ -31,7 +31,7 @@ Prochaska, A.
   global_id: t-31598
   teiginys: 'A. Prochaskos „Dzieje Witolda w. księcia Litwy“ buvo išleista Vilniuje 1914 m.'
   sudarymo_pagrindimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1914 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia autorių, pavadinimą, leidimo vietą ir metus.'

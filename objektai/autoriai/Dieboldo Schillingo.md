@@ -32,7 +32,7 @@ periodo_grupes:
   global_id: t-39851
   teiginys: 'Dieboldo Schillingo Berno kronikoje yra vienas ankstyviausių Žalgirio mūšį vaizduojančių piešinių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie autoriaus kronikoje esantį piešinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Bernas'
+  susije_objektai: 'mentioned_place: Bernas'
   pagrindžia:
     - c-001
 

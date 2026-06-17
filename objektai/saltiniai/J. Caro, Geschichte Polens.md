@@ -33,7 +33,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
   global_id: t-121038
   teiginys: 'J. Caro veikalo „Geschichte Polens“ III tomas buvo išleistas 1869 m.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti tik bibliografinį faktą apie veikalą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Caro|J. Caro]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Caro|J. Caro]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1869 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti tik bibliografinį faktą apie veikalą.'
@@ -44,7 +44,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 - t-002
   global_id: t-121039
   teiginys: 'J. Caro „Geschichte Polens“ 2-5 tomai, apimantys 1300-1506 m., buvo išleisti Gothoje 1863-1888 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Caro|J. Caro]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Caro|J. Caro]]'
   temporaliniai_duomenys: 'įvykio data: 1300-1506; įvykio data: 1506 m.; įvykio data: 1863-1888; įvykio data: 1888 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -54,7 +54,7 @@ Zenono Ivinskio veikale J. Caro „Geschichte Polens“ minima kaip daugiatomis 
 - t-003
   global_id: t-121040
   teiginys: 'J. Caro „Geschichte Polens“ III tomas buvo išleistas 1869 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Caro|J. Caro]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Caro|J. Caro]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1869 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

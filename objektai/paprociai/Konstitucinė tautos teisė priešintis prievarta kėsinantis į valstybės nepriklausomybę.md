@@ -63,7 +63,7 @@ Nenurodyta
 - t-003
   global_id: t-41424
   teiginys: 'Tautos suvereniteto negalima varžyti ar riboti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -33,7 +33,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   global_id: t-87458
   teiginys: 'Stanislovas Sabina buvo medicinos daktaras ir 1584 m. ėjo Vilniaus vaito pareigas.'
   sudarymo_pagrindimas: 'Pradinis teiginys per fragmentiškas, o citata palaiko aiškesnį sakinį apie pareigas ir datą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas Milesijus|Augustinas Rotundas Milesijus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas Milesijus|Augustinas Rotundas Milesijus]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1542 m.; įvykio data: 1584 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per fragmentiškas, o citata palaiko aiškesnį sakinį apie pareigas ir datą.'
@@ -45,7 +45,7 @@ Graikų ti­ kėjimo Vilniaus pirkliai apskundė karaliui Stanislovą Sabiną (S
   global_id: t-87459
   teiginys: '1586 m. graikų tikėjimo Vilniaus pirkliai apskundė Vilniaus vaitą Stanislovą Sabiną karaliui dėl privilegijų pažeidimo.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą skundą dėl privilegijų pažeidimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_person: [[objektai/asmenys/Grigalius (vicekancleris)|Grigalius (vicekancleris)]]; mentioned_person: [[objektai/asmenys/Sabinas|Sabinas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1586 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą skundą dėl privilegijų pažeidimo.'

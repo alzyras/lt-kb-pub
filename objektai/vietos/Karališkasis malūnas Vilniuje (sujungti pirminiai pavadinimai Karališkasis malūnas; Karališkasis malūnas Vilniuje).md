@@ -34,7 +34,7 @@ amziai:
   global_id: t-86144
   teiginys: '1515 metais karalius leido Ulrikui Hošui savo lėšomis statyti Vilniaus Karališkąjį malūną.'
   sudarymo_pagrindimas: 'Citata palaiko statybos leidimą, pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ amziai:
   global_id: t-86145
   teiginys: 'Bernardinams Vilniuje buvo atiduotas slėnis su namais ir pieva palei Vilnią prie Karališkojo malūno.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Karališkojo malūno aplinką, pradinė claim dalis nesusijusi.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/neofitai|neofitai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Karališkasis malūnas Vilniuje; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilniaus monetų kalykla; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 900 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Karališkojo malūno aplinką, pradinė claim dalis nesusijusi.'

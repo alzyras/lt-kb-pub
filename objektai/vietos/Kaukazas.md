@@ -20,7 +20,7 @@ Jos nešėjai indoeuropiečiai nebuvo Europoje autochtonai, nes jie buvo atke­ 
 - t-001
   global_id: t-32211
   teiginys: 'Indoeuropiečiai į Europą greičiausiai atkeliavo per pietų Rusijos stepes ir Kaukazą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija; mentioned_place: Ukraina'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Robert Gordon Latham.md#claim-t-75425|Robert Gordon Latham]]: Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskrito giminingumas su lietuvių kalba yra ypač didelis.

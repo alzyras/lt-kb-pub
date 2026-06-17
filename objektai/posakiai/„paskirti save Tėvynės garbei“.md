@@ -21,7 +21,7 @@ Savo laiške prieš skrydį lakūnai ragino Lietuvos jaunimą paskirti save Tėv
   global_id: t-20932
   teiginys: 'Prieš skrydį Steponas Darius ir Stasys Girėnas laiške ragino Lietuvos jaunimą paskirti save Tėvynės garbei.'
   sudarymo_pagrindimas: 'Aiškiai įvardyti lakūnai ir paliktas tiesiogiai paremtas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stasys Girėnas|Stasys Girėnas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

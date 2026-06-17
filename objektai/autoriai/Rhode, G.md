@@ -25,7 +25,7 @@ Rhode, G.
 - t-001
   global_id: t-30952
   teiginys: 'G. Rhode 1973 m. paskelbė darbą apie polemiką dėl 1410 m. Tanenbergo mūšio.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/G. Rhode|G. Rhode]]; mentioned_place: Tanenbergas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/G. Rhode|G. Rhode]]; mentioned_place: Tanenbergas'
   temporaliniai_duomenys: 'įvykio data: 1410 m.; įvykio data: 1973 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

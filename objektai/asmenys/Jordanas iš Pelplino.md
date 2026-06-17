@@ -30,7 +30,7 @@ Katherine, du originalai (XI, Nr. 19, 20) ir nuorašas (LII, Spinta Nr. 1), kur�
   global_id: t-87529
   teiginys: 'Pelplino abatas Jordanas 1324 m. dalyvavo rengiant Mažesniųjų brolių laiško nuorašą.'
   sudarymo_pagrindimas: 'Citata patvirtina dalyvavimą rengiant nuorašą; pradinis tekstas buvo bibliografinis fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_person: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_place: Pelplinas; mentioned_place: Vildenbergas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_place: Pelplinas; mentioned_place: Vildenbergas'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina dalyvavimą rengiant nuorašą; pradinis tekstas buvo bibliografinis fragmentas.'

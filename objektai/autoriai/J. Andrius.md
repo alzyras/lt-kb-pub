@@ -31,7 +31,7 @@ Andrius : Kng.
 - t-001
   global_id: t-30657
   teiginys: 'J. Andrius 1952 m. „Aiduose“ paskelbė darbą „Kng. Radvilos Lietuvos žemėlapis“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/autoriai/P. Rėklaitis|P. Rėklaitis]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Juodoji jūra; mentioned_place: Lietuva; mentioned_place: Roma'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/P. Rėklaitis|P. Rėklaitis]]; mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Juodoji jūra; mentioned_place: Lietuva; mentioned_place: Roma'
   temporaliniai_duomenys: 'įvykio data: 1952 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

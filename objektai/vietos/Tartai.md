@@ -30,7 +30,7 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   global_id: t-02783
   teiginys: 'Tuo metu Maskva buvo užgrobusi Tartų, dar vadintų Dorpatu, vyskupystę.'
   sudarymo_pagrindimas: 'Citatoje vartojama forma „turėjo užgrobusi“, todėl teiginys pataisytas tiksliau ir sklandžiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje vartojama forma „turėjo užgrobusi“, todėl teiginys pataisytas tiksliau ir sklandžiau.'

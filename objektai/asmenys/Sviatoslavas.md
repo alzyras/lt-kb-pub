@@ -59,7 +59,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
 - susijęs iš [[objektai/grupes/Lietuviškoji partija.md#claim-t-95931|Lietuviškoji partija]]: Smolenske buvo išžudytas Vytauto vietininkas ir lietuviškąją partiją palaikę bajorai.
 - susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
 - susijęs iš [[objektai/ivykiai/Smolensko sukilimas po Vorsklos mūšio.md#claim-t-34496|Smolensko sukilimas po Vorsklos mūšio (mūšis)]]: Po Vytauto pralaimėjimo prie Vorsklos sukilo Smolenskas, o Sviatoslavo sūnus Jurgis sumanė jį užvaldyti.
-- susijęs iš [[objektai/ivykiai/Smolensko užėmimas (1405 m.).md#claim-t-35877|Smolensko užėmimas (1405 m.)]]: 1405 m. Vytautas su didele kariuomene ir artilerija užpuolė Smolenską, o miestas buvo paimtas padedant lietuvių šalininkams.
 - susijęs iš [[objektai/ivykiai/Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį).md#claim-t-31475|Smolensko užėmimas ir Viazmos paėmimas (1396 m. rudenį)]]: 1396 m. rudenį Vytautas, pasisiūlęs tarpininkauti, užėmė Smolenską ir Smolensko leną Viazmą.
 - susijęs iš [[objektai/paprociai/Ištikimybės priesaikos Jogailai.md#claim-t-176231|Ištikimybės priesaikos Jogailai]]: Tuo metu Jogailai ir Karūnai buvo duotos trys ištikimybės priesaikos.
 - susijęs iš M. Strijkovskio kronika: Karaliaučiaus leidimo Stryjkowskis susirėmimą ir mūšį prie Vižūnų laikė tuo pačiu įvykiu, nors Balińskis tai vadino tiesai prieštaraujančia klaida.

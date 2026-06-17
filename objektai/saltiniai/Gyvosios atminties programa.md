@@ -21,7 +21,6 @@ p. 223, „MŪŠIO LIUDININKES ATSIMINIMAI“, LGGRT centras, „Gyvosios atmint
 - t-001
   global_id: t-78844
   teiginys: 'LGGRT centro „Gyvosios atminties programa“ pateikė mūšio liudininkės atsiminimus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]'
   pagrindžia:
     - c-001
 

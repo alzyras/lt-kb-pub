@@ -28,7 +28,7 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
   global_id: t-78054
   teiginys: 'Immanuelis Kantas Kristijono Gotlibo Milkaus žodyno pratarmėje aukštai įvertino lietuvių kalbą.'
   sudarymo_pagrindimas: 'Citatos ir antraščių fragmentai perrašyti į trumpą faktą apie asmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Kantas|Kantas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1812 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatos ir antraščių fragmentai perrašyti į trumpą faktą apie asmenį.'

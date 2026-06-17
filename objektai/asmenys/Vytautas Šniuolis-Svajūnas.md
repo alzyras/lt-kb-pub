@@ -29,7 +29,7 @@ periodo_grupes:
   global_id: t-39681
   teiginys: '1949 m. rugpjūčio 13 d. Užpelkių miške žuvo Prisikėlimo apygardos štabo viršininkas Vytautas Šniuolis-Svajūnas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir atitinka citatos duomenis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Užpelkiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Petras Bartkus-Žadgaila|Petras Bartkus-Žadgaila]]; mentioned_place: Užpelkiai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir atitinka citatos duomenis.'

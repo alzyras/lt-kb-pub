@@ -22,7 +22,7 @@ Vytautas Žukas pasakoja apie AT gynybos principus. Vytautas Žukas buvo numatyt
 - t-001
   global_id: t-40530
   teiginys: 'AT gynėjas ir vėlesnis Lietuvos kariuomenės generolas majoras Vytautas Žukas pasakojo apie Aukščiausiosios Tarybos gynybos principus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

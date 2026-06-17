@@ -53,7 +53,7 @@ amziai:
   global_id: t-98615
   teiginys: 'Grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius po Ordino brolių vėliava.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi perteklinę atribuciją ir kontekstinę pradžią, bet citata palaiko konkretų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_place: Medininkai; mentioned_place: Reinas'
   pagrindžia:
     - c-005
 
@@ -61,7 +61,6 @@ amziai:
 - t-004
   global_id: t-98616
   teiginys: 'Daug Medvėgalio srities kilmingųjų derėjosi su magistru, siūlydami paklusti už apsaugą nuo karaliaus pykčio ir jėgos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-002
 
@@ -70,7 +69,7 @@ amziai:
   global_id: t-98617
   teiginys: 'Medvėgalyje žemaičiai atkakliai gynėsi, tačiau priešui padegus pilį turėjo pasiduoti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje aprašytu Medvėgalio gynimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]'
   temporaliniai_duomenys: 'įvykio data: 1357 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje aprašytu Medvėgalio gynimu.'
@@ -82,7 +81,6 @@ amziai:
   global_id: t-98618
   teiginys: 'Wigando kronikoje rašoma, kad daug Medvėgalio srities kilmingųjų derėjosi su magistru dėl paklusimo mainais į apsaugą nuo karaliaus.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, išlaikant citatos pagrįstą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Guillaume de Machaut.md#claim-t-30258|Guillaume de Machaut]]: Prancūzų poetas Guillaume de Machaut dalyvavo šiame žygyje ir 1357 m. jį paminėjo veikale „Confort d’Ami“.

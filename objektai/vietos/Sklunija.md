@@ -29,7 +29,7 @@ Dusburgietis teigia, kad todėl maldininkai pasiruošė kovai, Markos grafas nar
   global_id: t-58725
   teiginys: 'Sklunija buvo kaimas, anksčiau vadintas Kalija, į kurį subėgusius priešus maldininkai įveikė.'
   sudarymo_pagrindimas: 'Citata pagrindžia kaimo tapatinimą ir įvykį, pašalinant perteklinį kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Engelbertas|Engelbertas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Kaimas; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Kaimas; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1263 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia kaimo tapatinimą ir įvykį, pašalinant perteklinį kontekstą.'

@@ -22,7 +22,7 @@ Maskvos valdovas Ivanas, prisiekdamas visomis šventenybėmis, žadėjo išdavik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be OCR triukšmo ir neaiškių įvardžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

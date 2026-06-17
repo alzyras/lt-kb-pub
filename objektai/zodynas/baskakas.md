@@ -46,7 +46,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   global_id: t-78877
   teiginys: 'Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.'
   sudarymo_pagrindimas: 'Teiginys yra rišlus ir tiesiogiai pagrįstas citatos informacija apie baskakus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/sąvadas|sąvadas]]; mentioned_object: [[objektai/zodynas/tėvonys|tėvonys]]; mentioned_object: [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“|„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Podolė; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/tėvonys|tėvonys]]; mentioned_object: [[objektai/posakiai/„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“|„Mėlynuosius Vandenis ir Baltąją pakrantę nukariavo“]]; mentioned_place: Podolė; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 
@@ -54,7 +54,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
 - t-002
   global_id: t-78878
   teiginys: '1331 m. šiame šaltinyje baskakas minimas kaip totorių pareigūnas šalia Kijevo kunigaikščio, Lietuvos vietininko.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1331 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -65,7 +65,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   global_id: t-78879
   teiginys: '1331 m. šalia Kijevo kunigaikščio, Lietuvos vietininko, minimas ir totorių baskakas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja totorių baskaką su 1331 m. Kijevo kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kijevas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1331 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja totorių baskaką su 1331 m. Kijevo kontekstu.'
@@ -77,7 +77,7 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   global_id: t-78880
   teiginys: 'Podolėje atamanai duoklę atiduodavo atvykstantiems Ordos baskakams.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų baskakų vaidmenį priimant duoklę Podolėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Kamenecas; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_place: Kamenecas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
     - c-003
@@ -90,16 +90,10 @@ Terminas vartojamas kaip totorių ar Ordos valdžios pareigūno pavadinimas. Iš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Valdovo titulas ir kronikos pasakojimas turi būti priskirti šaltiniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187444|Aukso orda]]: Nuo 1328 m. atsinaujinus Lietuvos puolimams, Lietuva, tikėtina, užmezgė kompromisinius santykius su Aukso orda.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171341|Karijotaičiai]]: Algirdui leidus, trys Karijotaičiai su Lietuvos žemės pagalba patraukė į Podolės žemę.
-- susijęs iš [[objektai/paprociai/Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus.md#claim-t-09544|Podolės žemės duoklės davimas Ordos baskakams per paskirtus atamanus]]: Podolėje paskirti atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42433|atamanas]]: Karijotaičiai susidraugavo su vietiniais atamanais ir ėmė ginti Podolės žemę bei neduoti duoklės baskakams.
-- susijęs iš [[objektai/zodynas/atamanas.md#claim-t-42434|atamanas]]: Podolėje veikę atamanai nuo Podolės žemės duodavo duoklę atvykstantiems Ordos baskakams.
-- susijęs iš [[objektai/zodynas/tėvonys.md#claim-t-38782|tėvonys]]: Podolėje veikė tėvonių paskirti atamanai, duodavę duoklę atvykstantiems Ordos baskakams.
 ## Reikšmingi paminėjimai
 
 - c-001

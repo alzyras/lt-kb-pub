@@ -22,7 +22,7 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Vytautą, todėl perrašyta apie Vasilijų.'
-  susije_objektai: 'territory: Marienburgas; territory: Maskva; territory: Plockas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
+  susije_objektai: 'territory: Marienburgas; territory: Maskva; territory: Plockas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
   semantiniai_rysiai: '[[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Marienburgas; [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Plockas'
   pagrindžia:
     - c-001
@@ -35,7 +35,7 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Vasilijų, bet pradiniame teiginyje neįvardytas veiksmo subjektas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko trumpesnį ir aiškesnį faktą apie Vasilijaus atsakymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vargiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vargiai'
   pagrindžia:
     - c-003
 

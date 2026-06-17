@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-71580
   teiginys: '„Pienocentro“ pastatas Kaune buvo užfiksuotas apie 1938 m.'
   sudarymo_pagrindimas: 'Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Kaunas'
   temporaliniai_duomenys: 'pastatymo data: 1933 m.; pastatymo data: 1938 m.; pastatymo data: apie 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra antraštinis fragmentas, todėl perrašytas į pilną faktinį sakinį.'

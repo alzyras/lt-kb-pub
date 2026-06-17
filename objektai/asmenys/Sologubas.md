@@ -22,7 +22,6 @@ Sologubas priešinosi siūlymams perduoti pilį Glinskiui ir ragino įgulą nete
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet pradinį sakinį reikėjo sutrumpinti ir sutvarkyti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Maskvėnai.md#claim-t-184570|Maskvėnai]]: Maskvėnai ryžtingai puolė Smolenską ir, sudaužę sienas, galėjo be vargo įeiti į miestą.

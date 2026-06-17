@@ -34,11 +34,7 @@ Lenkų ir rusų bolševikų kare Lietuva paskelbė neutralitetą ir rūpinosi ap
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kalvarija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.).md#claim-t-20426|Molotovo-Ribentropo pakto ir slaptojo protokolo pasirašymas (1939 m. rugpjūčio 23 d.)]]: 1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptuoju protokolu pasidalijo regioną įtakos sferomis.
-- susijęs iš [[objektai/ivykiai/Vytauto karas su Pskovu (1426 m. rugpjūtis).md#claim-t-186735|Vytauto karas su Pskovu (1426 m. rugpjūtis)]]: Per abu Vytauto karus su Pskovu Didysis Naugardas laikėsi neutraliteto.
-- susijęs iš Lietuva 1938–1939 m. Neutraliteto iliuzijos: A. Kasparavičiaus leidinys „Lietuva 1938–1939 m. Neutraliteto iliuzijos“ išleistas Vilniuje 2010 m.
-- susijęs iš Vokietija: 1939 m. rugpjūčio 23 d. Vokietija ir SSRS slaptu protokolu pasidalijo regioną įtakos sferomis, o Lietuva atiteko Vokietijai.
-- susijęs iš Vokietija: 1939 m. rugpjūčio 23 d. Vokietijos ir SSRS slaptasis protokolas Lietuvą priskyrė Vokietijos įtakos sferai.
+
 ## Reikšmingi paminėjimai
 
 - c-001

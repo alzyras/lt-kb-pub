@@ -22,7 +22,7 @@ tags:
   global_id: t-86321
   teiginys: 'Žemutinė pilis taip pat vadinta Kreivąja pilimi.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra ne sakinys, o citata leidžia suformuluoti aiškų faktą apie pavadinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Žemutinė pilis'
+  susije_objektai: 'mentioned_place: Žemutinė pilis'
   pagrindžia:
     - c-001
 

@@ -52,7 +52,7 @@ Nenurodyta
 - t-002
   global_id: t-54740
   teiginys: 'Šubravcų draugijos nariai leido humoristinį laikraštį Wiadomości brukowe, kuriame aktyviai bendradarbiavo ir M. Balinskis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Anglija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Anglija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -33,7 +33,7 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   global_id: t-79348
   teiginys: 'Ivinskis Galvės ežero salos pilį minėjo kaip žymiausią Vytauto garbės ir pasididžiavimo statinį.'
   sudarymo_pagrindimas: 'Citata perteikia autoriaus vertinimą, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_place: Lietuva; mentioned_place: Salos'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/V. Trumpa|V. Trumpa]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Salos'
   pagrindžia:
     - c-001
 
@@ -45,7 +45,7 @@ Netoli Vilniaus, sunkiai prieinamame Galvės ežero pusiasaly, Gediminas pastat�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta ir pašalintos perteklinės aplinkybės, paliekant citatos remiamą faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-002
 

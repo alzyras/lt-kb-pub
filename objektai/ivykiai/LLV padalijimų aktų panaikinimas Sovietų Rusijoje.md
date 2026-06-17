@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-20248
   teiginys: 'Nors LLV padalijimų aktus 1918 m. rugpjūčio 29 d. panaikino Rusijos imperijos teisių perėmėja Sovietų Rusija, buvusi valstybė nebeatsikūrė.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, tiksliai perteikiantis citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/abdikacija|abdikacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Prūsija; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1918 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys, tiksliai perteikiantis citatos informaciją.'

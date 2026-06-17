@@ -29,7 +29,7 @@ Semkowicz, W.
 - t-001
   global_id: t-31072
   teiginys: 'W. Semkowicz parašė straipsnį „Pierwsze przywileje fundacyjne Witolda dla Kościoła na Żmudzi“, paskelbtą 1930 m.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1930 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

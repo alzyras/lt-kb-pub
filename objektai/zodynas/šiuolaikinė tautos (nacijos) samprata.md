@@ -23,7 +23,7 @@ pabaigoje Prancūzijos didžioji revoliucija pagimdė naują šiuolaikinę tauto
   global_id: t-22349
   teiginys: 'Pagal šiuolaikinę tautos sampratą tautą sudaro ne tik aukštuomenė ir išsilavinusieji, bet ir visi valstybės piliečiai ar valdiniai.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas, gramatiškas ir atitinka citatoje pateiktą sampratą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Prancūzija'
   pagrindžia:
     - c-001
 

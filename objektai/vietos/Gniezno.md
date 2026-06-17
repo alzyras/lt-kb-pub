@@ -28,7 +28,7 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
   global_id: t-94046
   teiginys: 'Daukanto aprašytame sausumos kelyje į Romą Cydova minima greta Gniezno.'
   sudarymo_pagrindimas: 'Pirminis teiginys turi neaiškų įvardį ir nepagrįstą veiksmą; citata remia tik Gniezno paminėjimą kelio apraše.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]'
   pagrindžia:
     - c-002
 
@@ -165,9 +165,9 @@ Jis tai atliko per lenkų Gniezno arkivyskupą.
 ## Ryšiai
 - [[objektai/asmenys/Andrius Kopernikas]] buvo_valdovas Gniezno
 - [[objektai/asmenys/Ziemovitas]] buvo_valdovas Gniezno
-- [[objektai/asmenys/Aleksandras]] keliavo_i Gniezno
 - [[objektai/asmenys/Aleksandras Balinskis]] keliavo_i Gniezno
 - [[objektai/asmenys/Gediminas]] keliavo_i Gniezno
 - [[objektai/asmenys/Jadvyga Jogailienė]] keliavo_i Gniezno
 - [[objektai/grupes/Lenkai]] keliavo_i Gniezno
+- [[objektai/asmenys/Motiejus]] keliavo_i Gniezno
 - [[objektai/asmenys/Motiejus iš Blonios]] keliavo_i Gniezno

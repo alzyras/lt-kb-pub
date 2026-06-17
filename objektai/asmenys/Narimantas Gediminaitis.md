@@ -24,7 +24,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   global_id: t-40368
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatos faktinę informaciją.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Naugardas; territory: Veliuona; territory: Švedija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
+  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Naugardas; territory: Veliuona; territory: Švedija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Lietuva; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Livonija; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Naugardas; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Veliuona; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Švedija'
   pagrindžia:
     - c-003
@@ -34,7 +34,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   global_id: t-40369
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Naugardas; territory: Veliuona; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
+  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Naugardas; territory: Veliuona; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
   semantiniai_rysiai: '[[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Lietuva; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Livonija; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Naugardas; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Veliuona; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Švedija'
   pagrindžia:
     - c-002
@@ -44,7 +44,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   global_id: t-40370
   teiginys: 'Rusų metraščiai mini, kad vokiečiai mūšyje nukovė kunigaikštį Narimantą Gediminaitį, Algirdo ir Kęstučio brolį.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet perrašytas į aiškesnį sakinį su veikėju ir objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

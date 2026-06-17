@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per fragmentiškas ir be aiškaus konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
   pagrindžia:
     - c-001
 
@@ -52,10 +52,10 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys sugadintas OCR triukšmu ir nutrūkęs.'
-  susije_objektai: 'event: [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]] dalyvavo mūšyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]; [[objektai/asmenys/Jonas|Jonas]] dalyvavo mūšyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]; [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]] dalyvavo mūšyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]'
+  susije_objektai: 'event: [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]] dalyvavo mūšyje [[objektai/ivykiai/Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)|Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)]]'
   temporaliniai_duomenys: 'mūšio data: 1491 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Olbrachtas dalyvavo mūšyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas dalyvavo mūšyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tame (Baigos brolis) dalyvavo mūšyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Olbrachtas dalyvavo mūšyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys sugadintas OCR triukšmu ir nutrūkęs.'
   pagrindžia:
     - c-002
@@ -68,7 +68,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jonas Olbrachtas|Jonas Olbrachtas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-003
 
@@ -149,6 +149,4 @@ Nenurodyta
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas]] dalyvavo_musyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)
 - [[objektai/asmenys/Jonas Olbrachtas]] dalyvavo_musyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)
-- [[objektai/asmenys/Tame (Baigos brolis)]] dalyvavo_musyje Jono Olbrachto pralaimėjimas Vengrijoje (1491 m.)

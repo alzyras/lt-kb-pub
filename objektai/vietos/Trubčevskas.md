@@ -32,7 +32,7 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
   global_id: t-187359
   teiginys: '1379–1380 m. žiemą Maskvos kunigaikščio Dimitro kariuomenė užėmė Trubčevską.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perejeslavlis; mentioned_place: Starodubas'
+  susije_objektai: 'mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perejeslavlis; mentioned_place: Starodubas'
   temporaliniai_duomenys: 'įvykio data: po 1377 m.; įvykio data: 1377 m.; įvykio data: 1379-1380; įvykio data: 1380 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

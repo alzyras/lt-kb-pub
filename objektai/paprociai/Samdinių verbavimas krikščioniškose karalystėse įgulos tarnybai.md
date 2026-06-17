@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą apie Kafos gyventojų sumanymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Teodosija (Kafa)'
+  susije_objektai: 'mentioned_place: Teodosija (Kafa)'
   pagrindžia:
     - c-001
 

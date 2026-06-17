@@ -29,7 +29,6 @@ Dusburgietis teigia, kad thomas A.
   global_id: t-61315
   teiginys: 'A. Thomaso „Der Szarkaberg und die Gisevius’schen Volkssagen“ paskelbtas 1882 m. Karaliaučiuje leisto AM 19 tome.'
   sudarymo_pagrindimas: 'Citata pateikia leidinio vietą, metus ir tomą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1882 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio vietą, metus ir tomą.'

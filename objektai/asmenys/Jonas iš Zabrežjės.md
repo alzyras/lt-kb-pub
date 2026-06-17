@@ -15,7 +15,6 @@ tags:
   - karalius
   - kunigaikštis
   - tikėjimas
-  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -34,7 +33,7 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   global_id: t-87525
   teiginys: '1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.'
   sudarymo_pagrindimas: 'Pradinis tekstas buvo dokumento liudytojų sąrašo fragmentas, todėl reikėjo sakinio.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Merkinė; mentioned_place: Polockas; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vroclavas'
   temporaliniai_duomenys: 'įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas buvo dokumento liudytojų sąrašo fragmentas, todėl reikėjo sakinio.'
@@ -46,7 +45,7 @@ Ten pat daly­ vaujant didžiai gerbiamiems, didingiesiems ir prakilnie­ siems 
   global_id: t-87526
   teiginys: 'Jonas iš Zabrežjės 1501 m. Gardine dalyvavo kaip Trakų vaivada ir LDK didysis maršalka.'
   sudarymo_pagrindimas: 'Citata nurodo datą, vietą, dalyvavimą ir Jono iš Zabrežjės pareigas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Bełskas; mentioned_place: Gardinas; mentioned_place: Slonimas; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1501 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo datą, vietą, dalyvavimą ir Jono iš Zabrežjės pareigas.'

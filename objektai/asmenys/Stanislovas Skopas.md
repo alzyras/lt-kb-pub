@@ -21,7 +21,7 @@ Taip pat dešimtinė nuo visų garbin­ gojo Stanislovo Skopo gėrybių, kurias 
   global_id: t-87581
   teiginys: 'Stanislovas Skopas Pabaisko parapijoje turėjo gėrybių, nuo kurių anksčiau buvo mokama dešimtinė.'
   sudarymo_pagrindimas: 'Pradinis tekstas fragmentiškas, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dešimtinė|dešimtinė]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/dešimtinė|dešimtinė]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-001
 

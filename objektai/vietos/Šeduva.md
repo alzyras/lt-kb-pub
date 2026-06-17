@@ -29,7 +29,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
 - t-001
   global_id: t-69878
   teiginys: 'Šeduvoje jėzuitai buvo įkūrę vieną iš mažesnių mokyklų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -38,7 +38,7 @@ Be to, jėzuitai turėjo įsikūrę ir mažesnių mokyklų — Varniuose, Laukso
   global_id: t-69879
   teiginys: 'Šeduvos-Panevėžio geležinkelio liniją dengė vokiečių saksų batalionas.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, aiškus ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių saksų batalionas|Vokiečių saksų batalionas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečių saksų batalionas|Vokiečių saksų batalionas]]'
   pagrindžia:
     - c-001
 

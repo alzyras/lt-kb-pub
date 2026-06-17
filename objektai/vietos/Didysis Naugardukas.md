@@ -22,7 +22,7 @@ tags:
   teiginys: 'Įvade nurodoma, kad Bychovco kronikoje iškeliamas Vytauto pranašumas prieš Vasilijų, Pskovą ir Didįjį Naugarduką.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo neaiškus ir vertinamąjį pranašumą reikia atribuoti.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Naugardukas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Naugardukas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ tags:
   teiginys: 'Įvade Didysis Naugardukas minimas tarp feodalinių respublikų, aptariant LDK santykius su Rusų valstybe.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti objektą su citatoje nurodytu kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Naugardukas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Naugardukas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

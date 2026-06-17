@@ -30,7 +30,7 @@ K. Ambrasas šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   teiginys: 'K. Ambrasas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas redakcinės komisijos sąrašu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_author: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas redakcinės komisijos sąrašu.'

@@ -27,7 +27,7 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   global_id: t-38838
   teiginys: 'Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais šiauriau nei Zarasų operaciją vykdžiusi I brigada.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie 11 brigados veikimą ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/Marijampolės batalionas|Marijampolės batalionas]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/I brigada|I brigada]]; mentioned_group: [[objektai/grupes/Marijampolės batalionas|Marijampolės batalionas]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Marijampolė; mentioned_place: Zarasai'
   pagrindžia:
     - c-001
 

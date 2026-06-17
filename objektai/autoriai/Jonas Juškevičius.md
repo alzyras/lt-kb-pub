@@ -29,7 +29,7 @@ Kai Jonas Juškevičius 1864 m. pasiūlė kuratoriui Kornilovui išspausdinti sa
   global_id: t-01069
   teiginys: 'Jonas Juškevičius 1864 m. gavo Kornilovo pasiūlymą lietuvišką gramatikos tekstą perrašyti rusiškomis raidėmis.'
   sudarymo_pagrindimas: 'Reikia pašalinti dviprasmį įvardį ir sutrumpinti sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Slavofilai|Slavofilai]]; mentioned_object: [[objektai/zodynas/Rusiškosios raidės|Rusiškosios raidės]]; mentioned_object: [[objektai/zodynas/kuratorius|kuratorius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_group: [[objektai/grupes/Slavofilai|Slavofilai]]; mentioned_object: [[objektai/zodynas/kuratorius|kuratorius]]'
   temporaliniai_duomenys: 'įvykio data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti dviprasmį įvardį ir sutrumpinti sakinį.'

@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-59531
   teiginys: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigėdos ir Pieštvės pilis ir iki pamatų sudegino jų papilius.'
   sudarymo_pagrindimas: 'Citata remia teiginį, bet datos vieta šaltinyje pateikta su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kunonas (Brandenburgo komtūras)|Kunonas (Brandenburgo komtūras)]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Junigeda; mentioned_place: Livonija; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-001
 

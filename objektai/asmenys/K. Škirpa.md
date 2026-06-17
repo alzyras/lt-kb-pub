@@ -37,7 +37,7 @@ periodo_grupes:
 - t-002
   global_id: t-49400
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 
@@ -46,7 +46,7 @@ periodo_grupes:
   global_id: t-49401
   teiginys: 'Rugsėjo 5 d. K. Škirpos ir A. Jakaičio vadovaujamos pajėgos tęsė nevaisingą Suvalkų puolimą.'
   sudarymo_pagrindimas: 'Pirminis teiginys turi gramatikos klaidų ir perima šaltinio fragmentiškumą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_person: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_place: Suvalkai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Žukas|K. Žukas]]; mentioned_person: [[objektai/asmenys/K. Ladyga|K. Ladyga]]; mentioned_place: Suvalkai'
   pagrindžia:
     - c-002
 

@@ -34,7 +34,6 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko konkretų veiksmą per Tarvastos pilies užėmimą; pašalintas OCR triukšmas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-001
 

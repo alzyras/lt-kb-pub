@@ -28,7 +28,7 @@ Bet po keleto dienų, padėjęs ginklus, į Prūsiją perėjo ir Rohlando būrys
   global_id: t-01465
   teiginys: 'Rohlando būrys po kelių dienų padėjo ginklus ir perėjo į Prūsiją.'
   sudarymo_pagrindimas: 'Pašalintas sakinio pradžios jungtukas ir išlaikytas citatos faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1831 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas sakinio pradžios jungtukas ir išlaikytas citatos faktas.'

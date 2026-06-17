@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-78632
   teiginys: 'Prostkų mūšyje Švedijos ir Brandenburgo pajėgas pasitiko Lietuvos lauko etmono Vincento Gosievskio vadovaujama kariuomenė.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir aiškiau susiejant faktą su mūšiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Prūsai; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 
@@ -74,7 +74,7 @@ Nenurodyta
 - t-004
   global_id: t-78635
   teiginys: '1656 m. spalio 8 d. ties Prostkais Lietuvos pajėgos pasitiko besitraukiančias Švedijos ir Brandenburgo pajėgas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_person: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Prūsai; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Walenrodto|Walenrodto]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Prostkai; mentioned_place: Prūsai; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1656 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

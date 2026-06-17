@@ -23,7 +23,6 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   global_id: t-87577
   teiginys: 'Sofijai Šimonovai suteiktos privilegijos buvo atšauktos ir paskelbtos negaliojančiomis visiems laikams.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo privilegijų atšaukimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]'
   pagrindžia:
     - c-002
 
@@ -32,7 +31,7 @@ Mūsų valia yra tokia: Jono Jurgeravičiaus, Mikalojaus Sachovskio, Sofijos Ši
   global_id: t-87578
   teiginys: 'Bajorė Sofija Šimonova iš Alberto Tžasibrodos žemės turėjo mokėti kviečių dešimtinę nuo visų laukų.'
   sudarymo_pagrindimas: 'Reikia sutvarkyti OCR paveiktą formuluotę ir suderinti vardą su objekto pavadinimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Tarnavska|Ona Tarnavska]]; mentioned_person: [[objektai/asmenys/Sofija|Sofija]]; mentioned_place: Gelvonai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ona Tarnavska|Ona Tarnavska]]; mentioned_place: Gelvonai'
   pagrindžia:
     - c-001
 

@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20575
   teiginys: 'Karalaitis Kazimieras paskelbtas šventuoju, kai po mirties pradėjo garsėti kaip stebukladaris.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_place: Dauguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1518 m.; įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir paremtas citatos turiniu.'

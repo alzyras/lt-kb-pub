@@ -23,7 +23,7 @@ tags:
   global_id: t-86580
   teiginys: 'Jogailos valdymo pradžioje Lietuvoje ėmė irti feodalinės visuomenės pamatai, kuriuos buvo gebėjęs išlaikyti Gediminas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, o pradinį sakinį reikėjo padaryti savarankišką ir taisyklingą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vienvaldystė|vienvaldystė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

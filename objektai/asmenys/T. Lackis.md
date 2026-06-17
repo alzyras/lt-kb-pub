@@ -22,7 +22,7 @@ Lackio husarai ir ryžtingu puolimu nubloškia švedų raituosius gvardiečius. 
   global_id: t-40456
   teiginys: 'Rotmistro T. Lackio vadovaujami 200 husarų padarė lankstą ir visa jėga smogė į švedų raitelių kairįjį sparną.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/rotmistras|rotmistras]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Kuršas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Kuršas'
   pagrindžia:
     - c-002
 

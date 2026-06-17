@@ -40,7 +40,7 @@ amziai:
   global_id: t-83566
   teiginys: 'Pabaisko parapijos ribos ėjo nuo Širvintos iki Šventosios ir buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi būti sutvarkytas į pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ amziai:
   global_id: t-83567
   teiginys: 'Pabaisko parapijos ribos buvo juosiamos Kertušos upės, tekančios per Šešuolės mišką iki Šesarkos upės.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nusako citatoje pateiktas Pabaisko parapijos ribas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis.md#claim-t-87218|Pabaisko parapinės bažnyčios išimtinumas ir savavališkų bažnyčių pavertimas filijomis]]: Pabaisko parapijos ribose neturėjo veikti kita parapinė bažnyčia, o savavališkai pastatytos bažnyčios turėjo tapti Pabaisko filijomis.

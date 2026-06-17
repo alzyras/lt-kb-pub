@@ -26,7 +26,7 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
   susije_objektai: 'mentioned_object: [[objektai/zodynas/uolektis|uolektis]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/posakiai/Aukščiausias dievas padarė manyje ženklų ir stebuklų.md#claim-t-89576|Aukščiausias dievas padarė manyje ženklų ir stebuklų]]: Dusburgietis aiškino, kad žodžius „Aukščiausias dievas padarė manyje ženklų ir stebuklų“ ištarė Babilonijos karalius Nabuchodonosaras.
+
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -45,7 +45,3 @@ Dusburgietis teigia, kad šitaip bylojo Babilonijos karalius Nabuchodonosaras, m
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Nabuchodonosaras buvo_valdovas [[objektai/vietos/Jeruzalė]]
-- Nabuchodonosaras buvo_valdovas [[objektai/vietos/Prūsija]]

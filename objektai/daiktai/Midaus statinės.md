@@ -45,7 +45,7 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad Lietuvos metraščių nuorašuose Lucko vaišėse išgerto midaus kiekis didėja nuo 300 iki 700 statinių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys gremėzdiškas ir sudarytas iš dviejų sakinių; citata leidžia glaustesnį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Luckas'
   pagrindžia:
     - c-001
 

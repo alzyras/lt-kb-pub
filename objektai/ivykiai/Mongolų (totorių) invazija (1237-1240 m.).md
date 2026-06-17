@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-28850
   teiginys: '1237–1240 m. mongolų invazija smarkiai paveikė rusų politinį ir kultūrinį gyvenimą Riurikaičių susiskaldymo laikotarpiu.'
   sudarymo_pagrindimas: 'Perrašyta gramatiškiau ir be archajiškų bei OCR formų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1237-1240; įvykio data: 1240 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta gramatiškiau ir be archajiškų bei OCR formų.'
@@ -61,7 +61,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR ir kalbos klaidų, todėl reikia sutvarkyti formuluotę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Riurikas|Riurikas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'įvykio data: 1237-1240; įvykio data: 1240 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR ir kalbos klaidų, todėl reikia sutvarkyti formuluotę.'

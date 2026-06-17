@@ -34,7 +34,7 @@ Dusburgietis teigia, kad po to broliai, pasitraukę su kariuomene, kurį laiką 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pateikia datą, vadą ir rezultatą, todėl galima suformuluoti tikslesnį enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Junigeda; mentioned_place: Ragainė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Aukaimis; mentioned_place: Baiga; mentioned_place: Junigeda; mentioned_place: Ragainė; mentioned_place: Viena'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.

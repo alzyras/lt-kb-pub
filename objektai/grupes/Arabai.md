@@ -10,7 +10,6 @@ tags:
   - kraštas
   - miestas
   - tauta
-  - žemėlapis
 ---
 # Arabai
 

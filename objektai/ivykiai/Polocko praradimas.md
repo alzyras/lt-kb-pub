@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-16735
   teiginys: '1563 m. Polocko praradimas parodė, kad Lietuvai reikėjo Lenkijos paramos.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į savarankišką ir aiškią faktinę formą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1563 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pataisytas į savarankišką ir aiškią faktinę formą.'

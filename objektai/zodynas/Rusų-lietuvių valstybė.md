@@ -36,9 +36,7 @@ Pavyzdžiui, 1838 m. aiškinosi rusų valdžiai Varšuvoje: „Leidžiant Vilnia
   temporalinis_llm_pakomentavimas: 'Pradinė frazė neišbaigta, bet citata tiesiogiai pagrindžia aiškų teiginį.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje.md#claim-t-86921|M. Balinskio apkaltinimas „lenkiškuoju patriotizmu“ Varšuvoje]]: 1838 m. Mykolas Balinskis rusų valdžiai Varšuvoje aiškino, kad jo „Vilniaus miesto istorijos“ tikslas buvo Lietuva ir jos senoji sostinė.
-- susijęs iš Lietuva: 1838 m. Mykolas Balinskis aiškino rusų valdžiai, kad jo Vilniaus istorijos veikalo tikslas buvo Lietuva ir jos senoji sostinė.
-- susijęs iš Vilnius: 1838 m. Mykolas Balinskis aiškino, kad rašydamas Vilniaus miesto istoriją siekė aprašyti Lietuvą ir jos senąją sostinę, o ne Lenkiją.
+
 ## Reikšmingi paminėjimai
 
 - c-001

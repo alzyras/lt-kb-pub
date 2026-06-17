@@ -31,7 +31,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   global_id: t-111669
   teiginys: 'Sapiegų daliniai sustojo prie Lieponių, arba Leipūnų, smuklės už maždaug 7 km nuo respublikonų stovyklos Valkininkuose.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Povilas Sapiega|Povilas Sapiega]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_place: Valkininkai; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Povilas Sapiega|Povilas Sapiega]]; mentioned_place: Valkininkai; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
 - t-003
   global_id: t-111672
   teiginys: '." Kiti minėjo Leipūnų laukuose žuvusius sūnus, tėvus ir kitus gimines.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Povilas Sapiega|Povilas Sapiega]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_place: Viena; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Respublikonai|Respublikonai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Povilas Sapiega|Povilas Sapiega]]; mentioned_place: Viena; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 
@@ -51,7 +51,7 @@ Kai Mykolas Sapiega pasidavė, bajorijos regimentorius, grąžinęs jam kardą, 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir daugiausia kalba apie Mykolą Sapiegą, o vietai pakanka aiškaus fakto apie kautynių vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_place: Valkininkai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/zodynas/regimentorius.md#claim-t-182974|regimentorius]]: Bajorijos regimentorius Višniaveckis, grąžinęs Mykolui Sapiegai kardą, nusivežė jį savo karietoje į Valkininkus.

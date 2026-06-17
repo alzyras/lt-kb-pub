@@ -21,7 +21,6 @@ Likimo lemties tremtiniai, sutelkę į draugę valtis, vadovauja­ mi išsirinkt
   global_id: t-86194
   teiginys: 'Kronikininkas pasakoja, kad apie 880 metus iš Danijos išvaryti tremtiniai įsikūrė Prūsijoje, Žemaitijoje ir Karelijoje.'
   sudarymo_pagrindimas: 'Citata pateikia kronikininko pasakojimą, todėl reikalinga šaltinio pozicijos atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86991|Laivai, valtys, sieliai ir plaustai]]: Petro Olai kronikoje pasakojama, kad apie 880 metus Danijos tremtiniai valtimis persikėlė per jūrą ir įsikūrė Prūsijoje, Žemaitijoje bei Karelijoje.

@@ -21,10 +21,10 @@ Juos papildė Lenkijos karalystės pinigais suverbuoti žmonės ir lenkų riteri
 - t-001
   global_id: t-39991
   teiginys: 'Albertas (Vaitiekus) Sampolinskis vadovavo karaliaus dvarionims jungtinėje lietuvių ir lenkų kariuomenėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Jonušas Svierčiovskis.md#claim-t-40232|Jonušas Svierčiovskis]]: Jonušas Svierčiovskis vadovavo samdinių pulkams, kurie turėjo sudaryti daugiau kaip 8000 karių.
+
 ## Reikšmingi paminėjimai
 
 - c-001

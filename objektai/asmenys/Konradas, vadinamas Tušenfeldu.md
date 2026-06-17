@@ -23,7 +23,7 @@ Dusburgietis teigia, kad ten žuvo nukautas brolis Konradas, vadinamas Tušenfel
   global_id: t-60370
   teiginys: 'Ten žuvo nukautas brolis Konradas, vadinamas Tušenfeldu.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

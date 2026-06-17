@@ -22,7 +22,7 @@ Dusburgietis teigia, kad apie švento Jodoko stebuklus Prūsijos Pamedėje Tais 
   global_id: t-60336
   teiginys: 'Šventas Jodokas ėmė daryti stebuklus Prūsijoje, Pamedės vyskupystėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Pamedė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

@@ -30,7 +30,7 @@ Lietuvoje analogišką manifestą 1863 m. vasario 1 d. paskelbė Lietuvos Provin
   global_id: t-40980
   teiginys: 'Lietuvos Provincijos komitetas 1863 m. vasario 1 d. paskelbė manifestą ir pasivadino Laikinąja Vyriausybe Lietuvoje.'
   sudarymo_pagrindimas: 'Pradinis sakinys prasideda kontekstiniu žodžiu „Lietuvoje analogišką“, todėl geriau jį perrašyti savarankiškai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Konstantinas Kalinauskas|Konstantinas Kalinauskas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas Kalinauskas|Konstantinas Kalinauskas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: 1863 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys prasideda kontekstiniu žodžiu „Lietuvoje analogišką“, todėl geriau jį perrašyti savarankiškai.'

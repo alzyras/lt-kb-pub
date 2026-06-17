@@ -30,7 +30,7 @@ Visuomenė darėsi pliuralistinė, įregistruota net 40 partijų, tačiau Lietuv
   global_id: t-75008
   teiginys: '1996 m. Seimo rinkimuose sėkmė lydėjo V. Landsbergio vadovaujamus konservatorius.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sakinio fragmentas, bet citata remia pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1992 m.; įvykio data: 1993 m.; įvykio data: 1996 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra sakinio fragmentas, bet citata remia pilną faktinį sakinį.'

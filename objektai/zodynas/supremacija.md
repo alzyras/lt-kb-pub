@@ -31,12 +31,10 @@ Bet teisiškai Lietuva buvo su Lenkija surišta ir buvo visiškoje jos supremaci
 - t-002
   global_id: t-36839
   teiginys: 'Sudarytuose unijos aktuose kontragentai nebuvo laikomi lygiais, o supremacija visada buvo paliekama lenkams.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/unija|unija]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Dubysos salos derybos su Ordinu (1396 m.).md#claim-t-34473|Dubysos salos derybos su Ordinu (1396 m.)]]: 1396 m. Vytautas Dubysos saloje susitiko su Vokiečių Ordino magistru deryboms.
-- susijęs iš [[objektai/paprociai/Įkaitų davimas kaip sutarties garantija.md#claim-t-67242|Įkaitų davimas kaip sutarties garantija (sutartis)]]: Magistras reikalavo, kad Vytautas duotų bajorų sūnus įkaitais ir išpildytų seniau Ordinui duotus pasižadėjimus.
-- susijęs iš Dubysos sala: 1396 m. Vytautas Dubysos saloje susitiko su magistru, kuris jam pateikė Ordino reikalavimus.
+
 ## Reikšmingi paminėjimai
 
 - c-001

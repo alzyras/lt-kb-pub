@@ -32,7 +32,7 @@ amziai:
 - t-001
   global_id: t-67348
   teiginys: '„Akta unii Polski z Litwą 1385-1791“ yra St. Kutrzebos ir Wl. Semkowicziaus parengtas 1385-1791 m. Lenkijos ir Lietuvos unijų aktų rinkinys, išleistas Krokuvoje 1932 m.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_person: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kutrzeba|Kutrzeba]]; mentioned_author: [[objektai/autoriai/St. Kutrzeba|St. Kutrzeba]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1385-1791; įvykio data: 1791 m.; įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -22,7 +22,7 @@ Galėtume manyti, kad ir lietuvių epas buvo pradėjęs formuotis.
   global_id: t-22132
   teiginys: 'Epas yra pasakojimai apie dievus, pusdievius ir didvyrius.'
   sudarymo_pagrindimas: 'Pradinis teiginys citata nepagrįstas, bet citata leidžia pateikti sąvokos apibrėžimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

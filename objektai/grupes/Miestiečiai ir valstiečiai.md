@@ -24,7 +24,7 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
   global_id: t-19942
   teiginys: 'Gegužės trečiosios konstitucija įformino miestiečių teises ir pirmąkart paminėjo valstybės globą valstiečiams santykiuose su dvarininkais.'
   sudarymo_pagrindimas: 'Sakinys patikslintas pagal citatą ir pašalintas ne toks tikslus žodis „užsiminė“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,6 @@ Miestiečių teises ir įformino Gegužės trečiosios konstitucija.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys yra trumpas, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-002
 

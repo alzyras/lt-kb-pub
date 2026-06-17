@@ -29,7 +29,7 @@ Dusburgietis teigia, kad apie dviejų kaimų sudeginimą Medininkų valsčiuje 1
   global_id: t-60331
   teiginys: '1316 m. vasarą Sembos fogtas Hugonas maršalo įsakymu su aštuoniais šimtais vyrų išjojo link Medininkų valsčiaus.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir nutrūkęs įsiveržimo fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Hugonas|Hugonas]]; mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/fogtas|fogtas]]; mentioned_place: Medininkai; mentioned_place: Ragainė; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės triukšmas ir nutrūkęs įsiveržimo fragmentas.'

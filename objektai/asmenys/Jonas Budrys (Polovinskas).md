@@ -22,7 +22,7 @@ Galvanauskas ir ruošiamo žygio vadas, žvalgybos karininkas Jonas Budrys (Polo
   global_id: t-26447
   teiginys: 'Žvalgybos karininkas Jonas Budrys (Polovinskas) buvo ruošiamo Klaipėdos žygio vadas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako asmens vaidmenį ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bermontininkai|Bermontininkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-169965|Ernestas Galvanauskas]]: Ernestas Galvanauskas ir Jonas Budrys nustebo, kad Lietuvos karininkai nenoriai rašėsi į Klaipėdos žygį, nelaikydami jo kova už tėvynę.

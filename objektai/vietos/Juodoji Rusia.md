@@ -29,7 +29,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - t-001
   global_id: t-68026
   teiginys: 'Vytauto laikais Juodojoje Rusioje, Gardine ir Naugarduke, pradėtos statyti LDK pilys.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
 
@@ -38,7 +38,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   global_id: t-68027
   teiginys: 'Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
   sudarymo_pagrindimas: 'Pakeistas neaiškus įvardis į aiškų veikėją.'
-  susije_objektai: 'owner: Minskas; owner: Mstislavlis; owner: Vilnius; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
+  susije_objektai: 'owner: Minskas; owner: Mstislavlis; owner: Vilnius; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
   semantiniai_rysiai: 'Juodoji Rusia priklausė Minskas; Juodoji Rusia priklausė Mstislavlis; Juodoji Rusia priklausė Vilnius'
   pagrindžia:
     - c-002

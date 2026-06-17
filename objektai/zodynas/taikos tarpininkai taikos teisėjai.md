@@ -21,7 +21,6 @@ Baudžiavos panaikinimo vykdymas buvo pačių dvarininkų rankose, nes visi taik
   global_id: t-104174
   teiginys: 'Taikos tarpininkai vadovavo reformos vykdymo apylinkėms, į kurias buvo padalintos apskritys.'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau tinka taikos suvažiavimams, todėl perrašyta pagal šio įrašo objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]'
   pagrindžia:
     - c-001
 

@@ -32,7 +32,7 @@ Kaip tik tuo metu atsirado kitas svarbus ginkluotų misijų kraštas, būtent, P
 - t-001
   global_id: t-32483
   teiginys: 'Prūsų žemė tapo svarbiu ginkluotų misijų kraštu ir rimtu Livonijos riterių bei kryžininkų prieaugliui varžovu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Alna; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Alna; mentioned_place: Livonija; mentioned_place: Prūsai; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1225 m.; įvykio data: 1231-1234; įvykio data: 1234 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

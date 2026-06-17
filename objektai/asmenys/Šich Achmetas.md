@@ -22,7 +22,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir paremtas citata.'
-  susije_objektai: 'location: Radomas; location: Vilnius; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/skitai|skitai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Radomas; mentioned_place: Vilnius'
+  susije_objektai: 'location: Radomas; location: Vilnius; mentioned_place: Radomas; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Radomas; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
@@ -35,7 +35,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai susijęs su Šich Achmetu ir paremtas šaltiniu.'
-  susije_objektai: 'territory: Krymas; territory: Lenkija; territory: Radomas; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Radomas'
+  susije_objektai: 'territory: Krymas; territory: Lenkija; territory: Radomas; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Radomas'
   semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Krymas; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Lenkija; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Radomas'
   pagrindžia:
     - c-002

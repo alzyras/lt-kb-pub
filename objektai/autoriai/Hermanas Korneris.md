@@ -30,7 +30,7 @@ Tas pareiškimas prieštarauja Koje- 1 a v i č i a u s (p. 272), Hermano Korner
   global_id: t-88062
   teiginys: 'Hermano Kornerio kronikoje teigta, kad Gediminas buvo prisiekęs gyventi ir mirti išpažindamas savo tėvų tikėjimą.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir citata pagrindžia Hermano Kornerio teiginį apie Gedimino tikėjimą.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]; mentioned_person: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Krantzas|Albertas Krantzas]]; mentioned_author: [[objektai/autoriai/Hermanas Corneris|Hermanas Corneris]]; mentioned_object: [[objektai/posakiai/Gyventi ir mirti savo tėvų tikėjimą išpažindamas|Gyventi ir mirti savo tėvų tikėjimą išpažindamas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

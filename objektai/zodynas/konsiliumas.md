@@ -29,7 +29,7 @@ amziai:
   global_id: t-70190
   teiginys: 'Švitrigailos ir Zigmanto kovos metu Bazelyje vyko visuotinis Bažnyčios suvažiavimas, vadintas konsiliumu.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje susimaišė antraštė ir sakinys, todėl jis pataisytas į vientisą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Konstanca'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Konstanca'
   pagrindžia:
     - c-001
 

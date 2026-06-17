@@ -33,7 +33,7 @@ Jie kiekvienas irgi atsivedė samdytos kariuomenės — savo dvarų milicijos.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia pašalinti skyrybos neaiškumą ir padaryti sakinį enciklopediškai sklandesnį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]]; mentioned_group: [[objektai/grupes/Sapiegos|Sapiegos]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

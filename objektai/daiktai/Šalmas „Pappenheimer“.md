@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-80685
   teiginys: 'Šalmas „Pappenheimer“ buvo kavalerijai skirtas šalmas, ilgai naudotas raitarų ir kartais ATR husarų vėliavų eilinių.'
   sudarymo_pagrindimas: 'Papildytas pavadinimas ir pašalintas neaiškus pradinis veiksnys.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_object: [[objektai/zodynas/raitarai|raitarai]]; mentioned_place: Anglija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
 
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-80686
   teiginys: 'Šalmas „Pappenheimer“ buvo iš rytų perimto šyšako vakarietiška atmaina, paplitusi XVII a.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina objektą ir yra tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Anglija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus prastuomenė|Vilniaus prastuomenė]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
 

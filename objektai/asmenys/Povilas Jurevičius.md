@@ -22,7 +22,7 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   global_id: t-87837
   teiginys: 'Povilas Jurevičius buvo tarp parapijoje gyvenusių bajorų, kuriems pagal seną paprotį buvo privalu mokėti dešimtinę.'
   sudarymo_pagrindimas: 'Citata palaiko prievolę, bet pradinė formuluotė nutrūkusi ir užteršta OCR klaidomis.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-001
 

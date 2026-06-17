@@ -28,7 +28,7 @@ Tad, pasirodykime laisvės verti ir tą dieną, kada kovos pradžia atrodys SAVA
 - t-001
   global_id: t-40243
   teiginys: 'Justino Gustaičio laiškas buvo rastas pamestame pase Aukščiausiosios Tarybos rūmuose 1991 m. vasario mėnesį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - ordinas
   - vieta
-  - žemėlapis
 ---
 # Sedlcai
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   global_id: t-58722
   teiginys: 'Sedlcų kaimas buvo į pietus nuo Vyslos, kiek į šiaurę nuo Inovroclavo.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citatos duomenimis apie kaimo vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Dobrynė; mentioned_place: Inovroclavas; mentioned_place: Kaimas'
   pagrindžia:
     - c-001
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad broliams Dobrynės pilį168, dėl kurios jie vėliau bu
   global_id: t-58723
   teiginys: 'Kujavijoje broliams duotas žemės plotas arba dvaras buvo pavadintas Sedlcais.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo fragmentiškas ir prasidėjo nuo konteksto vidurio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Dobrynė; mentioned_place: Kujavija'
+  susije_objektai: 'mentioned_place: Dobrynė; mentioned_place: Kujavija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.

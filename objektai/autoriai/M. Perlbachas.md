@@ -15,7 +15,6 @@ tags:
   - miestas
   - ordinas
   - pilis
-  - popiežius
 amziai:
   - 'XIII'
 periodo_grupes:
@@ -34,10 +33,9 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   global_id: t-175145
   teiginys: 'M. Perlbachas teigė, kad nuo 1289 metų Petras Dusburgietis jau gyveno Prūsijoje.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
-  susije_objektai: 'location: Prūsija; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/autoriai/M. Perlbachas|M. Perlbachas]] gyveno Prūsija'
+  susije_objektai: 'location: Prūsija; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1289 m.; gyvenimo laikotarpis: 1289 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „M. Perlbachas gyveno Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai sieja šią nuomonę su M. Perlbachu.'
   pagrindžia:
     - c-002
@@ -47,7 +45,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   global_id: t-175146
   teiginys: 'M. Perlbachas nagrinėtas aiškinant Dusburgiečio pasakojimo ryšį su 1230 ir 1232 metų popiežiaus bulėmis.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus darbo naudojimą šiame aiškinime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė; mentioned_place: Viena; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -56,7 +54,7 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   global_id: t-175148
   teiginys: 'M. Perlbachas rašė apie senesniąją Olivos kroniką.'
   sudarymo_pagrindimas: 'Citatoje pateikta bibliografinė nuoroda į Perlbacho darbą apie Olivos kroniką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Petras iš Dusburgo|Petras iš Dusburgo]]; mentioned_place: Oliva; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59858|Fridrichas II]]: M. Perlbachas nurodė, kad Dusburgietis, rašydamas apie Ordino teises, panaudojo imperatoriaus Fridricho II 1226 m. aukso bulę.
@@ -130,6 +128,3 @@ Dusburgietis teigia, kad perlbachas), jog nuo tada Dusburgietis jau gyvenęs Pr�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- M. Perlbachas gyveno [[objektai/vietos/Prūsija]]

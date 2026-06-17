@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: 'M. Strijkovskio kronikos citatoje Kukovaitis vadinamas Živinbudo sūnumi iš Kentauro herbo giminės.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Šaltinio formuluotė apie giminę turi būti atribuuota ir pateikta be dubliuoto komentaro.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_author: [[objektai/autoriai/T. Narbutas|T. Narbutas]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/daiktai/Kentauras|Kentauras]]; mentioned_person: [[objektai/asmenys/Kukovaitis|Kukovaitis]]; mentioned_person: [[objektai/asmenys/Živinbudas|Živinbudas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1766 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Šaltinio formuluotė apie giminę turi būti atribuuota ir pateikta be dubliuoto komentaro.'

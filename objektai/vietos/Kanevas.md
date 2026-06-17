@@ -31,7 +31,7 @@ amziai:
   global_id: t-41759
   teiginys: 'XVI a. vidurio Kanevo pilies aprašo padavime sakoma, kad Kanevą su Čerkasais įkūrė Gediminas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo šaltinyje minimą padavimą apie Kanevo įkūrimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Cerkasai; mentioned_place: Dniepras; mentioned_place: Irpenė; mentioned_place: Kijevas; mentioned_place: Čerkasai'
+  susije_objektai: 'mentioned_place: Cerkasai; mentioned_place: Dniepras; mentioned_place: Irpenė; mentioned_place: Kijevas; mentioned_place: Čerkasai'
   temporaliniai_duomenys: 'įkūrimo data: 1333 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo šaltinyje minimą padavimą apie Kanevo įkūrimą.'

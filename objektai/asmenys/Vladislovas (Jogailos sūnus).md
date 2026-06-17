@@ -42,7 +42,7 @@ Juk jau 1425 m. viename suvažiavime šlėkta pasirinko karalai­ tį Vladislov�
 - t-002
   global_id: t-35321
   teiginys: '1425 m. Bresto seime lenkų didikai pripažino Jogailos sūnų Vladislovą sosto įpėdiniu.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Jedlno'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/1425 m. Bresto (Kujavijoj) seimas|1425 m. Bresto (Kujavijoj) seimas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Jedlno'
   temporaliniai_duomenys: 'įvykio data: 1425 m.; įvykio data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

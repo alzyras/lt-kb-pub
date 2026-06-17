@@ -22,7 +22,7 @@ Mokes­ čiams rinkti Vytautas turėjo vietininkų ir ten, kur ir nebuvo jo dvar
   global_id: t-36471
   teiginys: 'Vytautas Padnieprės srityje turėjo vietininkų mokesčiams rinkti net ten, kur nebuvo jo dvarų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir aiškiai pagrįstas citata apie Padnieprės sritį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Uždauguvis'
+  susije_objektai: 'mentioned_place: Uždauguvis'
   pagrindžia:
     - c-001
 - susijęs iš Uždauguvis: Vytautas Uždauguvyje turėjo vietininkų mokesčiams rinkti, nors ten nebuvo jo dvarų.

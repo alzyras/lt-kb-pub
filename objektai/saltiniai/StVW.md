@@ -21,7 +21,7 @@ Savo įprastu temperamentingumu Vytautas kreipėsi prieš ordi­ ną tokiais žo
   global_id: t-31931
   teiginys: 'Vytautas prieš Ordiną pareiškė, kad kryžiuočiai yra svetimšaliai ir ateiviai.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Vytauto žodžius, bet pradinė formuluotė netiksliai apibūdina kreipimosi adresatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

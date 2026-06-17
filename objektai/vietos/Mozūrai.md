@@ -29,7 +29,7 @@ Sūnui su Barbora atvykstant į Lenkiją, ji pasišalino su dukterimis į Mozūr
   global_id: t-52959
   teiginys: 'Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir paliktas aiškus faktas apie Mozūrų kunigaikštį.'
-  susije_objektai: 'territory: Kulmas; territory: Lenkija; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kulmas; mentioned_place: Lenkija'
+  susije_objektai: 'territory: Kulmas; territory: Lenkija; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 

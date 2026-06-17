@@ -14,7 +14,6 @@ tags:
   - miestas
   - pilis
   - upė
-  - vieta
 amziai:
   - 'XIII'
 ---
@@ -31,7 +30,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   global_id: t-58512
   teiginys: 'Broliai ir ginklanešiai perplaukė Aismares, ieškodami vietos piliai prie Varmės žemės kranto.'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie marių perplaukimą ir pilies vietos žvalgymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-003
 
@@ -40,7 +39,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   global_id: t-58513
   teiginys: 'Laivai padėjo pastatyti Elbingo ir Baigos pilis ir apsaugoti Aismares nuo netikėlių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Aismares ir atitinka citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Baiga; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Baiga; mentioned_place: Drūsinė; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -49,7 +48,7 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   global_id: t-58514
   teiginys: '1237 m. Elbingo pilis buvo pastatyta saloje ties vieta, kur Elbingo upė įteka į Aismares.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies statybos vietą, bet pradiniame teiginyje buvo perteklinio ir nutrūkusio teksto.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Elbingas; mentioned_place: Elbingo pilis; mentioned_place: Pagudė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Elbingo pilis; mentioned_place: Pagudė'
   temporaliniai_duomenys: 'pastatymo data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia pilies statybos vietą, bet pradiniame teiginyje buvo perteklinio ir nutrūkusio teksto.'

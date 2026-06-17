@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-30920
   teiginys: 'P. Žostautaitė 1968 m. paskelbė darbą „Prūsijos lietuvių vokietinimas ir pasipriešinimas jam 1848-1914 m.“.'
   sudarymo_pagrindimas: 'Teiginys tiksliai atitinka citatoje pateiktą publikacijos įrašą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_person: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_person: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Matulaitytė|S. Matulaitytė]]; mentioned_author: [[objektai/autoriai/V. Merkys|V. Merkys]]; mentioned_author: [[objektai/autoriai/V. Milius|V. Milius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Merkys; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1848-1914; įvykio data: 1868-1914; įvykio data: 1914 m.; įvykio data: 1968 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atitinka citatoje pateiktą publikacijos įrašą.'

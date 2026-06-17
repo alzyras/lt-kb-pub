@@ -33,7 +33,7 @@ Naudodamas Rygos archyvų medžiagą, jis ėmė tyrinėti iki tol Lietuvos istor
 - t-001
   global_id: t-31813
   teiginys: 'Sužiedėlis 1937 m. „Athenaeume“ paskelbė studiją „Lietuvos ir Livonijos konfliktas 1556-1557“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Sužiedėlis|S. Sužiedėlis]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: 1937 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

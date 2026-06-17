@@ -28,7 +28,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   global_id: t-58872
   teiginys: 'Petras Dusburgietis terminu terra paprastai vadino stambiausius prūsų ir lietuvių teritorinius vienetus.'
   sudarymo_pagrindimas: 'Teiginys pagrįstai priskiria termino vartoseną Petrui Dusburgiečiui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -37,7 +37,7 @@ Dusburgietis teigia, kad jau vartoja terminą terra (terre Galindie — III, 4 i
   global_id: t-58873
   teiginys: 'XIII ir XIV a. pradžios dokumentuose bei kronikose terminu žemė vadintos visos prūsų žemės ir atskiros prūsų žemės.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir apibendrina citatoje nurodytą termino vartoseną.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir apibendrina citatoje nurodytą termino vartoseną.'

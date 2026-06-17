@@ -29,7 +29,7 @@ amziai:
   global_id: t-20855
   teiginys: 'Jaunieji Lietuvos bajorai buvo raginami būti „Lietuvos žemės druska“: kalbėti lietuviškai, mylėti kraštą ir rūpintis liaudies gerove.'
   sudarymo_pagrindimas: 'Pirminis sakinys turi nepagrįstų detalių, bet citata leidžia suformuluoti posakio prasmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Druska|Druska]]; mentioned_person: [[objektai/asmenys/Adomas Jakštas-Dambrauskas|Adomas Jakštas-Dambrauskas]]; mentioned_place: Kaimas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1902 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis sakinys turi nepagrįstų detalių, bet citata leidžia suformuluoti posakio prasmę.'

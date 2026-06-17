@@ -24,7 +24,7 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
   global_id: t-60369
   teiginys: 'Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
@@ -65,7 +65,6 @@ Dusburgietis teigia, kad iš šios pilies išėjo brolis Konradas Švabas iš El
 - [[objektai/vietos/Belichovas]] priklause Konradas Švabas iš Elbingo
 - Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Belichovas]]
 - Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Elbingas]]
-- Konradas Švabas iš Elbingo susije_su [[objektai/asmenys/Konradas]]
 - Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Kulmas]]
 - Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Marienverderis]]
 - Konradas Švabas iš Elbingo susije_su [[objektai/vietos/Viena]]

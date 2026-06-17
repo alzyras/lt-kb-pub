@@ -21,7 +21,7 @@ Mažvydo bibliotekoje Raudonojo Kryžiaus pastangomis įkurtas pirmosios medicin
   global_id: t-41120
   teiginys: 'Raudonojo Kryžiaus pastangomis Nacionalinėje M. Mažvydo bibliotekoje įkurtas pirmosios medicinos pagalbos ir medicininio vadovavimo punktas.'
   sudarymo_pagrindimas: 'Citata tiksliau remia punktą kaip pirmosios pagalbos ir medicininio vadovavimo vietą, o evakuacijos atsakomybė priklausė punktui.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]; mentioned_person: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martynas Mažvydas Vaitkūnas|Martynas Mažvydas Vaitkūnas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Vaistinės prekės, vaistai ir gydomieji gėrimai|Vaistinės prekės, vaistai ir gydomieji gėrimai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika.md#claim-t-09609|Aukščiausiosios Tarybos gynybos savitarpio aprūpinimo praktika (institucija)]]: Aukščiausiosios Tarybos gynybos metu Nacionalinėje M. Mažvydo bibliotekoje Raudonasis Kryžius įkūrė pirmosios pagalbos ir medicininio vadovavimo punktą.

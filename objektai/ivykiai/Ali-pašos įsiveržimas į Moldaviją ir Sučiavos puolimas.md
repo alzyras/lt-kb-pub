@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-186765
   teiginys: 'Redakcinė pastaba nurodo, kad aptariamas žygis gali būti siejamas su Rumelijos vietininko Ali-pašos žygiu į Moldaviją 1485 m. vasarą.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Belgorodas; mentioned_place: Isteris; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Belgorodas; mentioned_place: Isteris; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   temporaliniai_duomenys: 'mūšio data: 6994 m; mūšio data: 1484 m.; mūšio data: 1485 m.; mūšio data: 1486 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

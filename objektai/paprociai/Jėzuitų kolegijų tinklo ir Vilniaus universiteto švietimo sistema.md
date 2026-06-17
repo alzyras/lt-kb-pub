@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-77950
   teiginys: '1569 m. jėzuitų ordino pasirodymas Lietuvoje laikomas simboline Baroko epochos pradžia.'
   sudarymo_pagrindimas: 'Citatoje pateikta interpretacija; teiginį reikia suformuluoti kaip pilną enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/Vidurio Europa|Vidurio Europa]]; mentioned_object: [[objektai/zodynas/barokas|barokas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kazimieras Semenavičius|Kazimieras Semenavičius]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.; įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje pateikta interpretacija; teiginį reikia suformuluoti kaip pilną enciklopedinį sakinį.'

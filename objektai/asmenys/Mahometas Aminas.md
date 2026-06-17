@@ -21,7 +21,7 @@ Pasiuntinys taip pat gabeno Kazanės chano MahometoAmino laišką, kuriame jis L
 - t-001
   global_id: t-40324
   teiginys: 'Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Kazanė; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Kazanė; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

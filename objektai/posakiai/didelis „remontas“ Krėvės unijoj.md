@@ -28,7 +28,7 @@ Turime atvirai pasisa­ kyti, kad 1401 m. aktas yra didelis žingsnis pirmyn Lie
   global_id: t-35997
   teiginys: 'Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.'
   sudarymo_pagrindimas: 'Teiginys perteikia šaltinio vertinimą, todėl reikia aiškesnės atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Personalinė unija|Personalinė unija]]; mentioned_object: [[objektai/zodynas/inkorporacija|inkorporacija]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporacija|inkorporacija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia šaltinio vertinimą, todėl reikia aiškesnės atribucijos.'

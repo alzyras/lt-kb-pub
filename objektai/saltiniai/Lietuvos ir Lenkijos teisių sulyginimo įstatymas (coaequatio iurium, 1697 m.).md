@@ -30,7 +30,7 @@ Visa tai ėjo Lietuvos ir Lenkijos teisių sulyginimo (coaequatio iurium) šūki
   global_id: t-02232
   teiginys: 'Lietuvos ir Lenkijos teisių sulyginimo įstatymu siekta suvienodinti Lietuvos ir Lenkijos ministerių teises.'
   sudarymo_pagrindimas: 'Pradinė formuluotė turi neenciklopedinį „visa tai“ ir yra per daug priklausoma nuo konteksto.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

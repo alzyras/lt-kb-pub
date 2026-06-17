@@ -21,7 +21,7 @@ Kazį Skučą ir Saugumo departamento direktorių Augustiną Povilaitį.
   global_id: t-17457
   teiginys: 'Augustinas Povilaitis buvo Saugumo departamento direktorius, kurį reikalauta atleisti kaip tariamą „provokacijų“ kaltininką.'
   sudarymo_pagrindimas: 'Pradinis teiginys nepilnas, bet citata pagrindžia pareigas ir reikalavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Merkys'
+  susije_objektai: 'mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Merkys'
   pagrindžia:
     - c-001
 

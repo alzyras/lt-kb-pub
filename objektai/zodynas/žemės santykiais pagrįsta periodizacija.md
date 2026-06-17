@@ -35,7 +35,7 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
   global_id: t-97288
   teiginys: 'Žemės santykiais pagrįsta periodizacija Lietuvos istoriją skirsto pagal agrarinių santykių kaitą, o ne dinastinius ar tarpvalstybinius santykius.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir neenciklopedinis, citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1447 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir neenciklopedinis, citata leidžia suformuluoti aiškų faktą.'
@@ -47,7 +47,7 @@ Kai šitoje periodizacijoje neatsižvelgiama į dinastinius bei tarpvalstybinius
   global_id: t-97289
   teiginys: 'Žemės santykiais pagrįsta periodizacija pagal Lietuvos ūkininko santykių su žeme kaitą išskiria šešias epochas.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citata pagrįstas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1861 m.; įvykio data: 1919 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir puslapio triukšmas, paliktas citata pagrįstas faktas.'

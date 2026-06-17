@@ -32,7 +32,7 @@ Vaitiekus II Radvila, vadintas varguolių tėvu, Olykos ir Nesvyžiaus kunigaik�
   global_id: t-87873
   teiginys: 'Vaitiekus II Radvila, Olykos ir Nesvyžiaus kunigaikštis, mirė 1519 m. liepos 5 d., vyskupo pareigas ėjęs 11 metų.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus titulus, mirties datą ir pareigų trukmę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Nesvyžius; mentioned_place: Olyka'
+  susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Olyka'
   temporaliniai_duomenys: 'įvykio data: 1519 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytus titulus, mirties datą ir pareigų trukmę.'

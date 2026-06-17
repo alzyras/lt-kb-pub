@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-77951
   teiginys: 'LDK didikai parėmė evangelikų reformatų tikėjimą, o beveik visi didikai katalikai ir dalis ortodoksų perėjo į kalvinizmą ir sekuliarizavo apie pusę katalikų bažnyčių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_object: [[objektai/zodynas/reformacija|reformacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/LDK didikai|LDK didikai]]; mentioned_group: [[objektai/grupes/Liuteronai|Liuteronai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1539 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas citatos informacija.'

@@ -32,7 +32,7 @@ ee Kuoknesės pilis Baronas Karolis Karlsonas Gyllenhielmas (Carl Carlson Gyllen
 - t-001
   global_id: t-40260
   teiginys: 'Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1574-1650; įvykio data: 1616 m.; įvykio data: 1650 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

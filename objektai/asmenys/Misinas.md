@@ -22,7 +22,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-60175
   teiginys: 'Misinas su Sklunijos valsčiaus vyrais pagrobė Karaliaučiaus brolių arklius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_place: Bartenšteinas; mentioned_place: Sklunija'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Sklunija'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Dusburgietis teigia, kad šį nusikalstamą žygį rengė ir jam vadovavo Govina
   global_id: t-60176
   teiginys: 'Misinas kartu su Govina, Stanta, Trinta ir kitais vadovavo notangų žygiui prieš Bartenšteino pilį.'
   sudarymo_pagrindimas: 'Citata palaiko Misino dalyvavimą ir vadovavimą žygyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Stanta|Stanta]]; mentioned_person: [[objektai/asmenys/Trinta|Trinta]]; mentioned_place: Bartenšteinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Bartenšteinas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59956|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Brolis Fridrichas iš Libencelės buvo paimtas į nelaisvę, kai Stanta su bendrais klastingai įsibrovė į Bartenšteino pilį.

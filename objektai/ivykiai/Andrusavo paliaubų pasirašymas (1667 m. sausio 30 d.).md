@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-39123
   teiginys: '1667 m. sausio 30 d. netoli Smolensko pasirašytos Andrusavo paliaubos, pagal kurių sąlygas Rusijai atiteko Smolenskas, Černigovas, Severų Naugardas, Kijevas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Ukraina; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Ukraina; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'įvykio data: 1667 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, faktinis ir tiesiogiai pagrįstas citata.'

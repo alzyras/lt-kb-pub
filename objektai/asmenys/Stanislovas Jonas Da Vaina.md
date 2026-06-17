@@ -23,7 +23,7 @@ Jonui, Polocko............................Stanislovui Jonui Da Vai­ nai, taurin
   global_id: t-87859
   teiginys: 'Stanislovas Jonas Da Vaina buvo paminėtas tarp valdovo tarybos narių ir pareigūnų, dalyvavusių rašto patvirtinime.'
   sudarymo_pagrindimas: 'Citata pagrindžia paminėjimą tarp tarybos narių ir pareigūnų, nors dalis pareigybių tekste pažeista.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/taurininkas|taurininkas]]; mentioned_person: [[objektai/asmenys/Jeronimas|Jeronimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Alšėnai; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Melnikas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaina|Vaina]]; mentioned_place: Alšėnai; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Melnikas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

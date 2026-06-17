@@ -28,7 +28,7 @@ amziai:
   global_id: t-21612
   teiginys: 'J. Žemaitis-Vytautas po pusantrų metų tardymų buvo sušaudytas Maskvos Butyrkų kalėjime.'
   sudarymo_pagrindimas: 'Pašalintas sakinio fragmentiškumas, paliktas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Maskva; mentioned_place: Sibiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/MGB-KGB agentai smogikai|MGB-KGB agentai smogikai]]; mentioned_object: [[objektai/zodynas/agentai smogikai|agentai smogikai]]; mentioned_place: Maskva; mentioned_place: Sibiras'
   temporaliniai_duomenys: 'įvykio data: 1951 m.; įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas sakinio fragmentiškumas, paliktas citatos palaikomas faktas.'

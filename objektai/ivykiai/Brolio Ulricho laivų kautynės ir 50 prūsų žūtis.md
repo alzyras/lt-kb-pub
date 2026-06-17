@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-91911
   teiginys: 'Brolis Ulrichas laivų kautynėse stiebu daužė prūsų laivus ir nuskandino jų tiek, kad kartu su laivais žuvo 50 prūsų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, bet citata remia aiškų faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Baldensheimo|Liudvikas iš Baldensheimo]]; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Baldensheimo|Liudvikas iš Baldensheimo]]; mentioned_place: Notanga; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: iki 1269 m.; įvykio data: 1263 m.; įvykio data: 1267 m.; įvykio data: 1268 m.; įvykio data: 1269 m.; įvykio data: 1270 m.; įvykio data: 1276 m.; įvykio data: 1280 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, bet citata remia aiškų faktinį sakinį.'

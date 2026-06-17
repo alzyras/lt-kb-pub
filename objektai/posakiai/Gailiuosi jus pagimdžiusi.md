@@ -23,7 +23,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   global_id: t-59092
   teiginys: 'Nameda savo sūnums pasakė, kad gailisi juos pagimdžiusi, nes jie nenori ginti nei savo gyvybės, nei genties.'
   sudarymo_pagrindimas: 'Pradinė formuluotė turi šaltinio boilerplate ir per ilga, bet citata pagrindžia sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_person: [[objektai/asmenys/Nameda|Nameda]]; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Nadruviai|Nadruviai]]; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Dusburgietis teigia, kad šitai matydama, Nameda, Pasdraupučio motina, kilusi i
   global_id: t-59093
   teiginys: 'Namedos žodžiai „Gailiuosi jus pagimdžiusi“ paskatino jos sūnus ir kitus pilėnus stoti į mūšį.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo, kas ištarė žodžius ir kokį veiksmą jie sukėlė.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Nameda|Nameda]]; mentioned_place: Bartenšteinas; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 

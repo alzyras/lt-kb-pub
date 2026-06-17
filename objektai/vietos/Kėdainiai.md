@@ -32,7 +32,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   global_id: t-182770
   teiginys: '1919 m. sausio 9 d. Jonas Variakojis su pirmuoju savanorių būriu paliko Panevėžį ir atvyko į Kėdainius.'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/J. Variakojis|J. Variakojis]]'
   temporaliniai_duomenys: 'kelionės data: 1918 m.; kelionės data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialą ir patikslinti datą pagal citatos kontekstą.'

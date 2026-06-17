@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-66451
   teiginys: '1793 m. sausio 23 d. Prūsija su Rusija pasirašė susitarimą dėl II Respublikos padalijimo, po kurio ATR neteko apie 300 tūkst. kv. km teritorijos.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia užbaigtą sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Prūsija; mentioned_place: Rusija; mentioned_place: Targovica'
   temporaliniai_duomenys: 'įvykio data: 1793 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo nutrūkęs; citata pagrindžia užbaigtą sakinį.'

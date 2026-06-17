@@ -42,7 +42,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštyje vienuolio rūbai minimi pasakojant apie apsivilkusį asmenį, kuris trejus metus išbuvo vienuolyne.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys perteklinis ir kartoja atribuciją; citata nepatvirtina Vaišvilko vardo.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Rūbai|Rūbai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

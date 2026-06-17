@@ -29,7 +29,7 @@ amziai:
   global_id: t-42268
   teiginys: '6-ojo pėstininkų pulko kariai ir vadas Vidugirių kaime susitiko su to paties pulko I batalionu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir citata pagrindžia susitikimą Vidugirių kaime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/viršila|viršila]]; mentioned_person: [[objektai/asmenys/Antanas Šukys|Antanas Šukys]]; mentioned_place: Kaimas'
   pagrindžia:
     - c-003
 
@@ -46,7 +46,7 @@ amziai:
   global_id: t-42270
   teiginys: '1920 m. rugsėjo 22 d. leitenantas Jonas Kuklieris buvo žuvęs mūšyje netoli Vidugirio kaimo.'
   sudarymo_pagrindimas: 'Pradinis teiginys negrabiai suformuluotas; citata palaiko aiškesnį faktą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija|Augustavo-Suvalkų operacija]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Kuklieris|Jonas Kuklieris]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Augustavo-Suvalkų operacija|Augustavo-Suvalkų operacija]]; mentioned_person: [[objektai/asmenys/Jonas Kuklieris|Jonas Kuklieris]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys negrabiai suformuluotas; citata palaiko aiškesnį faktą.'

@@ -31,7 +31,7 @@ Dusburgietis teigia, kad įsidėmėk, kad apie 600 metus, tuo laiku, kai mirė M
   global_id: t-60257
   teiginys: 'Apie 600 m. persų karalių Chosrovą nugalėjo imperatorius Heraklijus, susigrąžinęs Viešpaties kryžiaus dalį.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad teiginio centre būtų Chosrovas, o ne Heraklijus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/grupes/Persai|Persai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]'
   temporaliniai_duomenys: 'įvykio data: 600 m; įvykio data: apie 600 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginio centre būtų Chosrovas, o ne Heraklijus.'

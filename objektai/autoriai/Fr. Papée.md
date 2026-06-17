@@ -20,7 +20,7 @@ i Papée, Fr.
 - t-001
   global_id: t-30617
   teiginys: 'Fr. Papée su St. Smolka parengė veikalą „Władysław Jagiełło“.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/St. Smolka|St. Smolka]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/St. Smolka|St. Smolka]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/A. Brückner.md#claim-t-64508|A. Brückner]]: Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.

@@ -21,7 +21,7 @@ Stiprėjo Lietuvos žaliųjų judėjimas.
   global_id: t-19920
   teiginys: 'Stiprėjo Lietuvos žaliųjų judėjimas.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, bet pilnas faktinis sakinys apie objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas Radžvilas|Vytautas Radžvilas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -27,7 +27,7 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - t-001
   global_id: t-12606
   teiginys: 'Vytautas 1384 m. birželį Ordinui pasižada savo vasalystę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1384 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -37,13 +37,10 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 - t-002
   global_id: t-12607
   teiginys: 'Vasalystė čia reiškia priklausomybės ir ištikimybės santykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176702|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis iš Jogailos gavo Lietuvą kaip lėną didžiojo kunigaikščio teisėmis.
-- susijęs iš A. Prochaska, Nieznany akt homogialny Witolda: A. Prochaskos darbas „Nieznany akt homogialny Witolda“ nurodytas „Kwartalnik historyczny“ IX tome, 234 puslapyje.
-- susijęs iš Vytauto vasalystės dokumentas (1386 m. gegužės 10 d.): Vytauto vasalystės dokumentu nebuvo įsteigta kitokių institucijų.
-- susijęs iš Vytauto vasalystės dokumentas (1386 m. gegužės 10 d.): Vytauto vasalystės dokumentas buvo išduotas 1386 m. gegužės 10 d.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -31,7 +31,7 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
   global_id: t-40392
   teiginys: 'Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet inicialas išplėstas į pilną vardą pagal objekto pavadinimą.'
-  susije_objektai: 'territory: Lietuva; territory: Polockas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  susije_objektai: 'territory: Lietuva; territory: Polockas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; mentioned_place: Polockas'
   semantiniai_rysiai: '[[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Lietuva; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Polockas'
   pagrindžia:
     - c-002
@@ -40,7 +40,7 @@ Viena jų, vadovaujama kunigaikščio Baziliaus Serebriano, pajudėjo iš Smolen
 - t-002
   global_id: t-40393
   teiginys: 'Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.'
-  susije_objektai: 'territory: Druckas; territory: Lietuva; territory: Maskva; territory: Polockas; territory: Viena; territory: Vilnius; mentioned_person: [[objektai/asmenys/Bazilius (Vasilius) II|Bazilius (Vasilius) II]]; mentioned_place: Druckas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Druckas; territory: Lietuva; territory: Maskva; territory: Polockas; territory: Viena; territory: Vilnius; mentioned_place: Druckas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Polockas; mentioned_place: Viena; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Druckas; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Lietuva; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Maskva; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Polockas; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Viena; [[objektai/asmenys/Petras Šuiskis|Petras Šuiskis]] buvo valdovas Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1564 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Petras Šuiskis buvo valdovas Druckas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Šuiskis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Šuiskis buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Šuiskis buvo valdovas Polockas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Šuiskis buvo valdovas Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Šuiskis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'

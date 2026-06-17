@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-86960
   teiginys: 'Kęstutis įsakė pakarti Vaidilą, laikydamas jį karo kurstytoju.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į trumpą, aiškų sakinį apie Vaidilos likimą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Polockas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

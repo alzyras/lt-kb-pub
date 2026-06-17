@@ -14,7 +14,6 @@ tags:
   - grupe
   - karalius
   - privilegija
-  - valdovas
 amziai:
   - 'XV'
 ---

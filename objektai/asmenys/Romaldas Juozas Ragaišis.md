@@ -29,9 +29,9 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
   global_id: t-19206
   teiginys: 'Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja Ragaišį su organizacija ir teistumu, kaip nurodyta citatoje.'
-  susije_objektai: 'owner: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; owner: Lietuva; owner: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; owner: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_place: Lietuva'
+  susije_objektai: 'owner: Lietuva; owner: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; owner: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Antanas Terleckas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Petras Cidzikas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Lietuvos laisvės lyga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas (vaistininkas) susiję su Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas Terleckas susiję su Petras Cidzikas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas Terleckas susiję su Lietuvos laisvės lyga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas Terleckas susiję su Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja Ragaišį su organizacija ir teistumu, kaip nurodyta citatoje.'
   pagrindžia:
     - c-001
@@ -64,4 +64,4 @@ Organizacijai priklausė būrys prieš sovietų santvarką kovojusių asmenų, k
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas (vaistininkas)]] susije_su Romaldas Juozas Ragaišis
+- [[objektai/asmenys/Petras Cidzikas]] susije_su Romaldas Juozas Ragaišis

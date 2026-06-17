@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-75197
   teiginys: '1999 m. balandį NATO šalių vadovų susitikime Vašingtone pripažinus Lietuvos pastangas ir pažangą siekiant narystės, patvirtintas Narystės veiksmų planas pasirengti stojimui į NATO.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir pagrįstas citatoje nurodytais faktais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_group: [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)|Šiaurės Atlanto sutarties organizacija (NATO)]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_group: [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)|Šiaurės Atlanto sutarties organizacija (NATO)]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
   temporaliniai_duomenys: 'įvykio data: 1999 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir pagrįstas citatoje nurodytais faktais.'
@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-75200
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'

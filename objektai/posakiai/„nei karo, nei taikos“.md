@@ -30,7 +30,7 @@ amziai:
   global_id: t-20922
   teiginys: 'Po 1922 m. sausį Vilniaus krašte surengtų rinkimų Vidurinė Lietuva formaliai prisijungė prie Lenkijos, o Lietuva liko „nei karo, nei taikos“ padėtyje.'
   sudarymo_pagrindimas: 'Patikslinta įvykių seka ir pašalinta neaiški skyryba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/diplomatija|diplomatija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Vidurinė Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: po 1922 m.; įvykio data: 1922 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslinta įvykių seka ir pašalinta neaiški skyryba.'

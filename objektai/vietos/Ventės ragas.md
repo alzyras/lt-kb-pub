@@ -28,7 +28,7 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
 - t-001
   global_id: t-80308
   teiginys: 'Kryžiuočiai prie Nemuno žiočių, Ventės rage, statė pilį, vadintą Vindenburgu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Veliuona; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Veliuona; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1360 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -39,7 +39,7 @@ kryžiuočiai toliau tvirtinosi pačiame Nemuno žemupyje, statė naują pilį S
   global_id: t-80309
   teiginys: '1360 m. kryžiuočiai tvirtinosi Nemuno žemupyje ir statė naują pilį prie Nemuno žiočių, Ventės rage, vadintą Vindenburgu.'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį faktą apie Ventės ragą, pašalinant šalutinį Skalvos vietovės fragmentą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Veliuona; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Veliuona; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1360 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į glaustesnį faktą apie Ventės ragą, pašalinant šalutinį Skalvos vietovės fragmentą.'

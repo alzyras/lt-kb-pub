@@ -38,7 +38,7 @@ saugoti Dubysos upyną.
   global_id: t-180736
   teiginys: 'Balińskis manė, kad Castrum Gedemini veikiau buvo Veliuonoje, o ne Vilniuje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra pirmojo asmens fragmentas, todėl reikia aiškios autorinės atribucijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Hartknochas|Hartknochas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -47,7 +47,7 @@ saugoti Dubysos upyną.
   global_id: t-180737
   teiginys: 'Senoji Veliuonos piliavietė apėmė du kalnus prie Nemuno, sujungtus tiltu per gilią griovą.'
   sudarymo_pagrindimas: 'Citata remia tikslesnį ir gramatiškai užbaigtą sakinį apie Veliuonos piliavietę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/klebonija|klebonija]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]'
   pagrindžia:
     - c-011
 
@@ -68,7 +68,7 @@ saugoti Dubysos upyną.
   global_id: t-180739
   teiginys: 'M. Michelbertas pateikė duomenų iš Rudaičių ir Veliuonos kapinynų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Veliuoną ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai'
   pagrindžia:
     - c-010
 
@@ -99,7 +99,7 @@ saugoti Dubysos upyną.
   global_id: t-180743
   teiginys: 'Veliuona tikriausiai XIII a. buvo pastatyta kaip pilis Žemaitijos sienoms saugoti nuo kryžiuočių puldinėjimų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Sanctuarium|Sanctuarium]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Sanctuarium|Sanctuarium]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Jurbarkas; mentioned_place: Nemunas; mentioned_place: Prūsija'
   pagrindžia:
     - c-015
 
@@ -120,7 +120,7 @@ saugoti Dubysos upyną.
   global_id: t-180746
   teiginys: 'Rugpjūtį prie Nemuno veikę kryžiuočiai, Ordinui sulaukus naujos pagalbos, sunaikino svarbią lietuvių Veliuonos pilį.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant neaiškią pradinę konstrukciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Nemunas; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Nemunas; mentioned_place: Švedija'
   pagrindžia:
     - c-012
 
@@ -129,7 +129,7 @@ saugoti Dubysos upyną.
   global_id: t-180747
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir pagrįstas pateikta citata.'
-  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Torno'
+  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Torno'
   pagrindžia:
     - c-017
 
@@ -138,7 +138,7 @@ saugoti Dubysos upyną.
   global_id: t-180748
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos yra susimetę kryžiuočiai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė'
   pagrindžia:
     - c-008
 
@@ -157,7 +157,7 @@ saugoti Dubysos upyną.
   global_id: t-180752
   teiginys: 'Grįždami kryžiuočiai sudegino Peštvę ir Veliuoną, kurios ilgai rodė tvirtą atsparumą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie Veliuonos sudeginimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Peštvė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Peštvė'
   pagrindžia:
     - c-001
 
@@ -175,7 +175,7 @@ saugoti Dubysos upyną.
   global_id: t-180755
   teiginys: 'Vytautas pareiškė niekada neišsižadėsiąs savo tėviškės Veliuonos ir galįs siekti Prūsijos.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir paremtas citata apie Vytauto pareiškimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tėviškė|tėviškė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; mentioned_place: Tornas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Prūsija; mentioned_place: Tornas'
   pagrindžia:
     - c-002
 
@@ -184,7 +184,7 @@ saugoti Dubysos upyną.
   global_id: t-180756
   teiginys: 'Vytautas pranešė Kęstučiui, kad Bajerburgo pilyje netoli Veliuonos susitelkė kryžiuočiai.'
   sudarymo_pagrindimas: 'Iš fragmento padarytas pilnas sakinys, pašalinant šalutinį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Bajerburgas; mentioned_place: Livonija; mentioned_place: Panemunė'
   pagrindžia:
     - c-008
 
@@ -193,7 +193,7 @@ saugoti Dubysos upyną.
   global_id: t-180757
   teiginys: '1360 m. maršalo vadovaujama Ordino kariuomenė su talkininkais iš Vokietijos puolė Veliuonos pilį ir padarė jai daug žalos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Skalva; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1360 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
@@ -226,7 +226,7 @@ saugoti Dubysos upyną.
   global_id: t-180760
   teiginys: 'M. Michelbertas pateikė Rudaičių ir Veliuonos kapinynų duomenų archeologiniuose leidiniuose.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, pašalintas nutrūkęs inicialo fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai'
   pagrindžia:
     - c-010
 

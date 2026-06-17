@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-54252
   teiginys: 'Vyskupas Motiejus Valančius ragino nepriimti valdžios peršamų knygų ir slapta organizavo lietuviškos spaudos spausdinimą Rytprūsiuose bei platinimą Lietuvoje.'
   sudarymo_pagrindimas: 'Citata palaiko teiginį, bet dalinį asmens įvardijimą reikia išplėsti pagal kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   pagrindžia:
     - c-001
 

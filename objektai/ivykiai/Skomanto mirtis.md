@@ -41,7 +41,7 @@ Nenurodyta
   teiginys: 'Skomantas mirties patale broliui Konradui pasakojo, kad prieš atsivertimą buvo pagerbęs pagrobtą Marijos ir jos sūnaus paveikslą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys perteikia vertinimą; citata geriau palaiko konkretų pasakojimą apie Skomanto veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_person: [[objektai/asmenys/Skomantas|Skomantas]]; mentioned_place: Baiga; mentioned_place: Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

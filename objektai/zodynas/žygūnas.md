@@ -34,7 +34,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų žygūno siuntimą, o pradinė formuluotė buvo griozdiška.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-002
 
@@ -58,7 +58,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti žygūnų užduotį ir pašalinti OCR klaidas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -70,7 +70,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas gramatiškai, paliekant tik citatos pagrįstus faktus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Berezina; mentioned_place: Bizantija; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_person: [[objektai/asmenys/Zaberezinskis|Zaberezinskis]]; mentioned_place: Berezina; mentioned_place: Bizantija; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-005
 
@@ -82,7 +82,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinti laužyti žodžiai ir sutrumpinta iki aiškios, citata pagrįstos žygūnų funkcijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]'
   pagrindžia:
     - c-006
 
@@ -97,17 +97,10 @@ atnaujinta: ''
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]; mentioned_person: [[objektai/asmenys/Pisonas|Pisonas]]'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184763|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Algirdas su broliu Kęstučiu skubiai aptarė žygūno atneštą reikalą ir slapta pasirengė karui.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184505|Kryžiuočių ordinas]]: 1409 m. kryžiuočių žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas paskelbti Lietuvai karą.
-- susijęs iš [[objektai/grupes/Lenčicos seimas.md#claim-t-185452|Lenčicos seimas (seimas)]]: Lenčicos seimas buvo sušauktas karaliui atleidus kryžiuočių žygūną.
 - susijęs iš [[objektai/ivykiai/Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.).md#claim-t-185593|Kryžiuočių karo ultimatumas Lietuvai ir Lenkijai (1409 m.)]]: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, grasindamas Lietuvai atviru karu.
-- susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185530|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Vasilijus išsiuntė žygūną į Možaiską ir įsakė tučtuojau paleisti karaliaus legatus, kurie netrukus grįžo namo.
-- susijęs iš [[objektai/paprociai/Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas.md#claim-t-185929|Abipusis laisvėn paleistų belaisvių grąžinimas per taikos derybas]]: Per Kęstučio taikos derybas abi šalys sutarė viena kitai grąžinti laisvėn paleistus belaisvius.
-- susijęs iš Tariamasis Brodnicos komtūro laiškas: Vytautas patikėjo tariamuoju Brodnicos komtūro laišku ir dėl jo nutraukė Kulmo apgulą.
 - susijęs iš Maskva: Iki Maskvos kariuomenei buvo likę aštuoniolika mylių, kai žygūnas ją pralenkė tik keliomis valandomis.
-- susijęs iš Možaiskas: Žvalgams pranešus apie netoliese esantį Možaiską, Algirdas surikiavo karius kautynių tvarka ir išvedė į vieškelį.
 - susijęs iš Možaiskas: Žygūnas per naktines pamaldas pranešė kunigaikščiui, kad priešą paliko Možaiske.
-- susijęs iš Vilnius: Vytautas, išsiuntęs žygūną Olesnickiui pranešti apie atvykimą, patraukė tiesiai į Vilnių.
 - susijęs iš Žemaitija: Ordino žygūnas pareikalavo atlyginti nuostolius ir atiduoti Žemaitiją, kitaip grasindamas paskelbti karą Lietuvai.
 ## Reikšmingi paminėjimai
 

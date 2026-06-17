@@ -29,7 +29,7 @@ Lietuvos Tarybų respublikos suverenumas, «plačiųjų lietuvių tautos masių 
   global_id: t-32810
   teiginys: 'Tarybiniai istorikai 1940 m. laikė Lietuvos Tarybų Respublikos suverenumo įvykdymu.'
   sudarymo_pagrindimas: 'Citata remia sovietinių istorikų interpretaciją, todėl teiginį reikia suformuluoti aiškiau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/marksistinė periodizacija|marksistinė periodizacija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė|Laikinoji revoliucinė darbininkų ir valstiečių Vyriausybė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1918 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia sovietinių istorikų interpretaciją, todėl teiginį reikia suformuluoti aiškiau.'

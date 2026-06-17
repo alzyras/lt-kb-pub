@@ -28,7 +28,7 @@ amziai:
   global_id: t-31612
   teiginys: 'A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta rinkinyje „Jogaila“ Kaune 1935 m., p. 185–266.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti bibliografinį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti bibliografinį faktą.'

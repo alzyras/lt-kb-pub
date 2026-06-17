@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87025
   teiginys: 'Dlugošo tekste prūsiškos bombardos stovėjo pievoje, kurioje už kojų ant medžio pakabintas Narimundas buvo kankinamas strėlėmis.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: no_quote_anchor_overlap'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-87026
   teiginys: 'Neseniai pažintų patrankų padariniai ir anglų lankininkų narsa lėmė didelius Lietuvos patirtus smūgius.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citatos, bet reikia glaustesnės ir švaresnės formos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Arkikomtūras|Arkikomtūras]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

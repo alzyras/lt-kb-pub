@@ -33,7 +33,6 @@ Tačiau tai nereiškė gerovės Lietuvoje – kaip ir visoje SSRS parduotuvės b
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pateikia vertinamąjį posakį, kurį reikia suformuluoti kaip aiškų teiginį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/„jeigu Sacharos dykumoje būtų įvestas socializmas...“|„jeigu Sacharos dykumoje būtų įvestas socializmas...“]]'
   pagrindžia:
     - c-002
 

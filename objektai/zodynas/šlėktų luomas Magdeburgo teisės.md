@@ -30,7 +30,7 @@ Tačiau šis Statutas tarnavo išim­ tinai tik šlėktų luomui, nes miestui ku
   global_id: t-86631
   teiginys: 'Pirmasis Lietuvos Statutas buvo skirtas šlėktų luomui, o miestui buvo garantuojamos Magdeburgo teisės.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos informaciją apie Statutą ir Magdeburgo teises.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Magdeburgo teisės|Magdeburgo teisės]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

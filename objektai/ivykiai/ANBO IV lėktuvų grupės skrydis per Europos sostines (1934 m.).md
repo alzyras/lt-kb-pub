@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20158
   teiginys: 'Antanas Gustaitis sukonstravo ANBO lėktuvų seriją, kurios pavadinimas kilo iš sakinio „Antanas nori būti ore“ žodžių pirmųjų raidžių.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie ANBO lėktuvų seriją, bet sakinį verta suformuluoti sklandžiau.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/posakiai/„Antanas nori būti ore“|„Antanas nori būti ore“]]; mentioned_person: [[objektai/asmenys/Antanas Gustaitis|Antanas Gustaitis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1934 m.; įvykio data: 1934 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie ANBO lėktuvų seriją, bet sakinį verta suformuluoti sklandžiau.'

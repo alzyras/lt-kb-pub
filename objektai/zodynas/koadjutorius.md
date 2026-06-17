@@ -22,10 +22,10 @@ Protasevičius ir jo koadjutorius, pačių jėzuitų į katalikybę atverstas vy
   global_id: t-03036
   teiginys: 'Jurgis Radvila buvo vyskupo Protasevičiaus koadjutorius ir pačių jėzuitų į katalikybę atverstas vyskupas.'
   sudarymo_pagrindimas: 'Fragmentas paverstas pilnu faktiniu sakiniu pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]]'
   pagrindžia:
     - c-001
-- susijęs iš „Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“: „Wiadomość o funduszu i dochodach Szpitala i Probostwa Św. Trójcy w Wilnie będącego“ buvo duota 1789 m. rugsėjo 21 d.
+
 ## Reikšmingi paminėjimai
 
 - c-001

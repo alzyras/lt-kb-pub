@@ -29,7 +29,7 @@ Didesnio tikrumo ir pasitikėjimo dėlei šį mūsų raštą tvirtiname dėdami 
   global_id: t-86877
   teiginys: 'Laiške žadėta, kad pirma geležis į vašką, o vanduo į plieną pavirs, nei bus sulaužytas ar atšauktas duotas žodis.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo ilgas OCR fragmentas, o citata palaiko glaustą enciklopedinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]'
   pagrindžia:
     - c-001
 

@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-66520
   teiginys: 'Divano ir Linko puolimas Kulmo žemėje datuojamas 1271 m.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citatos paaiškinimu.'
@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-66521
   teiginys: 'Per Divano ir Linko puolimą Kristburgo pilyje buvo likę trys broliai, trys jų tarnai ir grandinėmis surakintas pamedėnas Sirenas.'
   sudarymo_pagrindimas: 'Pašalinta nereikalinga šaltinio formulė ir aiškiai įvardytas įvykio kontekstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_person: [[objektai/asmenys/Sirenas|Sirenas]]; mentioned_place: Kristburgas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Viena'
   pagrindžia:
     - c-003
 
@@ -78,7 +78,7 @@ Nenurodyta
   global_id: t-66522
   teiginys: 'Divanas Klokinis ir Linkas su didele kariuomene įsibrovė į Kulmo žemę, o jų pajėgos patraukė prie Traupeino pilies.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate ir OCR triukšmas, paliktas citata paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Traupeinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_place: Aliamas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienburgas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Prūsai; mentioned_place: Traupeinas'
   temporaliniai_duomenys: 'įvykio data: 1250 m.; įvykio data: 1265 m.; įvykio data: 1271 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas šaltinio boilerplate ir OCR triukšmas, paliktas citata paremtas faktas.'

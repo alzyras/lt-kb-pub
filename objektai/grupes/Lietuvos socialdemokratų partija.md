@@ -19,7 +19,6 @@ tags:
   - grupe
   - miestas
   - seimas
-  - sukilimas
 amziai:
   - 'XX'
 ---
@@ -48,7 +47,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   global_id: t-169732
   teiginys: 'Lietuvos socialdemokratų partija Steigiamojo Seimo rinkimuose liko trečia.'
   sudarymo_pagrindimas: 'Pradinis teiginys apie kitų politinių jėgų pažadus, o citata tiesiogiai palaiko faktą apie LSDP vietą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos valstiečių liaudininkų sąjunga|Lietuvos valstiečių liaudininkų sąjunga]]; mentioned_object: [[objektai/zodynas/Tautinės mažumos|Tautinės mažumos]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -57,7 +56,7 @@ LSDP Lietuvos socialdemokratų partija. Kairysis valstiečių liaudininkų bloka
   global_id: t-169733
   teiginys: '1926 m. birželį socialdemokratai su valstiečiais liaudininkais ir septyniais tautinių mažumų atstovais sudarė naują valdančiąją koaliciją.'
   sudarymo_pagrindimas: 'Teiginys susietas su LSDP ir papildytas citatoje esančiais metais.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kazys Grinius|Kazys Grinius]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kazys Grinius|Kazys Grinius]]'
   temporaliniai_duomenys: 'įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su LSDP ir papildytas citatoje esančiais metais.'

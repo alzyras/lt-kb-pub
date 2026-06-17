@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-20262
   teiginys: '1896 m. susikūrusi Lietuviškoji socialdemokratų partija buvo pirmoji su lietuvių tautiniu sąjūdžiu susijusi politinė partija.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie partijos susikūrimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviškoji socialdemokratų partija|Lietuviškoji socialdemokratų partija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/rusinimas|rusinimas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]; mentioned_person: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Juozas Tumas (Vaižgantas)|Juozas Tumas (Vaižgantas)]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviškoji socialdemokratų partija|Lietuviškoji socialdemokratų partija]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_object: [[objektai/zodynas/spiritus movens|spiritus movens]]'
   temporaliniai_duomenys: 'įvykio data: po 1896 m.; įvykio data: 1896 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie partijos susikūrimą.'

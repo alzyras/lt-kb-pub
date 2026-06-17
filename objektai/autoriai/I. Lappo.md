@@ -28,7 +28,7 @@ Lappo: 1588 Lietuvos Statutas, It. Lappo, t.
   global_id: t-100107
   teiginys: 'I. Lappo 1934 m. Kaune išleido veikalo „1588 Lietuvos Statutas“ pirmojo tomo pirmąją dalį.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra bibliografinis fragmentas, o citata leidžia jį paversti sakiniu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Veliuona'
   temporaliniai_duomenys: 'įvykio data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra bibliografinis fragmentas, o citata leidžia jį paversti sakiniu.'

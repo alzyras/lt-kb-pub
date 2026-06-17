@@ -24,7 +24,7 @@ tags:
   global_id: t-86536
   teiginys: 'Dešimties lenkiškų grivinų bauda turėjo būti atnešta į bet kurio karaliaus valdų miesto pilies arba miesto valdybą.'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškai netikslus, bet citata leidžia jį aiškiai perrašyti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Tikocinas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

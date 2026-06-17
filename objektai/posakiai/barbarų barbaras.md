@@ -22,7 +22,6 @@ Kojelavičius „barbarų barbaru“ pavadino žmogų, kurio pasitikėjimą sėk
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus vertinamąją formuluotę, bet pradinis teiginys per ilgas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/barbarai|barbarai]]'
   pagrindžia:
     - c-001
 

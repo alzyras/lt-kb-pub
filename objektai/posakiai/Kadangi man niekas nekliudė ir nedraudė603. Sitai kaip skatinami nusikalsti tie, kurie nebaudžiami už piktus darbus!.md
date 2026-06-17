@@ -29,7 +29,7 @@ Dusburgietis teigia, kad kai jį broliai sugavo ir kai paklausė, kodėl tiek da
   global_id: t-89594
   teiginys: 'Karvedys Henrikas savo piktadarybes aiškino tuo, kad jam niekas nekliudė ir nedraudė.'
   sudarymo_pagrindimas: 'Reikia susieti faktą su posakiu ir pašalinti perteklinį kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]'
   pagrindžia:
     - c-002
 

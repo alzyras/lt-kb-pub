@@ -44,7 +44,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
 - t-002
   global_id: t-55219
   teiginys: 'Danilovičiaus Latopisiec mini, kad Karigailos lenkų įgula neįsileido į Aukštutinę pilį ir apie jo mirtį nutyli.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   global_id: t-82002
   teiginys: '„Latopisiec Litewski“ mūšio vietą nurodo prie Vilijos upės, ties Horodoku, vietovėje, vadintoje Weyiszczuszki.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo gramatiškai nepatogus ir turėjo neaiškų įvardijimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Vilija'
   pagrindžia:
     - c-004
 
@@ -62,7 +62,6 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   global_id: t-82003
   teiginys: '„Kronika Ruška“ pateikia panašią užuominą apie Glebą, įdėtą leidinyje „Latopisiec Litewski“ 212 puslapyje.'
   sudarymo_pagrindimas: 'Rewrite failed deterministic gates: missing_factual_predicate'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]'
   pagrindžia:
     - c-003
 
@@ -71,7 +70,7 @@ Latopisiec Litwy i Kronika Ruška Balińskio tekste naudojamas kaip Danilovičia
   global_id: t-82004
   teiginys: '„Latopisiec Litwy i Kronika Ruška“ mini, kad lenkų įgula Aukštutinėje pilyje neįsileido kunigaikščio Karigailos.'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie kronikos liudijimą, o pradinis teiginys turi OCR klaidų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

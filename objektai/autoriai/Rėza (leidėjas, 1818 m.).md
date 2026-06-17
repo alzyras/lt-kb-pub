@@ -37,7 +37,7 @@ Rėza šiame šaltinyje minimas kaip leidėjas, rašytojas; jam priskiriami darb
   global_id: t-11077
   teiginys: 'Rėza buvo vienas iš lietuvių kalbos gynėjų per ginčą, kuriame lietuvių kalba buvo apginta.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate minėjimas ir suformuluotas faktinis sakinys apie Rėzos vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/Rėza|Rėza]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]'
   pagrindžia:
     - c-001
 

@@ -27,7 +27,7 @@ Dusburgietis teigia, kad zinkevičius Z.
   global_id: t-61386
   teiginys: 'Z. Zinkevičiaus „Lietuvių kalbos istorijos“ pirmasis tomas „Lietuvių kalbos kilmė“ išleistas Vilniuje 1984 m.'
   sudarymo_pagrindimas: 'Citata pateikia leidinio tomą, pavadinimą, vietą ir metus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1984 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia leidinio tomą, pavadinimą, vietą ir metus.'

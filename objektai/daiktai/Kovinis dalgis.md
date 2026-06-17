@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-39184
   teiginys: 'Antanas Mackevičius sutelkė 150 dalgiais ir šautuvais ginkluotų vyrų kovai prie Naujaberžės kaimo.'
   sudarymo_pagrindimas: 'Patikslintas veikėjas ir veiksmas, sakinys susietas su citatos kontekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_place: Kaimas; mentioned_place: Narva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/Antanas Mackevičius|Antanas Mackevičius]]; mentioned_place: Kaimas; mentioned_place: Narva'
   pagrindžia:
     - c-002
 

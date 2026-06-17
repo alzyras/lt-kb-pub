@@ -30,7 +30,7 @@ Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, to
   global_id: t-41087
   teiginys: 'Marcinkonių bataliono vyrams buvo nesmagu dėl savo pavėlavimo į kautynes, todėl jie kitą, gruodžio 16 d. puolė Perlojos stribų įgulą ir ją sunaikino.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nurodo bataliono veiksmą, datą ir rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Perloja'
+  susije_objektai: 'mentioned_place: Perloja'
   pagrindžia:
     - c-002
 

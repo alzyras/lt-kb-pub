@@ -28,7 +28,7 @@ Lenkijos šlėktos kildino save iš sarmatų ir tuo rėmė pažiūrą apie savo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikėjo sutvarkyti OCR skiemenavimą ir sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_object: [[objektai/zodynas/šlėkta|šlėkta]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Chotinas; mentioned_place: Europa; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Chotinas; mentioned_place: Europa; mentioned_place: Lenkija'
   temporaliniai_duomenys: 'įvykio data: 1673 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet reikėjo sutvarkyti OCR skiemenavimą ir sakinį.'

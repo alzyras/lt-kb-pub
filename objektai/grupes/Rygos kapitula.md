@@ -42,7 +42,7 @@ Be išsamaus išvar­ dijimo taikos sutarties tarpininkų, arkivyskupo ir Rygos 
   global_id: t-86748
   teiginys: 'Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko sprendimą dėl Rygos kapitulos; sutrumpinta nutrūkusi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Palenkė; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Palenkė; mentioned_place: Ryga'
   pagrindžia:
     - c-002
 

@@ -16,7 +16,6 @@ tags:
   - kunigaikštis
   - kunigas
   - valdovas
-  - vyskupas
 amziai:
   - 'XV'
 ---
@@ -59,7 +58,7 @@ Nenurodyta
   global_id: t-50803
   teiginys: 'Konstancijos susirinkimas nusprendė pasiųsti vyskupus Žemaičių vyskupijai įkurti.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Ryga; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žemaitija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Savanoris|Savanoris]]; mentioned_place: Konstancija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Ryga; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Žemaitija'
   pagrindžia:
     - c-003
 
@@ -67,7 +66,7 @@ Nenurodyta
 - t-003
   global_id: t-50804
   teiginys: 'Vytautas į Konstancijos susirinkimą pasiuntė 60 žemaičių bajorų katalikų delegaciją kaip Lietuvos apsikrikštijimo įrodymą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

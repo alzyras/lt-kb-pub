@@ -30,7 +30,7 @@ Jurgis Narimantaitis, Algirdo brolėnas, valdė Kremenecą Rusioje. Lenkijos kar
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Jurgį Narimantaitį.'
-  susije_objektai: 'territory: Kremenecas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_place: Kremenecas'
+  susije_objektai: 'territory: Kremenecas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kremenecas'
   semantiniai_rysiai: '[[objektai/asmenys/Jurgis Narimantaitis|Jurgis Narimantaitis]] valdė teritoriją Kremenecas'
   pagrindžia:
     - c-001

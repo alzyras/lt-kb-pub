@@ -27,7 +27,7 @@ Pakeliui į suvažiavimą susitikę Vakarų Lietuvos (Jūros) ir Pietų Lietuvos
   global_id: t-41186
   teiginys: 'Vakarų Lietuvos (Jūros) srities partizanų atstovai ir vadai pakeliui į suvažiavimą susitiko su Pietų Lietuvos (Nemuno) partizanų atstovais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie srities partizanų atstovų susitikimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Minaičių kaimas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Minaičių kaimas'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie srities partizanų atstovų susitikimą.'

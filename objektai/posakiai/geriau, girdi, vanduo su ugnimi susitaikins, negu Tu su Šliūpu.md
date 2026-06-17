@@ -21,7 +21,6 @@ Gerai man vienas inteligentas sakė, kai ketinau važiuoti į Ameriką: geriau, 
   global_id: t-02089
   teiginys: 'Vienas inteligentas prieš kelionę į Ameriką perspėjo, kad vanduo su ugnimi greičiau susitaikins negu adresatas su Šliūpu.'
   sudarymo_pagrindimas: 'Pataisyta citatos forma ir pašalinta laiško pabaigos nuotrupa.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Šliūpas|Jonas Šliūpas]]'
   pagrindžia:
     - c-001
 

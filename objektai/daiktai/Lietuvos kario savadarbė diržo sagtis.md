@@ -79,7 +79,7 @@ Nenurodyta
   global_id: t-78671
   teiginys: 'Lietuvos kariai prie vokiečių kariuomenės sagčių pritvirtindavo Vytį, taip uždengdami vokišką imperijos karūną.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau ir enciklopediškiau, išlaikant citatos faktus.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Šautuvai|Šautuvai]]; mentioned_person: [[objektai/asmenys/J. Mikoliūnas|J. Mikoliūnas]]; mentioned_place: Kėdainiai; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš Kolupiai: 1919 m. Kolupių kaime prie vieškelio iš Kėdainių į Šėtą bolševikai privertė trauktis Panevėžio būrio poziciją.

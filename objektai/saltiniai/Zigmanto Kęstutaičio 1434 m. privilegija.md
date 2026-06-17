@@ -30,7 +30,7 @@ Naujų teisinių normų davė 1413 m. Jogailos ir Vytauto privilegija, suteikta 
   global_id: t-67592
   teiginys: 'Zigmanto Kęstutaičio 1434 m. privilegija sulygino civilines pravoslavų ir katalikų teises, bet pravoslavai valstybinių vietų negalėjo gauti.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti privilegiją ir pakeisti įvardį konkrečiu subjektu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pravoslavai|pravoslavai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1434 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiai įvardyti privilegiją ir pakeisti įvardį konkrečiu subjektu.'

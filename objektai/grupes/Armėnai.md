@@ -38,7 +38,7 @@ LDK įsikūrė vokiečių, žydų ir armėnų. Visų pirma – tai „tarpininka
   global_id: t-88521
   teiginys: 'LDK įsikūrė vokiečių, žydų ir armėnų bendruomenės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]'
   pagrindžia:
     - c-002
 

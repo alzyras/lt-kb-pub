@@ -33,7 +33,7 @@ Jokūbas l, lietuvių kilmės, taip pat pranciškonas, herbe turėjęs raidę �
   global_id: t-87708
   teiginys: 'Jokūbas I, lietuvių kilmės pranciškonas, Vilniaus dieceziją valdė 1400-1407 m. ir skatino pagonis priimti krikščionybę.'
   sudarymo_pagrindimas: 'Pradinis teiginys faktinis, bet turi OCR klaidų ir gali būti suformuluotas švariau.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Jokūbas I|Jokūbas I]] valdė teritoriją Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: iki 1407 m.; valdymo laikotarpis: 1400-1407; valdymo laikotarpis: 1407 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jokūbas I valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'

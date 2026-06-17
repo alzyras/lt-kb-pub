@@ -59,7 +59,7 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
   global_id: t-47923
   teiginys: 'Ivinskio aiškinimu, 1385 m. aktas rodė ne inkorporaciją, o būsimą Lietuvos Didžiosios Kunigaikštystės leno santykį su karūna.'
   sudarymo_pagrindimas: 'Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Tai autoriaus interpretacija, todėl reikia aiškios atribucijos ir taisyklingos formuluotės.'
@@ -70,14 +70,12 @@ Terminas pasitelkiamas atpasakoti vieną akto aiškinimą ir tuoj pat jam polemi
 - t-002
   global_id: t-47924
   teiginys: '1385 m. aktas nerodė Lietuvos inkorporacijos, o veikiau būsimą Lietuvos Didžiosios Kunigaikštijos ir karūnos leno santykį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_object: [[objektai/zodynas/lenas|lenas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/posakiai/didelis „remontas“ Krėvės unijoj.md#claim-t-35997|didelis „remontas“ Krėvės unijoj]]: Knygos autorius 1401 m. aktą vertino kaip didelį Lietuvos atsipalaidavimo nuo Lenkijos žingsnį ir Krėvės unijos „remontą“.
-- susijęs iš [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota.md#claim-t-36006|karūna su karūna negali būti sujungta — inkorporuota]]: Formulė vartojama kaip argumentas prieš Lietuvos inkorporavimą į kitą karūną.
-- susijęs iš [[objektai/posakiai/karūna su karūna negali būti sujungta — inkorporuota.md#claim-t-36007|karūna su karūna negali būti sujungta — inkorporuota]]: Atskiros Lietuvos karalijos projektas būtų panaikinęs inkorporacijos klausimą, nes karūna su karūna negalėjo būti sujungta.
 - susijęs iš [[objektai/zodynas/aneksija.md#claim-t-70086|aneksija]]: Krėvės unija apibūdinta kaip Lietuvos inkorporacija ir net aneksija.
 ## Reikšmingi paminėjimai
 

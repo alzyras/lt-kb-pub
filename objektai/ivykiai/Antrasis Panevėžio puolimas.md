@@ -45,7 +45,7 @@ Nenurodyta
 - t-001
   global_id: t-41237
   teiginys: '1919 m. gegužės 19 d. Antrasis Panevėžio puolimas buvo tęsiamas, o lietuvių spaudžiami bolševikai traukėsi visu frontu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/M. Katche|M. Katche]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/M. Katche|M. Katche]]'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -56,7 +56,7 @@ Nenurodyta
   global_id: t-41239
   teiginys: 'Užėmus Panevėžį gegužės 20 d. lietuvių pajėgos įsitvirtino mieste ir pradėjo ruoštis galimam bolševikų mėginimui Panevėžį atsiimti.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kupiškis; mentioned_place: Subačius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kupiškis; mentioned_place: Subačius'
   pagrindžia:
     - c-003
 
@@ -64,7 +64,7 @@ Nenurodyta
 - t-003
   global_id: t-41240
   teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė persekiodama priešą 1919 m. gegužės 27 d. užėmė Troškūnus ir Subačių.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Subačius; mentioned_place: Troškūnai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Panevėžio rinktinė|Panevėžio rinktinė]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Subačius; mentioned_place: Troškūnai'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -75,7 +75,7 @@ Nenurodyta
   global_id: t-41241
   teiginys: '1919 m. gegužę Panevėžio, Ukmergės, Kurklių, Anykščių ir Alantos operacijos pradėjo naują Lietuvos karo su Sovietų Rusija etapą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, enciklopedinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sovietų Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Alanta; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Sovietų Rusija'
   temporaliniai_duomenys: 'įvykio data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, enciklopedinis ir tiesiogiai pagrįstas citata.'
@@ -87,7 +87,7 @@ Nenurodyta
   global_id: t-41242
   teiginys: 'Antrojo Panevėžio puolimo metu gegužės 18-19 d. lietuvių lėktuvai bombardavo ir kulkosvaidžiais apšaudė bolševikų pozicijas Panevėžyje bei geležinkelio ruože Panevėžys-Kupiškis.'
   sudarymo_pagrindimas: 'Sakinys aiškiau susieja faktą su įvykio objektu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]'
   pagrindžia:
     - c-002
 

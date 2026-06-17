@@ -38,7 +38,6 @@ Nenurodyta
 - t-001
   global_id: t-64968
   teiginys: 'Ant tos pačios malkinės Brutenis liepė uždegti ugnį, o abu seneliai su ja sudegė.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kūrėjų kūrėjas|Kūrėjų kūrėjas]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]'
   pagrindžia:
     - c-001
 

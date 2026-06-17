@@ -53,8 +53,8 @@ tags:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Dlugošas]] valde_teritorija Raudonė
 - [[objektai/grupes/Kiršenšteinai]] valde_teritorija Raudonė
 - [[objektai/asmenys/Kiršenšteinas]] valde_teritorija Raudonė
+- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] valde_teritorija Raudonė
 - [[objektai/grupes/Zubovai]] susije_su Raudonė
 - [[objektai/asmenys/Zubovas]] buvo_valdovas Raudonė

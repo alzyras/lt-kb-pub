@@ -54,7 +54,7 @@ Nenurodyta
   teiginys: '1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie 1971 m. leidinio pastabą ir dviejų pasakojimų skirtumą. Atribucija komentarui jau yra aiški, papildomas vertinimas nepridėtas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/autoriai/Miechovita|Miechovita]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Volynė'
   temporaliniai_duomenys: 'įvykio data: 1505 m.; įvykio data: apie 1505 m.; įvykio data: 1506 m.; įvykio data: 1507 m.; įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis sakinys apie 1971 m. leidinio pastabą ir dviejų pasakojimų skirtumą. Atribucija komentarui jau yra aiški, papildomas vertinimas nepridėtas.'

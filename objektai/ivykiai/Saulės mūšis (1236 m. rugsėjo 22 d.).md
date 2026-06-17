@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-10287
   teiginys: '1236 m. rugsėjį į Lietuvą įžengusios Kalavijuočių ordino brolių ir Europos kryžininkų pajėgos pasidalijo į būrius ir ėmė plėšti.'
   sudarymo_pagrindimas: 'Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko informatyvesnį sakinį apie kryžininkų veiksmus.'
@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-10288
   teiginys: 'Saulės žemėje lietuviai užmušė 50 ordino brolių ir daugybę tikratikių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Volkvinas|Volkvinas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Volkvinas|Volkvinas]]'
   pagrindžia:
     - c-002
 
@@ -89,7 +89,7 @@ Nenurodyta
 - t-005
   global_id: t-66879
   teiginys: 'Ivinskis Saulės mūšį lokalizuoja prie Saulės, Šiaulių srityje, ir datuoja 1236 m. rugsėjo 22 d.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Saxo Grammaticus|Saxo Grammaticus]]; mentioned_place: Durbė; mentioned_place: Kaimas; mentioned_place: Sandomierius; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Saxo Grammaticus|Saxo Grammaticus]]; mentioned_place: Durbė; mentioned_place: Kaimas; mentioned_place: Sandomierius; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -125,7 +125,7 @@ Nenurodyta
   global_id: t-66882
   teiginys: '1236 m. rugsėjo 22 d. prie Saulės Vykinto vadovaujami būriai sumušė grįžtančius riterius; žuvo Volkevinas ir 48 riteriai.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/kein Soule sie karten wider|kein Soule sie karten wider]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/kein Soule sie karten wider|kein Soule sie karten wider]]; mentioned_person: [[objektai/asmenys/Mauricijus|Mauricijus]]; mentioned_place: Vokietija; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'įvykio data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir teiginys aiškiai susietas su Saulės mūšiu.'

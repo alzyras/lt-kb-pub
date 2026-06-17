@@ -21,10 +21,10 @@ Todėl kartais Lietuvos didvalstybė vadinama „aksomine imperija“.
   global_id: t-20878
   teiginys: 'Lietuvos didvalstybė kartais vadinama „aksomine imperija“, nes ji negalėjo kitiems primesti kalbos, kultūros ar religijos.'
   sudarymo_pagrindimas: 'Citata geriau pagrindžia aiškinimą per neprimestą kalbą, kultūrą ir religiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didvalstybė|didvalstybė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštija.md#claim-t-169683|Lietuvos Didžioji Kunigaikštija]]: Lietuvos Didžioji Kunigaikštija kartais vadinama „aksomine imperija“.
+
 ## Reikšmingi paminėjimai
 
 - c-001

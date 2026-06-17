@@ -48,7 +48,7 @@ Nenurodyta
   teiginys: 'Kariuomenė prie Naklo pilies įsirengė stovyklą ir apsiausties įtaisus, todėl pilėnai atidavė pilį broliams su sąlyga išeiti gyvi su manta.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi įvadinio triukšmo, bet citata remia Naklo pilies pasidavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_place: Lenkija; mentioned_place: Naklas; mentioned_place: Pilėnai; mentioned_place: Pomeranija'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Naklas; mentioned_place: Pilėnai; mentioned_place: Pomeranija'
   temporaliniai_duomenys: 'įvykio data: 1242 m.; įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi įvadinio triukšmo, bet citata remia Naklo pilies pasidavimą.'

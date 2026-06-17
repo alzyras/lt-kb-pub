@@ -29,7 +29,7 @@ Balinskis sugrįžta į Lietuvą ir apsigyvena savo Jašiūnų dvare.
   global_id: t-87885
   teiginys: 'Vladislovo savižudybė buvo viena iš nelaimių šeimoje, pagreitinusių M. Balinskio sugrįžimą į Lietuvą 1848 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys apie Balinskį, o ne apie Vladislovą; citata palaiko tikslesnį sakinį apie note objektą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1848 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys apie Balinskį, o ne apie Vladislovą; citata palaiko tikslesnį sakinį apie note objektą.'

@@ -29,7 +29,7 @@ Lewickis, kuris ne tik išleido du tomus svarbių XV amž. šaltinių (CeXV), be
   global_id: t-30520
   teiginys: 'A. Lewickis išleido du tomus svarbių XV a. šaltinių ir parašė šaltiniais paremtą monografiją apie Švitrigailą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lewickio darbus ir yra paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Lewickio darbus ir yra paremtas citata.'

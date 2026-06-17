@@ -37,7 +37,7 @@ Varšuvoje išleistoji Bibliografia Historii Polski kiek mažiau dėmesio beparo
   global_id: t-179572
   teiginys: 'Zenono Ivinskio vertinimu, Varšuvoje išleista „Bibliografia Historii Polski“ Lietuvos istorijai skyrė kiek mažiau dėmesio.'
   sudarymo_pagrindimas: 'Teiginys perteikia vertinimą, todėl reikia aiškios šaltinio autoriaus atribucijos.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: iki 1795 m.; įvykio data: 1795 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia vertinimą, todėl reikia aiškios šaltinio autoriaus atribucijos.'

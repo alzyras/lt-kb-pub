@@ -33,7 +33,7 @@ Dusburgietis teigia, kad galindai, p. 29; Топоров B. Dusburgietis teigia,
   global_id: t-175154
   teiginys: 'Топоров B. H. veikale apie prūsų kalbą aptarė Krivį.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo autoriaus darbą apie Krivį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

@@ -60,7 +60,7 @@ Nenurodyta
   global_id: t-97135
   teiginys: 'Lydimoji žemdirbystė rėmėsi ugnies naudojimu, kai išskintame ir nudegintame miško sklype buvo daromas dirbamas laukas.'
   sudarymo_pagrindimas: 'Teiginys palaikomas citata, bet reikėjo pašalinti OCR triukšmą ir perteklinius terminus.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -77,7 +77,7 @@ Nenurodyta
 - t-004
   global_id: t-97137
   teiginys: 'Lydimoji žemdirbystė rėmėsi miško sklypo išskynimu ir nudeginimu, kad jame būtų įrengtas dirbamas laukas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

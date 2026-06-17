@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-19604
   teiginys: 'LDK kancleris saugojo valstybės antspaudus ir prižiūrėjo, kad kanceliarijos raštai neprieštarautų valstybės įstatymams.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti, kas buvo minimas pareigūnas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

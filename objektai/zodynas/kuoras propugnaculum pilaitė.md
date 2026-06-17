@@ -30,7 +30,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   global_id: t-58785
   teiginys: 'Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.'
   sudarymo_pagrindimas: 'Perrašyta į pilną sakinį su aiškiais veikėjais, veiksmu ir rezultatu.'
-  susije_objektai: 'territory: Baiga; territory: Barta; territory: Partigala; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala'
+  susije_objektai: 'territory: Baiga; territory: Barta; territory: Partigala; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala'
   pagrindžia:
     - c-004
 
@@ -48,7 +48,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   global_id: t-58787
   teiginys: 'Broliai užgrobė prūsų apeiginį katilą ir iš pamatų sugriovė visus tris Bartenšteino pilį supusius kuorus.'
   sudarymo_pagrindimas: 'Fragmentas paverstas pilnu sakiniu su aiškiu objektu ir veiksmu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Katilas|Katilas]]; mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
 

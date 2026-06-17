@@ -29,7 +29,7 @@ Kuriose vietose jis apaštalavo, nežinia, tik tiek žinoma, kad žuvo jotvingų
   global_id: t-74009
   teiginys: '1009 m. vasario 14 d. jotvingų krašte buvo nužudytas aisčių krašte apaštalavęs asmuo ir jo palydovai.'
   sudarymo_pagrindimas: 'Originale neaiškus įvardis, o citata nepateikia asmens vardo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_object: [[objektai/grupes/Jotvingai|Jotvingai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]'
   temporaliniai_duomenys: 'įvykio data: 1009 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Originale neaiškus įvardis, o citata nepateikia asmens vardo.'

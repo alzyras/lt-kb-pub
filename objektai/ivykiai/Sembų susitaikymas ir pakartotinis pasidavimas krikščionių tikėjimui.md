@@ -39,7 +39,7 @@ Nenurodyta
   teiginys: 'Sembai, nebegalėdami priešintis broliams ir kitiems krikščionims, atidavė savo sūnus įkaitais ir vėl pasidavė krikščionių tikėjimui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės ir boilerplate liekanų; citata palaiko pilną sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]'
   pagrindžia:
     - c-001
 

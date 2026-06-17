@@ -40,7 +40,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   global_id: t-182083
   teiginys: 'Iki 1362 m. Algirdas užėmė Smolensko kunigaikštijai priklausiusį Mstislavlį, Mogiliavą ir Toropiecą.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mogiliavas; mentioned_place: Rževas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mogiliavas; mentioned_place: Rževas; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: iki 1362 m.; įvykio data: 1362 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas neaiškus įvardis ir sakinys padarytas savarankiškas.'
@@ -64,7 +64,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įtrauktas citatoje nurodytas rezultatas ir veikėjas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Pjūklai|Pjūklai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/daiktai/Pjūklai|Pjūklai]]'
   pagrindžia:
     - c-004
 

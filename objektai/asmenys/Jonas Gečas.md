@@ -28,7 +28,7 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - t-001
   global_id: t-40216
   teiginys: 'Jonas Gečas buvo paskirtas Aukščiausiosios Tarybos gynybos štabo viršininku.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_place: Aukščiausiosios Tarybos rūmai'
   pagrindžia:
     - c-002
 
@@ -36,9 +36,9 @@ Skučas su savo vyrais ir AT gynybos štabo viršininku paskirtas Jonas Gečas s
 - t-002
   global_id: t-40217
   teiginys: '1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.'
-  susije_objektai: 'owner: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; owner: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'owner: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas susiję su Aukščiausiosios Tarybos gynybos štabas (institucija)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas susiję su Aukščiausiosios Tarybos rūmai (institucija)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aukščiausiosios Tarybos gynybos štabas (institucija) priklausė Aukščiausiosios Tarybos rūmai (institucija)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Audrius Butkevičius.md#claim-t-40045|Audrius Butkevičius]]: Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.

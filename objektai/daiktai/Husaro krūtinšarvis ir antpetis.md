@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-39252
   teiginys: 'XVII a. husaro krūtinšarvis ir antpetis priklausė Abiejų Tautų Respublikos karybos aplinkai.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra tik pavadinimas, o citata leidžia suformuluoti faktą.'
-  susije_objektai: 'owner: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/karyba|karyba]]'
+  susije_objektai: 'owner: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   semantiniai_rysiai: '[[objektai/daiktai/Husaro krūtinšarvis ir antpetis|Husaro krūtinšarvis ir antpetis]] priklausė [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]'
   pagrindžia:
     - c-001

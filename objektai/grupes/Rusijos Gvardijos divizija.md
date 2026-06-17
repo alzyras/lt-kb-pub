@@ -21,7 +21,7 @@ Vienas rusų štabo karininkas stebėjosi, kodėl sukilėliai nesurengė puolimo
   global_id: t-80659
   teiginys: 'Sukilėliams delsiant pulti Vilnių, į miestą spėjo atvykti Rusijos Gvardijos divizija.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir turi perteklinį kontekstą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/rezervas|rezervas]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

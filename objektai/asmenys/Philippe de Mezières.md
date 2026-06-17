@@ -24,7 +24,7 @@ tags:
   global_id: t-100077
   teiginys: 'Philippe de Mezières siūlė į kryžiaus žygį prieš krikščionybės priešus pritraukti ir lietuvius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Philippe de Mezières siūlymą, paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 

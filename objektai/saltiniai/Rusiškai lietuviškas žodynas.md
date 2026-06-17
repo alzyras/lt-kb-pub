@@ -20,7 +20,7 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
 - t-001
   global_id: t-36108
   teiginys: '„Rusiškai lietuviško žodyno“ autorius žodžiams aiškinti naudojo daug lietuviškų raštų, o rusiškiems žodžiams nustatyti rėmėsi Dalio žodynu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]'
   pagrindžia:
     - c-002
 
@@ -28,7 +28,6 @@ Baronas — RUSIŠKAI LIETUVIŠKAS ŽODYNAS. Autoriaus su­ naudota žodžiams a
 - t-002
   global_id: t-36109
   teiginys: 'J. Barono „Rusiškai lietuviškas žodynas“ turėjo 575 puslapius ir kainavo 10 litų vietoj ankstesnių 15 litų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/litas|litas]]'
   pagrindžia:
     - c-001
 

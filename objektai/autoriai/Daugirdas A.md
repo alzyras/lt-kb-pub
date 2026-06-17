@@ -31,7 +31,7 @@ periodo_grupes:
   global_id: t-39864
   teiginys: 'A. Daugirdas 2011 m. Vilniuje paskelbė darbą apie Vilniaus pedagoginio universiteto studentų-savanorių kuopą 1991-1996 m.'
   sudarymo_pagrindimas: 'Citata yra bibliografinis įrašas, palaikantis aiškesnį teiginį apie autoriaus darbą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daugirdas|Daugirdas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1991-1996; įvykio data: 1996 m.; įvykio data: 2011 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata yra bibliografinis įrašas, palaikantis aiškesnį teiginį apie autoriaus darbą.'

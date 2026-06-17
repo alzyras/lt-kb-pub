@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - mūšis
-  - ordinas
 amziai:
   - 'XIV'
 ---
@@ -57,7 +56,7 @@ Nenurodyta
   global_id: t-86929
   teiginys: '1383 m. prie Vilniaus, ant tilto ties Vingrių versmėmis, užvirė atkaklus mūšis.'
   sudarymo_pagrindimas: 'Pašalinta išnašų ir puslapio triukšmo medžiaga.'
-  susije_objektai: 'event: [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Tavoras|Tavoras]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'event: [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Viena; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]] dalyvavo mūšyje [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]'
   temporaliniai_duomenys: 'mūšio data: 1383 m.; mūšio data: 1388 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) dalyvavo mūšyje Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)“, o ne visam objekto laikotarpiui.'

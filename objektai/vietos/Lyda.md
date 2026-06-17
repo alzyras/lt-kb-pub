@@ -23,8 +23,8 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
   global_id: t-77776
   teiginys: 'Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų Lydą.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Gardinas; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: Kaunas; owner: Lietuva; owner: [[objektai/asmenys/Mindaugas|Mindaugas]]; owner: Polockas; owner: Pskovas; owner: Voluinė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
-  semantiniai_rysiai: 'Lyda priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Lyda priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Lyda priklausė [[objektai/asmenys/Mindaugas|Mindaugas]]; Lyda priklausė Gardinas; Lyda priklausė Kaunas; Lyda priklausė Lietuva; Lyda priklausė Polockas; Lyda priklausė Pskovas; Lyda priklausė Voluinė'
+  susije_objektai: 'owner: Gardinas; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: Kaunas; owner: Lietuva; owner: [[objektai/asmenys/Mindaugas|Mindaugas]]; owner: Polockas; owner: Pskovas; owner: Voluinė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
+  semantiniai_rysiai: 'Lyda priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Lyda priklausė [[objektai/asmenys/Mindaugas|Mindaugas]]; Lyda priklausė Gardinas; Lyda priklausė Kaunas; Lyda priklausė Lietuva; Lyda priklausė Polockas; Lyda priklausė Pskovas; Lyda priklausė Voluinė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.).md#claim-t-35873|Ordino žygis į Lietuvą ir Gardino, Merkinės, Drohičino bei Lydos sudeginimas (1393 m.)]]: Ordino žygio į Lietuvą metu buvo paimtas ir sudegintas Gardinas, jo įgula išvesta į nelaisvę, o vėliau sudegintos Merkinė, Drohičinas ir Lyda.
@@ -50,7 +50,6 @@ Valdant Gediminui ar jo sūnui Algirdui buvo sukurta visa mūro pilių sistema a
     - t-001
 
 ## Ryšiai
-- Lyda priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
 - Lyda priklause [[objektai/vietos/Gardinas]]
 - Lyda priklause [[objektai/asmenys/Gediminas]]
 - Lyda priklause [[objektai/vietos/Kaunas]]

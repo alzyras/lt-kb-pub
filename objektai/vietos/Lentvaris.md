@@ -21,7 +21,7 @@ Grojant „Internacionalą“, pulkas išžygiavo Lentvario kryptimi. Šiaurinė
   global_id: t-41861
   teiginys: 'V. Kapsuko-Mickevičiaus palydėtas pulkas, grojant „Internacionalą“, išžygiavo Lentvario kryptimi.'
   sudarymo_pagrindimas: 'Perrašyta į aiškesnį sakinį su konkretesniu kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/husarai|husarai]]; mentioned_place: Jieznas; mentioned_place: Prienai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Jieznas; mentioned_place: Prienai'
   pagrindžia:
     - c-002
 

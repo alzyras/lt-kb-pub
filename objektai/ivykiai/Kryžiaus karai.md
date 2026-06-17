@@ -10,7 +10,6 @@ tags:
   - ivykis
   - kraštas
   - miestas
-  - mokslininkas
 ---
 # Kryžiaus karai
 
@@ -41,7 +40,7 @@ Nenurodyta
   global_id: t-86953
   teiginys: 'XI a. Kryžiaus karai iš pradžių laikyti savotiškais žygiais, bet vėliau virto svarbiu Europos istorijos įvykiu.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet reikia pašalinti OCR triukšmą ir sutrumpinti vertinamą formuluotę.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/feodalizmas|feodalizmas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/Riterių luomas|Riterių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_place: Europa'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176292|Algirdas (Lietuvos valdovas)]]: Valdant Ldk Algirdui 1345–1377 m. Lietuva tapo didvalstybe ir išplėtė teritoriją nuo Baltijos iki Juodosios jūros.

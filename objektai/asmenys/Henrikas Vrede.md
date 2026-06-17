@@ -21,7 +21,7 @@ tags:
   global_id: t-40135
   teiginys: 'Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Henriko Vredės veiksmą ir pasekmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Lietuva; mentioned_place: Švedija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79077|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.

@@ -62,7 +62,7 @@ Nenurodyta
   teiginys: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi citatos formuluote, bet reikia aiškiai įvardyti mūšį ir pašalinti kabučių fragmentiškumą.'
-  susije_objektai: 'event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Vorskla'
+  susije_objektai: 'event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'mūšio data: 1399 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Edigėjus dalyvavo mūšyje Vorsklos mūšis (mūšis)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi citatos formuluote, bet reikia aiškiai įvardyti mūšį ir pašalinti kabučių fragmentiškumą.'
@@ -77,7 +77,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria informaciją Detmaro Liubeko kronikos tęsiniui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Detmaro Liubeko|Detmaro Liubeko]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Liubekas; mentioned_place: Vorskla'
   pagrindžia:
     - c-007
 

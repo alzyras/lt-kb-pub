@@ -22,7 +22,7 @@ Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.
 - t-001
   global_id: t-39801
   teiginys: 'Didžiojo kunigaikščio dvaro pajėgoms vadovavo Ratajus Širiajevas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-12333
   teiginys: 'Vytauto laikams baigiantis daugelyje Lietuvos vietų jau skambėjo bažnyčių varpai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -63,7 +63,7 @@ Nenurodyta
   global_id: t-89438
   teiginys: 'Pilyje paliktas iškaršęs ir aklas Ordino brolis kas valandą kaip paprastai skambino varpu.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra negramatiškas, bet citata palaiko aiškų faktą apie varpo skambinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Elbingas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Ordino brolis|Ordino brolis]]; mentioned_place: Elbingas; mentioned_place: Viena'
   pagrindžia:
     - c-003
 

@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-87054
   teiginys: 'XIII amžiaus viduryje dabartinio Vilniaus vietoje buvo medinių namų gyvenvietė.'
   sudarymo_pagrindimas: 'Citata geriau palaiko trumpą faktą apie medinius namus, atitinkantį note objektą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Islandija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-87055
   teiginys: 'Iki Gedimino dabartinio Vilniaus vietoje tikriausiai buvo medinė tvirtovė, o palei Vilnios krantą driekėsi trobelės.'
   sudarymo_pagrindimas: 'Pašalinta fragmentinė pradžia ir aiškiai įvardyti citatos palaikomi objektai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

@@ -40,7 +40,7 @@ Lietuvių kolonijų užsienyje gausėjo, plėtėsi jų geografija. Su stipriausi
   global_id: t-20055
   teiginys: 'Per 20 metų lietuviai iš Lietuvos daugiausia emigravo į Pietų Amerikos šalis: Argentiną, Braziliją, Venesuelą ir Urugvajų.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako užsienio lietuvių emigracijos kryptis.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Urugvajus; mentioned_place: Venesuela'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Afrika; mentioned_place: Lietuva; mentioned_place: Urugvajus; mentioned_place: Venesuela'
   pagrindžia:
     - c-002
 

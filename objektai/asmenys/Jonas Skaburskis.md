@@ -21,7 +21,7 @@ Apie šį įvykį savo prisiminimuose pasakoja 4-ojo pėstininkų pulko eilinis 
   global_id: t-80735
   teiginys: 'Jonas Skaburskis buvo 4-ojo pėstininkų pulko eilinis, savo prisiminimuose aprašęs generolo Žukausko apsilankymą fronte.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Skaburskio vaidmenį ir jo prisiminimų turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

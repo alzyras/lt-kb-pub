@@ -29,7 +29,7 @@ Dlugošas, kuris 1409-1411 m. karui yra pagrindinis šaltinis, perdėm buvo krit
   global_id: t-97247
   teiginys: 'DlugO XIII tomas cituojamas nurodant 19, 48, 50, 53, 63 ir 64 puslapius.'
   sudarymo_pagrindimas: 'Citata palaiko tik bibliografines nuorodas į DlugO XIII tomo puslapius.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_person: [[objektai/autoriai/M. Oehler|M. Oehler]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Kolankowski|L. Kolankowski]]; mentioned_author: [[objektai/autoriai/M. Oehler|M. Oehler]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   pagrindžia:
     - c-002
 

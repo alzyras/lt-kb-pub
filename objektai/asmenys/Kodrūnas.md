@@ -31,7 +31,7 @@ Dusburgietis teigia, kad magistras, galop nurimęs, pasiuntė laivais didžiulę
   global_id: t-60356
   teiginys: 'Kodrūnas, apgultos prūsų pilies vadas, talkino broliams užimant Baigos pilį.'
   sudarymo_pagrindimas: 'Citata nurodo Kodrūno pareigas ir jo pagalbą užimant pilį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Baiga; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Baiga; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

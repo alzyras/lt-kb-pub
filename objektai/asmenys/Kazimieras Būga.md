@@ -31,7 +31,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   global_id: t-19054
   teiginys: 'Kazimieras Būga pradėjo lietuvių kalbos žodyno sudarymą.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, bet citata pagrindžia trumpą faktą apie veiklą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Antano Smetonos lituanistikos institutas|Antano Smetonos lituanistikos institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lituanistika|Lituanistika]]; mentioned_object: [[objektai/zodynas/Politrukai|Politrukai]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Antano Smetonos lituanistikos institutas|Antano Smetonos lituanistikos institutas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1902 m.; įvykio data: 1938 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs, bet citata pagrindžia trumpą faktą apie veiklą.'
@@ -46,7 +46,7 @@ Tęstas 1902 m. Kazimiero Būgos pradėtas lietuvių kalbos žodyno sudarymas (p
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko glaustesnį faktą apie Būgos pradėtą darbą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'įvykio data: 1902 m.; įvykio data: 2001 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata palaiko glaustesnį faktą apie Būgos pradėtą darbą.'

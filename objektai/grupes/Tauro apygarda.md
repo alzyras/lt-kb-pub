@@ -43,7 +43,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   global_id: t-49112
   teiginys: 'Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Tauro apygardos vadą ir yra paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Grybinas-Faustas|Aleksandras Grybinas-Faustas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Robertas (Sicilijos karalius)|Robertas (Sicilijos karalius)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Perloja'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vakarų Lietuvos (Jūros) sritis|Vakarų Lietuvos (Jūros) sritis]]; mentioned_person: [[objektai/asmenys/Aleksandras Grybinas-Faustas|Aleksandras Grybinas-Faustas]]; mentioned_person: [[objektai/asmenys/Antanas Liesys-Idenas|Antanas Liesys-Idenas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Perloja'
   pagrindžia:
     - c-003
 
@@ -52,7 +52,7 @@ Antroje eilėje (stovi) iš kairės: ketvirtas - Vakarų Lietuvos srities štabo
   global_id: t-49113
   teiginys: 'Aleksandras Grybinas-Faustas 1948 m. spalio 8 d. tapo Tauro apygardos vadu.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Grybinas-Faustas|Aleksandras Grybinas-Faustas]]; mentioned_place: Lietuva; mentioned_place: Suvalkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Aleksandras Grybinas-Faustas|Aleksandras Grybinas-Faustas]]; mentioned_place: Lietuva; mentioned_place: Suvalkija'
   temporaliniai_duomenys: 'įvykio data: po 1945 m.; įvykio data: 1945 m.; įvykio data: 1948 m.; įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'

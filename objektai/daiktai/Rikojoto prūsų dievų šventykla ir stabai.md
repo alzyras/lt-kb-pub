@@ -59,8 +59,8 @@ Nenurodyta
 - t-003
   global_id: t-75344
   teiginys: 'Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
-  susije_objektai: 'owner: Prūsai; owner: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai|Rikojoto prūsų dievų šventykla ir stabai]] priklausė [[objektai/autoriai/Simono Grunau|Simono Grunau]]; [[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai|Rikojoto prūsų dievų šventykla ir stabai]] priklausė Prūsai'
+  susije_objektai: 'owner: Prūsai; mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai|Rikojoto prūsų dievų šventykla ir stabai]] priklausė Prūsai'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,7 @@ Nenurodyta
   global_id: t-75345
   teiginys: 'Pasak Simono Grunau kronikos, Rikojote po žaliuojančiu ąžuolu buvo prūsų dievų šventykla su trimis stabais.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas, o citata leidžia suformuluoti pilną faktinį teiginį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -109,4 +109,3 @@ Nenurodyta
 
 ## Ryšiai
 - Rikojoto prūsų dievų šventykla ir stabai priklause [[objektai/vietos/Prūsai]]
-- Rikojoto prūsų dievų šventykla ir stabai priklause [[objektai/autoriai/Simono Grunau]]

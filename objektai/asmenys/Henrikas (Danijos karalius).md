@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
   global_id: t-60129
   teiginys: 'Pasak Dusburgiečio, šventasis Vaclovas išpranašavo Danijos karaliaus Henriko žūtį ir pasiūlė jam pastatyti bažnyčią.'
   sudarymo_pagrindimas: 'Tai legendinis pranašystės teiginys, todėl reikalinga šaltinio atribucija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie Henriko, Danijos karaliaus, žūtį 1250 metais He
   global_id: t-60130
   teiginys: '1250 metais Danijos karalių Henriką nužudė jo jaunesnysis brolis Abelis, norėjęs už jį karaliauti.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus faktinis sakinys apie Henriką ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/piktadarystė|piktadarystė]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

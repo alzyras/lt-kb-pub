@@ -31,7 +31,7 @@ Dusburgietis teigia, kad mat Bartenšteino pilyje buvo vienas vyras, vardu Milig
   global_id: t-60174
   teiginys: 'Miligedas buvo Bartenšteino pilies vyras, kurį prūsai laikė itin svarbiu pilies įgulai.'
   sudarymo_pagrindimas: 'Citata palaiko asmens ryšį su Bartenšteinu ir jo reikšmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

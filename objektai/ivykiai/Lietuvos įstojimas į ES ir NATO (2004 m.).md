@@ -9,6 +9,7 @@ datos:
   - '1994 m.'
   - '1999 m.'
   - '2002 m.'
+  - '2004 m.'
   - '2013 m.'
 date_start: '1990'
 date_end: '2013'
@@ -51,7 +52,7 @@ Nenurodyta
   global_id: t-75212
   teiginys: 'Lietuvai tapus ES nare, šalyje įsigaliojo Sąjungos nuostatos valstybių narių gyventojams.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir pataisyti stilių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/peticija|peticija]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -60,7 +61,7 @@ Nenurodyta
   global_id: t-75213
   teiginys: 'Lietuva kelią į NATO pradėjo 1991 m. gruodį, prisijungdama prie Šiaurės Atlanto bendradarbiavimo tarybos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Lietuvos kelią į NATO ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Lietuvos kelią į NATO ir paremtas citata.'
@@ -72,7 +73,7 @@ Nenurodyta
   global_id: t-75219
   teiginys: '2004 m. Lietuva tapo visateise demokratinių NATO ir ES valstybių šeimos nare.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie užrašo objektą ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1990 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie užrašo objektą ir paremtas citata.'
@@ -93,7 +94,7 @@ Nenurodyta
   global_id: t-75221
   teiginys: '1999 m. balandį NATO vadovų susitikime Vašingtone buvo patvirtintas Narystės veiksmų planas Lietuvos pasirengimui stoti į NATO.'
   sudarymo_pagrindimas: 'Reikia pataisyti linksnį ir aiškiau suformuluoti plano paskirtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_group: [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)|Šiaurės Atlanto sutarties organizacija (NATO)]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_group: [[objektai/grupes/Šiaurės Atlanto sutarties organizacija (NATO)|Šiaurės Atlanto sutarties organizacija (NATO)]]; mentioned_place: Lietuva; mentioned_place: Praha; mentioned_place: Vašingtonas'
   temporaliniai_duomenys: 'įvykio data: 1999 m.; įvykio data: 2002 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir aiškiau suformuluoti plano paskirtį.'

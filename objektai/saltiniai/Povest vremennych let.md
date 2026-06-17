@@ -42,7 +42,7 @@ PVL = Povest’ vremennych let, cast’ pervaja. Štai, XII amž. pradžioje sur
   global_id: t-29722
   teiginys: 'XII a. pradžioje surašyta „Povest vremennych let“ mini, kad Kijevo Jaroslavas 1040 m. surengė žygį į Lietuvą.'
   sudarymo_pagrindimas: 'Citata patvirtina šaltinio datavimą ir minimą 1040 m. žygį.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Naugardukas'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/na Litvu|na Litvu]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Naugardukas'
   temporaliniai_duomenys: 'įvykio data: 1040 m.; įvykio data: 1044 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina šaltinio datavimą ir minimą 1040 m. žygį.'

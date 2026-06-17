@@ -23,7 +23,7 @@ Dusburgietis teigia, kad jis vis dėlto per daug delsė, nežinodamas, kokie sta
   global_id: t-60425
   teiginys: 'Ringėlas buvo karaliaus vėliavas gavusio vyro brolis ir buvo nužudytas kartu su jo šeimyna bei giminėmis.'
   sudarymo_pagrindimas: 'Citata pagrindžia Ringėlo ryšį ir žūtį, bet pradinis teiginys turi neaiškių įvardžių.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Semba'
+  susije_objektai: 'mentioned_place: Semba'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Gedūnas.md#claim-t-60017|Gedūnas]]: Gedūnas grįžęs rado savo ir saviškių kiemus sudegintus, o šeimyną, brolį Ringėlą ir gimines išžudytus.

@@ -32,7 +32,7 @@ amziai:
   global_id: t-67530
   teiginys: 'Sutartis fundamentaliai pakeitė Lietuvos tarptautinę padėtį – Lietuva prarado neutralios politikos statusą ir dalį suvereniteto.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie sutarties pasekmes Lietuvai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Suverenitetas|Suverenitetas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Berlynas; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'sutarties data: 1920 m.; sutarties data: 1941 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „sutarties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie sutarties pasekmes Lietuvai.'

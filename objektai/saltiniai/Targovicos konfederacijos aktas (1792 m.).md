@@ -39,7 +39,7 @@ Ta konfederacija dėl jos akto paskelbimo vietos yra vadinama Targovicos konfede
   global_id: t-02291
   teiginys: 'Opozicionieriai Targovicos miestelyje Ukrainoje paskelbė reformoms priešingos konfederacijos aktą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai įvardija opozicionierius ir konfederacijos pobūdį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/konfederacija|konfederacija]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Targovica; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Targovica; mentioned_place: Ukraina'
   pagrindžia:
     - c-002
 

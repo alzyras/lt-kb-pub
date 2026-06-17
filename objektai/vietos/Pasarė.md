@@ -10,7 +10,6 @@ tags:
   - ordinas
   - valdovas
   - vieta
-  - vyskupas
 ---
 # Pasarė
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad apie Brunsbergo miestiečių karą antrosios atskalūny
   global_id: t-58610
   teiginys: 'Pasarė, vėliau vadinta Pasarge, tapatinama su dabartine Paslenka, įtekančia į Aismares žemiau Branevo.'
   sudarymo_pagrindimas: 'Išnašos tekstas tiesiogiai pateikia vietovardžio tapatinimą, o pradinė pretenzija yra bibliografinė ir triukšminga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Aismares; mentioned_place: Braunsbergas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Aismares; mentioned_place: Braunsbergas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

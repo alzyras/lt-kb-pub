@@ -30,7 +30,7 @@ Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.
   global_id: t-35251
   teiginys: 'Turkų sultonas Muradas II siuntė Vytautui į Smolenską dovanų.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas faktinis sakinys apie Muradą II ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Moldavija; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Paleologas|Paleologas]]; mentioned_place: Konstantinopolis; mentioned_place: Maskva; mentioned_place: Moldavija; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.

@@ -22,7 +22,7 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
   global_id: t-26655
   teiginys: 'Kultūra Lietuvoje plėtota pagal sovietų principą „tautinė pagal formą, socialistinė pagal turinį“.'
   sudarymo_pagrindimas: 'Teiginys yra enciklopedinis, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -30,7 +30,7 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
 - t-002
   global_id: t-26907
   teiginys: 'Formulė iliustruojama tautiniais drabužiais vilkinčiais choristais, dainavusiais apie V. Leniną.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-001
 
@@ -39,7 +39,6 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
   global_id: t-75622
   teiginys: 'Dainų šventėse principas „tautinė pagal formą, socialistinė pagal turinį“ ilgainiui liko privalomos socialistinės programos apvalkalu.'
   sudarymo_pagrindimas: 'Pradinis teiginys netiksliai sukeitė, kas citatoje vadinama apvalkalu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
   pagrindžia:
     - c-001
 
@@ -48,7 +47,7 @@ Formulė nusako sovietų kultūros politikos principą, kai tautinė forma turė
   global_id: t-75623
   teiginys: 'Pagal principą „tautinė pagal formą, socialistinė pagal turinį“ choristai tautiniais drabužiais dainavo apie V. Leniną.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir remiasi konkrečia citatos detale.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/V. Leninas.md#claim-t-19295|V. Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie V. Leniną.

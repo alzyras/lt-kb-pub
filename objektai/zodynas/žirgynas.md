@@ -35,7 +35,7 @@ Kadangi kunigaikštis karo reikalui privalė arklių, tai krašte buvo daug žir
   susije_objektai: 'mentioned_place: Kaunas'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Kęstučio Vilniaus užėmimas ir Jogailos suėmimas.md#claim-t-186672|Kęstučio Vilniaus užėmimas ir Jogailos suėmimas]]: Lietuvos metraštis pasakoja, kad Kęstutis paėmė į savo rankas Jogailos žemes, pilis, auksą, iždą ir žirgyną.
+
 ## Reikšmingi paminėjimai
 
 - c-001

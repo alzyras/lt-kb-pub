@@ -49,7 +49,7 @@ Nepaisant Volano, Tšecieskio ir kitų karštų refor­ matų talentų, nepaisan
   global_id: t-86751
   teiginys: '1581 m. Vilniuje buvo atvirai užpulti reformatų maldos namai ir Danieliaus Lenčickio prižiūrėta spaustuvė.'
   sudarymo_pagrindimas: 'Citata pagrindžia įvykį, o teiginį reikėjo sutvarkyti.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1581 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia įvykį, o teiginį reikėjo sutvarkyti.'

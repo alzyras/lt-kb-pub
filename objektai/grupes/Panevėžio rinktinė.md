@@ -22,7 +22,7 @@ Mūšio pasekmės Išvadavusi Panevėžį, Panevėžio rinktinė toliau parsekio
   global_id: t-38892
   teiginys: 'Išvadavusi Panevėžį, Panevėžio rinktinė gegužės 27 d. persekiodama priešą užėmė Troškūnus ir Subačių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Subačius; mentioned_place: Troškūnai'
+  susije_objektai: 'mentioned_place: Biržai; mentioned_place: Lietuva; mentioned_place: Subačius; mentioned_place: Troškūnai'
   pagrindžia:
     - c-002
 

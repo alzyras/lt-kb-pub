@@ -50,7 +50,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180413
   teiginys: 'Narimantui buvo tekusios Pinsko ir Turovo kunigaikštijos, o 1348 m. jis žuvo Strėvos kautynėse su kryžiuočiais.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Polesė; mentioned_place: Rusija; mentioned_place: Strėva; mentioned_place: Turovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Polesė; mentioned_place: Rusija; mentioned_place: Strėva; mentioned_place: Turovas'
   temporaliniai_duomenys: 'įvykio data: 1348 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citata.'
@@ -62,7 +62,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180415
   teiginys: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis sąrašas ir OCR iškraipymas.'
-  susije_objektai: 'territory: Lietuva; territory: Nesvyžius; territory: Turovas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Turovas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lietuva; territory: Nesvyžius; territory: Turovas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Turovas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Turovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis sąrašas ir OCR iškraipymas.'
@@ -83,7 +83,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180418
   teiginys: 'Narimantas, Pinsko kunigaikštis, po Kęstučio 1345 m. puolimo ieškojo prieglobsčio pas totorių chaną.'
   sudarymo_pagrindimas: 'Teiginys perrašytas į aiškų faktą apie Pinsko kunigaikštį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Maskva; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Maskva; mentioned_place: Černigovas'
   temporaliniai_duomenys: 'įvykio data: 1345 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas į aiškų faktą apie Pinsko kunigaikštį.'
@@ -111,7 +111,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180422
   teiginys: 'Apie liepos 20–22 d. totoriai pasirinko stovyklą prie Klecko, nes miestas stovėjo ant kelių į Pinską, Vilnių, Nesvyžių ir Slucką.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje buvo neaiškus įvardis ir per ilga konstrukcija.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Tėvūnija|Tėvūnija]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Sluckas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje buvo neaiškus įvardis ir per ilga konstrukcija.'
@@ -126,7 +126,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Pinsko vietą Polesės apibūdinime.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_person: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Palenkė; mentioned_place: Polesė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Albertas Vijūkas-Kojelavičius|Albertas Vijūkas-Kojelavičius]]; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_place: Palenkė; mentioned_place: Polesė'
   pagrindžia:
     - c-008
 
@@ -138,7 +138,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas sakinys, susiejantis Pinsko žmones su Vaišvilko kelione ir grįžimu į Lietuvą. Džiaugsmingas Lietuvos sutikimas neįtrauktas, nes tai būtų atskiras vertinamasis epizodas.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Lietuva'
+  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.

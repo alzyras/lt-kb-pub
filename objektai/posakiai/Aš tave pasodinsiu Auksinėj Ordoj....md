@@ -42,7 +42,7 @@ Formulė nusako Vytauto ir Tochtamyšo sandėrį: Tochtamyšą grąžinti į val
   pagrindžia:
     - c-001
     - c-003
-- susijęs iš [[objektai/posakiai/aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste.md#claim-t-176271|aš tave pasodinsiu Auksinėj Ordoj, o tu mane — Maskvos soste]]: Vytautas priėmė Tochtamyšą, tikėdamasis per jį sulaužyti totorių galybę ir, pasiremdamas totoriais, atsisėsti Maskvos soste.
+
 ## Reikšmingi paminėjimai
 
 - c-001

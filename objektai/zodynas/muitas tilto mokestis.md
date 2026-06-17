@@ -24,7 +24,6 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   global_id: t-86427
   teiginys: 'Tilto mokestis karališkąja malone visiems laikams buvo paskirtas prieglaudai ir joje gyvenantiems vargšams.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą tilto mokesčio paskyrimą prieglaudai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-003
 
@@ -42,7 +41,7 @@ Nuo šio muito arba mokesčio minėtam Ulrikui Hozijui leidome visas lėšas ir 
   global_id: t-86429
   teiginys: 'Jonas Hozijus buvo paskirtas rinkti tilto mokestį ir taisė pavasarį vandens bei ledų sangrūdų sugadintą tiltą.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki aiškaus, citata paremto fakto.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]]'
   pagrindžia:
     - c-001
 

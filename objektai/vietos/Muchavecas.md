@@ -14,7 +14,6 @@ tags:
   - mūšis
   - seimas
   - upė
-  - vieta
 amziai:
   - 'XVIII'
 ---
@@ -31,7 +30,7 @@ Inžinerijos pulkininkui Jokūbui Jasinskui vadovaujant pradėtas statyti antras
   global_id: t-41948
   teiginys: 'Jokūbui Jasinskui vadovaujant Senajame Muchavece buvo užverstos dvi brastos, o prie tilto per Muchaveco upę supiltas pylimas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Muchavecą ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Brasta; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1792 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Muchavecą ir tiksliai atitinka citatos informaciją.'

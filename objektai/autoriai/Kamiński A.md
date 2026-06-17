@@ -22,7 +22,7 @@ Dusburgietis teigia, kad baltai gyveno į šiaurę nuo Narevo ir, matyt, Bebro u
   global_id: t-91930
   teiginys: 'A. Kamińskio „Jaćwież“ cituojamas prie teiginio, kad Zilijos valsčius galėjo aprėpti Raigardo apylinkes ir eiti link Augustavo.'
   sudarymo_pagrindimas: 'Pirminis teiginys turi klaidingą autorinę priskirtį ir nutrūkusią bibliografinę nuorodą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Augustavas; mentioned_place: Bebras; mentioned_place: Narevas; mentioned_place: Zilija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Augustavas; mentioned_place: Bebras; mentioned_place: Narevas; mentioned_place: Zilija'
   pagrindžia:
     - c-001
 

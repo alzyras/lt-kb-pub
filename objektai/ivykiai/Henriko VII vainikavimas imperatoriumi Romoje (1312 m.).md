@@ -47,7 +47,6 @@ Nenurodyta
   teiginys: '1312 m. Henrikas VII, Romos karalius, buvo vainikuotas imperatoriumi Romoje, Laterano bažnyčioje.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos turinį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
   temporaliniai_duomenys: 'įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatos turinį.'

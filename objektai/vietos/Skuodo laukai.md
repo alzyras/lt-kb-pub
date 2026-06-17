@@ -21,7 +21,7 @@ Kai narsus Kuldingos (Goldingen) komtūras Bernhardas von Haren su gausiu grobiu
   global_id: t-28464
   teiginys: 'Skuodo laukuose žemaičiai sumušė juos persekiojusius Kuldingos komtūro Bernhardo von Hareno karius.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir pašalintos perteklinės detalės, išlaikant citatos faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_place: Kuldinga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Kuldinga'
   pagrindžia:
     - c-001
 

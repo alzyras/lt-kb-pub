@@ -32,7 +32,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   global_id: t-58815
   teiginys: 'Krivio pasiuntinys su krivūle ar kitu žinomu ženklu susilaukdavo didžios pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalintas nutrūkęs sakinio galas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Krivūlė|Krivūlė]]; mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/negęstančiąją ugnį|negęstančiąją ugnį]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Livonija'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad krivis (krivė) arba kirvaitis (Grunau), krivaitis—lu
   global_id: t-58816
   teiginys: 'A. Mežinskio nuomone, krivis buvo tikrinis paskutinio Nadruvos žynio vardas, o ne pareigybė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia A. Mežinskio poziciją ir vėlesnį aiškinimą citatoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Krivis|Krivis]]; mentioned_place: Nadruva'
   pagrindžia:
     - c-004
 

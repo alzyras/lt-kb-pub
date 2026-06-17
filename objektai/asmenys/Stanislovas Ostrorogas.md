@@ -22,7 +22,7 @@ Stanislovas Ostrorogas, Kališo vaivada, atvyko į Vilniaus lietuvių seimą kai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia vaidmenį, pareigas ir atvykimo vietą.'
-  susije_objektai: 'location: Lenkija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lenkija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Ostrorogas|Stanislovas Ostrorogas]] keliavo į Lenkija; [[objektai/asmenys/Stanislovas Ostrorogas|Stanislovas Ostrorogas]] keliavo į Vilnius'
   pagrindžia:
     - c-001

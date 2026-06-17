@@ -27,7 +27,7 @@ Antanas Smetona ir jo laikai.
   global_id: t-18022
   teiginys: 'Liudo Truskos knyga „Antanas Smetona ir jo laikai“ išleista Vilniuje 1996 m.'
   sudarymo_pagrindimas: 'Citata remia bibliografinį faktą, bet pradinė formuluotė netiksliai sieja autorių su leidimu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Smetona|Antanas Smetona]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1996 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia bibliografinį faktą, bet pradinė formuluotė netiksliai sieja autorių su leidimu.'

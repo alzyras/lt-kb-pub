@@ -36,7 +36,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   global_id: t-78855
   teiginys: 'Petro Seredos-Stumbro pasakojime nurodoma, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų apsupo NKVD kariuomenė.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra neapdorotas citatos fragmentas su OCR triukšmu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaimas; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Kaimas; mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra neapdorotas citatos fragmentas su OCR triukšmu.'
@@ -48,7 +48,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   global_id: t-78856
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad NKVD kariuomenė Kalniškės mišką apsupo iš vakaro Simno stribų prašymu.'
   sudarymo_pagrindimas: 'Pradinė formuluotė buvo triukšminga, o citata palaiko šį konkretų faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Simnas'
   pagrindžia:
     - c-002
 
@@ -57,7 +57,7 @@ Alytuje 1990 metų gegužės 18 d. užrašyto Kalniškės mūšio dalyvio Petro 
   global_id: t-78857
   teiginys: 'Petras Sereda-Stumbras pasakojo, kad 1945 m. gegužės 16 d. Kalniškės miške apie 100 partizanų būrį apsupo NKVD kariuomenė.'
   sudarymo_pagrindimas: 'Pašalintas antraščių triukšmas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Simnas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Simnas'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraščių triukšmas ir paliktas citatos paremtas faktas.'

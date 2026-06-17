@@ -33,7 +33,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   global_id: t-79165
   teiginys: 'Po Augusto II mirties Prancūzijos remiamas Stanislovas Leščinskis mėgino vėl tapti ATR valdovu, bet karaliumi tapo Rusijos remiamas Augustas III.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą Stanislovo Leščinskio siekį ir rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Augustas III|Augustas III]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas III|Augustas III]]; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-003
 
@@ -50,7 +50,7 @@ Leščinskio išrinkimas karalium ir karo pabaiga. 1704 m. Karolis privertė su�
   global_id: t-79168
   teiginys: '1704 m. Švedijos remiamas Stanislovas Leščinskis buvo išrinktas ATR valdovu, o tarp jo ir Augusto II šalininkų įsiplieskė karas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata apie Stanislovą Leščinskį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1704 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir pagrįstas citata apie Stanislovą Leščinskį.'

@@ -28,7 +28,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   global_id: t-81463
   teiginys: 'Pilaitė po Glebavičių tapo jėzuitų nuosavybe, o vėliau atiteko Vilniaus universitetui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnę paveldėjimo seką ir ryšį su jėzuitais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Pilaitė; mentioned_place: Sudervėlė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -37,7 +37,7 @@ Kai per Lietuvos jėzuitų kolegijas ir Vilniaus Akademiją lotynų kalba vis da
   global_id: t-81464
   teiginys: 'Pilaitė prie Vilniaus kadaise buvo jėzuitų nuosavybė, o vėliau atiteko Vilniaus universitetui.'
   sudarymo_pagrindimas: 'Citata mini jėzuitų valdytą Pilaitę, bet ne Lietuvos jėzuitų kolegijas kaip platesnį objektą; paliktas tik palaikomas faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

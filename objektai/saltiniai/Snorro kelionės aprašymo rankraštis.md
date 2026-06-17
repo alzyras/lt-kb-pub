@@ -24,7 +24,7 @@ Islandų keliautojas Snorro, tais lai­ kais vykdamas per Europos šiaurės kra�
   global_id: t-88333
   teiginys: 'Čackis pirmasis užsiminė apie Snorro kelionės aprašymo rankraščio išrašą iš Kopenhagos bibliotekos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

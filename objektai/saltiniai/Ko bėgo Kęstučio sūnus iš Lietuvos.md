@@ -27,7 +27,7 @@ amziai:
 - t-001
   global_id: t-31766
   teiginys: '„Ko bėgo Kęstučio sūnus iš Lietuvos“ buvo paskelbta „Židinyje“ 1932 m. 12 numeryje, p. 449–457.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Kučinskas|A. Kučinskas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Marijampolė'
   temporaliniai_duomenys: 'įvykio data: 1932 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

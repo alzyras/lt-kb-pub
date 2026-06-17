@@ -22,7 +22,7 @@ tags:
   global_id: t-88302
   teiginys: 'Slaptajame archyve buvo saugomi 65 Dinaburgo komtūro laiškai.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra nutrūkęs fragmentas, bet citata leidžia suformuluoti aiškų faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Dinaburgas; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Dinaburgas; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

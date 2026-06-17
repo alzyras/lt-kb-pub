@@ -15,7 +15,6 @@ tags:
   - karalius
   - popiežius
   - tauta
-  - vieta
 amziai:
   - 'XIV'
 ---
@@ -44,7 +43,7 @@ amziai:
   global_id: t-86030
   teiginys: '1324 m. Mevėje parengiant Mažesniųjų brolių laiško nuorašą dalyvavo Pelplino abatas Jordanas.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą, susijusį su Pelplino abatu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_person: [[objektai/autoriai/Jordanas|Jordanas]]; mentioned_place: Oliva; mentioned_place: Vildenbergas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Fridrichas fon Vildenbergas|Fridrichas fon Vildenbergas]]; mentioned_place: Oliva; mentioned_place: Vildenbergas'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko konkretų faktą, susijusį su Pelplino abatu.'

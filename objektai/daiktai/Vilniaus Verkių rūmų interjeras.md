@@ -48,7 +48,7 @@ Nenurodyta
 - t-001
   global_id: t-45547
   teiginys: 'Vilniaus Verkių rūmų interjeras pavaizduotas J. K. Vilčinskio „Vilniaus albume“.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Verkiai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

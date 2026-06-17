@@ -37,7 +37,7 @@ Varydamas tautišką politiką ir kovodamas su ordinu, jis rado sąjungininkų p
   global_id: t-72768
   teiginys: 'Vytenis, vykdydamas tautišką politiką prieš Ordiną, sudarė sąjungą su Ryga ir Rygos arkivyskupu.'
   sudarymo_pagrindimas: 'Perrašyta į aiškų faktinį sakinį be vertinamojo formulavimo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Ryga'
   temporaliniai_duomenys: 'įvykio data: po 1309 m.; įvykio data: 1309 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų faktinį sakinį be vertinamojo formulavimo.'

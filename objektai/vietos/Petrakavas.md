@@ -22,7 +22,7 @@ Lenkai Petrakave sušaukė seimą dėl Jogailos pakvietimo.
   teiginys: 'Pasak Lietuvos metraščio, lenkai Petrakave sušaukė seimą ir nusprendė kviesti Jogailą savo karalystės valdovu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Valdovo titulas ir politinis vertinimas reikalauja atribucijos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Lietuva; mentioned_place: Pamaris'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Pamaris'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186791|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Aleksandras 1501 m. spalio 3 d. Petrakave buvo preliminariai išrinktas Lenkijos karaliumi po Jono Olbrachto mirties.

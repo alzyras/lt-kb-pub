@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-169852
   teiginys: 'Vilniaus televizijos bokšto šturmo įvykiai sukrėtė Lietuvą ir nuskambėjo pasaulyje.'
   sudarymo_pagrindimas: 'Perrašyta, kad teiginys aiškiau sietųsi su užrašo objektu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-169853
   teiginys: 'Atkuriamojo Seimo vadovybei pakvietus, sausio 12 dienos vakare minios vilniečių ir iš kitų Lietuvos vietų atvykusių žmonių rinkosi budėti prie parlamento rūmų, Lietuvos radijo ir televizijos, televizijos bokšto.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-169855
   teiginys: '1991 m. sausio 13-ąją Lietuvos AT-AS kreipėsi į SSRS žmones ir ragino stabdyti sovietų kariuomenės agresiją.'
   sudarymo_pagrindimas: 'Perrašyta į aiškų vieno sakinio faktą be dviprasmiškų nuorodų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: SSRS; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1967 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į aiškų vieno sakinio faktą be dviprasmiškų nuorodų.'
@@ -78,7 +78,7 @@ Nenurodyta
   global_id: t-169856
   teiginys: '1991 m. sausio 13-osios naktį sovietų tankai ir šarvuočiai apsiautė Vilniaus televizijos bokštą.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko glaustesnį faktą apie televizijos bokšto apsupimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko glaustesnį faktą apie televizijos bokšto apsupimą.'
@@ -90,7 +90,7 @@ Nenurodyta
   global_id: t-169857
   teiginys: '1991 m. sausio 13-ąją, sovietų kariuomenei šturmuojant televizijos bokštą, žuvo 13 Lietuvos laisvės gynėjų, tarp jų viena mergina, Loreta Asanavičiūtė, gimusi 1967 m., – ji pateko po tanko vikšrais ir mirė ligoninėje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, išsamus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Sausio 13-osios gynybinės barikados|Sausio 13-osios gynybinės barikados]]; mentioned_object: [[objektai/daiktai/Sovietų tankai ir šarvuočiai|Sovietų tankai ir šarvuočiai]]; mentioned_object: [[objektai/daiktai/Šarvuočiai|Šarvuočiai]]; mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1967 m.; įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, išsamus ir tiesiogiai paremtas citata.'

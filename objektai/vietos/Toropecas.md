@@ -15,7 +15,6 @@ tags:
   - pilis
   - upė
   - valdovas
-  - vieta
 amziai:
   - 'X'
   - 'XVI'
@@ -53,7 +52,7 @@ Jis turėjo žygiuoti Veližo link, iš ten pulti Toropeco ir Bialos pilių apyl
 - t-003
   global_id: t-42191
   teiginys: 'K. Radvilos pajėgos turėjo nuo Veližo pulti Toropeco ir Bialos pilių apylinkes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Veližas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_place: Biala; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Smolenskas; mentioned_place: Veližas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/K. Radvilos Perkūno reidas (1581 m. liepa-spalis).md#claim-t-78617|Kristupo Radvilos Perkūno reidas (1581 m. liepa-spalis)]]: Radvilos pajėgos nusiaubė Rževo, Toropeco ir Staricos apylinkes, o Ivanas IV buvo priverstas evakuoti savo šeimą ir dvarą.

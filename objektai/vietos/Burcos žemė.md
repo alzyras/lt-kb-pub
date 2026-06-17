@@ -15,7 +15,6 @@ tags:
   - karalius
   - ordinas
   - popiežius
-  - vieta
 amziai:
   - 'XIII'
 ---

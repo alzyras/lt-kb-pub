@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-01635
   teiginys: 'Prancūziškoji partija kandidatu į sostą iškėlė hetmoną Joną Sobieskį, kai paaiškėjo, kad Kondės išrinkti nepavyks.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau ir be perteklinės datos, kurios citata tiesiogiai nepateikia.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Prancūziškoji partija|Prancūziškoji partija]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Prancūziškoji partija|Prancūziškoji partija]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

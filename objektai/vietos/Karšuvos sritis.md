@@ -29,7 +29,7 @@ Livonijos ir Prūsų kryžiuočiai Pabaltijo žemių okupacijos eigoje pirmą ka
   global_id: t-32209
   teiginys: '1259 m. Karšuvos srityje prie Mituvos ir Imsrės žiočių Livonijos ir Prūsų kryžiuočiai statė bendrą Georgenburgo pilį.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir išvalytas nuo perteklinės formuluotės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Georgenburgas; mentioned_place: Imsrė; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Georgenburgas; mentioned_place: Imsrė; mentioned_place: Karšuva; mentioned_place: Livonija; mentioned_place: Mituva; mentioned_place: Nemunas; mentioned_place: Prūsai; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1259 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir išvalytas nuo perteklinės formuluotės.'

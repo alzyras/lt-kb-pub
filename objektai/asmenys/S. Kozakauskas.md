@@ -21,7 +21,7 @@ Kozakauskas, D. Kozakauskas ir dar keletas karininkų.
 - t-001
   global_id: t-40408
   teiginys: 'S. Kozakauskas gegužės 10-osios naktį pateko į paporučikio fon Gaso dalinio nelaisvę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

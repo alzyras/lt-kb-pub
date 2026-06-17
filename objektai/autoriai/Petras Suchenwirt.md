@@ -37,7 +37,7 @@ Drauge atvykęs poetas Petras Suchenwirt davė to iškilmingo žygio, kuriam vad
 - t-002
   global_id: t-30926
   teiginys: 'Petras Suchenwirtas eilėmis aprašė iškilmingą žygį Ariogalos ir Dubysos rajone.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Ariogala; mentioned_place: Austrija; mentioned_place: Dubysa'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Ariogala; mentioned_place: Austrija; mentioned_place: Dubysa'
   pagrindžia:
     - c-001
 - susijęs iš Ariogala: Ariogalos-Dubysos rajone ištisą savaitę buvo siaubiama, degintos lietuvių sodybos ir nuotykių ieškotojai keliami į riterius.

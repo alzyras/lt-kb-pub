@@ -27,7 +27,7 @@ Dusburgietis teigia, kad nalepa J.
   global_id: t-61188
   teiginys: 'J. Nalepos tekstas „Dėl A. Vanago pranešimo“ paskelbtas ABS 1976 m. 9 tome, p. 81–86.'
   sudarymo_pagrindimas: 'Citata pagrindžia bibliografinį įrašą, pašalinus OCR triukšmą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Nalepa J|Nalepa J]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Nalepa J|Nalepa J]]'
   temporaliniai_duomenys: 'įvykio data: 1976 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia bibliografinį įrašą, pašalinus OCR triukšmą.'

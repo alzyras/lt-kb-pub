@@ -22,7 +22,7 @@ Vytautas paėmė Oviučio miestą.
   teiginys: 'Vytautas tą patį pavasarį paėmė Žitomiro ir Oviučio miestus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys papildytas citatoje esančiu laiko kontekstu ir greta minimu Žitomiru. Valdovo titulas neperkeltas, nes nėra būtinas Oviučio faktui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Podolė; mentioned_place: Vladimiras; mentioned_place: Žitomiras'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Podolė; mentioned_place: Vladimiras; mentioned_place: Žitomiras'
   pagrindžia:
     - c-001
 

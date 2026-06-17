@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-54485
   teiginys: 'Šventaragio slėnyje iki krikščioniškojo tikėjimo įvedimo degė Gabija vadinta amžinoji ugnis Perkūno garbei.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie Gabiją bei Perkūno garbinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Bokštai; mentioned_place: Vilija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Bokštai; mentioned_place: Vilija'
   pagrindžia:
     - c-001
     - c-002
@@ -68,7 +68,7 @@ Nenurodyta
   global_id: t-54487
   teiginys: 'Šventaragio slėnyje Perkūno garbei degusią amžinąją ugnį Gabiją saugojo ir kurstė žyniai, vadovaujami Krivių Krivaičio.'
   sudarymo_pagrindimas: 'Į sakinį įtrauktas note objektas ir patikslinta vieta.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gabija|gabija]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

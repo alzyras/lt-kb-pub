@@ -21,7 +21,7 @@ Osten-Sakenui. Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kav
   global_id: t-40082
   teiginys: 'Osten-Sakenas dešiniajame gynybos sparne puolimui išrikiavo kavaleriją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie D. Osten-Sakeną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Orenburgo ulonų pulkas|Orenburgo ulonų pulkas]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Orenburgo ulonų pulkas|Orenburgo ulonų pulkas]]'
   pagrindžia:
     - c-001
 

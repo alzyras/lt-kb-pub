@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - ordinas
-  - popiežius
 amziai:
   - 'XIII'
   - 'XIV'
@@ -44,7 +43,7 @@ Dusburgietis teigia, kad apie brolį Egidijų, švento Augustino ordino didįjį
   global_id: t-59901
   teiginys: 'Popiežius Bonifacas VIII paskyrė magistrą Egidijų Beri arkivyskupu.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų Bonifaco VIII veiksmą, o pradinis teiginys yra OCR fragmentas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Paryžius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Paryžius'
   pagrindžia:
     - c-004
 

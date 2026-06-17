@@ -32,7 +32,7 @@ IV priedą, išsamiai nušviečia Rachunki Justa Ludwika Decyusza, Žygimanto Au
   global_id: t-88094
   teiginys: 'Justo Ludwiko Decyuszo sąskaitos išsamiai nušviečia naujų dirbtuvių padėtį Vilniuje.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentiškas ir su OCR triukšmu, bet citata palaiko glaustą faktą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentiškas ir su OCR triukšmu, bet citata palaiko glaustą faktą.'

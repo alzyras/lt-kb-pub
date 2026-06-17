@@ -15,7 +15,6 @@ tags:
   - karas
   - kraštas
   - pilis
-  - tikėjimas
 amziai:
   - 'XIV'
 periodo_grupes:
@@ -34,8 +33,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59864
   teiginys: 'Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai apibendrina citatoje aprašytą apgulą.'
-  susije_objektai: 'object: Bisenė; object: [[objektai/autoriai/Henrikas|Henrikas]]; object: Nemunas; object: Pilėnai; object: Prūsija; object: Salos; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė [[objektai/autoriai/Henrikas|Henrikas]]; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Bisenė; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Nemunas; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Pilėnai; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Prūsija; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Salos'
+  susije_objektai: 'object: Bisenė; object: Nemunas; object: Pilėnai; object: Prūsija; object: Salos; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Bisenė; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Nemunas; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Pilėnai; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Prūsija; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Salos'
   pagrindžia:
     - c-007
 
@@ -44,7 +43,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59865
   teiginys: '1314 m. Henrikas iš Plockės su broliais ir Sembos bei Notangos vyrais žygiavo į Medininkų valsčių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais dalyviais bei kryptimi.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Notanga; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citatoje nurodytais dalyviais bei kryptimi.'
@@ -56,7 +55,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59866
   teiginys: '1316 m. žiemą Henrikas iš Plockės su daugybe raitelių įsiveržė į Paštuvos valsčių ir jį nusiaubė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą žygį ir jo rezultatą.'
@@ -68,7 +67,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59867
   teiginys: '1320 m. liepos 27 d. Henrikas iš Plockės žuvo Medininkų valsčiuje kartu su 29 broliais ir daugybe paprastų žmonių.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata aiškiai palaiko mirties aplinkybes.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Semba'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Medininkai; mentioned_place: Semba'
   temporaliniai_duomenys: 'įvykio data: 1320 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, o citata aiškiai palaiko mirties aplinkybes.'
@@ -80,7 +79,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59868
   teiginys: '1316 m. Henrikas iš Plockės su Reino krašto maldininkais nusiaubė Medininkų valsčių.'
   sudarymo_pagrindimas: 'Pradinis teiginys išvardija šalutinius asmenis, o citata palaiko glaustesnį faktą apie veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Reinas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Reinas'
   temporaliniai_duomenys: 'įvykio data: 1316 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys išvardija šalutinius asmenis, o citata palaiko glaustesnį faktą apie veiksmą.'
@@ -104,7 +103,7 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59870
   teiginys: '1314 m. apie vasario 2 d. Henrikas iš Plockės dar kartą žygiavo į Medininkų valsčių ir puolė Sizditės pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko konkretų žygį ir puolimo objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Medininkai; mentioned_place: Pilėnai; mentioned_place: Sizditė'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata palaiko konkretų žygį ir puolimo objektą.'
@@ -249,7 +248,6 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 ## Ryšiai
 - Henrikas iš Plockės puole [[objektai/vietos/Bisenė]]
-- Henrikas iš Plockės puole [[objektai/autoriai/Henrikas]]
 - Henrikas iš Plockės puole [[objektai/vietos/Nemunas]]
 - Henrikas iš Plockės puole [[objektai/vietos/Pilėnai]]
 - Henrikas iš Plockės puole [[objektai/vietos/Prūsija]]

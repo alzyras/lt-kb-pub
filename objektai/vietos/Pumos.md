@@ -22,8 +22,8 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
   teiginys: 'Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandesnę vietovės priklausomybės formą.'
-  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras|Aleksandras]]; owner: Lietuva; owner: Vilnius; owner: Šešuoliai; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
-  semantiniai_rysiai: 'Pumos priklausė [[objektai/asmenys/Aleksandras|Aleksandras]]; Pumos priklausė Lietuva; Pumos priklausė Vilnius; Pumos priklausė Šešuoliai'
+  susije_objektai: 'owner: Lietuva; owner: Vilnius; owner: Šešuoliai; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
+  semantiniai_rysiai: 'Pumos priklausė Lietuva; Pumos priklausė Vilnius; Pumos priklausė Šešuoliai'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,6 @@ Aleksandras Jurjevičius Lietuvoje turėjo Pumas.
     - t-001
 
 ## Ryšiai
-- Pumos priklause [[objektai/asmenys/Aleksandras]]
 - Pumos priklause [[objektai/vietos/Lietuva]]
 - Pumos priklause [[objektai/vietos/Vilnius]]
 - Pumos priklause [[objektai/vietos/Šešuoliai]]

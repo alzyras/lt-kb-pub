@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Buvo kanonizuoti šventieji Edmundas, Kenterberio arkivyskupas, Stanislovas iš Krokuvos ir pamokslininkų ordino kankinys Petras.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys yra negramatiškas ir turi šaltinio fragmentų.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 

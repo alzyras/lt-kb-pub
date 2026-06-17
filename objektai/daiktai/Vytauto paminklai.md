@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-19615
   teiginys: 'Vytauto Didžiojo mirties 500-ųjų metinių minėjimo metu Lietuvoje jam buvo statomi paminklai.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs tekstas ir paliktas teiginys apie paminklus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

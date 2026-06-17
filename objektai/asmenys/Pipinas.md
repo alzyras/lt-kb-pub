@@ -32,7 +32,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   global_id: t-59996
   teiginys: 'Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.'
   sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir suformuoti vientisą faktinį sakinį.'
-  susije_objektai: 'location: Pamedė; location: Pilaitė; location: Pilėnai; location: Viena; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Viena'
+  susije_objektai: 'location: Pamedė; location: Pilaitė; location: Pilėnai; location: Viena; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Viena'
   semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] gyveno Pamedė; [[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilaitė; [[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilėnai; [[objektai/asmenys/Pipinas|Pipinas]] gyveno Viena'
   pagrindžia:
     - c-003
@@ -51,7 +51,7 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   global_id: t-59999
   teiginys: 'Pipinas buvo vienas pirmųjų žinomų prūsų kovotojų prieš Ordino agresiją.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu vertinimu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/ekspansija|ekspansija]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Kulmas; mentioned_place: Oliva; mentioned_place: Pamedė; mentioned_place: Prūsai; mentioned_place: Torunė'
   temporaliniai_duomenys: 'įvykio data: iki 1223 m.; įvykio data: 1223 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatoje pateiktu vertinimu.'

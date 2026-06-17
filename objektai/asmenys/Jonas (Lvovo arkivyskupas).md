@@ -30,7 +30,7 @@ Tais reikalais 1415 m. į Konstanciją buvo išsiųsta Lietuvos ir Lenkijos vysk
   global_id: t-34797
   teiginys: '1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.'
   sudarymo_pagrindimas: 'Fragmentas paverstas pilnu sakiniu apie asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Breslavas; mentioned_place: Gniezno; mentioned_place: Konstancija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1415 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas paverstas pilnu sakiniu apie asmenį.'

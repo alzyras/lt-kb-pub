@@ -33,7 +33,7 @@ Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti 
   global_id: t-87554
   teiginys: 'Vilniaus praeities žinovas Mikalojus Malinovskis padėjo istorikui pasinaudoti Radvilų Nesvyžiaus archyvu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir sutampa su citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Ščorsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Daukantas|S. Daukantas]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Vilnius; mentioned_place: Ščorsai'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.

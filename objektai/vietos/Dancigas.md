@@ -50,7 +50,7 @@ Dancigas aprašomas kaip svarbus Baltijos prekybos miestas ir uostas, į kurį �
   global_id: t-182720
   teiginys: 'Dancigo laisvojo miesto statusas minimas kaip pavyzdys, į kurį orientavosi dalis prie Lietuvos nenorėjusių jungtis klaipėdiškių lietuvininkų.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia sutvarkyti sakinį ir aiškiai susieti su Dancigu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Klaipėdiškiai|Klaipėdiškiai]]; mentioned_object: [[objektai/zodynas/laisvojo miesto statusas|laisvojo miesto statusas]]; mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/lietuvininkai|lietuvininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
 

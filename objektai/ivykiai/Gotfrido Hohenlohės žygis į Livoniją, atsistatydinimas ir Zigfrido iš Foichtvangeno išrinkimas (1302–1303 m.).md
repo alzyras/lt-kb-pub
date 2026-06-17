@@ -46,7 +46,7 @@ Nenurodyta
   teiginys: '1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbingo kapituloje atsisakė pareigų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir paremtas citata.'
-  susije_objektai: 'location: Elbingas; location: Prūsija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'location: Elbingas; location: Prūsija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1302 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigfridas iš Foichtvangeno keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigfridas iš Foichtvangeno keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir paremtas citata.'
@@ -59,7 +59,7 @@ Nenurodyta
   teiginys: 'Gotfridui Hohenlohei atsisakius didžiojo magistro pareigų, Elbinge buvo išrinktas Zigfridas iš Foichtvangeno.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu įvardžiu ir turi perteklinį autorystės įvadą; citata remia aiškesnę formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

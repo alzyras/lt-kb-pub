@@ -30,7 +30,7 @@ Biržiška : Senųjų lietuviškų knygų istorija , I, Chicago, Ill 1953, 39-52
   global_id: t-100121
   teiginys: 'Vcl. Biržiška parašė veikalą „Senųjų lietuviškų knygų istorija“, kurio pirmasis tomas išleistas 1953 m. Čikagoje.'
   sudarymo_pagrindimas: 'Citata palaiko bibliografinį faktą, o likęs tekstas yra pašalinis triukšmas.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/J. Adamus|J. Adamus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius; mentioned_place: Čikaga'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/J. Adamus|J. Adamus]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius; mentioned_place: Čikaga'
   temporaliniai_duomenys: 'įvykio data: 1953 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko bibliografinį faktą, o likęs tekstas yra pašalinis triukšmas.'

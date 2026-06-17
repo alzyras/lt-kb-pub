@@ -24,7 +24,7 @@ tags:
   global_id: t-87734
   teiginys: 'Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Jono Švitrigailos pareigybę ir socialinę grupę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/pagonybė|pagonybė]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/seniūnas|seniūnas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Mykolas Skirgaila|Mykolas Skirgaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Černigovas; mentioned_place: Šalčininkai'
   pagrindžia:
     - c-001
 

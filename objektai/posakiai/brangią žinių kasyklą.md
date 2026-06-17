@@ -23,7 +23,7 @@ tags:
   global_id: t-99998
   teiginys: 'Žemaičių Vyskupystės vertimas buvo įvertintas kaip „brangi žinių kasykla“, ypač dėl dalies šaltinių praradimo.'
   sudarymo_pagrindimas: 'Pradinis tekstas turėjo puslapio, antraštės ir OCR triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kiška|Kiška]]'
   pagrindžia:
     - c-001
 

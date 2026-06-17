@@ -23,7 +23,7 @@ tags:
   global_id: t-86829
   teiginys: 'Tridento Sinodas nusprendė, kad kiekvienoje krikščioniškojo pasaulio diecezijoje reikia įkurti amžiną seminariją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Tridento Sinodo sprendimą ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/diecezija|diecezija]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -32,7 +32,7 @@ tags:
   global_id: t-86830
   teiginys: 'Funduotos kolegijos administravimas, valdymas ir vadovavimas turėjo būti vykdomi pagal Tridento susirinkimo dekretą.'
   sudarymo_pagrindimas: 'Citata remia faktą apie administravimą pagal Tridento nutarimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103039|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.

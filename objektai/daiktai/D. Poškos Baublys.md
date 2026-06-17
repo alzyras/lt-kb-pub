@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-07520
   teiginys: 'D. Poška savo Baublyje įtaisė senienų muziejų.'
   sudarymo_pagrindimas: 'Reikia pataisyti vietininką ir pašalinti archajišką formą, faktas citatoje aiškiai pagrįstas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/autoriai/D. Poška|D. Poška]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/D. Poška|D. Poška]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

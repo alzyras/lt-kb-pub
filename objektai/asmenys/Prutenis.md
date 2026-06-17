@@ -22,7 +22,7 @@ Dusburgietis teigia, kad iI, p. 216); kitur Prūsijos pradžia siejama su Pruten
   global_id: t-60419
   teiginys: 'Vienoje XV a. tradicijoje Prūsijos pradžia buvo siejama su Pruteniu ir Videvučiu.'
   sudarymo_pagrindimas: 'Pašalintas bibliografinis triukšmas ir suformuluotas citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Prūsijus|Prūsijus]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Prūsijus.md#claim-t-60420|Prūsijus]]: XV a. Prūsijos vardas buvo siejamas su II a. pr. m. e. Bitinijos karaliumi Prūsijumi.

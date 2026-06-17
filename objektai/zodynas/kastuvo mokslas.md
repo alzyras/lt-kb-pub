@@ -28,8 +28,8 @@ Kadangi anie tolimi nuo rytų Europos autoriai beveik visai nieko nepasako apie 
 - t-001
   global_id: t-32782
   teiginys: 'Baltų gyvenimą menkai aprašius rašytiniams šaltiniams, jų praeičiai tirti reikėjo kastuvo mokslo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_place: Europa'
-  temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 890 m; įvykio data: 880-890'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Wulfstanas|Wulfstanas]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Europa'
+  temporaliniai_duomenys: 'įvykio data: 400 m; įvykio data: 880-890'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001

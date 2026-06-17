@@ -33,7 +33,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   global_id: t-87455
   teiginys: 'Augustinas Rotundas Mieleskis 1579 m. buvo paminėtas kaip liudininkas, abiejų teisių daktaras ir karališkasis sekretorius.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra OCR sąrašas, o citata leidžia pateikti aiškų faktą apie asmenį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]'
   temporaliniai_duomenys: 'įvykio data: 1579 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra OCR sąrašas, o citata leidžia pateikti aiškų faktą apie asmenį.'
@@ -45,7 +45,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   global_id: t-87456
   teiginys: 'Rotundas Augustinas Milesijus Mieleskis buvo Vilniaus vaitas ir 1569 m. išrinktas į komisiją Lietuvos įstatymams pataisyti.'
   sudarymo_pagrindimas: 'Citata pagrindžia jo pareigas ir išrinkimą į komisiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1569 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia jo pareigas ir išrinkimą į komisiją.'
@@ -57,7 +57,7 @@ Toks buvo mokslingumu ir autoritetu labiau už ki­ tus žinomas Rotundas (Augus
   global_id: t-87457
   teiginys: 'Augustinas Rotundas Mieleskis buvo kilęs iš bajorų, nes miesto aktuose prie jo pavardės rašyta „Nobilis“.'
   sudarymo_pagrindimas: 'Citata pagrindžia bajorišką kilmę pagal miesto aktų įrašus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]; mentioned_person: [[objektai/autoriai/Janockis|Janockis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Janockis|Janockis]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustinas Rotundas|Augustinas Rotundas]]'
   pagrindžia:
     - c-003
 

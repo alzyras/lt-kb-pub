@@ -24,7 +24,7 @@ Jokio atskiro turto, kaip valdų ar piniginių sumų, Aka­ demija neturi, išsk
   global_id: t-86591
   teiginys: 'Akademija dalį pajamų iš kolegijai užrašytų sumų ir turtų skyrė civilinės ir kanonų teisės profesoriams.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkrečią paskirtį, o pradinis tekstas nutrūkęs ir triukšmingas.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

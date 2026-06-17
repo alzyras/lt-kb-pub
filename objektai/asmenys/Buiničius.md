@@ -31,7 +31,7 @@ Jam vadovavo majoras Jacenka ir štabo viršininkas majoras Buiničius.
 - t-001
   global_id: t-40074
   teiginys: 'Majoras Buiničius buvo NKVD kariuomenės 220-ojo Kutuzovo ordino pulko štabo viršininkas Kalniškės miško mūšyje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Neifalta-Lakūnas|Jonas Neifalta-Lakūnas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_person: [[objektai/asmenys/Jonas Neifalta-Lakūnas|Jonas Neifalta-Lakūnas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1945 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

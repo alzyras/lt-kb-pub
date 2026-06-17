@@ -29,7 +29,7 @@ amziai:
   global_id: t-26329
   teiginys: '1972 m. gegužės 14 d. Romas Kalanta Kauno miesto sode prie Muzikinio teatro apsipylė benzinu ir pasidegė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie vietą ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Romas Kalanta|Romas Kalanta]]; mentioned_place: Baltija; mentioned_place: Kaunas; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Romas Kalanta|Romas Kalanta]]; mentioned_place: Baltija; mentioned_place: Kaunas; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1971 m.; įvykio data: 1972 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie vietą ir tiesiogiai paremtas citata.'

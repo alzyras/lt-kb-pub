@@ -30,7 +30,7 @@ Matulaitytė rašo apie astro­ nomijos mokslo įvedimą Vilniaus universitete X
   global_id: t-30970
   teiginys: 'S. Matulaitytė rašė apie astronomijos mokslo įvedimą Vilniaus universitete XVIII a. ir astronomijos observatorijos įsteigimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje nurodytas temas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/autoriai/A. Šidlauskas|A. Šidlauskas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Šidlauskas|A. Šidlauskas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/L. Truska.md#claim-t-30784|L. Truska]]: L. Truska parašė studiją „Emigracija iš Lietuvos 1868-1914 m.“.

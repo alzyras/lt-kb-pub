@@ -17,7 +17,6 @@ tags:
   - daiktas
   - didikas
   - ginklas
-  - seimas
 amziai:
   - 'XX'
 ---
@@ -70,7 +69,7 @@ Nenurodyta
   global_id: t-92969
   teiginys: '1917 m. modelio lenkiškas kardas buvo skirtas ulonų, artilerijos ir gurguolės puskarininkiams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Valkininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Valkininkai'
   temporaliniai_duomenys: 'įvykio data: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie kardą ir atitinka citatą.'
@@ -90,7 +89,7 @@ Nenurodyta
   global_id: t-92971
   teiginys: 'Lenkų raitelis žvilgančiu kardu kelis kartus puolė griovyje atsigulusį žvalgą.'
   sudarymo_pagrindimas: 'Pirminis teiginys per daug fragmentiškas; citata leidžia suformuluoti aiškesnį faktą apie kardo panaudojimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/hetmonas|hetmonas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]'
   pagrindžia:
     - c-006
 

@@ -21,7 +21,7 @@ Dusburgietis teigia, kad berlyno karališkosios bibliotekos Kodekse greta kitų 
   global_id: t-61052
   teiginys: 'Berlyno karališkosios bibliotekos kodekse yra nevisiškai pilnas Dusburgiečio kronikos nuorašas, rašytas XVI a. viduryje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, konkretus ir paremtas citatos informacija apie kodeksą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_place: Berlynas; mentioned_place: Elbingas; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_place: Berlynas; mentioned_place: Elbingas; mentioned_place: Torunė'
   pagrindžia:
     - c-001
 

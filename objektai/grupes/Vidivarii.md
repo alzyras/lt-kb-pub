@@ -23,9 +23,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-001
   global_id: t-31369
   teiginys: 'Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.'
-  susije_objektai: 'location: Vysla; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_person: [[objektai/autoriai/Jordanes|Jordanes]]; mentioned_person: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_place: Vysla'
+  susije_objektai: 'location: Vysla; mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Vysla'
   semantiniai_rysiai: '[[objektai/grupes/Vidivarii|Vidivarii]] gyveno Vysla'
-  temporaliniai_duomenys: 'gyvenimo laikotarpis: 375 m; gyvenimo laikotarpis: 551 m'
+  temporaliniai_duomenys: 'gyvenimo laikotarpis: 375 m'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vidivarii gyveno Vysla“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001

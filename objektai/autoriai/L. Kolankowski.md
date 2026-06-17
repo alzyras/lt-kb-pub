@@ -45,7 +45,7 @@ L. Kolankowski minimas kaip istorikas ir autorius. Viešame įraše jis jau buvo
   global_id: t-12254
   teiginys: 'L. Kolankowski diarchiją aiškino ne susitarimu, o brolių varžybomis dėl aukščiausios valdžios.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir paverstas aiškiu faktiniu sakiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Diarchijos sistema|Diarchijos sistema]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Diarchijos sistema|Diarchijos sistema]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.

@@ -15,7 +15,6 @@ tags:
   - karalius
   - miestas
   - pilis
-  - vyskupas
 amziai:
   - 'XVI'
 periodo_grupes:
@@ -46,7 +45,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   global_id: t-173181
   teiginys: 'Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau.'
   sudarymo_pagrindimas: 'Citata palaiko Hozijaus pasitraukimą ir globėjo titulo perkėlimą.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]] buvo valdovas Vilnius'
   pagrindžia:
     - c-002
@@ -56,7 +55,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   global_id: t-173182
   teiginys: 'Jonui Hozijui buvo suteikta teisė atvesti vandenį į jo namus Vokiečių gatvėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nepatogus, citata leidžia aiškiau išskirti faktą apie Hozijų.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -65,7 +64,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   global_id: t-173184
   teiginys: 'Jonas Hozijus ir jo įpėdiniai buvo įpareigoti kasmet teikti prieglaudos ir tilto pajamų bei išlaidų ataskaitą.'
   sudarymo_pagrindimas: 'Citata palaiko pareigą atsiskaityti, o pradinė formuluotė nutrūkusi ir triukšminga.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -74,7 +73,6 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   global_id: t-173185
   teiginys: 'Jonas Hozijus buvo paskirtas tilto prokuratoriumi ir provizoriumi, kad rinktų tilto muitą prieglaudos statybai.'
   sudarymo_pagrindimas: 'Citata palaiko paskyrimą ir tilto mokesčio rinkimo paskirtį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/ivykiai/Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.).md#claim-t-86879|Žygimanto Senojo privilegijos dėl Vilijos tilto muito ir Švč. Trejybės prieglaudos suteikimas (1536 m. rugpjūčio 6 d.)]]: Žygimantas Senasis paskyrė Joną Hozijų rinkti Vilijos tilto muitą po Ulriko Hozijaus ir pripažino jo pastangas taisant tiltą.

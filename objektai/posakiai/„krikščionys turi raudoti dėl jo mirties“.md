@@ -22,7 +22,7 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
   global_id: t-186393
   teiginys: 'Eiliuotinės kronikos autorius apie neofitą Suksę rašė, kad „krikščionys turi raudoti dėl jo mirties“.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Eiliuotinės kronikos autorius jam paskyrė kelioliką šiltų eilučių, tardam
   global_id: t-186394
   teiginys: 'Eiliuotinės kronikos autorius žodžius „krikščionys turi raudoti dėl jo mirties“ įtraukė į kelias šiltas eilutes.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/neofitas|neofitas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-001
 

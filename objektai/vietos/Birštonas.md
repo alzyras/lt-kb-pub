@@ -22,7 +22,7 @@ Netoli Birštono Zaskevičiaus kariai susitiko karin. „Rinktinė už Birštono
   global_id: t-38347
   teiginys: 'Už Birštono rinktinė išėjo į plentą, sustojo ir praleido keturias pravažiavusias vokiečių patrankas.'
   sudarymo_pagrindimas: 'Pašalintos netvarkingos kabutės ir tiesioginės kalbos triukšmas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 

@@ -43,7 +43,7 @@ Korsako ir J.
   teiginys: 'K. Korsakas buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos pirmininkas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia, kad K. Korsakas sąraše nurodytas redakcinės komisijos pirmininku.'

@@ -29,7 +29,7 @@ Dusburgietis teigia, kad karaliaučiaus karališkos bibliotekos tekstas, kaip pa
   global_id: t-61094
   teiginys: 'Karaliaučiaus karališkos bibliotekos Dusburgiečio kronikos tekstas 1540 m. sausio 16 d. pradėtas perrašinėti iš P. Speratui priklausiusios knygos.'
   sudarymo_pagrindimas: 'Citata pagrindžia nuorašo pradžios datą ir pirminės knygos savininką.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1540 m.; įvykio data: 1568 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia nuorašo pradžios datą ir pirminės knygos savininką.'

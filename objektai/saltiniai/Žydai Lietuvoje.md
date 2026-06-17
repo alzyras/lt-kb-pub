@@ -28,7 +28,7 @@ Tarp gausių jo raštų paminėtina: «Žydai Lietuvoje» (1923), «Vyriausias L
   global_id: t-32029
   teiginys: '„Žydai Lietuvoje“ yra vienas iš paminėtų Janulaičio raštų, išleistų 1923 m.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra nebaigtas sąrašo fragmentas; citata leidžia suformuluoti pilną sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/poliublininis laikotarpis|poliublininis laikotarpis]]; mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1923 m.; įvykio data: po 1935 m.; įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nebaigtas sąrašo fragmentas; citata leidžia suformuluoti pilną sakinį.'

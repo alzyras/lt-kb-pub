@@ -22,7 +22,7 @@ Bendrųjų Informacinių blokų sąrašas NUO PAGONIŠKOSIOS IKI VYTAUTO IMPERIJ
   global_id: t-39951
   teiginys: 'Karolis Zikaras parengė informacinį bloką „Leičiai - valdovo valios įgyvendintojai“.'
   sudarymo_pagrindimas: 'Citata pagrindžia pavadinimą ir Karolio Zikaro autorystę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_person: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Karolis Zikaras|Karolis Zikaras]]; mentioned_author: [[objektai/autoriai/R. Batūra|R. Batūra]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

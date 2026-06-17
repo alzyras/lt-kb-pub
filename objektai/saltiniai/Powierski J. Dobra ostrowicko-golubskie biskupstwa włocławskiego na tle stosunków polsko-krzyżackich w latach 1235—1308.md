@@ -45,7 +45,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   global_id: t-60960
   teiginys: 'J. Powierskio veikale Dusburgiečio 1292 m. datuotas puolimas siejamas su 1294 m. įvykiais.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo; citata remia datavimo pataisą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]'
   temporaliniai_duomenys: 'įvykio data: 1292 m.; įvykio data: 1294 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi OCR triukšmo; citata remia datavimo pataisą.'
@@ -57,7 +57,7 @@ Dusburgietis teigia, kad apie tai, kaip krikščionys stebuklingai ištrūko nuo
   global_id: t-60961
   teiginys: 'J. Powierskis Goliubo pilį siejo ne su Konrado Žako statyba, o su jos pritaikymu kryžiuočių poreikiams.'
   sudarymo_pagrindimas: 'Citata remia konkrečią Powierskio išvadą; pašalintas nesusijęs kronikos fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sudargas|Sudargas]]'
   pagrindžia:
     - c-002
 

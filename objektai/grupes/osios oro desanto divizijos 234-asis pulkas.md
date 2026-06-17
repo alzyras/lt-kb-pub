@@ -21,7 +21,7 @@ Buvo atskraidinti kariai iš Pskovo 76-osios oro desanto divizijos 234-0jo pulko
   global_id: t-80651
   teiginys: 'Vilniaus įgulai sustiprinti sausio 8-11 d. į Lietuvą buvo perdislokuoti kariai iš Pskovo 76-osios oro desanto divizijos 234-ojo pulko.'
   sudarymo_pagrindimas: 'Perrašyta į tikslesnį enciklopedinį sakinį, įtraukiant citatoje nurodytą perdislokavimo laiką.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Lėktuvai|Lėktuvai]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius; mentioned_place: Vitebskas; mentioned_place: Šiauliai'
   pagrindžia:
     - c-001
 

@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, aiškus ir paremtas citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lenčica; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,7 +49,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų kontekstą, o citata leidžia sudaryti turiningesnį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lenčica; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

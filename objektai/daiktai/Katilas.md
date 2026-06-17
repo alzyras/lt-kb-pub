@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-59689
   teiginys: 'Prūsai katile buvo pratę virti savo šventenybes, kaip reikalavo jų apeigos.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko faktą apie katilo apeiginę paskirtį.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Vąšas.md#claim-t-08353|Vąšas]]: Prie vąšo rišdavo druskos gabalą, kurį gaspadinė galėdavo įleisti į katilą.

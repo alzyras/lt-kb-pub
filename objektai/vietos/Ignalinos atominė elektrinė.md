@@ -21,7 +21,7 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
   global_id: t-21442
   teiginys: 'Stojant į ES buvo keliamas nerašytas reikalavimas uždaryti Ignalinos atominę elektrinę, kuri Europoje laikyta nesaugia.'
   sudarymo_pagrindimas: 'Pirminis sakinys turi perteklinės kontekstinės formuluotės, o citata paremia glaustesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Briuselis; mentioned_place: Europa'
+  susije_objektai: 'mentioned_place: Briuselis; mentioned_place: Europa'
   pagrindžia:
     - c-001
 
@@ -33,7 +33,7 @@ Visi tie veiksniai turėjo savo kainą, ryškiausias jos pavyzdys – nerašytas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta į savarankišką sakinį be neaiškaus kontekstinio įvado.'
-  susije_objektai: 'mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš Jonavos azotinių trąšų gamykla: Septintąjį–aštuntąjį dešimtmetį Jonavos azotinių trąšų gamykla buvo pastatyta vykstant sparčiai Lietuvos industrializacijai.

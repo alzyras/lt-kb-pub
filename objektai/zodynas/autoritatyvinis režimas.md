@@ -31,7 +31,7 @@ amziai:
   global_id: t-28570
   teiginys: '1926 m. gruodžio 17 d. perversmas pradėjo Lietuvos autoritatyvinio režimo eksperimentą.'
   sudarymo_pagrindimas: 'Citata palaiko tikslesnį ir glaustesnį teiginį.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas|1926 m. gruodžio 17 d. perversmas]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/1926 m. gruodžio 17 d. perversmas|1926 m. gruodžio 17 d. perversmas]]; mentioned_group: [[objektai/grupes/Voldemarininkai|Voldemarininkai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1926 m.; įvykio data: po 1930 m.; įvykio data: 1930 m.; įvykio data: 1940 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko tikslesnį ir glaustesnį teiginį.'

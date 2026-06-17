@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta autorinė įžanga, OCR klaidos ir paliktas aiškus citatos palaikomas faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
   pagrindžia:
     - c-001
 
@@ -46,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Stanislovas Pacas|Stanislovas Pacas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Parakas|Parakas]]; mentioned_person: [[objektai/asmenys/Stanislovas Pacas|Stanislovas Pacas]]; mentioned_place: Gardinas; mentioned_place: Severskas; mentioned_place: Seversko žemės'
   pagrindžia:
     - c-002
 

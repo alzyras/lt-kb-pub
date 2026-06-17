@@ -22,7 +22,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
 - t-001
   global_id: t-85646
   teiginys: 'Pabaisko parapijos ribos ėjo nuo Širvintos upės iki Šventosios.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   global_id: t-85647
   teiginys: 'Pabaisko parapijos riba ėjo nuo Širvintos upės iki Šventosios.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata pagrindžia aiškų faktą apie Širvintą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   global_id: t-85648
   teiginys: 'Sūduvos dykroje siena ėjo Širvintos krantu iki jos įtekėjimo į Šešupę.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Šešupė'
+  susije_objektai: 'mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Šešupė'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Spera.md#claim-t-186163|Spera]]: Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.

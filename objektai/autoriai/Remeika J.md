@@ -22,7 +22,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   global_id: t-91933
   teiginys: 'J. Remeikos darbas minimas tarp šaltinių apie padavimuose minimą Rambyno kunigaikštį Skraudopą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai nusako Remeikos darbo paminėjimą tarp šaltinių.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Rambynas'
+  susije_objektai: 'mentioned_author: [[objektai/asmenys/Jonas Basanavičius|Jonas Basanavičius]]; mentioned_place: Rambynas'
   pagrindžia:
     - c-001
 
@@ -31,7 +31,7 @@ Dusburgietis teigia, kad krante priešais Ragainę vadinama Merguva, padavimuose
   global_id: t-91934
   teiginys: 'J. Remeikos darbe minima, kad Nemuno senvagė dešiniajame krante priešais Ragainę vadinama Merguva.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Remeikos darbe minimą Merguvą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Aukausenos|Aukausenos]]; mentioned_place: Nemunas; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_place: Nemunas; mentioned_place: Ragainė'
   pagrindžia:
     - c-002
 

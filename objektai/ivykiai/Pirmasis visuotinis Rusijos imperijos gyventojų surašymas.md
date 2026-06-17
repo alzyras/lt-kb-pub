@@ -14,7 +14,6 @@ tags:
   - ivykis
   - kraštas
   - miestas
-  - tauta
 amziai:
   - 'XIX'
 ---

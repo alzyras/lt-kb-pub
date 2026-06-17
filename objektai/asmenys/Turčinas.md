@@ -22,7 +22,7 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   global_id: t-87586
   teiginys: 'Turčinas Lukove keisdamas lietuviškas monetas į lenkiškas prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir atitinka citatos faktą apie Turčino veiksmą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Brasta; mentioned_place: Lukovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Brasta; mentioned_place: Lukovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,7 +35,6 @@ Turčinas, keisdamas lietuviškas monetas į lenkiškas, Lukove prie 20 lietuvi�
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Slupskis.md#claim-t-87853|Slupskis]]: Slupskis Brastoje davė 38 lietuviškus grašius palūkanų nuo filipkų.
-- susijęs iš [[objektai/paprociai/Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais.md#claim-t-87138|Lietuviškų monetų keitimas į lenkiškus pinigus su priedais, palūkanomis ir užstatais]]: Turčinas Lukove prie 20 lietuviškų kapų pridėjo 2 florinus ir 20 grašių, keisdamas lietuviškas monetas į lenkiškas.
 - susijęs iš Brasta: Brastoje Slupskis sumokėjo 38 lietuviškus grašius palūkanų nuo filipkų.
 - susijęs iš Leipcigas: Rugpjūčio 5 d. Turčinas nuvežė pinigus karališkajai didenybei į Leipcigą ir keitė lietuviškas monetas į lenkiškas.
 - susijęs iš [[objektai/zodynas/filipka.md#claim-t-86525|filipka]]: Per poną Turčiną į Vilnių pasiųsta 80 filipkų, kurias karaliaus paliepimu iždas priėmė po vieną floriną.

@@ -28,7 +28,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - t-001
   global_id: t-36197
   teiginys: 'Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.'
-  susije_objektai: 'owner: [[objektai/grupes/Hanza|Hanza]]; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]'
+  susije_objektai: 'owner: [[objektai/grupes/Hanza|Hanza]]; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   semantiniai_rysiai: 'Dorpatas priklausė [[objektai/grupes/Hanza|Hanza]]; Dorpatas priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1422 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dorpatas priklausė Vokiečiai“, o ne visam objekto laikotarpiui.'
@@ -39,7 +39,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - t-002
   global_id: t-36198
   teiginys: 'Vytauto laikų Dorpatas buvo vienas iš prekybos centrų netoli Lietuvos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Europa; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Nemunas'
   pagrindžia:
     - c-002
 
@@ -51,7 +51,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Livonija; mentioned_place: Viljandis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Viljandis'
   pagrindžia:
     - c-003
 
@@ -63,7 +63,7 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta pašalinant dviprasmį valdytojo ir vyskupo junginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Viljandis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Viljandis'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173128|Dovydas (Gardino pilininkas)]]: Dovydo Gardiniškio vedami lietuviai ir pskoviečiai 1323 m. vasarį užpuolė Revelio žemę.

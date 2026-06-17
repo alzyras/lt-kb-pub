@@ -15,7 +15,6 @@ tags:
   - kunigaikštis
   - pilis
   - popiežius
-  - vieta
 amziai:
   - 'XV'
 ---
@@ -32,7 +31,7 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
   global_id: t-36164
   teiginys: '1420 m. pradžioje Breslave buvo sušauktas Vokietijos kunigaikščių ir kurfiurstų suvažiavimas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Breslave sušauktą suvažiavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Anglija; mentioned_place: Kulmija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Anglija; mentioned_place: Kulmija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Torno; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: iki 1420 m.; įvykio data: 1420 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Breslave sušauktą suvažiavimą.'
@@ -43,7 +42,7 @@ Bet ciesorius Zigmantas vilkino jį iki 1420 m. pradžios, kol Breslave buvo su�
 - t-002
   global_id: t-36165
   teiginys: '1420 m. Breslavo suvažiavime Zigmantas Liuksemburgietis patvirtino 1411 m. Torno sutartį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Torno'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Torno'
   temporaliniai_duomenys: 'įvykio data: 1411 m.; įvykio data: 1420 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

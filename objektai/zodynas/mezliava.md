@@ -25,7 +25,7 @@ Vėlesniais laikais ir vietoj galvijų buvo mokami mokesčiai, vadinami mezliavo
 - t-001
   global_id: t-08676
   teiginys: '`Mezliava` šiame tekste reiškia prievolinę duoklę vyresniesiems.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/duoklė|duoklė]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-001
 

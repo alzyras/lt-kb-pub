@@ -22,7 +22,6 @@ Teodosijos, vadinamos Kafa, gyventojai prie Juodosios jūros ieškojo krikščio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutrumpinta, pašalintas OCR triukšmas ir išlaikytas faktas apie Teodosiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/algininkai|algininkai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Kafos gyventojai.md#claim-t-185450|Kafos gyventojai]]: Kafos gyventojai, bijodami prie Juodosios jūros augančios turkų galybės, sumanė samdyti įgulos karius krikščioniškose karalystėse.

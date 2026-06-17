@@ -28,7 +28,7 @@ Kamianecas Podolėje nebuvo įkurtas Karijotaičių, nes istoriniuose šaltiniuo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie Karijotaičius ir Kamianecą Podolėje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_place: Podolė'
   temporaliniai_duomenys: 'įvykio data: 1062 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra aiškus faktinis teiginys apie Karijotaičius ir Kamianecą Podolėje.'

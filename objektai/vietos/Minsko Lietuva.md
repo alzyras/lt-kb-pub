@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-77010
   teiginys: 'Lietuviai nebepretendavo į Minsko Lietuvą, bet neįsivaizdavo savo valstybės be istorinės sostinės Vilniaus.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas ir tiesiogiai susijęs su Minsko Lietuva.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Žynių titulai ir pareigybės|Žynių titulai ir pareigybės]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 

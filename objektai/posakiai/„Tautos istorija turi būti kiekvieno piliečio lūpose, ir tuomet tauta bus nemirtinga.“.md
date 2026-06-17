@@ -30,7 +30,7 @@ Akimis vydamiesi knygos tekstą, Jūs tiesiogiai išgyvensite įspūdingas, nesu
   global_id: t-26361
   teiginys: '1859 m. Mikalojus Akelaitis Juzefui Ignacui Kraševskiui teigė, kad tautos istorija turi būti kiekvieno piliečio lūpose.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja citatos žodžius su Mikalojumi Akelaičiu ir 1859 metais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/asmenys/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_person: [[objektai/autoriai/Kraševskis|Kraševskis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/Mikalojus Akelaitis|Mikalojus Akelaitis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1859 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja citatos žodžius su Mikalojumi Akelaičiu ir 1859 metais.'

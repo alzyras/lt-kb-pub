@@ -27,7 +27,7 @@ Dėl savo naujumo ir tiksliai pravestos sistemingos bibliografinės apžvalgos b
   global_id: t-32767
   teiginys: 'Zenonas Ivinskis Bibliografia Historii Polski laikė svarbiu bibliografiniu veikalu Lietuvos istorijos tyrinėtojui.'
   sudarymo_pagrindimas: 'Citate pateikiamas autoriaus vertinimas, todėl sakinys perrašytas su atribucija.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Zenonas|Zenonas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Varšuva'
   temporaliniai_duomenys: 'įvykio data: iki 1795 m.; įvykio data: 1795 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citate pateikiamas autoriaus vertinimas, todėl sakinys perrašytas su atribucija.'

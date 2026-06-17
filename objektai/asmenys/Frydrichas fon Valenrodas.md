@@ -22,7 +22,7 @@ Kariuomenei išsirikiavus mūšio lauke, kairiajam sparnui vadovavo didysis mar�
   global_id: t-40112
   teiginys: 'Frydrichas fon Valenrodas kariuomenei išsirikiavus mūšio lauke vadovavo kairiajam sparnui.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys prasidėtų aiškiu note objekto subjektu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]'
   pagrindžia:
     - c-001
 

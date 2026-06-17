@@ -30,7 +30,6 @@ amziai:
   global_id: t-35006
   teiginys: 'Codex epistolaris Vitoldi Magni Ducis Lithvan apima 1376-1430 m. medžiagą ir buvo parengtas A. Prochaskos.'
   sudarymo_pagrindimas: 'Citata palaiko chronologinę aprėptį ir rengėją.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Prochaska|Prochaska]]'
   temporaliniai_duomenys: 'įvykio data: 1376-1430; įvykio data: 1430 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko chronologinę aprėptį ir rengėją.'

@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata tiesiogiai palaiko mirties aplinkybes.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Piotrkovas'
+  susije_objektai: 'mentioned_place: Piotrkovas'
   temporaliniai_duomenys: 'įvykio data: 1548 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata tiesiogiai palaiko mirties aplinkybes.'

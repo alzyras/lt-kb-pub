@@ -33,7 +33,7 @@ Jis turėdavo tik tiek valdžios, kiek bajorija jam duodavo jo išrinkimo metu s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardis buvo neaiškus; sakinys perrašytas aiškiai susiejant faktą su pacta conventa.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkijos bajorija|Lenkijos bajorija]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/paprociai/Elekcinių valdovų pacta conventa priesaikos bajorijai.md#claim-t-54231|Elekcinių valdovų pacta conventa priesaikos bajorijai]]: Nuo 1573 m. pacta conventa vadinti elekcinių valdovų įsipareigojimai LLV bajorijai, kuriems turėjo prisiekti būsimi valdovai ir jų įpėdiniai.

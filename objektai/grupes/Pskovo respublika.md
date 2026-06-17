@@ -54,7 +54,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   global_id: t-113195
   teiginys: 'Naugardo ir Pskovo respublikas šiaurėje ir Aukso Ordos bei Krymo totorius pietuose Vytautas privertė nusilenkti savo galybei — mokėti jam duokles ir teikti dovanų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-002
 
@@ -63,7 +63,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   global_id: t-113196
   teiginys: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
-  susije_objektai: 'location: Lietuva; location: Pskovas; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/bojarinai|bojarinai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lietuva; location: Pskovas; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Lietuva; [[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Pskovas; [[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1427 m.; kelionės data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pskovo respublika keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pskovo respublika keliavo į Pskovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pskovo respublika keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
@@ -85,7 +85,7 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   global_id: t-113198
   teiginys: 'Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra OCR ir išnašos fragmentas; citata leidžia suformuluoti pilną teiginį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksas Jefremovičius|Aleksas Jefremovičius]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksas Jefremovičius|Aleksas Jefremovičius]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_place: Pskovas'
   temporaliniai_duomenys: 'įvykio data: 1432 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra OCR ir išnašos fragmentas; citata leidžia suformuluoti pilną teiginį.'

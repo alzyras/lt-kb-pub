@@ -27,7 +27,7 @@ Vėliau jis tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.
   global_id: t-80653
   teiginys: 'Adolfas Ramanauskas-Vanagas vėliau tapo Dainavos apygardos ir Pietų Lietuvos srities partizanų vadu.'
   sudarymo_pagrindimas: 'Teiginys paremtas citata, bet objektas yra asmuo, todėl sakinys turi aiškiai įvardyti pilną vardą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės kovos sąjūdis|Lietuvos laisvės kovos sąjūdis]]; mentioned_person: [[objektai/asmenys/Adolfas Ramanauskas-Vanagas|Adolfas Ramanauskas-Vanagas]]; mentioned_place: Dainava; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1949 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys paremtas citata, bet objektas yra asmuo, todėl sakinys turi aiškiai įvardyti pilną vardą.'

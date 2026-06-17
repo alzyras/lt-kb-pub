@@ -29,7 +29,7 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   global_id: t-40045
   teiginys: 'Iki Laikinosios gynybos vadovybės sudarymo KAD direktorius Audrius Butkevičius vykdė pagrindinį organizacinį ir vadovavimo darbą.'
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškų pasakymą „šio nutarimo“ į konkretų įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas Gečas|Jonas Gečas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Gečas|Jonas Gečas]]'
   pagrindžia:
     - c-002
 
@@ -38,7 +38,7 @@ Iki šio nutarimo pagrindinį organizacinį ir vadovavimo darbą vykdė KAD dire
   global_id: t-40046
   teiginys: '1991 m. Audrius Butkevičius buvo nurodytas tarp Aukščiausiosios Tarybos gynybos štabo narių.'
   sudarymo_pagrindimas: 'Citata pateikia asmenį štabo sąraše, todėl galima suformuluoti sakinį apie jo vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pateikia asmenį štabo sąraše, todėl galima suformuluoti sakinį apie jo vaidmenį.'

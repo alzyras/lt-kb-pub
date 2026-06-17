@@ -34,8 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'event: [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas|Jonas]] dalyvavo mūšyje [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]; [[objektai/asmenys/Stanislovas|Stanislovas]] dalyvavo mūšyje [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]; [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]] dalyvavo mūšyje [[objektai/ivykiai/Šešerių metų paliaubos tarp Lietuvos ir Maskvos|Šešerių metų paliaubos tarp Lietuvos ir Maskvos]]'
+  susije_objektai: 'mentioned_place: Lenčica; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -47,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia nurodytas sąlygas, o pradinis teiginys sugadintas puslapio ir antraštės triukšmo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -59,7 +58,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškas, bet turi boilerplate; citata palaiko aiškesnį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -142,8 +141,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Jonas]] dalyvavo_musyje Šešerių metų paliaubos tarp Lietuvos ir Maskvos
-- [[objektai/asmenys/Stanislovas]] dalyvavo_musyje Šešerių metų paliaubos tarp Lietuvos ir Maskvos
-- [[objektai/asmenys/Vaitiekus (Lucko vyskupas)]] dalyvavo_musyje Šešerių metų paliaubos tarp Lietuvos ir Maskvos

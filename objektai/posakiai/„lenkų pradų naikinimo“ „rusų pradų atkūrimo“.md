@@ -31,7 +31,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   global_id: t-169945
   teiginys: 'Rusintojai tikėjosi laimėti, „lenkų pradų naikinimo“ politiką papildydami „rusų pradų atkūrimo“ politika.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie posakius ir remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/separatizmas|separatizmas]]'
   pagrindžia:
     - c-001
 
@@ -40,7 +40,7 @@ Juk separatizmas tarpo pirmiausia vietos bajoriškoje visuomenėje, laikiusioje 
   global_id: t-169946
   teiginys: '„Rusų pradus“ švietimo įstaigose turėjo diegti rusai mokytojai, paprastai atvykę iš Rusijos gilumos.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis, konkretus ir tiesiogiai palaikomas citatos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/pradai|pradai]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 

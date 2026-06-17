@@ -33,7 +33,7 @@ atnaujinta: ''
 - t-001
   global_id: t-67583
   teiginys: 'Leidinio rengėjai dėkojo prof. A. Aleknai už patarimus rašant ir redaguojant monografiją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/monografija|monografija]]; mentioned_person: [[objektai/autoriai/A. Alekna|A. Alekna]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Alekna|A. Alekna]]'
   pagrindžia:
     - c-003
 

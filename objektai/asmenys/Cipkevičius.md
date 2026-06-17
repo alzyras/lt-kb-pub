@@ -21,7 +21,7 @@ tags:
   global_id: t-39718
   teiginys: '1-ojo būrio kareivis Cipkevičius kartu su Šidiškiu prašė leidimo pulti lenkus durtuvais.'
   sudarymo_pagrindimas: 'Tiesioginė kalba perrašyta į enciklopedinį faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_person: [[objektai/asmenys/Šidiškis|Šidiškis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Šidiškis|Šidiškis]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Šidiškis.md#claim-t-183771|Šidiškis]]: 1 būrio kareivis Šidiškis prašė leidimo pulti lenkus durtuvais.

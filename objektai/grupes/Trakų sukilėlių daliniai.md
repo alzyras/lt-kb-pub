@@ -22,7 +22,7 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
   global_id: t-39006
   teiginys: 'Trakų sukilėlių daliniai buvo tarp Lietuvos sukilėlių junginių, sudariusių Panerių mūšio sukilėlių kariuomenės pagrindą.'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir suformuotas aiškus sakinys apie objektą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_object: [[objektai/zodynas/ulonai|ulonai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.

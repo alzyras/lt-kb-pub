@@ -10,7 +10,6 @@ tags:
   - kunigaikštis
   - miestas
   - tauta
-  - vieta
 ---
 # Aukštutinė pilis
 
@@ -25,7 +24,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   global_id: t-86059
   teiginys: 'Aukštutinę pilį saugojo aukšti mūrai ir bokštai.'
   sudarymo_pagrindimas: 'Pradinis sakinys painioja dvi pilis, todėl paliktas aiškus faktas apie Aukštutinę pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bokštai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bokštai'
   pagrindžia:
     - c-001
 
@@ -43,7 +42,7 @@ Aukštutinė pilis, aukštų mūrų bei bokštų saugoma, ir Žemutinė, apačio
   global_id: t-86061
   teiginys: 'Aukštutinėje tvirtovėje buvo užsidarę lenkai, vadovaujami Karūnos pakanclerio Mikalojaus Moskoževskio.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytą įgulą ir vadovą Aukštutinėje tvirtovėje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/daiktai/Statinės|Statinės]]; mentioned_object: [[objektai/zodynas/pakancleris|pakancleris]]; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.

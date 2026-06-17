@@ -45,7 +45,7 @@ Nenurodyta
   global_id: t-100049
   teiginys: '1401 m. kovo viduryje Žemaičiuose prasidėjo sukilimas, o apie keturis tūkstančius pabėgusiųjų nebuvo grąžinti.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda neaiškiu dalyviu, todėl sakinys sutrumpintas ir padarytas enciklopediškesnis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   temporaliniai_duomenys: 'įvykio data: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys prasideda neaiškiu dalyviu, todėl sakinys sutrumpintas ir padarytas enciklopediškesnis.'

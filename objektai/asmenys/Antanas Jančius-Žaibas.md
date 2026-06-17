@@ -30,7 +30,7 @@ Taip pat užpultas Antano Jančio-Žaibo bunkeris Šimonių girioje prie Iženos
   global_id: t-80704
   teiginys: 'Antanas Jančius-Žaibas buvo siejamas su bunkeriu Šimonių girioje prie Iženos upelio, kurį užpuolus žuvo 6 partizanai.'
   sudarymo_pagrindimas: 'Reikia sakinį aiškiau susieti su asmeniu, o ne vien su jo bunkeriu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Juozas Daumantas|Juozas Daumantas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Daumantas|Daumantas]]; mentioned_person: [[objektai/asmenys/Juozas Daumantas|Juozas Daumantas]]'
   temporaliniai_duomenys: 'įvykio data: 1947 m.; įvykio data: apie 1947 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia sakinį aiškiau susieti su asmeniu, o ne vien su jo bunkeriu.'

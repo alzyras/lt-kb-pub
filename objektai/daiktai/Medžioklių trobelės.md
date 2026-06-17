@@ -10,7 +10,6 @@ tags:
   - kraštas
   - kunigaikštis
   - miestas
-  - tauta
 ---
 # Medžioklių trobelės
 
@@ -45,7 +44,7 @@ Nenurodyta
   global_id: t-87086
   teiginys: 'Prie Vilnios buvusios pirmykštės gyvenvietės trobelės palei krantą tęsėsi iki Vilijos.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškią nuorodą į tvirtovę ir suformuluoti sakinį pagal citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.

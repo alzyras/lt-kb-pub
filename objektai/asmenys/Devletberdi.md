@@ -20,10 +20,10 @@ Taip pat buvo jam paklusnūs ir Krymo totoriai, kur įsigalėjo su Vytautu susit
 - t-001
   global_id: t-35047
   teiginys: 'Chanas Devletberdi įsigalėjo Kryme, susitaikė su Vytautu ir vėliau buvo Machmeto nužudytas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Machmetas|Machmetas]]; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Krymo totoriai.md#claim-t-71638|Krymo totoriai]]: Krymo totoriai buvo paklusnūs Vytautui, kai Kryme įsigalėjo su juo susitaikęs chanas Devletberdi.
+
 ## Reikšmingi paminėjimai
 
 - c-001

@@ -32,7 +32,7 @@ Tai reiškė projektą naujos sienos, kuri už dvejų metų buvo priimta prie Me
 - t-001
   global_id: t-68690
   teiginys: 'Prie Melno ežero buvo priimtas naujos sienos projektas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Veliuona'
   pagrindžia:
     - c-002
 

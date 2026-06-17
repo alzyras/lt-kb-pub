@@ -31,7 +31,7 @@ Adomas Honorijus Kir­ koras 1857-1858 m. leido Teki Wileńskie (Vilniaus aplank
   global_id: t-88481
   teiginys: 'Adomas Honorijus Kirkoras 1857–1858 m. leido „Teki Wileńskie“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/autoriai/Adomas Honorijus Kirkoras|Adomas Honorijus Kirkoras]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Adomas Honorijus Kirkoras|Adomas Honorijus Kirkoras]]; mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1857-1858; įvykio data: 1858 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir tiesiogiai paremtas citata.'

@@ -66,7 +66,7 @@ Nenurodyta
   global_id: t-71677
   teiginys: 'Sovietų kariai ir NKVD prie vidinės sienos stabdė žmonių traukimąsi į Rusiją, laikydami juos dezertyrais ar panikos skleidėjais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie NKVD veiksmus ir yra pagrįstas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/dezertyrai|dezertyrai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 
@@ -75,7 +75,7 @@ Nenurodyta
   global_id: t-71680
   teiginys: 'Sovietizavimą teroru grindė slaptoji tarnyba NKVD: pylėsi naktiniai areštai, žmones imta kalinti ir tremti į SSRS gilumą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškiai sieja NKVD su sovietizavimo teroru ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_place: SSRS'
   pagrindžia:
     - c-004
 

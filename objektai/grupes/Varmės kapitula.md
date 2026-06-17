@@ -34,7 +34,7 @@ Nenurodyta
   global_id: t-86737
   teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti Fabijono paskyrimą Varmės vyskupu.'
   sudarymo_pagrindimas: 'Lotyniška citata palaiko faktą apie Varmės kapitulos prašymą ir karaliaus sutikimą.'
-  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Fabianas (Varmės vyskupas)|Fabianas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lenkija; mentioned_place: Varmė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)|Kodekso (statuto) pateikimas seimui ir atmetimas (1780 m.)]]; mentioned_person: [[objektai/asmenys/Fabianas (Varmės vyskupas)|Fabianas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Varmė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-86738
   teiginys: 'Žygimantas sutiko su Varmės kapitulos prašymu pripažinti be jo pritarimo įvykusį Fabijono paskyrimą Varmės vyskupu.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos turinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Varmė'
   pagrindžia:
     - c-002
 

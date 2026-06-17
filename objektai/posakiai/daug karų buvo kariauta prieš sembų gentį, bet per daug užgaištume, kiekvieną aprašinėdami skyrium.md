@@ -41,7 +41,7 @@ Dusburgietis teigia, kad pradėdamas kalbėti apie Ordino pastangas užgrobti Se
   global_id: t-89582
   teiginys: 'Dusburgietis rašė, kad prieš Skomanto žygį į Kulmo žemę sūduviai vis dažniau į ją įsibraudavo ir ją nusiaubdavo.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs, o citata leidžia suformuluoti pilną sakinį apie sūduvių antpuolius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kulmas; mentioned_place: Sūduva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Sūduva'
   pagrindžia:
     - c-001
 

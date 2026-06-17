@@ -21,7 +21,6 @@ Svarbi tyrinėtojos išvada, jog „susidaro įspūdis, kad jis niekuomet ir neb
   global_id: t-86566
   teiginys: 'Požiūris į Jono Sniadeckio darbus laikytas romantikų, prepozityvistų ir „naujųjų klasikų“ skirties požymiu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie sąvokų skirtį, tačiau pradinė formuluotė buvo fragmentiška.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Naujasis klasikas ir prepozityvistai|Naujasis klasikas ir prepozityvistai]]'
   pagrindžia:
     - c-001
 

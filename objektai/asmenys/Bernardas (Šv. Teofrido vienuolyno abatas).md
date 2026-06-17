@@ -33,7 +33,7 @@ Dusburgietis teigia, kad apie apaštališkojo sosto legatus ir taiką, padarytą
   global_id: t-60250
   teiginys: 'Bernardas, Šv. Teofrido vienuolyno abatas, 1324 m. buvo popiežiaus Jono XXII pasiųstas į Livoniją kaip legatas.'
   sudarymo_pagrindimas: 'Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Benediktas|Benediktas]]; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1324 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nemini Bernardo ir turi antraštės bei OCR triukšmo.'

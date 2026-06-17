@@ -30,7 +30,7 @@ J. Pauonis šiame 1971 m. leidinyje nurodytas kaip redakcinės komisijos narys.
   teiginys: 'J. Pauonis buvo 1971 m. Bychovco kronikos leidinio redakcinės komisijos narys.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata pakankamai pagrindžia redakcinės komisijos narystę.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_person: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_person: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Venclova|A. Venclova]]; mentioned_author: [[objektai/autoriai/K. Korsakas|K. Korsakas]]; mentioned_author: [[objektai/autoriai/Rimantas Jasas|Rimantas Jasas]]'
   temporaliniai_duomenys: 'įvykio data: 1971 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pakankamai pagrindžia redakcinės komisijos narystę.'

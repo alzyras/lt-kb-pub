@@ -14,7 +14,6 @@ tags:
   - karas
   - posakis
   - tauta
-  - valstybė
 amziai:
   - 'XX'
 ---

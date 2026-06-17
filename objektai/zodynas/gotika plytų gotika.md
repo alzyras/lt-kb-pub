@@ -33,7 +33,7 @@ Vertikalios gotikinių bažnyčių linijos ir kylantys į dangų bokštai simbol
   global_id: t-22153
   teiginys: 'Gotikinės architektūros plitimą Lietuvoje pirmiausia paskatino valstybės krikštas ir Vytauto mūrinių bažnyčių statybos programa.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

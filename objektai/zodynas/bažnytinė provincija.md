@@ -39,7 +39,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   global_id: t-70099
   teiginys: 'Vytautas siekė sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   sudarymo_pagrindimas: 'Teiginys yra taisyklingas ir pagrįstas citatoje nurodytu Vytauto siekiu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -48,7 +48,7 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   global_id: t-70100
   teiginys: 'Vytautas norėjo iš pirmųjų trijų vyskupijų sudaryti nepriklausomą Lietuvos bažnytinę provinciją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo Vytauto ketinimą ir jo objektą, paremtą citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metropolija|metropolija]]; mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -73,9 +73,6 @@ Tuo metu buvo visiškai nesutvarkytas Lietuvos bažnytinės provincijos klausima
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/posakiai/Gens Lithuanorum.md#claim-t-35971|Gens Lithuanorum]]: Lietuvos bažnytinė provincija buvo įkurta 1926 m. balandžio 4 d. popiežiaus Pijaus XI bule „Gens Lithuanorum“.
-- susijęs iš Vatikanas: Užmezgusi oficialius santykius su Vatikanu, Lietuvos vyriausybė siekė sudaryti atskirą Lietuvos bažnytinę provinciją su Vilniaus kraštu.
-- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija bažnytinė unija.md#claim-t-22229|metropolija bažnytinė provincija bažnytinė unija (unija)]]: Po Žalgirio mūšio Lietuvoje bandyta steigti katalikų bažnytinę provinciją ir stačiatikių metropoliją ar vyskupiją sujungti su Katalikų bažnyčia.
-- susijęs iš [[objektai/zodynas/metropolija bažnytinė provincija.md#claim-t-22230|metropolija bažnytinė provincija]]: Po Žalgirio mūšio Lietuvoje bandyta steigti atskirą katalikų bažnytinę provinciją.
 ## Reikšmingi paminėjimai
 
 - c-001

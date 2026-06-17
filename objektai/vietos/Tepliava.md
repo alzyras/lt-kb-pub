@@ -16,7 +16,6 @@ tags:
   - ordinas
   - pilis
   - sukilimas
-  - vieta
 amziai:
   - 'XIII'
 ---
@@ -33,7 +32,6 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   global_id: t-58403
   teiginys: 'Karaliui atžygiavus į Tepliavos valsčių, kai kurie vietos gyventojai atidavė jam savo sūnus įkaitais ir prisiekė paklusti tikėjimui bei broliams.'
   sudarymo_pagrindimas: 'Citata pagrindžia veiksmą Tepliavos valsčiuje ir jo rezultatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]'
   pagrindžia:
     - c-001
 
@@ -66,7 +64,7 @@ Dusburgietis teigia, kad apžvelgiant Didžiojo prūsų sukilimo laikus, iš pra
   global_id: t-58406
   teiginys: 'Petro Dusburgiečio kronikoje Tepliavos pilies pastatymas minimas ne chronologine tvarka, prieš 1263 m. Kroicburgo įvykį.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį apie kronikos dėstymo tvarką ir Tepliavos pilies paminėjimą.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Lochštetė; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Dusburgas|Dusburgas]]; mentioned_place: Kroicburgas; mentioned_place: Lochštetė; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'pastatymo data: 1263 m.; pastatymo data: 1265 m.; pastatymo data: 1270 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia teiginį apie kronikos dėstymo tvarką ir Tepliavos pilies paminėjimą.'

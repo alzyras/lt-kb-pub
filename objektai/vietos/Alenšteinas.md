@@ -39,7 +39,7 @@ amziai:
 - t-002
   global_id: t-51350
   teiginys: 'Žygio planuotojai nutarė pro Alenšteiną apeiti Drevencos upę ir tolimesniu keliu pasiekti Marienburgą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Drevenca; mentioned_place: Marienburgas'
+  susije_objektai: 'mentioned_place: Drevenca; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
 - susijęs iš Angerburgas: Angerburgo pilis minima tarp Lietuvai artimesnių pilių, įkurtų 1335 metais.

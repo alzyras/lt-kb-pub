@@ -22,7 +22,7 @@ Jogaila buvo pastatęs bažnyčias Aš­ menoje, Lydoje, Medininkuose (Vil.), Kr
   global_id: t-34170
   teiginys: 'Jogaila buvo pastatęs bažnyčią Bistricoje.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir citata tiesiogiai mini Jogailos pastatytą bažnyčią Bistricoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Medininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Medininkai'
   pagrindžia:
     - c-001
 

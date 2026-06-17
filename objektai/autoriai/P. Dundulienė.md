@@ -28,7 +28,7 @@ Dundulienė: Žemdirbystė Lietuvoje (nuo seniausia laiku iki 1917 metu) (1963)^
   global_id: t-30896
   teiginys: 'P. Dundulienė rašė Lietuvos žemdirbystės istorijos klausimais ir 1963 m. paskelbė veikalą „Žemdirbystė Lietuvoje“.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai apibendrina citatoje nurodytą autorės darbą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ekonomija|ekonomija]]; mentioned_object: [[objektai/zodynas/inventoriai|inventoriai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_person: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/S. Lazutka|S. Lazutka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1769 m.; įvykio data: 1783-1832; įvykio data: 1832 m.; įvykio data: 1963 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškai apibendrina citatoje nurodytą autorės darbą.'

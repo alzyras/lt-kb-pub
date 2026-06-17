@@ -35,7 +35,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
 - t-001
   global_id: t-75429
   teiginys: 'Tai kartu paaiškina ir Vilniaus Gaono autoritetą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/ješiva|ješiva]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -80,7 +80,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   global_id: t-75436
   teiginys: 'Vilniaus Gaono siūlymu buvo pertvarkytas žydų teologijos dėstymas ješivose (religinėse mokslo įstaigose) ir jose patobulintos Talmudo studijos jidiš kalba.'
   sudarymo_pagrindimas: 'Sakinys aiškiai nusako Vilniaus Gaono siūlymo rezultatą ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_object: [[objektai/zodynas/ješiva|ješiva]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -90,9 +90,8 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   teiginys: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
   susije_objektai: 'location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Lietuva; [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Viena; [[objektai/autoriai/Vilniaus Gaonas ben Saliamonas Zalmanas Elijas|Vilniaus Gaonas ben Saliamonas Zalmanas Elijas]] gyveno Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1720-1797; gyvenimo laikotarpis: 1797 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
   pagrindžia:
     - c-003
@@ -226,8 +225,3 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   pagrindžia:
     - t-001
     - t-008
-
-## Ryšiai
-- Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno [[objektai/vietos/Lietuva]]
-- Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno [[objektai/vietos/Viena]]
-- Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno [[objektai/vietos/Vilnius]]

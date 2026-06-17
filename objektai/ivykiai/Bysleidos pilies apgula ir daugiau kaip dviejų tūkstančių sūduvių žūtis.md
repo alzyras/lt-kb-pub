@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Namedos sūnūs ir kiti Bysleidos pilėnai pakilo į mūšį ir nukovė daugiau kaip du tūkstančius priešo karių.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, suprantamas ir paremtas pateikta citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Nameda|Nameda]]; mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
+  susije_objektai: 'mentioned_place: Bartenšteinas; mentioned_place: Bysleida; mentioned_place: Pilėnai'
   pagrindžia:
     - c-002
 

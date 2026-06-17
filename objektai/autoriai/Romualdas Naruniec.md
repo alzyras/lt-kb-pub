@@ -29,7 +29,7 @@ Kaip rašo istorikas Romualdas Naruniecas, „Mykolo Balinskio išlaisvinimo iš
   global_id: t-88042
   teiginys: 'Romualdas Naruniec rašė, kad Mykolo Balinskio išlaisvinimo iš kalėjimo problema lieka paslaptinga.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstai priskiria mintį Romualdui Naruniecui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]'
   temporaliniai_duomenys: 'įvykio data: 1838 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir pagrįstai priskiria mintį Romualdui Naruniecui.'

@@ -42,7 +42,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-002
   global_id: t-05239
   teiginys: 'Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Perekopas'
   pagrindžia:
     - c-002
 
@@ -50,7 +50,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-003
   global_id: t-05240
   teiginys: 'Lemiamasis Vytauto žygis, siekęs pasodinti Tochtamišą Aukso ordoje, baigėsi nesėkme.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Ediga|Ediga]]; mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_person: [[objektai/asmenys/Tochtamišas|Tochtamišas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Konstantinopolis; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Timuras|Timuras]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dniepras; mentioned_place: Konstantinopolis; mentioned_place: Vorskla'
   pagrindžia:
     - c-003
 
@@ -75,7 +75,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-006
   global_id: t-12355
   teiginys: 'Vytauto įtaka šiame pasakojime siejama ir su Aukso Orda.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukso orda|Aukso orda]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 
@@ -84,7 +84,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   global_id: t-92025
   teiginys: 'Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti, su kuriuo chanu Jonas III sudarė sąjungą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Auksinė; mentioned_place: Krimas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Auksinė; mentioned_place: Krimas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Perekopas'
   temporaliniai_duomenys: 'įvykio data: 1480 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti, su kuriuo chanu Jonas III sudarė sąjungą.'
@@ -118,7 +118,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškai pilnas ir paaiškina ulano titulą Aukso ordos kontekste. Nepridėta platesnė informacija apie ulusus ar chanų rinkimus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo chanatas|Krymo chanatas]]; mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/ulan|ulan]]; mentioned_place: Isteris; mentioned_place: Krymas; mentioned_place: Perekopas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krymo chanatas|Krymo chanatas]]; mentioned_group: [[objektai/grupes/Perekopo orda|Perekopo orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/ulan|ulan]]; mentioned_place: Isteris; mentioned_place: Krymas; mentioned_place: Perekopas'
   pagrindžia:
     - c-010
 
@@ -130,7 +130,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'įvykio data: 1459-1481; įvykio data: 1480 m.; įvykio data: 1481 m.; įvykio data: 1503 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
@@ -435,4 +435,5 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - Auksinė Orda valde_teritorija [[objektai/vietos/Europa]]
 - Auksinė Orda susije_su [[objektai/vietos/Auksinė]]
 - Auksinė Orda susije_su [[objektai/vietos/Europa]]
-- [[objektai/asmenys/Timūr-Kutlukas]] susije_su Auksinė Orda
+- [[objektai/asmenys/Tochtamišas]] susije_su Auksinė Orda
+- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] susije_su Auksinė Orda

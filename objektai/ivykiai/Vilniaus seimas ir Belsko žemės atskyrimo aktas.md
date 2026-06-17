@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia pašalinti OCR triukšmą ir aiškiai suformuluoti seimo veiksmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Belskas; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos luomai|Lietuvos luomai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Belskas; mentioned_place: Lietuva; mentioned_place: Palenkė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1548 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti OCR triukšmą ir aiškiai suformuluoti seimo veiksmą.'

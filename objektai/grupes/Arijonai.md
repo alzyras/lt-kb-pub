@@ -22,7 +22,7 @@ Agilulfui viešpataujant, 591 m. daugelis buvusių arijonų kartu su stabmeldži
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/stabmeldžiai|stabmeldžiai]]; mentioned_place: Italija'
+  susije_objektai: 'mentioned_place: Italija'
   temporaliniai_duomenys: 'įvykio data: 591 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'

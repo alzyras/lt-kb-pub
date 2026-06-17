@@ -30,7 +30,7 @@ Prie konvencijos buvo pridėtas Stanislovo Augusto Poniatovskio abdikacijos (sos
   global_id: t-21267
   teiginys: 'Stanislovo Augusto Poniatovskio abdikacijos aktas buvo pridėtas prie 1797 m. sausio 26 d. Peterburgo konvencijos.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/abdikacija|abdikacija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Peterburgas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'įvykio data: 1797 m.; įvykio data: 1815 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai pagrįstas citata.'

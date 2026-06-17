@@ -56,7 +56,7 @@ Nenurodyta
 - t-002
   global_id: t-41269
   teiginys: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
-  susije_objektai: 'event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_object: [[objektai/asmenys/Pavyzdys|Pavyzdys]]; mentioned_place: Chotinas; mentioned_place: Lietuva'
+  susije_objektai: 'event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Chotinas; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/grupes/brigada|brigada]] dalyvavo mūšyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]'
   pagrindžia:
     - c-003

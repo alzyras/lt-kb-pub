@@ -43,7 +43,7 @@ Nenurodyta
   teiginys: 'Bychovco kronikoje pasakojama, kad po taikos su Algirdu Maskvos didysis kunigaikštis dovanojo jam sabalų ir kitų brangių bei retų žvėrių kailių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Dovana ir politinis kontekstas palikti kaip kronikos pasakojimas, nes citatoje yra valdovų titulų ir motyvų kalbos. Nepridėta daugiau apie dovanos kiekį ar susitarimo sąlygas.'
-  susije_objektai: 'territory: Maskva; mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

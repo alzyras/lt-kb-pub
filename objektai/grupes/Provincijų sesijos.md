@@ -22,7 +22,7 @@ Tos „sesijos" atlikdavo tą patį darbą, kurį anksčiau atlikdavo generalini
   global_id: t-72618
   teiginys: 'Provincijų sesijomis buvo vadinami posėdžiai, atlikdavę ankstesnių generalinių seimelių darbą.'
   sudarymo_pagrindimas: 'Trumpiau perteikta esmė, pašalinant perteklinį paaiškinimą apie žodžio vartoseną.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]'
   pagrindžia:
     - c-001
 

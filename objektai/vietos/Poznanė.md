@@ -60,7 +60,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-003
   global_id: t-114853
   teiginys: 'Martinas Galias pasakoja, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Gnieznas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Gnieznas'
   pagrindžia:
     - c-003
 
@@ -68,7 +68,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-004
   global_id: t-114855
   teiginys: 'Laurynas Goslickis buvo karaliaus Stepono sekretorius, vėliau tapo Poznanės vyskupu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Laurynas Goslickis|Laurynas Goslickis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Laurynas Goslickis|Laurynas Goslickis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -77,7 +77,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   global_id: t-114856
   teiginys: 'Jonas II 1536 m. buvo perkeltas į Poznanės vyskupiją ir mirė 1538 m., sulaukęs 40 metų.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir paremtas citata apie Poznanės vyskupiją.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas II|Jonas II]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas II|Jonas II]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1536 m.; įvykio data: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus ir paremtas citata apie Poznanės vyskupiją.'
@@ -89,7 +89,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   global_id: t-114857
   teiginys: 'Jonas II 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją, o 1538 m. mirė sulaukęs 40 metų.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus faktinis sakinys, paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Jonas II|Jonas II]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas II|Jonas II]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1519 m.; įvykio data: 1536 m.; įvykio data: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus faktinis sakinys, paremtas citata.'
@@ -111,7 +111,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   global_id: t-114860
   teiginys: 'Laurynas Goslickis, buvęs karaliaus Stepono sekretorius, galiausiai tapo Poznanės vyskupu.'
   sudarymo_pagrindimas: 'Citata palaiko trumpą faktą apie asmens ryšį su Poznane.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -119,7 +119,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
 - t-009
   global_id: t-114861
   teiginys: 'Didžioji Lenkija su Poznane buvo viena iš dviejų Lenkijos provincijų.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Didžioji Lenkija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mažoji Lenkija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -137,7 +137,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   global_id: t-114863
   teiginys: 'Martino Galiaus pasakojimu, Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir kitų vietų detalės.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Gnieznas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Gnieznas'
   pagrindžia:
     - c-003
 
@@ -146,7 +146,7 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   global_id: t-114864
   teiginys: '„Kronika Lechitów i Polaków“ buvo parašyta Poznanės kustodo Godzislavo Baško.'
   sudarymo_pagrindimas: 'Teiginys aiškiai susieja kroniką su Poznanės kustodu ir atitinka citatą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/kustodas|kustodas]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Pelka|Pelka]]; mentioned_place: Gniezno; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1822 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susieja kroniką su Poznanės kustodu ir atitinka citatą.'

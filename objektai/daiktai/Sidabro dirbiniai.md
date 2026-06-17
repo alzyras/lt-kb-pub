@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-05235
   teiginys: 'L. Nakaitė rašė apie sidabro naudojimą II-XIII a. Lietuvoje, sidabrą kaip vertės matą, sidabro dirbinius ir auksakalystę iki XIII a.'
   sudarymo_pagrindimas: 'Patikslinta pagal citatą, įtraukiant auksakalystę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_person: [[objektai/autoriai/L. Nakaitė|L. Nakaitė]]; mentioned_person: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/L. Nakaitė|L. Nakaitė]]; mentioned_author: [[objektai/autoriai/M. Michelbertas|M. Michelbertas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Rudaičiai; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/E. Danilaitė.md#claim-t-30591|E. Danilaitė]]: E. Danilaitė tyrinėjo brūkšniuotąją keramiką Lietuvoje.

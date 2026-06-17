@@ -40,7 +40,6 @@ Nenurodyta
   teiginys: 'Pirmasis giriose gyvenusių žmonių trobesys vadintas nams, namas arba namaitis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis sakinys turi faktą, bet jį verta sutvarkyti į aiškų enciklopedinį teiginį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_object: [[objektai/zodynas/Nomadžiai|Nomadžiai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_object: [[objektai/zodynas/Šaldros|Šaldros]]'
   pagrindžia:
     - c-001
 
@@ -49,7 +48,7 @@ Nenurodyta
   global_id: t-08308
   teiginys: 'Senovėj tame name atlikdavo visus namų darbus ir laikydavo reikmenis.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalnėnai|Kalnėnai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82181|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, nusilpęs po ligos, iš Lydos buvo nugabentas į Vilnių, kai prie Lydos artėjo Krymo totoriai.

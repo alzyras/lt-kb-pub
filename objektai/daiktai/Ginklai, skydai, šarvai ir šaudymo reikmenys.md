@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-86983
   teiginys: 'Martinas Galias rašė, kad Poznanė duodavo 1300 šarvuotųjų ir 4000 skydais ginkluotų karių.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie šarvus ir skydus, bet pradinė formuluotė perkrauta ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Gnieznas; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Martinas Galias|Martinas Galias]]; mentioned_place: Gnieznas; mentioned_place: Poznanė'
   pagrindžia:
     - c-003
 
@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-86984
   teiginys: 'Bisenės pilies įgula atrėmė vokiečius nepaisydama jų sunkiųjų ginklų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie sunkiuosius ginklus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_object: [[objektai/zodynas/įkaitai|įkaitai]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Bisenė; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Bisenė; mentioned_place: Romuva'
   pagrindžia:
     - c-002
 
@@ -77,7 +77,7 @@ Nenurodyta
   global_id: t-86986
   teiginys: 'Iki 1565 metų Žygimanto Augusto lėšomis Lietuvos Didžiojoje Kunigaikštystėje gaminti ginklai ir amunicija buvo paliekami Vilniuje ir siunčiami į kitas pilis.'
   sudarymo_pagrindimas: 'Citata tiesiogiai aprašo ginklų ir amunicijos gamybą bei paskirstymą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Pulavai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva; mentioned_place: Pulavai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -86,7 +86,7 @@ Nenurodyta
   global_id: t-86987
   teiginys: 'Vertingiausi ginklai turėjo vardus: keturios didžiosios akmenų patrankos vadinosi Elgeta, Vytautas, Boba ir Augustas.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytus patrankų vardus.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

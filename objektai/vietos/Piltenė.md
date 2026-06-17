@@ -31,7 +31,7 @@ Danai — buvusias Kuršo vyskupystės žemes, vadinamąją Piltenę, ir Saremos
 - t-001
   global_id: t-43827
   teiginys: 'Piltene vadintos buvusios Kuršo vyskupystės žemės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vasalas|vasalas]]; mentioned_object: [[objektai/zodynas/vyskupystė|vyskupystė]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Jelgava; mentioned_place: Kuršas; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Ryga; mentioned_place: Saremos; mentioned_place: Talinas; mentioned_place: Tartai; mentioned_place: Žiemgala'
   temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1582 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

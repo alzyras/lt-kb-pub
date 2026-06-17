@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-59664
   teiginys: '1325 m. pradžioje Lietuva ir Lenkija ankstesnio susitarimo pagrindu sudarė sutartį dėl abipusės karinės paramos.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako sutarties laiką, šalis ir turinį, o citata tai patvirtina.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1325 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako sutarties laiką, šalis ir turinį, o citata tai patvirtina.'

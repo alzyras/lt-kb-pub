@@ -22,7 +22,7 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
 - t-001
   global_id: t-31185
   teiginys: 'Vyslos žemupio gotai I a. pr. Kr. pabaigoje ir I a. po Kr. pasistūmėjo į rytus, į Rytprūsių plotą iki Alnos upės.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]; mentioned_place: Aistmarios; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Aistmarios; mentioned_place: Lietuva; mentioned_place: Rytprūsiai; mentioned_place: Vysla'
   pagrindžia:
     - c-001
 
@@ -34,7 +34,7 @@ Vyslos žemupio gotai buvo pasistumėję toliau į rytus, įsikurdami Rytprū­ 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie gotus ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/alanai|alanai]]; mentioned_place: Europa; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Hunai|Hunai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_place: Europa; mentioned_place: Viena'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Feletėjas.md#claim-t-186200|Feletėjas]]: Feletėjas buvo rugijų karalius ir pateko į nelaisvę po rugijų pralaimėjimo.

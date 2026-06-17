@@ -28,7 +28,7 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
   global_id: t-11684
   teiginys: 'Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai yra didysis kunigaikštis.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų sakinį apie Vytauto titulą.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Trakai; territory: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Trakai; territory: Vilnius; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1401 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų sakinį apie Vytauto titulą.'
@@ -40,31 +40,13 @@ Jogailai tapus Lenkijos karaliumi, Vytautas jo atžvilgiu buvo magnus dux, tai y
   global_id: t-11685
   teiginys: 'Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.'
   sudarymo_pagrindimas: 'Patikslintas šaltinyje nurodytas pagrindas ir išlaikytas faktas apie titulą.'
-  susije_objektai: 'territory: Lietuva; territory: Trakai; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1379 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_object: [[objektai/posakiai/supremus dux|supremus dux]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1379 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Patikslintas šaltinyje nurodytas pagrindas ir išlaikytas faktas apie titulą.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
-- susijęs iš [[objektai/asmenys/Valerijonas (raštininkas).md#claim-t-87465|Valerijonas (raštininkas)]]: Valerijonas pasirašė 1533 m. spalio 23 d. Vilniuje rašytą dokumentą.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173317|Žygimantas Senasis]]: 1542 m. Žygimantas Senasis suteikė Vilniaus vyskupui privilegiją prieš eretikus.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173318|Žygimantas Senasis]]: 1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173337|Žygimantas Senasis]]: 1538 m. balandžio 6 d. Žygimantas Senasis rašė Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikcijos tarnų teises.
-- susijęs iš [[objektai/daiktai/Antspaudai ir pergamentiniai privilegijų originalai.md#claim-t-87046|Antspaudai ir pergamentiniai privilegijų originalai]]: Kapitulos archyve išlikęs privilegijos originalas buvo lotyniškai parašytas gotiškomis raidėmis ant pergamento, o abu jo antspaudai buvo dingę.
-- susijęs iš [[objektai/ivykiai/Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.).md#claim-t-86908|Bonos Sforcos įsakymas ištirti Onos Hlebavičienės nuostolius Nočioje (1533 m. spalio 23 d.)]]: 1533 m. spalio 23 d. Vilniuje surašytas raštas įpareigojo apžiūrėti Onos Hlebavičienės skundžiamus nuostolius.
-- susijęs iš [[objektai/posakiai/Alexander alias Witowdus dei gracia magnus dux Litwanie.md#claim-t-95939|Alexander alias Witowdus dei gracia magnus dux Litwanie]]: Vytautas minėtame akte save titulavo „Alexander alias Witowdus dei gracia magnus dux Litwanie“.
-- susijęs iš 1542 m. Žygimanto Senojo privilegija prieš eretikus Vilniaus vyskupui: 1542 m. Žygimantas Senasis davė Vilniaus vyskupui privilegiją prieš eretikus, saugotą Vilniaus kapitulos rankraščiuose.
-- susijęs iš Bonos Sforcos laiškas Senkai Tuhanovskiui dėl Onos Hlebavičienės nuostolių Nočioje (1533 m. spalio 23 d.): 1533 m. spalio 23 d. Vilniuje rašytame Bonos Sforcos laiške įsakyta ištirti Onos Hlebavičienės nuostolius Nočioje.
-- susijęs iš Vilniaus kapitulos archyvo rankraščiai: Vilniaus kapitulos archyvo rankraščiuose minimas Žygimanto Senojo raštas Vilniaus magistratui dėl vyskupo nesikišimo į miesto jurisdikciją.
-- susijęs iš Vilniaus kapitulos rankraščiai: Vilniaus kapitulos rankraščiuose buvo Žygimanto Senojo 1542 m. privilegija prieš eretikus, duota Vilniaus vyskupui.
-- susijęs iš Vytauto privilegijos Vilniaus kapitulai: Antrąja privilegija Vytautas Vilniaus katedrai skyrė Dragimino ir Dragiminiškių kaimus, pievą prie Žižmos ir nausėdžius.
-- susijęs iš Žygimanto Senojo raštas Vilniaus magistratui dėl Vilniaus kapitulos jurisdikcijos (1533 m. liepos 26 d.): Žygimanto Senojo raštas Vilniaus magistratui buvo susijęs su vyskupo nesikišimu į miesto jurisdikcijoje tarnaujančiųjų teises.
-- susijęs iš Žygimanto privilegija mėsinėms Vilniaus mieste (1543 m.): Žygimanto privilegija mėsinėms Vilniaus mieste datuojama 1543 metais ir buvo saugoma Vilniaus kapitulos archyve.
-- susijęs iš [[objektai/zodynas/indiktas.md#claim-t-86422|indiktas]]: Vilniuje rašytas dokumentas datuotas 1533 m. spalio 23 d., 7 indiktu.
-- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36840|supremus dux magnus dux]]: Jogailai išsikėlus į Lenkiją, Lietuva ir toliau liko valdoma dviejų kunigaikščių: Jogailos kaip supremus dux ir Vytauto kaip magnus dux.
-- susijęs iš [[objektai/zodynas/supremus dux magnus dux.md#claim-t-36841|supremus dux magnus dux]]: Pagal 1379 m. sutartį su Ordinu Jogaila Kęstučio atžvilgiu buvo tik supremus dux, tai yra aukščiausias kunigaikštis.
+
 ## Reikšmingi paminėjimai
 
 - c-001

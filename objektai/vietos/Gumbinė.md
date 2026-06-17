@@ -30,7 +30,7 @@ kariuomenei įsiveržti į Mažąją Lietuvą ligi Karaliaučiaus, Įsruties, Gu
   global_id: t-170419
   teiginys: 'XVIII a. Prūsijoje įsteigto Lietuvos departamento centras buvo Gumbinė.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir perkrautas, todėl paliktas aiškiai paremtas faktas apie Gumbinę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/germanizacija|germanizacija]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Simono Grunau.md#claim-t-30981|Simono Grunau]]: Simonas Grunau rodyklėje nurodytas kaip kronikininkas.

@@ -22,7 +22,7 @@ Aleksandras Jurjevičius Lietuvoje turėjo Lebedevą.
   teiginys: 'Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti asmenį ir nuosavybės kontekstą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Svyruotai; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Svyruotai; mentioned_place: Vilnius; mentioned_place: Šešuoliai'
   pagrindžia:
     - c-001
 

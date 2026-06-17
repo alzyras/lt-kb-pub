@@ -41,7 +41,7 @@ Nenurodyta
   global_id: t-55058
   teiginys: 'Boleslovas Didysis aplinkinius žmones kurtis miestuose viliojo nuolat padengtais vaišių stalais.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako vaišių stalų funkciją citatoje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Boleslovas Didysis|Boleslovas Didysis]]; mentioned_person: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Boleslovas Didysis|Boleslovas Didysis]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

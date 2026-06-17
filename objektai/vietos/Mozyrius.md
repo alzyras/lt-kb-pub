@@ -33,7 +33,7 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   global_id: t-68717
   teiginys: 'Ties Lojevu žygio dalyviai persikėlė į dešinįjį Dniepro krantą ir pasuko vakarų kryptimi Mozyriaus bei Slucko link.'
   sudarymo_pagrindimas: 'Įvardytas neaiškus įvardis ir sutrumpintas teiginys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Sluckas'
+  susije_objektai: 'mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Sluckas'
   pagrindžia:
     - c-001
 

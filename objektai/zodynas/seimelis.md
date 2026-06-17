@@ -29,7 +29,6 @@ amziai:
 - t-001
   global_id: t-72752
   teiginys: 'Vėliau seimeliai buvo šaukiami atskiriems reikalams: priešseiminiuose rinkti atstovai į seimą, reliaciniuose pranešta apie seimo darbus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +36,6 @@ amziai:
 - t-002
   global_id: t-72755
   teiginys: 'Grabnyčių seimelyje apie vasario 2 d. būdavo renkami tribunolo nariai, kurie tribunole dirbdavo vienus metus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/tribunolas|tribunolas]]'
   pagrindžia:
     - c-002
 
@@ -46,17 +44,9 @@ amziai:
   global_id: t-72756
   teiginys: 'Seimeliuose bajorija rinkdavo atstovus į seimą ir surašydavo jiems instrukcijas.'
   sudarymo_pagrindimas: 'Pašalintas kontekstinis junginys ir sukonkretintas veiksnys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/pavietas|pavietas]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Klaipėdos krašto autonominis režimas.md#claim-t-67119|Klaipėdos krašto autonominis režimas (kraštas)]]: Klaipėdos krašto autonominis statutas apibrėžė vietinių organų kompetenciją, seimelio, direktorijos ir gubernatoriaus funkcijas.
-- susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-183433|Klaipėdiškiai]]: Lietuva dėl socialinių, politinių tradicijų ir psichologinių priežasčių prarado lietuviškai kalbėjusius klaipėdiškius.
-- susijęs iš [[objektai/zodynas/Klaipėdiškiai.md#claim-t-21995|Klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie rinkimuose į vietos seimelį balsavo už susitelkusias vokiškas partijas.
-- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-05586|Suverenitetas]]: Dubysos sutartyje Jogailos suverenitetas buvo siaurinamas, nes jis įsipareigojo be Ordino žinios, patarimo ir valios nepradėti karo.
-- susijęs iš [[objektai/zodynas/Suverenitetas.md#claim-t-10898|Suverenitetas]]: Suverenitetas reiškia Lietuvos valdžią ir teisinę viršenybę Klaipėdos krašte.
-- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-183432|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusius klaipėdiškius, kurie vietos seimelio rinkimuose balsavo už vokiškas partijas.
-- susijęs iš [[objektai/zodynas/klaipėdiečiai klaipėdiškiai.md#claim-t-22187|klaipėdiečiai klaipėdiškiai]]: Lietuva prarado lietuviškai kalbėjusių klaipėdiškių paramą, nes jie vietos seimelio rinkimuose balsavo už vokiškas partijas.
-- susijęs iš [[objektai/zodynas/plikbajoris.md#claim-t-72729|plikbajoris]]: Seimelių metu didikų virtuvės maitindavo plikbajorius, kurie, anot šaltinio, sočiai pavalgydavo tik seimelyje.
+
 ## Reikšmingi paminėjimai
 
 - c-001

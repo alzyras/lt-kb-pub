@@ -10,7 +10,6 @@ tags:
   - miestas
   - pilis
   - transportas
-  - vieta
 ---
 # Rudinas
 
@@ -25,7 +24,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   global_id: t-91359
   teiginys: 'Sargybinis rado sužeistą Martyną kovos vietoje ir nuvežė jį į Rudino pilį.'
   sudarymo_pagrindimas: 'Ilgas fragmentas sutrumpintas iki aiškaus, citata paremto fakto apie Rudino pilį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   global_id: t-91360
   teiginys: 'Antrosios atskalūnybės metais Rudino broliai ir miestiečiai gynė krikščionių tikėjimą nuo prūsų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai paremtas citatos informacija.'
-  susije_objektai: 'mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]; mentioned_place: Kulmas; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -121,6 +120,3 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/autoriai/Henrikas]] keliavo_i Rudinas

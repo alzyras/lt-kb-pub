@@ -29,7 +29,7 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   global_id: t-170860
   teiginys: 'Davido Sucheto protėviai Suchedowitzai emigravo per Turkiją į Pietų Afrikos Respubliką.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra retorinis ir ne enciklopedinis, bet citata palaiko konkretų faktą apie Turkiją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_place: Afrika; mentioned_place: Europa; mentioned_place: Tryškiai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/daiktai/Gintaras|Gintaras]]; mentioned_person: [[objektai/asmenys/Chaim Soutin|Chaim Soutin]]; mentioned_person: [[objektai/asmenys/Jascha Heifetz|Jascha Heifetz]]; mentioned_place: Afrika; mentioned_place: Europa; mentioned_place: Tryškiai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1901 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra retorinis ir ne enciklopedinis, bet citata palaiko konkretų faktą apie Turkiją.'

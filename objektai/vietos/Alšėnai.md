@@ -43,7 +43,7 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas neatributuotas valdovo titulas, faktas išlaikytas pagal citatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_place: Voložinas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Goštautas|Goštautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Kijevas; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Vilnius; mentioned_place: Voložinas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173216|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: 1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.
@@ -184,5 +184,5 @@ Povilas Algimantas, Alšėnų kunigaikštis, paskutinysis iš savo giminės, pir
 - [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo_valdovas Alšėnai
 - [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] buvo_valdovas Alšėnai
 - [[objektai/asmenys/Švitrigaila]] buvo_valdovas Alšėnai
-- [[objektai/asmenys/Abraomas]] keliavo_i Alšėnai
+- [[objektai/asmenys/Barbora Radvilaitė]] keliavo_i Alšėnai
 - [[objektai/asmenys/Jadvyga]] keliavo_i Alšėnai

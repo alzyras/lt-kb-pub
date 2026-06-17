@@ -48,7 +48,7 @@ Nenurodyta
   global_id: t-54310
   teiginys: 'Masonų ložės ir studentų organizacijos sąmokslų nerezgė, bet kūrė valdžiai nepaklusnią atmosferą.'
   sudarymo_pagrindimas: 'Įvardytas neaiškaus įvardžio objektas ir išlaikyta citatos prasmė.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_person: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/A. Mickevičius|A. Mickevičius]]; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_place: Europa; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

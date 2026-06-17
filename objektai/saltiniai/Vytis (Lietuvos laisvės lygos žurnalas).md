@@ -28,7 +28,7 @@ LLL pogrindyje nuo 1976 m. leido laikraštį „Laisvės šauklys“, nuo 1978 m
   global_id: t-18008
   teiginys: 'Lietuvos laisvės lyga pogrindyje nuo 1978 m. leido žurnalą „Vytis“.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Antanas Terleckas|Antanas Terleckas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1976 m.; įvykio data: 1976 m.; įvykio data: po 1978 m.; įvykio data: 1978 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'

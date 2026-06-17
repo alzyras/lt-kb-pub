@@ -39,7 +39,7 @@ Savo Geografijoje jis paminėjo, kad už venetų gyveną « galindai ir sudinai 
   global_id: t-65157
   teiginys: 'Galindų žemė driekėsi į pietus nuo Bartos, nuo Alnos aukštumos vakaruose iki Nagutino ir Snervų ežerų rytuose.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis sakinys apie galindų žemę ir atitinka citatos informaciją.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Narevas; mentioned_place: Snervai'
+  susije_objektai: 'mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Narevas; mentioned_place: Snervai'
   pagrindžia:
     - c-002
 

@@ -21,7 +21,7 @@ Stanevičius — lietuviškų dainų rinkinį.
   global_id: t-01132
   teiginys: 'S. Stanevičius išleido lietuviškų dainų rinkinį.'
   sudarymo_pagrindimas: 'Pradinis tekstas neturi aiškaus tarinio, o citata remia glaustą faktinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_person: [[objektai/autoriai/D. Poška|D. Poška]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/D. Poška|D. Poška]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/J. Lasickis.md#claim-t-30684|J. Lasickis]]: S. Stanevičius kritikavo J. Lasickio knygutę apie žemaičių dievus, nes joje paprasti kalbos žodžiai esą paversti dievų vardais.

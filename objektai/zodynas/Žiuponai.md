@@ -28,7 +28,7 @@ Vartojamos formos: `žiuponais`.
   global_id: t-07692
   teiginys: 'Prašaleičiai lietuvių sau ponus vadino žiuponais, o tokie valdžionai IX amžiuje minimi Žemaičių krašte.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo negrabios sandaros; citata leidžia suformuluoti aiškesnį faktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/Šaldros|Šaldros]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
     - c-002
@@ -38,7 +38,7 @@ Vartojamos formos: `žiuponais`.
   global_id: t-07693
   teiginys: 'Žiuponais prašalaičiai vadino lietuvių ponus, kurie IX amžiuje minimi Žemaičių krašte.'
   sudarymo_pagrindimas: 'Citata tiesiogiai sieja žiuponus su prašalaičių taip vadintais ponais ir IX amžiaus Žemaičiais.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

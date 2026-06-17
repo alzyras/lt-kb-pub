@@ -9,8 +9,9 @@ datos:
   - '1920 m.'
   - '1921 m.'
   - '1922 m.'
+  - '1926 m.'
 date_start: '1918'
-date_end: '1922'
+date_end: '1926'
 sukurta: ''
 atnaujinta: ''
 tags:
@@ -45,7 +46,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   global_id: t-74944
   teiginys: 'Dėl nepriklausomybės kovų rinkimai į Steigiamąjį Seimą surengti tik 1920 m. balandžio viduryje.'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1920 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -69,7 +70,7 @@ Steigiamasis seimas taip pat svarstė Klaipėdos krašto klausimą ir, atsižvel
   global_id: t-74950
   teiginys: 'Steigiamasis Seimas 1922 m. rugpjūčio 1 d. Lietuvos Valstybės Konstitucijoje įtvirtino Prancūzijos III respublikos pavyzdžio demokratijos principus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Steigiamojo Seimo priimtą konstitucinį sprendimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Aleksandras Stulginskis|Aleksandras Stulginskis]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
   temporaliniai_duomenys: 'įvykio data: 1921 m.; įvykio data: 1922 m.; įvykio data: 1922-1926; įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Steigiamojo Seimo priimtą konstitucinį sprendimą.'

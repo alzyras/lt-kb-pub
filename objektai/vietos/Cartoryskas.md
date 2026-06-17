@@ -22,7 +22,7 @@ Konstantino dalis buvo Černigovas ir Cartoryskas.
   teiginys: 'Lietuvos metraštyje Konstantino dalimi įvardijami Černigovas ir Cartoryskas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Šaltinis pateikia dinastinio padalijimo formuluotę, todėl ji priskirta metraščiui.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liubomlis; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Lietuva; mentioned_place: Liubomlis; mentioned_place: Černigovas'
   pagrindžia:
     - c-001
 - susijęs iš Liubomlis: Liubomlis buvo kunigaikščio Teodoro Sanguškos dalis.

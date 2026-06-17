@@ -22,7 +22,7 @@ Gepidai, pasak Prokopijaus, dalyvavo visuose herulų žygiuose ir buvo pakviesti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir sutvarkytas, paliekant citatos remiamus faktus apie gepidus.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Italija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Herulai|Herulai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_place: Italija'
   temporaliniai_duomenys: 'įvykio data: 559 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutrumpintas ir sutvarkytas, paliekant citatos remiamus faktus apie gepidus.'

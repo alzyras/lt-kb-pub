@@ -44,7 +44,7 @@ PASTOVIAIO) JONAVA) is [B Bagaslaviškis Giedraičiai "Maironio X, Už: é (ius 
   global_id: t-41201
   teiginys: '1951 m. kovo 19 d. Pagaigalės kautynėse žuvo 10 Šiaurės Rytų Lietuvos srities ir Vytauto apygardos štabo narių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto apygardos štabo narių žūtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_object: [[objektai/zodynas/Kariauna|Kariauna]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Pagaigalė; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prisikėlimo apygarda|Prisikėlimo apygarda]]; mentioned_place: Giedraičiai; mentioned_place: Kaunas; mentioned_place: Labanoras; mentioned_place: Lietuva; mentioned_place: Maišiagala; mentioned_place: Pagaigalė; mentioned_place: Smilgiai; mentioned_place: Švenčionėliai; mentioned_place: Žiežmariai'
   temporaliniai_duomenys: 'įvykio data: 1949 m.; įvykio data: 1951 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Vytauto apygardos štabo narių žūtį.'

@@ -30,7 +30,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   global_id: t-58818
   teiginys: '246 D.— cum omni domo et familia sua.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]; mentioned_object: [[objektai/zodynas/vitingas|vitingas]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergai|vergai]]'
   pagrindžia:
     - c-004
 

@@ -31,7 +31,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   global_id: t-74133
   teiginys: '1926 m. gegužės 8–9 d. rinkimuose į 85 vietų III Seimą LKDP blokas pralaimėjo.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė frazė ir paliktas aiškus faktas.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1926 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė frazė ir paliktas aiškus faktas.'
@@ -55,7 +55,7 @@ O čia dar po kietoko trejų metų krikščionių demokratų bloko valdymo 1926 
   global_id: t-74136
   teiginys: 'III Seimo naujoji valdančioji dauguma skubėjo Lietuvoje įdiegti visateisę demokratinę santvarką.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir gramatiškas faktinis sakinys apie III Seimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: po 1927 m.; įvykio data: 1927 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir gramatiškas faktinis sakinys apie III Seimą.'

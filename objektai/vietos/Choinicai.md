@@ -28,7 +28,6 @@ Choinicams kritus, popiežiaus pasiuntinys Rudolfas pasistengė, kad būtų suda
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Choinicų kritimo pasekmę.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]'
   temporaliniai_duomenys: 'įvykio data: 1467 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Choinicų kritimo pasekmę.'

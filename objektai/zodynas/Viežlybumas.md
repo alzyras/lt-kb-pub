@@ -39,7 +39,7 @@ Vartojamos formos: `viežlybumą`, `viežlybai`, `viežlybos`.
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir sakinys glaudžiau susietas su citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Lyčių pasiskirstymas ūkio ir namų darbuose.md#claim-t-07791|Lyčių pasiskirstymas ūkio ir namų darbuose]]: Motriškosios po namus trūsėjo, audė, švarino namus, tiekė drabužius ir saugojo viežlybumą.
+
 ## Reikšmingi paminėjimai
 
 - c-001

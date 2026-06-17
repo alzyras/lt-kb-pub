@@ -39,7 +39,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   global_id: t-12236
   teiginys: 'Dr. A. Salio straipsnis buvo įdėtas žurnalo „Kalba“ numeryje kartu su kitų autorių straipsniais.'
   sudarymo_pagrindimas: 'Silpnas paminėjimas perrašytas į aiškų faktą apie autoriaus straipsnį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kuzmickis|Kuzmickis]]'
   pagrindžia:
     - c-005
 
@@ -47,7 +47,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
 - t-002
   global_id: t-64513
   teiginys: 'A. Salio Die žemaitischen Mundarten šiame šaltinyje cituojamas Žemaičių tarmių klausimu.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_place: Vysla'
   pagrindžia:
     - c-006
 
@@ -56,7 +56,6 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   global_id: t-64514
   teiginys: 'A. Salys parašė straipsnį „Baltic Languages“, 1955 m. išspausdintą trečiame „Encyclopedia Britannica“ tome.'
   sudarymo_pagrindimas: 'Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
   temporaliniai_duomenys: 'įvykio data: 1955 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko A. Salio autorystę tik straipsniui „Baltic Languages“, o ne kitam nurodytam darbui.'
@@ -68,7 +67,7 @@ A. Salys minimas kaip kalbininkas ir autorius; šiame tome jis siejamas su žema
   global_id: t-64515
   teiginys: 'A. Salys teigė, kad slavų ir baltų prokalbės išriedėjo iš dviejų artimų indoeuropiečių prokalbės tarmių.'
   sudarymo_pagrindimas: 'Teiginys tinkamai priskiria Salio kalbinę poziciją ir remiasi citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/prokalbė|prokalbė]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Skandinavai|Skandinavai]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]'
   pagrindžia:
     - c-002
 

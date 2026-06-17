@@ -22,7 +22,7 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   global_id: t-87733
   teiginys: 'Jonas Stančikavičius buvo parapijoje gyvenęs bajoras, nuo seno privalėjęs mokėti dešimtinę bažnyčiai.'
   sudarymo_pagrindimas: 'Citata remia jo kaip bajoro pareigą mokėti dešimtinę; pradinis teiginys yra sąrašo fragmentas.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-001
 

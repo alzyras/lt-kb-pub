@@ -10,7 +10,6 @@ tags:
   - ordinas
   - pilis
   - sąvoka
-  - vyskupas
 ---
 # knechtas
 

@@ -29,7 +29,7 @@ amziai:
   global_id: t-31851
   teiginys: 'Kardinolas J. Slipyj išleido metropolito A. Šeptyckio surinktų dokumentų rinkinį „Monumenta Ucrainae Historica“.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą J. Slipyj vaidmenį išleidžiant dokumentų rinkinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 

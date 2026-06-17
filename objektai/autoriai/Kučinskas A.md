@@ -24,7 +24,7 @@ Dusburgietis teigia, kad tokiais atvejais nepaisoma argumentų, leidžiančių a
   global_id: t-60738
   teiginys: 'A. Kučinskas pateikė argumentų, leidžiančių abejoti Kęstučio priesaikos tikrumu ir jo, kaip vyriausiojo kunigo, funkcijomis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Kučinsko argumentus ir tiesiogiai remiasi citata.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Kučinskas|A. Kučinskas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   pagrindžia:
     - c-001
 

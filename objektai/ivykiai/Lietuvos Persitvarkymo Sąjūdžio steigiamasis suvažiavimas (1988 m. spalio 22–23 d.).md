@@ -45,7 +45,6 @@ Nenurodyta
 - t-001
   global_id: t-75188
   teiginys: 'Po LPS steigiamojo suvažiavimo organizuotas liaudies judėjimas tapo visuomenine jėga, galinčia mesti iššūkį komunistų partijai.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-002
 
@@ -62,7 +61,7 @@ Nenurodyta
   global_id: t-75190
   teiginys: 'Lietuvos Persitvarkymo Sąjūdžio steigiamasis suvažiavimas priėmė bendrąją programą, įstatus ir 30 rezoliucijų.'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi nepakankamai aiškiu žodžiu „Suvažiavimas“, todėl objektas sukonkretintas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Lietuva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/ivykiai/Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.).md#claim-t-26364|Baltijos kelias ir Molotovo–Ribentropo pakto padarinių pasmerkimas (1989 m.)]]: LSSR Aukščiausiosios Tarybos komisija pasmerkė Molotovo–Ribentropo pakto padarinius – 1940 m. Lietuvos okupaciją ir neteisėtą prijungimą.

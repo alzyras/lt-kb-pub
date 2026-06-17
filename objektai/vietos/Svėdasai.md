@@ -21,7 +21,7 @@ Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio kom
   global_id: t-42174
   teiginys: 'Zigmantas Sierakauskas su pagrindiniais sukilėlių daliniais išskubėjo Svėdasų kryptimi.'
   sudarymo_pagrindimas: 'Reikia išplėsti inicialą ir pašalinti OCR triukšmą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Zigmantas Sierakauskas|Zigmantas Sierakauskas]]; mentioned_place: Rusija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Kasperas Maleckis.md#claim-t-40277|Kasperas Maleckis]]: Zigmantas Sierakauskas išsiuntė Kasperą Maleckį su 150 karių ardyti geležinkelio komunikacijų ir rinkti žinių apie priešą.

@@ -32,7 +32,7 @@ Lietuva patyrė Kijevo Rusios agresiją.
   global_id: t-39556
   teiginys: '1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Jaroslavo žygį ir tiksliai atitinka citatą.'
-  susije_objektai: 'territory: Kijevas; territory: Kijevo Rusia; territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
+  susije_objektai: 'territory: Kijevas; territory: Kijevo Rusia; territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
   semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas (Kijevo valdovas)|Jaroslavas (Kijevo valdovas)]] buvo valdovas Kijevas; [[objektai/asmenys/Jaroslavas (Kijevo valdovas)|Jaroslavas (Kijevo valdovas)]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Jaroslavas (Kijevo valdovas)|Jaroslavas (Kijevo valdovas)]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1040 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jaroslavas (Kijevo valdovas) buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas (Kijevo valdovas) buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas (Kijevo valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'

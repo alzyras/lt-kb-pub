@@ -21,7 +21,7 @@ Išėjus jo tarnams, Zigmantas taip prabilo į Jogailą: „Uwaž, najmilszy bra
   global_id: t-36011
   teiginys: 'Zigmantas ragino Jogailą leisti vainikuoti Vytautą karaliumi, kad karūna puoštų ne tik Jogailos galvą, bet ir jo tėvynę Lietuvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia teiginį, bet reikėjo aiškiai susieti jį su posakio tekstu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

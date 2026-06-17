@@ -22,7 +22,7 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
   teiginys: 'Didžioji Berestovica minima kaip vieta, kur kunigaikščių Zaslavskių dvare buvo Bychovco kronikos variantas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pirminė formuluotė buvo per abstrakti; citata leidžia konkretesnį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Panašus Bychovco kronikos variantas buvo Didžiosios Berestovicos dvare. Didži
   teiginys: 'Didžiosios Berestovicos dvare, priklausiusiame kunigaikščiams Zaslavskiams, buvo panašus Bychovco kronikos variantas.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys papildytas citatos palaikoma informacija ir suformuluotas tiksliau.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_person: [[objektai/asmenys/Tame (Baigos brolis)|Tame (Baigos brolis)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/M. Strijkovskis|M. Strijkovskis]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-001
 

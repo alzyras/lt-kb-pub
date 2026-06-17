@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie Svečės pilies pastatymą ir jos užpuolimą Tod�
   global_id: t-60061
   teiginys: 'Samboras buvo vienas iš keturių Pomeranijos kunigaikščio Sventopelko sūnų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia Samboro ryšį su Sventopelku.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Samboras|Samboras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vartislavas (Sventopelko sūnus)|Vartislavas (Sventopelko sūnus)]]; mentioned_place: Pomeranija; mentioned_place: Poterbergas; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

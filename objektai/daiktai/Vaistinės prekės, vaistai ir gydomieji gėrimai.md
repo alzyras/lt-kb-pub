@@ -60,7 +60,6 @@ Nenurodyta
 - t-002
   global_id: t-55056
   teiginys: 'Kol vaistinėje buvo leidžiama laikyti ir pardavinėti degtinę, metinės pajamos galėjo siekti 30 000 auksinų, o po draudimo jos sumažėjo.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   pagrindžia:
     - c-003
 
@@ -76,7 +75,7 @@ Nenurodyta
   global_id: t-172859
   teiginys: 'Didžioji iš Krokuvos atgabentos karališkosios vaistinės dalis liko Vilniuje ir tapo nuolatinės miesto vaistinės pradžia.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -85,7 +84,6 @@ Nenurodyta
   global_id: t-172862
   teiginys: '1780 m. vaistinė kelių vaistininkų dėka buvo išsiplėtusi ir pasiekusi klestintį būvį.'
   sudarymo_pagrindimas: 'Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]'
   temporaliniai_duomenys: 'įvykio data: 1780 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įvardyta numanoma vaistinė ir pašalintas kontekstinis, neaiškus įvardis.'
@@ -97,7 +95,7 @@ Nenurodyta
   global_id: t-172863
   teiginys: 'Aleksandro laikais Vilniuje pirmą kartą minimi gydytojas ir vaistinė.'
   sudarymo_pagrindimas: 'Reikia mažiau vaizdingos ir enciklopediškesnės formuluotės.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/indiktas|indiktas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Julijona (Algirdo žmona)|Julijona (Algirdo žmona)]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/asmenys/Albinas Kubilius-Rūgštymas.md#claim-t-39996|Albinas Kubilius-Rūgštymas]]: 1949 m. spalio 24 d. MGB agentui V. Kučiui panaudojus spec. preparatus, buvo suimtas Albinas Kubilius-Rūgštymas.

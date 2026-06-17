@@ -20,7 +20,7 @@ tags:
 - t-001
   global_id: t-49419
   teiginys: 'Kazimieras Sapiega vadovavo artilerijos baterijai, dengusiai Vilniaus įgulos atsitraukimą per Žaliąjį tiltą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

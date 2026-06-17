@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-86956
   teiginys: '1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatą.'
-  susije_objektai: 'location: Jašiūnai; location: Vilnius; mentioned_object: [[objektai/zodynas/generalgubernatorius|generalgubernatorius]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Jašiūnai; location: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Jašiūnai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Balinskis mirė Jašiūnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Balinskis mirė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai atitinka citatą.'

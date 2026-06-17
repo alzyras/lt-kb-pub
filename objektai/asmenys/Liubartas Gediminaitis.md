@@ -31,7 +31,7 @@ O mirus senam dėdei Liubartui Gediminaičiui (apie 1385), jis po poros metų ka
   global_id: t-30353
   teiginys: 'Liubartas Gediminaitis mirė apie 1385 m.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Palenkė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Drohičinas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Palenkė'
   temporaliniai_duomenys: 'įvykio data: 1384 m.; įvykio data: 1385 m.; įvykio data: apie 1385 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, gramatiškas ir tiesiogiai paremtas citata.'

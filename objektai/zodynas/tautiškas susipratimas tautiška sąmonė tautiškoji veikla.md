@@ -48,7 +48,7 @@ Kad po didžiojo karo dar buvo išgelbėtas ir sujungtas su nepriklausomąja Lie
   global_id: t-104178
   teiginys: 'Tilžėje įkurtos „Birutės“ draugijos tikslas buvo stiprinti lietuviškumą ir kelti tautišką sąmonę.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį sakinį be kontekstinės pradžios ir OCR triukšmo.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/autoriai/Mikšas|Mikšas]]; mentioned_place: Lietuva; mentioned_place: Tilžė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mikšas|Mikšas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Tilžė'
   pagrindžia:
     - c-003
 

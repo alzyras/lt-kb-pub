@@ -28,7 +28,6 @@ Papildomos aiškios formos neišskirtos.
   global_id: t-07690
   teiginys: 'Karmūšų vietos buvo kovų laukai, kuriuose su priešais grūmėsi ir žuvo kariai.'
   sudarymo_pagrindimas: 'Teiginį verta perrašyti kaip pilną faktinį sakinį be nuorodos į tekstą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]'
   pagrindžia:
     - c-001
 
@@ -37,7 +36,6 @@ Papildomos aiškios formos neišskirtos.
   global_id: t-07691
   teiginys: 'Karmūšų vietos buvo vadinamos šventomis, nes jose žuvo už laisvę ir namus kovoję žmonės.'
   sudarymo_pagrindimas: 'Citata aiškiai paaiškina, kodėl tos vietos laikytos šventomis.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Liuosybė|Liuosybė]]'
   pagrindžia:
     - c-001
 

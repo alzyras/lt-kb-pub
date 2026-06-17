@@ -29,7 +29,7 @@ Smetona), kurios savo konferencijose, tarpininkaujant škotui prof. Simpsonui, i
   global_id: t-01171
   teiginys: 'Škotas prof. Simpsonas tarpininkavo komisijų konferencijose, kurios išvedė sieną nedaug nutoldamos nuo buvusios gubernijos sienos.'
   sudarymo_pagrindimas: 'Pirminis tekstas yra fragmentas su OCR nuotrupa, bet citata pagrindžia tarpininko vaidmenį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Kaunas; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Palanga; mentioned_place: Palangos pajūris; mentioned_place: Žiemgala'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Kuršas; mentioned_place: Latvija; mentioned_place: Palanga; mentioned_place: Palangos pajūris; mentioned_place: Žiemgala'
   temporaliniai_duomenys: 'įvykio data: 1921 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis tekstas yra fragmentas su OCR nuotrupa, bet citata pagrindžia tarpininko vaidmenį.'

@@ -22,7 +22,7 @@ Man vis dėlto atrodo, kad įvykis, aprašytas Petro Olai „Danų kronikoje", y
   global_id: t-87845
   teiginys: 'Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.'
   sudarymo_pagrindimas: 'Perteikta atsargi citatos interpretacija, nepadarant jos tvirtesniu faktu.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Kanutas|Kanutas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Rusija; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Rusija; mentioned_place: Viena'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113936|Mindaugas (valdovas, XIII a.)]]: Maukoldas citatoje nurodomas kaip Mindaugo, dar vadinto Mendogu, tėvas.

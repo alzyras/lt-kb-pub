@@ -33,7 +33,7 @@ Vilno ipso die Sanctae Priscae Virginis 67 et martyris anno D-ni 1401 [Lietuvos 
   global_id: t-88357
   teiginys: 'Vytauto privilegija Lietuvos žydams vėliau buvo paskelbta Pirmojo Lietuvos Statuto pradžioje.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis ir nutrūkęs, o citata geriau pagrindžia faktą apie privilegijos paskelbimą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/statutas|statutas]]; mentioned_place: Griunvaldas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Griunvaldas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

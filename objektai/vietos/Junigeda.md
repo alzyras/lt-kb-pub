@@ -43,7 +43,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   global_id: t-90467
   teiginys: 'Brandenburgo komtūras Kunonas su didele kariuomene užpuolė Junigedos ir Pieštvės pilis ir sudegino jų papilius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Junigedą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Kunonas (Brandenburgo komtūras)|Kunonas (Brandenburgo komtūras)]]; mentioned_place: Livonija; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Ragainė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Livonija; mentioned_place: Pieštvė; mentioned_place: Prūsija; mentioned_place: Ragainė'
   pagrindžia:
     - c-006
 
@@ -73,7 +73,7 @@ Dusburgietis teigia, kad apie Kolainių pilies sudeginimą ir Junigedos valsčia
   global_id: t-90470
   teiginys: '1291 m. apie vasario 2 d. Bertoldas Bruhavenas nusiaubė Junigedos valsčių, grobdamas ir degindamas.'
   sudarymo_pagrindimas: 'Citata remia konkretų veiksmą Junigedos valsčiuje.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Bertoldas|Bertoldas]]; mentioned_place: Kolainiai'
+  susije_objektai: 'mentioned_place: Kolainiai'
   temporaliniai_duomenys: 'įvykio data: 1291 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata remia konkretų veiksmą Junigedos valsčiuje.'

@@ -44,7 +44,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   global_id: t-78914
   teiginys: 'Dragūnų vėliavą sudarė 100-150 žmonių.'
   sudarymo_pagrindimas: 'Sakinys gramatiškas ir pateikia konkretų dragūnų vėliavos dydį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]'
   pagrindžia:
     - c-003
 
@@ -53,7 +52,6 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   global_id: t-78915
   teiginys: 'Vėliavai vadovaudavo kapitonas.'
   sudarymo_pagrindimas: 'Sakinys pilnas, turi aiškų subjektą ir predikatą apie vėliavos vadovavimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dragūnai|dragūnai]]'
   pagrindžia:
     - c-003
 
@@ -80,13 +78,8 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Elžbieta.md#claim-t-82297|Elžbieta]]: 1227 m. rugsėjo 11 d. Ortrante mirė šventos Elžbietos vyras landgrafas.
-- susijęs iš [[objektai/asmenys/Henrikas Cutsvertas.md#claim-t-59915|Henrikas Cutsvertas]]: Birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89821|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanui iš Zalcos popiežius padovanojo žiedą, o imperatorius suteikė teisę vėliavoje turėti karališkąsias imperijos insignijas.
-- susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89830|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Popiežius ir imperatorius suteikė Hermanui iš Zalcos bei būsimiems Teutonų ordino magistrams kunigaikščio titulą.
 - susijęs iš [[objektai/asmenys/Karolis Jastržembskis.md#claim-t-40271|Karolis Jastržembskis]]: Karolio Jastržembskio vadovaujamas 200 sukilėlių būrys susikovė su generolo majoro Suchodolskio kavalerijos daliniu.
 - susijęs iš [[objektai/asmenys/Konradas Lichtenhagenas.md#claim-t-87759|Konradas Lichtenhagenas]]: Brandenburgo komtūras Konradas Lichtenhagenas atėjo į Gardino valsčių ir pilį po žygio į Pagraudenės valsčių.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113985|Steponas Batoras]]: Steponas Batoras buvo sudaręs 500 raitelių vėliavą.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
 - susijęs iš [[objektai/asmenys/Suchodolskis.md#claim-t-40449|Suchodolskis]]: Gen. mjr. Suchodolskis vadovavo kavalerijos daliniui, susikovusiam su Karolio Jastržembskio 200 sukilėlių būriu.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
 - susijęs iš [[objektai/asmenys/Zbignievas Olesnickis.md#claim-t-176859|Zbignievas Olesnickis]]: Zbignievas Olesnickis grįžo be pagalbos, bet vėliau ietimi nuvertė nuo arklio Jogailą puolusį riterį.
@@ -100,28 +93,18 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - susijęs iš [[objektai/daiktai/Deglas.md#claim-t-81844|Deglas]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, per kurį sudegė didelė miesto dalis.
 - susijęs iš [[objektai/daiktai/Karinės vėliavos ir ženklai.md#claim-t-87051|Karinės vėliavos ir ženklai]]: Ordino riteriai puolė į mūšį nešini šv. Jurgio vėliava, bet lietuviai juos atrėmė ir privertė grįžti patyrus nuostolių.
 - susijęs iš [[objektai/daiktai/Mediniai miesto namai.md#claim-t-87084|Mediniai miesto namai]]: Mūšio metu į medinius Vilniaus namus mestas deglas sukėlė gaisrą, per kurį sudegė didelė miesto dalis.
-- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-183980|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
-- susijęs iš [[objektai/daiktai/Ordino magistro valdžios žymenys.md#claim-t-59696|Ordino magistro valdžios žymenys]]: Popiežius Honorijus III žiedą, o imperatorius Fridrichas II vėliavos insignijas suteikė kaip Ordino magistro valdžios žymenis.
-- susijęs iš [[objektai/daiktai/Panevėžio bataliono vėliava.md#claim-t-80694|Panevėžio bataliono vėliava]]: Panevėžio batalionui 1919 m. kovo 25 d. Panevėžio lietuvių katalikių moterų draugija įteikė vėliavą.
 - susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179491|Riterių vėliava]]: Viduriniais amžiais riterių vėliavos netekimas kovoje laikytas didele nelaime.
 - susijęs iš [[objektai/daiktai/Riterių vėliava.md#claim-t-179493|Riterių vėliava]]: Po Aizkrauklės kautynių riterių vėliava atiteko pagonims.
 - susijęs iš [[objektai/daiktai/Vytauto vėliava.md#claim-t-97105|Vytauto vėliava]]: Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip dvidešimt žuvo.
 - susijęs iš [[objektai/daiktai/Vytauto vėliava.md#claim-t-97106|Vytauto vėliava]]: Po Vytauto vėliava kovėsi apie 50 kunigaikščių, iš kurių daugiau kaip 20 žuvo.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08355|Vėliavos]]: Kareiviams būdavo paduodama raudona vėliava kaip karo ženklas ir laiminimo dalis.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08356|Vėliavos]]: Prie karūžojo buvo laikoma karės vėliava tos apykartos.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-08357|Vėliavos]]: Kariauna stodama į kovą turėjo didelę baltą vėliavą su ženklu ir įrašu.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10168|Vėliavos]]: Žalgirio mūšyje neatlaikiusi spaudimo krito didžioji Krokuvos vėliava.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12340|Vėliavos]]: Riterių būrys buvo vadinamas vėliava ir telkėsi apie savo ženklą.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12341|Vėliavos]]: Riteris neturėjo teisės palikęs savo vėliavą bėgti iš mūšio.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-12344|Vėliavos]]: Tarp pabėgusių lenkų vėliavų buvo ir šv. Jurgio vėliava.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176209|Vėliavos]]: Kiekvienas riteris kaudavosi po savo vėliava ir neturėjo teisės ją palikęs bėgti.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176210|Vėliavos]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176211|Vėliavos]]: Lenkams patiriant didelį spaudimą centre ir dešinėje, Žalgirio mūšyje krito didžioji Krokuvos vėliava.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176215|Vėliavos]]: XIV a. antrosios pusės lietuvių kario rekonstrukcijoje karys vaizduojamas tarnaujantis Lietuvos valdovo asmeninėje vėliavoje.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-184344|Vėliavos]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
 - susijęs iš [[objektai/daiktai/Šv. Jurgio vėliava.md#claim-t-87129|Šv. Jurgio vėliava]]: Ordino riteriai, nešini Šv. Jurgio vėliava, puolė į mūšį, bet lietuvių buvo atremti ir su dideliais nuostoliais grįžo prie likusių karių.
-- susijęs iš [[objektai/grupes/Abiejų Tautų Respublikos kariuomenė.md#claim-t-40843|Abiejų Tautų Respublikos kariuomenė]]: XVII a. Abiejų Tautų Respublikos kariuomenė pratęsė Europos riterių atakos tradiciją, kai Vakarų Europoje pralaužiamosios kavalerijos atakos nebenaudotos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178840|Kryžiuočių ordinas]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179026|Kryžiuočių ordinas]]: Ordino riteriai su šv. Jurgio vėliava puolė į mūšį, bet lietuvių buvo atremti ir patyrė didelių nuostolių.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179181|Lenkai]]: Didžioji lenkų vėliava Žalgirio mūšyje pateko į kryžiuočių tarpą, bet lenkai ją atgavo įtraukus antrąją liniją.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179209|Lenkai]]: Kronistas kartais perteikdavo lenkų tezes, pavyzdžiui, Dlugošo kronikos įtaką Žalgirio kautynių aprašymui ir Vytauto karūnos bylai.
@@ -129,24 +112,16 @@ Riteris kaudavosi po savo vėliava, o jai patekus į priešo rankas galėjo trau
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184330|Lenkai]]: Vyriausioji Lenkijos vėliava pateko į priešų rankas.
 - susijęs iš [[objektai/grupes/Lietuviai Lietuvos kariuomenė.md#claim-t-86782|Lietuviai Lietuvos kariuomenė]]: Lietuviai narsiai atrėmė Ordino riterių puolimą su šv. Jurgio vėliava ir privertė juos grįžti prie likusių karių.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179298|Lietuviai]]: Ordino riteriai, nešini šv. Jurgio vėliava, puolė į mūšį, bet lietuviai juos atrėmė.
-- susijęs iš [[objektai/grupes/Panevėžio batalionas.md#claim-t-80657|Panevėžio batalionas]]: 1919 m. kovo 25 d. Panevėžio batalionui buvo įteikta Panevėžio ir jo apylinkių gyventojų vėliava.
-- susijęs iš [[objektai/grupes/Panevėžio lietuvių katalikių moterų draugija.md#claim-t-80658|Panevėžio lietuvių katalikių moterų draugija]]: Panevėžio lietuvių katalikių moterų draugija 1919 m. kovo 25 d. įteikė vėliavą Panevėžio batalionui.
 - susijęs iš [[objektai/grupes/Vokietijos maldininkai.md#claim-t-59010|Vokietijos maldininkai]]: 1316 m. Reino krašto maldininkai su broliu Henriku žygiavo į Medininkų valsčių ir jį nusiaubė.
-- susijęs iš [[objektai/ivykiai/Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.).md#claim-t-62743|Aukaimio valsčiaus nusiaubimas grįžtant nuo Junigedos (1291 m. birželio 29 d.)]]: 1291 m. birželio 29 d. Baigos komtūras Henrikas Cutsvertas su 20 brolių ir 1500 vyrų išjojo link Junigedos pilies.
-- susijęs iš [[objektai/ivykiai/Hermano iš Zalcos išaukštinimas kunigaikščio titulu.md#claim-t-62806|Hermano iš Zalcos išaukštinimas kunigaikščio titulu]]: Popiežius Honorijus III ir imperatorius Fridrichas II suteikė Hermanui iš Zalcos ir būsimiems Teutonų ordino magistrams kunigaikščio titulą.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75162|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas (1990 III 11).md#claim-t-75167|Lietuvos nepriklausomybės atkūrimas (1990 III 11)]]: Sąjūdis suvienijo įvairius visuomenės sluoksnius, pasirinko neginkluotą kovą ir prisidėjo prie Lietuvos išsilaisvinimo bei SSRS žlugimo.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-75168|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: Sąjūdžio rinkiminės programos dalis dėl Lietuvos nepriklausomybės atkūrimo ir piliečių atskyrimo nuo sovietų jurisdikcijos buvo įvykdyta.
 - susijęs iš [[objektai/ivykiai/Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.).md#claim-t-75169|Lietuvos nepriklausomybės atkūrimas ir Kovo 11 Aktas (1990 m. kovo 11 d.)]]: Sąjūdis suvienijo įvairius visuomenės sluoksnius, pasirinko neginkluotą kovą ir prisidėjo prie Lietuvos išsilaisvinimo bei SSRS žlugimo.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-183945|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: Per 1316 m. žygį į Medininkų valsčių grafas iš Bergo prie Medvėgalio pilies daug karių įšventino į riterius.
 - susijęs iš [[objektai/ivykiai/Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.).md#claim-t-62875|Medininkų valsčiaus apiplėšimas ir karių įšventinimas prie Medvėgalio (1316 m.)]]: 1316 m. brolis Henrikas su Reino krašto maldininkais nusiaubė Medininkų valsčių, nukovė arba paėmė į nelaisvę 200 žmonių.
-- susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186762|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Per priesaikos ceremoniją vaivada Steponas perdavė karaliui Kazimierui didelę šilkinę vėliavą su Moldavijos herbu.
 - susijęs iš [[objektai/ivykiai/Salaspilio (Kircholmo) mūšis (1605 m.).md#claim-t-10285|Salaspilio (Kircholmo) mūšis (1605 m.)]]: Salaspilio mūšyje T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir smogė švedų kavalerijai iš flango.
 - susijęs iš [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.).md#claim-t-86928|Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]: Per mūšį į medinius Vilniaus namus mestas deglas sukėlė didžiulį gaisrą, pasiglemžusį didelę miesto dalį.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71801|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarai paprastai atakuodavo priešą dviem linijomis, kurių pirmoji silpnindavo rikiuotę, o antroji pralauždavo gretas.
 - susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71802|Husarų vėliavų „draugų“ ir palydos sistema]]: Husarų vėliavų branduolį sudarė turtingi bajorai - draugai.
-- susijęs iš [[objektai/paprociai/Husarų vėliavų „draugų“ ir palydos sistema.md#claim-t-71803|Husarų vėliavų „draugų“ ir palydos sistema]]: XVII a. Lietuvos ir Lenkijos husarai buvo vienintelė „šoko kavalerija“ Europoje.
-- susijęs iš [[objektai/posakiai/nedera tuščiomis rankomis grįžti namo.md#claim-t-184037|nedera tuščiomis rankomis grįžti namo]]: Birželio 29 d. Henriko Cutsverto vadovaujami broliai nusprendė negrįžti tuščiomis ir nuniokojo Aukaimio pilies apylinkes.
 - susijęs iš [[objektai/posakiai/„suverenitetų parado“.md#claim-t-183508|„suverenitetų parado“]]: Rusija prisijungė prie „suverenitetų parado“, o kitos sovietinės respublikos taip pat skelbė suverenitetą.
 - susijęs iš [[objektai/posakiai/„suverenitetų parado“.md#claim-t-20947|„suverenitetų parado“]]: Rusija prisijungė prie „suverenitetų parado“, o kitos sovietinės respublikos taip pat skelbė suverenitetą.
 - susijęs iš Gegužės 3 d. konstitucija (1791 m.): Eidintas ir bendraautoriai Gegužės 3 d. konstituciją laiko riba tarp senosios bajoriškosios santvarkos ir moderniųjų laikų.

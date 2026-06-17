@@ -29,7 +29,7 @@ Dusburgietis teigia, kad jis garsėjo kaip itin švelnus žmogus, visiems rodės
   global_id: t-59109
   teiginys: 'Petras Dusburgietis Konradą Žaką apibūdino kaip itin švelnų ir malonų žmogų, apie kurį buvo galima sakyti, kad jį mylėjo ir Dievas, ir žmonės.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį; citata leidžia aiškiai įvardyti Konradą Žaką ir autoriaus vertinimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 

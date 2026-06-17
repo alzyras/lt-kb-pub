@@ -26,8 +26,8 @@ Kai « barzdoti vyrai» iš užjūrio puldinėjo Baltijos pajūrį, į tuos kari
   global_id: t-30953
   teiginys: 'Rimbertas pažymėjo, jog kuršiai sukilo ir ilgai stengėsi savo penkiose srityse būti nepriklausomi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tinkamai priskiria Rimberto užrašytą informaciją.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
-  temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: 853 m; įvykio data: apie 675 m.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]'
+  temporaliniai_duomenys: 'įvykio data: 675 m; įvykio data: apie 675 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tinkamai priskiria Rimberto užrašytą informaciją.'
   pagrindžia:

@@ -30,13 +30,11 @@ periodo_grupes:
   global_id: t-35028
   teiginys: 'Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardinis kontekstas, kad būtų aišku, prieš ką rengta koalicija.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Mažlenkiai'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Mažlenkiai'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
 - susijęs iš [[objektai/asmenys/Andriejus (Vilniaus vyskupas).md#claim-t-35025|Andriejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu.
-- susijęs iš [[objektai/asmenys/Andriejus Obolenskis.md#claim-t-40017|Andriejus Obolenskis]]: Andriejus Obolenskis buvo vienas iš vaivadų, vadovavusių Maskvos valdovo Vasilijaus III pasiųstoms pajėgoms.
-- susijęs iš [[objektai/asmenys/Andriejus Šemiačičius.md#claim-t-186177|Andriejus Šemiačičius]]: Andriejus Šemiačičius kartu su Jakovu Zachariničiumi ir Andrejumi Možaiskiu vedė priešo pajėgas į Severską.
 - susijęs iš [[objektai/autoriai/Michał Baliński Mykolas Balinskis.md#claim-t-182788|Michał Baliński Mykolas Balinskis]]: Rodyklė apima įvadą ir M. Balinskio veikalo vertimą.
 ## Reikšmingi paminėjimai
 

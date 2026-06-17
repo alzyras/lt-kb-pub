@@ -38,7 +38,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60888
   teiginys: 'Ptolomėjaus analuose pasakojama, kad netoli Rozėjos Briksijoje prie altoriaus vynas pavirto krauju, o duona kūnu.'
   sudarymo_pagrindimas: 'Tai legendinis ar religinis pasakojimas, todėl reikia šaltinio atribucijos.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]'
   pagrindžia:
     - c-002
 
@@ -68,7 +68,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60891
   teiginys: 'Ptolomėjus iš Lukos, Tomo Akviniečio mokinys ir popiežiaus bibliotekininkas, parašė „Analus“ apie bažnyčios istoriją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Ptolomėjaus iš Lukos vaidmenį ir jo „Analų“ pobūdį.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   temporaliniai_duomenys: 'įvykio data: 1327 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Ptolomėjaus iš Lukos vaidmenį ir jo „Analų“ pobūdį.'
@@ -80,7 +80,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60892
   teiginys: '1312 m. kovo 22 d. popiežius Klemensas V Vieno sinode pasmerkė tamplierių ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Klemensas V|Klemensas V]]'
   temporaliniai_duomenys: 'įvykio data: 1312 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
@@ -92,7 +92,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60893
   teiginys: '1314 m. kovo 1 d. prie Karpantra, kur buvo Romos kurija, pasirodė trys saulės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos įvykį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1314 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos įvykį.'
@@ -104,7 +104,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60894
   teiginys: '1228 m. Italijoje radosi gibelinų ir gvelfų partijos: Gibelinas rėmė imperatorių, o Gveltas bažnyčią.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir gramatiškai perteikia citatos informaciją apie gibelinus ir gvelfus.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/gibelinai|gibelinai]]; mentioned_object: [[objektai/zodynas/gvelfai|gvelfai]]; mentioned_place: Italija'
+  susije_objektai: 'mentioned_place: Italija'
   temporaliniai_duomenys: 'įvykio data: 1228 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai ir gramatiškai perteikia citatos informaciją apie gibelinus ir gvelfus.'
@@ -116,7 +116,6 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60895
   teiginys: 'Birželio 3 d. per pietus įvyko toks smarkus saulės užtemimas, kad buvo matyti žvaigždės.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, perteklinę atribuciją ir nėra suformuluotas kaip tvarkingas sakinys.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
   pagrindžia:
     - c-008
 
@@ -125,7 +124,7 @@ Dusburgietis teigia, kad tomo Akviniečio mokinys Ptolomėjus („Tolomėjus“,
   global_id: t-60896
   teiginys: 'Popiežius Inocentas III viešpatavo kartu su imperatoriais Otonu IV ir Fridrichu II.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų kontekstinį posakį „po ankstesnio laikotarpio“.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]; mentioned_person: [[objektai/asmenys/Otonas|Otonas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Inocentas III|Inocentas III]]'
   pagrindžia:
     - c-007
 

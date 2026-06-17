@@ -14,7 +14,6 @@ tags:
   - kunigaikštis
   - privilegija
   - upė
-  - vyskupas
 amziai:
   - 'XV'
 periodo_grupes:
@@ -33,7 +32,7 @@ periodo_grupes:
   global_id: t-87622
   teiginys: 'Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą faktą.'
-  susije_objektai: 'territory: Kaimas; territory: Krėva; territory: Vilnius; territory: Volkoviskas; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_place: Kaimas; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_place: Volkoviskas'
+  susije_objektai: 'territory: Kaimas; territory: Krėva; territory: Vilnius; territory: Volkoviskas; mentioned_place: Kaimas; mentioned_place: Krėva; mentioned_place: Vilnius; mentioned_place: Volkoviskas'
   semantiniai_rysiai: '[[objektai/asmenys/Andrius (Druško kunigaikštis)|Andrius (Druško kunigaikštis)]] valdė teritoriją Kaimas; [[objektai/asmenys/Andrius (Druško kunigaikštis)|Andrius (Druško kunigaikštis)]] valdė teritoriją Krėva; [[objektai/asmenys/Andrius (Druško kunigaikštis)|Andrius (Druško kunigaikštis)]] valdė teritoriją Vilnius; [[objektai/asmenys/Andrius (Druško kunigaikštis)|Andrius (Druško kunigaikštis)]] valdė teritoriją Volkoviskas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1411 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Andrius (Druško kunigaikštis) valdė teritoriją Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius (Druško kunigaikštis) valdė teritoriją Krėva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius (Druško kunigaikštis) valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius (Druško kunigaikštis) valdė teritoriją Volkoviskas“, o ne visam objekto laikotarpiui.'

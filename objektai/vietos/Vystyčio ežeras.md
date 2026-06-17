@@ -24,7 +24,7 @@ Iš čia ji tęsėsi vėl per dykrą tiesiai į Preivosto (Prawdzisken) šilus, 
   global_id: t-32704
   teiginys: 'Siena ėjo tiesia linija į Merūniškius ir Vystyčio ežerą, kuris liko Ordino pusėje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/dykra|dykra]]; mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 

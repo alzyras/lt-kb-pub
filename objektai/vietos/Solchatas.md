@@ -54,7 +54,7 @@ Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas. Solchatas l
   teiginys: 'Sirinų valdos buvo apie Krymo sostinę Solchatą, dar vadinamą Senuoju Krymu.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Sakinys aiškus, informatyvus ir paremtas citatos pastaba.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas'
   temporaliniai_duomenys: 'įvykio data: 1449 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, informatyvus ir paremtas citatos pastaba.'

@@ -27,7 +27,7 @@ amziai:
   global_id: t-77800
   teiginys: '„Sukilėlių“ sėkmė Lietuvoje atrodė kaip moralinė satisfakcija už prarastą Vilnių.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet perrašytas kaip aiškesnis vientisas sakinys be OCR lūžio.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1923 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys palaikomas, bet perrašytas kaip aiškesnis vientisas sakinys be OCR lūžio.'

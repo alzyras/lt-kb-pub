@@ -21,7 +21,7 @@ Partizanų pajėgos Tuo metu Žuvinto paliose ir Buktos (Žaliosios) miške jau 
   global_id: t-40883
   teiginys: 'Gedimino būrys veikė Žuvinto paliose ir Buktos, arba Žaliosios, miške.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Daukšiai; mentioned_place: Lietuva; mentioned_place: Žuvintas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Barkauskas|Barkauskas]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Daukšiai; mentioned_place: Lietuva; mentioned_place: Žuvintas'
   pagrindžia:
     - c-001
 

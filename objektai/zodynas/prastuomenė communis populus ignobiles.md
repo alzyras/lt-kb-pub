@@ -31,7 +31,7 @@ Vartojama socialinei ir luominei visuomenės sandarai nusakyti.
   global_id: t-56951
   teiginys: 'Prastuomenė Dusburgiečio kronikoje vadinama communis populus arba ignobiles.'
   sudarymo_pagrindimas: 'Citata aiškiai pateikia terminus, o pradinis teiginys nutrūkęs ir su OCR triukšmu.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]; mentioned_object: [[objektai/zodynas/vergai|vergai]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/prastuomenė|prastuomenė]]'
   pagrindžia:
     - c-001
 

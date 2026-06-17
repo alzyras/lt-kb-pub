@@ -23,7 +23,7 @@ Maksimilijonas dar bandė kariauti, bet karūnacinio seimo metu Silezijoj (ties 
   global_id: t-02392
   teiginys: 'Per karūnacinį seimą Maksimilijonas ties Byčina pralaimėjo mūšį, pateko į Zamoiskio nelaisvę ir turėjo atsisakyti sosto.'
   sudarymo_pagrindimas: 'Sakinys pataisytas į sklandžią enciklopedinę formą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Krokuva; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_place: Krokuva; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

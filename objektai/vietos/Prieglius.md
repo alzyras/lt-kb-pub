@@ -16,7 +16,6 @@ tags:
   - ordinas
   - pilis
   - upė
-  - vieta
 amziai:
   - 'XIII'
   - 'XIV'
@@ -34,7 +33,7 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   global_id: t-58368
   teiginys: 'Kalbinė riba tarp lietuvių ir prūsų Ordino atsikraustymo metu ėjo Priegliumi ir kitomis natūraliomis ribomis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Prieglių kaip kalbinės ribos dalį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Deimena; mentioned_place: Prūsai; mentioned_place: Vangrapė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Deimena; mentioned_place: Prūsai; mentioned_place: Vangrapė'
   pagrindžia:
     - c-002
 

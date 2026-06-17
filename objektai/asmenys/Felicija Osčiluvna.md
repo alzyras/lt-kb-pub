@@ -22,7 +22,7 @@ Kaip nuo seno įprasta, de­ šimtinę mokės šie parapijoje gyvenantys bajorai
   global_id: t-87668
   teiginys: 'Našlė Felicija Osčiluvna buvo tarp parapijoje gyvenusių bajorų, privalėjusių bažnyčiai mokėti dešimtinę.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Feliciją Osčiluvną kaip našlę ir dešimtinę mokančią parapijos bajorę.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_person: [[objektai/asmenys/Stanislovas|Stanislovas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]'
   pagrindžia:
     - c-001
 

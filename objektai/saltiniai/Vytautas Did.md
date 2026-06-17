@@ -21,7 +21,7 @@ tags:
   global_id: t-31973
   teiginys: 'Z. Ivinskio straipsnis „Vytautas Did.“ paskelbtas Lietuvių enciklopedijos 34 tome, p. 376-379.'
   sudarymo_pagrindimas: 'Citata pateikia autorių, straipsnio pavadinimą, leidinį, tomą ir puslapius.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Z. Ivinskis|Z. Ivinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

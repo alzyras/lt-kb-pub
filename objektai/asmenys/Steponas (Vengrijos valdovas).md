@@ -14,7 +14,6 @@ tags:
   - karalius
   - krikštas
   - kunigaikštis
-  - valdovas
 amziai:
   - 'X'
 periodo_grupes:
@@ -33,7 +32,7 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   global_id: t-19264
   teiginys: 'Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.'
   sudarymo_pagrindimas: 'Citata tiksliau remia formuluotę apie aukštesnį statusą nei Didysis.'
-  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Vengrija; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Vengrija; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
   semantiniai_rysiai: '[[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Europa; [[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Lietuva; [[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-002
@@ -43,7 +42,7 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   global_id: t-19265
   teiginys: 'Šv. Steponas, pirmasis tikras krikščionis Vengrijos soste, buvo karūnuotas 1000 m.'
   sudarymo_pagrindimas: 'Reikia glaustesnės enciklopedinės formos ir datos santrumpos.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_object: [[objektai/zodynas/apsikarūnavimas|apsikarūnavimas]]; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vengrija; mentioned_place: Švedija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vengrija; mentioned_place: Švedija'
   temporaliniai_duomenys: 'įvykio data: 1000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia glaustesnės enciklopedinės formos ir datos santrumpos.'

@@ -29,7 +29,6 @@ Be to, Lebedis mokėjo skolas lietuviškomis monetomis, pridėjau 69 flor., 4 gr
   global_id: t-87541
   teiginys: 'Gruodžio 1 d. Lebedis Varšuvoje, būdamas mokesčių rinkėjas, prie lietuviškų monetų pridėjo 3 florinus ir 19 grašių.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo fragmentiškas; citata leidžia atkurti pilną faktinį sakinį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/florinai|florinai]]'
   pagrindžia:
     - c-001
 

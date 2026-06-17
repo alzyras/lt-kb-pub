@@ -41,7 +41,7 @@ Nenurodyta
 - t-001
   global_id: t-64956
   teiginys: 'Palei Lietuvos sieną Rytprūsiuose rasti kauliniai dirbiniai, įskaitant kaulinius ietgalius, priskiriami paleolito kultūrai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Lietuva; mentioned_place: Rytprūsiai'
   temporaliniai_duomenys: 'įvykio data: 000 m'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-64958
   teiginys: 'Mezolito stovyklavietėse Lietuvoje aptikta daug titnaginių ir kalninių įrankių.'
   sudarymo_pagrindimas: 'Teiginys yra savarankiškas, gramatiškas ir paremtas citata apie mezolito radinius.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kailiai|Kailiai]]; mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Vysla'
+  susije_objektai: 'mentioned_place: Alytus; mentioned_place: Lietuva; mentioned_place: Vysla'
   pagrindžia:
     - c-002
 

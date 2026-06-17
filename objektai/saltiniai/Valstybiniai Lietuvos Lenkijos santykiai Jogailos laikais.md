@@ -28,7 +28,7 @@ amziai:
   global_id: t-31960
   teiginys: 'A. Šapokos „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdintas rinkinyje „Jogaila“ 1935 m., p. 185-266.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra fragmentas, o citata palaiko pilną bibliografinį sakinį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra fragmentas, o citata palaiko pilną bibliografinį sakinį.'
@@ -39,7 +39,7 @@ amziai:
 - t-002
   global_id: t-31961
   teiginys: 'Adolfo Šapokos studija „Valstybiniai Lietuvos Lenkijos santykiai Jogailos laikais“ išspausdinta 1935 m. Kaune išleistame rinkinyje „Jogaila“, p. 187-266.'
-  susije_objektai: 'mentioned_object: [[objektai/autoriai/A. Šapoka|A. Šapoka]]; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1935 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

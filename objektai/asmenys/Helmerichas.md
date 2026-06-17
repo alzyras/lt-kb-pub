@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   global_id: t-89794
   teiginys: 'Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Kulmenzė; location: Prūsija; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  susije_objektai: 'location: Kulmenzė; location: Prūsija; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   semantiniai_rysiai: '[[objektai/asmenys/Helmerichas|Helmerichas]] mirė Kulmenzė; [[objektai/asmenys/Helmerichas|Helmerichas]] mirė Prūsija'
   pagrindžia:
     - c-001
@@ -50,11 +50,10 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   global_id: t-89796
   teiginys: 'Lubavos žemėje prūsai nukovė magistrą Helmerichą, maršalą Ditrichą, keturiasdešimt brolių ir išžudė krikščionių kariuomenę.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo nutrūkęs, o citata remia išbaigtą faktą apie Helmericho žūtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_place: Kulmas; mentioned_place: Lubava; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89686|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.
-- susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89687|Ditrichas (Prūsijos žemės maršalas)]]: Brolis Ditrichas buvo Prūsijos žemės maršalas tuo metu, kai Helmerichas vadovavo Prūsijos žemei.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89688|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175192|Herkus Mantas]]: Herkus Mantas, notangų vadas, su stipria kariuomene įsibrovė į Kulmo žemę ir privertė magistrą Helmerichą jį vytis iki Lubavos žemės.
 - susijęs iš Sembos kanauninko kronika: Sembos kanauninko kronikoje nurodoma, kad mūšis įvyko 1263 m.

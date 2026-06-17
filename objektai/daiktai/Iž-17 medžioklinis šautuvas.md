@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-39253
   teiginys: 'Iž-17 buvo SSRS gamybos lygiavamzdis 16 kalibro medžioklinis šautuvas, naudotas 1991 m. Aukščiausiosios Tarybos rūmuose budėjusių savanorių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje pateiktu aprašymu.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_place: Aukščiausiosios Tarybos rūmai; mentioned_place: SSRS'
   temporaliniai_duomenys: 'įvykio data: 1991 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citatoje pateiktu aprašymu.'

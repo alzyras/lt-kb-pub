@@ -23,7 +23,7 @@ Pirmiausia norime, kad minėta Pabaisko parapija turėtų buvusias ribas, kurios
   global_id: t-86275
   teiginys: 'Kertušos upė tekėjo per Šešuolės mišką iki Šesarkos upės.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie Kertušos upės tekėjimą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudai|Antspaudai]]; mentioned_place: Kertuša; mentioned_place: Šesarka; mentioned_place: Šešulka; mentioned_place: Šešuolė; mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 

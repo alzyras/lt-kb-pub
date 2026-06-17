@@ -30,7 +30,7 @@ amziai:
 - t-001
   global_id: t-41082
   teiginys: '1946 m. buvo visiškai sunaikinta Daugų MVD įgula.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_place: Daugai; mentioned_place: Kaimas'
+  susije_objektai: 'mentioned_place: Daugai; mentioned_place: Kaimas'
   temporaliniai_duomenys: 'įvykio data: 1946 m.; įvykio data: 1948 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

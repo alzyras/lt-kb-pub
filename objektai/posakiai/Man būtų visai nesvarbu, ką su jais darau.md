@@ -21,7 +21,7 @@ Dusburgietis teigia, kad klausiamas, dėl ko esąs ant jų taip įtūžęs, atsa
   global_id: t-59126
   teiginys: 'Brolis Ulrichas aiškino savo įtūžį prieš sūduvius noru būti jų sužeistam penkiomis žaizdomis kaip Kristus.'
   sudarymo_pagrindimas: 'Citata remia geresnį sakinį su aiškiu veikėju ir kontekstu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-001
 

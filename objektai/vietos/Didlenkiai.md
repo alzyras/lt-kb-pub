@@ -33,7 +33,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   teiginio_tipas: 'faktas'
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/savarankiškumas|savarankiškumas]]; mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Mažlenkiai'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Liublinas; mentioned_place: Mažlenkiai'
   pagrindžia:
     - c-002
 - susijęs iš Didžioji Lenkija: Sudarant Liublino uniją, Didžioji Lenkija ir Mažoji Lenkija turėjo atskirus atstovų suvažiavimus, vadintus generaliniais seimeliais.

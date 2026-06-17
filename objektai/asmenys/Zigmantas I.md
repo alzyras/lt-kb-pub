@@ -35,7 +35,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   global_id: t-114074
   teiginys: 'Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nukreiptas į Joną II, todėl sutrumpintas iki fakto apie Zigmantą I.'
-  susije_objektai: 'territory: Lietuva; territory: Nesvyžius; territory: Olyka; territory: Poznanė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vaitiekus (Lucko vyskupas)|Vaitiekus (Lucko vyskupas)]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lietuva; territory: Nesvyžius; territory: Olyka; territory: Poznanė; territory: Vilnius; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
   semantiniai_rysiai: '[[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Lietuva; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Nesvyžius; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Olyka; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Poznanė; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1519 m.; valdymo laikotarpis: 1536 m.; valdymo laikotarpis: 1538 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigmantas I buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Olyka“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Poznanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
@@ -47,7 +47,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - t-002
   global_id: t-114075
   teiginys: '1429 m. sausio 9–29 d. Lucko suvažiavime Zigmantas I susitiko su Vytautu ir Jogaila aptarti Vidurio ir Rytų Europos politikos.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
@@ -57,7 +57,7 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
 - t-003
   global_id: t-114076
   teiginys: 'Zigmantas I rėmė Vytauto vainikavimo planą, kuriuo siekta regione sukurti atsvarą Lenkijai.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/hegemonija|hegemonija]]; mentioned_place: Bizantija; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Tverė; mentioned_place: Vengrija'
   temporaliniai_duomenys: 'įvykio data: 1429 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

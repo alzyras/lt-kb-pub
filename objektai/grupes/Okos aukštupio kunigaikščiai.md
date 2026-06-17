@@ -23,7 +23,7 @@ Per metų metus rytų reikalai jam vyrauja; jis taikosi ir su vakarų kaimynais,
   global_id: t-34361
   teiginys: 'Vytautas siekė Okos aukštupio kunigaikščius paimti savo valdžion arba turėti jiems didelę įtaką.'
   sudarymo_pagrindimas: 'Pirminis sakinys per ilgas ir sąrašinis, o citata palaiko konkretesnį faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-001
 

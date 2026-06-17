@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-186786
   teiginys: 'Redakcinė pastaba nurodo, kad Aleksandras ir dalis Ponų Tarybos narių Melnike 1501.X.23-30 patvirtino naują Lenkijos ir Lietuvos unijos aktą.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,7 @@ Nenurodyta
   teiginys: 'Aleksandro patvirtintas Melniko unijos aktas nebuvo įgyvendintas, nes Lietuvos didikai vėliau atsisakė jį ratifikuoti.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinė formuluotė remiasi redakcine pastaba; galima tiesiogiai suformuluoti faktą apie aktą.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 
@@ -69,7 +69,7 @@ Nenurodyta
   teiginys: 'Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistas delegacijos veiksmas ir kontekstas, o sąlygos formulavimas paliktas kaip redakcinės pastabos informacija. Nepridėta vėlesnio ratifikavimo atmetimo ar Aleksandro motyvų.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Melnikas; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
+  susije_objektai: 'location: Lenkija; location: Lietuva; location: Melnikas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 

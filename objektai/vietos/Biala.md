@@ -29,7 +29,7 @@ III Brastos apygardoje tų pat mokyklų buvo Pinske, Bialoje, Dombrovicoje, Liub
 - t-001
   global_id: t-67720
   teiginys: '1355 m. jo garnizonai įsikūrė Rževe ir Bialoje.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_place: Mstislavlis; mentioned_place: Rževas; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_place: Mstislavlis; mentioned_place: Rževas; mentioned_place: Smolenskas'
   temporaliniai_duomenys: 'įvykio data: 1355 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

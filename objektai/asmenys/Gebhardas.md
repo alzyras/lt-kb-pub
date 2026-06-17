@@ -32,7 +32,7 @@ Dusburgietis teigia, kad siame mūšyje brolis Gebhardas, kilęs iš Saksonijos,
   global_id: t-60283
   teiginys: 'Brolis Gebhardas iš Saksonijos mūšyje persekiojo bėgančius prūsus ir vienam jų kalaviju nukirto galvą.'
   sudarymo_pagrindimas: 'Teiginys yra užbaigtas faktinis sakinys apie Gebhardą ir atitinka citatą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Prūsai; mentioned_place: Saksonija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_place: Prūsai; mentioned_place: Saksonija'
   temporaliniai_duomenys: 'įvykio data: 1243 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra užbaigtas faktinis sakinys apie Gebhardą ir atitinka citatą.'

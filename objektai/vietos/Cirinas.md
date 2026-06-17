@@ -22,7 +22,7 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
   teiginys: 'LDK kariuomenė žygiuodama į Klecką paliko Ciriną po dešinei.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Cirino padėtį LDK kariuomenės žygio atžvilgiu.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nesvyžius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Kaimas; mentioned_place: Nesvyžius'
   pagrindžia:
     - c-001
 
@@ -32,7 +32,7 @@ Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino. LDK kariu
   teiginys: 'Cirinas yra kaimas prie Servečio upės, 5 km į pietus nuo Ostašino.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Cirino vietą prie Servečio upės ir atstumą nuo Ostašino. Nepridėta informacijos apie LDK kariuomenės žygį.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Kaimas; mentioned_place: Nesvyžius'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Nesvyžius'
   pagrindžia:
     - c-001
 - susijęs iš Polonka: 1971 m. leidimo paaiškinime Polonka, dabar Polonečka, nurodoma kaip kaimas prie Dviejos upės.

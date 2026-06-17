@@ -29,10 +29,9 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
   global_id: t-01116
   teiginys: 'Mikšas Tilžėje įsteigė spaustuvę, kurioje vėliau buvo spausdinama „Aušra“.'
   sudarymo_pagrindimas: 'Reikia subalansuoti kabutes ir aiškiau susieti faktą su Mikšu.'
-  susije_objektai: 'object: Bulgarija; object: Lietuva; object: Tilžė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bulgarija; mentioned_place: Lietuva; mentioned_place: Tilžė'
-  semantiniai_rysiai: '[[objektai/autoriai/Mikšas|Mikšas]] pastatė Bulgarija; [[objektai/autoriai/Mikšas|Mikšas]] pastatė Lietuva; [[objektai/autoriai/Mikšas|Mikšas]] pastatė Tilžė'
-  temporaliniai_duomenys: 'pastatymo data: 1905 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mikšas pastatė Bulgarija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mikšas pastatė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mikšas pastatė Tilžė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Bulgarija; mentioned_place: Lietuva; mentioned_place: Tilžė'
+  temporaliniai_duomenys: 'įkūrimo data: 1905 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia subalansuoti kabutes ir aiškiau susieti faktą su Mikšu.'
   pagrindžia:
     - c-001
@@ -61,8 +60,3 @@ Lietuvos veikėjas Mikšas, paskui dr. J. „Aušra" iš pradžių buvo spausdin
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Mikšas pastate [[objektai/vietos/Bulgarija]]
-- Mikšas pastate [[objektai/vietos/Lietuva]]
-- Mikšas pastate [[objektai/vietos/Tilžė]]

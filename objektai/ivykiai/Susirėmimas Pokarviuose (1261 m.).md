@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-59249
   teiginys: 'Sausio 22 d. notangai sutelkė jėgas ir Pokarviuose užpuolė ten likusią brolių bei maldininkų kariuomenės dalį.'
   sudarymo_pagrindimas: 'Citata palaiko įvykio faktą, bet pradinis teiginys yra nutrūkęs fragmentas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Viena'
   pagrindžia:
     - c-003
 

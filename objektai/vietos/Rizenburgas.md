@@ -61,7 +61,6 @@ Dusburgietis teigia, kad apie Rizenburgo pilies bei miesto pastatymą Tais metai
     - t-001
 
 ## Ryšiai
-- [[objektai/autoriai/Henrikas]] keliavo_i Rizenburgas
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Rizenburgas
 - [[objektai/asmenys/Odoničius]] keliavo_i Rizenburgas
 - [[objektai/asmenys/Samboras]] keliavo_i Rizenburgas

@@ -51,7 +51,7 @@ Nenurodyta
   teiginys: 'Per abu Vytauto karus su Pskovu Didysis Naugardas laikėsi neutraliteto.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas kaip tiesioginis faktinis teiginys apie karų kontekstą. Nepridėta belaisvių išpirkos ir neperkelta redakcinė interpretacija apie BK pasakojimą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/neutralitetas|neutralitetas]]; mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Pskovas'
+  susije_objektai: 'mentioned_place: Didysis Naugardas; mentioned_place: Naugardas; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 

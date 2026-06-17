@@ -22,7 +22,7 @@ Sukūrusi laisvą demokratinę visuomenę ir rinkos ekonomiką Lietuva tapo prik
   global_id: t-22022
   teiginys: 'Sukūrusi rinkos ekonomiką Lietuva tapo jautresnė pasaulinėms ir regioninėms ekonomikos krizėms bei globalizacijos poveikiui.'
   sudarymo_pagrindimas: 'Pradinė formuluotė per ilga ir nutrūkusi.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/Miera|Miera]]; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

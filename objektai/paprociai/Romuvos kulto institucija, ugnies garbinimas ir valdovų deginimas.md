@@ -49,7 +49,7 @@ Nenurodyta
 - t-001
   global_id: t-54334
   teiginys: 'Romuvoje pagrindinis kulto objektas buvo ugnis.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_object: [[objektai/zodynas/amfiktionija|amfiktionija]]; mentioned_place: Lietuva; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Aukuras|Aukuras]]; mentioned_place: Lietuva; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 

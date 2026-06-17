@@ -22,7 +22,7 @@ Pasiunčia ir Vytautui perspėjantį laišką, kad jis nenutrauktų unijos ir ni
 - t-001
   global_id: t-36100
   teiginys: 'Vytautas perspėtas nenutraukti unijos ir nieko nedaryti nepasitarus su popiežiumi.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kulmija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kulmija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie Sicilijos karalystės dovanojimą Karoliui 1263 vi
   global_id: t-60040
   teiginys: '1265 m. popiežius Klemensas IV apvainikavo Karolį Sicilijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Klemensas IV|Klemensas IV]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Klemensas IV|Klemensas IV]]'
   temporaliniai_duomenys: 'įvykio data: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys, tiesiogiai paremtas citata.'

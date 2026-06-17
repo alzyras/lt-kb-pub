@@ -32,7 +32,7 @@ Didelį palankumą reikšdami primename ir patariame jums, kad tos sutarties, ka
   global_id: t-88254
   teiginys: 'Žinios apie Gedimino laišką popiežiui buvo paimtos iš Jono XXII bulės nuorašo Slaptajame archyve.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra triukšmingas fragmentas, bet citatos pastaba pagrindžia konkretų šaltinio faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/nuorašas|nuorašas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]'
   pagrindžia:
     - c-001
 

@@ -32,7 +32,7 @@ Eustachijaus Tiškevičiaus inicia­ tyva buvo įkurtas Vilniaus Senienų muziej
   global_id: t-87665
   teiginys: 'Eustachijaus Tiškevičiaus iniciatyva buvo įkurtas Vilniaus Senienų muziejus, sutelkęs krašto visuomenę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Tiškevičiaus iniciatyvą ir muziejaus reikšmę.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_object: [[objektai/zodynas/Baudžiava|Baudžiava]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_person: [[objektai/asmenys/Eustachijus (raštininkas)|Eustachijus (raštininkas)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus Senienų muziejus|Vilniaus Senienų muziejus]]; mentioned_person: [[objektai/asmenys/Aleksandras II|Aleksandras II]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1857-1858; įvykio data: 1858 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Tiškevičiaus iniciatyvą ir muziejaus reikšmę.'

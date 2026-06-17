@@ -22,7 +22,7 @@ Iš iki tol nepaliestų Lovičiaus apygardų buvo išgabentas didžiulis grobis,
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citata ir yra pilnas faktinis sakinys apie Lovičiaus apygardas.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184517|Lenkai]]: Lenkams įkyrėjo dažnai pasikartojančios nelaimės, o suskilusi Lenkų karalystė sunkiai susitardavo dėl gynybos.

@@ -10,7 +10,6 @@ tags:
   - mūšis
   - ordinas
   - popiežius
-  - tikėjimas
 ---
 # Hartmanas iš Grumbacho
 

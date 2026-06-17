@@ -34,7 +34,7 @@ amziai:
   global_id: t-182798
   teiginys: 'Pranciškus Malevskis iš senosios Lietuvos Metrikos Balinskio medžiagai parūpino gausių išrašų apie Vilnių.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo Pranciškaus Malevskio veiksmą ir jo ryšį su Lietuvos Metrika.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/senatas|senatas]]; mentioned_person: [[objektai/asmenys/Adomas (auksakalys)|Adomas (auksakalys)]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Pranciškus|Pranciškus]]; mentioned_person: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Pranciškus Malevskis|Pranciškus Malevskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -43,7 +43,7 @@ amziai:
   global_id: t-182800
   teiginys: '1524 m. Lietuvos Metrika patvirtina karaliaus priekaištus Vilniaus magistratui dėl nesutarimų su bendruomene.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų, pilną teiginį apie Metrikos liudijamą faktą.'
-  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1524 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia konkretų, pilną teiginį apie Metrikos liudijamą faktą.'
@@ -55,7 +55,7 @@ amziai:
   global_id: t-182801
   teiginys: 'Vilniaus monetų kalykla, prižiūrima Ulriko Hozijaus, teikė nemaža pajamų karaliaus iždui.'
   sudarymo_pagrindimas: 'Perrašyta į glaustesnį faktinį sakinį, pašalinant perteklinę nuorodą į ataskaitą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -31,7 +31,7 @@ Urbanavičius domėjosi degintiniais kapais ir laidosena Lietuvoje XIV a.^100. U
   global_id: t-31050
   teiginys: 'V. Urbanavičius tyrinėjo degintinius kapus ir XIV a. laidoseną Lietuvoje.'
   sudarymo_pagrindimas: 'Teiginys pataisytas į gramatišką sakinį apie autoriaus tyrimų sritį.'
-  susije_objektai: 'mentioned_person: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/R. Kulikauskienė|R. Kulikauskienė]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

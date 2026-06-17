@@ -32,7 +32,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   global_id: t-60065
   teiginys: 'Sarkis buvo galingas skalvių vyras ir Sarkų pilies pilininkas Lietuvos žemės pasienyje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir perteikia citatoje nurodytą Sarkio padėtį.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_object: [[objektai/zodynas/Adynos|Adynos]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Skalva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_object: [[objektai/zodynas/Pilininkas|Pilininkas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Skalva'
   pagrindžia:
     - c-002
 
@@ -41,7 +41,7 @@ Dusburgietis teigia, kad apie tai, kaip norėta išduoti brolius Gyveno vienas g
   global_id: t-60066
   teiginys: 'Sarkis pasiuntė žygūnus pas Klaipėdos komtūrą, prašydamas jį su namais ir šeimyna išvesti krikštytis.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti trumpą sakinį apie Sarkio pasiuntinius ir prašymą.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_object: [[objektai/zodynas/žygūnai|žygūnai]]; mentioned_place: Karšuva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Karšuva; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/daiktai/Pančiai.md#claim-t-59698|Pančiai]]: Sarkis pirmąją nelaisvės naktį sutraukė pančius, kuriais buvo pririštas prie medžio.
