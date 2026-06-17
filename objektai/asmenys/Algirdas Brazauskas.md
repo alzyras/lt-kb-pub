@@ -15,7 +15,6 @@ tags:
   - elekcija
   - popiežius
   - seimas
-  - sutartis
 amziai:
   - 'XX'
   - 'XXI'
@@ -35,7 +34,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   global_id: t-75681
   teiginys: '1994 m. sausį Algirdas Brazauskas nusiuntė NATO generaliniam sekretoriui Manfredui Verneriui laišką dėl Lietuvos noro tapti NATO nare.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Brazausko laišką NATO vadovui.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_object: [[objektai/zodynas/Senieji mėnesių vardai ir devintinės|Senieji mėnesių vardai ir devintinės]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Manfredas|Manfredas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_object: [[objektai/posakiai/Taikos labui|Taikos labui]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1994 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Brazausko laišką NATO vadovui.'
@@ -47,7 +46,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   global_id: t-75682
   teiginys: 'Spalio 21 d. Algirdas Brazauskas tapo LKP CK pirmuoju sekretoriumi ir įgijo didelį visuomenės pasitikėjimą.'
   sudarymo_pagrindimas: 'Teiginys turi aiškų subjektą, veiksmą ir citatoje patvirtintą rezultatą.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,7 +55,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   global_id: t-75683
   teiginys: 'Pirmojo Jono Pauliaus II vizito į Lietuvą metu popiežių lydėjo prezidentas Algirdas Brazauskas ir arkivyskupas Audrys Juozas Bačkis.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai remiasi pateikta citata.'
-  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_person: [[objektai/asmenys/Audrys Juozas Bačkis|Audrys Juozas Bačkis]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1991 m.; įvykio data: 1993 m.; įvykio data: 2004 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiesiogiai remiasi pateikta citata.'
@@ -68,7 +67,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   global_id: t-75684
   teiginys: '2003 m. Atėnuose Algirdas Brazauskas pasirašė Lietuvos stojimo į Europos Sąjungą sutartį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Brazausko veiksmą Atėnuose 2003 m.'
-  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Antanas (vaistininkas)|Antanas (vaistininkas)]]; mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Antanas Valionis|Antanas Valionis]]; mentioned_place: Atėnai; mentioned_place: Briuselis; mentioned_place: Europa; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 2003 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Brazausko veiksmą Atėnuose 2003 m.'
@@ -80,7 +79,7 @@ Spalio 21 dieną LKP CK pirmuoju sekretoriumi tapo Algirdas Brazauskas, įgijęs
   global_id: t-75685
   teiginys: 'Per 1992 m. Seimo rinkimus Algirdo Brazausko vadovaujama LDDP gavo daugumą.'
   sudarymo_pagrindimas: 'Teiginys yra glaustas faktinis sakinys apie Brazausko vadovaujamą LDDP.'
-  susije_objektai: 'mentioned_object: [[objektai/zodynas/seimas|seimas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   temporaliniai_duomenys: 'įvykio data: 1992 m.; įvykio data: 1998 m.; įvykio data: po 2000 m.; įvykio data: 2000 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra glaustas faktinis sakinys apie Brazausko vadovaujamą LDDP.'
