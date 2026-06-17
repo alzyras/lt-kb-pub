@@ -1,5 +1,7 @@
 import { QuartzTransformerPlugin } from "../types"
 import { normalizeCitationSourceId } from "../../util/citationFilter"
+import { BuildCtx } from "../../util/ctx"
+import { FullSlug, simplifySlug, slugTag } from "../../util/path"
 
 const TARGET_SECTIONS = new Set([
   "Teiginiai",
@@ -32,6 +34,8 @@ interface EvidenceEntry {
   fields: Map<string, string>
   lists: Map<string, string[]>
 }
+
+type SlugResolveIndex = Map<string, FullSlug | null>
 
 function escapeHtml(text: string): string {
   return text
@@ -92,6 +96,108 @@ function markdownText(text: string): string {
 
 function advancedCell(text: string): string {
   return escapeHtml(text).replace(/\r?\n/g, "<br>")
+}
+
+function normalizeLabelKey(label: string): string {
+  return slugTag(markdownText(label)).toLowerCase()
+}
+
+function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
+  const index: SlugResolveIndex = new Map()
+  for (const rawSlug of (ctx.allSlugs ?? []) as FullSlug[]) {
+    const basename = simplifySlug(rawSlug).split("/").filter(Boolean).at(-1)
+    if (!basename) {
+      continue
+    }
+    const key = normalizeLabelKey(basename)
+    if (!key) {
+      continue
+    }
+    const existing = index.get(key)
+    if (existing === undefined) {
+      index.set(key, rawSlug)
+    } else if (existing !== rawSlug) {
+      index.set(key, null)
+    }
+  }
+  return index
+}
+
+function resolveCanonicalSlug(label: string, resolveIndex: SlugResolveIndex): FullSlug | null {
+  const key = normalizeLabelKey(label)
+  if (!key) {
+    return null
+  }
+  return resolveIndex.get(key) ?? null
+}
+
+function internalLinkHtml(href: string, label: string): string {
+  return `<a href="${escapeHtml(href)}">${escapeHtml(markdownText(label))}</a>`
+}
+
+function renderWikilinkHtml(
+  rawTarget: string,
+  rawAnchor: string | undefined,
+  rawAlias: string | undefined,
+): string {
+  const target = rawTarget.trim()
+  const anchor = rawAnchor?.trim() ?? ""
+  const alias = rawAlias?.trim() || target.split("/").filter(Boolean).at(-1) || target
+  return internalLinkHtml(`${target}${anchor}`, alias)
+}
+
+function renderResolvableToken(token: string, resolveIndex: SlugResolveIndex): string {
+  const match = token.match(/^(\s*)(.*?)(\s*)$/s)
+  const leading = match?.[1] ?? ""
+  const core = match?.[2] ?? token
+  const trailing = match?.[3] ?? ""
+  const resolved = resolveCanonicalSlug(core, resolveIndex)
+  if (!resolved) {
+    return `${escapeHtml(leading)}${escapeHtml(core)}${escapeHtml(trailing)}`
+  }
+  return `${escapeHtml(leading)}${internalLinkHtml(resolved, core)}${escapeHtml(trailing)}`
+}
+
+function renderPlainAdvancedChunk(text: string, resolveIndex: SlugResolveIndex): string {
+  return text
+    .split(/\r?\n/)
+    .map((line) =>
+      line
+        .split(/(;\s*)/)
+        .map((segment, segmentIndex) => {
+          if (segmentIndex % 2 === 1) {
+            return escapeHtml(segment)
+          }
+          const colon = segment.indexOf(":")
+          if (colon >= 0) {
+            const prefix = segment.slice(0, colon + 1)
+            const suffix = segment.slice(colon + 1)
+            return `${escapeHtml(prefix)}${suffix
+              .split(/(,\s*)/)
+              .map((part, partIndex) =>
+                partIndex % 2 === 1 ? escapeHtml(part) : renderResolvableToken(part, resolveIndex),
+              )
+              .join("")}`
+          }
+          return renderResolvableToken(segment, resolveIndex)
+        })
+        .join(""),
+    )
+    .join("<br>")
+}
+
+function renderLinkifiedAdvancedCell(text: string, resolveIndex: SlugResolveIndex): string {
+  const wikilinkRegex = /\[\[([^\]|#]+)(#[^\]|]+)?(?:\|([^\]]+))?\]\]/g
+  let out = ""
+  let lastIndex = 0
+  for (const match of text.matchAll(wikilinkRegex)) {
+    const start = match.index ?? 0
+    out += renderPlainAdvancedChunk(text.slice(lastIndex, start), resolveIndex)
+    out += renderWikilinkHtml(match[1], match[2], match[3])
+    lastIndex = start + match[0].length
+  }
+  out += renderPlainAdvancedChunk(text.slice(lastIndex), resolveIndex)
+  return out
 }
 
 function lineIndent(line: string): number {
@@ -288,7 +394,10 @@ function splitClaimAndContext(entry: EvidenceEntry): { claim: string; context: s
   return { claim: match[1].trim(), context: match[2].trim() }
 }
 
-function renderClaimsSection(sectionLines: string[]): string[] | null {
+function renderClaimsSection(
+  sectionLines: string[],
+  resolveIndex: SlugResolveIndex,
+): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("t-"))
   if (entries.length === 0) {
     return null
@@ -308,7 +417,7 @@ function renderClaimsSection(sectionLines: string[]): string[] | null {
     const globalAttrs = globalId ? ` data-global-claim-id="${escapeHtml(globalId)}"` : ""
     const anchorAttr = anchorId ? ` id="${escapeHtml(anchorId)}"` : ""
     const claimPill = claimDeeplinkPill(entry.id, anchorId)
-    const advanced = claimAdvancedRows(entry)
+    const advanced = claimAdvancedRows(entry, resolveIndex)
     const claimCell =
       advanced.length > 0
         ? `${claimPill} ${markdownCell(claim)}<table class="advanced-evidence-line advanced-evidence-table" data-adv-key="claim_technical_fields"><tbody>${advanced.join("")}</tbody></table>`
@@ -335,7 +444,7 @@ function quoteLines(text: string): string[] {
   return cleaned.split(/\r?\n/).map((line) => `> ${line.trim()}`)
 }
 
-function claimAdvancedRows(entry: EvidenceEntry): string[] {
+function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex): string[] {
   const rows: string[] = []
   const globalId = entry.fields.get("global_id")
   if (globalId) {
@@ -359,13 +468,21 @@ function claimAdvancedRows(entry: EvidenceEntry): string[] {
   ]) {
     const value = entry.fields.get(key)
     if (value) {
-      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${advancedCell(value)}</td></tr>`)
+      const rendered =
+        key === "susije_objektai" || key === "semantiniai_rysiai" || key === "temporaliniai_duomenys"
+          ? renderLinkifiedAdvancedCell(value, resolveIndex)
+          : advancedCell(value)
+      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${rendered}</td></tr>`)
     }
   }
   return rows
 }
 
-function advancedRows(entry: EvidenceEntry, displayedQuote: string): string[] {
+function advancedRows(
+  entry: EvidenceEntry,
+  displayedQuote: string,
+  resolveIndex: SlugResolveIndex,
+): string[] {
   const rows: string[] = []
   const original = entry.fields.get(QUOTE_ORIGINAL_KEY) ?? ""
   if (original && original.trim() !== displayedQuote.trim()) {
@@ -389,13 +506,20 @@ function advancedRows(entry: EvidenceEntry, displayedQuote: string): string[] {
   ]) {
     const value = entry.fields.get(key)
     if (value) {
-      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${escapeHtml(markdownText(value))}</td></tr>`)
+      const rendered =
+        key === "susije_objektai" || key === "semantiniai_rysiai" || key === "temporaliniai_duomenys"
+          ? renderLinkifiedAdvancedCell(value, resolveIndex)
+          : escapeHtml(markdownText(value))
+      rows.push(`<tr><th>${escapeHtml(key)}</th><td>${rendered}</td></tr>`)
     }
   }
   return rows
 }
 
-function renderMentionsSection(sectionLines: string[]): string[] | null {
+function renderMentionsSection(
+  sectionLines: string[],
+  resolveIndex: SlugResolveIndex,
+): string[] | null {
   const entries = parseEntries(sectionLines).filter((entry) => entry.id.startsWith("c-"))
   if (entries.length === 0) {
     return null
@@ -427,7 +551,7 @@ function renderMentionsSection(sectionLines: string[]): string[] | null {
       out.push("", ...renderedQuote)
     }
 
-    const rows = advancedRows(entry, quote)
+    const rows = advancedRows(entry, quote, resolveIndex)
     if (rows.length > 0) {
       out.push(
         "",
@@ -444,16 +568,20 @@ function renderMentionsSection(sectionLines: string[]): string[] | null {
   return out
 }
 
-function renderStructuredSection(title: string, sectionLines: string[]): string[] | null {
+function renderStructuredSection(
+  title: string,
+  sectionLines: string[],
+  resolveIndex: SlugResolveIndex,
+): string[] | null {
   if (title === "Teiginiai") {
-    return renderClaimsSection(sectionLines)
+    return renderClaimsSection(sectionLines, resolveIndex)
   }
   if (
     title === "Reikšmingi paminėjimai" ||
     title === "Šaltiniai ir įrodymai" ||
     title === "Bibliografiniai įrodymai"
   ) {
-    return renderMentionsSection(sectionLines)
+    return renderMentionsSection(sectionLines, resolveIndex)
   }
   return null
 }
@@ -534,7 +662,8 @@ function transformFallbackLines(lines: string[]): string[] {
 
 export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
   name: "AdvancedEvidence",
-  textTransform(_ctx, src) {
+  textTransform(ctx, src) {
+    const resolveIndex = buildSlugResolveIndex(ctx)
     const lines = src.replace(/^((?:---\n[\s\S]*?\n---\n)?\s*)#\s+.+(?:\n|$)/, "$1").split("\n")
     const out: string[] = []
 
@@ -554,7 +683,7 @@ export const AdvancedEvidence: QuartzTransformerPlugin = () => ({
       }
 
       const sectionLines = lines.slice(start, end)
-      const structured = renderStructuredSection(title, sectionLines)
+      const structured = renderStructuredSection(title, sectionLines, resolveIndex)
       out.push(line)
       out.push(...(structured ?? transformFallbackLines(sectionLines)))
       idx = end - 1
