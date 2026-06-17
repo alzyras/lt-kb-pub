@@ -128,9 +128,9 @@ Nenurodyta
   global_id: t-93041
   teiginys: '1387 m. Jogaila atvyko į Vilnių krikštyti lietuvių.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'location: Krokuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Germanai|Germanai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Altorius|Altorius]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Viena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra trumpas, pilnas faktinis sakinys ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-003

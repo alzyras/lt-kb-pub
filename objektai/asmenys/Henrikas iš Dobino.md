@@ -100,6 +100,3 @@ Dusburgietis teigia, kad beveik 14 dienų žygiavęs per šią žemę nuo vieno 
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-- Henrikas iš Dobino buvo_valdovas [[objektai/vietos/Semba]]

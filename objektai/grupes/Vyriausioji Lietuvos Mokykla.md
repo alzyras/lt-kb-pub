@@ -30,8 +30,7 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   global_id: t-72658
   teiginys: 'Vyriausiajai Lietuvos Mokyklai priklausė visų kitų Lietuvos krašto mokyklų priežiūra.'
   sudarymo_pagrindimas: 'Reikia aiškiai susieti faktą su Vyriausiąja Lietuvos Mokykla.'
-  susije_objektai: 'owner: Lenkija; owner: Lietuva; owner: Viena; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Vyriausioji Lietuvos Mokykla|Vyriausioji Lietuvos Mokykla]] priklausė Lenkija; [[objektai/grupes/Vyriausioji Lietuvos Mokykla|Vyriausioji Lietuvos Mokykla]] priklausė Lietuva; [[objektai/grupes/Vyriausioji Lietuvos Mokykla|Vyriausioji Lietuvos Mokykla]] priklausė Viena'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -66,8 +65,3 @@ Tokia Vyriausiąja Lietuvos Mokykla buvo pavadinta buvusi jėzuitų Vilniaus aka
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Vyriausioji Lietuvos Mokykla priklause [[objektai/vietos/Lenkija]]
-- Vyriausioji Lietuvos Mokykla priklause [[objektai/vietos/Lietuva]]
-- Vyriausioji Lietuvos Mokykla priklause [[objektai/vietos/Viena]]

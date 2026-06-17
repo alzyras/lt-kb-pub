@@ -37,9 +37,9 @@ periodo_grupes:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs, sutrumpintas iki asmeniui tinkamo fakto.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/asmenys/Alfonsas Svarinskas.md#claim-t-18781|Alfonsas Svarinskas]]: Alfonsas Svarinskas 1978 m. lapkričio 22 d. Maskvoje pranešė užsienio žurnalistams apie Tikinčiųjų teisių gynimo komiteto įkūrimą Lietuvoje.
 - susijęs iš [[objektai/asmenys/Jonas Kauneckas.md#claim-t-18978|Jonas Kauneckas]]: Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
+- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/autoriai/Sigitas Tamkevičius.md#claim-t-63313|Sigitas Tamkevičius]]: Sigitas Tamkevičius 1978 m. Maskvoje pranešė užsienio žurnalistams apie Lietuvoje įkurtą Tikinčiųjų teisių gynimo komitetą.
 - susijęs iš [[objektai/grupes/Katalikų Bažnyčia.md#claim-t-116745|Katalikų Bažnyčia]]: „Kronika“ tapo Katalikų bažnyčios pasipriešinimo sovietų valdžiai simboliu.
 - susijęs iš [[objektai/grupes/Tikinčiųjų teisių gynimo komitetas.md#claim-t-20047|Tikinčiųjų teisių gynimo komitetas (institucija)]]: Tikinčiųjų teisių gynimo komitetas siekė katalikams lygių teisių su ateistais ir prašė padėti apginti tikinčiųjų teises.
@@ -76,8 +76,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Jonas Kauneckas]] susije_su Juozas Zdebskis (kunigas)
-- Juozas Zdebskis (kunigas) susije_su [[objektai/vietos/Lietuva]]
-- Juozas Zdebskis (kunigas) susije_su [[objektai/vietos/Maskva]]

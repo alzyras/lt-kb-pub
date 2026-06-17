@@ -24,8 +24,7 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   global_id: t-60305
   teiginys: 'Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.'
   sudarymo_pagrindimas: 'Citata remia konkretų vaidmenį, o pradinis teiginys buvo nutrūkęs fragmentas.'
-  susije_objektai: 'territory: Austrija; territory: Jeruzalė; territory: Reinas; territory: Saksonija; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Brabanto kunigaikštis)|Henrikas (Brabanto kunigaikštis)]] buvo valdovas Austrija; [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)|Henrikas (Brabanto kunigaikštis)]] buvo valdovas Jeruzalė; [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)|Henrikas (Brabanto kunigaikštis)]] buvo valdovas Reinas; [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)|Henrikas (Brabanto kunigaikštis)]] buvo valdovas Saksonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-001
 
@@ -65,9 +64,3 @@ Dusburgietis teigia, kad kai jo šventenybė Jeruzalės patriarchas Henrikas, š
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Henrikas (Brabanto kunigaikštis) buvo_valdovas [[objektai/vietos/Austrija]]
-- Henrikas (Brabanto kunigaikštis) buvo_valdovas [[objektai/vietos/Jeruzalė]]
-- Henrikas (Brabanto kunigaikštis) buvo_valdovas [[objektai/vietos/Reinas]]
-- Henrikas (Brabanto kunigaikštis) buvo_valdovas [[objektai/vietos/Saksonija]]

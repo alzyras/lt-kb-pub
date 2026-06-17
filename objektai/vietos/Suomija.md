@@ -46,8 +46,6 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Jonas (Suomijos kunigaikštis).md#claim-t-87712|Jonas (Suomijos kunigaikštis)]]: Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/asmenys/Jonas (Suomijos kunigaikštis).md#claim-t-87712|Jonas (Suomijos kunigaikštis)]]: Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi.
 - susijęs iš [[objektai/asmenys/Kotryna Jogailaitė.md#claim-t-87399|Kotryna Jogailaitė]]: Kotryna Jogailaitė Vilniuje susituokė su Suomijos kunigaikščiu Jonu, vėliau tapusiu Švedijos karaliumi.
 - susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114007|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius Vilniuje palaimino Suomijos kunigaikščio Jono ir Kotrynos Jogailaitės santuoką.
@@ -152,4 +150,3 @@ Visa eilė konferencijų tarp trijų Pabaltijo valstybių (Lietuvos, Latvijos ir
 
 ## Ryšiai
 - [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]] buvo_valdovas Suomija
-- [[objektai/grupes/Hanza]] priklause Suomija

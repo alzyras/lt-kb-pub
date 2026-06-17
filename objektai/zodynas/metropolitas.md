@@ -72,7 +72,7 @@ Terminas vartojamas tiek apie konkretų Kijevo metropolitą Teognostą, tiek api
   global_id: t-05453
   teiginys: 'Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.'
   sudarymo_pagrindimas: 'Reikia patikslinti daugiskaitinį subjektą ir padaryti sakinį sklandesnį.'
-  susije_objektai: 'territory: Maskva; territory: Smolenskas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 

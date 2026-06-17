@@ -29,9 +29,9 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 - t-001
   global_id: t-93061
   teiginys: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.'
-  susije_objektai: 'territory: Luckas; mentioned_person: [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1395 m.; valdymo laikotarpis: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Feodoras (Ostrogo kunigaikštis) buvo valdovas Luckas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1395 m.; įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -40,9 +40,9 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   global_id: t-93062
   teiginys: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, kuri tvirtino ir plėtė jo žemes.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia privilegijos datą, davėją, gavėją ir turinį, o OCR triukšmas pašalintas.'
-  susije_objektai: 'territory: Luckas; mentioned_person: [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]]; mentioned_place: Luckas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Feodoras (Ostrogo kunigaikštis) buvo valdovas Luckas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]]; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia privilegijos datą, davėją, gavėją ir turinį, o OCR triukšmas pašalintas.'
   pagrindžia:
     - c-001

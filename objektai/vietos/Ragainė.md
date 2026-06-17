@@ -62,10 +62,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169146
   teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai atitinka citatoje pateiktą pareiškimą.'
-  susije_objektai: 'owner: [[objektai/grupes/Bajorai|Bajorai]]; owner: Karaliaučius; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsai; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Karaliaučius; mentioned_place: Lietuva; mentioned_place: Prūsai'
-  semantiniai_rysiai: 'Ragainė priklausė [[objektai/grupes/Bajorai|Bajorai]]; Ragainė priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Ragainė priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Ragainė priklausė Karaliaučius; Ragainė priklausė Lietuva; Ragainė priklausė Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Karaliaučius; mentioned_place: Lietuva; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1412 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ragainė priklausė Bajorai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Karaliaučius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai atitinka citatoje pateiktą pareiškimą.'
   pagrindžia:
     - c-010
@@ -144,10 +143,9 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   global_id: t-169154
   teiginys: '1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia 1412 m. Lietuvos bajorų pareiškimą apie Ragainę.'
-  susije_objektai: 'owner: [[objektai/grupes/Bajorai|Bajorai]]; owner: Karaliaučius; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsai; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Karaliaučius; mentioned_place: Lietuva; mentioned_place: Prūsai'
-  semantiniai_rysiai: 'Ragainė priklausė [[objektai/grupes/Bajorai|Bajorai]]; Ragainė priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Ragainė priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Ragainė priklausė Karaliaučius; Ragainė priklausė Lietuva; Ragainė priklausė Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Karaliaučius; mentioned_place: Lietuva; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1412 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ragainė priklausė Bajorai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Karaliaučius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ragainė priklausė Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia 1412 m. Lietuvos bajorų pareiškimą apie Ragainę.'
   pagrindžia:
     - c-010
@@ -308,8 +306,6 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
   pagrindžia:
     - c-020
 - susijęs iš [[objektai/asmenys/Fridrichas de Libencelė.md#claim-t-87674|Fridrichas de Libencelė]]: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš [[objektai/ivykiai/Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių.md#claim-t-89388|Pelužio ir plėšikautojų antpuolis, per kurį nužudyta 70 Lietuvos kunigaikščių]]: Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.
-- susijęs iš Karaliaučius: 1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60005|Albrechtas iš Hageno]]: 1317 m. žygyje Albrechtas iš Hageno šuoliais leidosi į jam skirtą vietą, kai vienas ginklanešys nukrito nuo žirgo.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
@@ -917,11 +913,3 @@ Ragainė šiame įraše rodoma kaip Nemuno pakrantės pilies ir administracinio 
 
 ## Ryšiai
 - [[objektai/asmenys/Fridrichas de Libencelė]] puole Ragainė
-- [[objektai/vietos/Karaliaučius]] priklause Ragainė
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Ragainė
-- Ragainė priklause [[objektai/grupes/Bajorai]]
-- Ragainė priklause [[objektai/vietos/Karaliaučius]]
-- Ragainė priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Ragainė priklause [[objektai/vietos/Lietuva]]
-- Ragainė priklause [[objektai/grupes/Lietuviai]]
-- Ragainė priklause [[objektai/vietos/Prūsai]]

@@ -38,7 +38,6 @@ Kadangi tuo metu Europoje buvo skelbiami kryžiaus karai prieš turkus Palestino
   susije_objektai: 'mentioned_event: [[objektai/ivykiai/Kryžiaus karai|Kryžiaus karai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos.md#claim-t-77942|Žydų atskiras bendruomeninis gyvenimas ir hebrajų bei jidiš mokyklos]]: Žydai Lietuvoje gyveno atskirą bendruomeninį gyvenimą, menkai integravosi į lietuvių visuomenę, o sionistinis judėjimas skatino keltis į Palestiną.
 - susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60142|Henrikas Valpotas]]: Paėmus Akoną Henrikas Valpotas prie miesto sienų nupirko sklypą, kuriame pastatydino bažnyčią, ligoninę ir kitus namus.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47800|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.
 - susijęs iš [[objektai/daiktai/Baltas apsiaustas su išsiuvinėtu kalaviju.md#claim-t-47801|Baltas apsiaustas su išsiuvinėtu kalaviju]]: Kalavijuočių ordino nariai ant balto apsiausto, be raudono kryžiaus, nešiojo išsiuvinėtą kalaviją.

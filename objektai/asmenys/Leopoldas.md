@@ -22,8 +22,8 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Leopoldą ir kryžiuočių žygį.'
-  susije_objektai: 'territory: Austrija; territory: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Austrija; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Leopoldas|Leopoldas]] buvo valdovas Austrija; [[objektai/asmenys/Leopoldas|Leopoldas]] buvo valdovas Prūsija'
+  susije_objektai: 'territory: Austrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Austrija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Leopoldas|Leopoldas]] buvo valdovas Austrija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Birutė.md#claim-t-184675|Birutė]]: Vaidilutė Birutė tapo Kęstučio žmona jam sugrįžus į Lietuvą.
@@ -66,4 +66,3 @@ Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, k
 
 ## Ryšiai
 - Leopoldas buvo_valdovas [[objektai/vietos/Austrija]]
-- Leopoldas buvo_valdovas [[objektai/vietos/Prūsija]]

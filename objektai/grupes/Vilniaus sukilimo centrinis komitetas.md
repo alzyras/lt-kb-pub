@@ -65,10 +65,9 @@ Sukilimo organizacinis komitetas.
   global_id: t-55098
   teiginys: 'Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis.'
   sudarymo_pagrindimas: 'Teiginys tiesiogiai paremtas citatoje pateiktu narių sąrašu.'
-  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; owner: Rusija; owner: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Rusija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus sukilimo centrinis komitetas|Vilniaus sukilimo centrinis komitetas]] priklausė [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; [[objektai/grupes/Vilniaus sukilimo centrinis komitetas|Vilniaus sukilimo centrinis komitetas]] priklausė Rusija; [[objektai/grupes/Vilniaus sukilimo centrinis komitetas|Vilniaus sukilimo centrinis komitetas]] priklausė Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus sukilimo centrinis komitetas priklausė Aleksandras Balinskis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus sukilimo centrinis komitetas priklausė Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus sukilimo centrinis komitetas priklausė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiesiogiai paremtas citatoje pateiktu narių sąrašu.'
   pagrindžia:
     - c-001
@@ -120,8 +119,3 @@ Sukilimo organizacinis komitetas.
     - t-002
     - t-003
     - t-004
-
-## Ryšiai
-- Vilniaus sukilimo centrinis komitetas priklause [[objektai/asmenys/Aleksandras Balinskis]]
-- Vilniaus sukilimo centrinis komitetas priklause [[objektai/vietos/Rusija]]
-- Vilniaus sukilimo centrinis komitetas priklause [[objektai/vietos/Vilnius]]

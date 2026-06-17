@@ -73,13 +73,6 @@ amziai:
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
-- susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
-- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Bomannas.md#claim-t-87487|Bomannas]]: Švitrigailos valdymo laikais Vilniaus miestietis Bomannas prekiavo su Gdansku.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
@@ -236,12 +229,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Fridrichas fon Bebirsteynas]] buvo_valdovas Vroclavas
-- [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]] buvo_valdovas Vroclavas
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Vroclavas
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Vroclavas
-- [[objektai/asmenys/Odoničius]] keliavo_i Vroclavas
-- [[objektai/asmenys/Samboras]] keliavo_i Vroclavas
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Vroclavas

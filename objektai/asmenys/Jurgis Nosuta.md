@@ -54,8 +54,3 @@ Jurgis Nosuta užėmė Palenkę ir patraukė į Mykolo pusę daug bajorų bei di
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jurgis Nosuta keliavo_i [[objektai/vietos/Drohičinas]]
-- Jurgis Nosuta keliavo_i [[objektai/vietos/Melnikas]]
-- Jurgis Nosuta keliavo_i [[objektai/vietos/Vilnius]]

@@ -125,20 +125,6 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   temporalinis_llm_pakomentavimas: 'Pašalintas konteksto fragmentiškumas ir paliktas citata paremtas faktas apie Rygą.'
   pagrindžia:
     - c-001
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas grįžo į Naugarduką, įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60014|Fridrichas (Švabijos kunigaikštis)]]: Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176336|Gediminas]]: Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113904|Mindaugas (valdovas, XIII a.)]]: Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113917|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113925|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113929|Mindaugas (valdovas, XIII a.)]]: Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176830|Vytenis]]: Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.
-- susijęs iš [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.).md#claim-t-62953|Vytenio užimta Karkuso pilis (1298 m.)]]: 1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Vytauto pergalės Dokudove kunigaikštis Kaributas su šeima pabėgo į Naugarduką.
-- susijęs iš [[objektai/zodynas/popiežiaus legatas.md#claim-t-86569|popiežiaus legatas]]: Karalius Vytenis legatui Pranciškui siuntė laišką, prašydamas atsiųsti du pranciškonų ordino brolius.
-- susijęs iš [[objektai/asmenys/Fridrichas (Rygos arkivyskupas).md#claim-t-54968|Fridrichas (Rygos arkivyskupas)]]: 1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.
-- susijęs iš [[objektai/asmenys/Karolis Tryrietis.md#claim-t-87435|Karolis Tryrietis]]: Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.
-- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Albertas.md#claim-t-78932|Albertas]]: Rygos vyskupas Albertas nugalėjo Jersikos karalių Visvaldį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176302|Algirdas (Lietuvos valdovas)]]: Algirdo valdymo ir rūpesčio dėka Lietuvoje plitusi prekyba palaikė Vilniaus gyvybingumą.
@@ -687,14 +673,3 @@ Ryga: kad būtų lengviau gintis, jis pasta- tė Rygos pilį (1201 m.), kuri vė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]] buvo_valdovas Ryga
-- [[objektai/asmenys/Gediminas]] buvo_valdovas Ryga
-- [[objektai/asmenys/Isamas (Rygos arkivyskupas)]] buvo_valdovas Ryga
-- [[objektai/asmenys/Kaributas]] buvo_valdovas Ryga
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_valdovas Ryga
-- [[objektai/asmenys/Vytenis]] buvo_valdovas Ryga
-- [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)]] keliavo_i Ryga
-- [[objektai/asmenys/Karolis Tryrietis]] keliavo_i Ryga
-- [[objektai/vietos/Saremos]] priklause Ryga

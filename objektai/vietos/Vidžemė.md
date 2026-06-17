@@ -43,9 +43,6 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
-- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
-- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169584|Latviai]]: Latvijos Henrikas tikruosius latvius vadino „Lethi vel Lethigalli“ ir aiškino, kad jie deramai vadinami Lethigalli.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169589|Latviai]]: Tikrieji latviai Nestoro kronikai buvo žinomi kaip Liet’gola.
 - susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
@@ -94,7 +91,3 @@ Tuomet, iš vienos pusės, turėdamas savo kariuomenę Vidžemėje, t.
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/grupes/Latviai]] gyveno Vidžemė
-- [[objektai/grupes/Lybiai]] gyveno Vidžemė

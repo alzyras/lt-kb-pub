@@ -45,8 +45,7 @@ periodo_grupes:
   global_id: t-82778
   teiginys: 'Vaišelga nuvyko į Sinajaus kalną, ten pasikrikštijo, tapo vienuoliu, po trejų metų grįžo pas Mindaugą ir įkūrė vienuolyną.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, bet citata palaiko aiškų biografinį faktą.'
-  susije_objektai: 'location: Vilnia; location: Vilnius; mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnia; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaišelga|Vaišelga]] keliavo į Vilnia; [[objektai/asmenys/Vaišelga|Vaišelga]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Maukoldas|Maukoldas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Vilnia; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -58,10 +57,9 @@ periodo_grupes:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaišelga|Vaišelga]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1264 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaišelga (kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1264 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
@@ -133,8 +131,3 @@ periodo_grupes:
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-- Vaišelga (kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vaišelga (kunigaikštis) keliavo_i [[objektai/vietos/Vilnia]]
-- Vaišelga (kunigaikštis) keliavo_i [[objektai/vietos/Vilnius]]

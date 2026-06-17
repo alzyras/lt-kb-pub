@@ -66,8 +66,8 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   global_id: t-176439
   teiginys: 'Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti tėvą ir pašalinti perteklinę formuluotę.'
-  susije_objektai: 'location: Lenkija; location: Vilnius; location: Voluinė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Voluinė'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaunutis|Jaunutis]] gyveno Lenkija; [[objektai/asmenys/Jaunutis|Jaunutis]] gyveno Vilnius; [[objektai/asmenys/Jaunutis|Jaunutis]] gyveno Voluinė'
+  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lenkija; mentioned_place: Vilnius; mentioned_place: Voluinė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jaunutis|Jaunutis]] gyveno Vilnius'
   pagrindžia:
     - c-002
 
@@ -94,12 +94,6 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-006
-- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
-- susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
-- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
-- susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
-- susijęs iš Breslauja: Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.
-- susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176277|Algirdas (Lietuvos valdovas)]]: Algirdas buvo vyriausias iš brolių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176312|Algirdas (Lietuvos valdovas)]]: Algirdas ir Kęstutis pasidalijo Lietuvos vadovavimo darbą pusiau.
@@ -251,10 +245,4 @@ Tik pats jaunasis sūnus, Jaunutis, nebuvo gavęs jokios srities, o gyveno prie 
     - t-006
 
 ## Ryšiai
-- Jaunutis (valdovas, XIV a.) gyveno [[objektai/vietos/Lenkija]]
 - Jaunutis (valdovas, XIV a.) gyveno [[objektai/vietos/Vilnius]]
-- Jaunutis (valdovas, XIV a.) gyveno [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Ašmena]] priklause Jaunutis (valdovas, XIV a.)
-- [[objektai/vietos/Breslauja]] priklause Jaunutis (valdovas, XIV a.)
-- Jaunutis (valdovas, XIV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Ukmergė]] priklause Jaunutis (valdovas, XIV a.)

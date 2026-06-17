@@ -77,10 +77,9 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
   global_id: t-93432
   teiginys: '1230 m. Mozūrų kunigaikštis Konradas ir prūsų vyskupas Kristijonas pasikvietė Kryžiuočių ordiną gintis nuo prūsų puolimų.'
   sudarymo_pagrindimas: 'Citatoje veikė ir Konradas, todėl reikia tikslinti veikėjus.'
-  susije_objektai: 'territory: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Kristijonas|Kristijonas]] buvo valdovas Prūsai'
-  temporaliniai_duomenys: 'valdymo pradžia: 1230 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kristijonas buvo valdovas Prūsai“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1230 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citatoje veikė ir Konradas, todėl reikia tikslinti veikėjus.'
   pagrindžia:
     - c-007
@@ -329,4 +328,3 @@ Pats ordinas buvo pakviestas į pagalbą pirmajam Prūsų vyskupui Kristijonui, 
 
 ## Ryšiai
 - Kristijonas dalyvavo_musyje [[objektai/ivykiai/Danijos karaliaus Voldemaro II žygis prieš Prūsiją ir Sembą]]
-- Kristijonas buvo_valdovas [[objektai/vietos/Prūsai]]

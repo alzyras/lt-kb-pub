@@ -40,10 +40,10 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - t-001
   global_id: t-94761
   teiginys: 'Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.'
-  susije_objektai: 'owner: Hamburgas; owner: Liubekas; mentioned_place: Hamburgas; mentioned_place: Liubekas'
-  semantiniai_rysiai: 'Naugardas priklausė Hamburgas; Naugardas priklausė Liubekas'
+  susije_objektai: 'owner: Hamburgas; mentioned_place: Hamburgas; mentioned_place: Liubekas'
+  semantiniai_rysiai: 'Naugardas priklausė Hamburgas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Naugardas priklausė Hamburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Naugardas priklausė Liubekas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Naugardas priklausė Hamburgas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
 
@@ -94,9 +94,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - t-006
   global_id: t-94766
   teiginys: 'Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mūšio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-005
 
@@ -113,7 +113,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - t-008
   global_id: t-94769
   teiginys: 'Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Maskva; location: Pskovas; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -133,7 +133,7 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 - t-011
   global_id: t-94772
   teiginys: 'Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Maskva; location: Pskovas; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'location: Pskovas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-002
 
@@ -226,29 +226,9 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
   pagrindžia:
     - c-016
 - susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97456|Kaributas]]: Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
-- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš Brianskas: 1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.
 - susijęs iš Naugardas Sieverskas: Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
-- susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
-- susijęs iš [[objektai/posakiai/bedieviškąją Lietuvą.md#claim-t-28730|bedieviškąją Lietuvą]]: Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.
-- susijęs iš Hamburgas: 1241 m. Hamburgas su Liubeku sudarė karinę sąjungą, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
-- susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
-- susijęs iš Krokuva: Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Liubekas: 1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
-- susijęs iš Liubekas: Prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
 - susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
 - susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: 1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.
-- susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
 - susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
@@ -816,20 +796,5 @@ Naugardo bei Pskovo respublikomis, tiek ir su pačia Maskva. Livonijos Ordinas �
 
 ## Ryšiai
 - [[objektai/asmenys/Kaributas]] valde_teritorija Naugardas
-- [[objektai/asmenys/Narimantas Gediminaitis]] valde_teritorija Naugardas
 - [[objektai/asmenys/Dimitras Kaributas]] buvo_valdovas Naugardas
-- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo_valdovas Naugardas
-- [[objektai/asmenys/Jonas Kalita]] buvo_valdovas Naugardas
-- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]] buvo_valdovas Naugardas
-- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] buvo_valdovas Naugardas
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Naugardas
-- [[objektai/asmenys/Baltramiejus (vyskupas)]] keliavo_i Naugardas
-- [[objektai/asmenys/Bernardas (abatas)]] keliavo_i Naugardas
-- [[objektai/vietos/Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)]] priklause Naugardas
-- [[objektai/vietos/Hamburgas]] priklause Naugardas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Naugardas
-- [[objektai/vietos/Krokuva]] priklause Naugardas
-- [[objektai/vietos/Liubekas]] priklause Naugardas
 - Naugardas priklause [[objektai/vietos/Hamburgas]]
-- Naugardas priklause [[objektai/vietos/Liubekas]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]] priklause Naugardas

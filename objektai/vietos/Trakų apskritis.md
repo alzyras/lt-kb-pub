@@ -28,7 +28,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   global_id: t-42201
   teiginys: 'J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   sudarymo_pagrindimas: 'Perrašyta pagal citatą, išsaugant veikėją, vietą ir veiksmą.'
-  susije_objektai: 'location: Trakai; location: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Trakai; mentioned_place: Ukmergė'
+  susije_objektai: 'location: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Trakai; mentioned_place: Ukmergė'
   temporaliniai_duomenys: 'kelionės data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta pagal citatą, išsaugant veikėją, vietą ir veiksmą.'
@@ -44,7 +44,6 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-- susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
 - susijęs iš Kaišiadorys: Jonas Misiūnas vokiečių okupacijos metais buvo geležinkelių apsaugos policininkas Kaišiadoryse.
 - susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.

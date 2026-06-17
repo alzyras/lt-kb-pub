@@ -47,28 +47,7 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
   sudarymo_pagrindimas: 'Pradinis teiginys yra kontekstinis fragmentas; citata leidžia suformuluoti savarankišką faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
-- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-183286|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63421|Albrechtas (Romos karalius)]]: 1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.
-- susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.
-- susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės karalius).md#claim-t-60306|Henrikas (Jeruzalės karalius)]]: Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Jadvyga Jogailienė.md#claim-t-176422|Jadvyga Jogailienė]]: Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.
-- susijęs iš [[objektai/asmenys/Jonas (vadinamas Anlantu).md#claim-t-60344|Jonas (vadinamas Anlantu)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas, vadinamas Anlantu, nužudė savo senelį Romos karalių Albrechtą.
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
 - susijęs iš [[objektai/asmenys/Leopoldas.md#claim-t-186232|Leopoldas]]: Austrijos kunigaikštis Leopoldas atvedė į Prūsiją didžiulę kariuomenę, kurios remiami kryžiuočiai nusiaubė Žemaitiją.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-184117|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
-- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-60399|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Albrechto nužudymas (1308 m. gegužės 1 d.).md#claim-t-62740|Albrechto nužudymas (1308 m. gegužės 1 d.)]]: 1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.
-- susijęs iš 1411 m. Torunės taika: Taikos sutartis užbaigė Prūsijos karą, o karalius per Lietuvą sugrįžo į Lenkiją.
-- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
-- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
-- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-184120|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
-- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59946|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178980|Kryžiuočių ordinas]]: 1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
@@ -261,21 +240,5 @@ Prie jų dar prisidėjo Austrijos Juozapas II. Čartoriskius, darančius reforma
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Pranciškus Gonzaga]] gyveno Austrija
-- [[objektai/asmenys/Albrechtas (Romos karalius)]] buvo_valdovas Austrija
-- [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)]] buvo_valdovas Austrija
-- [[objektai/asmenys/Henrikas (Jeruzalės karalius)]] buvo_valdovas Austrija
-- [[objektai/asmenys/Henrikas VI]] buvo_valdovas Austrija
-- [[objektai/asmenys/Jadvyga Jogailienė]] buvo_valdovas Austrija
-- [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)]] buvo_valdovas Austrija
-- [[objektai/asmenys/Jonas (vadinamas Anlantu)]] buvo_valdovas Austrija
-- [[objektai/asmenys/Kotryna II]] buvo_valdovas Austrija
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] buvo_valdovas Austrija
 - [[objektai/asmenys/Leopoldas]] buvo_valdovas Austrija
-- [[objektai/asmenys/Otokaras]] buvo_valdovas Austrija
-- [[objektai/asmenys/Otokaras II]] buvo_valdovas Austrija
-- [[objektai/asmenys/Ziemovitas]] buvo_valdovas Austrija
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Austrija
 - [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Austrija
-- [[objektai/grupes/Lietuviai]] priklause Austrija
-- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Austrija

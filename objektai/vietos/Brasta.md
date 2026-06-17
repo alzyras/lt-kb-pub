@@ -40,7 +40,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176955
   teiginys: 'Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
   sudarymo_pagrindimas: 'OCR triukšmas pašalintas, paliktas tiesiogiai cituojamas faktas.'
-  susije_objektai: 'territory: Gardinas; territory: Lenkija; territory: Lietuva; territory: Suražas; territory: Vilnius; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suražas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suražas; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -48,8 +48,7 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
 - t-002
   global_id: t-176959
   teiginys: 'Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.'
-  susije_objektai: 'owner: Gardinas; owner: [[objektai/asmenys/Jogaila|Jogaila]]; owner: [[objektai/asmenys/Kęstutis|Kęstutis]]; owner: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
-  semantiniai_rysiai: 'Brasta priklausė [[objektai/asmenys/Jogaila|Jogaila]]; Brasta priklausė [[objektai/asmenys/Kęstutis|Kęstutis]]; Brasta priklausė Gardinas; Brasta priklausė Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
   pagrindžia:
     - c-004
 
@@ -198,9 +197,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   global_id: t-176975
   teiginys: 'Po Brastos seimo Žygimantas Augustas tais pačiais metais atvyko į Vilnių su karaliene Elžbieta ir didele dvariškių svita.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Elžbieta|Elžbieta]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1544 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-010
@@ -308,20 +307,9 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Motyvo formuluotė „pasikliaudamas“ turi likti priskirta šaltiniui.'
-  susije_objektai: 'location: Gardinas; location: Lietuva; location: Trakai; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Trakai'
+  susije_objektai: 'location: Gardinas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Trakai'
   pagrindžia:
     - c-021
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
-- susijęs iš Kijevas: Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.
-- susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
-- susijęs iš Luckas: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
-- susijęs iš Vilnius: Algirdo laikais Lietuvos sostinė kelis kartus buvo žiauriai nuniokota, bet valdovas išgelbėdavo Vilnių nuo visiškos pražūties.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187527|seimas]]: Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78953|Augustas II]]: 1697 m. ATR valdovu išrinktas Saksonijos kurfiurstas Augustas II siekė ATR paversti absoliutine monarchija.
@@ -913,17 +901,3 @@ Todėl, nenorėdamas skriausti savo artimiausiojo bendradarbio, Jogaila prašė 
   statusas: verified
   pagrindžia:
     - t-029
-
-## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Brasta
-- [[objektai/asmenys/Boleslovas Maldingasis]] gyveno Brasta
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Brasta
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Brasta
-- [[objektai/asmenys/Otokaras (Čekijos karalius)]] buvo_valdovas Brasta
-- [[objektai/asmenys/Skirgaila]] buvo_valdovas Brasta
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Brasta
-- Brasta priklause [[objektai/vietos/Gardinas]]
-- Brasta priklause [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
-- Brasta priklause [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Brasta priklause [[objektai/vietos/Trakai]]
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Brasta

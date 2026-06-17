@@ -25,7 +25,6 @@ Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir uži
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Marienburgas'
   pagrindžia:
     - c-001
-- susijęs iš Kernavė: Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.
 - susijęs iš [[objektai/paprociai/Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą.md#claim-t-185887|Salų pilių įgulų dažni smulkūs išpuoliai į aplinkinį kraštą (kraštas)]]: Kryžiuočiai Nojerverderyje ir Ritersverderyje paliko savo įgulą, o Vytautas Marienburge įkurdino savo karius.
 - susijęs iš Astravas: 1392 m. rugpjūčio 4 d. Astrave, netoli Lydos, buvo rašyti du aktai dėl Vytauto padėties.
 - susijęs iš Kernavė: Kernavės kunigaikštis Aleksandras Vygandas mėgino išvaryti priešą iš Ritersverderio.
@@ -55,6 +54,3 @@ Ritersverderis buvo netikėtai užpultas iš gretimos Marienburgo pilies ir uži
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Ritersverderis

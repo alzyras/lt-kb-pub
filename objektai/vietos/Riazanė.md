@@ -48,9 +48,9 @@ amziai:
   global_id: t-99064
   teiginys: '1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.'
   sudarymo_pagrindimas: 'Citata palaiko Riazanės kunigaikščių atvykimą, bet pradinis sakinys nutrūkęs.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Trakai; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Riazanės kunigaikščių atvykimą, bet pradinis sakinys nutrūkęs.'
   pagrindžia:
     - c-007
@@ -68,7 +68,7 @@ amziai:
 - t-004
   global_id: t-99066
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.'
-  susije_objektai: 'territory: Smolenskas; territory: Vilnius; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -94,7 +94,7 @@ amziai:
   global_id: t-99070
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   sudarymo_pagrindimas: 'Citata palaiko Olego vaidmenį, o pradinis tekstas buvo užterštas antrašte.'
-  susije_objektai: 'territory: Smolenskas; territory: Vilnius; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -103,9 +103,9 @@ amziai:
   global_id: t-99072
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys ir atitinka citatos turinį.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Tverė; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išsamus faktinis sakinys ir atitinka citatos turinį.'
   pagrindžia:
     - c-007
@@ -124,7 +124,7 @@ amziai:
   global_id: t-99074
   teiginys: 'Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra OCR nuorodų ir neaiškus žodis „uošvį“.'
-  susije_objektai: 'territory: Maskva; territory: Tverė; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Maskva; mentioned_place: Tverė'
   pagrindžia:
     - c-006
 
@@ -167,28 +167,9 @@ amziai:
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis).md#claim-t-39620|Olegas (Riazanės didysis kunigaikštis)]]: 1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.
 - susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
-- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
-- susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
-- susijęs iš [[objektai/posakiai/daugiau nebelieti krikščionių kraujo.md#claim-t-185476|daugiau nebelieti krikščionių kraujo]]: Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.
-- susijęs iš Riazanės kunigaikštystė: Riazanės didysis kunigaikštis Olegas su sąjungininkais puolė Lietuvą ir jai padarė žalos.
-- susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
-- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
-- susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186592|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas susijungė su Jogaila ir tą patį rudenį su kariuomenėmis atvyko į Smolenską.
-- susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
-- susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
-- susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
 - susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
 - susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
-- susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
@@ -462,13 +443,3 @@ amziai:
 - [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]] buvo_valdovas Riazanė
 - [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]] buvo_valdovas Riazanė
 - [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Vasilijus]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Riazanė
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Riazanė
-- [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Riazanė
-- [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Riazanė
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Riazanė
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Riazanė
-- [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Riazanė
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Riazanė

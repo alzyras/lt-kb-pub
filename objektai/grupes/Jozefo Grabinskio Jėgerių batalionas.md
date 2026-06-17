@@ -31,10 +31,10 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
   global_id: t-40903
   teiginys: 'Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'owner: [[objektai/grupes/Rusai|Rusai]]; owner: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas|Jozefo Grabinskio Jėgerių batalionas]] priklausė [[objektai/grupes/Rusai|Rusai]]; [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas|Jozefo Grabinskio Jėgerių batalionas]] priklausė Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas|Jozefo Grabinskio Jėgerių batalionas]] priklausė Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1794 m.; priklausymo laikotarpis: 2004 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jozefo Grabinskio Jėgerių batalionas priklausė Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
@@ -62,5 +62,4 @@ Jozefo Grabinskio Jėgerių batalionas, LDK kariuomenės artileristai prasidėju
     - t-001
 
 ## Ryšiai
-- Jozefo Grabinskio Jėgerių batalionas priklause [[objektai/grupes/Rusai]]
 - Jozefo Grabinskio Jėgerių batalionas priklause [[objektai/vietos/Vilnius]]

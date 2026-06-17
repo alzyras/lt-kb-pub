@@ -45,10 +45,10 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   global_id: t-89234
   teiginys: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'object: Dauguva; object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; object: Kulmas; object: Lietuva; object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: [[objektai/asmenys/Mindaugas|Mindaugas]]; object: Prieglius; object: Prūsai; object: Semba; object: Vysla; object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
-  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė [[objektai/asmenys/Mindaugas|Mindaugas]]; [[objektai/grupes/Sūduviai|Sūduviai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Sūduviai|Sūduviai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Dauguva; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Kulmas; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Lietuva; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Prieglius; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Prūsai; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Semba; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Vysla; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Vėluva'
+  susije_objektai: 'object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: Prieglius; object: Semba; object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Lietuva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vysla; mentioned_place: Vėluva'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai|Sūduviai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Prieglius; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Semba; [[objektai/grupes/Sūduviai|Sūduviai]] puolė Vėluva'
   temporaliniai_duomenys: 'mūšio data: 1262 m.; mūšio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sūduviai puolė Mindaugas (valdovas, XIII a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Dauguva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Vysla“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Vėluva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sūduviai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai puolė Vėluva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata.'
   pagrindžia:
     - c-014
@@ -215,8 +215,6 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
   pagrindžia:
     - c-012
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
 - susijęs iš [[objektai/asmenys/Fridrichas, vadinamas Hole.md#claim-t-60280|Fridrichas, vadinamas Hole]]: Fridrichas, vadinamas Hole, su 100 raitelių iš Brandenburgo pilies patraukė į Sūduvą, o grįždamas iš Kirsnavos valsčiaus buvo nukautas su 30 vyrų.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
@@ -726,16 +724,8 @@ Dusburgietis teigia, kad kai jungtinė prūsų, sūduvių ir lietuvių kariuomen
     - t-012
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Sūduviai
-- Sūduviai puole [[objektai/vietos/Dauguva]]
-- Sūduviai puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Sūduviai puole [[objektai/vietos/Kulmas]]
-- Sūduviai puole [[objektai/vietos/Lietuva]]
 - Sūduviai puole [[objektai/grupes/Lietuviai]]
-- Sūduviai puole [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - Sūduviai puole [[objektai/vietos/Prieglius]]
-- Sūduviai puole [[objektai/vietos/Prūsai]]
 - Sūduviai puole [[objektai/vietos/Semba]]
-- Sūduviai puole [[objektai/vietos/Vysla]]
 - Sūduviai puole [[objektai/vietos/Vėluva]]
 - [[objektai/grupes/Sūduviai-jotvingiai]] puole Sūduviai

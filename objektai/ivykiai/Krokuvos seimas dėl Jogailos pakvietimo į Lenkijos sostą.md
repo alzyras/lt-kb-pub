@@ -63,9 +63,9 @@ Nenurodyta
   teiginys: 'Prieš Krokuvos seimą 1385 m. vasario 18 d. į Krokuvą Jogailos ir Jadvygos vedybų reikalu atvyko Skirgailos vadovaujama Jogailos delegacija.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys turi aiškų įvykio kontekstą, datą, vietą ir delegacijos vadovą. Atribucija nereikalinga, nes sakinys perteikia neutralų chronologinį faktą, o ne legendą ar vertinimą.'
-  susije_objektai: 'location: Krokuva; location: Lenkija; location: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi aiškų įvykio kontekstą, datą, vietą ir delegacijos vadovą. Atribucija nereikalinga, nes sakinys perteikia neutralų chronologinį faktą, o ne legendą ar vertinimą.'
   pagrindžia:
     - c-001

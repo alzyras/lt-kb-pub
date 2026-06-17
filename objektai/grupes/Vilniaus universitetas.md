@@ -12,6 +12,8 @@ datos:
   - '1803 m.'
   - '1812 m.'
   - '1814 m.'
+  - '1830 m.'
+  - '1831 m.'
   - '1864 m.'
 date_start: '1569'
 date_end: '1864'
@@ -182,10 +184,9 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   global_id: t-113365
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras išdavė Vilniaus akademijos atidarymo privileginį raštą.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėją ir veiksmą, paremtus citata.'
-  susije_objektai: 'territory: Vilnius; territory: Šv. Jonų bažnyčia; mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius; mentioned_place: Šv. Jonų bažnyčia'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]] susiję su Vilnius; [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]] susiję su Šv. Jonų bažnyčia'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius; mentioned_place: Šv. Jonų bažnyčia'
   temporaliniai_duomenys: 'įvykio data: 1579 m.; įvykio data: 1850 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus universitetas susiję su Šv. Jonų bažnyčia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus universitetas susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėją ir veiksmą, paremtus citata.'
   pagrindžia:
     - c-011
@@ -522,7 +523,3 @@ Vilniaus universitetas šaltinyje aprašomas kaip Vilniaus kolegijos pagrindu pa
   statusas: verified
   pagrindžia:
     - t-018
-
-## Ryšiai
-- Vilniaus universitetas susije_su [[objektai/vietos/Vilnius]]
-- Vilniaus universitetas susije_su [[objektai/vietos/Šv. Jonų bažnyčia]]

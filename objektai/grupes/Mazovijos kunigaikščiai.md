@@ -50,10 +50,10 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   global_id: t-86735
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia apie Vytautą, o citata leidžia suformuluoti faktą apie Mazovijos kunigaikščius.'
-  susije_objektai: 'location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Lietuva; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Livonija; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Maskva; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Mazovija; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Prūsija; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Riazanė; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Trakai; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Tverė; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Valakija; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Vilnius'
+  susije_objektai: 'location: Mazovija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] keliavo į Mazovija'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Riazanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mazovijos kunigaikščiai keliavo į Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia apie Vytautą, o citata leidžia suformuluoti faktą apie Mazovijos kunigaikščius.'
   pagrindžia:
     - c-001
@@ -63,8 +63,7 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   global_id: t-86736
   teiginys: 'Gedimino laiškų užuomina apie Mazoviją leido manyti, kad Mazovijos kunigaikštis buvo Lietuvos valdovo sąjungininkas.'
   sudarymo_pagrindimas: 'Citata remia aiškesnį teiginį apie Mazovijos kunigaikštį.'
-  susije_objektai: 'territory: Lietuva; territory: Mazovija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Lietuva; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Mazovija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mazovija'
   pagrindžia:
     - c-002
 
@@ -76,10 +75,10 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'territory: Bielsko; territory: Drohičinas; territory: Mazovija; territory: Melnikas; territory: Palenkė; mentioned_place: Bielsko; mentioned_place: Drohičinas; mentioned_place: Mazovija; mentioned_place: Melnikas; mentioned_place: Palenkė'
-  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Bielsko; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Drohičinas; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Mazovija; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Melnikas; [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Palenkė'
+  susije_objektai: 'territory: Mazovija; mentioned_place: Bielsko; mentioned_place: Drohičinas; mentioned_place: Mazovija; mentioned_place: Melnikas; mentioned_place: Palenkė'
+  semantiniai_rysiai: '[[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]] susiję su Mazovija'
   temporaliniai_duomenys: 'įvykio data: 1440 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Bielsko“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Drohičinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Melnikas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Palenkė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mazovijos kunigaikščiai susiję su Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-004
@@ -202,19 +201,5 @@ Trečias ir itin svarbus laiškų netikrumo įrodymas yra užuomina juose apie M
     - t-004
 
 ## Ryšiai
-- Mazovijos kunigaikščiai susije_su [[objektai/vietos/Bielsko]]
-- Mazovijos kunigaikščiai susije_su [[objektai/vietos/Drohičinas]]
-- Mazovijos kunigaikščiai susije_su [[objektai/vietos/Lietuva]]
 - Mazovijos kunigaikščiai susije_su [[objektai/vietos/Mazovija]]
-- Mazovijos kunigaikščiai susije_su [[objektai/vietos/Melnikas]]
-- Mazovijos kunigaikščiai susije_su [[objektai/vietos/Palenkė]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Lietuva]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Livonija]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Maskva]]
 - Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Mazovija]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Prūsija]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Riazanė]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Trakai]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Tverė]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Valakija]]
-- Mazovijos kunigaikščiai keliavo_i [[objektai/vietos/Vilnius]]

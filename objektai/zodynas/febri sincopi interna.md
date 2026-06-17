@@ -24,7 +24,7 @@ Kadangi Viešpats Dievas vakar, prieš pirmą valandą nakties, paėmė mums iš
   global_id: t-86579
   teiginys: 'Valdovas mirė penktąją ligos, medikų akte įvardytos febri sincopi interna, dieną.'
   sudarymo_pagrindimas: 'Citata palaiko ligos pavadinimą ir mirties aplinkybę, nors valdovo vardas joje nepateiktas.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113982|Steponas Batoras]]: Steponas Batoras mirė 1586 m. gruodžio 12 d., penktąją jį paguldžiusios ligos dieną.

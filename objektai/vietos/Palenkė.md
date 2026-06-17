@@ -162,8 +162,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   global_id: t-112059
   teiginys: 'Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas pilnas faktas apie Palenkę.'
-  susije_objektai: 'owner: Gardinas; owner: [[objektai/asmenys/Kęstutis|Kęstutis]]; owner: Trakai; mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
-  semantiniai_rysiai: 'Palenkė priklausė [[objektai/asmenys/Kęstutis|Kęstutis]]; Palenkė priklausė Gardinas; Palenkė priklausė Trakai'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikštija|kunigaikštija]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Gardinas; mentioned_place: Trakai'
   pagrindžia:
     - c-003
 
@@ -226,8 +225,6 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Severskas; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-015
-- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš [[objektai/asmenys/Brunonas.md#claim-t-89681|Brunonas]]: Prūsijos vyskupas Kristijonas Kristaus karių ordinui priskyrė žymų vyrą Brunoną ir dar keturiolika vyrų.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185987|Jonušas (Mazovijos kunigaikštis)]]: Jonušas ir Zemovitas priėmė į Mazoviją pasitraukusį Vytautą, bet nesistengė suteikti jam deramos pagalbos.
@@ -248,6 +245,7 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
 - susijęs iš [[objektai/daiktai/Pilys.md#claim-t-59675|Pilys]]: Per vienuolika metų Prūsijoje broliai pastatė daug įtvirtinimų, miestų ir pilių.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65111|Dobrynės broliai]]: Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
 - susijęs iš [[objektai/grupes/Rygos kapitula.md#claim-t-86748|Rygos kapitula]]: Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos kapitulai grąžinti paimtą turtą ir jos nebepuldinėti.
 - susijęs iš [[objektai/grupes/Rygos vyskupija Rygos Bažnyčia.md#claim-t-86783|Rygos vyskupija Rygos Bažnyčia]]: Popiežius nusprendė, kad Kryžiuočių ordino riteriai turi Rygos Bažnyčiai grąžinti paimtą turtą ir jos nebepuldinėti.
 - susijęs iš [[objektai/grupes/Žemaičiai.md#claim-t-176160|Žemaičiai]]: 1382 m. pagonys žemaičiai dėl tikėjimo bendrumo davė Kęstučiui 9000 vyrų.
@@ -589,10 +587,3 @@ Sutartyje ordinas pasižadėjo nepulti Palenkės (pradedant Gardinu), o Lietuva 
   statusas: verified
   pagrindžia:
     - t-020
-
-## Ryšiai
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]] buvo_valdovas Palenkė
-- [[objektai/grupes/Mazovijos kunigaikščiai]] susije_su Palenkė
-- Palenkė priklause [[objektai/vietos/Gardinas]]
-- Palenkė priklause [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Palenkė priklause [[objektai/vietos/Trakai]]

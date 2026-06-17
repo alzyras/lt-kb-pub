@@ -101,8 +101,6 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Ukrainą ir atitinka citatą.'
   pagrindžia:
     - c-006
-- susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
-- susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
 - susijęs iš [[objektai/asmenys/Bogdanas Chmelnickis.md#claim-t-186099|Bogdanas Chmelnickis]]: 1648 m. Bogdano Chmelnickio vadovaujami sukilę ukrainiečiai bandė atsiskirti nuo Lenkijos ir sudaryti savo valstybę.
 - susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
@@ -332,7 +330,3 @@ Mykolo tėvas Jeremijas kazokų maištų metu buvo turtingiausias Ukrainos ponas
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-- [[objektai/asmenys/Steponas]] keliavo_i Ukraina
-- [[objektai/asmenys/Vladislovas Lokietka]] keliavo_i Ukraina

@@ -31,10 +31,10 @@ periodo_grupes:
 - t-001
   global_id: t-35256
   teiginys: 'Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.'
-  susije_objektai: 'location: Konstancija; location: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Sapienskis|Mykolas Sapienskis]] keliavo į Konstancija; [[objektai/asmenys/Mykolas Sapienskis|Mykolas Sapienskis]] keliavo į Lietuva'
+  susije_objektai: 'location: Konstancija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Jurgis Geldgaudas|Jurgis Geldgaudas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Konstancija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Mykolas Sapienskis|Mykolas Sapienskis]] keliavo į Konstancija'
   temporaliniai_duomenys: 'kelionės data: 1415 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas Sapienskis keliavo į Konstancija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mykolas Sapienskis keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mykolas Sapienskis keliavo į Konstancija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -62,4 +62,3 @@ periodo_grupes:
 
 ## Ryšiai
 - Mykolas Sapienskis keliavo_i [[objektai/vietos/Konstancija]]
-- Mykolas Sapienskis keliavo_i [[objektai/vietos/Lietuva]]

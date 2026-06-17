@@ -27,8 +27,6 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Mstislavlis'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Jurgis (Sviatoslavo sūnus).md#claim-t-30317|Jurgis (Sviatoslavo sūnus)]]: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
 - susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
@@ -49,6 +47,3 @@ Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Skirgaila]] puole Vechra

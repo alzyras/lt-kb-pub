@@ -26,8 +26,6 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
-- susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78693|Šarvuotasis traukinys Gediminas]]: Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
 - susijęs iš [[objektai/grupes/3-ioji divizija.md#claim-t-38933|3-ioji divizija]]: 3-iajai divizijai buvo numatyta gynybinė pozicija nuo Vištyčio ežero per Rūdelę, Smalėnus ir Klevus iki Dimitravo ežero.
 - susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.

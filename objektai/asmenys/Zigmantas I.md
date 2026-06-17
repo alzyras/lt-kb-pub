@@ -35,10 +35,9 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   global_id: t-114074
   teiginys: 'Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nukreiptas į Joną II, todėl sutrumpintas iki fakto apie Zigmantą I.'
-  susije_objektai: 'territory: Lietuva; territory: Nesvyžius; territory: Olyka; territory: Poznanė; territory: Vilnius; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Lietuva; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Nesvyžius; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Olyka; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Poznanė; [[objektai/asmenys/Zigmantas I|Zigmantas I]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1519 m.; valdymo laikotarpis: 1536 m.; valdymo laikotarpis: 1538 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigmantas I buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Olyka“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Poznanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigmantas I buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Poznanė; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1519 m.; įvykio data: 1536 m.; įvykio data: 1538 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys per ilgas ir nukreiptas į Joną II, todėl sutrumpintas iki fakto apie Zigmantą I.'
   pagrindžia:
     - c-002
@@ -116,10 +115,3 @@ Lietuvos ir Lenkijos valdovų – Vytauto ir Jogailos – susitikimui su Švento
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Zigmantas I buvo_valdovas [[objektai/vietos/Lietuva]]
-- Zigmantas I buvo_valdovas [[objektai/vietos/Nesvyžius]]
-- Zigmantas I buvo_valdovas [[objektai/vietos/Olyka]]
-- Zigmantas I buvo_valdovas [[objektai/vietos/Poznanė]]
-- Zigmantas I buvo_valdovas [[objektai/vietos/Vilnius]]

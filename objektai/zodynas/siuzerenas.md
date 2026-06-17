@@ -24,7 +24,7 @@ Kuriuo tikslu buvo rodomas toks pa­ lankumas šiam naujam kandidatui į lenkų 
   global_id: t-95926
   teiginys: 'Jaunasis Fridrikas buvo laikomas kandidatu į lenkų karalius ir Lietuvos siuzerenus.'
   sudarymo_pagrindimas: 'Pašalintas svarstomasis fragmentas ir paliktas citatos remiamas faktas.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

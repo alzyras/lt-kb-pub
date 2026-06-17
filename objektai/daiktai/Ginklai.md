@@ -40,7 +40,6 @@ Nenurodyta
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Laužas|Laužas]]'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Andriejus (Vilniaus vyskupas).md#claim-t-35025|Andriejus (Vilniaus vyskupas)]]: Vilniaus vyskupas Andriejus su Jogaila ir Vytautu, rodos, susitarė sudaryti taiką su Ordinu.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75737|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1918 m. gruodžio 21 d. Antanas Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
@@ -376,6 +375,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]] pastate Ginklai

@@ -23,8 +23,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   global_id: t-72025
   teiginys: 'XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir teiginys padarytas savarankišku sakiniu.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]] susiję su Lietuva; [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]] susiję su Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -33,8 +32,7 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   global_id: t-72026
   teiginys: 'Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu jungtuku ir yra per daug fragmentiškas.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]] susiję su Lietuva; [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]] susiję su Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vladislovas Vaza.md#claim-t-79226|Vladislovas Vaza]]: 1632 m. Vladislovas Vaza ėmė reformuoti Lietuvos ir Lenkijos kariuomenes, siekdamas padidinti jų ugnies galią.
@@ -74,7 +72,3 @@ Ypač dažnai būdavo šaukiami atskiri Lietuvos seimai, einant karui su Maskva 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Atskiri Lietuvos seimai susije_su [[objektai/vietos/Lietuva]]
-- Atskiri Lietuvos seimai susije_su [[objektai/vietos/Maskva]]

@@ -67,7 +67,7 @@ Nenurodyta
   global_id: t-01678
   teiginys: 'Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis, o citata leidžia įvardyti ordiną.'
-  susije_objektai: 'territory: Europa; territory: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Europa; mentioned_place: Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Europa; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 

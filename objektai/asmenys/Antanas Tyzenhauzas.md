@@ -250,9 +250,3 @@ Antanas Tyzenhauzas siejamas su 1767 m. reformomis ir Lietuvos ūkio pertvarkomi
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- Antanas Tyzenhauzas (ūkio reformų veikėjas) pastate [[objektai/vietos/Gardinas]]
-- Antanas Tyzenhauzas (ūkio reformų veikėjas) pastate [[objektai/daiktai/Ginklai]]
-- Antanas Tyzenhauzas (ūkio reformų veikėjas) pastate [[objektai/vietos/Lietuva]]
-- Antanas Tyzenhauzas (ūkio reformų veikėjas) pastate [[objektai/daiktai/Vežimai]]

@@ -31,8 +31,7 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93419
   teiginys: 'Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir sutvarkytas citata pagrįstas faktas.'
-  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Kulmas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -41,10 +40,10 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93420
   teiginys: 'Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.'
   sudarymo_pagrindimas: 'Citata palaiko Konrado atvykimą ir dalyvavimą statant miestą; pašalinti komentarai ir išnašos.'
-  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Lenkija; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Bebras; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Kaimas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Krokuva; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Kujavija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Kulmas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Lenkija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Marienverderis; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Nogatas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Pomeranija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Prūsai; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Prūsija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Rizenburgas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Vroclavas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Vysla'
+  susije_objektai: 'location: Kulmas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] keliavo į Kulmas'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Bebras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Marienverderis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Nogatas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Vroclavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) keliavo į Kulmas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Konrado atvykimą ir dalyvavimą statant miestą; pašalinti komentarai ir išnašos.'
   pagrindžia:
     - c-007
@@ -63,10 +62,10 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93423
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.'
   sudarymo_pagrindimas: 'Citata palaiko Konrado veiksmą; pašalintas nutrūkęs ir triukšmingas tekstas.'
-  susije_objektai: 'territory: Mozūrija; territory: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Mozūrija; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Prūsai'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Mozūrija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
   temporaliniai_duomenys: 'valdymo pradžia: 1230 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Konrado veiksmą; pašalintas nutrūkęs ir triukšmingas tekstas.'
   pagrindžia:
     - c-004
@@ -75,8 +74,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
 - t-005
   global_id: t-93424
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.'
-  susije_objektai: 'territory: Kulmas; territory: Mozūrija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Kulmas; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Prūsija'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
   pagrindžia:
     - c-004
 
@@ -94,8 +93,8 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
   global_id: t-93426
   teiginys: 'Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti, ką Konradas pakvietė.'
-  susije_objektai: 'territory: Europa; territory: Mozūrija; territory: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Europa; mentioned_place: Mozūrija; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija; [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Prūsai'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Europa; mentioned_place: Mozūrija; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-79083|Konradas]]: Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.
@@ -285,23 +284,5 @@ Konradas buvo Mozūrijos kunigaikštis, siejamas su Prūsijos krikštijimo ir Or
     - t-003
 
 ## Ryšiai
-- Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Europa]]
-- Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Kulmas]]
-- Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mozūrija]]
-- Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsai]]
-- Konradas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsija]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Bebras]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Kaimas]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Krokuva]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Kujavija]]
 - Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Kulmas]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Lenkija]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Marienverderis]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Nogatas]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Pomeranija]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Prūsai]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Prūsija]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Rizenburgas]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Vroclavas]]
-- Konradas (Mozūrijos kunigaikštis) keliavo_i [[objektai/vietos/Vysla]]

@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   global_id: t-58487
   teiginys: 'Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai atitinka citatoje aprašytą Popono atvykimą prie Višogrudo.'
-  susije_objektai: 'location: Svečė; mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pomeranai|Pomeranai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Svečė'
   pagrindžia:
     - c-001
 

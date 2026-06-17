@@ -22,8 +22,8 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys gramatiškas, bet turi perteklinę autorinę įžangą.'
-  susije_objektai: 'location: Gardinas; location: Lietuva; location: Prūsija; location: Reinas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Reinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Gardinas; [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Lietuva; [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Prūsija; [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Reinas'
+  susije_objektai: 'location: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas]]; mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Reinas'
+  semantiniai_rysiai: '[[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis]] keliavo į Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Konradas (Prūsijos magistras).md#claim-t-186126|Konradas (Prūsijos magistras)]]: Prūsijos magistras Konradas, sulaukęs Reino krašto didikų pagalbos, įsiveržė į Lietuvą ir nuniokojo Gardino kraštą.
@@ -53,7 +53,4 @@ Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prie
     - t-001
 
 ## Ryšiai
-- Adolfas fon Vintimelis (didikas) keliavo_i [[objektai/vietos/Gardinas]]
-- Adolfas fon Vintimelis (didikas) keliavo_i [[objektai/vietos/Lietuva]]
 - Adolfas fon Vintimelis (didikas) keliavo_i [[objektai/vietos/Prūsija]]
-- Adolfas fon Vintimelis (didikas) keliavo_i [[objektai/vietos/Reinas]]

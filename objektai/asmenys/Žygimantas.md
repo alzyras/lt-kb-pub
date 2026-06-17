@@ -73,8 +73,7 @@ tags:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiksliai atitinka citatos faktą.'
-  susije_objektai: 'territory: Borisovas; territory: Lietuva; territory: Smolenskas; mentioned_place: Borisovas; mentioned_place: Lietuva; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas|Žygimantas]] buvo valdovas Borisovas; [[objektai/asmenys/Žygimantas|Žygimantas]] buvo valdovas Lietuva; [[objektai/asmenys/Žygimantas|Žygimantas]] buvo valdovas Smolenskas'
+  susije_objektai: 'mentioned_place: Borisovas; mentioned_place: Lietuva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-005
 
@@ -388,13 +387,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- Žygimantas gyveno [[objektai/vietos/Trakai]]
-- Žygimantas buvo_valdovas [[objektai/vietos/Borisovas]]
-- Žygimantas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas buvo_valdovas [[objektai/vietos/Minskas]]
-- Žygimantas buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Žygimantas buvo_valdovas [[objektai/vietos/Vilnius]]
-- Žygimantas susije_su [[objektai/vietos/Krokuva]]
-- Žygimantas susije_su [[objektai/vietos/Vilnius]]

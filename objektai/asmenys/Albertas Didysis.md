@@ -73,6 +73,3 @@ Albertas Didysis minimas kaip Vokietijoje gimęs pamokslininkų ordino kunigas, 
     - t-002
     - t-003
     - t-004
-
-## Ryšiai
-- Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mire [[objektai/vietos/Kelnas]]

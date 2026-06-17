@@ -29,8 +29,7 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   global_id: t-83302
   teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Patikslinta formuluotė, kad sakinys būtų sklandesnis ir tiksliau atitiktų citatą.'
-  susije_objektai: 'owner: Dniepras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė'
-  semantiniai_rysiai: 'Dniestras priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Dniestras priklausė Dniepras; Dniestras priklausė Kijevas; Dniestras priklausė Lietuva; Dniestras priklausė Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 
@@ -43,11 +42,6 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-- susijęs iš Tavano pilis: Vytautas lietuvių Tavano pilyje prie Dniepro įsteigė muitinę, vadintą Vytauto pirtimi.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
-- susijęs iš Podolė: Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.
 - susijęs iš [[objektai/autoriai/Mykolas Lietuvis Michalonis Lit.md#claim-t-88036|Mykolas Lietuvis Michalonis Lit]]: Mykolas Lietuvis rašė, kad Kafos miestas prie Juodosios jūros buvo svarbiausias Lietuvos prekybinis uostas ryšiams su Rytais.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
 - susijęs iš [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.).md#claim-t-41268|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]: Po Chotino mūšio Turkija pasirašė paliaubas, o 1623 m. taika atstatė sieną palei Dniestrą.
@@ -114,15 +108,3 @@ Podolei ir Rusiai jie svarbi Jėga ginantis nuo totorių, kurie, kazokų bijodam
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Dniestras
-- [[objektai/vietos/Dniepras]] priklause Dniestras
-- Dniestras priklause [[objektai/vietos/Dniepras]]
-- Dniestras priklause [[objektai/vietos/Kijevas]]
-- Dniestras priklause [[objektai/grupes/Kijevo kunigaikštystė]]
-- Dniestras priklause [[objektai/vietos/Lietuva]]
-- Dniestras priklause [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Kijevas]] priklause Dniestras
-- [[objektai/vietos/Lietuva]] priklause Dniestras
-- [[objektai/vietos/Podolė]] priklause Dniestras

@@ -45,7 +45,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - t-001
   global_id: t-178100
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Maskva; location: Naugardas; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'location: Naugardas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-015
 
@@ -133,7 +133,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178111
   teiginys: 'Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.'
   sudarymo_pagrindimas: 'Pašalintas sąrašo triukšmas ir suformuotas pilnas sakinys.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Maskva; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/ciesorius|ciesorius]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-019
 
@@ -162,7 +162,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178114
   teiginys: '1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, datuotas ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Maskva; location: Naugardas; location: Polockas; location: Černigovas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Polockas; mentioned_place: Černigovas'
   pagrindžia:
     - c-006
 
@@ -179,7 +179,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   global_id: t-178116
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia teiginį, tik reikia pašalinti OCR triukšmą.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas'
+  susije_objektai: 'territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vitebskas'
   pagrindžia:
     - c-033
 
@@ -513,7 +513,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 - t-054
   global_id: t-178155
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Maskva; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-015
 
@@ -550,29 +550,7 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
   pagrindžia:
     - c-041
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82252|Daumantas (kunigaikštis, XV a.)]]: Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.
-- susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
-- susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51192|Vosylius]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/daiktai/Svečių namai rusų pirkliams Vilniuje.md#claim-t-87036|Svečių namai rusų pirkliams Vilniuje]]: Vilniuje karalius leido pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti ir sumokėti prekių muitą.
-- susijęs iš [[objektai/posakiai/Vilniuje karalius turi gan puikios artilerijos.md#claim-t-41470|Vilniuje karalius turi gan puikios artilerijos]]: Posakyje „Vilniuje karalius turi gan puikios artilerijos“ teigiama, kad karalius Vilniuje turėjo 180 sunkiosios artilerijos vienetų.
-- susijęs iš Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje: Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Svečių namai Vilniuje: Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą.
-- susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
-- susijęs iš [[objektai/asmenys/Joachimas Pavlovičius.md#claim-t-87910|Joachimas Pavlovičius]]: Pskovo pasiuntinys Joachimas Pavlovičius 1427 m. atvyko į Vilnių prašyti Vytauto paleisti belaisvius.
-- susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113196|Pskovo respublika]]: Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.
-- susijęs iš [[objektai/posakiai/bedieviškąją Lietuvą.md#claim-t-28730|bedieviškąją Lietuvą]]: Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kazanė: Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.
-- susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.
 - susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
-- susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
 - susijęs iš Vilnius: 1427 m. po Vytauto žygių į Vilnių atvyko Pskovo pasiuntiniai Joachimas Pavlovičius ir Ivanas Sidorovičius.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54938|Aleksandras Jogailaitis]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Rusios miestais, o Aleksandras leido statyti Svečių namus rusų pirkliams.
 - susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
@@ -1666,18 +1644,4 @@ Kurį laiką Lietuvos įtakai buvo pasidavęs net Pskovas su D. Algirdo įtaka �
 
 ## Ryšiai
 - [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde_teritorija Pskovas
-- [[objektai/asmenys/Vosylius]] valde_teritorija Pskovas
-- [[objektai/asmenys/Vosylius II]] valde_teritorija Pskovas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Pskovas
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_valdovas Pskovas
-- [[objektai/asmenys/Fulvio Ruggieri]] buvo_valdovas Pskovas
-- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]] buvo_valdovas Pskovas
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Pskovas
-- [[objektai/asmenys/Aleksas Jefremovičius]] keliavo_i Pskovas
-- [[objektai/vietos/Gardinas]] priklause Pskovas
 - [[objektai/asmenys/Ivanas Sidorovičius]] keliavo_i Pskovas
-- [[objektai/asmenys/Joachimas Pavlovičius]] keliavo_i Pskovas
-- [[objektai/vietos/Kaunas]] priklause Pskovas
-- [[objektai/vietos/Lyda]] priklause Pskovas
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Pskovas
-- [[objektai/grupes/Pskovo respublika]] keliavo_i Pskovas

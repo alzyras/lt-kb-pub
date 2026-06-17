@@ -24,8 +24,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   global_id: t-40368
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatos faktinę informaciją.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Naugardas; territory: Veliuona; territory: Švedija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Lietuva; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Livonija; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Naugardas; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Veliuona; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
   pagrindžia:
     - c-003
 
@@ -34,8 +33,7 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   global_id: t-40369
   teiginys: 'Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Naugardas; territory: Veliuona; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Lietuva; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Livonija; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Naugardas; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Veliuona; [[objektai/asmenys/Narimantas Gediminaitis|Narimantas Gediminaitis]] valdė teritoriją Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/daiktai/Pilys|Pilys]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Veliuona; mentioned_place: Švedija'
   pagrindžia:
     - c-002
 
@@ -112,10 +110,3 @@ Rusų metraščiai taip pat mini, kad „sumušė vokiečiai Lietuvą, nukovė L
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Narimantas Gediminaitis valde_teritorija [[objektai/vietos/Lietuva]]
-- Narimantas Gediminaitis valde_teritorija [[objektai/vietos/Livonija]]
-- Narimantas Gediminaitis valde_teritorija [[objektai/vietos/Naugardas]]
-- Narimantas Gediminaitis valde_teritorija [[objektai/vietos/Veliuona]]
-- Narimantas Gediminaitis valde_teritorija [[objektai/vietos/Švedija]]

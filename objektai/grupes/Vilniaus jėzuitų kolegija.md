@@ -93,8 +93,7 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   global_id: t-86710
   teiginys: 'Karalius balandžio 1 d. dekretais vyskupo Protasevičiaus funduotą Vilniaus jėzuitų kolegiją pakėlė iki universiteto laipsnio.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo sutvarkyti OCR ir sakinio struktūrą.'
-  susije_objektai: 'territory: Vilnius; mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus jėzuitų kolegija|Vilniaus jėzuitų kolegija]] susiję su Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas (raštininkas)|Valerijonas (raštininkas)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -273,6 +272,3 @@ Jono bažnyčią atidavė kun. Valerijono Protasevičiaus, Vilniaus vyskupo, Aka
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vilniaus jėzuitų kolegija susije_su [[objektai/vietos/Vilnius]]

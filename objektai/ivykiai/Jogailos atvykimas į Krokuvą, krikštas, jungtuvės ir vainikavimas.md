@@ -65,9 +65,9 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad Jogaila 1386 m. vasario 12 d. atvyko į Krokuvą, vasario 15 d. buvo pakrikštytas, vasario 18 d. vedė Jadvygą ir kovo 4 d. vainikuotas Lenkijos karaliumi.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistos citatoje pateiktos konkrečios datos ir palikta atribucija komentarui. Titulas „Lenkijos karalius“ išlaikytas kaip komentaro formuluotės dalis.'
-  susije_objektai: 'location: Alšėnai; location: Krokuva; location: Lenkija; location: Vilnius; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Alšėnai; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Alšėnai; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1385 m.; kelionės data: 1386 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga keliavo į Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išskleistos citatoje pateiktos konkrečios datos ir palikta atribucija komentarui. Titulas „Lenkijos karalius“ išlaikytas kaip komentaro formuluotės dalis.'
   pagrindžia:
     - c-001
@@ -78,9 +78,9 @@ Nenurodyta
   teiginys: 'Komentare nurodoma, kad 1386 m. sausio 11 d. Jogaila buvo Volkovyske, o 1386 m. vasario 12 d. keliavo į Krokuvą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatinis ir paremtas komentaro citata.'
-  susije_objektai: 'location: Alšėnai; location: Krokuva; location: Lenkija; location: Vilnius; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Alšėnai; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Krokuva; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Alšėnai; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1385 m.; kelionės data: 1386 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga keliavo į Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Krokuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatinis ir paremtas komentaro citata.'
   pagrindžia:
     - c-001

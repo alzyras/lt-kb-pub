@@ -71,8 +71,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytauto siųstas žygis į Riazanę parsivarė daug riazaniečių belaisvių ir su dideliu grobiu grįžo pas Vytautą.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Neaiškus „žygio metu“ pakeistas į sakinį su aiškiu objektu ir rezultatu.'
-  susije_objektai: 'event: [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę|Vytauto siųstas žygis į Riazanę]]; mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Lengvenis|Lengvenis]] dalyvavo mūšyje [[objektai/ivykiai/Vytauto siųstas žygis į Riazanę|Vytauto siųstas žygis į Riazanę]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Bachmatai|Bachmatai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Lengvenis|Lengvenis]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -99,6 +98,3 @@ Nenurodyta
     - t-001
     - t-003
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Lengvenis]] dalyvavo_musyje Vytauto siųstas žygis į Riazanę

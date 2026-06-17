@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir aiškiai įvardytas asmuo bei veiksmas.'
-  susije_objektai: 'territory: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
 

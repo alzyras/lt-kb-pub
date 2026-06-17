@@ -25,7 +25,6 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Konstantinas Karijotaitis|Konstantinas Karijotaitis]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185945|Ivanas (Maskvos valdovas)]]: Ivano įsakymu į nelaisvę atvestas Konstantinas buvo kankinamas ir surakintas grandinėmis.
 - susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
@@ -59,12 +58,3 @@ Lietuvai ir Lenkijai suartėti įtakos turėjo ir Jogailos pusbroliai, Podolėje
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Karijotaičiai]] priklause Konstantinas (Karijotaitis)
-- Konstantinas (Karijotaitis) puole [[objektai/grupes/Bajorai]]
-- Konstantinas (Karijotaitis) puole [[objektai/grupes/Lenkai]]
-- Konstantinas (Karijotaitis) puole [[objektai/vietos/Lietuva]]
-- Konstantinas (Karijotaitis) puole [[objektai/vietos/Smolenskas]]
-- Konstantinas (Karijotaitis) puole [[objektai/vietos/Vilnius]]
-- Konstantinas (Karijotaitis) puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

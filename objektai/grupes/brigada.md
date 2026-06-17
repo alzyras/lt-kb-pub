@@ -29,7 +29,6 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   susije_objektai: 'mentioned_place: Daugpilis; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
 - susijęs iš [[objektai/asmenys/Juozapas Bielakas.md#claim-t-40233|Juozapas Bielakas]]: Juozapo Bielako priešakinės sargybos pulkas stovėjo prieš priemiesčius su 1-osios tautinės kavalerijos brigada.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40249|K. Ladyga]]: I brigados vadas K. Ladyga suskirstė savo pajėgas į tris kolonas.
 - susijęs iš [[objektai/asmenys/K. Ladyga.md#claim-t-40250|K. Ladyga]]: I brigados vadas K. Ladyga įsakė pulti bolševikus Degučių plentu Zarasų kryptimi.
@@ -97,7 +96,3 @@ Marijampolės batalionas veikė 11 brigadoje, kuri kovėsi su raudonarmiečiais 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- brigada dalyvavo_musyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]
-- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]] priklause brigada

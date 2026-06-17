@@ -80,8 +80,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vorsklos mūšis prie Vorkslos upės įvyko antradienį, rugpjūčio dvyliktą dieną.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys papildytas vieta ir aiškiu įvykio objektu.'
-  susije_objektai: 'event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vorksla; mentioned_place: Vorskla'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] dalyvavo mūšyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Vorksla; mentioned_place: Vorskla'
   pagrindžia:
     - c-003
 
@@ -104,7 +103,6 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vorskla'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Vorsklos mūšis (1399 m. rugpjūčio 12 d.).md#claim-t-63383|Vorsklos mūšis (1399 m. rugpjūčio 12 d.)]]: 1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.
 - susijęs iš [[objektai/asmenys/Saladinas.md#claim-t-82653|Saladinas]]: 1409 m. Vytautas artimose totorių žemėse įkurdino jam paklusnų chaną Saladiną, vyriausią Tochtamyšo sūnų.
 - susijęs iš [[objektai/asmenys/Tochtamyšas (Krymo ordos chanas).md#claim-t-35297|Tochtamyšas (Krymo ordos chanas)]]: Po Tochtamyšo mirties jo vyriausias sūnus Saladinas buvo prisiglaudęs pas Vytautą.
 - susijęs iš [[objektai/asmenys/Tochtamyšas.md#claim-t-51184|Tochtamyšas]]: Tochtamyšas buvo Saladino tėvas; po Tochtamyšo mirties Saladinas prisiglaudė pas Vytautą.
@@ -199,7 +197,3 @@ Nenurodyta
   pagrindžia:
     - t-005
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Edigėjus]] dalyvavo_musyje Vorsklos mūšis (mūšis)
-- [[objektai/grupes/Totoriai]] dalyvavo_musyje Vorsklos mūšis (mūšis)

@@ -86,8 +86,6 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   susije_objektai: 'mentioned_place: Nogatas; mentioned_place: Vysla'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-184120|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178980|Kryžiuočių ordinas]]: 1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.
 - susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63806|Kazimieras (Kujavijos kunigaikštis)]]: Magistras su Torunės broliais ir kunigaikščiu Kazimieru ketino žygiuoti prieš Sventopelko statomą Sveče pilį.
 - susijęs iš [[objektai/asmenys/Konradas Bremeris.md#claim-t-60364|Konradas Bremeris]]: Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu.
 - susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59899|Mstivojus]]: Rabė patarė Mstivojų, Sventopelko sūnų, pasiųsti Austrijos kunigaikščiui kaip įkaitą.
@@ -226,7 +224,3 @@ Dusburgietis teigia, kad kristijono misijai padėjo Danijos karaliaus Voldemaro 
   pagrindžia:
     - t-007
     - t-006
-
-## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Santyras
-- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Santyras

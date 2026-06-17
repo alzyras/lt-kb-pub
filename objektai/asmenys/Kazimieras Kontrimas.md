@@ -26,8 +26,6 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55109|Šubravcų draugija]]: Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-81752|Šubravcų draugija]]: Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-87702|Janas Lasickis]]: Jano Lasickio knygą apie žemaičių ir kitų tautų dievus išstudijavę Vilniaus šubravcai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Juozapas Zavadskis.md#claim-t-87736|Juozapas Zavadskis]]: Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu.
@@ -62,7 +60,3 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Balinskis]] susije_su Kazimieras Kontrimas
-- [[objektai/grupes/Šubravcų draugija]] priklause Kazimieras Kontrimas

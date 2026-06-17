@@ -59,8 +59,6 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-- susijęs iš Varšuva: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75847|Ignotas Masalskis]]: 1792 m. birželio 25 d. Vilniaus konfederacijai, pritarusiai Targovicos konfederacijai, vadovavo ir Vilniaus vyskupas Ignotas Masalskis.
 - susijęs iš [[objektai/asmenys/Ignotas Masalskis.md#claim-t-75849|Ignotas Masalskis]]: Vilniaus vyskupas Ignotas Masalskis buvo tarp Targovicos konfederatų, pakartų Varšuvoje birželio 28 dieną.
 - susijęs iš [[objektai/asmenys/Jekaterina II.md#claim-t-170049|Jekaterina II]]: Rusijos imperatorė Jekaterina II nerimavo, kad Prancūzijos jakobinizmo šmėkla jau pasiekė Rusijos sienas.
@@ -157,6 +155,3 @@ Peterburge subrendo ir buvo surašytas Targovicos (miestelis Ukrainoje, kuriame 
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Targovica

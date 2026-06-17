@@ -51,8 +51,8 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
   global_id: t-90067
   teiginys: 'Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.'
   sudarymo_pagrindimas: 'Teiginys yra apie Dusburgiečio vertinimą, todėl palikta atribucija.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Gediminas|Gediminas]]; counterparty: [[objektai/asmenys/Jogaila|Jogaila]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Jogaila|Jogaila]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Gediminas|Gediminas]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Pamaris'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/asmenys/Gediminas|Gediminas]]; [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
   pagrindžia:
     - c-008
 
@@ -334,11 +334,5 @@ Gedimino taika su Lenkija ir kovos su vokiečių ordinu Matydamas, kad kova su k
 
 ## Ryšiai
 - Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Gediminas]]
-- Vladislovas Lokietka kariavo_pries [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]]
 - Vladislovas Lokietka kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Lenkija]]
-- Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Marienburgas]]
-- Vladislovas Lokietka buvo_valdovas [[objektai/vietos/Čekija]]
-- Vladislovas Lokietka keliavo_i [[objektai/vietos/Lenkija]]
-- Vladislovas Lokietka keliavo_i [[objektai/vietos/Prutas]]
-- Vladislovas Lokietka keliavo_i [[objektai/vietos/Ukraina]]

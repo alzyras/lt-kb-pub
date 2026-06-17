@@ -110,8 +110,3 @@ sutartimi su LDK panaikinta Livonijos konfederacija, didesnė dalis Livonijos ta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Fulvio Ruggieri buvo_valdovas [[objektai/vietos/Pskovas]]
-- Fulvio Ruggieri buvo_valdovas [[objektai/vietos/Rusija]]
-- Fulvio Ruggieri buvo_valdovas [[objektai/vietos/Vilnius]]

@@ -32,8 +32,7 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
   global_id: t-87794
   teiginys: 'Motiejus iš Blonios, Gniezno kanauninkas ir rūmų daktaras, iš Krokuvos atvyko gydyti sergančio Aleksandro.'
   sudarymo_pagrindimas: 'Claimas buvo per ilgas ir triukšmingas; citata palaiko Motiejaus profesiją ir veiksmą.'
-  susije_objektai: 'location: Gniezno; location: Krokuva; location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Gniezno; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Krokuva; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Lietuva; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Viena; [[objektai/asmenys/Motiejus iš Blonios|Motiejus iš Blonios]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš Krokuva: Aleksandrui sergant, iš Krokuvos atvyko gydymo meną išmanę Motiejus iš Blonios ir Aleksandras Balinskis.
@@ -71,10 +70,3 @@ Tik kai Aleksandrą kelerius metus nuolat ka­ mavo skausminga liga, iš Krokuvo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Motiejus iš Blonios keliavo_i [[objektai/vietos/Gniezno]]
-- Motiejus iš Blonios keliavo_i [[objektai/vietos/Krokuva]]
-- Motiejus iš Blonios keliavo_i [[objektai/vietos/Lietuva]]
-- Motiejus iš Blonios keliavo_i [[objektai/vietos/Viena]]
-- Motiejus iš Blonios keliavo_i [[objektai/vietos/Vilnius]]

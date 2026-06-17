@@ -62,7 +62,6 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Brianskas'
   pagrindžia:
     - c-004
-- susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184726|Jogaila (kunigaikštis, XIV–XV a.)]]: Sužinojęs apie Švitrigailos veiksmus Vitebske, Jogaila paliepė Vytautui kariauti, kol šis atsiims žemes ir sutriuškins Švitrigailą.
 - susijęs iš [[objektai/asmenys/Treniota.md#claim-t-184848|Treniota]]: Treniota sutartą dieną slaptai atvedė kariuomenę iš Žemaitijos ir kartu su Daumantu naktį įsiveržė į Mindaugo rūmus.
@@ -152,6 +151,3 @@ Kaidanas persikėlė per Dneprą, siekdamas ginklu paremti savo tikslus ir jėga
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Foma]] buvo_valdovas Dnepras

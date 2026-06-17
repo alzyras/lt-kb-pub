@@ -67,9 +67,3 @@ Dusburgietis teigia, kad kai popiežius Honorijus II 1218 m. organizavo didžiul
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Popiežius Honorijus II susije_su [[objektai/vietos/Lietuva]]
-- Popiežius Honorijus II susije_su [[objektai/vietos/Prūsai]]
-- Popiežius Honorijus II susije_su [[objektai/vietos/Viena]]
-- Popiežius Honorijus II susije_su [[objektai/vietos/Volynė]]

@@ -49,7 +49,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas pasikartojimas, palikta šaltiniui priskirta kronikos scena apie roges.'
-  susije_objektai: 'location: Lietuva; location: Moldavija; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-002
 

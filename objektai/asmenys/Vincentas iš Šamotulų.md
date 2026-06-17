@@ -22,8 +22,7 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sutvarkyta OCR klaida ir pašalinta nereikalinga įžanga.'
-  susije_objektai: 'territory: Braclavas; territory: Lvovas; territory: Viena; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Braclavas; mentioned_place: Lvovas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Braclavas; [[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Lvovas; [[objektai/asmenys/Vincentas iš Šamotulų|Vincentas iš Šamotulų]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Braclavas; mentioned_place: Lvovas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -76,8 +75,3 @@ Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fio
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Vincentas iš Šamotulų buvo_valdovas [[objektai/vietos/Braclavas]]
-- Vincentas iš Šamotulų buvo_valdovas [[objektai/vietos/Lvovas]]
-- Vincentas iš Šamotulų buvo_valdovas [[objektai/vietos/Viena]]

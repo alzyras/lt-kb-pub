@@ -80,9 +80,9 @@ Bažnyčia aprašoma vienuolyno ir šalia jo buvusio karaliaus malūno aplinkoje
   global_id: t-83204
   teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.'
   sudarymo_pagrindimas: 'Fragmentas išplėstas į pilną sakinį su aiškiu veikėju ir veiksmu.'
-  susije_objektai: 'territory: Borisovas; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Borisovas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1500 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Borisovas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Borisovas'
+  temporaliniai_duomenys: 'pastatymo data: 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Fragmentas išplėstas į pilną sakinį su aiškiu veikėju ir veiksmu.'
   pagrindžia:
     - c-004

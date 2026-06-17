@@ -45,10 +45,9 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171393
   teiginys: 'Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.'
   sudarymo_pagrindimas: 'Pirminis teiginys fragmentiškas, bet citata remia aiškų faktą apie kovą su totoriais.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Algirdas|Algirdas]]; counterparty: [[objektai/asmenys/Kęstutis|Kęstutis]]; counterparty: [[objektai/grupes/Polockiečiai|Polockiečiai]]; counterparty: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/grupes/Polockiečiai|Polockiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'mūšio data: 1380 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Totoriai kariavo prieš Algirdas (Lietuvos valdovas)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai kariavo prieš Kęstutis (vakarų pasienio valdovas, XIV–XV a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai kariavo prieš Skirgaila“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai kariavo prieš Polockiečiai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys fragmentiškas, bet citata remia aiškų faktą apie kovą su totoriais.'
   pagrindžia:
     - c-015
@@ -317,8 +316,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171422
   teiginys: 'Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutyli citatoje svarbų krizės ir suskilimo kontekstą.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Algirdas|Algirdas]]; counterparty: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -369,8 +367,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
   global_id: t-171428
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto veiksmą, susijusį su totorių bendruomene.'
-  susije_objektai: 'territory: Lietuva; territory: Liublinas; territory: Trakai; territory: Vilnius; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] susiję su Lietuva; [[objektai/grupes/Totoriai|Totoriai]] susiję su Liublinas; [[objektai/grupes/Totoriai|Totoriai]] susiję su Trakai; [[objektai/grupes/Totoriai|Totoriai]] susiję su Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Karaimai|Karaimai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Isaakas ben Abrahamas iš Trakų|Isaakas ben Abrahamas iš Trakų]]; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] susiję su Lietuva'
   pagrindžia:
     - c-030
 
@@ -378,8 +376,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - t-035
   global_id: t-171429
   teiginys: 'Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Algirdas|Algirdas]]; counterparty: [[objektai/asmenys/Kęstutis|Kęstutis]]; counterparty: [[objektai/grupes/Polockiečiai|Polockiečiai]]; counterparty: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Kęstutis|Kęstutis]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/asmenys/Skirgaila|Skirgaila]]; [[objektai/grupes/Totoriai|Totoriai]] kariavo prieš [[objektai/grupes/Polockiečiai|Polockiečiai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-015
 
@@ -416,10 +413,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - t-039
   global_id: t-171433
   teiginys: 'Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.'
-  susije_objektai: 'location: Ašmena; location: Lietuva; location: Naugardukas; location: Nemėžis; location: Trakai; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Ašmena; [[objektai/grupes/Totoriai|Totoriai]] gyveno Lietuva; [[objektai/grupes/Totoriai|Totoriai]] gyveno Naugardukas; [[objektai/grupes/Totoriai|Totoriai]] gyveno Nemėžis; [[objektai/grupes/Totoriai|Totoriai]] gyveno Trakai; [[objektai/grupes/Totoriai|Totoriai]] gyveno Vilnius'
+  susije_objektai: 'location: Nemėžis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Totoriai|Totoriai]] gyveno Nemėžis'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Totoriai gyveno Ašmena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai gyveno Naugardukas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai gyveno Nemėžis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai gyveno Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Totoriai gyveno Nemėžis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-036
 
@@ -608,16 +605,7 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - c-049
 - susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
 - susijęs iš Mohilna: Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.
-- susijęs iš [[objektai/zodynas/saar.md#claim-t-70316|saar]]: Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Sluckas: Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.
 - susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
-- susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
-- susijęs iš Smotričius: XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui.
 - susijęs iš [[objektai/asmenys/Abramas (iždininkas).md#claim-t-87605|Abramas (iždininkas)]]: Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97311|Aldona Gediminaitė]]: Aldona Gediminaitė, per krikštą pavadinta Ona, buvo ištekinta už Lenkijos karaliaus Kazimiero Didžiojo.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
@@ -652,6 +640,8 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
 - susijęs iš [[objektai/asmenys/Dželad-Eddinas.md#claim-t-184256|Dželad-Eddinas]]: Nuo 1411 m., įsiviešpatavus Dželad-Eddinui, totorių valdovai nebedrįso priešintis Vytautui.
 - susijęs iš [[objektai/asmenys/Dželad-Eddinas.md#claim-t-34723|Dželad-Eddinas]]: Dželad-Eddinas įsiviešpatavo 1411 m., o po to Vytautui paklusę totoriai nedrįso jam priešintis.
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30228|Ediga]]: Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63558|Edyga]]: Edygos vadovaujami totoriai 1414-1416 m. dažnai puldinėjo Kijevo ir Podolės kraštus, smarkiai apgriaudami Kijevą ir Lucką.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54961|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena savo lėšomis Vilniaus pilyje pastatydino namą iš Maskvos atvykstantiems bojarinams ir pasiuntiniams.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-05168|Gediminas]]: 1324 m. Gediminas savo naujoje sostinėje Vilniuje derėjosi su totoriais.
@@ -2361,31 +2351,10 @@ Per ją ėjo vienintelis kelias į pasaulį, nes, Dniepro žemupy įsigalėjus t
     - t-061
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] kariavo_pries Totoriai
 - [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Totoriai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Totoriai
-- Totoriai kariavo_pries [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Totoriai kariavo_pries [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]
-- Totoriai kariavo_pries [[objektai/grupes/Polockiečiai]]
-- Totoriai kariavo_pries [[objektai/grupes/Rusai]]
-- Totoriai kariavo_pries [[objektai/asmenys/Skirgaila]]
 - Totoriai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
-- Totoriai dalyvavo_musyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]
-- Totoriai gyveno [[objektai/vietos/Ašmena]]
-- Totoriai gyveno [[objektai/vietos/Lietuva]]
-- Totoriai gyveno [[objektai/vietos/Naugardukas]]
 - Totoriai gyveno [[objektai/vietos/Nemėžis]]
-- Totoriai gyveno [[objektai/vietos/Trakai]]
-- Totoriai gyveno [[objektai/vietos/Vilnius]]
 - Totoriai susije_su [[objektai/vietos/Lietuva]]
-- Totoriai susije_su [[objektai/vietos/Liublinas]]
-- Totoriai susije_su [[objektai/vietos/Trakai]]
 - Totoriai susije_su [[objektai/vietos/Vengrija]]
-- Totoriai susije_su [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Kijevas]] priklause Totoriai
-- [[objektai/asmenys/Skirgaila]] puole Totoriai
-- [[objektai/vietos/Sluckas]] priklause Totoriai
 - [[objektai/vietos/Smolenskas]] priklause Totoriai
-- [[objektai/vietos/Smotričius]] priklause Totoriai
-- [[objektai/asmenys/Tochtamišas]] susije_su Totoriai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] susije_su Totoriai

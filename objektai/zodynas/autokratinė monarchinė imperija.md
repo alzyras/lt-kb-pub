@@ -41,10 +41,10 @@ amziai:
   global_id: t-45784
   teiginys: '1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu.'
-  susije_objektai: 'owner: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Rusija; owner: Užnemunė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
-  semantiniai_rysiai: '[[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė Lietuva; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė Rusija; [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]] priklausė Užnemunė'
+  susije_objektai: 'owner: [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Immanuel Kant|Immanuel Kant]]; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Užnemunė'
+  semantiniai_rysiai: 'Užnemunė susiję su [[objektai/zodynas/autokratinė monarchinė imperija|autokratinė monarchinė imperija]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1795-1915; priklausymo laikotarpis: 1812 m.; priklausymo laikotarpis: 1915 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Immanuel Kant“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „autokratinė monarchinė imperija priklausė Užnemunė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė susiję su autokratinė monarchinė imperija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Lietuvos priklausymą autokratinei Rusijos imperijai nurodytu laikotarpiu.'
   pagrindžia:
     - c-001
@@ -132,8 +132,4 @@ amziai:
     - t-004
 
 ## Ryšiai
-- autokratinė monarchinė imperija priklause [[objektai/asmenys/Immanuel Kant]]
-- autokratinė monarchinė imperija priklause [[objektai/vietos/Lietuva]]
-- autokratinė monarchinė imperija priklause [[objektai/grupes/Lietuviai]]
-- autokratinė monarchinė imperija priklause [[objektai/vietos/Rusija]]
-- autokratinė monarchinė imperija priklause [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Užnemunė]] susije_su autokratinė monarchinė imperija

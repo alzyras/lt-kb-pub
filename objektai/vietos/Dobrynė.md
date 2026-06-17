@@ -123,12 +123,6 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
   pagrindžia:
     - c-011
 - susijęs iš [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė).md#claim-t-87619|Anastazija (Dobrynės kunigaikštienė)]]: Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.
-- susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90044|Traidenis (valdovas, XIII a.)]]: Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90048|Traidenis (valdovas, XIII a.)]]: Pirmasis iškilo Kernavės kunigaikštis Traidenis.
-- susijęs iš [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius).md#claim-t-60453|Vaclovas (Čekijos ir Lenkijos karalius)]]: 1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
-- susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė).md#claim-t-87619|Anastazija (Dobrynės kunigaikštienė)]]: Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.
 - susijęs iš [[objektai/asmenys/Burchardas Aremas.md#claim-t-186187|Burchardas Aremas]]: Mūšyje su lietuviais atvirame lauke žuvo ordino magistras Burchardas Aremas ir trisdešimt ordino riterių.
@@ -406,8 +400,3 @@ Vytautas ir Jogaila pareiškė, kad taika gali būti tik tada, kai Ordinas atidu
 
 ## Ryšiai
 - [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)]] valde_teritorija Dobrynė
-- [[objektai/asmenys/Konradas]] buvo_valdovas Dobrynė
-- [[objektai/asmenys/Liudvikas]] buvo_valdovas Dobrynė
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] buvo_valdovas Dobrynė
-- [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)]] buvo_valdovas Dobrynė
-- [[objektai/asmenys/Vladislovas]] buvo_valdovas Dobrynė

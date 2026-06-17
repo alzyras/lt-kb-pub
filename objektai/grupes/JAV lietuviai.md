@@ -65,8 +65,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   global_id: t-74140
   teiginys: 'Tuo metu JAV gyveno apie 350 tūkst. lietuvių, iš jų apie 180 tūkst. buvo gimę Lietuvoje.'
   sudarymo_pagrindimas: 'Citata leidžia sutelkti teiginį į JAV lietuvius ir pašalinti šalutinį sąrašą.'
-  susije_objektai: 'location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Lietuva; [[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Vilnius'
+  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Lietuva'
   pagrindžia:
     - c-005
 
@@ -74,8 +74,8 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
 - t-005
   global_id: t-74141
   teiginys: '00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.'
-  susije_objektai: 'location: Anglija; location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Anglija; [[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Lietuva; [[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Steponas Darius|Steponas Darius]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/JAV lietuviai|JAV lietuviai]] gyveno Vilnius'
   pagrindžia:
     - c-003
 
@@ -90,8 +90,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti nutrūkusią asmens nuorodą ir suformuluoti pilną sakinį.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
-- susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/asmenys/Juozas Gabrys-Paršaitis.md#claim-t-19014|Juozas Gabrys-Paršaitis]]: Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.
 - susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
@@ -217,7 +215,5 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Georgas Zauerveinas]] kariavo_pries JAV lietuviai
-- JAV lietuviai gyveno [[objektai/vietos/Anglija]]
 - JAV lietuviai gyveno [[objektai/vietos/Lietuva]]
 - JAV lietuviai gyveno [[objektai/vietos/Vilnius]]

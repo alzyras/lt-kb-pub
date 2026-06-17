@@ -88,8 +88,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojime Kazimieras tą patį rudenį sutelkė Lietuvos pajėgas, pats vadovavo žygiui prie Smolensko ir miestą atsiėmė.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys išplėstas citatos palaikoma žygio baigtimi.'
-  susije_objektai: 'event: [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską|Kazimiero žygis atsiimti Smolenską]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]] dalyvavo mūšyje [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską|Kazimiero žygis atsiimti Smolenską]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/ponai|ponai]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-002
 
@@ -141,6 +140,3 @@ Nenurodyta
     - t-001
     - t-004
     - t-005
-
-## Ryšiai
-- [[objektai/grupes/Didžiojo Naugardo respublika]] dalyvavo_musyje Kazimiero žygis atsiimti Smolenską

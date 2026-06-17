@@ -137,9 +137,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai perteikia Aleksandro išvykimą iš Melniko, kelionės tikslą ir karūnavimo datą. Jis remiasi chronologine pastaba, be vertinamųjų ar legendinių elementų.'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
 - susijęs iš [[objektai/ivykiai/Aleksandro patvirtintas Melniko unijos aktas.md#claim-t-186788|Aleksandro patvirtintas Melniko unijos aktas (unija, XVI a.)]]: Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.
-- susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103043|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, kardinolas ir buvęs Vilniaus bei Krokuvos vyskupas, mirė Romoje 1600 m.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103055|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Inocento IX ir Klemenso VIII elektorius, iš pradžių Vilniaus, vėliau Krokuvos vyskupas.
 - susijęs iš [[objektai/asmenys/Mikalojus Andriuševičius.md#claim-t-87783|Mikalojus Andriuševičius]]: Mikalojus Andriuševičius buvo Lietuvos Didžiosios Kunigaikštystės arklidininkas ir tarybos narys.
@@ -154,6 +152,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179131|Lenkai]]: 1430 m. spalio 30 d. mirus Vytautui, jo gedėjo visa Lietuva ir lenkai, kuriuos jis buvo vedęs į pergalingus mūšius.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179141|Lenkai]]: Lenkai pasipiktino lietuvių siūlomu projektu ir reikalavo derybas grįsti 1501 m. Melniko bei 1564 m. Varšuvos receso aktais.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179166|Lenkai]]: Vytautas mirė 1430 m. spalio 30 d. Trakuose, gedint Lietuvai ir lenkams, kuriuos jis buvo vedęs į pergalingus mūšius.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187738|Ponų taryba (institucija)]]: Jonušas Zaberezinskis ir kiti LDK Ponų tarybos nariai pasisakė už Melniko uniją, kuriai Aleksandras ir jo broliai priešinosi.
 - susijęs iš [[objektai/grupes/Ponų taryba.md#claim-t-187739|Ponų taryba (institucija)]]: Jonas Zaberezinskis, Vaitiekus Taboras, Stanislovas Kiška ir Stanislovas Jonaitis Kęsgaila buvo pašalinti iš Ponų tarybos.
 - susijęs iš [[objektai/ivykiai/Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi.md#claim-t-186789|Aleksandro išrinkimas ir karūnavimas Lenkijos karaliumi]]: Redakcinė pastaba nurodo, kad Aleksandras Krokuvoje buvo vainikuotas 1501.XII.12.
@@ -368,8 +367,3 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- [[objektai/grupes/Mazovijos kunigaikščiai]] susije_su Melnikas
-- [[objektai/asmenys/Aleksandras]] keliavo_i Melnikas
-- [[objektai/asmenys/Jurgis Nosuta]] keliavo_i Melnikas

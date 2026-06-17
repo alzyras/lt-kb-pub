@@ -55,8 +55,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia karaliaus sprendimą ir viešą atidėjimo motyvą.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus lietuvių seimas|Vilniaus lietuvių seimas]] susiję su Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -135,6 +134,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vilniaus lietuvių seimas (seimas, XV a.) susije_su [[objektai/vietos/Lietuva]]

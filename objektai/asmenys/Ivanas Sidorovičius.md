@@ -66,5 +66,4 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
     - t-001
 
 ## Ryšiai
-- Ivanas Sidorovičius keliavo_i [[objektai/vietos/Lietuva]]
 - Ivanas Sidorovičius keliavo_i [[objektai/vietos/Pskovas]]

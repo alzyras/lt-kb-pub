@@ -43,9 +43,6 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Grigalius X|Grigalius X]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171393|Totoriai]]: Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171429|Totoriai]]: Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54945|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir prisidėjo prie 1380 m. rugsėjo 8 d. pergalės Kulikovo lauke.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-82220|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Dmitrijaus Doniškio bendražygis ir kovėsi su juo prieš totorius Kulikovo mūšyje.
@@ -111,7 +108,3 @@ Polockiečiai su kariuomene patraukė iki Gorodeco miesto ir užėmė Mingailos 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Polockiečiai
-- [[objektai/grupes/Totoriai]] kariavo_pries Polockiečiai

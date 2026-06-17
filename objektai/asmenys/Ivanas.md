@@ -90,7 +90,3 @@ Ivanas slapta sutelkė didelę kariuomenę, įsiveržė į Polocko vaivadiją ir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Ivanas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Ivanas buvo_valdovas [[objektai/vietos/Maskva]]

@@ -22,8 +22,7 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie derybų reikalavimą; pradinis sakinys per platus ir nebaigtas.'
-  susije_objektai: 'territory: Maskva; territory: Trakai; territory: Vilnius; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Andrejus Kurbskis|Andrejus Kurbskis]] buvo valdovas Maskva; [[objektai/asmenys/Andrejus Kurbskis|Andrejus Kurbskis]] buvo valdovas Trakai; [[objektai/asmenys/Andrejus Kurbskis|Andrejus Kurbskis]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Valavičiai|Valavičiai]]; mentioned_object: [[objektai/zodynas/Pataurininkis|Pataurininkis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kaštelionas|kaštelionas]]; mentioned_object: [[objektai/zodynas/stalininkas|stalininkas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Eustachijus Valavičius|Eustachijus Valavičius]]; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,8 +34,7 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata palaiko aiškų sąlyginį karaliaus atsakymą.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Andrejus Kurbskis|Andrejus Kurbskis]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Ivanas (Maskvos valdovas).md#claim-t-185947|Ivanas (Maskvos valdovas)]]: Andrejus Kurbskis su šeima persikėlė į Lietuvą, nes nepakentė Ivano žiaurumo.
@@ -98,9 +96,3 @@ Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurb
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Andrejus Kurbskis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Andrejus Kurbskis buvo_valdovas [[objektai/vietos/Maskva]]
-- Andrejus Kurbskis buvo_valdovas [[objektai/vietos/Trakai]]
-- Andrejus Kurbskis buvo_valdovas [[objektai/vietos/Vilnius]]

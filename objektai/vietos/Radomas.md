@@ -76,11 +76,6 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Radomą ir tiksliai perteikia seimo laiką. OCR triukšmas ir redakcinė pastaba apie klaidingą datą į teiginį neperkelta.'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Jonas Zaberezinskis.md#claim-t-186116|Jonas Zaberezinskis]]: Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
-- susijęs iš Trakai: Karalius iš Zaberezinskio atėmė Trakų vaivadiją.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186025|Šich Achmetas]]: Šich Achmetas, Užvolgio skitų valdovas ir tremtinys, iš Vilniaus atvyko į seimą, kur jį priėmė Aleksandras.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-184662|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis Šich Achmetą pasitiko už penkių mylių ir priėmė su didele pagarba.
 - susijęs iš [[objektai/asmenys/Blinkevičius.md#claim-t-80709|Blinkevičius]]: Apylinkės pirmininkas Blinkevičius gavo Pušaloto valsčiaus valdžios leidimą surinkti miške likusius lavonus.
 - susijęs iš [[objektai/asmenys/Jonas Zaberezinskis.md#claim-t-186116|Jonas Zaberezinskis]]: Karalius atėmė iš Jono Zaberezinskio Trakų vaivadiją, kai paaiškėjo, kad jo sumanymai seime tapo žinomi.
@@ -196,10 +191,3 @@ Vytauto ir Lietuvos bajorų dokumentai buvo parašyti Vilniuje; Jogailos dokumen
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Radomas
-- [[objektai/asmenys/Jonas Zaberezinskis]] buvo_valdovas Radomas
-- [[objektai/asmenys/Zaberezinskis]] buvo_valdovas Radomas
-- [[objektai/asmenys/Šich Achmetas]] buvo_valdovas Radomas
-- [[objektai/asmenys/Šich Achmetas]] keliavo_i Radomas

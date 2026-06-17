@@ -284,6 +284,7 @@ Nenurodyta
     - t-007
 
 ## Ryšiai
+- [[objektai/grupes/Kalavijuočių ordinas]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
+- [[objektai/grupes/Kryžiuočių ordinas]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
 - [[objektai/grupes/Kuršiai]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
 - [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)
-- [[objektai/asmenys/Volkvinas]] dalyvavo_musyje Saulės mūšis (1236 m. rugsėjo 22 d.)

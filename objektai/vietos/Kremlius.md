@@ -63,10 +63,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
-- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
@@ -106,8 +102,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Gediminas]] buvo_valdovas Kremlius
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] buvo_valdovas Kremlius
-- [[objektai/asmenys/Vladimiras Andrejevičius]] buvo_valdovas Kremlius

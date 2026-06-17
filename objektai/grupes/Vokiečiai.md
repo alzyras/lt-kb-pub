@@ -170,19 +170,8 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
   temporalinis_llm_pakomentavimas: 'Perrašyta pašalinant šaltinio maketo triukšmą ir įtraukiant citatoje nurodytus metus.'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/asmenys/Georgas Zauerveinas.md#claim-t-18912|Georgas Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
-- susijęs iš [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas.md#claim-t-19393|Georgas (liet. Jurgis) Zauerveinas]]: Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
 - susijęs iš Durbė: Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176304|Algirdas (Lietuvos valdovas)]]: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.
-- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
-- susijęs iš Dorpatas: Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.
-- susijęs iš Osterodė: Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.
-- susijęs iš Paneriai: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
-- susijęs iš Žemaitija: Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.
-- susijęs iš Žemaitija: Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75630|A. Hitleris]]: 1939 m. kovo 23 d. Klaipėdoje A. Hitlerį sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75631|A. Hitleris]]: 1939 m. kovo 23 d. Adolfą Hitlerį Klaipėdoje sveikino vietos vokiečių nacių simpatikai ir SA smogikai.
@@ -197,6 +186,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
 - susijęs iš [[objektai/asmenys/Aleksandras Kolčiakas.md#claim-t-18777|Aleksandras Kolčiakas]]: Aleksandrui Kolčiakui formaliai buvo pavaldi Pavelo Bermonto-Avalovo vadovaujama rusų ir vokiečių kariuomenė.
 - susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10667|Algirdas (Lietuvos valdovas)]]: Kęstučiui užėmus Vilnių, Algirdas gavo valdyti Vilniaus kunigaikštystę.
+- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176304|Algirdas (Lietuvos valdovas)]]: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75744|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Grėsmės akivaizdoje Antanas Smetona leido Antanui Merkiui pasirašyti bet kokias sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.
@@ -1700,18 +1690,7 @@ Vokiečiai čia rodomi ir kaip Lietuvos istoriją savais tikslais tyrinėjanti, 
     - t-017
 
 ## Ryšiai
-- [[objektai/asmenys/Georgas Zauerveinas]] kariavo_pries Vokiečiai
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Vokiečiai
 - [[objektai/grupes/Poloviečiai]] kariavo_pries Vokiečiai
 - Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]
-- Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Rūdavos mūšis (1370 m. vasario 17 d.)]]
 - Vokiečiai dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
-- [[objektai/vietos/Dorpatas]] priklause Vokiečiai
-- [[objektai/asmenys/Julijona]] susije_su Vokiečiai
-- [[objektai/grupes/Lietuviai]] priklause Vokiečiai
-- [[objektai/vietos/Osterodė]] priklause Vokiečiai
-- [[objektai/vietos/Paneriai]] priklause Vokiečiai
-- [[objektai/vietos/Veliuona]] priklause Vokiečiai
-- [[objektai/grupes/Vilniaus miestiečių luomas]] priklause Vokiečiai
-- [[objektai/vietos/Žemaitija]] priklause Vokiečiai

@@ -31,9 +31,9 @@ Iškilusi Popiežiaus diplomatas Fulvio Ruggieri (1572 m.) aprašo ATR valdovo a
   global_id: t-41521
   teiginys: 'Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Pskovas; territory: Rusija; territory: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: iki 1582 m.; valdymo laikotarpis: 1572 m.; valdymo laikotarpis: 1582 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Pskovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001

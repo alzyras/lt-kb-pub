@@ -40,10 +40,9 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
 - t-002
   global_id: t-35030
   teiginys: 'Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.'
-  susije_objektai: 'location: Rusija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Rusija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Andrius Vosylius Jastrzębiecas|Andrius Vosylius Jastrzębiecas]] keliavo į Rusija; [[objektai/asmenys/Andrius Vosylius Jastrzębiecas|Andrius Vosylius Jastrzębiecas]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Dlugošas|Dlugošas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Andrius Vosylius Jastrzębiecas keliavo į Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Andrius Vosylius Jastrzębiecas keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -82,7 +81,3 @@ Kartu su jais atvyko keli Jogailos broliai, Cereteno^1 ) vyskupas Andrius Vosyli
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Andrius Vosylius Jastrzębiecas keliavo_i [[objektai/vietos/Rusija]]
-- Andrius Vosylius Jastrzębiecas keliavo_i [[objektai/vietos/Vilnius]]

@@ -245,5 +245,4 @@ Nenurodyta
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)
-- [[objektai/grupes/Rusai]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)
 - [[objektai/grupes/Totoriai]] dalyvavo_musyje Klecko mūšis (mūšis, XVI a.)

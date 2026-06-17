@@ -57,9 +57,9 @@ Prūsija prisijungė Užnemunę ir pavadino ją „Naująja Prūsija“ (Prūsij
   global_id: t-19169
   teiginys: 'Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo apie teritoriją, perrašyta kaip faktas apie asmenį.'
-  susije_objektai: 'owner: Užnemunė; owner: Varšuva; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: iki 1807 m.; priklausymo laikotarpis: 1807 m.; priklausymo laikotarpis: 1807-1814; priklausymo laikotarpis: 1814 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuva priklausė Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuva priklausė Varšuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Užnemunė; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įkūrimo data: iki 1807 m.; įkūrimo data: 1807 m.; įkūrimo data: 1807-1814; įkūrimo data: 1814 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įkūrimo data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie teritoriją, perrašyta kaip faktas apie asmenį.'
   pagrindžia:
     - c-002

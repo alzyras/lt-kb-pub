@@ -100,9 +100,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - t-008
   global_id: t-93938
   teiginys: 'Po Zigmanto mirties Mozūrų kunigaikštis buvo užėmęs Drohičiną, dėl kurio Lietuva pradėjo karą.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'valdymo pradžia: 1444 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1444 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-006
 
@@ -126,9 +126,9 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Belskas; territory: Lenkija; territory: Lietuva; territory: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Belskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
+  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Belskas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1444 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas buvo valdovas Belskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Boleslovas buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Boleslovas buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-008
@@ -156,8 +156,6 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Melnikas'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
-- susijęs iš Volynė: Metraštis pasakoja, kad Kazimieras atvyko į Vilnių ir sėdo valdyti visos Didžiosios Lietuvos, Rusų ir Volynės Kunigaikštystės.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184680|Boleslovas (Mazovijos kunigaikštis)]]: Boleslovas, Mazovijos kunigaikštis, užpuolė Palenkę ir užėmė Melniką, Belską bei Drohičiną.
 - susijęs iš [[objektai/asmenys/Liubartas Gediminaitis.md#claim-t-30353|Liubartas Gediminaitis]]: Liubartas Gediminaitis mirė apie 1385 m.
 - susijęs iš [[objektai/asmenys/Liudvikas Bavaras.md#claim-t-60052|Liudvikas Bavaras]]: 1325–1326 m. Liudvikas Bavaras buvo vienoje jėgų grupuotėje su Brandenburgu, Kryžiuočių ordinu ir Galičo–Volynės kunigaikštyste.
@@ -165,6 +163,7 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90056|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis, pasiuntęs gardiniečius, užėmė prie Vakarų Bugo buvusį Drohičiną.
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64599|H. Paszkiewicz]]: H. Paszkiewiczius 1938 m. paskelbė 206 puslapių veikalą „O genezie i wartości Krewa“.
 - susijęs iš [[objektai/autoriai/H. Paszkiewicz.md#claim-t-64600|H. Paszkiewicz]]: H. Paszkiewicz parašė veikalą „O genezie i wartości Krewa“.
+- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-187731|Mazovijos kunigaikščiai]]: Mazovijos kunigaikštis Boleslovas IV 1440 m. balandį arba gegužę užėmė Drohičino žemę Palenkėje ir laikė ją bent ketverius metus.
 - susijęs iš [[objektai/ivykiai/Boleslovo, Mazovijos kunigaikščio, Palenkės užėmimas (1440 m.).md#claim-t-185799|Boleslovo, Mazovijos kunigaikščio, Palenkės užėmimas (1440 m.)]]: Užpuolęs Palenkę, Mazovijos kunigaikštis Boleslovas užėmė Melniką, Belską ir Drohičiną.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186625|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis teigia, kad Jurgis Nosuta pervedė Drohičiną ir Melniką Mykoliuko Žygimantaičio tarnybon ir ragino lenkų miestus atsiskirti nuo LDK.
 - susijęs iš [[objektai/ivykiai/Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis.md#claim-t-186628|Drohičino ir Melniko perėjimas Mykoliuko pusėn bei Jono Goštauto atsakomasis žygis]]: Lietuvos metraštis pasakoja, kad Jurgis Nosuta su Drohičinu ir Melniku perėjo į Mykoliuko Žygimantaičio tarnybą.
@@ -413,7 +412,3 @@ Todėl, kai Kęstutis ruošėsi nubausti Jogailą, Vytautas išvyko į Drohičin
   statusas: verified
   pagrindžia:
     - t-012
-
-## Ryšiai
-- [[objektai/grupes/Mazovijos kunigaikščiai]] susije_su Drohičinas
-- [[objektai/asmenys/Jurgis Nosuta]] keliavo_i Drohičinas

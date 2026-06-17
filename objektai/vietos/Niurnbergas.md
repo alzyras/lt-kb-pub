@@ -38,8 +38,6 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
-- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113838|Julijona (Vytauto žmona)]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113848|Julijona (Vytauto žmona)]]: Niurnbergo auksakaliai buvo pagaminę karūnas Vytautui ir jo žmonai Julijonai.
 - susijęs iš [[objektai/asmenys/Kunzas Lochneris.md#claim-t-80737|Kunzas Lochneris]]: Kunzas Lochneris XVI a. 6 dešimtmetyje Niurnberge pagamino Žygimanto Augusto paradinius šarvus.
@@ -74,7 +72,3 @@ Abu kunigaikščiai pasiuntė pas imperatorių į Niurnbergą vieną savo šeimo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Niurnbergas
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] keliavo_i Niurnbergas

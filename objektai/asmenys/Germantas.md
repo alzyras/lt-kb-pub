@@ -33,8 +33,8 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   global_id: t-87425
   teiginys: 'Pasak kronikų, Lietuvos kunigaikštis Germantas XIII a. Vilniaus vietoje turėjo pirmasis įkurdinti vaidilą.'
   sudarymo_pagrindimas: 'Reikia pataisyti žodžių tvarką ir suformuoti sklandų enciklopedinį sakinį.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Germantas|Germantas]] buvo valdovas Lietuva; [[objektai/asmenys/Germantas|Germantas]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Germantas|Germantas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-003
 
@@ -292,4 +292,3 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
 
 ## Ryšiai
 - Germantas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Germantas buvo_valdovas [[objektai/vietos/Vilnius]]

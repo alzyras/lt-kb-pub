@@ -206,9 +206,5 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
     - t-007
 
 ## Ryšiai
-- Divanas puole [[objektai/grupes/Bartai]]
 - Divanas puole [[objektai/vietos/Kristburgas]]
-- Divanas puole [[objektai/vietos/Kulmas]]
-- Divanas puole [[objektai/asmenys/Linkas]]
 - Divanas puole [[objektai/grupes/Pagudėnai]]
-- Divanas puole [[objektai/vietos/Pilaitė]]

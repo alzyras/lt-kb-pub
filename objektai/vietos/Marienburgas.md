@@ -63,9 +63,9 @@ rijenburgas.
 - t-003
   global_id: t-177685
   teiginys: '1576 m. rugsėjo 23 d. iš Marienburgo rašytame laiške karalius pareiškė muitą nustatysiąs tik gavęs prie jo buvusios Senato tarybos sutikimą.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1576 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Steponas Batoras buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas Batoras buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1576 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
 
@@ -219,16 +219,12 @@ rijenburgas.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia įvardyti pabėgėlį ir atriboti metraščio pasakojimą bei titulą.'
-  susije_objektai: 'location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_person: [[objektai/asmenys/Žygimantas Augustas|Žygimantas Augustas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
-- susijęs iš Lenkijos karaliaus laiškas didžiajam magistrui dėl rūmų gydytojo: Lenkijos karalius laiške dėkojo didžiajam magistrui už atsiųstą rūmų gydytoją ir gyrė jo patyrimą.
 - susijęs iš [[objektai/asmenys/Švitrigaila.md#claim-t-179722|Švitrigaila]]: Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179071|Kryžiuočių ordinas]]: Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą.
-- susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-184062|Fridrichas (Marienburgo brolis)]]: Brolis Fridrichas ir brolis Heinemanas gyveno Marienburgo pilyje ir buvo vaizduojami kaip labai artimi.
 - susijęs iš [[objektai/asmenys/Fridrichas (Marienburgo brolis).md#claim-t-60277|Fridrichas (Marienburgo brolis)]]: Marienburgo pilyje gyvenęs brolis Fridrichas nukrito nuo žirgo ir užsimušė.
 - susijęs iš [[objektai/asmenys/Gerhardas.md#claim-t-60121|Gerhardas (valdovas)]]: Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.
@@ -600,8 +596,4 @@ rijenburgas.
 ## Ryšiai
 - [[objektai/asmenys/Fridrichas (Marienburgo brolis)]] gyveno Marienburgas
 - [[objektai/asmenys/Gerhardas|Gerhardas (valdovas)]] gyveno Marienburgas
-- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]] buvo_valdovas Marienburgas
-- [[objektai/asmenys/Vladislovas Lokietka]] buvo_valdovas Marienburgas
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Marienburgas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Marienburgas
 - [[objektai/asmenys/Švitrigaila]] keliavo_i Marienburgas

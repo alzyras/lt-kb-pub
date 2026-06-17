@@ -49,14 +49,12 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   global_id: t-58450
   teiginys: 'Albertas Didysis 18 metų triūsė Kelne, mirė 1280 m., sulaukęs 80 metų, ir buvo palaidotas Kelne.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Kelne vykusius Alberto Didžiojo gyvenimo faktus.'
-  susije_objektai: 'location: Kelnas; mentioned_person: [[objektai/asmenys/Albertas Didysis|Albertas Didysis]]; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Albertas Didysis|Albertas Didysis]] mirė Kelnas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas Didysis|Albertas Didysis]]; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'mirties data: 1280 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albertas Didysis (pamokslininkų ordino kunigas, XIII a.) mirė Kelnas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Kelne vykusius Alberto Didžiojo gyvenimo faktus.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Zigfridas iš Runkelės.md#claim-t-60474|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]]: Mūšyje netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-184043|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56968|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
 - susijęs iš [[objektai/asmenys/Albertas Didysis.md#claim-t-56969|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]]: Albertas Didysis buvo Vokietijoje gimęs pamokslininkų ordino kunigas, garsėjęs neprilygstamu išsilavinimu.
@@ -150,7 +148,3 @@ Dusburgietis teigia, kad atsisakęs Regensburgo vyskupystės, jis 18 metų triū
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Albertas Didysis|Albertas Didysis (pamokslininkų ordino kunigas, XIII a.)]] mire Kelnas
-- [[objektai/asmenys/Zigfridas iš Runkelės|Zigfridas iš Runkelės (arkivyskupas, XIII a.)]] buvo_valdovas Kelnas

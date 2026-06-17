@@ -31,10 +31,9 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   global_id: t-19665
   teiginys: '1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'object: Maskva; object: Nesvyžius; object: Zabluduvas; mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
-  semantiniai_rysiai: '[[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Maskva; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Nesvyžius; [[objektai/grupes/Chodkevičiai|Chodkevičiai]] pastatė Zabluduvas'
-  temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Chodkevičiai pastatė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Chodkevičiai pastatė Zabluduvas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Ivanas Fiodorovas|Ivanas Fiodorovas]]; mentioned_place: Maskva; mentioned_place: Nesvyžius; mentioned_place: Zabluduvas'
+  temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-001
@@ -65,11 +64,9 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
   temporalinis_llm_pakomentavimas: 'Reikia išplėsti inicialais nurodytą asmenį ir išlaikyti aiškų faktinį sakinį.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
 - susijęs iš Maskva: Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene gindamas Smolenską.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
 - susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
-- susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41214|Švedijos kariuomenė]]: Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.
 - susijęs iš [[objektai/asmenys/Augustas.md#claim-t-185940|Augustas]]: Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl metų ir ligų perdavė jam valdymą, o luomai tam pritarė.
 - susijęs iš [[objektai/asmenys/Augustinas Rotundas.md#claim-t-60086|Augustinas Rotundas]]: Jonas Chodkevičius XVI a. antrojoje pusėje perdavė Dusburgiečio kroniką Vilniaus vaitui Augustinui Rotundui.
 - susijęs iš [[objektai/asmenys/Grigalius Chodkevičius.md#claim-t-184710|Grigalius Chodkevičius]]: Krokuvos vestuvėse iš lietuvių puošniausiai atrodė Radvila ir Grigalius Chodkevičius.
@@ -211,8 +208,3 @@ Vėliau Radvila Juodasis įkūrė spaustuvę ir Nesvyžiuje (1562), o 1569 m. su
 
 ## Ryšiai
 - [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Chodkevičiai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Chodkevičiai
-- Chodkevičiai pastate [[objektai/vietos/Maskva]]
-- Chodkevičiai pastate [[objektai/vietos/Nesvyžius]]
-- Chodkevičiai pastate [[objektai/vietos/Zabluduvas]]
-- [[objektai/grupes/Švedijos kariuomenė]] puole Chodkevičiai

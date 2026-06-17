@@ -39,7 +39,7 @@ Nenurodyta
   global_id: t-01908
   teiginys: 'XVII amžiuje, nuo Vladislovo Vazos laikų lietuviams ėmus karalius rinkti bendrai su lenkais, atskiri Lietuvos seimai ėmė nykti.'
   sudarymo_pagrindimas: 'Pašalintas jungtukas ir sakinys paverstas savarankišku faktu.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Atskiri Lietuvos seimai|Atskiri Lietuvos seimai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

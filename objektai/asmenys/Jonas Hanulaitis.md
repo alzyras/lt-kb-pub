@@ -53,7 +53,3 @@ Sūnėnų tvirtas laidavimo žo­ dis ir gudriai pareikštas noras eiti į deryb
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jonas Hanulaitis keliavo_i [[objektai/vietos/Trakai]]
-- Jonas Hanulaitis keliavo_i [[objektai/vietos/Vilnius]]

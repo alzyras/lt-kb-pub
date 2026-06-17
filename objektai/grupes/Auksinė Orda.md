@@ -66,8 +66,7 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - t-005
   global_id: t-12354
   teiginys: 'Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.'
-  susije_objektai: 'territory: Auksinė; territory: Europa; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Auksinė; mentioned_place: Europa'
-  semantiniai_rysiai: '[[objektai/grupes/Auksinė Orda|Auksinė Orda]] susiję su Auksinė; [[objektai/grupes/Auksinė Orda|Auksinė Orda]] susiję su Europa'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Auksinė; mentioned_place: Europa'
   pagrindžia:
     - c-005
 
@@ -105,8 +104,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   global_id: t-92027
   teiginys: 'Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys būtų sklandesnis ir tiksliau perteiktų citatos formuluotę.'
-  susije_objektai: 'territory: Auksinė; territory: Europa; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Auksinė; mentioned_place: Europa'
-  semantiniai_rysiai: '[[objektai/grupes/Auksinė Orda|Auksinė Orda]] valdė teritoriją Auksinė; [[objektai/grupes/Auksinė Orda|Auksinė Orda]] valdė teritoriją Europa'
+  susije_objektai: 'territory: Europa; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Auksinė; mentioned_place: Europa'
+  semantiniai_rysiai: '[[objektai/grupes/Auksinė Orda|Auksinė Orda]] valdė teritoriją Europa'
   pagrindžia:
     - c-008
 
@@ -136,8 +135,6 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
   temporalinis_llm_pakomentavimas: 'Valdovo titulas ir politinis apibūdinimas palikti su komentaro atribucija. Sąmoningai neperimtas motyvinis teiginys apie siekį pajungti Maskvą kaip neutralus faktas.'
   pagrindžia:
     - c-011
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-183726|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis buvo vienas iš žymių Lietuvos kunigaikščių, žuvusių mūšyje.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis Polockietis.md#claim-t-40019|Andrius Algirdaitis Polockietis]]: Andrius Algirdaitis Polockietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Burundajus.md#claim-t-78960|Burundajus]]: Burundajus vadovavo Aukso ordos totoriams per didelį antpuolį, kurį Lietuva atrėmė žiemą.
@@ -148,6 +145,8 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
 - susijęs iš [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis.md#claim-t-183733|Dmitrijus Algirdaitis Brenskietis]]: Dmitrijus Algirdaitis Brenskietis žuvo mūšyje, kuriame krito keliasdešimt žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus Algirdaitis Brenskietis.md#claim-t-39509|Dmitrijus Algirdaitis Brenskietis]]: Dmitrijus Algirdaitis Brenskietis buvo tarp mūšyje žuvusių žymių Lietuvos kunigaikščių.
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30226|Ediga]]: Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176380|Gediminas]]: Nors Lietuva prisijungė nemažą dalį rusų žemių, bet ir Gediminas, ir Algirdas už teisę jas valdyti turėjo nuolat mokėti duoklę Aukso ordai (Ldk Vytautas nustojo mokėti mongolams duoklę).
 - susijęs iš [[objektai/asmenys/Jonas Survila.md#claim-t-39563|Jonas Survila]]: Kryžiuotis lietuvis Jonas Survila žuvo mūšyje tarnaudamas senajai Tėvynei.
 - susijęs iš [[objektai/asmenys/Kiprijonas.md#claim-t-63829|Kiprijonas]]: Kijevo metropolitas Kiprijonas buvo raginamas kviesti tikinčiuosius į karą prieš totorius.
@@ -431,9 +430,4 @@ Jonas III su naujuoju chanu padarė sąjungą ir sunaikino Auksinę Ordą. Šiam
     - t-011
 
 ## Ryšiai
-- Auksinė Orda valde_teritorija [[objektai/vietos/Auksinė]]
 - Auksinė Orda valde_teritorija [[objektai/vietos/Europa]]
-- Auksinė Orda susije_su [[objektai/vietos/Auksinė]]
-- Auksinė Orda susije_su [[objektai/vietos/Europa]]
-- [[objektai/asmenys/Tochtamišas]] susije_su Auksinė Orda
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] susije_su Auksinė Orda

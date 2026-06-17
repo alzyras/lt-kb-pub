@@ -32,7 +32,7 @@ Iš Pskovo buvo atvykę Livonijon 200 karių kaip kalavijuočių ordino sąjungi
   global_id: t-28730
   teiginys: 'Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą karių kilmę, vaidmenį ir tikslą.'
-  susije_objektai: 'location: Lietuva; location: Livonija; location: Naugardas; location: Pskovas; location: Tverė; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Tverė'
   pagrindžia:
     - c-001
 

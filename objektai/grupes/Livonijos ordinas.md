@@ -107,10 +107,10 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
 - t-007
   global_id: t-179359
   teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
-  susije_objektai: 'location: Livonija; location: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Semba'
-  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Livonija; [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Semba'
+  susije_objektai: 'location: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Livonija; mentioned_place: Semba'
+  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] keliavo į Semba'
   temporaliniai_duomenys: 'kelionės data: 1410 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Livonijos ordinas keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Livonijos ordinas keliavo į Semba“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Livonijos ordinas keliavo į Semba“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-052
 
@@ -505,8 +505,7 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
   global_id: t-179411
   teiginys: 'Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.'
   sudarymo_pagrindimas: 'Nutrūkęs fragmentas perrašytas į pilną faktinį sakinį.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
-  semantiniai_rysiai: '[[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] susiję su Lietuva; [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] susiję su Livonija; [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]] susiję su Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
   pagrindžia:
     - c-043
 
@@ -1704,8 +1703,4 @@ Livonijos ordino kariuomenė yra Traidenio kovų taikinys. Livonijos ordinas įv
     - t-007
 
 ## Ryšiai
-- Livonijos ordinas susije_su [[objektai/vietos/Lietuva]]
-- Livonijos ordinas susije_su [[objektai/vietos/Livonija]]
-- Livonijos ordinas susije_su [[objektai/vietos/Ukmergė]]
-- Livonijos ordinas keliavo_i [[objektai/vietos/Livonija]]
 - Livonijos ordinas keliavo_i [[objektai/vietos/Semba]]

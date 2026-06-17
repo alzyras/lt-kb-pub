@@ -40,7 +40,7 @@ IV Kražių apygardoje buvo Kaune, Kretingoje, Panevėžy, Raseiniuose ir Ukmerg
   global_id: t-171659
   teiginys: 'Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
   sudarymo_pagrindimas: 'Reikia išplėsti asmens nuorodą ir suformuluoti enciklopedinį sakinį.'
-  susije_objektai: 'location: Latvija; location: Mažeikiai; location: Priekulė; mentioned_place: Latvija; mentioned_place: Mažeikiai; mentioned_place: Priekulė'
+  susije_objektai: 'mentioned_place: Latvija; mentioned_place: Mažeikiai; mentioned_place: Priekulė'
   pagrindžia:
     - c-002
 

@@ -24,8 +24,8 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   global_id: t-87913
   teiginys: 'Prūsijoje lietuvių paimtos karo belaisvės sūnus buvo vadinamas Kiršenšteinu, o jo giminė vėliau valdė Raudonės pilį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Prūsija; territory: Raudonė; territory: Viena; territory: Vilnius; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Raudonė; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Kiršenšteinas|Kiršenšteinas]] valdė teritoriją Prūsija; [[objektai/asmenys/Kiršenšteinas|Kiršenšteinas]] valdė teritoriją Raudonė; [[objektai/asmenys/Kiršenšteinas|Kiršenšteinas]] valdė teritoriją Viena; [[objektai/asmenys/Kiršenšteinas|Kiršenšteinas]] valdė teritoriją Vilnius'
+  susije_objektai: 'territory: Raudonė; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Prūsija; mentioned_place: Raudonė; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Kiršenšteinas|Kiršenšteinas]] valdė teritoriją Raudonė'
   pagrindžia:
     - c-001
 
@@ -59,7 +59,4 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
     - t-001
 
 ## Ryšiai
-- Kiršenšteinas valde_teritorija [[objektai/vietos/Prūsija]]
 - Kiršenšteinas valde_teritorija [[objektai/vietos/Raudonė]]
-- Kiršenšteinas valde_teritorija [[objektai/vietos/Viena]]
-- Kiršenšteinas valde_teritorija [[objektai/vietos/Vilnius]]

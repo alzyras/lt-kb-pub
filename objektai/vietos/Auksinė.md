@@ -45,14 +45,13 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Šernas|Šernas]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Europa; mentioned_place: Prieglius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92027|Auksinė Orda]]: Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12354|Auksinė Orda]]: Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54948|Barbora Radvilaitė]]: Barbora Radvilaitė ir Žygimantas Augustas susituokė slapta 1547 m. rugsėjo mėnesį Karalių koplyčioje Vilniuje.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54950|Barbora Radvilaitė]]: 1547 m. rugsėjo 10 d. Barbora, dar kaip Stanislovienė Goštautienė, išdavė slavišką pakvitavimą.
 - susijęs iš [[objektai/asmenys/Ona Jogailaitė.md#claim-t-54982|Ona Jogailaitė]]: Karalaitei Onai (Onai Jogailaitei) buvo atskirai dovanojamas žiede įtvirtintas aštrus deimantas.
 - susijęs iš [[objektai/asmenys/Petras Ivanovskis.md#claim-t-87826|Petras Ivanovskis]]: 1547 m. rugsėjo 10 d. Barbora Radvilaitė pasiskolino iš Petro Ivanovskio 128 kapas grašių ir 8 dubenis medaus.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
+- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12354|Auksinė Orda]]: Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92025|Auksinė Orda]]: Jonas III sudarė sąjungą su Perekopo chanu ir sunaikino Auksinę Ordą.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92026|Auksinė Orda]]: Po Tamerlano žygių Auksinėje Ordoje buvo pasodintas Koiridžakas-Aglenas, o po jo - Kotlogas-Timuras.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92027|Auksinė Orda]]: Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.
@@ -104,7 +103,3 @@ Dusburgietis teigia, kad sandūroje sudarytame Sreterio žemėlapyje Auksinės (
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/grupes/Auksinė Orda]] valde_teritorija Auksinė
-- [[objektai/grupes/Auksinė Orda]] susije_su Auksinė

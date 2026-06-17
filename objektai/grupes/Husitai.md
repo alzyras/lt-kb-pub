@@ -131,8 +131,6 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie husitus ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
 - susijęs iš [[objektai/asmenys/Martynas V.md#claim-t-184436|Martynas V]]: Martynas V keliais atvejais ragino Vytautą pasitraukti nuo husitų.
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
 - susijęs iš [[objektai/asmenys/St. Ciolką.md#claim-t-34827|St. Ciolką]]: St. Ciolka buvo Vytauto proteguojamas kandidatas į Poznanės vyskupus.
@@ -354,7 +352,3 @@ Varėnon atvykusiems husitų pasiuntiniams, kurie Vytautą kvietėsi savo karali
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-- [[objektai/asmenys/Prokopas]] kariavo_pries Husitai
-- [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Husitai

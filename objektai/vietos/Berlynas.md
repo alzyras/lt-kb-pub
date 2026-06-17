@@ -202,7 +202,6 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, datą, vietą ir veiksmą.'
   pagrindžia:
     - c-013
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179342|Lietuviai]]: Oberosto režimo metu lietuviai įsteigė apie tūkstantį mokyklų ir mokytojų kursų.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77983|A. Smetona]]: 1918 m. kovo 23 d. A. Smetonos vadovaujama Tarybos delegacija Berlyne pristatė Vasario 16-osios deklaraciją Vokietijos kancleriui.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77985|A. Smetona]]: 1918 m. gruodžio 21 d. A. Smetona išvyko į Berlyną ir pasirašė 100 mln. markių paskolą ginklams įsigyti.
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
@@ -565,6 +564,3 @@ Boguslovo Radvilos († 1669 m.) duktė, likusi mažytė, augo globojama Branden
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/grupes/Lietuviai]] pastate Berlynas

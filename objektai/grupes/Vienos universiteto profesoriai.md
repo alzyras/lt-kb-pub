@@ -33,8 +33,7 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   global_id: t-34352
   teiginys: 'Zigmanto pakviesti Vienos universiteto profesoriai aiškino, kad popiežiaus patvirtintas Romos karalius gali karūnuoti kitus.'
   sudarymo_pagrindimas: 'Citata leidžia aiškesnį faktinį sakinį apie profesorių nuomonę.'
-  susije_objektai: 'territory: Viena; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Vienos universiteto profesoriai|Vienos universiteto profesoriai]] susiję su Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -98,6 +97,3 @@ Po jo atsiliepė ir Vienos universiteto profesoriai, pakviesti Zigmanto pareišk
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vienos universiteto profesoriai susije_su [[objektai/vietos/Viena]]

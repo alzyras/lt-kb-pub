@@ -52,6 +52,3 @@ p. 254, Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Aukščiausiosios Tarybos gynybos štabas (institucija) priklause [[objektai/vietos/Aukščiausiosios Tarybos rūmai|Aukščiausiosios Tarybos rūmai (institucija)]]

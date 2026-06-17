@@ -54,8 +54,7 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir tik netiesiogiai susijęs su komisijomis.'
-  susije_objektai: 'owner: Lenkija; owner: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Kariuomenės ir Iždo komisijos|Kariuomenės ir Iždo komisijos]] priklausė Lenkija; [[objektai/grupes/Kariuomenės ir Iždo komisijos|Kariuomenės ir Iždo komisijos]] priklausė Lietuva'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -128,7 +127,3 @@ Tvarkyti valstybės reikalus valdovui turi padėti vyriausybė, vadinama Teisių
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Kariuomenės ir Iždo komisijos priklause [[objektai/vietos/Lenkija]]
-- Kariuomenės ir Iždo komisijos priklause [[objektai/vietos/Lietuva]]

@@ -38,10 +38,10 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   global_id: t-60202
   teiginys: 'Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.'
   sudarymo_pagrindimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia Samboro dalyvavimą žygyje ir pilies sustiprinimą.'
-  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] keliavo į Bebras; [[objektai/asmenys/Samboras|Samboras]] keliavo į Kaimas; [[objektai/asmenys/Samboras|Samboras]] keliavo į Krokuva; [[objektai/asmenys/Samboras|Samboras]] keliavo į Kujavija; [[objektai/asmenys/Samboras|Samboras]] keliavo į Kulmas; [[objektai/asmenys/Samboras|Samboras]] keliavo į Marienverderis; [[objektai/asmenys/Samboras|Samboras]] keliavo į Nogatas; [[objektai/asmenys/Samboras|Samboras]] keliavo į Pomeranija; [[objektai/asmenys/Samboras|Samboras]] keliavo į Prūsai; [[objektai/asmenys/Samboras|Samboras]] keliavo į Prūsija; [[objektai/asmenys/Samboras|Samboras]] keliavo į Rizenburgas; [[objektai/asmenys/Samboras|Samboras]] keliavo į Vroclavas; [[objektai/asmenys/Samboras|Samboras]] keliavo į Vysla'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Samboras|Samboras]] keliavo į Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Samboras keliavo į Bebras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Marienverderis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Nogatas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Vroclavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Samboras keliavo į Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Samboras keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys fragmentiškas; citata pagrindžia Samboro dalyvavimą žygyje ir pilies sustiprinimą.'
   pagrindžia:
     - c-002
@@ -111,16 +111,4 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - t-002
 
 ## Ryšiai
-- Samboras keliavo_i [[objektai/vietos/Bebras]]
-- Samboras keliavo_i [[objektai/vietos/Kaimas]]
-- Samboras keliavo_i [[objektai/vietos/Krokuva]]
-- Samboras keliavo_i [[objektai/vietos/Kujavija]]
-- Samboras keliavo_i [[objektai/vietos/Kulmas]]
-- Samboras keliavo_i [[objektai/vietos/Marienverderis]]
-- Samboras keliavo_i [[objektai/vietos/Nogatas]]
-- Samboras keliavo_i [[objektai/vietos/Pomeranija]]
-- Samboras keliavo_i [[objektai/vietos/Prūsai]]
 - Samboras keliavo_i [[objektai/vietos/Prūsija]]
-- Samboras keliavo_i [[objektai/vietos/Rizenburgas]]
-- Samboras keliavo_i [[objektai/vietos/Vroclavas]]
-- Samboras keliavo_i [[objektai/vietos/Vysla]]

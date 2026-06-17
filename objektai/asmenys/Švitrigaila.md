@@ -327,10 +327,10 @@ periodo_grupes:
 - t-033
   global_id: t-179722
   teiginys: 'Švitrigaila apsimestinai sutiko su sutartimi, o 1402 m. persirengęs pirkliu nuvyko pas magistrą į Marienburgą.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Marienburgas; location: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Lenkija; [[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Lietuva; [[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Marienburgas; [[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Vilnius'
+  susije_objektai: 'location: Marienburgas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos ir Rusios didikai bei žemvaldžiai|Lietuvos ir Rusios didikai bei žemvaldžiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Marienburgas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Švitrigaila|Švitrigaila]] keliavo į Marienburgas'
   temporaliniai_duomenys: 'kelionės data: 1402 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila keliavo į Marienburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila keliavo į Marienburgas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-033
 
@@ -1776,17 +1776,6 @@ periodo_grupes:
 
 ## Ryšiai
 - [[objektai/grupes/Moldovos kunigaikščiai]] kariavo_pries Švitrigaila
-- Švitrigaila kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Švitrigaila kariavo_pries [[objektai/grupes/Moldovos kunigaikščiai]]
 - [[objektai/grupes/Švitrigailos šalininkai]] kariavo_pries Švitrigaila
-- Švitrigaila dalyvavo_musyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Lietuva]]
-- Švitrigaila valde_teritorija [[objektai/vietos/Podolė]]
-- Švitrigaila buvo_valdovas [[objektai/vietos/Alšėnai]]
-- Švitrigaila buvo_valdovas [[objektai/vietos/Ašmena]]
-- Švitrigaila buvo_valdovas [[objektai/vietos/Polockas]]
-- Švitrigaila buvo_valdovas [[objektai/vietos/Vilnius]]
-- Švitrigaila keliavo_i [[objektai/vietos/Lenkija]]
-- Švitrigaila keliavo_i [[objektai/vietos/Lietuva]]
 - Švitrigaila keliavo_i [[objektai/vietos/Marienburgas]]
-- Švitrigaila keliavo_i [[objektai/vietos/Vilnius]]

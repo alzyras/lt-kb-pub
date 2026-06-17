@@ -36,7 +36,6 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citatos informacija apie Bełsko seimą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas).md#claim-t-87884|Vladislovas (karalius, Stepono pirmtakas)]]: Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Aleksandras Jurgėvičius.md#claim-t-87616|Aleksandras Jurgėvičius]]: Aleksandras Jurgėvičius 1501 metais Gardine minėtas kaip Vilniaus kaštelionas ir Gardino seniūnas.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82285|Elena (vyskupas, XV–XVI a.)]]: Aleksandras užrašė Elenai ir jos įpėdiniams Smolnėnus, Horodiščę, Losičius ir kitas valdas su jų priklausiniais.
@@ -96,6 +95,3 @@ Kai dar 1564 metais Bełsko seime Žygimantas Augustas tvirtino Lietuvai Antrąj
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)]] buvo_valdovas Bełskas

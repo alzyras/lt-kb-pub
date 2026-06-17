@@ -31,9 +31,9 @@ Tada Salza priėmė kvietimą Konrado, kuris 1230 m. kryžiuočiams užrašė Ku
   global_id: t-99929
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas kryžiuočiams užrašė Kulmiją.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir patikslintas veikėjas pagal citatą.'
-  susije_objektai: 'territory: Mozūrija; territory: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Mozūrija; mentioned_place: Prūsai'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Mozūrija; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1226 m.; valdymo laikotarpis: 1230 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo valdovas Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia ir patikslintas veikėjas pagal citatą.'
   pagrindžia:
     - c-001

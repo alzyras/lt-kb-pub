@@ -36,9 +36,9 @@ amziai:
   global_id: t-90737
   teiginys: 'Konradas nuo 1202 m. buvo Mazovijos, Kujavijos, Seradzo ir Lenčicos kunigaikštis.'
   sudarymo_pagrindimas: 'Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą.'
-  susije_objektai: 'territory: Krokuva; territory: Lenčica; territory: Viena; mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Krokuva; mentioned_place: Lenčica; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/netikėliai|netikėliai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Krokuva; mentioned_place: Lenčica; mentioned_place: Viena'
   temporaliniai_duomenys: 'valdymo pradžia: po 1202 m.; valdymo pradžia: 1202 m.; valdymo pradžia: 1243 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Viena“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Lenčica“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai perteikia išnašoje pateiktą informaciją apie Konradą.'
   pagrindžia:
     - c-006
@@ -86,7 +86,7 @@ amziai:
   global_id: t-90742
   teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata patvirtina Kujavijos valdymą.'
-  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-008
 
@@ -107,7 +107,7 @@ amziai:
   global_id: t-90744
   teiginys: 'Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, ištaisytas OCR triukšmas ir paliktas citata pagrįstas faktas.'
-  susije_objektai: 'territory: Dobrynė; territory: Lenkija; territory: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Vengrija'
+  susije_objektai: 'territory: Vengrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Zigmantas Liuksemburgietis|Zigmantas Liuksemburgietis]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -128,17 +128,10 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Dubliuojamas fragmentiškas teiginys, kurį citata pagrindžia kaip pilną faktą.'
-  susije_objektai: 'territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-008
 - susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
-- susijęs iš [[objektai/asmenys/Pukuveras.md#claim-t-60195|Pukuveras (Lietuvos karalius, XIII a.)]]: 1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.
-- susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90058|Traidenis (valdovas, XIII a.)]]: Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.
-- susijęs iš [[objektai/ivykiai/Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas.md#claim-t-66640|Kristaus karių, arba Dobrynės brolių, subūrimas ir įkurdinimas]]: Kunigaikštis Kristaus karių ordinui perdavė Dobrynės pilį ir žemės plotą Kujavijoje, vadintą Sedlcais.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
-- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/Boguslavas (jaunesnysis Dirsovijos grafas).md#claim-t-60252|Boguslavas (jaunesnysis Dirsovijos grafas)]]: Jaunesnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
 - susijęs iš [[objektai/asmenys/Boguslavas (vyresnysis Dirsovijos grafas).md#claim-t-60253|Boguslavas (vyresnysis Dirsovijos grafas)]]: Vyresnysis Dirsovijos grafas Boguslavas buvo tarp liudytojų, dalyvavusių apie 1226 ar 1230 m. patvirtinant žemių dovanojimą.
 - susijęs iš [[objektai/asmenys/Gernuldas.md#claim-t-60290|Gernuldas]]: Apie 1226 (1230) m. abatas Gernuldas dalyvavo kaip Kulmo ir Lubavos žemių dovanojimo rašto liudytojas.
@@ -346,10 +339,3 @@ amziai:
 
 ## Ryšiai
 - [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]] valde_teritorija Kujavija
-- [[objektai/asmenys/Konradas]] buvo_valdovas Kujavija
-- [[objektai/asmenys/Pukuveras|Pukuveras (Lietuvos karalius, XIII a.)]] buvo_valdovas Kujavija
-- [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] buvo_valdovas Kujavija
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Kujavija
-- [[objektai/asmenys/Odoničius]] keliavo_i Kujavija
-- [[objektai/asmenys/Samboras]] keliavo_i Kujavija
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Kujavija

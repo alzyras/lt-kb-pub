@@ -79,8 +79,7 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   global_id: t-172856
   teiginys: 'Karalius daug kartų draudė muitininkams imti muitą iš Vilniaus pirklių už vašką ir kitas prekes.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o teiginyje buvo OCR triukšmo.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus pirkliai|Vilniaus pirkliai]] susiję su Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -365,6 +364,3 @@ Valdant Žygimantui Senajam, Vilniuje smarkiai išaugo prekyba, mieste atsirado 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Vilniaus pirkliai susije_su [[objektai/vietos/Vilnius]]

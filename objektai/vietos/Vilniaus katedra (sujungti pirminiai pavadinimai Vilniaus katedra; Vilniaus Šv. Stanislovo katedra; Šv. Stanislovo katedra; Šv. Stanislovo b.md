@@ -127,8 +127,7 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   global_id: t-85807
   teiginys: 'Elžbieta, Ferdinando duktė ir Žygimanto Augusto žmona, mirė Vilniuje 1545 metais ir buvo palaidota katedros koplyčioje šalia Aleksandro.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir atkurtas pilnas sakinys.'
-  susije_objektai: 'location: Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] mirė Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   pagrindžia:
     - c-009
 
@@ -551,6 +550,3 @@ Stanislovo garbei, iškilmingai pripažinta katedra. Kad ir kaip paskendęs karo
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Augustas]] mire Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b

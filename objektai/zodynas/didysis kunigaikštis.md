@@ -25,7 +25,6 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas; mentioned_place: Kremenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Merkinė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87469|Bona]]: Karalienė Bona Vytauto atminimą pagerbė marmuriniu antkapiniu paminklu didžiojo altoriaus dešinėje pusėje.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
@@ -435,6 +434,3 @@ Kazimieras Skirgaila, gavęs kunigaikštystes, turėjo nesiekti Lietuvos didžio
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate didysis kunigaikštis

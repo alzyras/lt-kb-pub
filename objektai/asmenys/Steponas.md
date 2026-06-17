@@ -46,9 +46,6 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš [[objektai/asmenys/Martynas Paleckis.md#claim-t-87407|Martynas Paleckis]]: Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.
 - susijęs iš [[objektai/grupes/Langobardai.md#claim-t-185425|Langobardai]]: 703 m. galų nugalėti langobardai sudarė su romėnais palankią taiką.
 - susijęs iš [[objektai/ivykiai/Bukovinos mūšis traukiantis Olbrachtui.md#claim-t-186657|Bukovinos mūšis traukiantis Olbrachtui (mūšis, XV a.)]]: Lietuvos metraštis pasakoja, kad per Bukovinos įvykius Moldavijos vaivada Steponas paėmė į nelaisvę Lenkijos Karalystės didįjį maršalą Točinskį.
@@ -120,12 +117,3 @@ Stepono karūnacija (1000), pietų Švedijos kunigaikščio Olafo krikštas (100
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] kariavo_pries Steponas
-- Steponas buvo_valdovas [[objektai/vietos/Moldavija]]
-- Steponas buvo_valdovas [[objektai/vietos/Vilnius]]
-- Steponas keliavo_i [[objektai/vietos/Lenkija]]
-- Steponas keliavo_i [[objektai/vietos/Moldavija]]
-- Steponas keliavo_i [[objektai/vietos/Prutas]]
-- Steponas keliavo_i [[objektai/vietos/Ukraina]]

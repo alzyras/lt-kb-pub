@@ -46,8 +46,7 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia aiškesnį faktą apie Ivano titulą ir karaliaus atsaką.'
-  susije_objektai: 'territory: Livonija; territory: Maskva; territory: Viena; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] buvo valdovas Livonija; [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] buvo valdovas Maskva; [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
@@ -156,6 +155,4 @@ Toks didžio­ jo kunigaikščio Aleksandro rūpinimasis savo sostinės gyventoj
     - t-003
 
 ## Ryšiai
-- Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Livonija]]
 - Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Maskva]]
-- Ivanas Vasiljevičius buvo_valdovas [[objektai/vietos/Viena]]

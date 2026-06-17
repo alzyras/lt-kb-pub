@@ -55,8 +55,6 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Kauernikas'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-184298|Zyndramas iš Moškovicų]]: Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.
-- susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-34836|Zyndramas iš Moškovicų]]: Zyndramui iš Moškovicų karalius pavedė vesti lenkų kariuomenę.
 - susijęs iš [[objektai/asmenys/Ulrichas von Jungingenas.md#claim-t-182864|Ulrichas von Jungingenas]]: Ordino didysis magistras Ulrichas von Jungingenas, vėlai sužinojęs Jogailos ir Vytauto planus, skubėjo pastoti jiems kelią.
 - susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-184298|Zyndramas iš Moškovicų]]: Karalius pavedė Zyndramui iš Moškovicų, Krokuvos vaivadai, vadovauti lenkų kariuomenei.
 - susijęs iš [[objektai/asmenys/Zyndramas iš Moškovicų.md#claim-t-34836|Zyndramas iš Moškovicų]]: Zyndramui iš Moškovicų karalius pavedė vesti lenkų kariuomenę.
@@ -143,6 +141,3 @@ Kitą dieną sąjungininkai priėjo Drevencos upę ties Kauer­ niku. Buvo nutar
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Zyndramas iš Moškovicų]] buvo_valdovas Drevenca

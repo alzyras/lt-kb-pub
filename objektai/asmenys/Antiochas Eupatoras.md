@@ -21,8 +21,8 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
   global_id: t-60238
   teiginys: 'Judas Makabėjus kovojo su Antiochu Eupatoru, jo nenugalėjo ir pasuko atgal.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir apima papildomą kontekstą apie kitas kautynes.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Bachidas|Bachidas]]; counterparty: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]] kariavo prieš [[objektai/asmenys/Bachidas|Bachidas]]; [[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]] kariavo prieš [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]; mentioned_person: [[objektai/asmenys/Bachidas|Bachidas]]; mentioned_person: [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Antiochas Eupatoras|Antiochas Eupatoras]] kariavo prieš [[objektai/asmenys/Judas Makabėjus|Judas Makabėjus]]'
   pagrindžia:
     - c-001
 
@@ -47,5 +47,4 @@ Dusburgietis teigia, kad apie Judą Makabėjų pasakojama, kad jis nepasimeldęs
     - t-001
 
 ## Ryšiai
-- Antiochas Eupatoras kariavo_pries [[objektai/asmenys/Bachidas]]
 - Antiochas Eupatoras kariavo_pries [[objektai/asmenys/Judas Makabėjus]]

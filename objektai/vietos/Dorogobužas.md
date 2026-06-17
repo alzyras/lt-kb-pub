@@ -25,7 +25,6 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
-- susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
 - susijęs iš [[objektai/asmenys/Sivindukas.md#claim-t-40423|Sivindukas]]: Murza Sivindukas, kunigaikščio Madyko sūnus, vadovavo mūšyje dalyvavusiems totoriams.
 - susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-183663|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
 - susijęs iš [[objektai/grupes/Maskvos kariuomenė.md#claim-t-38878|Maskvos kariuomenė]]: Maskvos kariuomenėje dalyvavo Naugardo, Pskovo, Tverės ir kitų sričių raiteliai, valdovo dvaro pulkas bei Sivinduko vadovaujami totoriai.
@@ -55,6 +54,3 @@ Priešas sudegino Dorogobužą ir miške nukirstais medžiais užtvėrė kelią 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Madykas]] buvo_valdovas Dorogobužas

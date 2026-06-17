@@ -42,10 +42,10 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
   global_id: t-60068
   teiginys: 'Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia Tirsko vaidmenį žygyje ir yra paremtas citata.'
-  susije_objektai: 'territory: Kapsteta; territory: Oliva; territory: Prieglius; territory: Prūsai; territory: Tvankstė (pilis); territory: Vonsdorfas; territory: Vėluva; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
-  semantiniai_rysiai: '[[objektai/asmenys/Tirskas|Tirskas]] užkariavo Kapsteta; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Oliva; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Prieglius; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Prūsai; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Tvankstė (pilis); [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Vonsdorfas; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Vėluva'
+  susije_objektai: 'territory: Kapsteta; territory: Vonsdorfas; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/Vėlė|Vėlė]]; mentioned_place: Kapsteta; mentioned_place: Oliva; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Tvankstė (pilis); mentioned_place: Vonsdorfas; mentioned_place: Vėluva'
+  semantiniai_rysiai: '[[objektai/asmenys/Tirskas|Tirskas]] užkariavo Kapsteta; [[objektai/asmenys/Tirskas|Tirskas]] užkariavo Vonsdorfas'
   temporaliniai_duomenys: 'mūšio data: 1257 m.; mūšio data: 1258 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tirskas užkariavo Kapsteta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Oliva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Tvankstė (pilis)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Vonsdorfas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Vėluva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tirskas užkariavo Kapsteta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tirskas užkariavo Vonsdorfas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia Tirsko vaidmenį žygyje ir yra paremtas citata.'
   pagrindžia:
     - c-002
@@ -139,9 +139,4 @@ Dusburgietis teigia, kad pastatę šią pilį, jie sugrįžo pas savuosius, pali
 
 ## Ryšiai
 - Tirskas uzkariavo [[objektai/vietos/Kapsteta]]
-- Tirskas uzkariavo [[objektai/vietos/Oliva]]
-- Tirskas uzkariavo [[objektai/vietos/Prieglius]]
-- Tirskas uzkariavo [[objektai/vietos/Prūsai]]
-- Tirskas uzkariavo [[objektai/vietos/Tvankstė (pilis)]]
 - Tirskas uzkariavo [[objektai/vietos/Vonsdorfas]]
-- Tirskas uzkariavo [[objektai/vietos/Vėluva]]

@@ -55,8 +55,8 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
   global_id: t-90004
   teiginys: 'Lietuvis Pelužis, įžeistas savo viešpaties kunigaikščio, atvyko pas Sembos žemės brolius ir siekė atkeršyti už patirtas skriaudas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata apie Pelužio veiksmus.'
-  susije_objektai: 'location: Lietuva; location: Semba; location: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Pelužis|Pelužis]] keliavo į Lietuva; [[objektai/asmenys/Pelužis|Pelužis]] keliavo į Semba; [[objektai/asmenys/Pelužis|Pelužis]] keliavo į Viena'
+  susije_objektai: 'location: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Semba; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Pelužis|Pelužis]] keliavo į Semba'
   pagrindžia:
     - c-001
 
@@ -178,6 +178,4 @@ Dusburgietis teigia, kad tuo metu vienas lietuvis, vardu Pelužis, įžeistas sa
     - t-005
 
 ## Ryšiai
-- Pelužis keliavo_i [[objektai/vietos/Lietuva]]
 - Pelužis keliavo_i [[objektai/vietos/Semba]]
-- Pelužis keliavo_i [[objektai/vietos/Viena]]

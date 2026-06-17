@@ -44,8 +44,7 @@ Nenurodyta
 - t-001
   global_id: t-71779
   teiginys: 'Partizanai be paliovos apšaudė valtimis plaukiančius enkavėdistus, mūšis tęsėsi visą savaitę, o Dzūkų būriui įsakyta trauktis į Palių pakraštį.'
-  susije_objektai: 'event: [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
-  semantiniai_rysiai: '[[objektai/grupes/NKVD|NKVD]] dalyvavo mūšyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)|Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NKVD|NKVD]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Valtys|Valtys]]; mentioned_place: Buktos (Žaliosios) miškas; mentioned_place: Žuvintas; mentioned_place: Žuvinto ežeras'
   pagrindžia:
     - c-001
 
@@ -163,7 +162,3 @@ Nenurodyta
     - t-002
     - t-003
     - t-004
-
-## Ryšiai
-- [[objektai/grupes/NKVD]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)
-- [[objektai/grupes/Rusai]] dalyvavo_musyje Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)

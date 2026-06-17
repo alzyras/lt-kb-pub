@@ -110,7 +110,6 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Vitebskas'
   pagrindžia:
     - c-006
-- susijęs iš Paneriai: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10667|Algirdas (Lietuvos valdovas)]]: Kęstučiui užėmus Vilnių, Algirdas gavo valdyti Vilniaus kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176304|Algirdas (Lietuvos valdovas)]]: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.
 - susijęs iš [[objektai/asmenys/Hanulis.md#claim-t-30259|Hanulis]]: Hanulis buvo Jogailai nusipelnęs svarbus patarėjas ir minėtas visose trijose Jogailos bei Skirgailos vardu sudarytose sutartyse.
@@ -277,8 +276,3 @@ Julijona šiame šaltinyje rodoma kaip su Tverės valdovų namais susijusi Algir
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-- Julijona susije_su [[objektai/vietos/Vilnius]]
-- Julijona susije_su [[objektai/grupes/Vokiečiai]]
-- [[objektai/vietos/Paneriai]] priklause Julijona

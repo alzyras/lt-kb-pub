@@ -31,7 +31,7 @@ Neapsiribodamas pavyzdžio verta savo labdaringa veikla, Protasevičius, be ši�
   global_id: t-86415
   teiginys: 'Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -29,10 +29,10 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
   global_id: t-60396
   teiginys: 'Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi pašalinio OCR bei konteksto triukšmo.'
-  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Lenkija; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Odoničius|Odoničius]] keliavo į Bebras; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Kaimas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Krokuva; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Kujavija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Kulmas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Lenkija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Marienverderis; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Nogatas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Pomeranija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Prūsai; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Prūsija; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Rizenburgas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Vroclavas; [[objektai/asmenys/Odoničius|Odoničius]] keliavo į Vysla'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Odoničius|Odoničius]] keliavo į Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Odoničius keliavo į Bebras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Marienverderis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Nogatas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Vroclavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Odoničius keliavo į Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Odoničius keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi pašalinio OCR bei konteksto triukšmo.'
   pagrindžia:
     - c-001
@@ -87,17 +87,4 @@ Dusburgietis teigia, kad vėliau nužudė totoriai229, taip pat Gnezno kunigaik�
     - t-001
 
 ## Ryšiai
-- Odoničius keliavo_i [[objektai/vietos/Bebras]]
-- Odoničius keliavo_i [[objektai/vietos/Kaimas]]
-- Odoničius keliavo_i [[objektai/vietos/Krokuva]]
-- Odoničius keliavo_i [[objektai/vietos/Kujavija]]
-- Odoničius keliavo_i [[objektai/vietos/Kulmas]]
-- Odoničius keliavo_i [[objektai/vietos/Lenkija]]
-- Odoničius keliavo_i [[objektai/vietos/Marienverderis]]
-- Odoničius keliavo_i [[objektai/vietos/Nogatas]]
-- Odoničius keliavo_i [[objektai/vietos/Pomeranija]]
-- Odoničius keliavo_i [[objektai/vietos/Prūsai]]
 - Odoničius keliavo_i [[objektai/vietos/Prūsija]]
-- Odoničius keliavo_i [[objektai/vietos/Rizenburgas]]
-- Odoničius keliavo_i [[objektai/vietos/Vroclavas]]
-- Odoničius keliavo_i [[objektai/vietos/Vysla]]

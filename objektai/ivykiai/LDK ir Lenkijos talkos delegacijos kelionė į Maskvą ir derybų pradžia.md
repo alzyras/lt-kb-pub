@@ -75,7 +75,7 @@ Nenurodyta
   teiginys: 'LDK ir Lenkijos talkos delegacija į Maskvą išvyko 1503 m. vasario pradžioje ir atvyko kovo 4 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako delegacijos išvykimą ir atvykimą pagal citatą. Atribucija nereikalinga, nes tai neutralus chronologinis faktas, ne vertinimas ar legendinis pasakojimas.'
-  susije_objektai: 'location: Kaunas; location: Lenkija; location: Maskva; location: Vilnius; mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lenkija; mentioned_place: Maskva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1503 m.; kelionės data: 1528 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako delegacijos išvykimą ir atvykimą pagal citatą. Atribucija nereikalinga, nes tai neutralus chronologinis faktas, ne vertinimas ar legendinis pasakojimas.'

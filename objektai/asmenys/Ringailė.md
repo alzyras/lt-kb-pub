@@ -32,10 +32,9 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   global_id: t-93490
   teiginys: '1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Mozūrija; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Ringailė|Ringailė]] buvo valdovas Mozūrija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1392 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ringailė buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Mozūrija'
+  temporaliniai_duomenys: 'įvykio data: 1392 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
@@ -86,6 +85,3 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Ringailė buvo_valdovas [[objektai/vietos/Mozūrija]]

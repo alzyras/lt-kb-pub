@@ -41,8 +41,7 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
 - t-002
   global_id: t-35305
   teiginys: 'Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.'
-  susije_objektai: 'territory: Dubysa; territory: Europa; territory: Nemunas; territory: Prancūzija; territory: Vokietija; territory: Čekija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Dubysa; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Europa; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Nemunas; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Prancūzija; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Vokietija; [[objektai/asmenys/Vaclovas Čekietis|Vaclovas Čekietis]] buvo valdovas Čekija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_object: [[objektai/zodynas/elektorius|elektorius]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas von Plauenas|Henrikas von Plauenas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Dubysa; mentioned_place: Europa; mentioned_place: Nemunas; mentioned_place: Prancūzija; mentioned_place: Vokietija; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 
@@ -108,11 +107,3 @@ Ir tikrai, Ordino magistras Henrikas von Plauenas tuojau po Makro raporto išvyk
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Dubysa]]
-- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Europa]]
-- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Nemunas]]
-- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Prancūzija]]
-- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Vokietija]]
-- Vaclovas Čekietis buvo_valdovas [[objektai/vietos/Čekija]]

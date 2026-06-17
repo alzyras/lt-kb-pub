@@ -22,8 +22,7 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir pašalinta autorinė įžanga.'
-  susije_objektai: 'location: Austrija; location: Nesvyžius; location: Olyka; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Austrija; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Pranciškus Gonzaga|Pranciškus Gonzaga]] gyveno Austrija; [[objektai/asmenys/Pranciškus Gonzaga|Pranciškus Gonzaga]] gyveno Nesvyžius; [[objektai/asmenys/Pranciškus Gonzaga|Pranciškus Gonzaga]] gyveno Olyka; [[objektai/asmenys/Pranciškus Gonzaga|Pranciškus Gonzaga]] gyveno Viena; [[objektai/asmenys/Pranciškus Gonzaga|Pranciškus Gonzaga]] gyveno Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kotryna|Kotryna]]; mentioned_person: [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Austrija; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,10 +49,3 @@ Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno t
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Pranciškus Gonzaga gyveno [[objektai/vietos/Austrija]]
-- Pranciškus Gonzaga gyveno [[objektai/vietos/Nesvyžius]]
-- Pranciškus Gonzaga gyveno [[objektai/vietos/Olyka]]
-- Pranciškus Gonzaga gyveno [[objektai/vietos/Viena]]
-- Pranciškus Gonzaga gyveno [[objektai/vietos/Vilnius]]

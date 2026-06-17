@@ -54,10 +54,9 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   global_id: t-59859
   teiginys: '1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
-  susije_objektai: 'territory: Vokietija; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas II|Fridrichas II]] buvo valdovas Vokietija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1268 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas II buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata apie Fridricho II anūką.'
   pagrindžia:
     - c-004
@@ -252,6 +251,3 @@ Dusburgietis teigia, kad perlbachas, be to, nurodė, kad Dusburgietis, rašydama
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- Fridrichas II buvo_valdovas [[objektai/vietos/Vokietija]]

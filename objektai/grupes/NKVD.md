@@ -250,4 +250,3 @@ Nenurodyta
 
 ## Ryšiai
 - NKVD dalyvavo_musyje [[objektai/ivykiai/Ažagų-Eimuliškio miško kautynės (1945 m. kovo 27 d.)]]
-- NKVD dalyvavo_musyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]

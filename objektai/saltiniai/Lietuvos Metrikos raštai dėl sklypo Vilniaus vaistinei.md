@@ -30,9 +30,9 @@ amziai:
   global_id: t-88446
   teiginys: 'Lietuvos Metrikos sąraše buvo raštai apie sklypą, kurį karalius Žygimantas apie 1510 m. nupirko Vilniaus vaistinės statybai.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Metrikos raštus ir sklypo paskirtį.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1510 m.; valdymo laikotarpis: apie 1510 m.; valdymo laikotarpis: 1816 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Žygimantas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Žygimantas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Volfgangas|Volfgangas]]; mentioned_group: [[objektai/grupes/Slavai|Slavai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1510 m.; įvykio data: apie 1510 m.; įvykio data: 1816 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia faktą apie Metrikos raštus ir sklypo paskirtį.'
   pagrindžia:
     - c-001

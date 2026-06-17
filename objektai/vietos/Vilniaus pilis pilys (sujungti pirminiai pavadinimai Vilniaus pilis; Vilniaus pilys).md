@@ -45,7 +45,7 @@ amziai:
   global_id: t-174226
   teiginys: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatą.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -99,9 +99,9 @@ amziai:
   global_id: t-174233
   teiginys: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo citatoje pateiktą vietą ir datą.'
-  susije_objektai: 'territory: Krokuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo citatoje pateiktą vietą ir datą.'
   pagrindžia:
     - c-014

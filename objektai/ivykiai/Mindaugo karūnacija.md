@@ -50,9 +50,9 @@ Nenurodyta
   global_id: t-66787
   teiginys: 'Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Mindaugo karūnacijos reikšmę.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Livonija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1251 m.; valdymo laikotarpis: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Livonija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Mindaugo karūnacijos reikšmę.'
   pagrindžia:
     - c-002

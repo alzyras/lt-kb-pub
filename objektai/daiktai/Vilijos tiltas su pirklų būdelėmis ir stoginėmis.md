@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-87097
   teiginys: 'Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir suformuotas aiškus faktas apie tilto teisę.'
-  susije_objektai: 'territory: Vilija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

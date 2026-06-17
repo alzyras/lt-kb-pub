@@ -22,10 +22,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   global_id: t-31222
   teiginys: 'Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.'
   sudarymo_pagrindimas: 'Kadangi teiginys yra vertinamojo pobūdžio, pridėta aiški šaltinio atribucija.'
-  susije_objektai: 'location: Bizantija; location: Dauguva; location: Dniepras; location: Europa; location: Kijevas; location: Rusia; mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
-  semantiniai_rysiai: '[[objektai/grupes/Krivičiai|Krivičiai]] gyveno Bizantija; [[objektai/grupes/Krivičiai|Krivičiai]] gyveno Dauguva; [[objektai/grupes/Krivičiai|Krivičiai]] gyveno Dniepras; [[objektai/grupes/Krivičiai|Krivičiai]] gyveno Europa; [[objektai/grupes/Krivičiai|Krivičiai]] gyveno Kijevas; [[objektai/grupes/Krivičiai|Krivičiai]] gyveno Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dregovičiai|Dregovičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Dniepras; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 988 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krivičiai gyveno Bizantija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krivičiai gyveno Dauguva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krivičiai gyveno Dniepras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krivičiai gyveno Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krivičiai gyveno Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krivičiai gyveno Rusia“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Kadangi teiginys yra vertinamojo pobūdžio, pridėta aiški šaltinio atribucija.'
   pagrindžia:
     - c-001
@@ -62,11 +61,3 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Krivičiai gyveno [[objektai/vietos/Bizantija]]
-- Krivičiai gyveno [[objektai/vietos/Dauguva]]
-- Krivičiai gyveno [[objektai/vietos/Dniepras]]
-- Krivičiai gyveno [[objektai/vietos/Europa]]
-- Krivičiai gyveno [[objektai/vietos/Kijevas]]
-- Krivičiai gyveno [[objektai/vietos/Rusia]]

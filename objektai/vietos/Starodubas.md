@@ -76,8 +76,6 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Mozyrius; mentioned_place: Viena'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-182803|Jogaila (kunigaikštis, XIV–XV a.)]]: Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.
 - susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-184798|Mykolas (Žygimanto sūnus)]]: 1448 m. Mykolas su skitais įsiveržė į Severską ir paėmė Brianską, Naugardą, Putivlį, Serpeiską bei Starodubą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173237|Vladislovas Jogaila]]: Vladislovas Jogaila nusprendė Lietuvos didžiuoju kunigaikščiu pakelti Starodubo kunigaikštį Žygimantą Kęstutaitį.
@@ -205,7 +203,3 @@ Maskvai buvo paliktas Černigovas, Naugardas Sieverskas, Starodubas ir Okos paup
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Skirmantas]] buvo_valdovas Starodubas
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Starodubas

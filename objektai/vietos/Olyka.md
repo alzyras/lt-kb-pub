@@ -43,11 +43,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   susije_objektai: 'mentioned_place: Nesvyžius; mentioned_place: Viena; mentioned_place: Voluinė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103048|Jurgis Radvila (vyskupas, XVI a.)]]: 1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
-- susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
 - susijęs iš [[objektai/asmenys/Inocentas IX.md#claim-t-87693|Inocentas IX]]: Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila.
 - susijęs iš [[objektai/asmenys/Jonas II.md#claim-t-87718|Jonas II]]: Jonas II, karaliaus Zigmanto I sūnus, 1519 m. paskelbtas Vilniaus vyskupu, 1536 m. perkeltas į Poznanės vyskupiją ir mirė 1538 m.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103039|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila nusprendė Vilniaus diecezijoje įsteigti ir funduoti kolegiją lietuvių ir rusų jaunuoliams auklėti.
@@ -125,9 +120,3 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Pranciškus Gonzaga]] gyveno Olyka
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] buvo_valdovas Olyka
-- [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Olyka
-- [[objektai/asmenys/Zigmantas I]] buvo_valdovas Olyka

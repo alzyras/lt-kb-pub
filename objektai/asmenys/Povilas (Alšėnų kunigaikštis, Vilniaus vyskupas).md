@@ -60,10 +60,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   global_id: t-173216
   teiginys: '1539 m. Vilniaus vyskupas Povilas valdė Vilniaus dieceziją, kai Abraomas Kulvietis mieste skleidė Liuterio religines pažiūras.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, paliktas citatos remiamas faktas apie Povilą.'
-  susije_objektai: 'territory: Alšėnai; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] valdė teritoriją Alšėnai; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] valdė teritoriją Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1539 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) valdė teritoriją Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Alšėnai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1539 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas, paliktas citatos remiamas faktas apie Povilą.'
   pagrindžia:
     - c-002
@@ -73,10 +72,9 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   global_id: t-173217
   teiginys: 'Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.'
   sudarymo_pagrindimas: 'Citata pagrindžia Povilo titulą ir dalyvavimą, o pradinis teiginys kalba tik apie dokumento datą.'
-  susije_objektai: 'territory: Alšėnai; territory: Augsburgas; territory: Lietuva; territory: Luckas; territory: Medininkai; territory: Naugardukas; territory: Polockas; territory: Vilnius; territory: Vitebskas; mentioned_place: Alšėnai; mentioned_place: Augsburgas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Alšėnai; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Augsburgas; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Lietuva; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Luckas; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Medininkai; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Naugardukas; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Polockas; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Vilnius; [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo valdovas Vitebskas'
+  susije_objektai: 'mentioned_place: Alšėnai; mentioned_place: Augsburgas; mentioned_place: Lietuva; mentioned_place: Luckas; mentioned_place: Medininkai; mentioned_place: Naugardukas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1542 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Augsburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Luckas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Medininkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Naugardukas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Polockas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Vitebskas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Povilo titulą ir dalyvavimą, o pradinis teiginys kalba tik apie dokumento datą.'
   pagrindžia:
     - c-008
@@ -332,16 +330,3 @@ Dalyvaujant didžiai gerbiamiems Kristuje Alšėnų kunigaikščiui, Vilniaus vy
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) valde_teritorija [[objektai/vietos/Alšėnai]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) valde_teritorija [[objektai/vietos/Vilnius]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Alšėnai]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Augsburgas]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Luckas]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Medininkai]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Naugardukas]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Polockas]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Vilnius]]
-- Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas) buvo_valdovas [[objektai/vietos/Vitebskas]]

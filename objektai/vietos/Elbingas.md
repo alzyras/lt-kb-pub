@@ -111,7 +111,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   global_id: t-90352
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir pagrįstas citata apie Pagudės kilmingųjų atvykimą į Elbingą.'
-  susije_objektai: 'location: Pagudė; mentioned_place: Pagudė'
+  susije_objektai: 'mentioned_place: Pagudė'
   pagrindžia:
     - c-015
 
@@ -253,23 +253,12 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškų įvardį ir suformuluoti savarankišką sakinį.'
   pagrindžia:
     - c-018
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89161|Pagudėnai]]: Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
 - susijęs iš [[objektai/asmenys/Gotfridas Hohenlohė.md#claim-t-60021|Gotfridas Hohenlohė]]: 1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.
-- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89155|Pagudėnai]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89160|Pagudėnai]]: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
 - susijęs iš [[objektai/ivykiai/Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.).md#claim-t-62792|Gotfrido Hohenlohės žygis į Livoniją, atsistatydinimas ir Zigfrido iš Foichtvangeno išrinkimas (1302–1303 m.)]]: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbingo kapituloje atsisakė pareigų.
 - susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183927|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.
-- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-183977|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
-- susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-62962|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
-- susijęs iš Belichovas: Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
-- susijęs iš Livonija: 1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.
 - susijęs iš Pagudė: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę ir Elbingo upės saloje pastatė Elbingo pilį.
 - susijęs iš Pagudė: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko su šeimomis į Elbingą ir susidėjo su broliais.
-- susijęs iš Pagudė: Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59857|Fridrichas II]]: Imperatorius Fridrichas II iš venedų gautą didelę šventojo kryžiaus dalį perleido magistrui Hermanui, kuris ją pasiuntė į Elbingo pilį.
 - susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59860|Fridrichas II]]: Popiežius Honorijus III ir imperatorius Fridrichas II slaptų nesutarimų sprendimą patikėjo broliui Hermanui.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Veidos.md#claim-t-60278|Fridrichas iš Veidos]]: Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė.
@@ -282,6 +271,7 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89826|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermano vadovavimo metu Ordinas gavo privilegijų, žemių ir relikviją, o per ją Prūsijoje vyko stebuklai.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89828|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Fridrichas II perleido Hermanui šventojo kryžiaus dalį, o šis ją nusiuntė į Elbingo pilį.
 - susijęs iš [[objektai/asmenys/Hermanas iš Zalcos.md#claim-t-89831|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]]: Hermanas iš Zalcos atsisakė spręsti popiežiaus Honorijaus III ir imperatoriaus Fridricho II slaptų nesutarimų bylą.
+- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Konradas Bremeris.md#claim-t-60364|Konradas Bremeris]]: Konradas Bremeris vedė tris maisto prikrautus laivus į Elbingą ir prie Santyro kovėsi su Sventopelko laivynu.
 - susijęs iš [[objektai/asmenys/Konradas iš Dortmundo.md#claim-t-60366|Konradas iš Dortmundo]]: Prūsai nužudė Konradą iš Dortmundo su visa jo šeimyna per žemutinių Prūsijos apygardų puolimą.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-184103|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
@@ -722,12 +712,5 @@ Elbingas šiame įraše rodomas kaip viena svarbiausių Ordino pilių ir miestų
     - t-022
 
 ## Ryšiai
-- [[objektai/grupes/Notangai]] gyveno Elbingas
-- [[objektai/grupes/Pagudėnai]] gyveno Elbingas
-- [[objektai/grupes/Pamedėnai]] gyveno Elbingas
-- [[objektai/vietos/Belichovas]] priklause Elbingas
 - [[objektai/asmenys/Gotfridas Hohenlohė]] keliavo_i Elbingas
-- [[objektai/asmenys/Konradas Švabas iš Elbingo]] susije_su Elbingas
 - [[objektai/grupes/Pagudėnai]] keliavo_i Elbingas
-- [[objektai/grupes/Pamedėnai]] priklause Elbingas
-- [[objektai/asmenys/Zigfridas iš Foichtvangeno]] keliavo_i Elbingas

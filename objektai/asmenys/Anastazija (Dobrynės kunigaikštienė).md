@@ -21,8 +21,8 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
   global_id: t-87619
   teiginys: 'Anastazija valdė Dobrynės kunigaikštystę maždaug tuo metu, kai ši smarkiai nukentėjo per lietuvių antpuolį.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Anastazijos valdytą kunigaikštystę ir jos nuniokojimą.'
-  susije_objektai: 'territory: Dobrynė; territory: Mazovija; territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Dobrynė; [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Mazovija; [[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Viena'
+  susije_objektai: 'territory: Dobrynė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dobrynė; mentioned_place: Mazovija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Anastazija (Dobrynės kunigaikštienė)|Anastazija (Dobrynės kunigaikštienė)]] valdė teritoriją Dobrynė'
   pagrindžia:
     - c-001
 - susijęs iš Kopylis: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
@@ -51,5 +51,3 @@ Per vieną tokių antpuolių baisiausiai nukentėjo Dobry­ nės kunigaikštyst�
 
 ## Ryšiai
 - Anastazija (Dobrynės kunigaikštienė) valde_teritorija [[objektai/vietos/Dobrynė]]
-- Anastazija (Dobrynės kunigaikštienė) valde_teritorija [[objektai/vietos/Mazovija]]
-- Anastazija (Dobrynės kunigaikštienė) valde_teritorija [[objektai/vietos/Viena]]

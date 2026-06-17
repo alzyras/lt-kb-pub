@@ -128,6 +128,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Machmetas valde_teritorija [[objektai/vietos/Krymas]]

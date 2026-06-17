@@ -208,9 +208,9 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   global_id: t-170896
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį Varšuvoje.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Targovica; territory: Vilnius; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo pradžia: 1792 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Targovica“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Targovica; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie įvykį Varšuvoje.'
   pagrindžia:
     - c-021
@@ -316,9 +316,6 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   temporalinis_llm_pakomentavimas: 'Citata remia datą ir vietą, o perrašymas pašalina dokumentinę formulę bei OCR triukšmą.'
   pagrindžia:
     - c-012
-- susijęs iš [[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“.md#claim-t-20060|Varšuvos lietuvių studentų draugija „Lietuva“]]: Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.
-- susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-183518|Aleksandras I]]: Lietuvos bajorija norėjo prisijungti prie Kongresinės Lenkijos, tačiau Aleksandras I tam nepritarė.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-75651|Aleksandras I]]: Aleksandras I nutarė nekeršyti Lietuvos bajorijai, sulaužiusiai jam duotą ištikimybės priesaiką.
 - susijęs iš [[objektai/asmenys/Aleksandras I.md#claim-t-75652|Aleksandras I]]: Aleksandras I nutarė nekeršyti jam priesaiką sulaužiusiai Lietuvos bajorijai, todėl padėtis iš esmės liko nepakitusi.
@@ -1034,8 +1031,3 @@ Varšuvos seime derybos užtruko gana ilgai — nuo 1563 m. lapkričio 21 d. iki
   statusas: verified
   pagrindžia:
     - t-013
-
-## Ryšiai
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Varšuva
-- [[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“]] pastate Varšuva
-- [[objektai/vietos/Lietuva]] priklause Varšuva

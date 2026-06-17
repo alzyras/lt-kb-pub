@@ -51,17 +51,11 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
-- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
-- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
 - susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
-- susijęs iš Belichovas: Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
 - susijęs iš [[objektai/asmenys/Burchardas iš Magdeburgo.md#claim-t-60097|Burchardas iš Magdeburgo]]: Burchardas iš Magdeburgo su magistru ir broliais perkėlė Marienverderio pilį iš Kvedino salos į Pamedės valsčių.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
+- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-184103|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
 - susijęs iš [[objektai/asmenys/Konradas Švabas iš Elbingo.md#claim-t-60369|Konradas Švabas iš Elbingo]]: Konradas Švabas iš Elbingo išėjo iš Belichovo pilies su daugybe ginklanešių ir ietimis susirėmė su priešais.
@@ -141,11 +135,4 @@ Dusburgietis teigia, kad jo nuomone, Marienverderio pilis pavyslyje pastatyta, �
     - t-002
 
 ## Ryšiai
-- [[objektai/grupes/Pamedėnai]] gyveno Marienverderis
-- [[objektai/vietos/Belichovas]] priklause Marienverderis
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Marienverderis
-- [[objektai/asmenys/Konradas Švabas iš Elbingo]] susije_su Marienverderis
-- [[objektai/asmenys/Odoničius]] keliavo_i Marienverderis
-- [[objektai/grupes/Pamedėnai]] priklause Marienverderis
-- [[objektai/asmenys/Samboras]] keliavo_i Marienverderis
 - [[objektai/asmenys/Sventopelkas]] keliavo_i Marienverderis

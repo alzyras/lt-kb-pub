@@ -100,8 +100,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Hanulas keliavo_i [[objektai/vietos/Trakai]]
-- Hanulas keliavo_i [[objektai/vietos/Vilnius]]
-- Hanulas keliavo_i [[objektai/vietos/Vitebskas]]

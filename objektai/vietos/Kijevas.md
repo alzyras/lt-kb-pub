@@ -95,7 +95,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
 - t-007
   global_id: t-180006
   teiginys: 'Graikų katalikų bažnyčios metropolitai buvo Kijevo metropolitai, bet nuolat rezidavo Vilniuje.'
-  susije_objektai: 'location: Brasta; location: Lenkija; location: Lietuva; location: Vilnius; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_place: Brasta; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -144,7 +144,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180012
   teiginys: '1411 metų pavasarį Vytautas su Jogaila keliavo per Lietuvos rytų pakraščius iki Kijevo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Černigovas; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
+  susije_objektai: 'location: Lietuva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
   pagrindžia:
     - c-002
 
@@ -280,8 +280,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180029
   teiginys: 'Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir beveik pažodžiui atkartoja citatą; glaustesnė forma geriau tinka KB.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Bakota; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota; mentioned_place: Lietuva; mentioned_place: Podolė'
-  semantiniai_rysiai: 'Kijevas priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Kijevas priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Kijevas priklausė [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; Kijevas priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Kijevas priklausė [[objektai/grupes/Totoriai|Totoriai]]; Kijevas priklausė Bakota; Kijevas priklausė Lietuva; Kijevas priklausė Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bakota; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-004
 
@@ -365,8 +364,8 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   global_id: t-180040
   teiginys: 'Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas citatos informacija apie prekybos ryšius per Kijevą.'
-  susije_objektai: 'owner: Baltarusija; owner: Dniepras; owner: Dniestras; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Podolė; owner: Vilnius; owner: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Podolė; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Kijevas priklausė [[objektai/asmenys/Vytautas|Vytautas]]; Kijevas priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Kijevas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Kijevas priklausė Baltarusija; Kijevas priklausė Dniepras; Kijevas priklausė Dniestras; Kijevas priklausė Podolė; Kijevas priklausė Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Baltarusija; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Podolė; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Kijevas priklausė Vilnius'
   pagrindžia:
     - c-007
 
@@ -556,7 +555,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas Vytautas ir išskleistas Kijevo kontekstas, o kronikos pasakojimas paliktas atribucijoje. Nepridėta metų ar politinių motyvų, kurių citata nenurodo.'
-  susije_objektai: 'location: Lietuva; location: Maskva; location: Naugardas; location: Pskovas; location: Vladimiras; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Vladimiras'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Vladimiras'
   pagrindžia:
     - c-035
 
@@ -586,26 +585,7 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas lietuviškas sakinys su aiškiu subjektu, veiksmu, data ir vieta. Citata tiesiogiai remia išžygiavimą iš Kijevo ir nereikalauja papildomos poleminės atribucijos.'
   pagrindžia:
     - c-037
-- susijęs iš [[objektai/asmenys/Dimitras Kaributas.md#claim-t-50970|Dimitras Kaributas]]: Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.
-- susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
-- susijęs iš [[objektai/grupes/Dregovičiai.md#claim-t-31176|Dregovičiai]]: Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.
-- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
 - susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
-- susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
-- susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
-- susijęs iš Miloslavičiai: Po puotos kunigaikštis Skirgaila nujojo už Dnepro į Miloslavičius, ten susirgo ir, grįžęs į Kijevą, septintą dieną mirė.
-- susijęs iš Tavano pilis: Vytautas lietuvių Tavano pilyje prie Dniepro įsteigė muitinę, vadintą Vytauto pirtimi.
-- susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
-- susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Dniestras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
-- susijęs iš Podolė: Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.
-- susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11775|pravoslavai]]: Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82170|Aleksandras Jogailaitis]]: Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
@@ -1735,36 +1715,6 @@ Kariuomene buvo koncentruojama Kijeve, kur Vytautas visą vasarą laikė atvykst
     - t-056
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Kijevas
-- [[objektai/asmenys/Dimitras Kaributas]] valde_teritorija Kijevas
-- [[objektai/grupes/Dregovičiai]] gyveno Kijevas
-- [[objektai/grupes/Krivičiai]] gyveno Kijevas
-- [[objektai/asmenys/Adalbertas]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Foma]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Jaroslavas]] buvo_valdovas Kijevas
 - [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Mieška]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Olafas (Norvegijos valdovas)]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Kijevas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Kijevas
-- [[objektai/vietos/Dniepras]] priklause Kijevas
-- [[objektai/vietos/Dniestras]] priklause Kijevas
-- Kijevas priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Kijevas priklause [[objektai/vietos/Bakota]]
-- Kijevas priklause [[objektai/vietos/Baltarusija]]
-- Kijevas priklause [[objektai/vietos/Dniepras]]
-- Kijevas priklause [[objektai/vietos/Dniestras]]
-- Kijevas priklause [[objektai/asmenys/Gediminas]]
-- Kijevas priklause [[objektai/grupes/Karijotaičiai]]
-- Kijevas priklause [[objektai/grupes/Kijevo kunigaikštystė]]
 - Kijevas priklause [[objektai/vietos/Lietuva]]
-- Kijevas priklause [[objektai/grupes/Lietuviai]]
-- Kijevas priklause [[objektai/vietos/Podolė]]
-- Kijevas priklause [[objektai/grupes/Totoriai]]
 - Kijevas priklause [[objektai/vietos/Vilnius]]
-- Kijevas priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Lietuva]] priklause Kijevas
-- [[objektai/vietos/Podolė]] priklause Kijevas
-- [[objektai/zodynas/pravoslavai]] priklause Kijevas

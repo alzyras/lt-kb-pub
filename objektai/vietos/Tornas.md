@@ -48,8 +48,6 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams.
 - susijęs iš [[objektai/asmenys/Sofija (Vytauto duktė).md#claim-t-176611|Sofija (Vytauto duktė)]]: Sofijos, Maskvos kunigaikštienės, vardu buvo įteiktas protestas prieš Žemaitijos atidavimą Ordinui po jos tėvo mirties.
 - susijęs iš Kulmas: Kryžiuočių pirmąsias bazes sudarė Tornas, įkurtas 1232 m., ir Kulmas, įkurtas 1235 m.
 - susijęs iš Kulmas: Kryžiuočių riteriams pirmąją bazę sudarė Tornas 1232 m. ir Kulmas 1235 m.
@@ -76,6 +74,3 @@ Ypač tai jam buvo patogu dėl labai lengvos ir ne visai griežtos Torno taikos,
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- [[objektai/vietos/Prūsija]] priklause Tornas

@@ -64,7 +64,7 @@ Dusburgietis teigia, kad pažymėjęs, jog kryžiuočiai 1328 m. vasarą apleido
   global_id: t-58316
   teiginys: 'Po to jie nuvyko į Kristmemelio pilį ir atstatė viską, ką ten lietuviai buvo sugriovę.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'location: Junigeda; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Junigeda'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Junigeda'
   temporaliniai_duomenys: 'kelionės data: 1315 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'

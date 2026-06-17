@@ -25,7 +25,6 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
-- susijęs iš [[objektai/grupes/Egiptiečiai.md#claim-t-07832|Egiptiečiai]]: Egiptiečiai buvo viena tautų, su kuriomis gilioje senovėje Lietuvos tauta turėjo pažinčių ir prekiavo.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -40,6 +39,3 @@ Finikiečiai pateikiami kaip viena iš tautų, su kuriomis lietuviai turėjo ry�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Egiptiečiai]] prekiavo_su Finikiečiai

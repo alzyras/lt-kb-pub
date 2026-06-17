@@ -33,8 +33,7 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   global_id: t-59894
   teiginys: 'Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'territory: Lenkija; territory: Pomeranija; territory: Prūsija; territory: Volynė; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Lenkija; [[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Pomeranija; [[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Prūsija; [[objektai/asmenys/Mstivojus|Mstivojus]] valdė teritoriją Volynė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
   pagrindžia:
     - c-005
 
@@ -214,9 +213,3 @@ Dusburgietis teigia, kad dėl to, brolių patariamas, sugrąžino jam bažnyčio
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Mstivojus valde_teritorija [[objektai/vietos/Lenkija]]
-- Mstivojus valde_teritorija [[objektai/vietos/Pomeranija]]
-- Mstivojus valde_teritorija [[objektai/vietos/Prūsija]]
-- Mstivojus valde_teritorija [[objektai/vietos/Volynė]]

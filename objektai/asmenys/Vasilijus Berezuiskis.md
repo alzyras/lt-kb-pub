@@ -24,8 +24,7 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
   global_id: t-39663
   teiginys: 'Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus Berezuiskis|Vasilijus Berezuiskis]] buvo valdovas Lietuva; [[objektai/asmenys/Vasilijus Berezuiskis|Vasilijus Berezuiskis]] buvo valdovas Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 
@@ -49,7 +48,3 @@ Ant Volokolamsko tilto buvo mirtinai (lietuvio ietimi) sužeistas kunigaikštis 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Vasilijus Berezuiskis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vasilijus Berezuiskis buvo_valdovas [[objektai/vietos/Maskva]]

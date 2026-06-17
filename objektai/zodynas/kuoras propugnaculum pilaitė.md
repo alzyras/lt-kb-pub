@@ -30,7 +30,7 @@ Dusburgietis teigia, kad čia minima prūsų pilaitė (D.—propugnacuta [...] c
   global_id: t-58785
   teiginys: 'Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.'
   sudarymo_pagrindimas: 'Perrašyta į pilną sakinį su aiškiais veikėjais, veiksmu ir rezultatu.'
-  susije_objektai: 'territory: Baiga; territory: Barta; territory: Partigala; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta; mentioned_place: Partigala'
   pagrindžia:
     - c-004
 

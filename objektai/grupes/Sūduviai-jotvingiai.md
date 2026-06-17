@@ -39,10 +39,10 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
   global_id: t-175106
   teiginys: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; object: Kulmas; object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: [[objektai/asmenys/Mindaugas|Mindaugas]]; object: Prieglius; object: Prūsai; object: Semba; object: [[objektai/grupes/Sūduviai|Sūduviai]]; object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
-  semantiniai_rysiai: '[[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/asmenys/Mindaugas|Mindaugas]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Sūduviai|Sūduviai]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Kulmas; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Prieglius; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Prūsai; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Semba; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Vėluva'
+  susije_objektai: 'object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: Prieglius; object: Semba; object: [[objektai/grupes/Sūduviai|Sūduviai]]; object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
+  semantiniai_rysiai: '[[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė [[objektai/grupes/Sūduviai|Sūduviai]]; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Prieglius; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Semba; [[objektai/grupes/Sūduviai-jotvingiai|Sūduviai-jotvingiai]] puolė Vėluva'
   temporaliniai_duomenys: 'mūšio data: 1262 m.; mūšio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Mindaugas (valdovas, XIII a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Sūduviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Vėluva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Sūduviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sūduviai-jotvingiai puolė Vėluva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-004
@@ -870,12 +870,8 @@ Sūduviai-jotvingiai Dusburgiečio pasakojime rodomi kaip galinga vakarinių bal
     - t-028
 
 ## Ryšiai
-- Sūduviai-jotvingiai puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Sūduviai-jotvingiai puole [[objektai/vietos/Kulmas]]
 - Sūduviai-jotvingiai puole [[objektai/grupes/Lietuviai]]
-- Sūduviai-jotvingiai puole [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
 - Sūduviai-jotvingiai puole [[objektai/vietos/Prieglius]]
-- Sūduviai-jotvingiai puole [[objektai/vietos/Prūsai]]
 - Sūduviai-jotvingiai puole [[objektai/vietos/Semba]]
 - Sūduviai-jotvingiai puole [[objektai/grupes/Sūduviai]]
 - Sūduviai-jotvingiai puole [[objektai/vietos/Vėluva]]

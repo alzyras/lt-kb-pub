@@ -29,9 +29,9 @@ Aukščiausiosios Tarybos gynybos štabas 1991 m.: Audrius Butkevičius, Česlov
 - t-001
   global_id: t-79217
   teiginys: 'Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.'
-  susije_objektai: 'owner: Aukščiausiosios Tarybos rūmai; mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas]]; mentioned_place: Aukščiausiosios Tarybos rūmai'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1991 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aukščiausiosios Tarybos gynybos štabas (institucija) priklausė Aukščiausiosios Tarybos rūmai (institucija)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

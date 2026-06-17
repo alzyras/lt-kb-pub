@@ -24,8 +24,8 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
   global_id: t-86812
   teiginys: 'Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.'
   sudarymo_pagrindimas: 'Teiginys perrašytas be kontekstinės pradžios ir OCR triukšmo.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Moldova; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Moldovos kunigaikščiai|Moldovos kunigaikščiai]] kariavo prieš [[objektai/asmenys/Švitrigaila|Švitrigaila]]; [[objektai/grupes/Moldovos kunigaikščiai|Moldovos kunigaikščiai]] kariavo prieš [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Moldova; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Moldovos kunigaikščiai|Moldovos kunigaikščiai]] kariavo prieš [[objektai/asmenys/Švitrigaila|Švitrigaila]]'
   pagrindžia:
     - c-001
 - susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
@@ -51,6 +51,5 @@ Tuo pat metu Lenki­ joje Jogaila beveik nesiliovė kovojęs su kryžiuočiais, 
     - t-001
 
 ## Ryšiai
-- Moldovos kunigaikščiai kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
 - Moldovos kunigaikščiai kariavo_pries [[objektai/asmenys/Švitrigaila]]
 - [[objektai/asmenys/Švitrigaila]] kariavo_pries Moldovos kunigaikščiai

@@ -32,8 +32,6 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Nemunas; mentioned_place: Šešupė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
-- susijęs iš Markburgas: Landgrafas su riteriais ir kilmingaisiais atvyko pas Teutonų ordino brolius Markburge lapkričio 18 d.
 - susijęs iš [[objektai/asmenys/Antiochas Epifanas.md#claim-t-60237|Antiochas Epifanas]]: Makabėjai nugalėjo Antiochą Epifaną ir apvalė šventas vietas.
 - susijęs iš [[objektai/asmenys/Bonifacas IX.md#claim-t-35042|Bonifacas IX]]: Bonifacas IX parėmė Vytauto pastangas plėsti katalikybę tarp stačiatikių, patvirtindamas Vladimiro vyskupiją Volynijoje.
 - susijęs iš [[objektai/asmenys/Gregorijus (Vladimiro vyskupas).md#claim-t-35082|Gregorijus (Vladimiro vyskupas)]]: Bonifacas IX domininkoną Gregorijų paskyrė Vytauto įkurtos Vladimiro vyskupijos Volynijoje vyskupu.
@@ -90,6 +88,3 @@ Bet, pasiekus Šventąją, netoli Ukmergės (ties Pabaisku), jam pastojo kelią 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Simeonas]] keliavo_i Šventoji

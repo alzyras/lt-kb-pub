@@ -38,7 +38,7 @@ Papée). Papée, Pr. i Papée, Fr.
 - t-002
   global_id: t-30929
   teiginys: 'Fr. Papée priklausė senajai istorikų kartai, vaizdavusiai lietuvius vargšais ir skurdžiais.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-003
 

@@ -81,8 +81,8 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
   global_id: t-172073
   teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus faktas apie anglų savanorius.'
-  susije_objektai: 'location: Anglija; location: Lietuva; location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] keliavo į Anglija; [[objektai/grupes/Anglai|Anglai]] keliavo į Lietuva; [[objektai/grupes/Anglai|Anglai]] keliavo į Prūsija'
+  susije_objektai: 'location: Anglija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] keliavo į Anglija'
   pagrindžia:
     - c-007
 
@@ -99,8 +99,7 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 - t-008
   global_id: t-172075
   teiginys: 'Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.'
-  susije_objektai: 'territory: Livonija; territory: Prūsija; territory: Vilnius; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Anglai|Anglai]] susiję su Livonija; [[objektai/grupes/Anglai|Anglai]] susiję su Prūsija; [[objektai/grupes/Anglai|Anglai]] susiję su Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_object: [[objektai/daiktai/Bombardos|Bombardos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
@@ -375,9 +374,4 @@ Anglai čia rodomi kaip sutartiniai prekybos partneriai tarp Anglijos ir Lietuvo
 
 ## Ryšiai
 - [[objektai/grupes/Lietuviai]] kariavo_pries Anglai
-- Anglai susije_su [[objektai/vietos/Livonija]]
-- Anglai susije_su [[objektai/vietos/Prūsija]]
-- Anglai susije_su [[objektai/vietos/Vilnius]]
 - Anglai keliavo_i [[objektai/vietos/Anglija]]
-- Anglai keliavo_i [[objektai/vietos/Lietuva]]
-- Anglai keliavo_i [[objektai/vietos/Prūsija]]

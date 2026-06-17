@@ -38,7 +38,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   global_id: t-111491
   teiginys: 'Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir sutrumpinti sakinį.'
-  susije_objektai: 'location: Lietuva; location: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'location: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
   pagrindžia:
     - c-006
 
@@ -76,7 +76,7 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
 - t-005
   global_id: t-111496
   teiginys: 'Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Lietuva; location: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
+  susije_objektai: 'location: Prancūzija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Lietuva; mentioned_place: Prancūzija'
   pagrindžia:
     - c-006
 
@@ -101,20 +101,14 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie ryšius su Anglija.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74141|JAV lietuviai]]: 00 lietuvių tuo metu gyveno JAV (iš jų 180 000 gimę Lietuvoje), apie 100 000 Vilniaus krašte, 6 000 – Anglijoje.
 - susijęs iš [[objektai/asmenys/Henrikas IV.md#claim-t-30261|Henrikas IV]]: Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.
 - susijęs iš [[objektai/asmenys/Henrikas V.md#claim-t-87908|Henrikas V]]: Anglijos karalius Henrikas V pasitelkė teologą Tomą Waldeną į Vladislovo Jogailos derybas su kryžiuočiais.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172073|Anglai]]: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos, norėjusių kartu su kryžiuočiais kariauti su pagonimis.
-- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
 - susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis).md#claim-t-54711|Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]: 1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš Prancūzija: Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.
 - susijęs iš Prancūzija: Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Prūsija: Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Prūsija: Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70221|maldininkai / maldininko įžadai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
-- susijęs iš [[objektai/zodynas/maldininkai.md#claim-t-58830|maldininkai]]: Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77969|A. Smetona]]: 1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-18765|Albertas Vijūkas-Kojalavičius]]: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje.
 - susijęs iš [[objektai/asmenys/Alfonsas (Kastilijos karalius).md#claim-t-184045|Alfonsas (Kastilijos karalius)]]: Kastilijos karaliaus Alfonso ir Kornvalijos grafo Ričardo išrinkimo Romos karaliais sukelta nesantarvė truko ilgus metus.
@@ -359,11 +353,6 @@ Iš didžiųjų santarvės valstybių pirmoji pripažino Lietuvą Šiaurės Amer
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/JAV lietuviai]] gyveno Anglija
 - [[objektai/asmenys/Henrikas IV]] buvo_valdovas Anglija
 - [[objektai/asmenys/Henrikas V]] buvo_valdovas Anglija
 - [[objektai/grupes/Anglai]] keliavo_i Anglija
-- [[objektai/asmenys/Augustas]] keliavo_i Anglija
-- [[objektai/asmenys/Henrikas VI]] keliavo_i Anglija
-- [[objektai/vietos/Olandija]] priklause Anglija
-- [[objektai/grupes/Prancūzai]] keliavo_i Anglija

@@ -32,8 +32,8 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
   global_id: t-19264
   teiginys: 'Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.'
   sudarymo_pagrindimas: 'Citata tiksliau remia formuluotę apie aukštesnį statusą nei Didysis.'
-  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Vengrija; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Europa; [[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Lietuva; [[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Vengrija'
+  susije_objektai: 'territory: Vengrija; mentioned_author: [[objektai/autoriai/Grigorijus Camblakas|Grigorijus Camblakas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Steponas (Vengrijos valdovas)|Steponas (Vengrijos valdovas)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-002
 
@@ -107,6 +107,4 @@ Paminėkime tokią grandinę: Lenkijos valdovo Mieško krikštas (966), Kijevo R
     - t-003
 
 ## Ryšiai
-- Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Europa]]
-- Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Lietuva]]
 - Steponas (Vengrijos valdovas) buvo_valdovas [[objektai/vietos/Vengrija]]

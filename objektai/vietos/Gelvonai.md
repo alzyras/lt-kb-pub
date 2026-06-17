@@ -26,8 +26,6 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Pašilė; mentioned_place: Viena; mentioned_place: Žirnajos upelis'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
-- susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64009|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
 - susijęs iš [[objektai/asmenys/Albertas Tžasibroda.md#claim-t-87610|Albertas Tžasibroda]]: Albertas Tžasibroda turėjo žemę, iš kurios Sofija Simonovna privalėjo mokėti kviečių dešimtinę nuo visų laukų.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64008|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
 - susijęs iš [[objektai/asmenys/Mykolas.md#claim-t-64009|Mykolas]]: Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.
@@ -58,6 +56,3 @@ Sprendžiant iš pagrindinių istorinių šaltinių, Švitrigailos ir Ordino paj
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Mykolas]] buvo_valdovas Gelvonai

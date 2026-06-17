@@ -208,8 +208,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179923
   teiginys: 'Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.'
   sudarymo_pagrindimas: 'Reikia sutelkti teiginį į Kauną ir sutrumpinti sąrašą.'
-  susije_objektai: 'owner: Gardinas; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: Kauno pilis; owner: Lietuva; owner: [[objektai/asmenys/Mindaugas|Mindaugas]]; owner: Polockas; owner: Pskovas; owner: Voluinė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kauno pilis; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
-  semantiniai_rysiai: 'Kaunas priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Kaunas priklausė [[objektai/asmenys/Mindaugas|Mindaugas]]; Kaunas priklausė Gardinas; Kaunas priklausė Kauno pilis; Kaunas priklausė Lietuva; Kaunas priklausė Polockas; Kaunas priklausė Pskovas; Kaunas priklausė Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kauno pilis; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-039
 
@@ -502,7 +501,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179962
   teiginys: '1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, palaidotas Nežinomas kareivis.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mirties data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, gramatiškas ir tiesiogiai paremtas citata.'
@@ -834,7 +833,7 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   global_id: t-179999
   teiginys: '1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.'
   sudarymo_pagrindimas: 'Teiginys pilnai perteikia citatoje aprašytą kelionės maršrutą.'
-  susije_objektai: 'location: Dubysa; location: Merkinė; location: Nemunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'location: Merkinė; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Merkinė; mentioned_place: Nemunas'
   pagrindžia:
     - c-032
 
@@ -936,36 +935,9 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
   susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-079
-- susijęs iš [[objektai/daiktai/Paminklas Žuvusiems už Lietuvos laisvę.md#claim-t-19579|Paminklas Žuvusiems už Lietuvos laisvę]]: 1934 m. lapkričio 23 d. Kaune, Karo muziejaus sodelyje, šalia paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.
-- susijęs iš [[objektai/ivykiai/Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.).md#claim-t-20432|Nežinomo kareivio palaidojimas Kaune (1934 m. lapkričio 23 d.)]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje prie paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.
-- susijęs iš [[objektai/paprociai/Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas.md#claim-t-77940|Tautinių atminties vietų kūrimas, žuvusių karių kultas ir kariuomenės dienos minėjimas]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena.
-- susijęs iš Karo muziejaus sodelis: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis.
-- susijęs iš Vilnius: Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.
-- susijęs iš [[objektai/zodynas/Žuvusių karių kultas.md#claim-t-22353|Žuvusių karių kultas]]: 1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, rūpintasi karių kapais ir kurtas žuvusių karių kultas.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
-- susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
-- susijęs iš [[objektai/grupes/Žydai.md#claim-t-117382|Žydai]]: Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.
-- susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
-- susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87417|Šach Achmedas]]: Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-10757|Hanza]]: Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.
-- susijęs iš [[objektai/grupes/Saulė.md#claim-t-168659|Saulė]]: „Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.
-- susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
 - susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/ivykiai/LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia.md#claim-t-186801|LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia]]: LDK ir Lenkijos talkos delegacija į Maskvą išvyko 1503 m. vasario pradžioje ir atvyko kovo 4 d.
-- susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Merkinė: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
-- susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77966|A. Smetona]]: Vytauto Didžiojo kultas susiejo A. Smetonos valdomą Lietuvos valstybę su stipraus tautos vado įvaizdžiu.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77981|A. Smetona]]: A. Smetona hitlerininkams skirtą mirties bausmę pakeitė kalėjimu iki gyvos galvos, o 1937 m. juos amnestavo.
@@ -3309,26 +3281,5 @@ Kaunas aprašomas kaip miestas ir pilis, turėjęs strateginę, prekybinę ir v�
     - t-087
 
 ## Ryšiai
-- [[objektai/asmenys/Skirgaila]] valde_teritorija Kaunas
-- [[objektai/grupes/Žydai]] gyveno Kaunas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Kaunas
-- [[objektai/grupes/Hanza]] pastate Kaunas
-- [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]] buvo_valdovas Kaunas
-- [[objektai/grupes/Saulė]] pastate Kaunas
-- [[objektai/asmenys/Šach Achmedas]] buvo_valdovas Kaunas
-- [[objektai/vietos/Gardinas]] priklause Kaunas
 - [[objektai/grupes/Hanza]] priklause Kaunas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Kaunas
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Kaunas
-- Kaunas priklause [[objektai/vietos/Gardinas]]
-- Kaunas priklause [[objektai/asmenys/Gediminas]]
-- Kaunas priklause [[objektai/vietos/Kauno pilis|Kauno pilis (pilis)]]
-- Kaunas priklause [[objektai/vietos/Lietuva]]
-- Kaunas priklause [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Kaunas priklause [[objektai/vietos/Polockas]]
-- Kaunas priklause [[objektai/vietos/Pskovas]]
-- Kaunas priklause [[objektai/vietos/Voluinė]]
-- [[objektai/vietos/Lyda]] priklause Kaunas
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Kaunas
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Kaunas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Kaunas

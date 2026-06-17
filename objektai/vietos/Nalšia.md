@@ -39,8 +39,6 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184683|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.
-- susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184789|Mindaugas (valdovas, XIII a.)]]: Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184683|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Nalšios kunigaikštis, kurio žmona, karalienės sesuo, atvyko į Mindaugo žmonos šermenis.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113906|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įtraukė ją į Europos šalių sistemą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-113915|Mindaugas (valdovas, XIII a.)]]: Mindaugas sukūrė valstybę ir, nors laikinai, įvedė ją į Europos šalių sistemą.
 - susijęs iš [[objektai/asmenys/Mindaugas.md#claim-t-184789|Mindaugas (valdovas, XIII a.)]]: Mirus Mindaugo žmonai, Daumanto žmona atvyko į Mindaugo rūmus tvarkyti šeimynos moterų ir surengti šermenų.
@@ -94,7 +92,3 @@ Po Mindaugo žmonos mirties į rūmus atvyko Daumanto, Nalšios kunigaikščio, 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] keliavo_i Nalšia
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] keliavo_i Nalšia

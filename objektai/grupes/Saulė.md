@@ -38,8 +38,7 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
 - t-002
   global_id: t-168659
   teiginys: '„Saulės“ draugija Kaune įsteigė buhalterijos kursus, rengusius prekybai ir vartotojų bendrovėms reikalingus žmones.'
-  susije_objektai: 'object: Kaunas; object: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Saulė|Saulė]] pastatė Kaunas; [[objektai/grupes/Saulė|Saulė]] pastatė Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Visvaldis.md#claim-t-79219|Visvaldis]]: Visvaldis buvo nugalėtas Rygos vyskupo Alberto.
@@ -71,7 +70,3 @@ Ypatingą reikšmę turėjo trys draugijos, įkurtos švietimo reikalams, būten
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- Saulė pastate [[objektai/vietos/Kaunas]]
-- Saulė pastate [[objektai/vietos/Vilnius]]

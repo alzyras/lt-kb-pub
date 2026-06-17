@@ -64,7 +64,6 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dorpatas; mentioned_place: Livonija; mentioned_place: Viljandis'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09883|Smolensko apgultis (1632–1634 m.)]]: 1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
 - susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186031|Andrejus Kurbskis]]: Karalius pažadėjo atiduoti Andrejų Kurbskį tik tada, jei Ivanas grąžins Lietuvos pusės kunigaikščius su šeimomis ir tėvonijomis.
@@ -298,7 +297,3 @@ LDK rytų slavai Rusijos žmones vadino maskvėnais, o maskvėnai savo ruožtu L
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Maskvėnai dalyvavo_musyje [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]
-- [[objektai/asmenys/Vladislovas]] puole Maskvėnai

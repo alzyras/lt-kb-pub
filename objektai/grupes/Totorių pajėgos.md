@@ -116,7 +116,3 @@ Totorių pajėgos Aukso ordos chano Timūr-Kutluko, Krymo emyro Edygos kariai. T
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Tochtamišas]] susije_su Totorių pajėgos
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] susije_su Totorių pajėgos

@@ -38,7 +38,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraščio pasakojimu, Tautvilas su Danieliui skirtais belaisviais nuvyko į Rygą, kur rygiečiai jį iškilmingai priėmė ir pakrikštijo.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Sakinys papildytas citatoje esančia kelionės aplinkybe.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rygiečiai|Rygiečiai]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

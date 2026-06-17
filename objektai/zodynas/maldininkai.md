@@ -80,7 +80,7 @@ Dusburgietis teigia, kad apie Medininkų valsčiaus apiplėšimą 1316 metais Ka
   global_id: t-58830
   teiginys: 'Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas ir paliktas citatos paremtas faktas.'
-  susije_objektai: 'location: Anglija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Anglija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Engelbertas I.md#claim-t-60110|Engelbertas I]]: Markos grafas Engelbertas su Julicho grafu ir didele kariuomene 1262 m. sausio 21 d. atvyko į Karaliaučiaus pilį.

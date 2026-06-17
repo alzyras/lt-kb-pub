@@ -189,8 +189,7 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia Kazimiero laikyseną ir paliaubų motyvą.'
-  susije_objektai: 'territory: Tverė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Jogailaitis|Kazimieras Jogailaitis]] buvo valdovas Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_place: Tverė'
   pagrindžia:
     - c-015
 
@@ -579,6 +578,3 @@ Kazimiero laikai (1440—1492 m.) — pereinamasis laikotarpis. Kazimiero išrin
   statusas: verified
   pagrindžia:
     - t-016
-
-## Ryšiai
-- Kazimieras Jogailaitis buvo_valdovas [[objektai/vietos/Tverė]]

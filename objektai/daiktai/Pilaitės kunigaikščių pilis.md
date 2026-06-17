@@ -44,8 +44,8 @@ Nenurodyta
   global_id: t-87088
   teiginys: 'Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikia pašalinti OCR triukšmą ir suformuluoti sklandų sakinį.'
-  susije_objektai: 'owner: Lietuva; owner: Pilaitė; owner: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; owner: Vilija; owner: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; [[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Lietuva; [[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Pilaitė; [[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Vilija; [[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/daiktai/Pilaitės kunigaikščių pilis|Pilaitės kunigaikščių pilis]] priklausė Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Glebavičių giminė.md#claim-t-86793|Glebavičių giminė]]: Pilaitės kunigaikščių pilis po Viršilų giminės perėjo Glebavičių paveldui.
@@ -78,8 +78,4 @@ Nenurodyta
     - t-001
 
 ## Ryšiai
-- Pilaitės kunigaikščių pilis priklause [[objektai/vietos/Lietuva]]
-- Pilaitės kunigaikščių pilis priklause [[objektai/vietos/Pilaitė]]
-- Pilaitės kunigaikščių pilis priklause [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]]
-- Pilaitės kunigaikščių pilis priklause [[objektai/vietos/Vilija]]
 - Pilaitės kunigaikščių pilis priklause [[objektai/vietos/Vilnius]]

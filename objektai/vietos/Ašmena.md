@@ -58,8 +58,8 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
 - t-003
   global_id: t-176936
   teiginys: 'Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.'
-  susije_objektai: 'owner: Breslauja; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/asmenys/Jaunutis|Jaunutis]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Ašmena priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Ašmena priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]; Ašmena priklausė Breslauja; Ašmena priklausė Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Ašmena priklausė Vilnius'
   pagrindžia:
     - c-002
 
@@ -123,8 +123,7 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   global_id: t-176944
   teiginys: 'Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.'
   sudarymo_pagrindimas: 'Sakinys perrašytas kaip savarankiškas faktas apie Ašmeną.'
-  susije_objektai: 'owner: Breslauja; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja'
-  semantiniai_rysiai: 'Ašmena priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Ašmena priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]; Ašmena priklausė Breslauja'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja'
   pagrindžia:
     - c-002
 
@@ -204,13 +203,6 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
   susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Starodubas'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87573|Simonas (Alšėnų kunigaikštis)]]: Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš Švitrigailos 1432 m. sausio 5 d. laiškas didžiajam magistrui: 1432 m. sausio 5 d. laiške didžiajam magistrui Švitrigaila rašė, kad karalius išlaisvino Rampoldą ir Goštautą.
-- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
 - susijęs iš [[objektai/asmenys/Barbora iš Sulistrovskių Čechavičienė.md#claim-t-87630|Barbora iš Sulistrovskių Čechavičienė]]: 1759 m. balandžio 22 d. pas Barborą iš Sulistrovskių Čechavičienę buvo investuota 4000 lenkų auksinų spaustuvės suma.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113785|Goštautas (vyskupas, XV a.)]]: Vilniaus vaivada Goštautas prisidėjo prie Žygimanto sąjungininkų, slapta žygiavusių prieš Švitrigailą prie Ašmenos.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-113786|Goštautas (vyskupas, XV a.)]]: Jogaila išlaisvino Voluinėje į nelaisvę paimtą lietuvių didiką Goštautą ir pasiuntė jį Švitrigailai į Vilnių.
@@ -590,12 +582,4 @@ Ašmena šiame veikale minima ir kaip Gediminaičių vidaus valdų pilies sritis
     - t-020
 
 ## Ryšiai
-- [[objektai/asmenys/Jadvyga Jogailienė]] gyveno Ašmena
-- [[objektai/grupes/Totoriai]] gyveno Ašmena
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] buvo_valdovas Ašmena
-- [[objektai/asmenys/Švitrigaila]] buvo_valdovas Ašmena
-- Ašmena priklause [[objektai/vietos/Breslauja]]
-- Ašmena priklause [[objektai/asmenys/Gediminas]]
-- Ašmena priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
 - Ašmena priklause [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Breslauja]] priklause Ašmena

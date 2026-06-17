@@ -51,10 +51,9 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   global_id: t-172805
   teiginys: '1524 m. karalius priekaištavo Vilniaus magistratui dėl nesutarimų su bendruomene ir nubaudė jį šimto kapų grašių bauda.'
   sudarymo_pagrindimas: 'Teiginys glaustai apima citatoje išvardytus priekaištus ir baudą.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]] susiję su Lietuva; [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]] susiję su Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Vilniaus gaisro gesinimo įrankiai|Vilniaus gaisro gesinimo įrankiai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1524 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus magistratas susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vilniaus magistratas susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys glaustai apima citatoje išvardytus priekaištus ir baudą.'
   pagrindžia:
     - c-013
@@ -644,7 +643,3 @@ O kadangi Vilniaus miesto magistratas priešinosi aukščiau nurodytiems potvar�
   statusas: verified
   pagrindžia:
     - t-013
-
-## Ryšiai
-- Vilniaus magistratas susije_su [[objektai/vietos/Lietuva]]
-- Vilniaus magistratas susije_su [[objektai/vietos/Vilnius]]

@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Krėva; location: Mazovija; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krėva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krėva; mentioned_place: Mazovija'
   pagrindžia:
     - c-001
 
@@ -52,9 +52,9 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta, kad faktas aiškiau sietųsi su Vytauto pasitraukimo kontekstu.'
-  susije_objektai: 'territory: Lietuva; territory: Mazovija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Mazovija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1383 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1383 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad faktas aiškiau sietųsi su Vytauto pasitraukimo kontekstu.'
   pagrindžia:
     - c-002

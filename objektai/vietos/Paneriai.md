@@ -105,8 +105,7 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   global_id: t-84415
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.'
   sudarymo_pagrindimas: 'Žodis „šiandien“ yra kontekstinis, todėl reikia aiškiai nurodyti šaltinio aprašymo laiką.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: [[objektai/asmenys/Julijona|Julijona]]; owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Paneriai priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Paneriai priklausė [[objektai/asmenys/Julijona|Julijona]]; Paneriai priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Paneriai priklausė Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -129,7 +128,6 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai atspindi citatą apie 1390 m. privilegiją ir Vilijos pavadinimą.'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
 - susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39466|A. Chlapovskis]]: Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/E. Doterivas.md#claim-t-39722|E. Doterivas]]: Pulkininkas E. Doterivas ir generolas D. Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
@@ -339,8 +337,4 @@ Daugiausia šaudė iš lietuvių sudarytos dvi specialios zonderkomandos – Ypa
     - t-008
 
 ## Ryšiai
-- [[objektai/grupes/7-asis pėstininkų pulkas]] priklause Paneriai
-- Paneriai priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Paneriai priklause [[objektai/asmenys/Julijona]]
-- Paneriai priklause [[objektai/vietos/Vilnius]]
-- Paneriai priklause [[objektai/grupes/Vokiečiai]]
+- Paneriai priklause [[objektai/grupes/7-asis pėstininkų pulkas]]

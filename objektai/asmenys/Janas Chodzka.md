@@ -22,11 +22,9 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   global_id: t-87698
   teiginys: 'Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs sąrašas ir suformuluotas faktas apie Janą Chodzką.'
-  susije_objektai: 'owner: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; owner: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; owner: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Vilnius; owner: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55109|Šubravcų draugija]]: Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-81752|Šubravcų draugija]]: Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
 - susijęs iš [[objektai/asmenys/Janas Lasickis.md#claim-t-87702|Janas Lasickis]]: Jano Lasickio knygą apie žemaičių ir kitų tautų dievus išstudijavę Vilniaus šubravcai pasivadino senovės lietuvių dievybių vardais.
 - susijęs iš [[objektai/asmenys/Jokūbas Šimkevičius.md#claim-t-87709|Jokūbas Šimkevičius]]: Jokūbas Šimkevičius, Vilniaus šubravcų draugijos narys, pasivadino Perkūnu.
 - susijęs iš [[objektai/asmenys/Juozapas Zavadskis.md#claim-t-87736|Juozapas Zavadskis]]: Šubravcų draugijoje Juozapas Zavadskis buvo pasivadinęs senovės lietuvių dievybės Svaistiko vardu.
@@ -62,6 +60,3 @@ Išstudijavę Jano Lasickio knygą Apie žemaičių, kitų sar­ matą bei netik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Šubravcų draugija]] priklause Janas Chodzka

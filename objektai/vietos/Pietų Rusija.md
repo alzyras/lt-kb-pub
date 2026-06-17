@@ -34,8 +34,6 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
     - c-002
 - susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
 - susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
-- susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
-- susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -67,6 +65,3 @@ Su tam tikru pagrindu virvelinės kera­ mikos kultūros šaknų yra ieškoma pi
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/vietos/Smolenskas]] priklause Pietų Rusija

@@ -22,8 +22,7 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, aiškiai susietas su Spera ir paremtas citata.'
-  susije_objektai: 'territory: Širvinta; mentioned_place: Širvinta'
-  semantiniai_rysiai: '[[objektai/asmenys/Spera|Spera]] valdė teritoriją Širvinta'
+  susije_objektai: 'mentioned_place: Širvinta'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Medinės pilys.md#claim-t-19569|Medinės pilys]]: XIII–XIV a. ant Lietuvos piliakalnių stovėjusios medinės pilys buvo svarbiausi gynybiniai statiniai.
@@ -46,7 +45,3 @@ Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie did�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Spera valde_teritorija [[objektai/vietos/Širvinta]]
-- Spera buvo_valdovas [[objektai/vietos/Lenkija]]

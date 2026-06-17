@@ -222,10 +222,10 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   global_id: t-175551
   teiginys: '1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordiną.'
-  susije_objektai: 'territory: Dauguva; territory: Kulmas; territory: Mozūrija; territory: Prūsai; territory: Vysla; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Dauguva; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Kulmas; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Mozūrija; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Prūsai; [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Vysla'
+  susije_objektai: 'territory: Dauguva; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]] užkariavo Dauguva'
   temporaliniai_duomenys: 'mūšio data: 1202 m.; mūšio data: 1230 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Dauguva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kalavijuočių ordinas užkariavo Dauguva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Kalavijuočių ordiną.'
   pagrindžia:
     - c-010
@@ -329,7 +329,6 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
   temporalinis_llm_pakomentavimas: 'Siekio ir motyvo formuluotei būtina atribucija.'
   pagrindžia:
     - c-022
-- susijęs iš Žemaitija: Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.
 - susijęs iš [[objektai/asmenys/Firstenbergas (Livonijos ordino magistras).md#claim-t-87670|Firstenbergas (Livonijos ordino magistras)]]: 1557 m. žygis į Livoniją prieš magistrą Firstenbergą baigėsi jo nuolankumu Žygimantui Augustui ir valdžios Livonijoje pripažinimu.
 - susijęs iš [[objektai/asmenys/Frankas Kirskorffas.md#claim-t-87672|Frankas Kirskorffas]]: Kalavijuočių riterių ordino magistras Frankas Kirskorffas žuvo mūšyje, kuriame žuvo daug livoniečių.
 - susijęs iš [[objektai/asmenys/Hartmanas iš Heldrungeno.md#claim-t-59968|Hartmanas iš Heldrungeno]]: Hartmano iš Heldrungeno „Pranešimas“ aprašo Kalavijuočių ordino susijungimą su Vokiečių ordinu ir Livonijos atitekimą pastarajam.
@@ -832,9 +831,5 @@ Kalavijuočiai yra atskira vokiečių karinė grupė. Nurodytas oficialus ordino
 ## Ryšiai
 - Kalavijuočių ordinas kariavo_pries [[objektai/grupes/Lietuviai]]
 - Kalavijuočių ordinas kariavo_pries [[objektai/grupes/Žemaičiai]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Kalavijuočių ordinas
+- Kalavijuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - Kalavijuočių ordinas uzkariavo [[objektai/vietos/Dauguva]]
-- Kalavijuočių ordinas uzkariavo [[objektai/vietos/Kulmas]]
-- Kalavijuočių ordinas uzkariavo [[objektai/vietos/Mozūrija]]
-- Kalavijuočių ordinas uzkariavo [[objektai/vietos/Prūsai]]
-- Kalavijuočių ordinas uzkariavo [[objektai/vietos/Vysla]]

@@ -118,7 +118,6 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad teiginys būtų aiškiau sutelktas į Raseinius.'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Aleksandra Atgailainytė.md#claim-t-39475|Aleksandra Atgailainytė]]: Prisikėlimo apygardos partizanė Aleksandra Atgailainytė buvo suimta ir po tardymų Raseinių kalėjime pervežama į kitą vietą.
 - susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Vildenbergo.md#claim-t-60279|Fridrichas iš Vildenbergo]]: 1322 m. Fridrichas iš Vildenbergo, pavadavęs didįjį magistrą, su Ordino kariuomene žiemą įsiveržė į Vaikių valsčių.
@@ -302,6 +301,3 @@ Saugumo sumetimais, ordino, o gal ir paties vyskupo prašomas, Mindaugas vyskupu
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Raseiniai

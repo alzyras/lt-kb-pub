@@ -90,11 +90,6 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   susije_objektai: 'mentioned_event: [[objektai/ivykiai/Salyno sutartis|Salyno sutartis]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Brasta; mentioned_place: Grajevo; mentioned_place: Lietuva; mentioned_place: Lukas; mentioned_place: Salynas'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės.md#claim-t-62521|Vartenbergo apylinkių žmonių žudynės]]: Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.
-- susijęs iš Vartenbergas: Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.
-- susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
-- susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09532|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą.
-- susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09533|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-184067|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Gedetas.md#claim-t-60285|Gedetas]]: Kimenavos sūduvių vadas Gedetas su šeimyna ir tūkstančiu penkiais šimtais vyrų bei moterų pasitraukė pas brolius ir priėmė krikštą.
 - susijęs iš [[objektai/asmenys/Konradas iš Tirbergo Jaunesnysis.md#claim-t-175240|Konradas iš Tirbergo Jaunesnysis]]: Magistras Konradas iš Tirbergo Jaunesnysis subūrė brolius ir karius žygiui į Sūduvą.
@@ -334,7 +329,3 @@ Jis skelbė, jog Žemaičių kraštas ir Sūduva, taip pat ir keli lenkų pasien
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Zemovitas]] buvo_valdovas Sūduva
-- [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]] buvo_valdovas Sūduva

@@ -22,8 +22,7 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
   global_id: t-60349
   teiginys: 'Jonas Saksas iš Gilberštetės mirė Karaliaučiaus pilyje, o prieš tapdamas ordino broliu gyveno nedorovingai.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra antraštės triukšmo; citata palaiko glaustą faktą apie asmenį.'
-  susije_objektai: 'location: Viena; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Saksas iš Gilberštetės|Jonas Saksas iš Gilberštetės]] gyveno Viena'
+  susije_objektai: 'mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -47,6 +46,3 @@ Dusburgietis teigia, kad apie nuostabų vieno vyro atsivertimą Tais metais Kara
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jonas Saksas iš Gilberštetės gyveno [[objektai/vietos/Viena]]

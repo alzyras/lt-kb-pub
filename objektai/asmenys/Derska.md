@@ -45,8 +45,8 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Perrašyta be OCR klaidų ir aiškiai susieta su Derska.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Prūsai; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Derska|Derska]] gyveno Lenkija; [[objektai/asmenys/Derska|Derska]] gyveno Lietuva; [[objektai/asmenys/Derska|Derska]] gyveno Prūsai'
+  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Derska|Derska]] gyveno Lietuva'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Numa.md#claim-t-60185|Numa]]: Numa ir Derska tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
@@ -116,6 +116,4 @@ Dusburgietis teigia, kad tačiau du bartai, būtent: Numa ir Derska, nusekė, br
     - t-003
 
 ## Ryšiai
-- Derska gyveno [[objektai/vietos/Lenkija]]
 - Derska gyveno [[objektai/vietos/Lietuva]]
-- Derska gyveno [[objektai/vietos/Prūsai]]

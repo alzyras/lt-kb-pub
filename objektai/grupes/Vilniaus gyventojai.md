@@ -61,8 +61,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86692
   teiginys: 'Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.'
   sudarymo_pagrindimas: 'Citata pagrindžia gyventojų ištikimybės motyvą ir teisės suteikimą.'
-  susije_objektai: 'territory: Merkinė; territory: Vilnius; mentioned_place: Merkinė; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] susiję su Merkinė; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] susiję su Vilnius'
+  susije_objektai: 'mentioned_place: Merkinė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -71,8 +70,7 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   global_id: t-86693
   teiginys: 'Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs, bet citata pagrindžia aiškų faktą apie gyventojus.'
-  susije_objektai: 'owner: [[objektai/asmenys/Augustas|Augustas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė [[objektai/asmenys/Augustas|Augustas]]; [[objektai/grupes/Vilniaus gyventojai|Vilniaus gyventojai]] priklausė Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -318,9 +316,3 @@ Visi Vilniaus gyventojai, dar pagonys, buvo pakrikštyti, o po apeigų žmonėms
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- Vilniaus gyventojai susije_su [[objektai/vietos/Merkinė]]
-- Vilniaus gyventojai susije_su [[objektai/vietos/Vilnius]]
-- Vilniaus gyventojai priklause [[objektai/asmenys/Augustas]]
-- Vilniaus gyventojai priklause [[objektai/vietos/Vilnius]]

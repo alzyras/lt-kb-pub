@@ -22,8 +22,8 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir OCR triukšmas, paliktas citatos remiamas faktas.'
-  susije_objektai: 'territory: Alšėnai; territory: Vengrija; mentioned_place: Alšėnai; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Algimantaitis|Jurgis Algimantaitis]] buvo valdovas Alšėnai; [[objektai/asmenys/Jurgis Algimantaitis|Jurgis Algimantaitis]] buvo valdovas Vengrija'
+  susije_objektai: 'territory: Alšėnai; mentioned_place: Alšėnai; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Algimantaitis|Jurgis Algimantaitis]] buvo valdovas Alšėnai'
   pagrindžia:
     - c-001
 
@@ -56,4 +56,3 @@ Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus 
 
 ## Ryšiai
 - Jurgis Algimantaitis buvo_valdovas [[objektai/vietos/Alšėnai]]
-- Jurgis Algimantaitis buvo_valdovas [[objektai/vietos/Vengrija]]

@@ -74,8 +74,7 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   global_id: t-54949
   teiginys: 'Barbora Radvilaitė gyveno rūmuose prie Vilijos, tarp sodų, prie pat Žemutinės pilies.'
   sudarymo_pagrindimas: 'Teiginys perrašytas taip, kad faktas būtų tiesiogiai apie Barborą Radvilaitę.'
-  susije_objektai: 'location: Barboros rūmai Vilniuje; location: Trakai; location: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] gyveno Barboros rūmai Vilniuje; [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] gyveno Trakai; [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]] gyveno Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Barboros rūmai Vilniuje; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -503,14 +502,3 @@ Barbora Radvilaitė vaizduojama kaip Vilniaus kašteliono Jurgio duktė, Goštau
   statusas: verified
   pagrindžia:
     - t-014
-
-## Ryšiai
-- Barbora Radvilaitė gyveno [[objektai/vietos/Barboros rūmai Vilniuje]]
-- Barbora Radvilaitė gyveno [[objektai/vietos/Trakai]]
-- Barbora Radvilaitė gyveno [[objektai/vietos/Vilnius]]
-- Barbora Radvilaitė keliavo_i [[objektai/vietos/Alšėnai]]
-- Barbora Radvilaitė keliavo_i [[objektai/vietos/Bizantija]]
-- Barbora Radvilaitė keliavo_i [[objektai/vietos/Kazanė]]
-- Barbora Radvilaitė keliavo_i [[objektai/vietos/Maskva]]
-- Barbora Radvilaitė keliavo_i [[objektai/vietos/Silezija]]
-- Barbora Radvilaitė keliavo_i [[objektai/vietos/Vokietija]]

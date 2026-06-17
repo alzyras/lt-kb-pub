@@ -62,9 +62,9 @@ Nenurodyta
   teiginys: '1399 m. rugpjūčio 12 d., likus dviem valandoms iki saulėlydžio, prasidėjo Vorsklos mūšis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys remiasi citatos formuluote, bet reikia aiškiai įvardyti mūšį ir pašalinti kabučių fragmentiškumą.'
-  susije_objektai: 'event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Vorskla'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis]]; mentioned_person: [[objektai/asmenys/Edigėjus|Edigėjus]]; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'mūšio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Edigėjus dalyvavo mūšyje Vorsklos mūšis (mūšis)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys remiasi citatos formuluote, bet reikia aiškiai įvardyti mūšį ir pašalinti kabučių fragmentiškumą.'
   pagrindžia:
     - c-003

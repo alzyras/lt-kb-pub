@@ -92,10 +92,3 @@ Kelis kartus Vytautas išpažino savo nuodė­ mes Vilniaus vyskupui Motiejui; p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Motiejus keliavo_i [[objektai/vietos/Gniezno]]
-- Motiejus keliavo_i [[objektai/vietos/Krokuva]]
-- Motiejus keliavo_i [[objektai/vietos/Lietuva]]
-- Motiejus keliavo_i [[objektai/vietos/Viena]]
-- Motiejus keliavo_i [[objektai/vietos/Vilnius]]

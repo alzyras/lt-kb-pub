@@ -31,7 +31,7 @@ Dusburgietis teigia, kad apie Šventos Elžbietos vyro mirtį 1227 viešpaties m
   global_id: t-58822
   teiginys: 'Brolis Konradas, kadaise Tiuringijos landgrafas ir penktasis Teutonų ordino didysis magistras, mirė liepos 24 d. ir buvo palaidotas Markburge.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata apie Konradą.'
-  susije_objektai: 'location: Markburgas; location: Viena; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Markburgas; mentioned_place: Viena'
+  susije_objektai: 'location: Markburgas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Markburgas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

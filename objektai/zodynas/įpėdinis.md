@@ -35,8 +35,6 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo pasakojimo apie Vytauto ir Jogailos susitarimą šaltinio ribotumą. Papildomos pastabos apie Horodlo uniją ir datavimą nepridėtos.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Valerijonas Protasevičius.md#claim-t-114009|Valerijonas Protasevičius (vyskupas)]]: Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.
-- susijęs iš [[objektai/zodynas/bursa.md#claim-t-86415|bursa]]: Valerijonas Protasevičius neturtingiems studentams įsteigė Valerijono bursą ir pavedė ją jėzuitų priežiūrai.
 - susijęs iš [[objektai/asmenys/Andrius fon Vestfalenas.md#claim-t-186179|Andrius fon Vestfalenas]]: Livonijos magistro Otono įpėdinis Andrius fon Vestfalenas tęsė karą, buvo lietuvių sumuštas ir žuvo.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176360|Gediminas]]: Pats iki savo gyvenimo galo pasilikęs pagoniu, Gediminas ne tik nė vieno dėl religinių priežasčių nepersekiojo, bet Naugarduke Lietuvos stačiatikiams palaikė atskirą arkivyskupiją.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
@@ -107,6 +105,3 @@ Pasakojimas apie Vytauto ir Jogailos susitikimą Peremišlyje ir susitarimą dė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius (vyskupas)]] pastate įpėdinis

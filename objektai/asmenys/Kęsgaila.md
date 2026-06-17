@@ -52,6 +52,3 @@ Jam į pagalbą bu­ vo paskirtas Žemaičių seniūnas Kęsgaila.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Kęsgaila gyveno [[objektai/vietos/Trakai]]

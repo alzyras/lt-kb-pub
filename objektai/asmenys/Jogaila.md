@@ -122,10 +122,10 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi.'
-  susije_objektai: 'territory: Krėva; territory: Lenkija; territory: Lietuva; territory: Viena; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Krėva; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lenkija; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lietuva; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Viena'
+  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1385 m.; valdymo laikotarpis: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Krėva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Viena“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Jogailos tapimą Lenkijos karaliumi.'
   pagrindžia:
     - c-018
@@ -444,8 +444,8 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia, sakinys suformuluotas kaip savarankiškas faktas.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Vilnius; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Lenkija; [[objektai/asmenys/Jogaila|Jogaila]] keliavo į Lietuva; [[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] keliavo į Vilnius'
   pagrindžia:
     - c-001
 
@@ -592,8 +592,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys, paremtas citata.'
-  susije_objektai: 'territory: Bobrovnikai; territory: Lenkija; territory: Lenčica; territory: Prūsija; territory: Volynė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bobrovnikai; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Prūsija; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Bobrovnikai; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lenkija; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Lenčica; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Prūsija; [[objektai/asmenys/Jogaila|Jogaila]] buvo valdovas Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bobrovnikai; mentioned_place: Lenkija; mentioned_place: Lenčica; mentioned_place: Prūsija; mentioned_place: Volynė'
   pagrindžia:
     - c-046
 
@@ -668,12 +667,7 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-052
-- susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
-- susijęs iš [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų.md#claim-t-35999|galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]: Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų.
-- susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams.
 - susijęs iš [[objektai/asmenys/Aleksandra (Jogailos sesuo).md#claim-t-87614|Aleksandra (Jogailos sesuo)]]: Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito.
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
@@ -2417,45 +2411,15 @@ piešti įsivaizduojami Lietuvos valdovų portretai 1 skyrius • S E N O J I L 
     - t-052
 
 ## Ryšiai
-- [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Jogaila (kunigaikštis, XIV–XV a.)
 - [[objektai/grupes/Švitrigailos šalininkai]] kariavo_pries Jogaila (kunigaikštis, XIV–XV a.)
-- Jogaila (kunigaikštis, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Torno taika (1411 m.)]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Bobrovnikai]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Krėva]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lenčica]]
 - Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Prūsija]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Trakai]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Viena]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) buvo_valdovas [[objektai/vietos/Volynė]]
-- [[objektai/vietos/Brasta]] priklause Jogaila (kunigaikštis, XIV–XV a.)
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Aukokalnis]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Betygala]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Dubysa]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Gardinas]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Kaunas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Krokuva]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lenkija]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Maskva]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Merkinė]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Naugardas]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Nemunas]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Polockas]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Pomeranija]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Poznanė]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Riazanė]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Salos]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Smolenskas]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Torno]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Valkaviskas]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Viena]]
 - Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Jogaila (kunigaikštis, XIV–XV a.) keliavo_i [[objektai/vietos/Černigovas]]
 - Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/vietos/Kaunas]]
 - Jogaila (kunigaikštis, XIV–XV a.) puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Prūsija]] priklause Jogaila (kunigaikštis, XIV–XV a.)
-- [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]] priklause Jogaila (kunigaikštis, XIV–XV a.)

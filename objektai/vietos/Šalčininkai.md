@@ -33,7 +33,6 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
-- susijęs iš Prūsija: Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą.
 - susijęs iš [[objektai/asmenys/Jonas Švitrigaila.md#claim-t-87734|Jonas Švitrigaila]]: Jonas Švitrigaila buvo Trakų kaštelionas, priskirtas Lietuvos didikams.
 - susijęs iš [[objektai/asmenys/Konradas Jungingenas.md#claim-t-87535|Konradas Jungingenas]]: Konradas Jungingenas kartu su Švitrigaila įsibrovė į Lietuvą ir niokojo žemes nuo Gardino apylinkių iki Šalčininkų.
 - susijęs iš [[objektai/asmenys/Mikalojus (Medininkų vyskupas nominatas).md#claim-t-87780|Mikalojus (Medininkų vyskupas nominatas)]]: Mikalojus sutartyje buvo nurodytas kaip Medininkų, arba Žemaitijos, vyskupas nominatas tarp kunigaikščių ir prelatų.
@@ -76,6 +75,3 @@ Dusburgietis teigia, kad šalčininkai (Salsenicka, Salsenîken) Šaltuona, u.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Šalčininkai

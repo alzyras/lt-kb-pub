@@ -29,10 +29,9 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
   global_id: t-87747
   teiginys: 'Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Kanuto įsakymą nederliaus metu.'
-  susije_objektai: 'territory: Viena; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Kanutas|Kanutas]] buvo valdovas Viena'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 880 m; valdymo laikotarpis: apie 880 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kanutas buvo valdovas Viena“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 880 m; įvykio data: apie 880 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Kanuto įsakymą nederliaus metu.'
   pagrindžia:
     - c-001
@@ -66,6 +65,3 @@ Juk šis kroniki­ ninkas pasakoja, kad apie 880 me­ tus, viešpataujant Danijo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Kanutas buvo_valdovas [[objektai/vietos/Viena]]

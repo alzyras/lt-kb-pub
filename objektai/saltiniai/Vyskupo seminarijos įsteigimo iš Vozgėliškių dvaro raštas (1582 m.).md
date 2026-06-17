@@ -30,9 +30,9 @@ amziai:
   global_id: t-88113
   teiginys: '1582 m. rašte prašoma, kad karalius Steponas priimtų Vilniaus seminariją į savo globą ir gynybą.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškų prašymą dėl Vilniaus seminarijos globos.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1582 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Steponas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškų prašymą dėl Vilniaus seminarijos globos.'
   pagrindžia:
     - c-001

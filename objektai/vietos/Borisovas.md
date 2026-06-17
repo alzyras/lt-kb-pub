@@ -57,11 +57,6 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Minskas'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
-- susijęs iš [[objektai/daiktai/Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas.md#claim-t-87023|Bernardinų bažnyčios pamatai, perstatymas ir karaliaus malūnas]]: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.
-- susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
-- susijęs iš 1500 m. Aleksandro sprendimas dėl malūno prie Bernardinų vienuolyno: 1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį malūną ir jo sklypą atidavė vienuolynui.
-- susijęs iš Bernardinų bažnyčia Vilniuje: 1500 m. karalius Aleksandras įsakė nugriauti prie Bernardinų vienuolyno buvusį malūną, ardžiusį pastatų pamatus.
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila Juodasis.md#claim-t-113882|Mikalojus Radvila Juodasis]]: Žygimantas rašte pabrėžė Mikalojaus Radvilos Juodojo ištikimą tarnystę karo ir taikos metu bei nuopelnus Respublikai.
@@ -175,7 +170,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Borisovas
-- [[objektai/asmenys/Žygimantas]] buvo_valdovas Borisovas

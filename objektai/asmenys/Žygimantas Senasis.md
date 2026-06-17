@@ -288,8 +288,7 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
   global_id: t-173336
   teiginys: 'Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau ir pašalinta šnekamoji formuluotė.'
-  susije_objektai: 'territory: Kazanė; territory: Krymas; territory: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kazanė; mentioned_place: Krymas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Kazanė; [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Krymas; [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Kazanė; mentioned_place: Krymas; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -1140,8 +1139,4 @@ sandūroje didžiojo kunigaikščio Aleksandro dvare, tačiau lūžis įvyko Žy
     - t-034
 
 ## Ryšiai
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Kazanė]]
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Krymas]]
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Žygimantas Senasis buvo_valdovas [[objektai/vietos/Vilnius]]
 - Žygimantas Senasis keliavo_i [[objektai/vietos/Vilnius]]

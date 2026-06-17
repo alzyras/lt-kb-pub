@@ -31,7 +31,6 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Grabova; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
-- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš [[objektai/asmenys/A. Jakaitis.md#claim-t-39978|A. Jakaitis]]: Mjr. A. Jakaitis vadovavo 10-ajam pulkui, kuris iš Šipliškių turėjo žygiuoti į Suvalkus, o iš ten į Augustavą.
 - susijęs iš [[objektai/asmenys/J. Čaplikas.md#claim-t-40171|J. Čaplikas]]: J. Čapliko pagrindinės pajėgos vakare priartėjo prie Augustavo.
 - susijęs iš [[objektai/asmenys/K. Ramanauskas.md#claim-t-40252|K. Ramanauskas]]: Mjr. K. Ramanausko grupė turėjo iš Beržininko žygiuoti per Gibus ir Seinus prie Augustavo esančio Kaleitų ežero link.
@@ -79,6 +78,3 @@ Nepaisydami Lietuvos neutraliteto pareiškimo abiejų kariaujančių pusių atž
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Augustavo gubernija]] priklause Augustavas

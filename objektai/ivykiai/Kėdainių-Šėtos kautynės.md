@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-41295
   teiginys: 'Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.'
   sudarymo_pagrindimas: 'Pridėta aiški sąsaja su note objektu.'
-  susije_objektai: 'location: Kėdainiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kėdainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kėdainiai'
   temporaliniai_duomenys: 'mirties data: 1919 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pridėta aiški sąsaja su note objektu.'

@@ -29,8 +29,7 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   teiginys: 'Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir pagrįstas citata apie lotynus.'
-  susije_objektai: 'territory: Konstantinopolis; territory: Venecija; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
-  semantiniai_rysiai: '[[objektai/grupes/Lotynai|Lotynai]] valdė teritoriją Konstantinopolis; [[objektai/grupes/Lotynai|Lotynai]] valdė teritoriją Venecija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Konstantinopolis; mentioned_place: Venecija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Albertas Vijūkas-Kojalavičius.md#claim-t-18765|Albertas Vijūkas-Kojalavičius]]: Alberto Vijūko-Kojalavičiaus lituanistiniai darbai prisidėjo prie vilniečių įtakos sklaidos Lietuvoje.
@@ -183,9 +182,3 @@ Dusburgietis teigia, kad ir tapo ten Balduinas, Flandrijos grafas, imperatoriumi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Lotynai valde_teritorija [[objektai/vietos/Konstantinopolis]]
-- Lotynai valde_teritorija [[objektai/vietos/Venecija]]
-- Lotynai priklause [[objektai/vietos/Pamedė]]
-- Lotynai priklause [[objektai/vietos/Prūsija]]

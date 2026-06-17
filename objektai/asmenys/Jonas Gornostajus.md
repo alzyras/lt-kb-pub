@@ -22,8 +22,7 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia aiškiai nurodyti asmens vaidmenį ir užduotį.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Trakai; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Gornostajus|Jonas Gornostajus]] buvo valdovas Lietuva; [[objektai/asmenys/Jonas Gornostajus|Jonas Gornostajus]] buvo valdovas Maskva; [[objektai/asmenys/Jonas Gornostajus|Jonas Gornostajus]] buvo valdovas Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -116,8 +115,3 @@ Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiu
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Jonas Gornostajus buvo_valdovas [[objektai/vietos/Lietuva]]
-- Jonas Gornostajus buvo_valdovas [[objektai/vietos/Maskva]]
-- Jonas Gornostajus buvo_valdovas [[objektai/vietos/Trakai]]

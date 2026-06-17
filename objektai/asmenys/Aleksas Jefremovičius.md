@@ -30,8 +30,7 @@ periodo_grupes:
   global_id: t-87617
   teiginys: '1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.'
   sudarymo_pagrindimas: 'Iš nuorodos fragmento padarytas rišlus sakinys apie asmens veiksmą.'
-  susije_objektai: 'location: Pskovas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksas Jefremovičius|Aleksas Jefremovičius]] keliavo į Pskovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Joachimas (Pskovo vietininkas)|Joachimas (Pskovo vietininkas)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Pskovas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Pskovo respublika.md#claim-t-113198|Pskovo respublika]]: Pskovo metraščio duomenimis, 1432 m. Pskovo vietininkai Joachimas ir Aleksas Jefremovičius sudarė sutartį su Švitrigaila.
@@ -58,6 +57,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Aleksas Jefremovičius keliavo_i [[objektai/vietos/Pskovas]]

@@ -210,10 +210,4 @@ Kojelavičiaus pasakojime Kūno, arba Kūnasijaus, valstybę ribojo Nemunas, Dub
     - t-002
 
 ## Ryšiai
-- Kūnas mire [[objektai/vietos/Ivanskas]]
-- Kūnas mire [[objektai/vietos/Krokuva]]
-- Kūnas mire [[objektai/vietos/Lenkijos karalystė]]
-- Kūnas mire [[objektai/vietos/Lietuva]]
-- Kūnas mire [[objektai/vietos/Vilnius]]
-- Kūnas valde_teritorija [[objektai/vietos/Lenkija]]
 - Kūnas valde_teritorija [[objektai/vietos/Vilnius]]

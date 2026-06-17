@@ -25,9 +25,6 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Litvakai|Litvakai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Palestina'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96100|Gediminaičių dinastija]]: Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96105|Gediminaičių dinastija]]: Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96116|Gediminaičių dinastija]]: Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-12291|Herbai]]: Vytauto laikais Lietuvos bajorija gavo herbus ir per juos įgijo luomo savygarbos.
 - susijęs iš [[objektai/daiktai/Herbai.md#claim-t-92966|Herbai]]: Vytauto laikais Lietuvos bajorija gavo europietiško nobiliteto pažymius - herbus ir palengva virto atskiru luomu.
 - susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-12360|Gediminaičių dinastija]]: Su Krėvės unija sutiko ne visi Gediminaičiai.
@@ -66,6 +63,3 @@ Gediminaičių ir Jogailaičių dinastijų palikuonys perdavė savo genus visoms
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Gediminaičių dinastija]] priklause Gediminaičiai

@@ -56,8 +56,7 @@ Nenurodyta
 - t-002
   global_id: t-41269
   teiginys: 'Chotino mūšis buvo gynybinio mūšio pavyzdys ir paskutinė Jono Karolio Chodkevičiaus pergalė.'
-  susije_objektai: 'event: [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]; mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Chotinas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/brigada|brigada]] dalyvavo mūšyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)|Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/brigada|brigada]]; mentioned_place: Chotinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -70,7 +69,6 @@ Nenurodyta
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
-- susijęs iš Chotinas: Chotino mūšis tapo paskutine Jono Karolio Chodkevičiaus pasiekta pergale.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
 - susijęs iš [[objektai/autoriai/Jokūbo Beneto.md#claim-t-80748|Jokūbo Beneto]]: Jokūbo Beneto poema „Viešpaties dešinės galybė“ buvo išleista 1674 m.
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -146,4 +144,3 @@ Nenurodyta
 
 ## Ryšiai
 - [[objektai/asmenys/Jonas Karolis Katkevičius]] dalyvavo_musyje Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)
-- [[objektai/grupes/brigada]] dalyvavo_musyje Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)

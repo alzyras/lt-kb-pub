@@ -354,8 +354,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   global_id: t-177942
   teiginys: 'Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Teiginys yra išsamus faktinis sakinys apie Podolę ir atitinka citatą.'
-  susije_objektai: 'owner: Dniepras; owner: Dniestras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva'
-  semantiniai_rysiai: 'Podolė priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Podolė priklausė Dniepras; Podolė priklausė Dniestras; Podolė priklausė Kijevas; Podolė priklausė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_place: Dniepras; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-016
 
@@ -534,25 +533,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
   pagrindžia:
     - c-039
 - susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
-- susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
-- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Voluinė: Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.
-- susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
-- susijęs iš [[objektai/asmenys/Fiodoras Ostrogiškis.md#claim-t-186037|Fiodoras Ostrogiškis]]: Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti Podolę.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
-- susijęs iš [[objektai/paprociai/Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio.md#claim-t-185923|Priglausto svečio neišdavimas dėl valdovo garbės ir duoto žodžio]]: Valachų valdovas atsisakė išduoti priglaustą Mykolą, nes jo orumas ir duotas žodis neleido perduoti svečio lenkams.
-- susijęs iš Vilnius: Po Podolės prijungimo prie Lietuvos kunigaikštis Teodoras su šeima buvo išgabentas į Vilnių.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Dniestras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
 - susijęs iš Lvovas: Kazimieras 1485 m. liepos 9 d. atvyko į Lvovą, kur buvo sušaukta Rusų vaivadijos ir Podolės bajorų kariuomenė.
-- susijęs iš Smotričius: XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui.
-- susijęs iš Voluinė: Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176276|Algirdas (Lietuvos valdovas)]]: Algirdas, laimėjęs sostą ir įsitraukęs į karus su Rusia, netrukus išvyko iš Vilniaus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
@@ -630,6 +611,7 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184529|Lenkai]]: Lenkai pirmieji atvirai užsipuolė karalių ir reikalavo sušaukti luomus į Piotrkovo seimą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184530|Lenkai]]: Lenkai tvirtino, kad Jogailos, Vytauto ir Žygimanto laikų susitarimų negalima keisti.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184531|Lenkai]]: Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184553|Lietuviai]]: Kivirčuose su lenkais dėl Rusios lietuviai ginklu gynė savo teises į Rusią.
 - susijęs iš [[objektai/grupes/Lietuvos Didžioji Kunigaikštystė.md#claim-t-184560|Lietuvos Didžioji Kunigaikštystė]]: Lenkai siūlė panaikinti Lietuvos Didžiosios Kunigaikštystės ir Lietuvos pareigybių vardus.
@@ -1617,25 +1599,5 @@ Iš Liubarto sūnaus, Teodoro, tais pačiais metais (1393 m.) buvo atimtas Vladi
     - t-047
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Podolė
 - [[objektai/asmenys/Daugirdas Gedgaila]] valde_teritorija Podolė
-- [[objektai/grupes/Gediminaičių dinastija]] valde_teritorija Podolė
-- [[objektai/asmenys/Karijotas]] valde_teritorija Podolė
-- [[objektai/asmenys/Švitrigaila]] valde_teritorija Podolė
-- [[objektai/asmenys/Fiodoras Ostrogiškis]] buvo_valdovas Podolė
-- [[objektai/grupes/Lenkai]] susije_su Podolė
-- [[objektai/asmenys/Mykolas]] buvo_valdovas Podolė
-- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] buvo_valdovas Podolė
-- [[objektai/asmenys/Teodoras]] buvo_valdovas Podolė
-- [[objektai/vietos/Dniepras]] priklause Podolė
-- [[objektai/vietos/Dniestras]] priklause Podolė
-- [[objektai/grupes/Karijotaičiai]] priklause Podolė
-- [[objektai/vietos/Kijevas]] priklause Podolė
-- [[objektai/vietos/Lietuva]] priklause Podolė
-- Podolė priklause [[objektai/vietos/Dniepras]]
-- Podolė priklause [[objektai/vietos/Dniestras]]
-- Podolė priklause [[objektai/vietos/Kijevas]]
-- Podolė priklause [[objektai/grupes/Kijevo kunigaikštystė]]
 - Podolė priklause [[objektai/vietos/Lietuva]]
-- [[objektai/vietos/Smotričius]] priklause Podolė
-- [[objektai/vietos/Voluinė]] priklause Podolė

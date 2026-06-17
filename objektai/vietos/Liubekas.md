@@ -106,10 +106,9 @@ amziai:
   global_id: t-175385
   teiginys: '1241 m. Hamburgas sudarė karinę sąjungą su Liubeku, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, reikia pašalinti puslapio triukšmą.'
-  susije_objektai: 'owner: Hamburgas; owner: Naugardas; mentioned_place: Hamburgas; mentioned_place: Naugardas'
-  semantiniai_rysiai: 'Liubekas priklausė Hamburgas; Liubekas priklausė Naugardas'
+  susije_objektai: 'mentioned_place: Hamburgas; mentioned_place: Naugardas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liubekas priklausė Hamburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liubekas priklausė Naugardas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liubekas priklausė Naugardas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, reikia pašalinti puslapio triukšmą.'
   pagrindžia:
     - c-001
@@ -127,10 +126,9 @@ amziai:
   global_id: t-175388
   teiginys: 'Prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'owner: Hamburgas; owner: Naugardas; mentioned_place: Hamburgas; mentioned_place: Naugardas'
-  semantiniai_rysiai: 'Liubekas priklausė Hamburgas; Liubekas priklausė Naugardas'
+  susije_objektai: 'mentioned_place: Hamburgas; mentioned_place: Naugardas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liubekas priklausė Hamburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liubekas priklausė Naugardas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liubekas priklausė Naugardas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
@@ -146,12 +144,6 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus faktinis sakinys apie Liubeko miesto paminėjimą citatoje.'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.
-- susijęs iš Hamburgas: 1241 m. Hamburgas su Liubeku sudarė karinę sąjungą, prie kurios tam tikru požiūriu priklausė Krokuva, Kališas ir Naugardas.
-- susijęs iš Krokuva: Krokuva tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
-- susijęs iš Naugardas: Naugardas tam tikru požiūriu priklausė 1241 m. Hamburgo su Liubeku sudarytai karinei sąjungai.
 - susijęs iš Saksonija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
 - susijęs iš Silezija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
 - susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60015|Fridrichas (Švabijos kunigaikštis)]]: Fridrichas, Švabijos kunigaikštis, patarė Bremeno ir Liubeko miestiečiams padovanoti ligoninę Henrikui Valpotui.
@@ -373,12 +365,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Henrikas Valpotas]] mire Liubekas
-- [[objektai/vietos/Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas)]] priklause Liubekas
-- [[objektai/vietos/Hamburgas]] priklause Liubekas
-- [[objektai/vietos/Krokuva]] priklause Liubekas
-- Liubekas priklause [[objektai/vietos/Hamburgas]]
-- Liubekas priklause [[objektai/vietos/Naugardas]]
-- [[objektai/vietos/Naugardas]] priklause Liubekas

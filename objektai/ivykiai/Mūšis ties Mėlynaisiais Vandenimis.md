@@ -79,9 +79,9 @@ Nenurodyta
   teiginys: 'Mėlynųjų Vandenų mūšis 1971 m. komentare datuojamas kaip ginčytinas: dauguma istorikų jį skiria 1352–1362 m., kai kurie – XIV a. pabaigai.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Datavimo nesutarimas suformuluotas kaip komentare pateikiama pozicija. Nepridėta jokių papildomų vietos ar poveikio Podolei interpretacijų.'
-  susije_objektai: 'event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Podolė; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)|Mėlynųjų Vandenų mūšis (1362 m.)]]; mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Podolė; mentioned_place: Volynė'
   temporaliniai_duomenys: 'mūšio data: 1352-1362; mūšio data: 1362 m.; mūšio data: 1971 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) dalyvavo mūšyje Mėlynųjų Vandenų mūšis (1362 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Datavimo nesutarimas suformuluotas kaip komentare pateikiama pozicija. Nepridėta jokių papildomų vietos ar poveikio Podolei interpretacijų.'
   pagrindžia:
     - c-001

@@ -50,7 +50,6 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Skalviai.md#claim-t-183898|Skalviai]]: Ordino broliai kariavo daug karų su skalviais, o pasitraukus skalvių vadams paprasti žmonės pasidavė krikščionių tikėjimui.
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184129|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-184835|Surbantas]]: Skalvių didikas Surbantas, atsidūręs bėdoje, su turtais ir žmonėmis persikraustė toliau į Lietuvą.
 - susijęs iš [[objektai/asmenys/Surbantas.md#claim-t-60441|Surbantas]]: Surbantas, Svisdeta ir Surdeta paliko tėvonijas ir su savo namais bei šeimyna patraukė pas brolius.
@@ -100,6 +99,3 @@ Dusburgietis teigia, kad kai galingesnieji šios žemės žmonės, tokie, kaip v
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/grupes/Skalviai]] kariavo_pries Svisdeta

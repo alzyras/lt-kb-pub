@@ -62,8 +62,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   global_id: t-103040
   teiginys: 'Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'location: Kardinalija; mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kardinalija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] gyveno Kardinalija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Goštautai|Goštautai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Kardinalija'
   pagrindžia:
     - c-009
 
@@ -116,10 +115,9 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
 - t-012
   global_id: t-103048
   teiginys: '1582 m. dokumentą Jurgis Radvila pasirašė kaip Vilniaus vyskupas ir Olykos kunigaikštis.'
-  susije_objektai: 'territory: Olyka; territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Olyka; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] buvo valdovas Olyka; [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1582 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jurgis Radvila (vyskupas, XVI a.) buvo valdovas Olyka“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jurgis Radvila (vyskupas, XVI a.) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus vyskupijos klierikų kolegija|Vilniaus vyskupijos klierikų kolegija]]; mentioned_object: [[objektai/zodynas/fundacija|fundacija]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Olyka; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -140,8 +138,7 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   global_id: t-103051
   teiginys: 'Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo Jurgio Radvilos titulus ir pareigas.'
-  susije_objektai: 'territory: Nesvyžius; territory: Olyka; territory: Vilnius; mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] buvo valdovas Nesvyžius; [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] buvo valdovas Olyka; [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Albertas Skvemevita|Albertas Skvemevita]]; mentioned_person: [[objektai/asmenys/Motiejus Porempskis|Motiejus Porempskis]]; mentioned_person: [[objektai/asmenys/Pilypas Glazeris|Pilypas Glazeris]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -523,9 +520,3 @@ verstas vyskupas Jurgis Radvila (Mik. Jurgis Radvila, Biržų Radvilų šakos t�
   statusas: verified
   pagrindžia:
     - t-020
-
-## Ryšiai
-- Jurgis Radvila (vyskupas, XVI a.) gyveno [[objektai/vietos/Kardinalija]]
-- Jurgis Radvila (vyskupas, XVI a.) buvo_valdovas [[objektai/vietos/Nesvyžius]]
-- Jurgis Radvila (vyskupas, XVI a.) buvo_valdovas [[objektai/vietos/Olyka]]
-- Jurgis Radvila (vyskupas, XVI a.) buvo_valdovas [[objektai/vietos/Vilnius]]

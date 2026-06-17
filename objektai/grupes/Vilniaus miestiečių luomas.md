@@ -120,8 +120,8 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-55084
   teiginys: 'Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.'
   sudarymo_pagrindimas: 'Perrašyta pašalinant perteklinį ir kiek neaiškų žodį „sostinės“.'
-  susije_objektai: 'owner: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: Mazovija; owner: Naugardas; owner: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; owner: Viena; owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/asmenys/Rusdorfas|Rusdorfas]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Lietuva; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Mazovija; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Naugardas; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Viena; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Vilnius'
+  susije_objektai: 'owner: Lietuva; mentioned_group: [[objektai/grupes/Didžiojo Naugardo respublika|Didžiojo Naugardo respublika]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Rusdorfas|Rusdorfas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Naugardas; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] priklausė Lietuva'
   pagrindžia:
     - c-006
 
@@ -269,10 +269,9 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172833
   teiginys: '1505 m. karalius atleido Vilniaus gyventojus nuo karo tarnybos vieneriems metams, kad jie apjuostų miestą mūro siena.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir aiškiai paremtas citata.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] susiję su Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Mūro sienos ir miesto sienos|Mūro sienos ir miesto sienos]]; mentioned_object: [[objektai/zodynas/barbarai|barbarai]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1505 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vilniaus miestiečių luomas susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir aiškiai paremtas citata.'
   pagrindžia:
     - c-011
@@ -312,8 +311,7 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
   global_id: t-172837
   teiginys: 'Silpno charakterio karalius nepajėgė pasipriešinti turčių vyravimui ir suteikti daugiau laisvės Vilniaus miestiečių luomui.'
   sudarymo_pagrindimas: 'Teiginys pagrįstas, bet reikėjo sutvarkyti OCR.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] susiję su Lietuva; [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]] susiję su Vilnius'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -1084,14 +1082,4 @@ Vilniaus miesto socialinė ir politinė bendruomenė, apimanti miestiečius, pir
     - t-034
 
 ## Ryšiai
-- Vilniaus miestiečių luomas susije_su [[objektai/vietos/Lietuva]]
-- Vilniaus miestiečių luomas susije_su [[objektai/vietos/Vilnius]]
-- Vilniaus miestiečių luomas priklause [[objektai/grupes/Didžiojo Naugardo respublika]]
-- Vilniaus miestiečių luomas priklause [[objektai/grupes/Kryžiuočių ordinas]]
 - Vilniaus miestiečių luomas priklause [[objektai/vietos/Lietuva]]
-- Vilniaus miestiečių luomas priklause [[objektai/vietos/Mazovija]]
-- Vilniaus miestiečių luomas priklause [[objektai/vietos/Naugardas]]
-- Vilniaus miestiečių luomas priklause [[objektai/asmenys/Rusdorfas]]
-- Vilniaus miestiečių luomas priklause [[objektai/vietos/Viena]]
-- Vilniaus miestiečių luomas priklause [[objektai/vietos/Vilnius]]
-- Vilniaus miestiečių luomas priklause [[objektai/grupes/Vokiečiai]]

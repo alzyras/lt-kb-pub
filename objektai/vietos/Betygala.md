@@ -50,9 +50,9 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   global_id: t-179759
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, veikėjus, maršrutą ir vietą, kaip pateikta citatoje.'
-  susije_objektai: 'location: Dubysa; location: Kaunas; location: Merkinė; location: Nemunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
+  susije_objektai: 'location: Dubysa; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'kelionės data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Dubysa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Merkinė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Dubysa“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, veikėjus, maršrutą ir vietą, kaip pateikta citatoje.'
   pagrindžia:
     - c-003
@@ -77,9 +77,6 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   temporalinis_llm_pakomentavimas: 'Pašalintas netikslus miško pavadinimas ir palikta citatos paremta formuluotė.'
   pagrindžia:
     - c-001
-- susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
 - susijęs iš Užsienio Lietuvių Spaudos Metraštis: „Užsienio Lietuvių Spaudos Metraštis“ rodyklėje nurodytas 17 puslapyje.
 - susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
 - susijęs iš Dubysa: Žemaitijos apaštalavimo kelionė vyko Nemunu iki Dubysos upės ir ja iki Aukokalnio ties dabartine Betygala.
@@ -162,7 +159,3 @@ Betygala šiame šaltinyje minima kaip Aukokalnio orientyras ir kaip viena iš V
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Betygala
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Betygala

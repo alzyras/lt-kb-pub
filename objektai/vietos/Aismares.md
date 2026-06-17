@@ -55,7 +55,6 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78546|Varmiai]]: Varmės vardas greičiausiai yra upėvardinės kilmės, plg.
 - susijęs iš Vulfstano pasakojimas: Vulfstano pasakojime Aismarės vadinamos Estmere.
 - susijęs iš Nogatas: Nogatas yra rytinė Vyslos deltos atšaka, seniau įtekėjusi į Aismares gerokai piečiau dabartinio atsišakojimo.
@@ -108,6 +107,3 @@ Dusburgietis teigia, kad prūsijos žemės tikintiesiems. Šie laivai padėjo pa
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Notangai]] gyveno Aismares

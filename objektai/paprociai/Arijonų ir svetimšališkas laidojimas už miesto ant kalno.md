@@ -42,7 +42,7 @@ Nenurodyta
   global_id: t-87261
   teiginys: 'Pagal vietinį Vilniaus paprotį Kasparas Bekešas dėl arijonų tikėjimo turėjęs būti palaidotas ant kalno už miesto.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir perteikia citatoje nurodytą vietinį Vilniaus paprotį.'
-  susije_objektai: 'location: Vilnius; mentioned_author: [[objektai/autoriai/Sulikovskis|Sulikovskis]]; mentioned_group: [[objektai/grupes/Arijonai|Arijonai]]; mentioned_person: [[objektai/asmenys/Kasparas Bekešas|Kasparas Bekešas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Sulikovskis|Sulikovskis]]; mentioned_group: [[objektai/grupes/Arijonai|Arijonai]]; mentioned_person: [[objektai/asmenys/Kasparas Bekešas|Kasparas Bekešas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

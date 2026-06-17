@@ -50,7 +50,7 @@ Nenurodyta
   teiginys: 'Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Parčevas; territory: Polockas; territory: Vilnius; territory: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Parčevas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Parčevas; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 

@@ -26,10 +26,6 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
     - c-001
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
-- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/asmenys/Henne.md#claim-t-35088|Henne]]: Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
-- susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35091|Hennė (Ordino agentas)]]: Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
 - susijęs iš [[objektai/asmenys/Henne.md#claim-t-35088|Henne]]: Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
 - susijęs iš [[objektai/asmenys/Hennė (Ordino agentas).md#claim-t-35091|Hennė (Ordino agentas)]]: Hennė keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -71,6 +67,3 @@ Savo laiške jis rašo, kad su vi­ sa kariuomene ir pulku dvariškių pasiekė 
 
 ## Ryšiai
 - [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] buvo_valdovas Pronskas
-- [[objektai/asmenys/Vladimiras Andrejevičius]] buvo_valdovas Pronskas
-- [[objektai/asmenys/Henne]] keliavo_i Pronskas
-- [[objektai/asmenys/Hennė (Ordino agentas)]] keliavo_i Pronskas

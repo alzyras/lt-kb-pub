@@ -41,6 +41,3 @@ i Papée, Fr.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Fr. Papée susije_su [[objektai/grupes/Lietuviai]]

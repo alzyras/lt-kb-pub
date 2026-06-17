@@ -460,37 +460,6 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Krokuva; mentioned_place: Prancūzija'
   pagrindžia:
     - c-028
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
-- susijęs iš [[objektai/ivykiai/Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas.md#claim-t-183286|Vokietijos kariuomenės įžengimas į Lietuvą, Kauno tvirtovės paėmimas ir Vilniaus užėmimas]]: Vokietijos ir Austrijos kariuomenių kontroliuojamoje buvusios Lenkijos ir Lietuvos valstybės teritorijoje gyveno lenkai, lietuviai, latviai ir baltarusiai.
-- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
-- susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
-- susijęs iš [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis).md#claim-t-60014|Fridrichas (Švabijos kunigaikštis)]]: Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.
-- susijęs iš [[objektai/asmenys/Fridrichas II.md#claim-t-59859|Fridrichas II]]: 1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, buvusio imperatoriaus Fridricho II anūką.
-- susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
-- susijęs iš [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.).md#claim-t-40177|Jaroslavas (rusų kunigaikštis, 1234 m.)]]: 1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.
-- susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
-- susijęs iš [[objektai/asmenys/Konradinas.md#claim-t-60371|Konradinas]]: 1268 m. Sicilijos karalius Karolis paėmė į nelaisvę ir nugalabijo Konradiną, imperatoriaus Fridricho II anūką.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
-- susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
-- susijęs iš [[objektai/asmenys/Barbora Cyleikaitė.md#claim-t-35031|Barbora Cyleikaitė]]: Barbora Cyleikaitė atvyko su savo vyru Romos ciesoriumi Zigmantu ir buvo Jogailos antrosios žmonos giminaitė.
-- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
-- susijęs iš [[objektai/asmenys/Mykolas Biržiška.md#claim-t-25694|Mykolas Biržiška]]: Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.
-- susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
-- susijęs iš Kazanė: Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.
-- susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
-- susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
-- susijęs iš Saksonija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš Silezija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
-- susijęs iš [[objektai/zodynas/lėnininkai.md#claim-t-36808|lėnininkai]]: Į Vytauto kviestą susirinkimą atvyko ir pats Vytautas su gausybe lėnininkų, pasiuntinių, didikų ir kunigaikščių.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
-- susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75629|A. Hitleris]]: 1939 m. kovo 23 d. A. Hitleris karo laivu atplaukė į Klaipėdą ir iš teatro balkono pasakė kalbą džiūgaujantiems vietos vokiečiams.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75632|A. Hitleris]]: 1933 m. A. Hitleris atėjo į valdžią Vokietijoje.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
@@ -666,6 +635,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168143|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Dėl partijų kovų Centraliniame Komitete kilo ginčų, ir trys kairiųjų pažiūrų nariai iš jo išstojo.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-168144|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
 - susijęs iš [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti.md#claim-t-182885|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti (institucija)]]: Centralinis Komitetas per atstovus Skandinavijoje ir Šveicarijoje rūpinosi lietuvių belaisviais Vokietijoje.
+- susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172080|Dominikonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172086|Dominikonų ordinas]]: Gediminas suteikė prieglobstį Lietuvoje apaštalavusiems dominikonams ir prie Vilniaus pilies pastatydino jiems vienuolyną bei bažnyčią.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
@@ -1673,22 +1643,3 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   statusas: verified
   pagrindžia:
     - t-042
-
-## Ryšiai
-- [[objektai/asmenys/Henrikas Valpotas]] mire Vokietija
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Vokietija
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]] susije_su Vokietija
-- [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Fridrichas II]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Fridrichas fon Bebirsteynas]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Konradinas]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Otokaras II]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Vaclovas Čekietis]] buvo_valdovas Vokietija
-- [[objektai/asmenys/Barbora Cyleikaitė]] keliavo_i Vokietija
-- [[objektai/asmenys/Barbora Radvilaitė]] keliavo_i Vokietija
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Vokietija
-- [[objektai/grupes/Lietuviai]] priklause Vokietija
-- [[objektai/asmenys/Pršemyslas Otokaras II]] keliavo_i Vokietija
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Vokietija

@@ -60,9 +60,9 @@ Cituojama „Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1
   global_id: t-78837
   teiginys: 'Fulvio Ruggieri 1572 m. aprašyme rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.'
   sudarymo_pagrindimas: 'Teiginys susietas su šio aprašymo objektu ir tiksliau atspindi citatos pobūdį.'
-  susije_objektai: 'territory: Rusija; territory: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1572 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys susietas su šio aprašymo objektu ir tiksliau atspindi citatos pobūdį.'
   pagrindžia:
     - c-001

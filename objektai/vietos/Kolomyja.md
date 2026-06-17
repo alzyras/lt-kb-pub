@@ -54,9 +54,9 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
   teiginys: 'Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie Stepono atvykimą į Kolomyją. Papildomos interpretacijos ar motyvų nepridėta.'
-  susije_objektai: 'location: Lenkija; location: Moldavija; location: Prutas; location: Ukraina; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Moldavija; mentioned_place: Prutas; mentioned_place: Ukraina'
   temporaliniai_duomenys: 'kelionės data: 1485 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Steponas keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas keliavo į Moldavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas keliavo į Prutas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Steponas keliavo į Ukraina“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiksliai perteikia citatos informaciją apie Stepono atvykimą į Kolomyją. Papildomos interpretacijos ar motyvų nepridėta.'
   pagrindžia:
     - c-003
@@ -67,9 +67,9 @@ Kolomyja aiškinama kaip miestas prie Pruto upės, apie 160 km į pietryčius nu
   teiginys: 'Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Kolomyją kaip Kazimiero buvimo vietą. Citata tiesiogiai nurodo atvykimo ir išvykimo datas.'
-  susije_objektai: 'location: Lenkija; location: Prutas; location: Ukraina; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
-  temporaliniai_duomenys: 'kelionės data: 1485 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas Lokietka keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas Lokietka keliavo į Prutas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas Lokietka keliavo į Ukraina“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Prutas; mentioned_place: Ukraina'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1485 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Kolomyją kaip Kazimiero buvimo vietą. Citata tiesiogiai nurodo atvykimo ir išvykimo datas.'
   pagrindžia:
     - c-001

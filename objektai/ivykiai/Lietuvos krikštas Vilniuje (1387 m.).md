@@ -77,9 +77,9 @@ Krikšto epizodas siejamas su Šv. Stanislovo katedros pradžia ir jos pašventi
 - t-004
   global_id: t-54449
   teiginys: '1387 m. sausį Vladislovas Jogaila atvyko į Gedimino sostinę kartu su Jadvyga, dvasininkais, kunigaikščiais ir didikais.'
-  susije_objektai: 'location: Gniezno; location: Krokuva; location: Mazovija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija'
   temporaliniai_duomenys: 'kelionės data: 1387 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas keliavo į Gniezno“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas keliavo į Mazovija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 

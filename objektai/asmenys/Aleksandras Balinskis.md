@@ -95,13 +95,10 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
   global_id: t-173118
   teiginys: 'Aleksandras Balinskis garsėjo alchemijos išmanymu ir sėkmingu gydymu, todėl atvyko iš Krokuvos gydyti sergančio Aleksandro.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį faktą apie asmenį.'
-  susije_objektai: 'location: Gniezno; location: Krokuva; location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Gniezno; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Lietuva; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Viena; [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Vilnius'
+  susije_objektai: 'location: Krokuva; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Motiejus|Motiejus]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] keliavo į Krokuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55098|Vilniaus sukilimo centrinis komitetas]]: Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis.
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-55109|Šubravcų draugija]]: Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
-- susijęs iš [[objektai/grupes/Šubravcų draugija.md#claim-t-81752|Šubravcų draugija]]: Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.
 - susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82169|Aleksandras II]]: Aleksandro II atėjimas į sostą žymėjo liberalių reformų pradžią ir atgaivino visuomenės politinius siekius.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54940|Aleksandras Jogailaitis]]: Aleksandrą Vilniuje kamavo sunki liga ir paralyžius, o gydyti buvo pakviestas Balinskis iš Krokuvos.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82182|Aleksandras Jogailaitis]]: Žinia apie 1506 m. rugpjūtį pasiektą Lietuvos pergalę prie Klecko Aleksandrą Jogailaitį pasiekė Vilniuje.
@@ -394,20 +391,4 @@ Aleksandras Balinskis aprašomas kaip iš Krokuvos kviestas alchemikas ir gydyto
 
 ## Ryšiai
 - Aleksandras Balinskis mire [[objektai/vietos/Jašiūnai]]
-- Aleksandras Balinskis mire [[objektai/vietos/Vilnius]]
-- Aleksandras Balinskis buvo_valdovas [[objektai/vietos/Krokuva]]
-- Aleksandras Balinskis buvo_valdovas [[objektai/vietos/Vilnius]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Gniezno]]
 - Aleksandras Balinskis keliavo_i [[objektai/vietos/Krokuva]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Lenkija]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Lietuva]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Viena]]
-- Aleksandras Balinskis keliavo_i [[objektai/vietos/Vilnius]]
-- Aleksandras Balinskis susije_su [[objektai/asmenys/Jokūbas Šimkevičius]]
-- Aleksandras Balinskis susije_su [[objektai/asmenys/Juozapas Zavadskis]]
-- Aleksandras Balinskis susije_su [[objektai/asmenys/Kazimieras Kontrimas]]
-- Aleksandras Balinskis susije_su [[objektai/grupes/Lietuviai]]
-- Aleksandras Balinskis susije_su [[objektai/vietos/Vilnius]]
-- Aleksandras Balinskis susije_su [[objektai/grupes/Šubravcų draugija]]
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]] priklause Aleksandras Balinskis
-- [[objektai/grupes/Šubravcų draugija]] priklause Aleksandras Balinskis

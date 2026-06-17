@@ -35,9 +35,6 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra retorinis ir ne enciklopedinis, bet citata palaiko konkretų faktą apie Turkiją.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/asmenys/Asianas Abrahimovičius.md#claim-t-87628|Asianas Abrahimovičius]]: Asianas Abrahimovičius buvo paskirtas vertėju Turkijos imperatoriaus čiaušui Ibrahimui, kuriam leista kurį laiką gyventi Vilniuje.
 - susijęs iš [[objektai/asmenys/Chaim Soutin.md#claim-t-63525|Chaim Soutin]]: Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.
 - susijęs iš [[objektai/asmenys/Davidas Suchetas.md#claim-t-18874|Davidas Suchetas]]: Davidas Suchetas Tryškiuose ieškojo savo protėvių Suchedowitzų, emigravusių per Turkiją į Pietų Afrikos Respubliką.
@@ -53,6 +50,7 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
 - susijęs iš [[objektai/asmenys/Victor David Brenner.md#claim-t-76029|Victor David Brenner]]: Victor David Brenner buvo iš Šiaulių kilęs skulptorius ir JAV vieno cento autorius.
 - susijęs iš [[objektai/asmenys/Violeta Urmana.md#claim-t-78073|Violeta Urmana]]: Violeta Urmana buvo pristatyta kaip visose Europos scenose žinoma atlikėja.
 - susijęs iš [[objektai/daiktai/JAV vieno cento moneta.md#claim-t-64932|JAV vieno cento moneta]]: JAV vieno cento monetos autoriumi įvardijamas iš Šiaulių kilęs skulptorius Victor David Brenneris.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78202|Lenkijos kariuomenė]]: Lenkijos kariuomenė buvo sunaikinta mūšyje prie Cecoros, kur žuvo didysis karūnos etmonas Stanislovas Žolkievskis.
 - susijęs iš [[objektai/grupes/Lenkijos kariuomenė.md#claim-t-78204|Lenkijos kariuomenė]]: Zigmantas Vaza nurodė LDK kariuomenei telktis prie Podolės Kameneco ir suteikti pagalbą Lenkijos kariuomenei.
@@ -108,7 +106,3 @@ Karolis pagaliau buvo priverstas išsidanginti iš Turkijos.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Krymo chanatas]] susije_su Turkija
-- [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Turkija

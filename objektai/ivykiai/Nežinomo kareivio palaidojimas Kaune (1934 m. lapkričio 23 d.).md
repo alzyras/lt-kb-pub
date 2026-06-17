@@ -44,7 +44,7 @@ Nenurodyta
   global_id: t-20432
   teiginys: '1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje prie paminklo Žuvusiems už Lietuvos laisvę palaidotas Nežinomas kareivis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys su aiškia data, vieta ir veiksmu.'
-  susije_objektai: 'location: Kaunas; location: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mirties data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys su aiškia data, vieta ir veiksmu.'

@@ -52,7 +52,7 @@ Nenurodyta
   global_id: t-187458
   teiginys: 'Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių.'
   teiginio_tipas: 'saltinio_teiginys'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Ietis|Ietis]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-003
 

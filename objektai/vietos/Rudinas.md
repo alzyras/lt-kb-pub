@@ -45,7 +45,6 @@ Dusburgietis teigia, kad rudino miestas buvęs du kartus užkariautas, o visi ja
   susije_objektai: 'mentioned_object: [[objektai/posakiai/pasak kai kurių|pasak kai kurių]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63905|Martynas iš Golino]]: Dusburgietis pasakoja, kad Martynas su 17 draugų kovėsi prieš 20 prūsų ir liko gyvas sunkiai sužeistas.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63909|Martynas iš Golino]]: Rudino brolių įsakymu Martynas iš Golino su 17 kovos draugų leidosi vytis 20 Lenkijoje plėšikavusių prūsų.
 - susijęs iš [[objektai/asmenys/Martynas iš Golino.md#claim-t-63910|Martynas iš Golino]]: Martynas iš Golino šiame šaltinyje dalyvauja žvalgyboje su vienu Rudino broliu ir išsigelbsti iš nelaisvės.

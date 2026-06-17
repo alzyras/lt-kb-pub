@@ -348,4 +348,4 @@ Ilgiausiai išsilaikė savo srityje Slucko kunigaikščiai, kurie betgi XVI amž
     - t-004
 
 ## Ryšiai
-- Radvilos dalyvavo_musyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]
+- Radvilos dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]

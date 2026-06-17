@@ -42,8 +42,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59931
   teiginys: 'Kunigaikštis Konradas, prūsų įbaugintas, perduodavo jų pasiuntiniams žirgus ir ryškiaspalvius drabužius.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į aiškų sakinį apie Konrado veiksmą.'
-  susije_objektai: 'territory: Lenkija; territory: Prūsai; mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Prūsai'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_place: Lenkija; mentioned_place: Prūsai'
   pagrindžia:
     - c-002
 
@@ -52,8 +51,7 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59932
   teiginys: 'Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Konradą ir paremtas citata.'
-  susije_objektai: 'territory: Livonija; territory: Palenkė; territory: Prūsai; territory: Prūsija; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Livonija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Palenkė; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Livonija; mentioned_place: Palenkė; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-005
 
@@ -74,8 +72,8 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
   global_id: t-59934
   teiginys: 'Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.'
   sudarymo_pagrindimas: 'Pašalintas šaltinio boilerplate, išlaikant citatoje pagrįstą valdų ir konteksto faktą.'
-  susije_objektai: 'territory: Kujavija; territory: Kulmas; territory: Lenkija; territory: Prūsai; territory: Prūsija; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Kujavija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Kulmas; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Lenkija; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Prūsai; [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Prūsija'
+  susije_objektai: 'territory: Kujavija; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas (Mazovijos kunigaikštis)|Konradas (Mazovijos kunigaikštis)]] valdė teritoriją Kujavija'
   pagrindžia:
     - c-004
 
@@ -186,13 +184,3 @@ Dusburgietis teigia, kad apie tai, kaip prūsai niokojo Kulmo žemę Tuo metu, k
 
 ## Ryšiai
 - Konradas (Mazovijos kunigaikštis) valde_teritorija [[objektai/vietos/Kujavija]]
-- Konradas (Mazovijos kunigaikštis) valde_teritorija [[objektai/vietos/Kulmas]]
-- Konradas (Mazovijos kunigaikštis) valde_teritorija [[objektai/vietos/Lenkija]]
-- Konradas (Mazovijos kunigaikštis) valde_teritorija [[objektai/vietos/Prūsai]]
-- Konradas (Mazovijos kunigaikštis) valde_teritorija [[objektai/vietos/Prūsija]]
-- Konradas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Konradas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Livonija]]
-- Konradas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Palenkė]]
-- Konradas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsai]]
-- Konradas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsija]]
-- Konradas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Viena]]

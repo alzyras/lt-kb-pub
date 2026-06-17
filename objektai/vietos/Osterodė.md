@@ -20,8 +20,8 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
 - t-001
   global_id: t-36465
   teiginys: 'Osterodės apskritis priklausė pietinei Prūsijos daliai, kurios lietuviai pasižadėjo nebeužpuldinėti.'
-  susije_objektai: 'owner: Gunlaukenas; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsija; owner: Trakai; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
-  semantiniai_rysiai: 'Osterodė priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Osterodė priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Osterodė priklausė Gunlaukenas; Osterodė priklausė Lietuva; Osterodė priklausė Prūsija; Osterodė priklausė Trakai'
+  susije_objektai: 'owner: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Gunlaukenas; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Trakai'
+  semantiniai_rysiai: 'Osterodė priklausė Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/1381 m. kryžiuočių puolimai Kęstučio valdose.md#claim-t-97012|1381 m. kryžiuočių puolimai Kęstučio valdose]]: 1381 m. grįždami kryžiuočiai bombardų šūviais išgąsdino Darsūniškio gynėjus, kurie sudegino pilį ir pasitraukė.
@@ -50,9 +50,4 @@ Lietuviai pasižadėjo nebeužpuldinėti pieti­ nės Prūsijos dalies, kurią s
     - t-001
 
 ## Ryšiai
-- Osterodė priklause [[objektai/vietos/Gunlaukenas]]
-- Osterodė priklause [[objektai/vietos/Lietuva]]
-- Osterodė priklause [[objektai/grupes/Lietuviai]]
 - Osterodė priklause [[objektai/vietos/Prūsija]]
-- Osterodė priklause [[objektai/vietos/Trakai]]
-- Osterodė priklause [[objektai/grupes/Vokiečiai]]

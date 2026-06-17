@@ -161,17 +161,9 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys paremtas citata, bet jį galima sutrumpinti ir padaryti aiškesnį.'
-  susije_objektai: 'territory: Sroda; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Sroda'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Sroda'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/asmenys/Vladislovas Jogaila.md#claim-t-173238|Vladislovas Jogaila]]: Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.
-- susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
-- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
-- susijęs iš Sroda: Keliaudamas iš Poznanės į Srodą karalius vos nežuvo, kai audros žaibas nutrenkė du jo kinkinio palydovus ir kelis arklius.
-- susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
-- susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
-- susijęs iš Krušvica: Boleslovo laikais Krušvica ir Poznanė priklausė turtais ir gyventojų gausa garsėjusiems Didžiosios Lenkijos miestams.
-- susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82178|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis, įkurdinęs dominikonus, negrąžino Vilniaus miestui Vingrių šaltinių.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176308|Algirdas (Lietuvos valdovas)]]: Poznanės vyskupas Dobrogostas buvo tarpininkavęs tarp popiežiaus Inocento VI ir didžiojo Lietuvos kunigaikščio Algirdo.
 - susijęs iš [[objektai/asmenys/Boleslovas Droviusis.md#claim-t-87637|Boleslovas Droviusis]]: Krokuva už pirmąją municipalinę tvarką, puošnius statinius ir 1257 m. suteiktas teutonų teises buvo skolinga Boleslovui Droviajam.
@@ -444,13 +436,3 @@ Seime Lietuva turėjo tik 1/3 vietų, mat buvo prilyginta vienai Lenkijos provin
   statusas: verified
   pagrindžia:
     - t-013
-
-## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Poznanė
-- [[objektai/asmenys/Vladislovas Jogaila]] buvo_valdovas Poznanė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Poznanė
-- [[objektai/asmenys/Zigmantas I]] buvo_valdovas Poznanė
-- [[objektai/grupes/7-asis pėstininkų pulkas]] priklause Poznanė
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Poznanė
-- [[objektai/vietos/Krušvica]] priklause Poznanė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Poznanė

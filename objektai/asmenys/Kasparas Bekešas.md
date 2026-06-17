@@ -129,4 +129,3 @@ Narsiojo Kasparo Bekešo atminimas Vilniuje 1580 metais buvo pagerbtas prie jo k
 
 ## Ryšiai
 - Kasparas Bekešas mire [[objektai/vietos/Kalnas prie Vilnelės]]
-- Kasparas Bekešas mire [[objektai/vietos/Vilnius]]

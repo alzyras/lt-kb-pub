@@ -34,7 +34,7 @@ Skirgaila nujojęs į Miloslavičius ten susirgo.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'territory: Dnepras; territory: Kijevas; mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dnepras; mentioned_place: Kijevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Foma|Foma]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Dnepras; mentioned_place: Kijevas'
   pagrindžia:
     - c-002
 - susijęs iš Kijevas: Skirgaila po puotos susirgo Miloslavičiuose ir, grįžęs į Kijevą, septintą dieną mirė.

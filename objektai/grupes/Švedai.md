@@ -89,7 +89,6 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
 - susijęs iš [[objektai/grupes/Bajorų konfederacija.md#claim-t-183652|Bajorų konfederacija]]: Bajorų konfederacija kovojo prieš švedus ir jų sąjungininkus, deklaravo ištikimybę Lenkijai ir Jonui Kazimierui Vazai.
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41214|Švedijos kariuomenė]]: Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.
-- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš [[objektai/asmenys/A. Liuneburgietis.md#claim-t-39696|A. Liuneburgietis]]: Švedų generolas A. Liuneburgietis žuvo per sumaištį švedų pėstininkų rikiuotėje.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78945|Augustas II]]: Augustas II nusprendė išvyti švedus iš Livonijos ir ją užvaldyti.
 - susijęs iš [[objektai/asmenys/Augustas II.md#claim-t-78947|Augustas II]]: Augusto II siekius rėmė dalis Švedijos karaliaus Karolio XII valdymu nepatenkintos Livonijos aristokratijos.
@@ -402,5 +401,4 @@ Tačiau Švedija ėmė siekti viešpatauti Baltijos jūroje (dominium maris Balt
 ## Ryšiai
 - [[objektai/grupes/Bajorų konfederacija]] kariavo_pries Švedai
 - [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Švedai
-- [[objektai/vietos/Saremos]] priklause Švedai
 - [[objektai/grupes/Švedijos kariuomenė]] puole Švedai

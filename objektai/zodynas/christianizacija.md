@@ -30,9 +30,9 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   global_id: t-22093
   teiginys: '997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata leidžia suformuluoti trumpą faktinį sakinį.'
-  susije_objektai: 'territory: Islandija; territory: Kijevas; territory: Kijevo Rusia; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Švedija; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
-  temporaliniai_duomenys: 'valdymo pradžia: 997 m; valdymo pradžia: 1009 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Adalbertas buvo valdovas Islandija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Adalbertas buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Adalbertas buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Adalbertas buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Adalbertas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Adalbertas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Adalbertas buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  temporaliniai_duomenys: 'įvykio data: 997 m; įvykio data: 1009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys nutrūkęs; citata leidžia suformuluoti trumpą faktinį sakinį.'
   pagrindžia:
     - c-001

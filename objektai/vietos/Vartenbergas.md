@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   global_id: t-58650
   teiginys: 'Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies vietą ir įgulą; pradinis teiginys per ilgas ir su antraštės triukšmu.'
-  susije_objektai: 'location: Kulmas; location: Sūduva; location: Viena; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -36,7 +36,6 @@ Dusburgietis teigia, kad apie brolių kovą Vartenbergo pilyje ir daugybės krik
   susije_objektai: 'mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės.md#claim-t-62521|Vartenbergo apylinkių žmonių žudynės]]: Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175108|Sūduviai-jotvingiai]]: Sūduviai sudegino ir iki pamatų sunaikino Vartenbergo pilį, nužudė du brolius su visa šeimyna, o pilis liko apleista.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175110|Sūduviai-jotvingiai]]: Iš Sūduvos atėjusi kariuomenė netikėtai užpuolė Kulmo žemės kaimų žmones, juos išžudė, o moteris ir vaikus išsivarė į nelaisvę.

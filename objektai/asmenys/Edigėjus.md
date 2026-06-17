@@ -87,6 +87,3 @@ Edigėjus ir padrąsino chaną, derybos iš karto prasidėjo su Edigėjumi. paba
   pagrindžia:
     - t-002
     - t-003
-
-## Ryšiai
-- Edigėjus dalyvavo_musyje [[objektai/ivykiai/Vorsklos mūšis|Vorsklos mūšis (mūšis)]]

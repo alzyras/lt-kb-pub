@@ -78,8 +78,7 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   global_id: t-63420
   teiginys: 'Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.'
   sudarymo_pagrindimas: 'Citata pagrindžia Albrechto veiksmą, o pradinis teiginys per ilgas ir fragmentiškas.'
-  susije_objektai: 'territory: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]] buvo valdovas Čekija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_person: [[objektai/asmenys/Albrechtas|Albrechtas]]; mentioned_place: Čekija'
   pagrindžia:
     - c-003
 
@@ -88,10 +87,9 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   global_id: t-63421
   teiginys: '1308 m. gegužės 1 d. Romos karalių Albrechtą nužudė kunigaikštis Jonas Anlantas, iš kurio buvo atimta Austrijos kunigaikštystė.'
   sudarymo_pagrindimas: 'Citata tiesiogiai pagrindžia faktą, bet pradinį tekstą reikia sutvarkyti.'
-  susije_objektai: 'territory: Austrija; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Austrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas (Romos karalius)|Albrechtas (Romos karalius)]] buvo valdovas Austrija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1308 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albrechtas (Romos karalius) buvo valdovas Austrija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Austrija'
+  temporaliniai_duomenys: 'įvykio data: 1308 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai pagrindžia faktą, bet pradinį tekstą reikia sutvarkyti.'
   pagrindžia:
     - c-002
@@ -144,7 +142,3 @@ Albrechtas minimas kaip Romos karalius, siejamas su Bonifaco VIII sprendimu, sū
   pagrindžia:
     - t-005
     - t-003
-
-## Ryšiai
-- Albrechtas (Romos karalius) buvo_valdovas [[objektai/vietos/Austrija]]
-- Albrechtas (Romos karalius) buvo_valdovas [[objektai/vietos/Čekija]]

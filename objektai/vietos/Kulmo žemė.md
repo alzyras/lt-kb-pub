@@ -89,7 +89,7 @@ Kovodamas prieš giminingų lietuviams pagonių prūsų gentis Mozūrijos kuniga
   global_id: t-79497
   teiginys: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie Kulmo žemės saugumą; pirminis teiginys nutrūkęs.'
-  susije_objektai: 'territory: Kulmas; territory: Prūsija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Kulmas; mentioned_place: Prūsija'
   pagrindžia:
     - c-013
 

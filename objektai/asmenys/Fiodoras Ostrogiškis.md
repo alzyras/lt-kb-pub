@@ -22,8 +22,7 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko konkretų įsakymą Fiodorui Ostrogiškiui.'
-  susije_objektai: 'territory: Podolė; territory: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/zodynas/žygio vora|žygio vora]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Podolė; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]] buvo valdovas Podolė; [[objektai/asmenys/Fiodoras Ostrogiškis|Fiodoras Ostrogiškis]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vora|vora]]; mentioned_object: [[objektai/zodynas/žygio vora|žygio vora]]; mentioned_person: [[objektai/asmenys/Boleslovas|Boleslovas]]; mentioned_place: Podolė; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -95,7 +94,3 @@ Kunigaikštis Fiodoras Ostrogiškis gavo įsakymą su viena žygio vora užimti 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Fiodoras Ostrogiškis buvo_valdovas [[objektai/vietos/Podolė]]
-- Fiodoras Ostrogiškis buvo_valdovas [[objektai/vietos/Viena]]

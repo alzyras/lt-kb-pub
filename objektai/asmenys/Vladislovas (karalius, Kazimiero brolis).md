@@ -46,8 +46,8 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta perteklinė autorinė įžanga ir gandų dalis.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vengrija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Lenkija; [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Lietuva; [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Vengrija'
+  susije_objektai: 'territory: Vengrija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)|Vladislovas (karalius, Kazimiero brolis)]] buvo valdovas Vengrija'
   pagrindžia:
     - c-003
 
@@ -168,6 +168,4 @@ Manvydas, Goštautas ir Astikas susitarė paskelbti karalių Vladislovą valdovu
     - t-004
 
 ## Ryšiai
-- Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Lietuva]]
 - Vladislovas (karalius, Kazimiero brolis) buvo_valdovas [[objektai/vietos/Vengrija]]

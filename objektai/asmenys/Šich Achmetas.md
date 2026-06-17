@@ -22,8 +22,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra išsamus ir paremtas citata.'
-  susije_objektai: 'location: Radomas; location: Vilnius; mentioned_place: Radomas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Radomas; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -35,8 +34,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai susijęs su Šich Achmetu ir paremtas šaltiniu.'
-  susije_objektai: 'territory: Krymas; territory: Lenkija; territory: Radomas; mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Radomas'
-  semantiniai_rysiai: '[[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Krymas; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Lenkija; [[objektai/asmenys/Šich Achmetas|Šich Achmetas]] buvo valdovas Radomas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/NATO|NATO]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Radomas'
   pagrindžia:
     - c-002
 
@@ -130,12 +128,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Šich Achmetas buvo_valdovas [[objektai/vietos/Krymas]]
-- Šich Achmetas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Šich Achmetas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Šich Achmetas buvo_valdovas [[objektai/vietos/Radomas]]
-- Šich Achmetas buvo_valdovas [[objektai/vietos/Trakai]]
-- Šich Achmetas keliavo_i [[objektai/vietos/Radomas]]
-- Šich Achmetas keliavo_i [[objektai/vietos/Vilnius]]

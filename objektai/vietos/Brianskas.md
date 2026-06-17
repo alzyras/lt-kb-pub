@@ -49,9 +49,9 @@ amziai:
   global_id: t-179765
   teiginys: '1393 m. pavasarį Briansko ir Naugardo-Sieversko kunigaikštis Dimitras Kaributas buvo nugalėtas kautynėse ir neteko valdos.'
   sudarymo_pagrindimas: 'Teiginys pilnai nurodo Dimitro Kaributo pralaimėjimą ir valdos praradimą.'
-  susije_objektai: 'territory: Naugardas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1392 m.; valdymo laikotarpis: 1393 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dimitras Kaributas buvo valdovas Naugardas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas'
+  temporaliniai_duomenys: 'įvykio data: 1392 m.; įvykio data: 1393 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnai nurodo Dimitro Kaributo pralaimėjimą ir valdos praradimą.'
   pagrindžia:
     - c-002
@@ -67,9 +67,6 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Perejeslavlis; mentioned_place: Putivlis; mentioned_place: Severskas; mentioned_place: Volynė; mentioned_place: Čerkasai'
   pagrindžia:
     - c-003
-- susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
-- susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Romanas (Briansko kunigaikštis).md#claim-t-40404|Romanas (Briansko kunigaikštis)]]: Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-184685|Daumantas (kunigaikštis, XV a.)]]: Mindaugui įsakius žygiuoti prieš Briansko kunigaikštį, Daumantas paragino Treniotą pasinaudoti kariuomene.
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82249|Daumantas (kunigaikštis, XV a.)]]: Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.
@@ -171,7 +168,4 @@ amziai:
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Brianskas
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] buvo_valdovas Brianskas
-- [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]] buvo_valdovas Brianskas
 - [[objektai/asmenys/Romanas (Briansko kunigaikštis)]] buvo_valdovas Brianskas

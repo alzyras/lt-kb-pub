@@ -22,8 +22,7 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatos įvykį.'
-  susije_objektai: 'territory: Maskva; territory: Smolenskas; mentioned_place: Maskva; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus|Vasilijus]] buvo valdovas Maskva; [[objektai/asmenys/Vasilijus|Vasilijus]] buvo valdovas Smolenskas'
+  susije_objektai: 'mentioned_place: Maskva; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -154,9 +153,3 @@ Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę 
 
 ## Ryšiai
 - Vasilijus buvo_valdovas [[objektai/vietos/Maskva]]
-- Vasilijus buvo_valdovas [[objektai/vietos/Riazanė]]
-- Vasilijus buvo_valdovas [[objektai/vietos/Rževas]]
-- Vasilijus buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Vasilijus keliavo_i [[objektai/vietos/Maskva]]
-- Vasilijus keliavo_i [[objektai/vietos/Možaiskas]]
-- Vasilijus keliavo_i [[objektai/vietos/Vilnius]]

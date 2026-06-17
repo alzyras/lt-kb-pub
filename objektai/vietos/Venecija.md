@@ -32,8 +32,6 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
-- susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
-- susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
 - susijęs iš [[objektai/asmenys/Juozefas Mianovskis.md#claim-t-87737|Juozefas Mianovskis]]: Juzefo Mianovskio užmiesčio namas, pramintas Belvederiu, stovėjo spėjamoje senosios liejyklos vietoje.
 - susijęs iš [[objektai/asmenys/Paleologas.md#claim-t-60404|Paleologas]]: 1259 m. graikų imperatorius Paleologas atgavo Konstantinopolį, kurį buvo užėmę prancūzai ir Venecijos kariai.
 - susijęs iš [[objektai/asmenys/Stanislovas Liubomirskis.md#claim-t-40442|Stanislovas Liubomirskis]]: LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.
@@ -79,7 +77,3 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Balduinas (Flandrijos grafas)]] valde_teritorija Venecija
-- [[objektai/grupes/Lotynai]] valde_teritorija Venecija

@@ -36,8 +36,6 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59995|Konradas iš Foichtvangeno]]: 1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.
-- susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
-- susijęs iš [[objektai/asmenys/Konradas iš Foichtvangeno.md#claim-t-59995|Konradas iš Foichtvangeno]]: 1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.
 - susijęs iš [[objektai/asmenys/Liudvikas Libencelė.md#claim-t-186146|Liudvikas Libencelė]]: Liudvikas Libencelė užėmė Lietuvoje Kimelio pilį ir sumušė su juo kovoti stojusius gardiniečius.
 - susijęs iš [[objektai/asmenys/Liudvikas iš Libencelės.md#claim-t-59887|Liudvikas iš Libencelės]]: 1296 m. Liudvikas iš Libencelės su kitais broliais ir 200 vyrų dalyvavo žygyje, per kurį buvo sudeginta Kimelio pilis.
 - susijęs iš [[objektai/ivykiai/Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.).md#claim-t-62238|Didžiojo magistro Konrado iš Foichtvangeno atvykimas į Prūsiją (1295 m.)]]: 1295 m. Teutonų ordino didysis magistras Konradas iš Foichtvangeno atvyko į Prūsiją ir parėmė brolius dovanomis bei pamokymais.
@@ -82,7 +80,3 @@ Dusburgietis teigia, kad vis dėlto dievas, nenorėdamas, kad jų pastangos būt
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] keliavo_i Kimelis
-- [[objektai/asmenys/Konradas iš Foichtvangeno]] keliavo_i Kimelis

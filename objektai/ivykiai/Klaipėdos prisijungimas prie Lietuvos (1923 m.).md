@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-23327
   teiginys: 'Žygis į Klaipėdą buvo pristatytas kaip vietinis sukilimas; susišaudymuose žuvo 16 lietuvių ir du prancūzai.'
   susije_objektai: 'event: [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
   pagrindžia:
     - c-002
 
@@ -103,7 +103,7 @@ Nenurodyta
   teiginys: 'Žygis į Klaipėdą įvyko sklandžiai, Kaunas jį pristatė kaip vietinių sukilimą, juoba kad ir vietos vokiečiai neprieštaravo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Klaipėdos žygio eigą ir pateikimą.'
   susije_objektai: 'event: [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Prancūzai|Prancūzai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)|Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]'
   pagrindžia:
     - c-005
 

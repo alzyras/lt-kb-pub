@@ -44,7 +44,6 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   temporalinis_llm_pakomentavimas: 'Fragmentas perrašytas į pilną faktinį sakinį.'
   pagrindžia:
     - c-001
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš [[objektai/asmenys/Karolis Didysis.md#claim-t-78062|Karolis Didysis]]: Karolio Didžiojo imperija apibūdinama kaip ant Romos imperijos griuvėsių sukurta Europa, siekusi Elbę.
 - susijęs iš [[objektai/asmenys/Peteris Paulius Rubensas.md#claim-t-19189|Peteris Paulius Rubensas]]: Peteris Paulius Rubensas buvo Flandrijoje subrendęs bene žymiausias baroko dailininkas.
 - susijęs iš [[objektai/grupes/Katalikiškoji ir protestantiškoji Europa.md#claim-t-16165|Katalikiškoji ir protestantiškoji Europa]]: XVII–XVIII a. senoji Vakarų Europa skilo į pietinę katalikiškąją ir šiaurinę protestantiškąją dalis.
@@ -95,6 +94,3 @@ Lietuva yra kryžkelėje tarp Vakarų ir Rytų Europos: per Lietuvą eina tiesia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Olandija]] priklause Vakarų Europa

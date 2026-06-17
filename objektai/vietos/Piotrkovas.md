@@ -61,12 +61,12 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185988|Jonušas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184681|Boleslovas (Mazovijos kunigaikštis)]]: Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.
 - susijęs iš [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis).md#claim-t-185988|Jonušas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Jonušas, siekdamas sosto, atvyko į Piotrkovą su tūkstantine raitelių palyda.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186024|Vladislovas (karalius, Kazimiero brolis)]]: Kazimierui buvo pasiūlyta užimti brolio Vladislovo karaliaus sostą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184529|Lenkai]]: Lenkai pirmieji atvirai užsipuolė karalių ir reikalavo sušaukti luomus į Piotrkovo seimą.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184535|Lenkai]]: Aleksandras Vilniuje užbaigė lietuvių ir lenkų santarvės aktą, anksčiau pažadėtą lenkams Piotrkove.
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185432|Lietuvos luomai]]: Vilniaus seime Lietuvos luomai aptarė ir patvirtino Piotrkove priimtus nutarimus, taip patvirtindami senąją sąjungą su lenkais.
 - susijęs iš [[objektai/grupes/Lietuvos luomai.md#claim-t-185433|Lietuvos luomai]]: Lietuvos luomų vardu į Piotrkovo seimą balsuoti buvo pasiųsti Vaitiekus Taboras, Jonas Zaberezinskis ir Mikalojus Radvila.
@@ -175,5 +175,4 @@ Lenkai reikalavo sušaukti luomus į Piotrkovo seimą, įtardami karalių dėl s
     - t-004
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] susije_su Piotrkovas
 - [[objektai/asmenys/Jonušas (Mazovijos kunigaikštis)]] keliavo_i Piotrkovas

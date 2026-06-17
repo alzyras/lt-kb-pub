@@ -22,8 +22,7 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia pasiuntinybės pavedimą, bet nemini Stanislovo Daugirdo.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Trakai; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo valdovas Lietuva; [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo valdovas Maskva; [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo valdovas Trakai'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai'
   pagrindžia:
     - c-001
 
@@ -55,8 +54,3 @@ Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas buvo_valdovas [[objektai/vietos/Maskva]]
-- Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas buvo_valdovas [[objektai/vietos/Trakai]]

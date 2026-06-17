@@ -65,8 +65,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178790
   teiginys: 'Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'location: Bajerburgas; location: Reinas; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]]; mentioned_place: Bajerburgas; mentioned_place: Reinas'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Bajerburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Reinas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Henrikas Duseneris|Henrikas Duseneris]]; mentioned_place: Bajerburgas; mentioned_place: Reinas'
   pagrindžia:
     - c-127
 
@@ -161,8 +160,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178809
   teiginys: 'Henrikas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir, būdamas vienuolyne, pralenkė kitus brolius dorybėmis.'
   sudarymo_pagrindimas: 'Išplėstas neaiškus įvardis ir sutrumpintas sakinys.'
-  susije_objektai: 'location: Prūsija; location: Viena; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Prūsija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Prūsija; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-154
 
@@ -1383,10 +1381,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-178980
   teiginys: '1244 m. į Prūsiją atvyko magistras Poponas su Ordino broliais ir Austrijos kunigaikščio atsiųstais raitaisiais lankininkais.'
   sudarymo_pagrindimas: 'Citata pagrindžia pagalbos atvykimą Ordino broliams.'
-  susije_objektai: 'location: Austrija; location: Krokuva; location: Lenkija; location: Prūsija; location: Santyras; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Austrija; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Krokuva; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Lenkija; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Prūsija; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Santyras'
+  susije_objektai: 'location: Austrija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Prūsija; mentioned_place: Santyras'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Austrija'
   temporaliniai_duomenys: 'kelionės data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Santyras“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas keliavo į Austrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia pagalbos atvykimą Ordino broliams.'
   pagrindžia:
     - c-136
@@ -1690,10 +1688,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179023
   teiginys: '1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.'
   sudarymo_pagrindimas: 'Perrašyta glaudžiau, pašalinant perteklinę formuluotę.'
-  susije_objektai: 'territory: Dauguva; territory: Kulmas; territory: Mozūrija; territory: Prūsai; territory: Vysla; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Dauguva; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Kulmas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Mozūrija; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Prūsai; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Vysla'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Dauguva; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsai; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Mozūrija'
   temporaliniai_duomenys: 'įvykio data: 1230 m.; įvykio data: 1236 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Dauguva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta glaudžiau, pašalinant perteklinę formuluotę.'
   pagrindžia:
     - c-079
@@ -1964,8 +1962,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179071
   teiginys: 'Brolis Gerhardas atvyko į Prūsiją, davė įžadus Teutonų ordinui ir pradėjo tyrą gyvenimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata.'
-  susije_objektai: 'location: Marienburgas; location: Prūsija; location: Viena; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Marienburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Prūsija; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] keliavo į Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Gerhardas|Gerhardas]]; mentioned_place: Marienburgas; mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-092
 
@@ -2088,10 +2085,10 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   global_id: t-179087
   teiginys: '1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, konkretus ir paremtas citata.'
-  susije_objektai: 'territory: Burcos žemė; territory: Vengrija; mentioned_place: Burcos žemė; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Burcos žemė; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Vengrija'
+  susije_objektai: 'territory: Vengrija; mentioned_place: Burcos žemė; mentioned_place: Vengrija'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Vengrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1211 m.; valdymo laikotarpis: 1225 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Burcos žemė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Vengrija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kryžiuočių ordinas susiję su Vengrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, konkretus ir paremtas citata.'
   pagrindžia:
     - c-163
@@ -2578,8 +2575,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Įvardytas kontekstas ir pašalintas antraštės triukšmas.'
-  susije_objektai: 'territory: Rastenburgas; territory: Veliuona; territory: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Rastenburgas; mentioned_place: Veliuona; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Rastenburgas; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Veliuona; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Viena'
+  susije_objektai: 'territory: Veliuona; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Rastenburgas; mentioned_place: Veliuona; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Veliuona'
   pagrindžia:
     - c-243
 
@@ -2615,8 +2612,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą; pataisyta OCR klaida ir sutrumpinta.'
-  susije_objektai: 'location: Torunė; location: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Torunė; [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Torunė; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] gyveno Vilnius'
   pagrindžia:
     - c-246
 
@@ -2628,8 +2625,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo OCR iškraipytas; citata palaiko perrašymą.'
-  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]] susiję su Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-247
 
@@ -2695,28 +2691,8 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
 - susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176835|Vytenis]]: XIII a. pabaigoje ir XIV a. pradžioje Vytenis drauge su Ryga kariavo ir diplomatiškai veikė prieš Ordiną.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
-- susijęs iš [[objektai/grupes/Moldovos kunigaikščiai.md#claim-t-86812|Moldovos kunigaikščiai]]: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais tuo metu kovojo Jogaila.
-- susijęs iš [[objektai/grupes/Švitrigailos šalininkai.md#claim-t-86779|Švitrigailos šalininkai]]: Podolėje Jogaila kovojo su Moldovos kunigaikščių remiamais Švitrigailos šalininkais.
 - susijęs iš [[objektai/ivykiai/Vytauto derybos su kryžiuočiais.md#claim-t-95974|Vytauto derybos su kryžiuočiais]]: 1390–1392 m. antrą kartą į Prūsus pabėgęs Vytautas derėjosi su kryžiuočiais ir kovojo su Jogaila.
 - susijęs iš Durbė: Mindaugo ir vėlesnių valdovų Lietuva kovojo su Vokiečių ordinu prie Durbės 1260 m.
-- susijęs iš Moldova: Moldovos kunigaikščiai rėmė Švitrigailos šalininkus Podolėje, su kuriais kovojo Jogaila.
-- susijęs iš Žemaitija: Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
-- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš [[objektai/grupes/Gelgaudai.md#claim-t-86792|Gelgaudai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
-- susijęs iš Karaliaučius: 1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.
-- susijęs iš Klaipėda: Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.
-- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
-- susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
-- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Žemaitija: Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.
-- susijęs iš Žemaitija: Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Albertas Manvydas.md#claim-t-183723|Albertas Manvydas]]: Vytauto pavaduotojais Lietuvos kariuomenėje buvo Vilniaus seniūnas Albertas Manvydas, kunigaikščiai Simonas Lengvenis ir Žygimantas Kaributaitis.
@@ -2785,6 +2761,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173142|Dovydas (Gardino pilininkas)]]: 1324 m. lapkritį Gardino pilininkas Dovydas vadovavo Gedimino kariuomenei, siaubusiai Mozūrijos žemę.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60108|Draika]]: Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.
 - susijęs iš [[objektai/asmenys/Edigejus.md#claim-t-186198|Edigejus]]: Tauridės valdovas Edigejus susidraugavo su Vytautu ir pažadėjo ištikimybę, amžiną taiką bei pagalbą prieš priešus.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184430|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė vadovavo kryžiuočių žygiui, nes didysis magistras Konradas Ciolneris sunkiai sirgo.
 - susijęs iš [[objektai/asmenys/Engelhardas Rabė.md#claim-t-184432|Engelhardas Rabė]]: Ordino maršalas Engelhardas Rabė paėmė Maišiagalą ir sudegino Kernavę.
 - susijęs iš [[objektai/asmenys/Er. Wallenrodas.md#claim-t-29002|Er. Wallenrodas]]: Ordino maršalas Wallenrodas buvo tarp 200 kritusių kryžiuočių riterių.
@@ -3004,6 +2981,7 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176558|Mykolas Küchmeisteris]]: Lietuviškai pramokęs Mykolas Küchmeisteris turėjo sostinę ir krašto administracijos centrą prie Dubysos žiočių.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176559|Mykolas Küchmeisteris]]: Mykolas Küchmeisteris buvo ordino vietininkas vaitas, įsikūręs 1400 m. arti Dubysos pastatytoje Friedeburgo pilyje.
 - susijęs iš [[objektai/asmenys/Mykolas Küchmeisteris.md#claim-t-176560|Mykolas Küchmeisteris]]: Ordino pasiuntinys Mykolas Küchmeisteris dalyvavo 1413 m. Kauno saloje sušauktame Žemaitijos sienų suvažiavime.
+- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-183756|Nameisis (žiemgalių kunigaikštis)]]: Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis vadovavo Traidenio kariuomenei Ordino vakarų fronte.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40366|Nameisis (žiemgalių kunigaikštis)]]: Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte.
 - susijęs iš [[objektai/asmenys/Nameisis (žiemgalių kunigaikštis).md#claim-t-40367|Nameisis (žiemgalių kunigaikštis)]]: Nameisio vadovaujami ir lietuvių remiami žiemgaliai po Livonijos ordino sutriuškinimo atsiėmė Tervetės pilį.
@@ -10114,44 +10092,12 @@ Kryžiuočių ordinas tiesiogiai siejamas su prūsų pavergimu. Kryžiuočių or
 - [[objektai/asmenys/Gediminas]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/grupes/Lietuviai]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Kryžiuočių ordinas
-- [[objektai/grupes/Moldovos kunigaikščiai]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Kryžiuočių ordinas
 - [[objektai/asmenys/Vytenis]] kariavo_pries Kryžiuočių ordinas
-- [[objektai/asmenys/Švitrigaila]] kariavo_pries Kryžiuočių ordinas
-- [[objektai/grupes/Švitrigailos šalininkai]] kariavo_pries Kryžiuočių ordinas
-- Kryžiuočių ordinas gyveno [[objektai/vietos/Torunė]]
+- Kryžiuočių ordinas dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]
 - Kryžiuočių ordinas gyveno [[objektai/vietos/Vilnius]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Burcos žemė]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Dauguva]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Kulmas]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Lietuva]]
 - Kryžiuočių ordinas susije_su [[objektai/vietos/Mozūrija]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Prūsai]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Rastenburgas]]
 - Kryžiuočių ordinas susije_su [[objektai/vietos/Veliuona]]
 - Kryžiuočių ordinas susije_su [[objektai/vietos/Vengrija]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Viena]]
-- Kryžiuočių ordinas susije_su [[objektai/vietos/Vysla]]
-- [[objektai/grupes/Eperješai]] priklause Kryžiuočių ordinas
-- [[objektai/asmenys/Gediminas]] susije_su Kryžiuočių ordinas
-- [[objektai/grupes/Gelgaudai]] priklause Kryžiuočių ordinas
-- [[objektai/vietos/Karaliaučius]] priklause Kryžiuočių ordinas
-- [[objektai/vietos/Klaipėda]] priklause Kryžiuočių ordinas
 - Kryžiuočių ordinas keliavo_i [[objektai/vietos/Austrija]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Bajerburgas]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Krokuva]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Lenkija]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Marienburgas]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Prūsija]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Reinas]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Santyras]]
-- Kryžiuočių ordinas keliavo_i [[objektai/vietos/Viena]]
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Kryžiuočių ordinas
-- [[objektai/vietos/Ragainė]] priklause Kryžiuočių ordinas
-- [[objektai/grupes/Sūduviai]] puole Kryžiuočių ordinas
-- [[objektai/grupes/Sūduviai-jotvingiai]] puole Kryžiuočių ordinas
-- [[objektai/asmenys/Tochtamišas]] susije_su Kryžiuočių ordinas
-- [[objektai/vietos/Veliuona]] priklause Kryžiuočių ordinas
-- [[objektai/grupes/Vilniaus miestiečių luomas]] priklause Kryžiuočių ordinas
-- [[objektai/vietos/Žemaitija]] priklause Kryžiuočių ordinas

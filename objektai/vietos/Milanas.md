@@ -36,8 +36,6 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės ir bibliografinio triukšmo, bet citata palaiko aiškų faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
-- susijęs iš [[objektai/zodynas/Machiavellio mokslas.md#claim-t-02946|Machiavellio mokslas]]: Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.
 - susijęs iš [[objektai/asmenys/Aleksandras (didysis kunigaikštis).md#claim-t-75650|Aleksandras (didysis kunigaikštis)]]: XV–XVI a. sandūroje didžiojo kunigaikščio Aleksandro dvare buvo humanistinio išsilavinimo žmonių.
 - susijęs iš [[objektai/asmenys/Henrikas VII.md#claim-t-59978|Henrikas VII]]: 1311 m. sausio 6 d. Henrikas VII prie Milano buvo vainikuotas geležiniu vainiku.
 - susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173333|Žygimantas Senasis]]: Žygimantas Senasis 1519 m. vedė Milano kunigaikštytę Boną Sforcą.
@@ -73,6 +71,3 @@ Dusburgietis teigia, kad apie jo vainikavimą prie Milano 1311 viešpaties metai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Milanas

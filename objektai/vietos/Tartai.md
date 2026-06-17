@@ -36,7 +36,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   temporalinis_llm_pakomentavimas: 'Citatoje vartojama forma „turėjo užgrobusi“, todėl teiginys pataisytas tiksliau ir sklandžiau.'
   pagrindžia:
     - c-001
-- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178830|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi Kryžiuočių ordino santykiai su Lenkija, Ryga ir Lietuvos valdovu.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178973|Kryžiuočių ordinas]]: Popiežiaus rūmuose Avinjone buvo svarstomi prieštaringi skundai už ir prieš Kryžiuočių ordiną.
 - susijęs iš [[objektai/grupes/Lietuvių Draugija Estijoje.md#claim-t-72514|Lietuvių Draugija Estijoje]]: Estijoje veikė Lietuvių Draugija Estijoje, vienijusi vietos lietuvių bendruomenę.
@@ -66,6 +65,3 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Saremos]] priklause Tartai

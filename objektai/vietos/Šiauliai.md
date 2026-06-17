@@ -55,8 +55,6 @@ riuomenę, kalavijuočiai su svečiais buvo besitraukią, bet lietuviai pastojo 
   susije_objektai: 'mentioned_place: Tilžė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
-- susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/asmenys/Algirdas Julius Greimas.md#claim-t-78043|Algirdas Julius Greimas]]: Algirdas Julius Greimas buvo semiotikas, žinomas Prancūzijoje.
 - susijęs iš [[objektai/asmenys/Chaim Soutin.md#claim-t-63525|Chaim Soutin]]: Chaim Soutin buvo Vakaruose garsus dailininkas, siejamas su Lietuvos emigrantais arba jų šeimomis.
 - susijęs iš [[objektai/asmenys/Emmanuel Levinas.md#claim-t-18885|Emmanuel Levinas]]: Filosofas Emmanuelis Levinas gimė Kaune ir ten baigė gimnaziją.

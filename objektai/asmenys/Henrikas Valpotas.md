@@ -33,8 +33,8 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
   global_id: t-60141
   teiginys: 'Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Akonas; location: Bremenas; location: Jeruzalė; location: Liubekas; location: Vokietija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Akonas; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Akonas; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Bremenas; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Jeruzalė; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Liubekas; [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Vokietija'
+  susije_objektai: 'location: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Akonas; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Akonas'
   pagrindžia:
     - c-002
 
@@ -110,7 +110,3 @@ Dusburgietis teigia, kad apie brolį Henriką Valpotą, pirmą šventosios Marij
 
 ## Ryšiai
 - Henrikas Valpotas mire [[objektai/vietos/Akonas]]
-- Henrikas Valpotas mire [[objektai/vietos/Bremenas]]
-- Henrikas Valpotas mire [[objektai/vietos/Jeruzalė]]
-- Henrikas Valpotas mire [[objektai/vietos/Liubekas]]
-- Henrikas Valpotas mire [[objektai/vietos/Vokietija]]

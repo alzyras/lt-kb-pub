@@ -121,8 +121,8 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180552
   teiginys: 'Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.'
   sudarymo_pagrindimas: 'Cituota vieta palaiko aiškesnį enciklopedinį sakinį.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Pietų Rusija; owner: Rusija; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
-  semantiniai_rysiai: 'Smolenskas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Smolenskas priklausė [[objektai/grupes/Totoriai|Totoriai]]; Smolenskas priklausė Pietų Rusija; Smolenskas priklausė Rusija'
+  susije_objektai: 'owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
+  semantiniai_rysiai: 'Smolenskas priklausė [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-009
 
@@ -131,9 +131,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180553
   teiginys: '1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Maskva'
+  susije_objektai: 'counterparty: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Karolis Chodkevičius|Jonas Karolis Chodkevičius]]; mentioned_place: Maskva'
   temporaliniai_duomenys: 'mūšio data: 1615-1616; mūšio data: 1616 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Lenkai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Chodkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-013
@@ -172,8 +172,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - t-015
   global_id: t-180559
   teiginys: 'Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Pietų Rusija; owner: Rusija; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
-  semantiniai_rysiai: 'Smolenskas priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Smolenskas priklausė [[objektai/grupes/Totoriai|Totoriai]]; Smolenskas priklausė Pietų Rusija; Smolenskas priklausė Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Pietų Rusija; mentioned_place: Rusija'
   pagrindžia:
     - c-009
 
@@ -232,9 +231,9 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   global_id: t-180569
   teiginys: '1411 m. pavasarį Vytautas su Jogaila keliavo pro Smolenską, o tų kraštų kunigaikščiai reiškė Vytautui paklusnumą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiksliai paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Černigovas; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Černigovas'
   temporaliniai_duomenys: 'kelionės data: 1411 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Černigovas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir tiksliai paremtas citata.'
   pagrindžia:
     - c-008
@@ -349,7 +348,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, pilnas ir remiasi citata.'
-  susije_objektai: 'location: Lietuva; location: Prūsija; location: Severskas; location: Sluckas; location: Volynė; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Severskas; mentioned_place: Sluckas; mentioned_place: Volynė'
+  susije_objektai: 'location: Severskas; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Severskas; mentioned_place: Sluckas; mentioned_place: Volynė'
   pagrindžia:
     - c-025
 
@@ -427,38 +426,11 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_person: [[objektai/asmenys/Ivanas Vasiljevičius|Ivanas Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Viazma'
   pagrindžia:
     - c-031
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
-- susijęs iš [[objektai/asmenys/Bazilijus Serebrianas.md#claim-t-40066|Bazilijus Serebrianas]]: Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei.
 - susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
-- susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-183741|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.
-- susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-39538|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.
-- susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis).md#claim-t-39620|Olegas (Riazanės didysis kunigaikštis)]]: 1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.
-- susijęs iš [[objektai/asmenys/Romanas (Briansko kunigaikštis).md#claim-t-40404|Romanas (Briansko kunigaikštis)]]: Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą.
-- susijęs iš [[objektai/asmenys/Stanislovas Kiška.md#claim-t-79162|Stanislovas Kiška]]: LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.
 - susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-- susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185977|Vasilijus]]: Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.
-- susijęs iš [[objektai/asmenys/Žygimantas.md#claim-t-184907|Žygimantas]]: Karalius Žygimantas prie Borisovo įkūrė stovyklą su trisdešimt tūkstančių rinktinių karių.
-- susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui.md#claim-t-185749|Maskvos valdovo karo paskelbimas Aleksandrui]]: Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
-- susijęs iš Didysis Naugardas: Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.
-- susijęs iš Dniepras: Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.
 - susijęs iš Mstislavlis: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-- susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė paleisti Vilniaus Aukštutinėje pilyje kalintą savo žentą.
-- susijęs iš Riazanė: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš Viazma: Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.
-- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-185409|Romos tikėjimas]]: Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05453|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
 - susijęs iš [[objektai/ivykiai/Smolensko atgavimas Vytautui.md#claim-t-186592|Smolensko atgavimas Vytautui]]: Lietuvos metraštis pasakoja, kad Vytautas susijungė su Jogaila ir tą patį rudenį su kariuomenėmis atvyko į Smolenską.
 - susijęs iš [[objektai/ivykiai/Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske.md#claim-t-186580|Vytauto ir Maskvos didžiojo kunigaikščio Vasilijaus susitikimas Smolenske]]: Lietuvos metraštis pasakoja, kad Vasilijus Dimitrijevičius pavasariop atvyko į Smolenską pas Vytautą ir pagerbė jį brangiomis dovanomis.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Raudonoji Rusia: Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila.
-- susijęs iš Vilnius: Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras Gonsevskis.md#claim-t-39999|Aleksandras Gonsevskis]]: Smolensko vaivada Aleksandras Gonsevskis su 6 tūkst. apylinkėse veikusių karių organizavo apsiaustųjų pajėgų aprūpinimą.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89626|Aleksandras]]: Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.
@@ -582,6 +554,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
 - susijęs iš [[objektai/grupes/Pamario kunigaikščių sąjunga.md#claim-t-35744|Pamario kunigaikščių sąjunga]]: Jogaila su Pamario kunigaikščių sąjunga rėmė koaliciją, kuri priešinosi Vytautui dėl Smolensko.
 - susijęs iš [[objektai/grupes/Pskoviečiai.md#claim-t-187768|Pskoviečiai]]: Pskoviečiai Vytautui kasmet duodavo pusę tos duoklės, kurią naugardiečiai mokėjo auksu, žirgais ir kailiais.
 - susijęs iš [[objektai/grupes/Rusai.md#claim-t-117248|Rusai]]: Prieš Strėvos mūšį į Lietuvos kariuomenę buvo pašaukti rusai iš Vladimiro, Brastos, Vitebsko, Smolensko ir Polocko.
+- susijęs iš [[objektai/grupes/Rusiškoji bajorų partija.md#claim-t-95932|Rusiškoji bajorų partija]]: Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.
 - susijęs iš [[objektai/grupes/Smolensko kunigaikščiai.md#claim-t-187775|Smolensko kunigaikščiai]]: Jurijus Svetoslavovičius buvo paskutinis Smolensko kunigaikštis, valdęs 1386–1392 ir 1401–1404 m.
 - susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81606|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Švitrigailos ir Livonijos užimtą Vitebską.
 - susijęs iš [[objektai/grupes/Smolensko pulkai.md#claim-t-81607|Smolensko pulkai]]: Vytautas su Smolensko pulkais po keturių savaičių apgulties atgavo Vitebską ir paėmė Švitrigailą į nelaisvę.
@@ -1444,31 +1417,7 @@ Iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, susidarė 
     - t-041
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] pastate Smolenskas
-- [[objektai/asmenys/Bazilijus Serebrianas]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Glebas (Smolensko kunigaikštis)]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Kaributas]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Lengvenis]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Madykas]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Romanas (Briansko kunigaikštis)]] buvo_valdovas Smolenskas
-- [[objektai/grupes/Rusiškoji bajorų partija]] susije_su Smolenskas
-- [[objektai/asmenys/Stanislovas Kiška]] buvo_valdovas Smolenskas
 - [[objektai/asmenys/Sviatoslavas]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Vasilijus]] buvo_valdovas Smolenskas
-- [[objektai/asmenys/Žygimantas]] buvo_valdovas Smolenskas
-- [[objektai/vietos/Dniepras]] priklause Smolenskas
-- [[objektai/asmenys/Jadvyga]] keliavo_i Smolenskas
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Smolenskas
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] puole Smolenskas
-- [[objektai/asmenys/Lengvenis]] keliavo_i Smolenskas
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Smolenskas
-- Smolenskas priklause [[objektai/grupes/Lietuviai]]
-- Smolenskas priklause [[objektai/vietos/Pietų Rusija]]
-- Smolenskas priklause [[objektai/vietos/Rusija]]
 - Smolenskas priklause [[objektai/grupes/Totoriai]]

@@ -293,8 +293,7 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176336
   teiginys: 'Popiežiaus legatai išsiuntė pasiuntinybę pas Gediminą ištirti, ar lietuvių karalius su savo žmonėmis nori priimti krikštą.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs, citata leidžia suformuluoti aiškų sakinį.'
-  susije_objektai: 'territory: Ryga; territory: Viena; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Ryga; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas Ryga; [[objektai/asmenys/Gediminas|Gediminas]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-051
 
@@ -348,10 +347,9 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176342
   teiginys: 'Gediminas valdė 1316–1341 m. ir davė vardą Gediminaičių dinastijai.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo ne sakinys, o chronologijos fragmentas.'
-  susije_objektai: 'territory: Lietuva; territory: Trakai; territory: Vilnius; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] valdė teritoriją Lietuva; [[objektai/asmenys/Gediminas|Gediminas]] valdė teritoriją Trakai; [[objektai/asmenys/Gediminas|Gediminas]] valdė teritoriją Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1316-1341; valdymo laikotarpis: 1341 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas valdė teritoriją Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo ne sakinys, o chronologijos fragmentas.'
   pagrindžia:
     - c-048
@@ -731,8 +729,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   global_id: t-176387
   teiginys: 'Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje.'
   sudarymo_pagrindimas: 'Citata palaiko autoriaus nuomonę apie Gedimino palaidojimo vietą.'
-  susije_objektai: 'location: Lietuva; location: Veliuona; location: Vilnius; mentioned_place: Lietuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Lietuva; [[objektai/asmenys/Gediminas|Gediminas]] mirė Veliuona; [[objektai/asmenys/Gediminas|Gediminas]] mirė Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_place: Lietuva; mentioned_place: Veliuona; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] mirė Vilnius'
   pagrindžia:
     - c-020
 
@@ -895,21 +893,8 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
   pagrindžia:
     - c-076
 - susijęs iš [[objektai/asmenys/Vladislovas Lokietka.md#claim-t-90067|Vladislovas Lokietka]]: Dusburgietis Gedimino sąjungininką Vladislovą Lokietką vadino išdaviku, nes šis dėl Pamario kovojo prieš Ordiną.
-- susijęs iš [[objektai/autoriai/Dusburgas.md#claim-t-102851|Dusburgas]]: Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
 - susijęs iš [[objektai/asmenys/Fridrichas de Libencelė.md#claim-t-87674|Fridrichas de Libencelė]]: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
-- susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
-- susijęs iš Breslauja: Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.
-- susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
-- susijęs iš Breslauja: Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš Ragainė: 1317 m. Ragainės komtūras Fridrichas de Libencelė su 150 žmonių apgulė Gedimino pilį, bet jos neužėmė ir sudegino tik papilį.
-- susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60006|Albrechtas iš Hageno]]: Albrechtas iš Hageno su 60 vyrų užpuolė Sudargo kiemą, sudegino jį su aplinkiniais kaimais ir paėmė belaisvių.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-05154|Aldona Gediminaitė]]: Aldona šiame šaltinyje tiesiogiai vadinama Gedimino dukterimi.
 - susijęs iš [[objektai/asmenys/Aldona Gediminaitė.md#claim-t-97302|Aldona Gediminaitė]]: 1325 m. Aldona-Ona buvo ištekinta už Kazimiero.
@@ -3585,52 +3570,10 @@ Gediminas šiame šaltinyje vaizduojamas kaip diplomatiškai ir kariškai veikę
     - t-091
 
 ## Ryšiai
-- Gediminas mire [[objektai/vietos/Lietuva]]
-- Gediminas mire [[objektai/vietos/Veliuona]]
 - Gediminas mire [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Eberhardas (Varmės vyskupas)]] kariavo_pries Gediminas
 - Gediminas kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- [[objektai/grupes/Lietuviai]] kariavo_pries Gediminas
+- Gediminas kariavo_pries [[objektai/grupes/Rytas]]
 - [[objektai/asmenys/Vladislovas Lokietka]] kariavo_pries Gediminas
-- Gediminas valde_teritorija [[objektai/vietos/Lenkija]]
-- Gediminas valde_teritorija [[objektai/vietos/Lietuva]]
-- Gediminas valde_teritorija [[objektai/vietos/Trakai]]
-- Gediminas valde_teritorija [[objektai/vietos/Vilnius]]
-- Gediminas gyveno [[objektai/vietos/Clevelandas]]
-- Gediminas gyveno [[objektai/vietos/Nevėžis]]
 - Gediminas gyveno [[objektai/vietos/Vilnius]]
-- Gediminas buvo_valdovas [[objektai/vietos/Bizantija]]
-- Gediminas buvo_valdovas [[objektai/vietos/Gotlandas]]
-- Gediminas buvo_valdovas [[objektai/vietos/Kremlius]]
-- Gediminas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Gediminas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Gediminas buvo_valdovas [[objektai/vietos/Maskva]]
-- Gediminas buvo_valdovas [[objektai/vietos/Ryga]]
-- Gediminas buvo_valdovas [[objektai/vietos/Viena]]
-- Gediminas buvo_valdovas [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Ašmena]] priklause Gediminas
-- [[objektai/vietos/Breslauja]] priklause Gediminas
 - [[objektai/asmenys/Fridrichas de Libencelė]] puole Gediminas
-- [[objektai/vietos/Gardinas]] priklause Gediminas
-- Gediminas keliavo_i [[objektai/vietos/Aukštutinė pilis]]
-- Gediminas keliavo_i [[objektai/vietos/Gniezno]]
-- Gediminas keliavo_i [[objektai/vietos/Krokuva]]
-- Gediminas keliavo_i [[objektai/vietos/Lenkija]]
-- Gediminas keliavo_i [[objektai/vietos/Lietuva]]
-- Gediminas keliavo_i [[objektai/vietos/Luckas]]
-- Gediminas keliavo_i [[objektai/vietos/Mazovija]]
-- Gediminas keliavo_i [[objektai/vietos/Trakai]]
-- Gediminas keliavo_i [[objektai/vietos/Vengrija]]
-- Gediminas keliavo_i [[objektai/vietos/Viena]]
 - Gediminas keliavo_i [[objektai/vietos/Vilija]]
-- Gediminas keliavo_i [[objektai/vietos/Vilniaus Aukštutinė pilis]]
-- Gediminas keliavo_i [[objektai/vietos/Vilnius]]
-- Gediminas susije_su [[objektai/vietos/Bajerburgas]]
-- Gediminas susije_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Gediminas susije_su [[objektai/vietos/Lietuva]]
-- Gediminas susije_su [[objektai/vietos/Veliuona]]
-- [[objektai/vietos/Kaunas]] priklause Gediminas
-- [[objektai/vietos/Kijevas]] priklause Gediminas
-- [[objektai/vietos/Lyda]] priklause Gediminas
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Gediminas
-- [[objektai/vietos/Ukmergė]] priklause Gediminas

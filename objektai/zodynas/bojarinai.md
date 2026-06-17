@@ -40,9 +40,9 @@ Tik tada Švitrigaila energingai ėmėsi taikos reikalų; į Vilnių iš Didžio
   global_id: t-86460
   teiginys: 'Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo asmenį, veiksmą ir lydėjusius bojarinus, kaip pateikta citatoje.'
-  susije_objektai: 'location: Lietuva; location: Maskva; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo asmenį, veiksmą ir lydėjusius bojarinus, kaip pateikta citatoje.'
   pagrindžia:
     - c-002

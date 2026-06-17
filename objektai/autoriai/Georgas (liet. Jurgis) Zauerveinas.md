@@ -30,9 +30,9 @@ Amžiaus pabaigoje sorbų kilmės vokiečių politikas, mokslininkas, poliglotas
   global_id: t-19393
   teiginys: 'Georgas Zauerveinas kovojo už lietuvių kalbą Rytų Prūsijoje ir parašė Mažosios Lietuvos himną.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata apie Zauerveino veiklą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Georgas Zauerveinas|Georgas Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusija'
+  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Georgas Zauerveinas|Georgas Zauerveinas]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Prūsija; mentioned_place: Rusija'
   temporaliniai_duomenys: 'mūšio data: 1879 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Georgas Zauerveinas kariavo prieš JAV lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Georgas Zauerveinas kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Georgas Zauerveinas kariavo prieš Vokiečiai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Georgas Zauerveinas kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus, gramatiškas ir tiesiogiai paremtas citata apie Zauerveino veiklą.'
   pagrindžia:
     - c-001

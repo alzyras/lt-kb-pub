@@ -35,7 +35,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   susije_objektai: 'mentioned_group: [[objektai/grupes/Galindai|Galindai]]; mentioned_place: Barta; mentioned_place: Nagutinas; mentioned_place: Snervai'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Libencelės.md#claim-t-59953|Fridrichas iš Libencelės (vyskupas, XIV a.)]]: Eberhardas, Varmės vyskupas, Fridricho iš Libencelės pastangomis pastatydino Vartenbergo pilį Galindos žemėje, Pisos upės pakrantėje.
 - susijęs iš [[objektai/autoriai/J. Poverskis.md#claim-t-64635|J. Poverskis]]: J. Poverskis manė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.
 - susijęs iš [[objektai/autoriai/Powierski J.md#claim-t-60508|Powierski J]]: J. Powierski teigė, kad dalis Galindos gyventojų galėjo išlikti iki XIII a.

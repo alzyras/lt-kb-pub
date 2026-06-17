@@ -50,10 +50,9 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   global_id: t-182736
   teiginys: 'Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.'
   sudarymo_pagrindimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
-  susije_objektai: 'owner: Lietuva; owner: Lietuvos Užnemunė; owner: Suvalkai; owner: Suvalkų gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija'
-  semantiniai_rysiai: 'Užnemunė priklausė Lietuva; Užnemunė priklausė Lietuvos Užnemunė; Užnemunė priklausė Suvalkai; Užnemunė priklausė Suvalkų gubernija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Užnemunė priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Užnemunė priklausė Suvalkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perrašytas sklandžiau ir be netinkamo brūkšnio.'
   pagrindžia:
     - c-005
@@ -83,10 +82,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra antraštinis fragmentas, o citata leidžia suformuluoti konkretų faktą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19169|Napoleonas Bonapartas]]: Napoleonas Bonapartas įkūrė Varšuvos kunigaikštystę, kuriai 1807–1814 m. priklausė Užnemunė.
-- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
-- susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
-- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45784|autokratinė monarchinė imperija]]: 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
 - susijęs iš [[objektai/asmenys/Jonas Basanavičius.md#claim-t-78004|Jonas Basanavičius]]: Jonas Basanavičius buvo pirmasis 1883 m. Rytprūsiuose pradėto leisti lietuviško mėnraščio „Aušra“ redaktorius.
 - susijęs iš [[objektai/asmenys/Juozas Tūbelis.md#claim-t-170080|Juozas Tūbelis]]: Juozui Tūbeliui radus rinką Didžiojoje Britanijoje, Lietuvos prekyba su šia šalimi užėmė pirmą vietą.
 - susijęs iš [[objektai/asmenys/Napoleonas Bonapartas.md#claim-t-19167|Napoleonas Bonapartas]]: Napoleonas Bonapartas 1806 m. įkūrė Varšuvos kunigaikštiją.
@@ -242,11 +237,6 @@ Užnemunė Prūsų karalystėje. Užnemunė Varšuvos kunigaikštystėje ir Lenk
     - t-003
 
 ## Ryšiai
-- [[objektai/vietos/Augustavo gubernija]] priklause Užnemunė
-- [[objektai/vietos/Lietuva]] priklause Užnemunė
-- [[objektai/vietos/Suvalkų gubernija]] priklause Užnemunė
-- Užnemunė priklause [[objektai/vietos/Lietuva]]
-- Užnemunė priklause [[objektai/vietos/Lietuvos Užnemunė]]
-- Užnemunė priklause [[objektai/vietos/Suvalkai]]
+- Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
 - Užnemunė priklause [[objektai/vietos/Suvalkų gubernija]]
-- [[objektai/zodynas/autokratinė monarchinė imperija]] priklause Užnemunė
+- Užnemunė susije_su [[objektai/zodynas/autokratinė monarchinė imperija]]

@@ -57,8 +57,7 @@ Nenurodyta
   global_id: t-109758
   teiginys: 'Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.'
   sudarymo_pagrindimas: 'Perrašyta, kad sakinys tiesiogiai apibūdintų Medininkų pilį.'
-  susije_objektai: 'owner: Gardinas; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: Kaunas; owner: Lietuva; owner: Medininkai; owner: [[objektai/asmenys/Mindaugas|Mindaugas]]; owner: Polockas; owner: Pskovas; owner: Voluinė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
-  semantiniai_rysiai: 'Medininkų pilis priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Medininkų pilis priklausė [[objektai/asmenys/Mindaugas|Mindaugas]]; Medininkų pilis priklausė Gardinas; Medininkų pilis priklausė Kaunas; Medininkų pilis priklausė Lietuva; Medininkų pilis priklausė Medininkai; Medininkų pilis priklausė Polockas; Medininkų pilis priklausė Pskovas; Medininkų pilis priklausė Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Medininkai; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-002
 
@@ -193,14 +192,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Gardinas]]
-- Medininkų pilis (pilis) priklause [[objektai/asmenys/Gediminas]]
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Kaunas]]
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Lietuva]]
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Medininkai]]
-- Medininkų pilis (pilis) priklause [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Polockas]]
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Pskovas]]
-- Medininkų pilis (pilis) priklause [[objektai/vietos/Voluinė]]

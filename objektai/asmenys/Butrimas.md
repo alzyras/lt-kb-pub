@@ -22,8 +22,7 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   global_id: t-100068
   teiginys: 'Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir mini Butrimo veiksmą.'
-  susije_objektai: 'location: Lietuva; location: Vengrija; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Butrimas|Butrimas]] keliavo į Lietuva; [[objektai/asmenys/Butrimas|Butrimas]] keliavo į Vengrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Cibulka.md#claim-t-100069|Cibulka]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
@@ -48,8 +47,3 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Butrimas keliavo_i [[objektai/vietos/Lietuva]]
-- Butrimas keliavo_i [[objektai/vietos/Praha]]
-- Butrimas keliavo_i [[objektai/vietos/Vengrija]]

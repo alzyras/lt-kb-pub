@@ -22,7 +22,7 @@ Bona atsinešė iš Italijos įsitikinimus, kad valdovas turįs siekti valdžios
   global_id: t-02946
   teiginys: 'Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.'
   sudarymo_pagrindimas: 'Citata remia aiškesnę ir sklandesnę formuluotę.'
-  susije_objektai: 'territory: Italija; territory: Milanas; mentioned_author: [[objektai/autoriai/Machiavellio|Machiavellio]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Italija; mentioned_place: Milanas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Machiavellio|Machiavellio]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Italija; mentioned_place: Milanas'
   pagrindžia:
     - c-001
 

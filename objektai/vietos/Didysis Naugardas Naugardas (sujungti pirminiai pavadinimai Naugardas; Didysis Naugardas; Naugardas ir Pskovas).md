@@ -34,7 +34,7 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   global_id: t-85876
   teiginys: 'Valdovas leido pasiuntiniams be tikrinimo pereiti sienas, kad jie aplankytų Naugardą ir Pskovą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet originalas buvo kreipimosi fragmentas.'
-  susije_objektai: 'territory: Naugardas; territory: Pskovas; territory: Viena; territory: Vilnius; mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vergas|vergas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -91,10 +91,10 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   global_id: t-85882
   teiginys: 'Naugardas tam tikru požiūriu priklausė prie 1241 m. Hamburgo su Liubeku sudarytos karinės sąjungos.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'owner: Hamburgas; owner: Liubekas; owner: Naugardas; mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
-  semantiniai_rysiai: 'Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas; Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Liubekas; Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Naugardas'
+  susije_objektai: 'owner: Hamburgas; mentioned_place: Hamburgas; mentioned_place: Liubekas; mentioned_place: Naugardas'
+  semantiniai_rysiai: 'Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1241 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Liubekas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Naugardas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklausė Hamburgas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-009
@@ -104,9 +104,9 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
   global_id: t-85883
   teiginys: 'Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.'
   sudarymo_pagrindimas: 'Įvardytas kunigaikštis ir sutvarkytas OCR triukšmas.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mūšio data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo prieš Lenkai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įvardytas kunigaikštis ir sutvarkytas OCR triukšmas.'
   pagrindžia:
     - c-003
@@ -328,5 +328,3 @@ Prie karinės sąjungos, 1241 m. Hamburgo sudarytos su Liubeku, tam tikru poži�
 
 ## Ryšiai
 - Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Hamburgas]]
-- Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Liubekas]]
-- Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas) priklause [[objektai/vietos/Naugardas]]

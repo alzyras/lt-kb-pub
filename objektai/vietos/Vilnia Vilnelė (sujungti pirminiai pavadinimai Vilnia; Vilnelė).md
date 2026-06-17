@@ -68,7 +68,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   global_id: t-174197
   teiginys: 'Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.'
   sudarymo_pagrindimas: 'Patikslintas Aleksandro vaidmuo ir sakinys sutrumpintas.'
-  susije_objektai: 'territory: Užupis; territory: Vilnelė; territory: Vilnius; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Užupis; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Užupis; mentioned_place: Vilnelė; mentioned_place: Vilnius'
   pagrindžia:
     - c-015
 
@@ -86,7 +86,7 @@ Vietovė, kurioje dabar dunkso Vilnius, iš Islandijos ke­ liautojų pasakojim�
   global_id: t-174199
   teiginys: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata.'
-  susije_objektai: 'territory: Kaimas; territory: Lietuva; territory: Vilnelė; territory: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vilnelė; mentioned_place: Vitebskas'
   pagrindžia:
     - c-012
 

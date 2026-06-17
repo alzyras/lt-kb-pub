@@ -85,10 +85,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   susije_objektai: 'mentioned_place: Prūsija; mentioned_place: Viena'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89382|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.
-- susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
-- susijęs iš [[objektai/asmenys/Oteris.md#claim-t-60398|Oteris]]: Brolis Oteris pateko į nelaisvę, bet netrukus iš jos išsigelbėjo ir dešimt dienų keliavo be maisto.
-- susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89383|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Meiseno markos valdovas).md#claim-t-60263|Ditrichas (Meiseno markos valdovas)]]: 1272 m. Meiseno markos valdovas Ditrichas atvyko į Prūsiją su daugybe karių ir ketino pulti Notangos žemę.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59952|Ditrichas iš Altenburgo]]: 1324 m. gegužės 22 d. Ditrichas iš Altenburgo, Ragainės komtūras, su broliais ir kariais užpuolė Gedimino pilies papilį.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173136|Dovydas (Gardino pilininkas)]]: 1324 m. kovo 1 d. trys broliai ir 600 Notangos vyrų sudegino Gardino pilininko Dovydo dvarą iki pamatų.
@@ -335,9 +331,3 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]] buvo_valdovas Notanga
-- [[objektai/asmenys/Ditrichas (Meiseno markos valdovas)]] keliavo_i Notanga
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]] keliavo_i Notanga
-- [[objektai/asmenys/Oteris]] keliavo_i Notanga

@@ -35,8 +35,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   global_id: t-187201
   teiginys: 'Breslauja priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ašmena ir Ukmerge.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'owner: Ašmena; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Ašmena'
-  semantiniai_rysiai: 'Breslauja priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Breslauja priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]; Breslauja priklausė Ašmena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Ašmena'
   pagrindžia:
     - c-001
 
@@ -54,8 +53,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   global_id: t-187203
   teiginys: 'Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/asmenys/Jaunutis|Jaunutis]]; owner: Ukmergė; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Ukmergė'
-  semantiniai_rysiai: 'Breslauja priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Breslauja priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]; Breslauja priklausė Ukmergė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 
@@ -64,8 +62,7 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   global_id: t-187204
   teiginys: 'Breslauja su pilimi priklausė Jaunučiui paskirtam nedideliam žemių daliniui.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]'
-  semantiniai_rysiai: 'Breslauja priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Breslauja priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]'
   pagrindžia:
     - c-001
 
@@ -79,9 +76,6 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
-- susijęs iš Ašmena: Ašmena priklausė Vilniui artimų sričių su pilimis grupei, įėjusiai į jam paskirtą žemių dalinį.
-- susijęs iš Ašmena: Ašmena priklausė Jaunučiui paskirtam žemių daliniui kartu su Vilniumi, Ukmerge ir Breslauja.
-- susijęs iš Ukmergė: Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-184695|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Ibrahimas (Turkijos čiaušas).md#claim-t-87513|Ibrahimas (Turkijos čiaušas)]]: Turkijos imperatoriaus čiaušas Ibrahimas buvo atsiųstas pas karalių ir, atvykęs iš Maskvos, paliko Vilniuje tarnus, žirgus bei daiktus.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
@@ -184,11 +178,3 @@ Kai kurie iš jų sutapo su vaivadijomis, bet iš kai kurių didelių vaivadijų
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/vietos/Ašmena]] priklause Breslauja
-- Breslauja priklause [[objektai/vietos/Ašmena]]
-- Breslauja priklause [[objektai/asmenys/Gediminas]]
-- Breslauja priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]
-- Breslauja priklause [[objektai/vietos/Ukmergė]]
-- [[objektai/vietos/Ukmergė]] priklause Breslauja

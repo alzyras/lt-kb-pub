@@ -33,7 +33,7 @@ Idėja skynėsi kelią ne tik Europoje – rugsėjį Lietuvos autonomijai pritar
   global_id: t-77709
   teiginys: '1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'
-  susije_objektai: 'location: Lietuva; location: Niujorkas; location: Rusija; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Rusija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1879 m.; gyvenimo laikotarpis: 1910 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nurodo datą, vietas ir lietuvių skaičių, o citata tai patvirtina.'

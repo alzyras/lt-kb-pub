@@ -33,11 +33,6 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatinis ir tiesiogiai pagrįstas citata.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
-- susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
-- susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
-- susijęs iš [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje.md#claim-t-87305|Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]: Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.
-- susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
 - susijęs iš [[objektai/asmenys/Netimeras.md#claim-t-19172|Netimeras]]: Lietuvos „karaliaus“ Netimero krikštas datuojamas 1009 m.
@@ -77,10 +72,3 @@ Pagalba atėjo iš Islandijos – 1991 m. vasario 11 d. Islandijos Altingas pirm
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Adalbertas]] buvo_valdovas Islandija
-- [[objektai/asmenys/Mieška]] buvo_valdovas Islandija
-- [[objektai/asmenys/Olafas (Norvegijos valdovas)]] buvo_valdovas Islandija
-- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Islandija
-- [[objektai/asmenys/Šventaragis]] buvo_valdovas Islandija

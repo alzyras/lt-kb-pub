@@ -45,8 +45,7 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   global_id: t-173181
   teiginys: 'Jonui Hozijui pasitraukus iš pareigų, karalius Švč. Trejybės prieglaudos vyriausiojo globėjo titulą perkėlė sau.'
   sudarymo_pagrindimas: 'Citata palaiko Hozijaus pasitraukimą ir globėjo titulo perkėlimą.'
-  susije_objektai: 'territory: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Hozijus|Jonas Hozijus]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -209,6 +208,3 @@ Sklypas tas ir mūrinis namas, kuriame yra spaustu­ vė, parduotas Jono Hozijau
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Jonas Hozijus buvo_valdovas [[objektai/vietos/Vilnius]]

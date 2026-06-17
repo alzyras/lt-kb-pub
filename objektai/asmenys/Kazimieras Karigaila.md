@@ -115,8 +115,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   global_id: t-173192
   teiginys: 'Kazimieras Karigaila buvo palaidotas katedroje, šalia vėliau iškilmingai palaidoto mirusiojo.'
   sudarymo_pagrindimas: 'Citata Karigailą mini kaip palaidojimo vietos orientyrą, todėl galima tik siaura faktinė formuluotė.'
-  susije_objektai: 'location: Lietuva; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]] mirė Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-007
 
@@ -125,8 +124,7 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   global_id: t-173193
   teiginys: 'Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.'
   sudarymo_pagrindimas: 'Citata leidžia pašalinti šaltinio įvadą ir suformuluoti faktą apie Karigailos palaidojimo vietą.'
-  susije_objektai: 'location: Kernavė; location: Krėva; location: Lietuva; location: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Aleksandras Vygantas|Aleksandras Vygantas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]] mirė Kernavė; [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]] mirė Krėva; [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]] mirė Lietuva; [[objektai/asmenys/Kazimieras Karigaila|Kazimieras Karigaila]] mirė Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Aleksandras Vygantas|Aleksandras Vygantas]]; mentioned_person: [[objektai/asmenys/Karigaila|Karigaila]]; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -348,9 +346,3 @@ Kazimieras Karigaila aprašomas kaip kunigaikštis ir vyriausiasis vadas Vilniau
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-- Kazimieras Karigaila mire [[objektai/vietos/Kernavė]]
-- Kazimieras Karigaila mire [[objektai/vietos/Krėva]]
-- Kazimieras Karigaila mire [[objektai/vietos/Lietuva]]
-- Kazimieras Karigaila mire [[objektai/vietos/Vilnius]]

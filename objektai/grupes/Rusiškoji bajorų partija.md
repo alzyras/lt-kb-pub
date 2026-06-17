@@ -24,8 +24,7 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   global_id: t-95932
   teiginys: 'Sviatoslavo sūnui Jurgiui užimti Smolenską padėjo Riazaniaus kunigaikštis Olegas ir rusiškoji bajorų partija.'
   sudarymo_pagrindimas: 'Pirminiame teiginyje neaišku, kam padėjo rusiškoji bajorų partija.'
-  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/grupes/Rusiškoji bajorų partija|Rusiškoji bajorų partija]] susiję su Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/vietininkas|vietininkas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Smolenskas'
   pagrindžia:
     - c-001
 
@@ -45,6 +44,3 @@ Jam padėjo jo uošvis, Riazaniaus kunigaikštis Olegas, ir rusiškoji bajorų p
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Rusiškoji bajorų partija susije_su [[objektai/vietos/Smolenskas]]

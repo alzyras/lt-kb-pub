@@ -32,7 +32,7 @@ Dabar Veliuona priklauso dvari­ ninkui Mykolui Zaleskiui.
   global_id: t-87804
   teiginys: 'Mykolui Zaleskiui priklausė Veliuona.'
   sudarymo_pagrindimas: 'Teiginys yra trumpas, faktinis ir paremtas citata.'
-  susije_objektai: 'owner: Bajerburgas; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: Veliuona; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Lietuva; mentioned_place: Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bajerburgas; mentioned_place: Lietuva; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 

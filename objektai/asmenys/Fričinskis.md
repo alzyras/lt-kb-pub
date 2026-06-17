@@ -24,7 +24,7 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
   global_id: t-87677
   teiginys: 'Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus, apie asmenį susijusio fakto.'
-  susije_objektai: 'owner: Lietuva; owner: Pilaitė; owner: Vilija; owner: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Pilaitė; mentioned_place: Vilija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

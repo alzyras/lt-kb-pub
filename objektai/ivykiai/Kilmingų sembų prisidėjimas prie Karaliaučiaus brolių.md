@@ -40,7 +40,7 @@ Nenurodyta
   teiginys: 'Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata remia aiškų faktą, o pradinė formuluotė nutrūkusi.'
-  susije_objektai: 'location: Kvedenava; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Kvedenava'
   pagrindžia:
     - c-001
 

@@ -123,8 +123,6 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   susije_objektai: 'mentioned_place: Psiolas'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54946|Andrius Algirdaitis]]: Andrius, Algirdo sūnus, skiriamas nuo išgalvoto Andriaus Vaidoto; jis žuvo prie Vorsklos 1399 m.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Bajazitas.md#claim-t-40062|Bajazitas]]: Prie Dunojaus, Nikopolio mūšyje 1396 m. rugsėjo 25 d. vakarų kryžininkai (prancūzai, vengrai, vokiečiai, britai, italai, čekai ir kiti), kovoję be vieningos vadovybės, buvo sutriuškinti Osmanų imperijos sultono Bajazito kariuomenės.
@@ -385,6 +383,3 @@ Kautynėms vieta buvo numatyta Vorsklos upės apylinkės. Kai Vytautas prisiarti
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-- [[objektai/asmenys/Skirgaila]] puole Vorskla

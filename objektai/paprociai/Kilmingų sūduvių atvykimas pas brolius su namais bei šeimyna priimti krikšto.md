@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-59737
   teiginys: 'Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Baiga; location: Viena; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
+  susije_objektai: 'location: Baiga; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Ruseinis|Ruseinis]]; mentioned_place: Baiga; mentioned_place: Viena'
   pagrindžia:
     - c-003
 

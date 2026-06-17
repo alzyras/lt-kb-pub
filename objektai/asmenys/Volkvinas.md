@@ -75,6 +75,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Volkvinas dalyvavo_musyje [[objektai/ivykiai/Saulės mūšis (1236 m. rugsėjo 22 d.)]]

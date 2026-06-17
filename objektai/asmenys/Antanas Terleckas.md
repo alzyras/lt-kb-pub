@@ -30,9 +30,9 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   global_id: t-18826
   teiginys: 'Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.'
   sudarymo_pagrindimas: 'Reikia sklandesnės formuluotės be pasikartojančio veiksmažodžio.'
-  susije_objektai: 'owner: Lietuva; owner: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; owner: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos laisvės lyga|Lietuvos laisvės lyga]]; mentioned_person: [[objektai/asmenys/Petras Cidzikas|Petras Cidzikas]]; mentioned_person: [[objektai/asmenys/Romaldas Juozas Ragaišis|Romaldas Juozas Ragaišis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Petras Cidzikas susiję su Romaldas Juozas Ragaišis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Cidzikas susiję su Lietuvos laisvės lyga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Petras Cidzikas susiję su Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia sklandesnės formuluotės be pasikartojančio veiksmažodžio.'
   pagrindžia:
     - c-002
@@ -94,8 +94,3 @@ LLL įkūrėjas ir vadovas Antanas Terleckas save vadino rezistentu, jo supratim
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Antanas Terleckas susije_su [[objektai/vietos/Lietuva]]
-- Antanas Terleckas susije_su [[objektai/grupes/Lietuvos laisvės lyga]]
-- Antanas Terleckas susije_su [[objektai/asmenys/Petras Cidzikas]]

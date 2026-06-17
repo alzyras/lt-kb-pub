@@ -176,13 +176,3 @@ Vėliau, kai kariai sužinojo apie savo vado mirtį, lietuvių kariuomenė nenor
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vladislovas buvo_valdovas [[objektai/vietos/Dobrynė]]
-- Vladislovas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Vladislovas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vladislovas buvo_valdovas [[objektai/vietos/Vengrija]]
-- Vladislovas keliavo_i [[objektai/vietos/Lietuva]]
-- Vladislovas puole [[objektai/vietos/Lietuva]]
-- Vladislovas puole [[objektai/grupes/Maskvėnai]]
-- Vladislovas puole [[objektai/grupes/Rusai]]

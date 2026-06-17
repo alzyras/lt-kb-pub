@@ -41,8 +41,7 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   global_id: t-96867
   teiginys: 'Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.'
   sudarymo_pagrindimas: 'Reikia pataisyti kalbą ir aiškiau susieti teiginį su Riurikaičiais.'
-  susije_objektai: 'owner: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; owner: Lietuva; owner: Maskva; mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė Lietuva; [[objektai/grupes/Riurikaičių dinastija|Riurikaičių dinastija]] priklausė Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Kalita|Jonas Kalita]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-002
 
@@ -129,8 +128,3 @@ Antra vertus, Lietuvai užėmus Rusios žemes, ne visi senrusių Riurikaičių d
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Riurikaičių dinastija priklause [[objektai/asmenys/Jonas Kalita]]
-- Riurikaičių dinastija priklause [[objektai/vietos/Lietuva]]
-- Riurikaičių dinastija priklause [[objektai/vietos/Maskva]]

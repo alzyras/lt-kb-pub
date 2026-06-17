@@ -33,8 +33,8 @@ periodo_grupes:
   global_id: t-87932
   teiginys: 'Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūksta; citata palaiko išbaigtą faktą apie atvykimą.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Lenkija; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Lietuva; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Livonija; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Maskva; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Mazovija; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Prūsija; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Riazanė; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Trakai; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Tverė; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Valakija; [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Vilnius'
+  susije_objektai: 'location: Trakai; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]] keliavo į Trakai'
   pagrindžia:
     - c-001
 
@@ -96,14 +96,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Lenkija]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Lietuva]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Livonija]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Maskva]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Mazovija]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Prūsija]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Riazanė]]
 - Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Trakai]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Tverė]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Valakija]]
-- Vasilijus Vasiljevičius keliavo_i [[objektai/vietos/Vilnius]]

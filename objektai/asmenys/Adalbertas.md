@@ -56,12 +56,3 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Adalbertas buvo_valdovas [[objektai/vietos/Islandija]]
-- Adalbertas buvo_valdovas [[objektai/vietos/Kijevas]]
-- Adalbertas buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
-- Adalbertas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Adalbertas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Adalbertas buvo_valdovas [[objektai/vietos/Prūsija]]
-- Adalbertas buvo_valdovas [[objektai/vietos/Švedija]]

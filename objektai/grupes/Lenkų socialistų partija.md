@@ -30,8 +30,7 @@ tags:
   global_id: t-19793
   teiginys: 'Lenkų socialistų partijos Lietuvoje delegatai dalyvavo susirinkime, į kurį atvyko apie 2 000 delegatų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie partijos delegatų dalyvavimą susirinkime.'
-  susije_objektai: 'location: Baltarusija; location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Baltarusija; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkų socialistų partija|Lenkų socialistų partija]] keliavo į Baltarusija; [[objektai/grupes/Lenkų socialistų partija|Lenkų socialistų partija]] keliavo į Lietuva; [[objektai/grupes/Lenkų socialistų partija|Lenkų socialistų partija]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Baltarusija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,8 +65,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Lenkų socialistų partija keliavo_i [[objektai/vietos/Baltarusija]]
-- Lenkų socialistų partija keliavo_i [[objektai/vietos/Lietuva]]
-- Lenkų socialistų partija keliavo_i [[objektai/vietos/Vilnius]]

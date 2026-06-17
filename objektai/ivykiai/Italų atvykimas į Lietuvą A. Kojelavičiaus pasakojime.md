@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Tai autoriaus datavimo prielaida, todėl reikalingas aiškus priskyrimas.'
-  susije_objektai: 'location: Italija; mentioned_place: Italija'
+  susije_objektai: 'mentioned_place: Italija'
   pagrindžia:
     - c-001
 

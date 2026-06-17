@@ -35,7 +35,6 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
-- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
 - susijęs iš Mickevičius J. Putvės pilis XIV amžiuje: J. Mickevičiaus straipsnis „Putvės pilis XIV amžiuje“ paskelbtas 1940 m. žurnalo „Gimtasai kraštas“ 3-4 numeryje.
 - susijęs iš Karšuva: Karšuva buvo po du ar tris kartus teriota per Ordino žygius prieš Žemaičių sodybas ir pilis.
 ## Reikšmingi paminėjimai
@@ -70,6 +69,3 @@ Po du — tris kartus buvo teriota Pograuda, Karšuva, atakuotos pilys Bisena, J
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Jonas Liuksemburgietis]] buvo_valdovas Putvė

@@ -50,8 +50,7 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
 - t-002
   global_id: t-117382
   teiginys: 'Nepriklausomoje Lietuvoje žydai galėjo tenkinti savo kultūrinius poreikius, bet su lietuviais gyveno daugiausia atskirai.'
-  susije_objektai: 'location: Kaunas; location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Kaunas; [[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/V. Krėvė-Mickevičius|V. Krėvė-Mickevičius]]; mentioned_place: Kaunas; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
 
@@ -81,10 +80,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117387
   teiginys: 'Lietuvoje žydai galėjo tenkinti nacionalinius kultūrinius poreikius, bet su lietuviais gyveno atskirus, daugiausia darbo ryšiais susijusius gyvenimus.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] gyveno Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Jidiš|Jidiš]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1923 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Žydai gyveno Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutrumpintas ir pašalintas perteklinis kontekstas.'
   pagrindžia:
     - c-018
@@ -130,10 +128,9 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   global_id: t-117392
   teiginys: 'Getuose atsirado žydų pasipriešinimo grupių, dalis žydų bėgo į miškus, stojo į sovietų partizanus arba kovojo 16-ojoje lietuviškojoje šaulių divizijoje.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatoje nurodytas žydų pasipriešinimo formas.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
-  semantiniai_rysiai: '[[objektai/grupes/Žydai|Žydai]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'mūšio data: 1941 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Žydai kariavo prieš Lietuviai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai perteikia citatoje nurodytas žydų pasipriešinimo formas.'
   pagrindžia:
     - c-011
@@ -1013,8 +1010,3 @@ Daug kur Europoje jie buvo smarkiai persekiojami, išvaromi, jų turtas būdavo 
   statusas: verified
   pagrindžia:
     - t-024
-
-## Ryšiai
-- Žydai kariavo_pries [[objektai/grupes/Lietuviai]]
-- Žydai gyveno [[objektai/vietos/Kaunas]]
-- Žydai gyveno [[objektai/vietos/Lietuva]]

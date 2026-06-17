@@ -37,7 +37,7 @@ Lietuvoje tada tik ką buvo aprimęs karas su švedais, o Lenkijoje ėjo vidaus 
   global_id: t-03148
   teiginys: '1608 m. pasibaigus rokošui, darbo netekę kareivių būriai nuvyko padėti apsimetėliui Dimitrijui II.'
   sudarymo_pagrindimas: 'Teiginį verta sutrumpinti ir pašalinti perteklinę detalę, išlaikant citatos faktus.'
-  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1608 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį verta sutrumpinti ir pašalinti perteklinę detalę, išlaikant citatos faktus.'

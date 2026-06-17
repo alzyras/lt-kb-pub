@@ -46,9 +46,9 @@ Nenurodyta
   global_id: t-35897
   teiginys: 'Manydamas, kad Jogailos pajėgos Vilniuje silpnos, Vytautas atvyko su Trakų įgula ir bandė atsiimti Vilnių.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje įvardis buvo dviprasmis, todėl objektas išplėstas.'
-  susije_objektai: 'location: Trakai; location: Vilnius; location: Vitebskas; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'location: Trakai; mentioned_object: [[objektai/zodynas/įgula|įgula]]; mentioned_person: [[objektai/asmenys/Hanulas|Hanulas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Trakai; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   temporaliniai_duomenys: 'kelionės data: 1382 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Hanulas keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Hanulas keliavo į Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Hanulas keliavo į Vitebskas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Trakai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje įvardis buvo dviprasmis, todėl objektas išplėstas.'
   pagrindžia:
     - c-001

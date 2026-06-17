@@ -66,9 +66,9 @@ Nenurodyta
   global_id: t-12314
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, faktinis ir paremtas citatos tekstu.'
-  susije_objektai: 'location: Nemunas; location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
+  susije_objektai: 'location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
   temporaliniai_duomenys: 'kelionės data: 1383 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Salos“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, faktinis ir paremtas citatos tekstu.'
   pagrindžia:
     - c-004
@@ -129,9 +129,9 @@ Nenurodyta
   global_id: t-179487
   teiginys: '1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.'
   sudarymo_pagrindimas: 'Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu.'
-  susije_objektai: 'location: Nemunas; location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
+  susije_objektai: 'location: Salos; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Nemunas; mentioned_place: Salos'
   temporaliniai_duomenys: 'kelionės data: 1383 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Salos“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškus ir tiksliai perteikia citatoje nurodytą kelionę laivu.'
   pagrindžia:
     - c-004

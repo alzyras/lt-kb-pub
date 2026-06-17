@@ -153,7 +153,7 @@ Nors ir patogio­ je padėtyje, ir išsistačiusi gražioje vietoje, dviejų upi
   global_id: t-85751
   teiginys: 'Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.'
   sudarymo_pagrindimas: 'Teiginys yra rišlus ir paremtas pasakojimo citata.'
-  susije_objektai: 'location: Aukštutinė pilis; location: Luckas; location: Trakai; location: Vengrija; location: Vilija; location: Vilniaus Aukštutinė pilis; location: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilija; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Aukštutinė pilis; mentioned_place: Luckas; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilija; mentioned_place: Vilniaus Aukštutinė pilis; mentioned_place: Vilnius'
   pagrindžia:
     - c-020
 

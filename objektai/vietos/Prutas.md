@@ -34,8 +34,6 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   susije_objektai: 'mentioned_object: [[objektai/zodynas/inkorporuoti|inkorporuoti]]; mentioned_person: [[objektai/asmenys/Bona|Bona]]; mentioned_place: Bełskas; mentioned_place: Losičiai; mentioned_place: Smolnėnai; mentioned_place: Teterinas; mentioned_place: Čirčinskas'
   pagrindžia:
     - c-001
-- susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
-- susijęs iš Kolomyja: Lenkijos karalius Kazimieras 1485 m. rugpjūčio 24 d. atvyko į Kolomyją ir išbuvo ten iki rugsėjo 18 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186763|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono atvykimas į Kolomyją datuojamas 1485 m. rugsėjo 6-12 d.
 - susijęs iš [[objektai/ivykiai/Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje.md#claim-t-186764|Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje]]: Redakcinėje pastaboje Moldavijos vaivados Stepono vasalinė priesaika Kolomyjoje datuojama 1485 m. rugsėjo 15 d.
 - susijęs iš Horodiščė: Horodiščės dvaras ir Losičiai buvo dovanojami su visomis Horodiščės ir Losičių žemėmis bei kaimiečiais.
@@ -101,7 +99,3 @@ Iš tikro jam pasisekė: 1711 m. ties Prutu caras vos nežuvo su visa savo kariu
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Steponas]] keliavo_i Prutas
-- [[objektai/asmenys/Vladislovas Lokietka]] keliavo_i Prutas

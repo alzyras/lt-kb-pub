@@ -213,8 +213,6 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako valdovo išrinkimą ir yra pagrįstas citata.'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/daiktai/Husaro krūtinšarvis ir antpetis.md#claim-t-39252|Husaro krūtinšarvis ir antpetis]]: XVII a. husaro krūtinšarvis ir antpetis priklausė Abiejų Tautų Respublikos karybos aplinkai.
-- susijęs iš [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“.md#claim-t-41488|„Respublika turi dvi atskiras kariuomenes“]]: Respublikoje viena kariuomenė buvo Karūnos armija, o kita priklausė Lietuvos Didžiajai Kunigaikštystei.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45927|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45928|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo vienas didžiųjų Vilniaus romantizmo mokyklos atstovų.
 - susijęs iš [[objektai/asmenys/Algimantas Marcinkevičius.md#claim-t-78042|Algimantas Marcinkevičius]]: Algimantas Marcinkevičius šaltinyje siejamas su Lietuvos kardiochirurgijos mokykla.
@@ -921,7 +919,3 @@ Jungtinė Lenkijos ir Lietuvos valstybė / politinė sąjunga.
   statusas: verified
   pagrindžia:
     - t-008
-
-## Ryšiai
-- [[objektai/daiktai/Husaro krūtinšarvis ir antpetis]] priklause Abiejų Tautų Respublika
-- [[objektai/posakiai/„Respublika turi dvi atskiras kariuomenes“]] priklause Abiejų Tautų Respublika

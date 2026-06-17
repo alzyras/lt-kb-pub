@@ -80,6 +80,3 @@ Dusburgietis teigia, kad jo metais Ordinas gavo puikių dovanų Apulijoje, Roman
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Burcos žemė

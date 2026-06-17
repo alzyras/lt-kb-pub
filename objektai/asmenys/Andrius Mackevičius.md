@@ -22,7 +22,7 @@ Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinyb
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko glaustą faktą apie Andriaus Mackevičiaus vaidmenį pasiuntinybėje.'
-  susije_objektai: 'owner: Maskva; owner: Viena; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Maskva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_object: [[objektai/zodynas/žirgininkas|žirgininkas]]; mentioned_place: Maskva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

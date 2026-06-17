@@ -64,8 +64,3 @@ Astikas su Manvydu ir Goštautu susitarė valdovu paskelbti karalių Vladislovą
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Astikas buvo_valdovas [[objektai/vietos/Alanta]]
-- Astikas buvo_valdovas [[objektai/vietos/Ukmergė]]
-- Astikas buvo_valdovas [[objektai/vietos/Vilnius]]

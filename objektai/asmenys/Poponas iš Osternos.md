@@ -54,10 +54,9 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   global_id: t-59946
   teiginys: '1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą informaciją.'
-  susije_objektai: 'location: Austrija; location: Kulmas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Kulmas'
-  semantiniai_rysiai: '[[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] keliavo į Austrija; [[objektai/asmenys/Poponas iš Osternos|Poponas iš Osternos]] keliavo į Kulmas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Austrija; mentioned_place: Kulmas'
   temporaliniai_duomenys: 'kelionės data: 1244 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Poponas iš Osternos keliavo į Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Poponas iš Osternos keliavo į Kulmas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatoje nurodytą informaciją.'
   pagrindžia:
     - c-002
@@ -195,11 +194,3 @@ Dusburgietis teigia, kad apie brolį Poponą, antrą Prūsijos žemės magistrą
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Austrija]]
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Krokuva]]
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Kulmas]]
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Lenkija]]
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Prūsija]]
-- Poponas iš Osternos keliavo_i [[objektai/vietos/Santyras]]

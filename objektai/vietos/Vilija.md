@@ -151,15 +151,11 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Manvydas|Manvydas]]; mentioned_place: Lietuva; mentioned_place: Vilnelė'
   pagrindžia:
     - c-011
-- susijęs iš [[objektai/daiktai/Vilijos tiltas su pirklų būdelėmis ir stoginėmis.md#claim-t-87097|Vilijos tiltas su pirklų būdelėmis ir stoginėmis]]: Karalius leido Hozijui pastatyti tiltą per Viliją vietoje nepatogios perkėlos ir imti nustatytą mokestį iš pravažiuojančiųjų.
-- susijęs iš Vilnius: 1492 m. karalius Aleksandras patvirtino ankstesnes Vilniaus dovanas ir suteikė naujų privilegijų prekybai bei miestiečių buičiai gerinti.
-- susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
-- susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
-- susijęs iš [[objektai/daiktai/Pilaitės kunigaikščių pilis.md#claim-t-87088|Pilaitės kunigaikščių pilis]]: Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.
 - susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54935|Aleksandras Jogailaitis]]: 1492 m. Aleksandras patvirtino ankstesnius Vilniaus dovanojimus ir suteikė naujų privilegijų, turėjusių pagyvinti prekybą bei pagerinti miestiečių buitį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54936|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis garantavo Vilniaus miestiečių laivams su prekėmis laisvą laivybą Vilija nuo Vilniaus iki Kauno ir atgal.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82183|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis suteikė Vilniui teisę laikyti vaško dirbtuvę ir rūpinosi laisva laivyba Vilija.
+- susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176391|Gediminas]]: Gediminas, pasak Balińskio, plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus ir ant kalno statydino mūro tvirtovę.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-87426|Germantas]]: Balińskis teigė, kad Germantas Šventaragio slėnyje plėtė senovinę Vilniaus gyvenvietę palei Vilnios krantus.
 - susijęs iš [[objektai/asmenys/Hlebavičius (Vilniaus vaivada ir karaliaus kancleris).md#claim-t-87690|Hlebavičius (Vilniaus vaivada ir karaliaus kancleris)]]: Vilniaus vaivados ir karaliaus kanclerio Hlebavičiaus plytinė buvo prie Vilniaus, už Vilijos upės, greta fabrikui skirto sklypo.
@@ -765,9 +761,4 @@ Anot jų, Gediminas, po Trakų pilies įkūrimo medžiojęs aplinkinėse giriose
     - t-011
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Vilija
-- [[objektai/asmenys/Jonas]] buvo_valdovas Vilija
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Vilija
 - [[objektai/asmenys/Gediminas]] keliavo_i Vilija
-- [[objektai/daiktai/Pilaitės kunigaikščių pilis]] priklause Vilija
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] susije_su Vilija

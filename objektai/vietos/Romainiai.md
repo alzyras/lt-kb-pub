@@ -46,10 +46,6 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   temporalinis_llm_pakomentavimas: 'Cituojama autoriaus prielaida, todėl reikia aiškios atribucijos.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas.md#claim-t-87251|Romuvų šventos girios ir Perkūno garbinimas]]: Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.
-- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
-- susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
-- susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
 - susijęs iš [[objektai/daiktai/Mūrinė pilis.md#claim-t-87115|Mūrinė pilis]]: Mūrinė pilis pastatyta ant žmonių paaukštinto kalno Vilnelės ir Vilijos santakoje.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55130|Romainių šventvietės sunaikinimas (1294 m.)]]: 1294 m. kryžiuočiai užėmė Romainių pilį, pasiėmė turtą ir išžudė žynius.
 - susijęs iš [[objektai/ivykiai/Romainių šventvietės sunaikinimas (1294 m.).md#claim-t-55131|Romainių šventvietės sunaikinimas (1294 m.)]]: Balińskio manymu, po Romainių sunaikinimo Perkūno tikėjimo relikvijos ir Krivių Krivaitis su aukotojais galėjo būti perkelti į Vilnių.
@@ -125,6 +121,3 @@ Dusburgietis teigia, kad pagrindinių sutarties tekstų pradžioje aiškiai mini
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Romainiai

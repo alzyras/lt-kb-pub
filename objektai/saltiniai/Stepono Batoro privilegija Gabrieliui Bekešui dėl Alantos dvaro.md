@@ -51,7 +51,7 @@ Taip pat narsiam jo broliui Gabrieliui Be­ kešui po Astiko Varšuvos seime pag
   global_id: t-88168
   teiginys: 'Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.'
   sudarymo_pagrindimas: 'Reikia išplėsti neaiškią nuorodą į karalių ir pašalinti vertinamąjį epitetą.'
-  susije_objektai: 'territory: Alanta; territory: Ukmergė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Alanta; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

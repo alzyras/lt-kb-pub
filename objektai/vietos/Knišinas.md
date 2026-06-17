@@ -50,9 +50,9 @@ Mir­ damas Knišine, jis paskutines mintis dar kreipė į savąją Lie­ tuvos 
   global_id: t-86022
   teiginys: '1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.'
   sudarymo_pagrindimas: 'Citata tiesiogiai palaiko šį faktą, pašalintas puslapio triukšmas.'
-  susije_objektai: 'location: Lietuva; location: Rūdninkai; location: Torunė; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Torunė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Steponas Batoras|Steponas Batoras]]; mentioned_place: Lietuva; mentioned_place: Rūdninkai; mentioned_place: Torunė'
   temporaliniai_duomenys: 'kelionės data: 1576 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustas keliavo į Rūdninkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustas keliavo į Torunė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai palaiko šį faktą, pašalintas puslapio triukšmas.'
   pagrindžia:
     - c-003

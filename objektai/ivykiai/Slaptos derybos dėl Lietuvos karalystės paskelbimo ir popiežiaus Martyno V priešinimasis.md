@@ -46,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė frazė buvo kontekstinė ir su OCR triukšmu; citata palaiko aiškesnį faktą.'
-  susije_objektai: 'territory: Kulmas; territory: Lietuva; mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kulmas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Martynas V|Martynas V]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Kulmas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 

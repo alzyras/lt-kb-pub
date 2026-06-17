@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiksliai perteikia Liudviko atvykimą bei pareigas.'
-  susije_objektai: 'location: Gardinas; location: Lietuva; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 

@@ -149,11 +149,3 @@ Po Mingailos mirties Skirmantas paveldėjo senelio valdžią Naugarduke. Artėja
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Skirmantas buvo_valdovas [[objektai/vietos/Karačevas]]
-- Skirmantas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Skirmantas buvo_valdovas [[objektai/vietos/Maskva]]
-- Skirmantas buvo_valdovas [[objektai/vietos/Minskas]]
-- Skirmantas buvo_valdovas [[objektai/vietos/Sluckas]]
-- Skirmantas buvo_valdovas [[objektai/vietos/Starodubas]]

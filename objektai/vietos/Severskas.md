@@ -85,8 +85,6 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi daug OCR triukšmo; perrašyta į pilną faktinį sakinį.'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Olegas (Riazanės kunigaikštis).md#claim-t-87808|Olegas (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.
-- susijęs iš [[objektai/asmenys/Vaitiekus Kiočka.md#claim-t-186262|Vaitiekus Kiočka]]: Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
 - susijęs iš Smolenskas: Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176282|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Seversko kunigaikščio Dmitrijaus Kaributo tėvas.
 - susijęs iš [[objektai/asmenys/Andrejus Možaiskis.md#claim-t-186176|Andrejus Možaiskis]]: Andrejus Možaiskis kartu su Jakovu Zachariničiumi ir Andrejumi Šemiačičiumi vedė priešo pajėgas į Severską.
@@ -315,8 +313,3 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Olegas (Riazanės kunigaikštis)]] buvo_valdovas Severskas
-- [[objektai/asmenys/Vaitiekus Kiočka]] buvo_valdovas Severskas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Severskas

@@ -32,8 +32,7 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63840
   teiginys: 'Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.'
   sudarymo_pagrindimas: 'Pašalinta kontekstinė pradžia ir suformuluotas pilnas sakinys.'
-  susije_objektai: 'territory: Austrija; territory: Prancūzija; territory: Prūsija; territory: Rusija; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Austrija; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Austrija; [[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Prancūzija; [[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Prūsija; [[objektai/asmenys/Kotryna II|Kotryna II]] buvo valdovas Rusija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Austrija; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Rusija'
   pagrindžia:
     - c-004
 
@@ -51,10 +50,9 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   global_id: t-63843
   teiginys: 'Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Kotryna II kaip asmeniu.'
-  susije_objektai: 'territory: Europa; territory: Rusija; mentioned_place: Europa; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kotryna II|Kotryna II]] valdė teritoriją Europa; [[objektai/asmenys/Kotryna II|Kotryna II]] valdė teritoriją Rusija'
-  temporaliniai_duomenys: 'valdymo pradžia: 1762-1796; valdymo pradžia: 1796 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kotryna II valdė teritoriją Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kotryna II valdė teritoriją Rusija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Rusija'
+  temporaliniai_duomenys: 'įvykio data: 1762-1796; įvykio data: 1796 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau susieti faktą su Kotryna II kaip asmeniu.'
   pagrindžia:
     - c-005
@@ -160,11 +158,3 @@ Kotryna II ir Čartoriskių sustiprėjimas. Poniatauskui grįžus namo, netrukus
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Kotryna II valde_teritorija [[objektai/vietos/Europa]]
-- Kotryna II valde_teritorija [[objektai/vietos/Rusija]]
-- Kotryna II buvo_valdovas [[objektai/vietos/Austrija]]
-- Kotryna II buvo_valdovas [[objektai/vietos/Prancūzija]]
-- Kotryna II buvo_valdovas [[objektai/vietos/Prūsija]]
-- Kotryna II buvo_valdovas [[objektai/vietos/Rusija]]

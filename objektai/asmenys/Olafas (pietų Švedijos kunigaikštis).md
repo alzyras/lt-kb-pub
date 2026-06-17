@@ -32,10 +32,10 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
   global_id: t-19181
   teiginys: 'Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų teiginį apie Olafo krikštą.'
-  susije_objektai: 'territory: Islandija; territory: Kijevas; territory: Kijevo Rusia; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Švedija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Islandija; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Kijevas; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Švedija'
+  susije_objektai: 'territory: Švedija; mentioned_object: [[objektai/zodynas/christianizacija|christianizacija]]; mentioned_person: [[objektai/asmenys/Adalbertas|Adalbertas]]; mentioned_person: [[objektai/asmenys/Netimeras|Netimeras]]; mentioned_place: Islandija; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)|Olafas (pietų Švedijos kunigaikštis)]] buvo valdovas Švedija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1008 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Islandija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Olafas (pietų Švedijos kunigaikštis) buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų teiginį apie Olafo krikštą.'
   pagrindžia:
     - c-001
@@ -59,10 +59,4 @@ Adalberto misija Prūsijoje (997), Norvegijos valdovo Olafo pradėta šalies chr
     - t-001
 
 ## Ryšiai
-- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Islandija]]
-- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Kijevas]]
-- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
-- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsija]]
 - Olafas (pietų Švedijos kunigaikštis) buvo_valdovas [[objektai/vietos/Švedija]]

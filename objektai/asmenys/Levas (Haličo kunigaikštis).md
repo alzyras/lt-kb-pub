@@ -23,8 +23,8 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 - t-001
   global_id: t-40306
   teiginys: 'Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.'
-  susije_objektai: 'territory: Haličas; territory: Kopylis; territory: Luckas; territory: Naugardukas; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Kopylis; mentioned_place: Luckas; mentioned_place: Naugardukas'
-  semantiniai_rysiai: '[[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]] buvo valdovas Haličas; [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]] buvo valdovas Kopylis; [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]] buvo valdovas Luckas; [[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]] buvo valdovas Naugardukas'
+  susije_objektai: 'territory: Haličas; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Haličas; mentioned_place: Kopylis; mentioned_place: Luckas; mentioned_place: Naugardukas'
+  semantiniai_rysiai: '[[objektai/asmenys/Levas (Haličo kunigaikštis)|Levas (Haličo kunigaikštis)]] buvo valdovas Haličas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171405|Totoriai]]: 1279 m. totoriai sąjungoje su Volinijos Levu apiplėšė Lietuvą.
@@ -53,6 +53,3 @@ Priešakiniai daliniai įsiveržė į Naugarduko papilį, o kitą dieną atžygi
 
 ## Ryšiai
 - Levas (Haličo kunigaikštis) buvo_valdovas [[objektai/vietos/Haličas]]
-- Levas (Haličo kunigaikštis) buvo_valdovas [[objektai/vietos/Kopylis]]
-- Levas (Haličo kunigaikštis) buvo_valdovas [[objektai/vietos/Luckas]]
-- Levas (Haličo kunigaikštis) buvo_valdovas [[objektai/vietos/Naugardukas]]

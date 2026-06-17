@@ -396,18 +396,4 @@ periodo_grupes:
 
 ## Ryšiai
 - [[objektai/asmenys/Prokopas]] kariavo_pries Zigmantas (Romos imperatorius)
-- Zigmantas (Romos imperatorius) prekiavo_su [[objektai/grupes/Normanai]]
-- Zigmantas (Romos imperatorius) buvo_valdovas [[objektai/vietos/Italija]]
-- Zigmantas (Romos imperatorius) buvo_valdovas [[objektai/vietos/Milanas]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Lietuva]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Livonija]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Maskva]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Mazovija]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Prūsija]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Riazanė]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Trakai]]
 - Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Tverė]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Valakija]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Vengrija]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Vilnius]]
-- Zigmantas (Romos imperatorius) keliavo_i [[objektai/vietos/Vokietija]]

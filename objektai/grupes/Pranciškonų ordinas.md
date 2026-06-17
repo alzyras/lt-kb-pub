@@ -111,8 +111,7 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
 - t-008
   global_id: t-108286
   teiginys: 'Karalius atėmė iš pranciškonų jurisdikciją mieste ir priemiesčiuose turėtiems valdiniams.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] susiję su Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-029
 
@@ -288,10 +287,9 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108308
   teiginys: 'Jokūbas I buvo lietuvių kilmės pranciškonas ir 1400-1407 m. valdė dieceziją.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Krokuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Aaronas|Aaronas]]; mentioned_person: [[objektai/asmenys/Jokūbas I|Jokūbas I]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] valdė teritoriją Krokuva; [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] valdė teritoriją Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: iki 1407 m.; valdymo laikotarpis: 1400-1407; valdymo laikotarpis: 1407 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pranciškonų ordinas valdė teritoriją Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pranciškonų ordinas valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/daiktai/Herbas|Herbas]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_person: [[objektai/asmenys/Aaronas|Aaronas]]; mentioned_person: [[objektai/asmenys/Jokūbas I|Jokūbas I]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1407 m.; įvykio data: 1400-1407; įvykio data: 1407 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-014
@@ -436,10 +434,10 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
   global_id: t-108326
   teiginys: 'Andrius Vosylius Jastrzębiecas, dar būdamas pranciškonų kunigas, kurį laiką gyveno Vilniuje prie Algirdo.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo apie asmenį; paliktas aiškus citatos faktas, susijęs su pranciškonu.'
-  susije_objektai: 'location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] gyveno Lietuva; [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] gyveno Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]] gyveno Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pranciškonų ordinas gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pranciškonų ordinas gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pranciškonų ordinas gyveno Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis sakinys buvo apie asmenį; paliktas aiškus citatos faktas, susijęs su pranciškonu.'
   pagrindžia:
     - c-030
@@ -1541,8 +1539,4 @@ Krikščionims Lietuvoje duota visiška laisvė, ir joje esą daug vienuolių pr
     - t-053
 
 ## Ryšiai
-- Pranciškonų ordinas valde_teritorija [[objektai/vietos/Krokuva]]
-- Pranciškonų ordinas valde_teritorija [[objektai/vietos/Vilnius]]
-- Pranciškonų ordinas gyveno [[objektai/vietos/Lietuva]]
 - Pranciškonų ordinas gyveno [[objektai/vietos/Vilnius]]
-- Pranciškonų ordinas susije_su [[objektai/vietos/Vilnius]]

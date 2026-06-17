@@ -77,8 +77,7 @@ saugoti Dubysos upyną.
   global_id: t-180740
   teiginys: 'Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai remiasi citatos duomenimis.'
-  susije_objektai: 'owner: Dubysa; owner: Klaipėda; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Nemunas; owner: [[objektai/asmenys/Palemonas|Palemonas]]; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; owner: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Klaipėda; mentioned_place: Nemunas'
-  semantiniai_rysiai: 'Veliuona priklausė [[objektai/asmenys/Palemonas|Palemonas]]; Veliuona priklausė [[objektai/asmenys/Vytautas|Vytautas]]; Veliuona priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Veliuona priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Veliuona priklausė Dubysa; Veliuona priklausė Klaipėda; Veliuona priklausė Nemunas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Klaipėda; mentioned_place: Nemunas'
   pagrindžia:
     - c-006
 
@@ -259,17 +258,7 @@ saugoti Dubysos upyną.
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie karaliaus buvimą Veliuonoje.'
   pagrindžia:
     - c-019
-- susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176387|Gediminas]]: Balińskis manė, kad Gediminas greičiau buvo palaidotas Veliuonoje, Gedimino kalne, o ne Vilniuje.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184508|Kryžiuočių ordinas]]: Medžiodamas prie Veliuonos karalius vos nepakliuvo į kryžiuočių pasalą, kurią surengė Rastenburgo komtūras.
-- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
-- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
-- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš [[objektai/grupes/Gelgaudai.md#claim-t-86792|Gelgaudai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš Klaipėda: Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.
 - susijęs iš [[objektai/asmenys/Bona.md#claim-t-87468|Bona]]: Karalienė Bona ir Vladislovas IV gausiai apdovanojo Veliuonos bažnyčią turtais, todėl jos klebonija tapo reikšmingiausia Žemaitijoje.
 - susijęs iš [[objektai/asmenys/Ditrichas fon Altenburgas.md#claim-t-186107|Ditrichas fon Altenburgas]]: 1339 m. Prūsijos magistras Ditrichas fon Altenburgas su vokiečių kariuomene įsiveržė į Lietuvą ir puolė Veliuoną.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
@@ -284,6 +273,7 @@ saugoti Dubysos upyną.
 - susijęs iš [[objektai/asmenys/Jurgis Vytautaitis.md#claim-t-39568|Jurgis Vytautaitis]]: Jurgis Vytautaitis buvo lietuvių vietininkas Pskove ir balandžio 13 d. žuvo mūšyje prie Izborsko.
 - susijęs iš [[objektai/asmenys/Kristupas Radvila.md#claim-t-87403|Kristupas Radvila]]: 1586 m. atviras Lietuvos Ponų Tarybos laiškas Kristupui Radvilai įpareigojo Vilniuje parinkti namus čiaušui Ibrahimui.
 - susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
+- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
 - susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
 - susijęs iš [[objektai/asmenys/Petras Goštautas.md#claim-t-184823|Petras Goštautas]]: Veliuonos įgulos vadas Goštautas pasidavė priešams, bet žuvo nuo nugalėtojų rankų jiems susiginčijus dėl belaisvio.
@@ -803,20 +793,4 @@ saugoti Dubysos upyną.
     - t-025
 
 ## Ryšiai
-- [[objektai/asmenys/Gediminas]] mire Veliuona
-- [[objektai/asmenys/Narimantas Gediminaitis]] valde_teritorija Veliuona
-- [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]] buvo_valdovas Veliuona
 - [[objektai/grupes/Kryžiuočių ordinas]] susije_su Veliuona
-- [[objektai/grupes/Eperješai]] priklause Veliuona
-- [[objektai/asmenys/Gediminas]] susije_su Veliuona
-- [[objektai/grupes/Gelgaudai]] priklause Veliuona
-- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Veliuona
-- [[objektai/vietos/Klaipėda]] priklause Veliuona
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] keliavo_i Veliuona
-- Veliuona priklause [[objektai/vietos/Dubysa]]
-- Veliuona priklause [[objektai/vietos/Klaipėda]]
-- Veliuona priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Veliuona priklause [[objektai/vietos/Nemunas]]
-- Veliuona priklause [[objektai/asmenys/Palemonas]]
-- Veliuona priklause [[objektai/grupes/Vokiečiai]]
-- Veliuona priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

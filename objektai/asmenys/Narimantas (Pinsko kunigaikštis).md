@@ -105,8 +105,5 @@ Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutin�
     - t-002
 
 ## Ryšiai
-- Narimantas (Pinsko kunigaikštis) valde_teritorija [[objektai/vietos/Lietuva]]
-- Narimantas (Pinsko kunigaikštis) valde_teritorija [[objektai/vietos/Nesvyžius]]
 - Narimantas (Pinsko kunigaikštis) valde_teritorija [[objektai/vietos/Turovas]]
-- Narimantas (Pinsko kunigaikštis) valde_teritorija [[objektai/vietos/Vilnius]]
 - Narimantas (Pinsko kunigaikštis) buvo_valdovas [[objektai/vietos/Pinskas]]

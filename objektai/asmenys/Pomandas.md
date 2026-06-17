@@ -78,8 +78,3 @@ Dusburgietis teigia, kad galop pats Kristus, kuris niekad nesiliauja gailestinga
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Pomandas buvo_valdovas [[objektai/vietos/Baiga]]
-- Pomandas buvo_valdovas [[objektai/vietos/Barta]]
-- Pomandas buvo_valdovas [[objektai/vietos/Partigala]]

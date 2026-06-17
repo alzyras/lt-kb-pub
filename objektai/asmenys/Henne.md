@@ -29,8 +29,7 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
 - t-002
   global_id: t-35088
   teiginys: 'Henne keliavo kartu su Vytautu ir parašė laišką Vokiečių Ordino magistrui.'
-  susije_objektai: 'location: Pronskas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Pronskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Henne|Henne]] keliavo į Pronskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Pronskas'
   pagrindžia:
     - c-002
 
@@ -97,6 +96,3 @@ Kaip iškilmingai Vytautas Didysis buvo sutinkamas ir ap­ dovanojamas, žinome 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Henne keliavo_i [[objektai/vietos/Pronskas]]

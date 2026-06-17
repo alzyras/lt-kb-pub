@@ -27,7 +27,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40454|T. Dambrava]]: Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.
 - susijęs iš [[objektai/asmenys/Frederikas Joachimas Mansfeldas.md#claim-t-40107|Frederikas Joachimas Mansfeldas]]: Dambravos raitarai smogė Frederiko Joachimo Mansfeldo kavaleristams iš flango.
 - susijęs iš [[objektai/asmenys/J. P. Sapiega.md#claim-t-53891|J. P. Sapiega]]: J. P. Sapiegos ir T. Dambravos raiteliai flanguose susikovė su atakuojančia švedų kavalerija.
 - susijęs iš [[objektai/asmenys/T. Dambrava.md#claim-t-40452|T. Dambrava]]: T. Dambravos vadovaujama reitarų vėliava prajojo Dauguvos pakrante ir atsidūrė E. J. Mansfeldo kavalerijos dešiniajame sparne.
@@ -61,6 +60,3 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/T. Dambrava]] buvo_valdovas Dambrava

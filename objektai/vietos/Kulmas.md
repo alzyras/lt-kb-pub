@@ -65,7 +65,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90751
   teiginys: 'Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lenkija; territory: Čekija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Čekija'
+  susije_objektai: 'territory: Lenkija; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Čekija'
   pagrindžia:
     - c-007
 
@@ -74,7 +74,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90752
   teiginys: 'Mozūrų kunigaikštis Konradas vyskupą Kristijoną įkurdino Mozūrams priklausiusio Kulmo žemės pakraštyje.'
   sudarymo_pagrindimas: 'Teiginys paverstas savarankišku sakiniu be kontekstinės pradžios.'
-  susije_objektai: 'territory: Lenkija; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-002
 
@@ -114,7 +114,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90756
   teiginys: 'Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.'
   sudarymo_pagrindimas: 'Pirminis teiginys nutrūkęs; citata pagrindžia perkėlimo veiksmą ir tikslą.'
-  susije_objektai: 'territory: Prūsija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-013
 
@@ -132,7 +132,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   global_id: t-90759
   teiginys: 'Kulmo ir Lubavo srityse gyveno mišrūs lenkų ir prūsų gyventojai.'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie Kulmo sritį; pirminė forma pernelyg ilga.'
-  susije_objektai: 'location: Lubavas; location: Prūsai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lubavas; mentioned_place: Prūsai'
+  susije_objektai: 'location: Prūsai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lubavas; mentioned_place: Prūsai'
   pagrindžia:
     - c-004
 
@@ -147,36 +147,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia vietą ir dabartinį atitikmenį; dokumentų sąrašas netinka claim tekstui.'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59934|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijos vyskupas Kristijonas ragino prūsus priimti krikščionybę.
-- susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai Prūsijoje veikė vyskupas Kristijonas.
-- susijęs iš Kujavija: Kunigaikštis Konradas valdė Mazoviją, Kujaviją ir Lenkiją tuo metu, kai veikė Prūsijos vyskupas Kristijonas.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
-- susijęs iš [[objektai/ivykiai/Vartenbergo apylinkių žmonių žudynės.md#claim-t-62521|Vartenbergo apylinkių žmonių žudynės]]: Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.
-- susijęs iš Vartenbergas: Vartenbergas buvo Kulmo žemėje ant kalno, buvusiame ežero viduryje, stovėjusi pilis, kurioje gyveno broliai ir ginklanešiai.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93419|Konradas (Mozūrijos kunigaikštis)]]: Mozūrų kunigaikštis Konradas, siekdamas pakrikštyti prūsus, įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-79083|Konradas]]: Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
-- susijęs iš [[objektai/ivykiai/Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis.md#claim-t-185643|Slaptos derybos dėl Lietuvos karalystės paskelbimo ir popiežiaus Martyno V priešinimasis]]: Popiežius Martynas V įspėjo Kulmo vyskupą neapvainikuoti Vytauto karaliaus vainiku ir nepakelti jo į Lietuvos karalius.
-- susijęs iš Kulmo žemė: Anlanto kunigaikštis perkėlė Kulmo miestą nuo senosios pilies į kalvą, taip siekdamas padaryti Kulmo žemę saugesnę.
-- susijęs iš Mozūrai: Mozūrų kunigaikštis Konradas įkurdino vyskupą Kristijoną Kulmo žemės pakraštyje.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
-- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
-- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
-- susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59946|Poponas iš Osternos]]: 1244 m. magistras Poponas atvyko su keturiais broliais, o dar šeši broliai atvyko iš Markos, Meiseno ir Tiuringijos.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78420|Pamedėnai]]: Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Belichovas: Belichovo pilis stovėjo Osos pakrantėje ir priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.
-- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
-- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
 - susijęs iš [[objektai/asmenys/Berlevinas.md#claim-t-60247|Berlevinas]]: Naujasis maršalas brolis Berlevinas pasipriešino Ditricho siūlymui pulti likusią priešų kariuomenės dalį prie pelkės.
@@ -216,6 +187,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/asmenys/Hermanas iš Šenenbergo.md#claim-t-60327|Hermanas iš Šenenbergo (karvedys, XIII a.)]]: Hermanas iš Šenenbergo buvo paskirtas Kulmo žemės krašto komtūru ir vadovavo kovoms su į Kulmo žemę įsiveržusiais sūduviais.
 - susijęs iš [[objektai/asmenys/Hermanas ton Senenbergas.md#claim-t-186210|Hermanas ton Senenbergas]]: Magistro pasiųstas Hermanas ton Senenbergas su menka kariauna sulaikė užpuolikus ir vėliau sumušė priešą.
 - susijęs iš [[objektai/asmenys/Jeronimas.md#claim-t-60150|Jeronimas]]: Jeronimas ragino dėl kryžiaus karo atsisakyti net šeimos kliūčių ir pulti prie kryžiaus karo vėliavos.
+- susijęs iš [[objektai/asmenys/Jonas (Sarginio sūnus).md#claim-t-60343|Jonas (Sarginio sūnus)]]: Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.
 - susijęs iš [[objektai/asmenys/Jonas (kancleris).md#claim-t-60342|Jonas (kancleris)]]: Kancleris Jonas buvo tarp liudytojų, dalyvavusių apie 1226 arba 1230 m. patvirtinant Kulmo ir Lubavos žemių dovanojimą Ordinui.
 - susijęs iš [[objektai/asmenys/Jėzus Kristus.md#claim-t-89879|Jėzus Kristus]]: Jėzus Kristus įvardijamas kaip pagalbininkas Teutonų ordino broliams per 53 metus palaužiant prūsus.
 - susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
@@ -308,6 +280,7 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178942|Kryžiuočių ordinas]]: Prūsams buvo sunkiau gintis nuo Kryžiuočių ordino, nes jie neturėjo vieningos valstybės ir negalėjo sutartinai priešintis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178983|Kryžiuočių ordinas]]: Teutonų ordino broliai pasiliko Vanckos kraštą Pomeranijos kunigaikštystėje, kur vėliau stovėjo Mevės pilis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179018|Kryžiuočių ordinas]]: Lietuvos žemdirbystę trikdė nuolatiniai kryžiuočių užpuolimai, kurių kartais būdavo po keturis ar penkis per metus.
+- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179108|Kryžiuočių ordinas]]: 231 Kryžiuočiai puolė 1233 m. spalio-lapkričio mėn.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179119|Kryžiuočių ordinas]]: Kryžiuočių ordino broliai perdavė Sartovicų pilį Samborui, o vėliau Sventopelkas pradėjo statyti Svečės pilį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-183884|Kryžiuočių ordinas]]: Hermano iš Zalcos rūpesčiu Teutonų namų ordinas pasipildė broliais, praturtėjo ir įgijo didelę galią bei šlovę.
@@ -862,26 +835,4 @@ tis Konradas, kuriam ypatingai rūpėjo pakrikštyti prūsus, vyskupą Kristijon
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Konradas]] valde_teritorija Kulmas
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]] valde_teritorija Kulmas
-- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Kulmas
-- [[objektai/grupes/Pamedėnai]] gyveno Kulmas
-- [[objektai/asmenys/Konradas]] buvo_valdovas Kulmas
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] buvo_valdovas Kulmas
-- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Kulmas
-- [[objektai/asmenys/Martynas V]] buvo_valdovas Kulmas
-- [[objektai/asmenys/Otokaras II]] buvo_valdovas Kulmas
-- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Kulmas
-- [[objektai/vietos/Belichovas]] priklause Kulmas
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Kulmas
-- [[objektai/asmenys/Divanas]] puole Kulmas
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Kulmas
-- [[objektai/asmenys/Konradas Švabas iš Elbingo]] susije_su Kulmas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Kulmas
-- [[objektai/asmenys/Odoničius]] keliavo_i Kulmas
-- [[objektai/grupes/Pamedėnai]] priklause Kulmas
-- [[objektai/asmenys/Poponas iš Osternos]] keliavo_i Kulmas
-- [[objektai/asmenys/Samboras]] keliavo_i Kulmas
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Kulmas
-- [[objektai/grupes/Sūduviai]] puole Kulmas
-- [[objektai/grupes/Sūduviai-jotvingiai]] puole Kulmas

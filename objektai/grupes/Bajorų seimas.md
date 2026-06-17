@@ -24,8 +24,7 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   global_id: t-19651
   teiginys: 'Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.'
   sudarymo_pagrindimas: 'Pradinis sakinys per ilgas ir kontekstinis; citata pagrindžia glaustesnę formuluotę.'
-  susije_objektai: 'territory: Krėva; territory: Lenkija; territory: Lenkijos karalystė; territory: Lietuva; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Krėva; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lenkija; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lenkijos karalystė; [[objektai/grupes/Bajorų seimas|Bajorų seimas]] susiję su Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Valstybės Taryba|Valstybės Taryba]]; mentioned_place: Krėva; mentioned_place: Lenkija; mentioned_place: Lenkijos karalystė; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -78,9 +77,3 @@ Kitaip nei Lenkijoje (jos valstybingumą greta monarcho įkūnijo valstybės tar
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Bajorų seimas (seimas) susije_su [[objektai/vietos/Krėva]]
-- Bajorų seimas (seimas) susije_su [[objektai/vietos/Lenkija]]
-- Bajorų seimas (seimas) susije_su [[objektai/vietos/Lenkijos karalystė]]
-- Bajorų seimas (seimas) susije_su [[objektai/vietos/Lietuva]]

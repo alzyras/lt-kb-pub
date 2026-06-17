@@ -30,9 +30,9 @@ amziai:
   global_id: t-77793
   teiginys: '1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Rusija; territory: Targovica; territory: Varšuva; mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva'
-  temporaliniai_duomenys: 'valdymo pradžia: 1792 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Targovica“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Stanislovas Augustas Poniatovskis (valdovas) buvo valdovas Varšuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Stanislovas Augustas|Stanislovas Augustas]]; mentioned_person: [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Rusija; mentioned_place: Targovica; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1792 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001

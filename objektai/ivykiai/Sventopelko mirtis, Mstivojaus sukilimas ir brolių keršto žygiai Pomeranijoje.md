@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: 'Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pradinis teiginys kartoja žodį „magistru“ ir ne visai sklandžiai perteikia citatos mintį.'
-  susije_objektai: 'territory: Pomeranija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija'
   pagrindžia:
     - c-002
 

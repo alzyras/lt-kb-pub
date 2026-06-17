@@ -236,14 +236,4 @@ periodo_grupes: []
     - t-005
 
 ## Ryšiai
-- Jadvyga valde_teritorija [[objektai/vietos/Lietuva]]
-- Jadvyga valde_teritorija [[objektai/vietos/Rusija]]
-- Jadvyga buvo_valdovas [[objektai/vietos/Lenkija]]
-- Jadvyga buvo_valdovas [[objektai/vietos/Lietuva]]
-- Jadvyga keliavo_i [[objektai/vietos/Alšėnai]]
-- Jadvyga keliavo_i [[objektai/vietos/Krokuva]]
-- Jadvyga keliavo_i [[objektai/vietos/Lenkija]]
-- Jadvyga keliavo_i [[objektai/vietos/Lietuva]]
-- Jadvyga keliavo_i [[objektai/vietos/Lvovas]]
-- Jadvyga keliavo_i [[objektai/vietos/Smolenskas]]
 - Jadvyga keliavo_i [[objektai/vietos/Vilnius]]

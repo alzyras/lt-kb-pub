@@ -39,8 +39,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
 - t-002
   global_id: t-82429
   teiginys: 'Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olesnickis|Jonas Olesnickis]] buvo valdovas Lietuva; [[objektai/asmenys/Jonas Olesnickis|Jonas Olesnickis]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -88,8 +87,7 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   global_id: t-82434
   teiginys: 'Jonas Olesnickis Vilniuje džiugiai sutiko atvykusį Vytautą, nes karalius jį jau buvo perspėjęs apie susitarimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį ir puslapinės nuorodos liekaną.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Olesnickis|Jonas Olesnickis]] buvo valdovas Lietuva; [[objektai/asmenys/Jonas Olesnickis|Jonas Olesnickis]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -320,7 +318,3 @@ Po jo 1390 m. tą vietą užėmė Jonas Olesnickis.
   statusas: verified
   pagrindžia:
     - t-012
-
-## Ryšiai
-- Jonas Olesnickis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Jonas Olesnickis buvo_valdovas [[objektai/vietos/Vilnius]]

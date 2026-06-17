@@ -59,10 +59,9 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   global_id: t-58413
   teiginys: 'Liudvikas iš Šipeno 1299 m. mirė ir buvo palaidotas Chełmžos katedros bažnyčioje.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo.'
-  susije_objektai: 'location: Chełmža; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]] mirė Chełmža'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Liudvikas iš Šipeno|Liudvikas iš Šipeno]]; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'mirties data: 1299 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas iš Šipeno mirė Chełmža“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie palaidojimą Kulmenzės katedroje, pradinėje versijoje yra antraštės triukšmo.'
   pagrindžia:
     - c-004
@@ -173,6 +172,3 @@ Dusburgietis teigia, kad gyvenvietė minima 1222 m. dokumente Lozos vardu (PUB, 
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Liudvikas iš Šipeno]] mire Chełmža

@@ -51,8 +51,7 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   global_id: t-87417
   teiginys: 'Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie asmenį.'
-  susije_objektai: 'territory: Kaunas; territory: Krymas; territory: Liublinas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_place: Kaunas; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Kaunas; [[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Krymas; [[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Liublinas; [[objektai/asmenys/Šach Achmedas|Šach Achmedas]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_place: Kaunas; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -180,9 +179,3 @@ Veltui Šach Achmedas, Perekopo ordos chanas, ir atkaklus Mendli Girėjaus prie�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šach Achmedas buvo_valdovas [[objektai/vietos/Kaunas]]
-- Šach Achmedas buvo_valdovas [[objektai/vietos/Krymas]]
-- Šach Achmedas buvo_valdovas [[objektai/vietos/Liublinas]]
-- Šach Achmedas buvo_valdovas [[objektai/vietos/Vilnius]]

@@ -32,8 +32,7 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
   global_id: t-60209
   teiginys: 'Steinavas nuvyko pas Karaliaučiaus komtūrą, išdavė Glapo paslaptį ir patarė komtūrui žygiuoti drauge su juo.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškių įvardžių; citata leidžia įvardyti veikėjus ir veiksmą.'
-  susije_objektai: 'location: Aistmarios; mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_place: Aistmarios'
-  semantiniai_rysiai: '[[objektai/asmenys/Steinavas|Steinavas]] keliavo į Aistmarios'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Glapas|Glapas]]; mentioned_place: Aistmarios'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/ivykiai/Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas.md#claim-t-66552|Glapo išdavystė, suėmimas ir varmių bei notangų pasidavimas]]: Glapo valdinys Steinavas išdavė Karaliaučiaus komtūrui Glapo planą pulti pilį Sembos žemėje prie Gėlavandenių marių.
@@ -71,6 +70,3 @@ Dusburgietis teigia, kad apie Glapo, varmių vado, mirtį ir varmių bei notang�
   pagrindžia:
     - t-003
     - t-002
-
-## Ryšiai
-- Steinavas keliavo_i [[objektai/vietos/Aistmarios]]

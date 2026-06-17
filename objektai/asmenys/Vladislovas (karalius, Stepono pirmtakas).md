@@ -24,8 +24,7 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
   global_id: t-87884
   teiginys: 'Karalius Vladislovas buvo suteikęs privilegijų Vilniaus katedros bažnyčiai ir tuometiniam vyskupui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o pradinė formuluotė yra OCR fragmentas.'
-  susije_objektai: 'territory: Bełskas; territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)|Vladislovas (karalius, Stepono pirmtakas)]] buvo valdovas Bełskas; [[objektai/asmenys/Vladislovas (karalius, Stepono pirmtakas)|Vladislovas (karalius, Stepono pirmtakas)]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus miesto cechai|Vilniaus miesto cechai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Bełskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -55,7 +54,3 @@ Mes su savo taryba, sėdinčia prie šono, išklausę ir gerai pasvėrę abie­ 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Vladislovas (karalius, Stepono pirmtakas) buvo_valdovas [[objektai/vietos/Bełskas]]
-- Vladislovas (karalius, Stepono pirmtakas) buvo_valdovas [[objektai/vietos/Vilnius]]

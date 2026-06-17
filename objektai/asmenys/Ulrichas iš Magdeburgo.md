@@ -33,8 +33,7 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   global_id: t-60214
   teiginys: 'Petras Dusburgietis rašė, kad Ulrichas iš Magdeburgo gyveno Karaliaučiaus brolių konvente ir buvo itin stipraus kūno sudėjimo.'
   sudarymo_pagrindimas: 'Reikia aiškios atribucijos, nes teiginys apima autoriaus apibūdinimą.'
-  susije_objektai: 'location: Prūsai; location: Prūsija; mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Ulrichas iš Magdeburgo|Ulrichas iš Magdeburgo]] gyveno Prūsai; [[objektai/asmenys/Ulrichas iš Magdeburgo|Ulrichas iš Magdeburgo]] gyveno Prūsija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Petras Dusburgietis|Petras Dusburgietis]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 
@@ -68,7 +67,3 @@ Dusburgietis teigia, kad apie brolį Ulrichą ir 50 prūsų žūtį Tuo metu Kar
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- Ulrichas iš Magdeburgo gyveno [[objektai/vietos/Prūsai]]
-- Ulrichas iš Magdeburgo gyveno [[objektai/vietos/Prūsija]]

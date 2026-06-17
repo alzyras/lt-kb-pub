@@ -30,10 +30,9 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
   global_id: t-87572
   teiginys: '1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, sakinys suformuluotas pilnai.'
-  susije_objektai: 'territory: Polockas; mentioned_group: [[objektai/grupes/Rogvoldovičiai|Rogvoldovičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Rostislavas Rogvoldovičius|Rostislavas Rogvoldovičius]] buvo valdovas Polockas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1129 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Rostislavas Rogvoldovičius buvo valdovas Polockas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rogvoldovičiai|Rogvoldovičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'įvykio data: 1129 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas antraštės ir OCR triukšmas, sakinys suformuluotas pilnai.'
   pagrindžia:
     - c-001
@@ -53,6 +52,3 @@ PIRMAS SKYRIUS ROSTISLAV AS, Rogvoldo sūnus, Polocko kunigaikštis, didž.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Rostislavas Rogvoldovičius buvo_valdovas [[objektai/vietos/Polockas]]

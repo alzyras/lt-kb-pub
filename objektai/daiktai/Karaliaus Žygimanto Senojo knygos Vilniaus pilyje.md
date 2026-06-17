@@ -59,7 +59,7 @@ Nenurodyta
   global_id: t-87080
   teiginys: 'Karalius Žygimantas Senasis Vilniaus pilyje saugojo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra linksnio klaida, o citata palaiko pataisytą sakinį.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

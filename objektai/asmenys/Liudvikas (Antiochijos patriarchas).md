@@ -22,8 +22,7 @@ atnaujinta: ''
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Liudviko atvykimą ir statusą.'
-  susije_objektai: 'location: Gardinas; location: Lietuva; mentioned_place: Gardinas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Antiochijos patriarchas)|Liudvikas (Antiochijos patriarchas)]] keliavo į Gardinas; [[objektai/asmenys/Liudvikas (Antiochijos patriarchas)|Liudvikas (Antiochijos patriarchas)]] keliavo į Lietuva'
+  susije_objektai: 'mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -83,7 +82,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Liudvikas (Antiochijos patriarchas) keliavo_i [[objektai/vietos/Gardinas]]
-- Liudvikas (Antiochijos patriarchas) keliavo_i [[objektai/vietos/Lietuva]]

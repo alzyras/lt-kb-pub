@@ -52,9 +52,3 @@ Dusburgietis teigia, kad sis, atkeliavęs į šventąjį miestą, pamatė, jog n
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Simeonas keliavo_i [[objektai/vietos/Italija]]
-- Simeonas keliavo_i [[objektai/vietos/Jeruzalė]]
-- Simeonas keliavo_i [[objektai/vietos/Viena]]
-- Simeonas keliavo_i [[objektai/vietos/Šventoji]]

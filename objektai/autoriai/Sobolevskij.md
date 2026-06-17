@@ -23,7 +23,7 @@ Jau prieš I pa­ saulinį karą buvo teigiama (Sobolevskij, A.
 - t-001
   global_id: t-30985
   teiginys: 'Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.'
-  susije_objektai: 'location: Dniepras; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Dniepras'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/autoriai/Spycinas.md#claim-t-30988|Spycinas]]: Spycinas buvo proistorikas.

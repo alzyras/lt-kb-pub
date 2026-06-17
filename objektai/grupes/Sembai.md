@@ -94,8 +94,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-175082
   teiginys: 'Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir suformuluotas aiškus faktas apie sembus.'
-  susije_objektai: 'owner: [[objektai/grupes/Bartai|Bartai]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: [[objektai/grupes/Notangai|Notangai]]; owner: [[objektai/grupes/Pagudėnai|Pagudėnai]]; owner: [[objektai/grupes/Pamedėnai|Pamedėnai]]; owner: Prūsai; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/grupes/Sembai|Sembai]] priklausė [[objektai/grupes/Bartai|Bartai]]; [[objektai/grupes/Sembai|Sembai]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Sembai|Sembai]] priklausė [[objektai/grupes/Notangai|Notangai]]; [[objektai/grupes/Sembai|Sembai]] priklausė [[objektai/grupes/Pagudėnai|Pagudėnai]]; [[objektai/grupes/Sembai|Sembai]] priklausė [[objektai/grupes/Pamedėnai|Pamedėnai]]; [[objektai/grupes/Sembai|Sembai]] priklausė Prūsai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
 
@@ -1006,11 +1005,3 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-025
-
-## Ryšiai
-- Sembai priklause [[objektai/grupes/Bartai]]
-- Sembai priklause [[objektai/grupes/Lietuviai]]
-- Sembai priklause [[objektai/grupes/Notangai]]
-- Sembai priklause [[objektai/grupes/Pagudėnai]]
-- Sembai priklause [[objektai/grupes/Pamedėnai]]
-- Sembai priklause [[objektai/vietos/Prūsai]]

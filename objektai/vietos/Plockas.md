@@ -64,12 +64,7 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_place: Mazovija; mentioned_place: Sochačevas'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis).md#claim-t-87880|Venceslavas (Mazovijos ir Plocko kunigaikštis)]]: Venceslavas tuo tarpsniu valdė Mazoviją ir Plocką, o 1321 m. sudarė sutartį su kryžiuočių Ordinu.
-- susijęs iš [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis).md#claim-t-87685|Henrikas (Mazovijos kunigaikštis)]]: Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.
 - susijęs iš [[objektai/asmenys/Vaclovas (Vanka).md#claim-t-60452|Vaclovas (Vanka)]]: Apie 1320 m. Plocko kunigaikštis Vaclovas Vanka vedė Gedimino dukterį.
-- susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176758|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176661|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.
 - susijęs iš [[objektai/asmenys/Boleslovas (Mazovijos kunigaikštis).md#claim-t-184681|Boleslovas (Mazovijos kunigaikštis)]]: Renkant karalių Piotrkovo seime, Plocko vyskupo patarti rinkėjai kėlė Mazovijos kunigaikštį Boleslovą.
 - susijęs iš [[objektai/asmenys/Bonislavas (Mazovijos kunigaikštis ).md#claim-t-87639|Bonislavas (Mazovijos kunigaikštis )]]: Gedimino laiškų rašytojas dviejuose laiškuose Mazovijos kunigaikštį vadino Bonislavu, nors Balińskis tokio kunigaikščio nerado.
 - susijęs iš [[objektai/asmenys/Dovydas (Gardino pilininkas).md#claim-t-173145|Dovydas (Gardino pilininkas)]]: Dusburgietis pasakoja, kad 1324 m. Gediminas pasiuntė Dovydą niokoti Mazovijos žemės.
@@ -208,9 +203,4 @@ Dusburgietis teigia, kad štai šitaip jie nusiaubė visą žemę, ir kunigaikš
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Venceslavas (Mazovijos ir Plocko kunigaikštis)]] valde_teritorija Plockas
-- [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)]] buvo_valdovas Plockas
 - [[objektai/asmenys/Vaclovas (Vanka)]] buvo_valdovas Plockas
-- [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]] buvo_valdovas Plockas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Plockas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Plockas

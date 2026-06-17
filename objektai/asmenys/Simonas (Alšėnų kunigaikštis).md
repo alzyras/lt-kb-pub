@@ -32,8 +32,8 @@ periodo_grupes:
   global_id: t-87573
   teiginys: 'Alšėnų kunigaikštis Simonas prisidėjo prie Žygimanto žygio į Švitrigailos dvarą Ašmenoje.'
   sudarymo_pagrindimas: 'Citata pagrindžia Simono dalyvavimą Žygimanto veiksme prieš Švitrigailą.'
-  susije_objektai: 'territory: Alšėnai; territory: Ašmena; territory: Trakai; territory: Vilnius; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Alšėnai; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Ašmena; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Trakai; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Alšėnai; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Alšėnai'
   pagrindžia:
     - c-001
 
@@ -42,10 +42,10 @@ periodo_grupes:
   global_id: t-87574
   teiginys: '1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   sudarymo_pagrindimas: 'Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime.'
-  susije_objektai: 'territory: Alšėnai; territory: Ašmena; territory: Polockas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Alšėnai; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Ašmena; [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Polockas'
+  susije_objektai: 'territory: Alšėnai; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Simonas (Alšėnų kunigaikštis)|Simonas (Alšėnų kunigaikštis)]] buvo valdovas Alšėnai'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Ašmena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Polockas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Simonas (Alšėnų kunigaikštis) buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata aiškiai nurodo datuotą pranešimą apie Simono dalyvavimą užpuolime.'
   pagrindžia:
     - c-002
@@ -134,7 +134,3 @@ periodo_grupes:
 
 ## Ryšiai
 - Simonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Alšėnai]]
-- Simonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Ašmena]]
-- Simonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Polockas]]
-- Simonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Trakai]]
-- Simonas (Alšėnų kunigaikštis) buvo_valdovas [[objektai/vietos/Vilnius]]

@@ -46,10 +46,10 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 - t-003
   global_id: t-51192
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.'
-  susije_objektai: 'territory: Maskva; territory: Odojevas; territory: Pskovas; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius|Vosylius]] valdė teritoriją Maskva; [[objektai/asmenys/Vosylius|Vosylius]] valdė teritoriją Odojevas; [[objektai/asmenys/Vosylius|Vosylius]] valdė teritoriją Pskovas'
+  susije_objektai: 'territory: Maskva; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius|Vosylius]] valdė teritoriją Maskva'
   temporaliniai_duomenys: 'valdymo pradžia: po 1425 m.; valdymo pradžia: 1425 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius valdė teritoriją Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius valdė teritoriją Odojevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius valdė teritoriją Pskovas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius valdė teritoriją Maskva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35030|Andrius Vosylius Jastrzębiecas]]: Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.
@@ -96,7 +96,3 @@ Bėgdamas iš totorių nelaisvės, Maskvos kunigaikščio sūnus Vosylius, apsil
 
 ## Ryšiai
 - Vosylius valde_teritorija [[objektai/vietos/Maskva]]
-- Vosylius valde_teritorija [[objektai/vietos/Odojevas]]
-- Vosylius valde_teritorija [[objektai/vietos/Pskovas]]
-- Vosylius puole [[objektai/vietos/Lenkija]]
-- Vosylius puole [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

@@ -34,7 +34,7 @@ amziai:
 - t-002
   global_id: t-70316
   teiginys: 'Vytauto laikais Orda buvo suskilusi, o atskiri saarai nuolat kariavo tarpusavyje.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

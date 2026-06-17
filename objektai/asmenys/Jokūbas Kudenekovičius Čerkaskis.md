@@ -33,8 +33,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   global_id: t-40211
   teiginys: 'Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.'
   sudarymo_pagrindimas: 'Teiginys aiškiai įvardija asmenį, veiksmą ir istorinį kontekstą, kuriuos patvirtina citata.'
-  susije_objektai: 'territory: Baltarusija; territory: Lenkija; territory: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Baltarusija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Lenkija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -58,8 +57,7 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas antraštės triukšmas ir sutvarkyta sakinio struktūra.'
-  susije_objektai: 'territory: Baltarusija; territory: Lenkija; territory: Rusija; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksejus Michailovičius|Aleksejus Michailovičius]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Baltarusija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Lenkija; [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis|Jokūbas Kudenekovičius Čerkaskis]] buvo valdovas Rusija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Aleksejus Michailovičius|Aleksejus Michailovičius]]; mentioned_place: Baltarusija; mentioned_place: Lenkija; mentioned_place: Rusija'
   pagrindžia:
     - c-002
 
@@ -105,8 +103,3 @@ Rusijos pajėgos Rusijos kariuomenei iš tikrųjų (oficialiai — pats caras Al
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-- Jokūbas Kudenekovičius Čerkaskis buvo_valdovas [[objektai/vietos/Baltarusija]]
-- Jokūbas Kudenekovičius Čerkaskis buvo_valdovas [[objektai/vietos/Lenkija]]
-- Jokūbas Kudenekovičius Čerkaskis buvo_valdovas [[objektai/vietos/Rusija]]

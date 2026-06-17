@@ -73,9 +73,6 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Livonija'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-183525|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77969|A. Smetona]]: 1940 m. birželio 15 d. vyriausybės posėdyje A. Smetonos siūlymą priešintis ginklu palaikė tik du ministrai.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77999|A. Voldemaras]]: A. Smetona ir A. Voldemaras pabrėžė stiprių prezidento galių būtinybę ir menkino politinių partijų vaidmenį.
 - susijęs iš [[objektai/asmenys/Antanas Merkys.md#claim-t-169957|Antanas Merkys]]: Krikščionys demokratai ir liaudininkai pareikalavo vietoje Antano Merkio ministru pirmininku paskirti Stasį Raštikį.
@@ -303,8 +300,3 @@ Krikščionys šiame fragmente pateikiami kaip agresyvi kolektyvinė jėga.
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] kariavo_pries Krikščionys
-- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]] kariavo_pries Krikščionys
-- Krikščionys dalyvavo_musyje [[objektai/ivykiai/Žygio prieš Vaikių valsčių nutraukimas po audros (1317 m. žiema)]]

@@ -205,7 +205,7 @@ amziai:
   global_id: t-119107
   teiginys: 'Valdovas nurodė, kad Naugarduke ir Vilniuje jau pastatytoms bažnyčioms tais metais reikia keturių brolių vienuolių.'
   sudarymo_pagrindimas: 'Pašalintas laiško kontekstas ir OCR triukšmas, paliktas pagrįstas faktas.'
-  susije_objektai: 'territory: Viena; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-009
 
@@ -345,7 +345,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos pasakojimui apie valdžią reikia atribucijos.'
-  susije_objektai: 'territory: Karačevas; territory: Lietuva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva'
   pagrindžia:
     - c-025
 
@@ -357,7 +357,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidų ir religinio pasakojimo kontekste reikia atribucijos.'
-  susije_objektai: 'location: Lietuva; location: Nemunas; location: Ryga; location: Viena; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_place: Lietuva; mentioned_place: Nemunas; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-026
 
@@ -369,7 +369,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos pasakojimui apie valdovo sūnaus grįžimą reikia atribucijos.'
-  susije_objektai: 'location: Bobruiskas; location: Brasta; location: Gardinas; location: Kaunas; location: Kražiai; location: Lietuva; location: Minskas; location: Pinskas; location: Sluckas; location: Smolenskas; location: Vitebskas; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Lietuva; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-027
 
@@ -381,18 +381,10 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos valdovų titulams ir karo pasakojimui reikia atribucijos.'
-  susije_objektai: 'territory: Lietuva; territory: Prūsai; territory: Ryga; territory: Viena; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ryga; mentioned_place: Viena'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ryga; mentioned_place: Viena'
   pagrindžia:
     - c-028
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Karijotas.md#claim-t-183748|Karijotas]]: Karijotas buvo Lietuvos valdovo Algirdo brolis ir valdė Lietuvos Naugarduką.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171433|Totoriai]]: Vytauto Lietuvoje įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir keliuose pavietuose.
-- susijęs iš [[objektai/paprociai/Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves.md#claim-t-87166|Totorių apgyvendinimas suteikiant tikėjimo laisvę, žemes ir laisves]]: Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.
-- susijęs iš Lietuva: Grįžęs į Naugarduką Vaišvilkas įkūrė vienuolyną prie Nemuno tarp Lietuvos ir Naugarduko ir ten gyveno.
-- susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
-- susijęs iš [[objektai/ivykiai/Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų.md#claim-t-185821|Naugarduko seimo sušaukimas siekiant išvengti ginkluotų susidūrimų (seimas)]]: Karalius, siekdamas išvengti ginkluotų susidūrimų, sušaukė Naugarduke seimą ir pats nuvyko į Lietuvą.
-- susijęs iš Sluckas: Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176299|Algirdas (Lietuvos valdovas)]]: Po Vilniaus pilių įkūrimo Vilnius tapo Algirdo sostine.
@@ -1139,10 +1131,4 @@ amziai:
     - t-035
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Naugardukas
 - [[objektai/asmenys/Karijotas]] valde_teritorija Naugardukas
-- [[objektai/asmenys/Jadvyga Jogailienė]] gyveno Naugardukas
-- [[objektai/grupes/Totoriai]] gyveno Naugardukas
-- [[objektai/asmenys/Levas (Haličo kunigaikštis)]] buvo_valdovas Naugardukas
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo_valdovas Naugardukas
-- [[objektai/vietos/Sluckas]] priklause Naugardukas

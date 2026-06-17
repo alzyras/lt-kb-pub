@@ -57,6 +57,3 @@ Zabiela, liepos 16 d. išžygiavęs į Lietuvos Brastą iš stovyklos prie Biels
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Mazovijos kunigaikščiai]] susije_su Bielsko

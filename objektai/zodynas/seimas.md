@@ -35,7 +35,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Vertinimas „nepagrįstai“ yra kronikos interpretacija, todėl reikia aiškios atribucijos.'
-  susije_objektai: 'territory: Brasta; territory: Luckas; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Brasta; mentioned_place: Luckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Brasta; mentioned_place: Luckas'
   pagrindžia:
     - c-002
 
@@ -47,7 +47,7 @@ Karalius, atleidęs kryžiuočių žygūną, sušaukė Lenčicos seimą. Bychovc
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta perteklinė detalė ir išlaikytas aiškus faktinis sakinys apie seimą.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Maskva; territory: Radomas; mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Radomas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos didikai|Lietuvos didikai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Radomas'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77965|A. Smetona]]: 1927 m. balandžio 12 d. A. Smetona paleido III Seimą ir taip pašalino krikščionis demokratus iš valdžios.

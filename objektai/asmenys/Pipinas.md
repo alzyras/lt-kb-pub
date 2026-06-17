@@ -32,8 +32,8 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
   global_id: t-59996
   teiginys: 'Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.'
   sudarymo_pagrindimas: 'Reikia pašalinti boilerplate ir suformuoti vientisą faktinį sakinį.'
-  susije_objektai: 'location: Pamedė; location: Pilaitė; location: Pilėnai; location: Viena; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] gyveno Pamedė; [[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilaitė; [[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilėnai; [[objektai/asmenys/Pipinas|Pipinas]] gyveno Viena'
+  susije_objektai: 'location: Pilaitė; mentioned_place: Pamedė; mentioned_place: Pilaitė; mentioned_place: Pilėnai; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Pipinas|Pipinas]] gyveno Pilaitė'
   pagrindžia:
     - c-003
 
@@ -132,7 +132,4 @@ Dusburgietis teigia, kad aprašydamas vieno iš pačių pirmųjų žinomų prūs
     - t-001
 
 ## Ryšiai
-- Pipinas gyveno [[objektai/vietos/Pamedė]]
 - Pipinas gyveno [[objektai/vietos/Pilaitė]]
-- Pipinas gyveno [[objektai/vietos/Pilėnai]]
-- Pipinas gyveno [[objektai/vietos/Viena]]

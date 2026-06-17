@@ -61,8 +61,7 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
 - t-005
   global_id: t-176318
   teiginys: 'Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.'
-  susije_objektai: 'location: Birutės kalnas; location: Lietuva; location: Maskva; location: Palanga; location: Vilnius; mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Birutė|Birutė]] mirė Birutės kalnas; [[objektai/asmenys/Birutė|Birutė]] mirė Lietuva; [[objektai/asmenys/Birutė|Birutė]] mirė Maskva; [[objektai/asmenys/Birutė|Birutė]] mirė Palanga; [[objektai/asmenys/Birutė|Birutė]] mirė Vilnius'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Algirdo žygiai į Maskvą|Algirdo žygiai į Maskvą]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Birutės kalnas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -315,10 +314,3 @@ Birutė šiame korpuse minima kaip Kęstučio žmona, Vytauto motina ir žinomo 
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- Birutė mire [[objektai/vietos/Birutės kalnas]]
-- Birutė mire [[objektai/vietos/Lietuva]]
-- Birutė mire [[objektai/vietos/Maskva]]
-- Birutė mire [[objektai/vietos/Palanga]]
-- Birutė mire [[objektai/vietos/Vilnius]]

@@ -62,10 +62,9 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   global_id: t-79225
   teiginys: '1633 m. rugsėjį Vladislovas Vaza atvyko į frontą su 15 tūkst. kariuomene.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Vaza|Vladislovas Vaza]] keliavo į Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Abiejų Tautų Respublika|Abiejų Tautų Respublika]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_person: [[objektai/asmenys/Kristupas Radvila|Kristupas Radvila]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1633 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas Vaza keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, konkretus ir paremtas citata.'
   pagrindžia:
     - c-007
@@ -245,6 +244,3 @@ Vladislovo Vazoslaikai (1632—1648 m.). Vladislovo asmuo ir elekcija 315. Santy
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vladislovas Vaza keliavo_i [[objektai/vietos/Lietuva]]

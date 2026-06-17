@@ -25,8 +25,6 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_place: Lenkija; mentioned_place: Lvovas; mentioned_place: Podolė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš Liublinas: Karalius Olbrachtas su broliu karalaičiu Zigmantu išvyko į Liubliną prieš abiejų šalių ponų suvažiavimą Parčeve.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184533|Lenkai]]: Lenkų seimas susirinko Parčeve, o lietuvių seimas Breste; po ginčų nutarta susitikti Lomžoje.
 - susijęs iš [[objektai/grupes/Seradzo lenkų seimas.md#claim-t-185455|Seradzo lenkų seimas (seimas)]]: Jogaila, nebesitikėdamas taikos su Boleslovu Švitrigaila, išvyko į Lenkiją ir sušaukė Seradzo lenkų seimą.
 - susijęs iš [[objektai/ivykiai/Aleksandro žygis Braclavo link Moldavijos kampanijoje.md#claim-t-186651|Aleksandro žygis Braclavo link Moldavijos kampanijoje]]: Lietuvos metraštis pasakoja, kad Parčevo seime Aleksandras ir Olbrachtas slapta sutarė pulti Moldaviją iš dviejų krypčių.
@@ -67,6 +65,3 @@ Po trumpalaikių paliaubų valdovai pasižadėjo vykti į Parčevą tartis dėl 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Parčevas

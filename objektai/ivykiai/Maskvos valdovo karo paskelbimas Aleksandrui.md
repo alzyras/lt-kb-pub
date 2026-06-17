@@ -34,7 +34,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko karo paskelbimo motyvus; teiginys perrašytas kaip aiškus faktinis sakinys.'
-  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

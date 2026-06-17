@@ -81,6 +81,3 @@ Lietuvos jungtinės pajėgos Lietuviai, žemaičiai, LDK rusų žemių kunigaik�
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Tochtamišas]] susije_su Lietuvos jungtinės pajėgos

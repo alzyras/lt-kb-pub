@@ -32,8 +32,7 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   global_id: t-63619
   teiginys: 'Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.'
   sudarymo_pagrindimas: 'Reikia išskleisti kontekstinį „pavojaus metu“ ir aiškiau suformuluoti sakinį.'
-  susije_objektai: 'territory: Lenkija; territory: Prūsai; territory: Rittersverderis; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rittersverderis'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Prūsai; [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)|Henrikas (Mozūrų kunigaikštis)]] buvo valdovas Rittersverderis'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_person: [[objektai/asmenys/Mozūrų kunigaikštis Henrikas|Mozūrų kunigaikštis Henrikas]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Rittersverderis'
   pagrindžia:
     - c-001
 
@@ -69,8 +68,3 @@ Kadangi mozūrai su ordinu gyveno geruoju, o, be to, Henrikas, viešėdamas pas 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Henrikas (Mozūrų kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Henrikas (Mozūrų kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsai]]
-- Henrikas (Mozūrų kunigaikštis) buvo_valdovas [[objektai/vietos/Rittersverderis]]

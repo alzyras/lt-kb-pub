@@ -58,7 +58,7 @@ Kreivoji pilis sudegė, dalis gyventojų žuvo ar išsibėgiojo, o Aukštutinė 
 - t-002
   global_id: t-54711
   teiginys: '1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Anglija; location: Lietuva; location: Prancūzija; location: Prūsija; location: Vilnius; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Anglija; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1390 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:

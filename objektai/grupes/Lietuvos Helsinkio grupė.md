@@ -42,10 +42,9 @@ amziai:
   global_id: t-74674
   teiginys: 'Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.'
   sudarymo_pagrindimas: 'Teiginys pilnas, konkretus ir pagrįstas citatoje išvardytais nariais.'
-  susije_objektai: 'owner: Lietuva; owner: Maskva; owner: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; owner: SSRS; owner: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; owner: [[objektai/asmenys/Viktoras Petkus|Viktoras Petkus]]; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_person: [[objektai/asmenys/Viktoras Petkus|Viktoras Petkus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė [[objektai/asmenys/Viktoras Petkus|Viktoras Petkus]]; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė Lietuva; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė Maskva; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_person: [[objektai/asmenys/Viktoras Petkus|Viktoras Petkus]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Tomas Venclova“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Viktoras Petkus“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Maskvos Helsinkio grupė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė SSRS“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas, konkretus ir pagrįstas citatoje išvardytais nariais.'
   pagrindžia:
     - c-001
@@ -67,10 +66,10 @@ amziai:
   global_id: t-74677
   teiginys: 'Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.'
   sudarymo_pagrindimas: 'Pradinis teiginys daugiausia kalba apie platesnį SSRS reiškinį; perrašyta susiejant faktą su note objektu.'
-  susije_objektai: 'owner: Lietuva; owner: Maskva; owner: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; owner: SSRS; owner: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė Lietuva; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė Maskva; [[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė SSRS'
+  susije_objektai: 'owner: SSRS; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: SSRS'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos Helsinkio grupė|Lietuvos Helsinkio grupė]] priklausė SSRS'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Tomas Venclova“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Maskvos Helsinkio grupė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė SSRS“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos Helsinkio grupė priklausė SSRS“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys daugiausia kalba apie platesnį SSRS reiškinį; perrašyta susiejant faktą su note objektu.'
   pagrindžia:
     - c-001
@@ -167,9 +166,4 @@ amziai:
     - t-005
 
 ## Ryšiai
-- Lietuvos Helsinkio grupė priklause [[objektai/vietos/Lietuva]]
-- Lietuvos Helsinkio grupė priklause [[objektai/vietos/Maskva]]
-- Lietuvos Helsinkio grupė priklause [[objektai/grupes/Maskvos Helsinkio grupė]]
 - Lietuvos Helsinkio grupė priklause [[objektai/vietos/SSRS]]
-- Lietuvos Helsinkio grupė priklause [[objektai/asmenys/Tomas Venclova]]
-- Lietuvos Helsinkio grupė priklause [[objektai/asmenys/Viktoras Petkus]]

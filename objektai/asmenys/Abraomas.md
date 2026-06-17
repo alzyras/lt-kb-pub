@@ -23,8 +23,7 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   global_id: t-60226
   teiginys: 'Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Melchizedekas|Melchizedekas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Melchizedekas|Melchizedekas]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Abraomas|Abraomas]] kariavo prieš [[objektai/asmenys/Melchizedekas|Melchizedekas]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Melchizedekas|Melchizedekas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Melchizedekas.md#claim-t-60387|Melchizedekas (kunigas)]]: Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.
@@ -51,6 +50,3 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Abraomas kariavo_pries [[objektai/asmenys/Melchizedekas|Melchizedekas (kunigas)]]

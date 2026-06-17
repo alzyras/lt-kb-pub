@@ -61,7 +61,7 @@ Nenurodyta
   global_id: t-67096
   teiginys: '1910 m. JAV gyveno 207 tūkst. lietuvių, kurie kūrė spaudą, draugijas ir organizacijas, chorų veiklą bei politines akcijas.'
   sudarymo_pagrindimas: 'Pirminis teiginys labiau akcentavo emigraciją, o citata leidžia suformuluoti tiesioginį faktą apie JAV lietuvių praktikas.'
-  susije_objektai: 'location: Lietuva; location: Rusija; mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Georgas (liet. Jurgis) Zauerveinas|Georgas (liet. Jurgis) Zauerveinas]]; mentioned_group: [[objektai/grupes/JAV lietuviai|JAV lietuviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1868 m.; gyvenimo laikotarpis: 1868 m.; gyvenimo laikotarpis: 1879 m.; gyvenimo laikotarpis: 1910 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys labiau akcentavo emigraciją, o citata leidžia suformuluoti tiesioginį faktą apie JAV lietuvių praktikas.'

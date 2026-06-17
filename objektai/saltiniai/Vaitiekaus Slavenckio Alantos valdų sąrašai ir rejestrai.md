@@ -36,7 +36,7 @@ Ponas Gabrielis Bekešas pats turi vaikų, palikuonių ir visiems pavieniams pav
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie rejestrų nuorašą, o pradinis teiginys yra nutrūkęs fragmentas.'
-  susije_objektai: 'territory: Alanta; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_place: Alanta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_person: [[objektai/asmenys/Gabrielius Bekešas|Gabrielius Bekešas]]; mentioned_place: Alanta'
   pagrindžia:
     - c-002
 

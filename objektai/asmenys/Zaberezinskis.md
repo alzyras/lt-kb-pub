@@ -49,7 +49,3 @@ Dalis maršalkos Zaberezinskio karių išsiveržė į priekį, bet totoriai juos
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Zaberezinskis buvo_valdovas [[objektai/vietos/Radomas]]
-- Zaberezinskis buvo_valdovas [[objektai/vietos/Vilnius]]

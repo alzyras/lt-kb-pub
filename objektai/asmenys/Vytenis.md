@@ -107,8 +107,7 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176830
   teiginys: 'Karalius Vytenis prašė atsiųsti du pranciškonus ir paskyrė jiems vietą bei jau pastatytą bažnyčią.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų prašymą ir paskyrimą.'
-  susije_objektai: 'territory: Prūsija; territory: Ryga; mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Prūsija; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] buvo valdovas Prūsija; [[objektai/asmenys/Vytenis|Vytenis]] buvo valdovas Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pranciškonų ordinas|Pranciškonų ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-013
 
@@ -196,10 +195,9 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
   global_id: t-176843
   teiginys: 'Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.'
   sudarymo_pagrindimas: 'Teiginį geriau suformuluoti apie Vytenio ryšį su Gediminu.'
-  susije_objektai: 'territory: Baiga; territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baiga; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytenis|Vytenis]] valdė teritoriją Baiga; [[objektai/asmenys/Vytenis|Vytenis]] valdė teritoriją Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1316-1341; valdymo laikotarpis: 1341 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytenis valdė teritoriją Baiga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytenis valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Baiga; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį geriau suformuluoti apie Vytenio ryšį su Gediminu.'
   pagrindžia:
     - c-012
@@ -945,9 +943,4 @@ Vytenis (1295-1316 m.) 65. Vytenis taip pat atgavo didžiąją dalį Palenkės (
 
 ## Ryšiai
 - Vytenis kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytenis valde_teritorija [[objektai/vietos/Baiga]]
-- Vytenis valde_teritorija [[objektai/vietos/Lietuva]]
 - Vytenis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vytenis buvo_valdovas [[objektai/vietos/Livonija]]
-- Vytenis buvo_valdovas [[objektai/vietos/Prūsija]]
-- Vytenis buvo_valdovas [[objektai/vietos/Ryga]]

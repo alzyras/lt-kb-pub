@@ -64,10 +64,9 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90015
   teiginys: '1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citatos pabaigos informacija.'
-  susije_objektai: 'territory: Barta; territory: Durbė; territory: Pomeranija; territory: Prūsai; territory: Prūsija; territory: Torunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Barta; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Durbė; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Prūsai; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Prūsija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] buvo valdovas Torunė'
-  temporaliniai_duomenys: 'valdymo pabaiga: po 1246 m.; valdymo pabaiga: 1246 m.; valdymo pabaiga: 1253 m.; valdymo pabaiga: 1254 m.; valdymo pabaiga: 1260 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sventopelkas buvo valdovas Barta“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Durbė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas buvo valdovas Torunė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/Prūsijos žemė|Prūsijos žemė]]; mentioned_person: [[objektai/asmenys/Henrikas Botelis|Henrikas Botelis]]; mentioned_place: Barta; mentioned_place: Durbė; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Torunė'
+  temporaliniai_duomenys: 'valdymo laikotarpis: po 1246 m.; valdymo laikotarpis: 1246 m.; valdymo laikotarpis: 1253 m.; valdymo laikotarpis: 1254 m.; valdymo laikotarpis: 1260 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip valdymo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra faktinis, gramatiškas ir paremtas citatos pabaigos informacija.'
   pagrindžia:
     - c-011
@@ -188,8 +187,7 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90028
   teiginys: 'Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'counterparty: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; mentioned_place: Svečė; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] kariavo prieš [[objektai/grupes/Pamedėnai|Pamedėnai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_place: Kristburgas; mentioned_place: Prūsija; mentioned_place: Svečė; mentioned_place: Viena'
   pagrindžia:
     - c-022
 
@@ -206,10 +204,10 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
   global_id: t-90030
   teiginys: 'Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir tiesiogiai pagrįstas citata apie Marienverderio statybą.'
-  susije_objektai: 'location: Bebras; location: Kaimas; location: Krokuva; location: Kujavija; location: Kulmas; location: Marienverderis; location: Nogatas; location: Pomeranija; location: Prūsai; location: Prūsija; location: Rizenburgas; location: Vroclavas; location: Vysla; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Bebras; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kaimas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Krokuva; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kujavija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kulmas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Marienverderis; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Nogatas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Prūsai; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Prūsija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Rizenburgas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Vroclavas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Vysla'
+  susije_objektai: 'location: Marienverderis; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Brunonas|Brunonas]]; mentioned_person: [[objektai/asmenys/Odoničius|Odoničius]]; mentioned_place: Bebras; mentioned_place: Kaimas; mentioned_place: Krokuva; mentioned_place: Kujavija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Nogatas; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Vroclavas; mentioned_place: Vysla'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Marienverderis'
   temporaliniai_duomenys: 'kelionės data: 1217 m.; kelionės data: 1232 m.; kelionės data: 1234 m.; kelionės data: apie 1234 m.; kelionės data: 1347 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sventopelkas keliavo į Bebras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Kaimas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Marienverderis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Nogatas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Pomeranija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Rizenburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Vroclavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sventopelkas keliavo į Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sventopelkas keliavo į Marienverderis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas ir tiesiogiai pagrįstas citata apie Marienverderio statybą.'
   pagrindžia:
     - c-023
@@ -265,8 +263,8 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
 - t-027
   global_id: t-90037
   teiginys: 'Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.'
-  susije_objektai: 'location: Kulmas; location: Marienverderis; location: Pomeranija; location: Prūsija; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Pomeranija; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Kulmas; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Marienverderis; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Pomeranija; [[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Prūsija'
+  susije_objektai: 'location: Marienverderis; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Pomeranija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Sventopelkas|Sventopelkas]] keliavo į Marienverderis'
   pagrindžia:
     - c-004
 
@@ -966,26 +964,5 @@ Minimas ir kaip Dusburgiečio „išdaviku“ vadinamas kunigaikštis, ir kaip b
     - t-009
 
 ## Ryšiai
-- Sventopelkas kariavo_pries [[objektai/grupes/Pamedėnai]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Barta]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Durbė]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Kulmas]]
 - Sventopelkas buvo_valdovas [[objektai/vietos/Pomeranija]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Poznanė]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Prūsai]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Prūsija]]
-- Sventopelkas buvo_valdovas [[objektai/vietos/Torunė]]
-- Sventopelkas keliavo_i [[objektai/vietos/Bebras]]
-- Sventopelkas keliavo_i [[objektai/vietos/Kaimas]]
-- Sventopelkas keliavo_i [[objektai/vietos/Krokuva]]
-- Sventopelkas keliavo_i [[objektai/vietos/Kujavija]]
-- Sventopelkas keliavo_i [[objektai/vietos/Kulmas]]
 - Sventopelkas keliavo_i [[objektai/vietos/Marienverderis]]
-- Sventopelkas keliavo_i [[objektai/vietos/Nogatas]]
-- Sventopelkas keliavo_i [[objektai/vietos/Pomeranija]]
-- Sventopelkas keliavo_i [[objektai/vietos/Prūsai]]
-- Sventopelkas keliavo_i [[objektai/vietos/Prūsija]]
-- Sventopelkas keliavo_i [[objektai/vietos/Rizenburgas]]
-- Sventopelkas keliavo_i [[objektai/vietos/Svečė]]
-- Sventopelkas keliavo_i [[objektai/vietos/Vroclavas]]
-- Sventopelkas keliavo_i [[objektai/vietos/Vysla]]

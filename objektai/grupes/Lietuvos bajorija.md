@@ -123,8 +123,7 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   global_id: t-96720
   teiginys: '1560 metais Vilniuje vykusiame Ponų Tarybos seime karalius leido Lietuvos bajorams rinkti delegatus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Lietuva; [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -163,10 +162,9 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   global_id: t-96726
   teiginys: '1560 m. Vilniuje vykusiame LDK Ponų Tarybos seime karalius leido bajorams rinkti delegatus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie bajorų delegatų rinkimą.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Lietuva; [[objektai/grupes/Lietuvos bajorija|Lietuvos bajorija]] susiję su Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'įvykio data: 1560 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuvos bajorija susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos bajorija susiję su Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata apie bajorų delegatų rinkimą.'
   pagrindžia:
     - c-005
@@ -406,7 +404,3 @@ Maža to, per savo delegaciją jis pareikalavo, kad Jogaila atsakytų, ar laiką
   pagrindžia:
     - t-014
     - t-011
-
-## Ryšiai
-- Lietuvos bajorija susije_su [[objektai/vietos/Lietuva]]
-- Lietuvos bajorija susije_su [[objektai/vietos/Vilnius]]

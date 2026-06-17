@@ -73,33 +73,16 @@ amziai:
   sudarymo_pagrindimas: 'Iš citatos pašalintas OCR triukšmas ir aiškiai įvardyti asmenys bei objektas.'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173148|Elžbieta (Žygimanto Augusto žmona)]]: Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.
-- susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
-- susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
 - susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
 - susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-184117|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
-- susijęs iš [[objektai/asmenys/Otokaras.md#claim-t-60399|Otokaras]]: Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius).md#claim-t-60453|Vaclovas (Čekijos ir Lenkijos karalius)]]: 1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Vaclovas (Čekijos karalius).md#claim-t-60454|Vaclovas (Čekijos karalius)]]: 1307 m. mirė Čekijos karalius Vaclovas, o Čekijos sostas atiteko svetimiesiems.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184861|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Į valdovų susitikimą karalius Vladislovas ir jo duktė Ona atvažiavo važiuoti.
 - susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/ivykiai/Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.).md#claim-t-59667|Otokaro II ir kryžiuočių puolimas prieš Sembą (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
 - susijęs iš [[objektai/ivykiai/Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.).md#claim-t-66805|Otokaro II žygis į Sembą ir sembų pajungimas broliams (1255 m.)]]: Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.
-- susijęs iš Kulmas: Vasario 1 d. Lenkijos karalius Lokietka su 6 tūkstančiais karių įsibrovė į Kulmo žemę ir ją siaubė penkias dienas bei naktis.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
 - susijęs iš [[objektai/asmenys/Egerbergas.md#claim-t-87658|Egerbergas]]: 1323 m. pradžioje Egerbergas su Zinnenbergu atvyko su stipriu kilmingų karių ir vasalų pulku iš Čekijos bei Pareinio žemių.
-- susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
-- susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
-- susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
-- susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
-- susijęs iš [[objektai/asmenys/Pršemyslas Otokaras II.md#claim-t-39630|Pršemyslas Otokaras II]]: Pršemyslas Otokaras II 1255 m. atvyko į pagalbą Ordinui ir inicijavo Karaliaučiaus pilies statybą.
-- susijęs iš [[objektai/asmenys/Zinnenbergas.md#claim-t-87893|Zinnenbergas]]: 1323 metų pradžioje riteriai Zinnenbergas ir Egerbergas atvyko su stipriu kilmingų karių ir vasalų pulku.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63418|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1307 m. Albrechtas į Čekijos sostą pakėlė savo sūnų.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63420|Albrechtas (Romos karalius)]]: Romos karalius Albrechtas pakėlė savo sūnų į Čekijos sostą, kai po Vaclovo ir jo sūnaus mirties sostas liko be įpėdinių.
 - susijęs iš [[objektai/asmenys/Albrechtas (Rudolfo sūnus).md#claim-t-184044|Albrechtas (Rudolfo sūnus)]]: Rudolfo sūnus Albrechtas vėliau tapo Romos karaliumi.
@@ -354,25 +337,10 @@ amziai:
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]] mire Čekija
-- [[objektai/asmenys/Albrechtas (Romos karalius)]] buvo_valdovas Čekija
-- [[objektai/asmenys/Bernardas iš Svidnicos]] buvo_valdovas Čekija
 - [[objektai/asmenys/Jonas Liuksemburgietis]] buvo_valdovas Čekija
-- [[objektai/asmenys/Otokaras]] buvo_valdovas Čekija
 - [[objektai/asmenys/Otokaras (Čekijos karalius)]] buvo_valdovas Čekija
 - [[objektai/asmenys/Otokaras II]] buvo_valdovas Čekija
 - [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)]] buvo_valdovas Čekija
 - [[objektai/asmenys/Vaclovas (Čekijos karalius)]] buvo_valdovas Čekija
-- [[objektai/asmenys/Vaclovas Čekietis]] buvo_valdovas Čekija
 - [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Čekija
-- [[objektai/asmenys/Vladislovas Lokietka]] buvo_valdovas Čekija
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Čekija
 - [[objektai/asmenys/Egerbergas]] keliavo_i Čekija
-- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]] keliavo_i Čekija
-- [[objektai/asmenys/Jonas]] keliavo_i Čekija
-- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Čekija
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] keliavo_i Čekija
-- [[objektai/asmenys/Petras iš Rozenbergo]] keliavo_i Čekija
-- [[objektai/asmenys/Pilypas]] keliavo_i Čekija
-- [[objektai/asmenys/Pršemyslas Otokaras II]] keliavo_i Čekija
-- [[objektai/asmenys/Zinnenbergas]] keliavo_i Čekija

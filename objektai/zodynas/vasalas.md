@@ -41,7 +41,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   global_id: t-111383
   teiginys: 'Geremferdenas atvyko į Vilnių, kad būtų pripažintas Lietuvos vasalu ir priimtų įvesdinimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie vasalo pripažinimą ir įvesdinimą.'
-  susije_objektai: 'location: Lietuva; location: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lietuva; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 
@@ -83,7 +83,7 @@ Todėl žodžiais jis dėjosi esąs ištikimas Jogailos ir Lenkijos vasalas ir i
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys turi neaiškių įvardžių ir yra per ilgas, todėl reikia aiškiai įvardyti Vytautą.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'territory: Lietuva; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
 - susijęs iš Kaunas: Planuota siena žemupyje buvo išvesta taip, kad Kaunas ir Rumšiškių plotas turėjo patekti Ordinui.

@@ -30,10 +30,10 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
   global_id: t-60453
   teiginys: '1300 m. Čekijos karalius Vaclovas buvo vainikuotas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
-  susije_objektai: 'territory: Dobrynė; territory: Lenkija; territory: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)|Vaclovas (Čekijos ir Lenkijos karalius)]] buvo valdovas Dobrynė; [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)|Vaclovas (Čekijos ir Lenkijos karalius)]] buvo valdovas Lenkija; [[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)|Vaclovas (Čekijos ir Lenkijos karalius)]] buvo valdovas Čekija'
+  susije_objektai: 'territory: Čekija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Dobrynė; mentioned_place: Lenkija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas (Čekijos ir Lenkijos karalius)|Vaclovas (Čekijos ir Lenkijos karalius)]] buvo valdovas Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1300 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaclovas (Čekijos ir Lenkijos karalius) buvo valdovas Dobrynė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vaclovas (Čekijos ir Lenkijos karalius) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vaclovas (Čekijos ir Lenkijos karalius) buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaclovas (Čekijos ir Lenkijos karalius) buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiksliai paremtas citata.'
   pagrindžia:
     - c-001
@@ -58,6 +58,4 @@ Dusburgietis teigia, kad apie Dobrynės žemės apiplėšimą ir 70 lietuvių ž
     - t-001
 
 ## Ryšiai
-- Vaclovas (Čekijos ir Lenkijos karalius) buvo_valdovas [[objektai/vietos/Dobrynė]]
-- Vaclovas (Čekijos ir Lenkijos karalius) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Vaclovas (Čekijos ir Lenkijos karalius) buvo_valdovas [[objektai/vietos/Čekija]]

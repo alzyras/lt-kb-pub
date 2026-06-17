@@ -216,14 +216,3 @@ Naujasis chanas Tochtamišas, kuris iš pradžių buvo didžiojo chano Timuro gl
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Tochtamišas susije_su [[objektai/grupes/Auksinė Orda]]
-- Tochtamišas susije_su [[objektai/vietos/Krymas]]
-- Tochtamišas susije_su [[objektai/grupes/Kryžiuočių ordinas]]
-- Tochtamišas susije_su [[objektai/vietos/Lietuva]]
-- Tochtamišas susije_su [[objektai/grupes/Lietuvos jungtinės pajėgos]]
-- Tochtamišas susije_su [[objektai/grupes/Rusai]]
-- Tochtamišas susije_su [[objektai/grupes/Totoriai]]
-- Tochtamišas susije_su [[objektai/grupes/Totorių pajėgos]]
-- Tochtamišas susije_su [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]

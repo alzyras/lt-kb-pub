@@ -56,8 +56,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   global_id: t-113967
   teiginys: 'Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir tiesiogiai atitinka citatos turinį.'
-  susije_objektai: 'territory: Kuršas; territory: Maskva; territory: Rusija; territory: Vilnius; territory: Švedija; mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] buvo valdovas Kuršas; [[objektai/asmenys/Steponas Batoras|Steponas Batoras]] buvo valdovas Maskva; [[objektai/asmenys/Steponas Batoras|Steponas Batoras]] buvo valdovas Rusija; [[objektai/asmenys/Steponas Batoras|Steponas Batoras]] buvo valdovas Vilnius; [[objektai/asmenys/Steponas Batoras|Steponas Batoras]] buvo valdovas Švedija'
+  susije_objektai: 'mentioned_place: Kuršas; mentioned_place: Maskva; mentioned_place: Rusija; mentioned_place: Vilnius; mentioned_place: Švedija'
   pagrindžia:
     - c-010
 
@@ -141,8 +140,7 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
 - t-012
   global_id: t-113976
   teiginys: 'Vilniaus miestiečių luomas Steponą Batorą laikė stipriu globėju, kokiu vėliau netapo nė vienas karalius.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Steponas Batoras|Steponas Batoras]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Vilniaus miestiečių luomas|Vilniaus miestiečių luomas]]; mentioned_object: [[objektai/zodynas/luomas|luomas]]; mentioned_object: [[objektai/zodynas/miestiečių luomas|miestiečių luomas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-018
 
@@ -1096,13 +1094,3 @@ Steponas Batoras šiame šaltinyje rodomas kaip Lietuvos ir Lenkijos valdovas, s
   pagrindžia:
     - t-017
     - t-002
-
-## Ryšiai
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Kuršas]]
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Lietuva]]
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Maskva]]
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Rusija]]
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Vilnius]]
-- Steponas Batoras buvo_valdovas [[objektai/vietos/Švedija]]
-- Steponas Batoras keliavo_i [[objektai/vietos/Lietuva]]
-- Steponas Batoras keliavo_i [[objektai/vietos/Vilnius]]

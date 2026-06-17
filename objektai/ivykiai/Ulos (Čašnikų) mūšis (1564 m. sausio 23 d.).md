@@ -40,9 +40,9 @@ Nenurodyta
   global_id: t-09884
   teiginys: 'Per Ulos (Čašnikų) mūšį žuvo apie 8000–10000 maskvėnų, o P. Šuiskio kūnas buvo atvežtas į Vilnių ir palaidotas stačiatikių katedroje.'
   sudarymo_pagrindimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
-  susije_objektai: 'location: Ivanskas; location: Lietuva; location: Vilnius; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Ivanskas; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_place: Ivanskas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1573 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kūnas mirė Ivanskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kūnas mirė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kūnas mirė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys pagrįstas citatomis, tik aiškiau susietas su note objektu.'
   pagrindžia:
     - c-004

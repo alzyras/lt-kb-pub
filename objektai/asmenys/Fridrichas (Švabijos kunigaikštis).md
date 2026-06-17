@@ -34,10 +34,9 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   global_id: t-60014
   teiginys: 'Švabijos kunigaikštis Fridrichas kreipėsi į savo brolį Henriką, kad šis tarpininkautų popiežiaus kurijoje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir paremtas pateikta ištrauka.'
-  susije_objektai: 'territory: Bremenas; territory: Prūsija; territory: Ryga; territory: Vokietija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras IV|Aleksandras IV]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Bremenas; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Bremenas; [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Prūsija; [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Ryga; [[objektai/asmenys/Fridrichas (Švabijos kunigaikštis)|Fridrichas (Švabijos kunigaikštis)]] buvo valdovas Vokietija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1190 m.; valdymo laikotarpis: po 1191 m.; valdymo laikotarpis: 1191 m.; valdymo laikotarpis: 1244 m.; valdymo laikotarpis: 1251 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Bremenas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Ryga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Švabijos kunigaikštis) buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Aleksandras IV|Aleksandras IV]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Vilhelmas|Vilhelmas]]; mentioned_place: Bremenas; mentioned_place: Prūsija; mentioned_place: Ryga; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1190 m.; įvykio data: po 1191 m.; įvykio data: 1191 m.; įvykio data: 1244 m.; įvykio data: 1251 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, faktinis ir paremtas pateikta ištrauka.'
   pagrindžia:
     - c-001
@@ -129,9 +128,3 @@ Dusburgietis teigia, kad vokiečių ordino pradžią jis datuoja 1190 m., kai Ak
   citata_rodoma: ''
   teiginio_tipas: saltinio_teiginys
   statusas: verified
-
-## Ryšiai
-- Fridrichas (Švabijos kunigaikštis) buvo_valdovas [[objektai/vietos/Bremenas]]
-- Fridrichas (Švabijos kunigaikštis) buvo_valdovas [[objektai/vietos/Prūsija]]
-- Fridrichas (Švabijos kunigaikštis) buvo_valdovas [[objektai/vietos/Ryga]]
-- Fridrichas (Švabijos kunigaikštis) buvo_valdovas [[objektai/vietos/Vokietija]]

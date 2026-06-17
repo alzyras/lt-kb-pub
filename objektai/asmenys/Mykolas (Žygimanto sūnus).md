@@ -34,8 +34,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   global_id: t-87558
   teiginys: 'Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.'
   sudarymo_pagrindimas: 'Pradinis claimas buvo apie Švitrigailą ir nutrūko; citata palaiko Mykolo pergalės faktą.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Ukmergė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo valdovas Lietuva; [[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo valdovas Livonija; [[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] buvo valdovas Ukmergė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ukmergė'
   pagrindžia:
     - c-001
 
@@ -119,8 +118,7 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas perteklinis vaizdingumas ir paliktas pagrindinis veiksmas.'
-  susije_objektai: 'location: Lenkija; location: Mazovija; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] keliavo į Lenkija; [[objektai/asmenys/Mykolas (Žygimanto sūnus)|Mykolas (Žygimanto sūnus)]] keliavo į Mazovija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lenkija; mentioned_place: Mazovija'
   pagrindžia:
     - c-008
 
@@ -339,10 +337,3 @@ Naudodamasis visuotine neapykanta, kurią per sa­ vo žiaurumą Lietuvoje buvo 
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- Mykolas (Žygimanto sūnus) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Mykolas (Žygimanto sūnus) buvo_valdovas [[objektai/vietos/Livonija]]
-- Mykolas (Žygimanto sūnus) buvo_valdovas [[objektai/vietos/Ukmergė]]
-- Mykolas (Žygimanto sūnus) keliavo_i [[objektai/vietos/Lenkija]]
-- Mykolas (Žygimanto sūnus) keliavo_i [[objektai/vietos/Mazovija]]

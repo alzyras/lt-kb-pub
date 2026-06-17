@@ -43,7 +43,6 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   susije_objektai: 'mentioned_place: Liepona; mentioned_place: Merūniškiai; mentioned_place: Sūduva; mentioned_place: Šešupė'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Spera.md#claim-t-186163|Spera]]: Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.
 - susijęs iš [[objektai/asmenys/Konradas Valenrodas.md#claim-t-87397|Konradas Valenrodas]]: Konradas Valenrodas 1391 m. kovo 12 d. buvo išrinktas didžiuoju magistru, o 1393 m. liepos 25 d. mirė.
 - susijęs iš [[objektai/asmenys/Spera.md#claim-t-186163|Spera]]: Spera valdė žemes tarp Nevėžio, Šventosios ir Širvintos upių ir prie didžiulio ežero pastatė pilį.
 - susijęs iš [[objektai/grupes/Anglai.md#claim-t-172069|Anglai]]: Anglija, Škotija ir Prancūzija savanoriais papildė vokiečių riterių būrius, susirinkusius Karaliaučiuje.
@@ -116,6 +115,3 @@ Sūduvos dykroje toliau siena buvo nužymėta upių krantais : visu Lieponos pau
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Spera]] valde_teritorija Širvinta

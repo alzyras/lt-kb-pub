@@ -61,7 +61,6 @@ tags:
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Nadruva'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/autoriai/Dundulienė P.md#claim-t-64574|Dundulienė P]]: Dundulienės P. darbas „Medžiai“ minimas bibliografijoje apie Romovę arba Romuvą.
 - susijęs iš [[objektai/autoriai/Friederici W.md#claim-t-60700|Friederici W]]: W. Friederici darbas „Über die Lage Romow’s...“ cituojamas siejant Auksinės žemupio vietovardžius Kreiwutschen ir Romanuppen su Kriviu ir Romuva.
 - susijęs iš [[objektai/autoriai/Jurginis J.md#claim-t-64663|Jurginis J]]: J. Jurginio darbas „Legendos“ minimas bibliografijoje apie Romovę arba Romuvą.

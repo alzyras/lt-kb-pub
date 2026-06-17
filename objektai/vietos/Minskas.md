@@ -187,11 +187,6 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-015
-- susijęs iš [[objektai/ivykiai/Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula.md#claim-t-185582|Karaliaus Žygimanto žygis prieš Glinskį ir nesėkminga Minsko apgula]]: Glinskis nutraukė Minsko apgulą, nužygiavo į Borisovą ir Oršą, o karalius Žygimantas atkakliai persekiojo atsitraukiantį Glinskį.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Danielius iš Lenčicos.md#claim-t-87647|Danielius iš Lenčicos]]: Apie 1580 m. Vilniuje klestėjo evangelikų reformatų Danieliaus iš Lenčicos spaustuvė.
 - susijęs iš [[objektai/asmenys/I. Zolotarenko.md#claim-t-40142|I. Zolotarenko]]: I. Zolotarenka vadovavo apie 20 000 kazokų, kurie buvo apsiautę Gomelį bei kitus miestus ir priartėjo prie Senojo Bychovo.
@@ -612,10 +607,3 @@ Minskas: iš jos miestų, kaip antai: Smolensko, Vitebsko, Minsko, Černigovo, s
   statusas: verified
   pagrindžia:
     - t-017
-
-## Ryšiai
-- [[objektai/asmenys/Skirmantas]] buvo_valdovas Minskas
-- [[objektai/asmenys/Žygimantas]] buvo_valdovas Minskas
-- [[objektai/vietos/Juodoji Rusia]] priklause Minskas
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Minskas
-- [[objektai/vietos/Vitebskas]] priklause Minskas

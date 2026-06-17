@@ -79,10 +79,3 @@ Kilo didelis pavojus karaliaus saugumui, tad Aleksandras, ponų patarimu, kariuo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Kiška buvo_valdovas [[objektai/vietos/Braclavas]]
-- Kiška buvo_valdovas [[objektai/vietos/Lietuva]]
-- Kiška buvo_valdovas [[objektai/vietos/Trakai]]
-- Kiška buvo_valdovas [[objektai/vietos/Vitebskas]]
-- Kiška buvo_valdovas [[objektai/vietos/Volynė]]

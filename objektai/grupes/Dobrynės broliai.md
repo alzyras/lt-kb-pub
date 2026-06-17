@@ -91,7 +91,6 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
-- susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
 - susijęs iš [[objektai/asmenys/Julijus Cezaris.md#claim-t-60035|Julijus Cezaris (vyskupas)]]: Pasak Dusburgiečio, Julijus Cezaris buvo vienas iš senaisiais laikais su prūsais kariavusių veikėjų.
 - susijęs iš [[objektai/grupes/Kristaus karių ordinas.md#claim-t-63011|Kristaus karių ordinas]]: Kunigaikštystė pilis, miestas Dobrynės broliai (Dobrynės ordinas) žr.
 - susijęs iš Kujavija: Dobrynės broliai gavo Kujavijoje žemės plotą arba dvarą, pavadintą Sedlcais.
@@ -203,6 +202,3 @@ Dusburgietis bando pateikti savotišką karų prieš prūsus genealogiją, pažy
   pagrindžia:
     - t-003
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Hugonas Butyras]] kariavo_pries Dobrynės broliai

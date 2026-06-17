@@ -32,10 +32,9 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
   global_id: t-87684
   teiginys: 'Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.'
   sudarymo_pagrindimas: 'Citata pagrindžia Henriko vaidmenį statant pilį ir jo žygius.'
-  susije_objektai: 'territory: Bajerburgas; territory: Lietuva; territory: Veliuona; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Lietuva; mentioned_place: Veliuona'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)|Henrikas (Bavarijos kunigaikštis)]] buvo valdovas Bajerburgas; [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)|Henrikas (Bavarijos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)|Henrikas (Bavarijos kunigaikštis)]] buvo valdovas Veliuona'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1337 m.; valdymo laikotarpis: apie 1337 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas (Bavarijos kunigaikštis) buvo valdovas Bajerburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Bavarijos kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Bavarijos kunigaikštis) buvo valdovas Veliuona“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Lietuva; mentioned_place: Veliuona'
+  temporaliniai_duomenys: 'pastatymo data: 1337 m.; pastatymo data: apie 1337 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip pastatymo data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Henriko vaidmenį statant pilį ir jo žygius.'
   pagrindžia:
     - c-001
@@ -61,8 +60,3 @@ Už mylios nuo Veliuonos, irgi ties Nemunu, stovi Bajer­ burgo pilis, pastatydi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Henrikas (Bavarijos kunigaikštis) buvo_valdovas [[objektai/vietos/Bajerburgas]]
-- Henrikas (Bavarijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Henrikas (Bavarijos kunigaikštis) buvo_valdovas [[objektai/vietos/Veliuona]]

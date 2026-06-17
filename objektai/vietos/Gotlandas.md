@@ -46,7 +46,6 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   pagrindžia:
     - c-001
-- susijęs iš Gedimino laiškas Hanzos miestams ir Gotlando pirkliams (1323 m.): Gedimino laiške Hanzos miestams ir Gotlando pirkliams teigiama, kad valdovas pasiuntė popiežiui laišką dėl susivienijimo su Bažnyčia.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176389|Gediminas]]: Gediminas laiške Hanzos miestams save titulavo lietuvių ir rusų karaliumi, Žemgalijos valdovu ir kunigaikščiu.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112510|Domininkonų ordinas]]: 1323 m. gegužės 26 d. laiškai buvo pasiųsti Saksų provincijos domininkonams, pranciškonams ir Hanzos miestams.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112517|Domininkonų ordinas]]: Domininkonai Vokietijoje, Čekijoje, Danijoje, Švedijoje, Norvegijoje ir Gotlande skelbė kryžiaus karą ir telkė naujus piligrimų būrius.
@@ -107,6 +106,3 @@ Archeolo­ giniai duomens parodo apie 650 m. prasidedančią didelę švedų eks
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Gediminas]] buvo_valdovas Gotlandas

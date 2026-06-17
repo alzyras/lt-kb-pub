@@ -53,7 +53,3 @@ Ten Vaitiekus Taboras, Vilniaus vyskupas, kartu su Foma, graikų tikėjimo dvasi
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Foma buvo_valdovas [[objektai/vietos/Dnepras]]
-- Foma buvo_valdovas [[objektai/vietos/Kijevas]]

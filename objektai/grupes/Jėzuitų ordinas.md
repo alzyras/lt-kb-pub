@@ -50,10 +50,9 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   global_id: t-172108
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius po kolegijos įkūrimo ir jėzuitų atkvietimo fundavo bei įsteigė įvairių mokslų viešąsias mokyklas.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų įvardį ir tiksliau perteikti citatos formuluotę.'
-  susije_objektai: 'object: Vilnius; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Jėzuitų ordinas|Jėzuitų ordinas]] pastatė Vilnius'
-  temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jėzuitų ordinas pastatė Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų įvardį ir tiksliau perteikti citatos formuluotę.'
   pagrindžia:
     - c-012
@@ -646,6 +645,3 @@ Jėzuitų ordinas buvo pati jaunoji vienuolių organizacija, 1540 m. įkurta kov
   statusas: verified
   pagrindžia:
     - t-024
-
-## Ryšiai
-- Jėzuitų ordinas pastate [[objektai/vietos/Vilnius]]

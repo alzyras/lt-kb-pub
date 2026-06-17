@@ -24,11 +24,10 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
   global_id: t-87601
   teiginys: 'Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, konkretus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Pinskas; territory: Prūsija; territory: Rusia; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Lietuva; [[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Pinskas; [[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Prūsija; [[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Rusia; [[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tautvilas|Tautvilas]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvila|Tautvila]] buvo valdovas Lietuva'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
 - susijęs iš [[objektai/asmenys/Patirgas.md#claim-t-96040|Patirgas]]: Patirgas buvo vyriausias Kęstučio sūnus ir 1348-1365 m. laikotarpiu lydėjo Algirdo bei Kęstučio žygius.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121171|Tautvilas]]: Iš Vytauto brolio Tautvilos buvo atimtas Naugardukas, o iš kunigaikščio Jono Algimantaičio — jo Alšėnai.
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
@@ -84,9 +83,4 @@ Puolėjų nuos­ toliai buvo irgi ne mažesni; be daugybės nukautų karių, pri
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Poloviečiai]] kariavo_pries Tautvila
 - Tautvila buvo_valdovas [[objektai/vietos/Lietuva]]
-- Tautvila buvo_valdovas [[objektai/vietos/Pinskas]]
-- Tautvila buvo_valdovas [[objektai/vietos/Prūsija]]
-- Tautvila buvo_valdovas [[objektai/vietos/Rusia]]
-- Tautvila buvo_valdovas [[objektai/vietos/Vilnius]]

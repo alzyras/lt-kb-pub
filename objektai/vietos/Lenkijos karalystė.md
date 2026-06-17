@@ -32,8 +32,7 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   global_id: t-114450
   teiginys: 'Jei valdovas mirtų Lenkijos Karalystėje, jis norėjo būti palaidotas Krokuvos pilies bažnyčios koplyčioje.'
   sudarymo_pagrindimas: 'Ilgas testamento fragmentas sutrumpintas iki paremto fakto.'
-  susije_objektai: 'location: Lenkijos karalystė; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Kūnas|Kūnas]] mirė Lenkijos karalystė'
+  susije_objektai: 'location: Krokuva; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -117,11 +116,11 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/posakiai/Viešpaties vardu Amen|Viešpaties vardu Amen]]; mentioned_person: [[objektai/asmenys/Žygimantas Senasis|Žygimantas Senasis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Viena'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-183533|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų Rusijoje buvo žinoma nuostata pretenduoti į LDK žemes kaip į tariamą istorinį paveldą.
 - susijęs iš [[objektai/asmenys/Ivanas Rūstusis.md#claim-t-18932|Ivanas Rūstusis]]: Nuo Ivano Rūsčiojo laikų buvo žinoma nuostata pretenduoti į LDK žemes kaip tariamą Rusijai priklausantį paveldą.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183538|Jogaila (kunigaikštis, XIV–XV a.)]]: Eidintas, Bumblauskas, Kulakauskas ir Tamošaitis Jogailos elgesį sudarant Krėvos sutartį aiškina ankstyvojo monarcho valstybės kaip nuosavybės samprata.
 - susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-183121|Bajorų seimas (seimas)]]: Lenkijoje greta monarcho valstybingumą įkūnijo valstybės taryba ir pradėjęs veikti bajorų seimas.
+- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
 - susijęs iš [[objektai/grupes/Didžioji Lietuvos kunigaikštystė.md#claim-t-96096|Didžioji Lietuvos kunigaikštystė]]: Liublino unijos akto trečiasis paragrafas skelbė, kad Didžioji Lietuvos Kunigaikštystė ir Lenkijos Karalystė sudaro vieną bendrą valstybę.
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74513|Lenkijos valstybės taryba (institucija)]]: Lenkijoje valstybingumą greta monarcho įkūnijo valstybės taryba ir jau pradėjęs veikti bajorų seimas.
 - susijęs iš [[objektai/grupes/Lenkijos valstybės taryba.md#claim-t-74514|Lenkijos valstybės taryba (institucija)]]: Lenkijos valstybės taryba greta monarcho įkūnijo Lenkijos valstybingumą.
@@ -343,7 +342,3 @@ Teritorija, kurioje ši autonomija veiktų, apibrėžta kaip etnografinės lietu
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Kūnas]] mire Lenkijos karalystė
-- [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]] susije_su Lenkijos karalystė

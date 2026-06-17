@@ -88,9 +88,6 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Čekija'
   pagrindžia:
     - c-005
-- susijęs iš Praga: Karalienė Jadvyga Prahoje įsteigė bendrabutį lietuviams studentams, kurie Pragos universitete mokėsi teologijos.
-- susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
-- susijęs iš [[objektai/posakiai/Menko grobio ir tuščios garbės pasigviešę.md#claim-t-86863|Menko grobio ir tuščios garbės pasigviešę]]: Apgultieji prancūzams priekaištavo, kad šie, menko grobio ir tuščios garbės pasigviešę, atvyko lieti krikščionių kraujo.
 - susijęs iš [[objektai/asmenys/Elžbieta (Ostrogo kunigaikštytė).md#claim-t-186036|Elžbieta (Ostrogo kunigaikštytė)]]: Persekiotojai prie Prahos užklupo Dimitrą ir Elžbietą, nužudė beginklį jaunikaitį, o Elžbietą sugrąžino motinai.
 - susijęs iš [[objektai/asmenys/Gurka.md#claim-t-186206|Gurka]]: Grafas Gurka kartu su Slucko kunigaikščiu Simeonu ilgą laiką kėlė naujus neramumus dėl Elžbietos.
 - susijęs iš [[objektai/asmenys/Imperatorius Vaclovas.md#claim-t-87516|Imperatorius Vaclovas]]: Prancūzai pasirinko Prahą dvikovos vieta, o imperatorių Vaclovą - abiejų tautų teisėju.
@@ -241,8 +238,3 @@ Pirmasis žinomas aisčių apaštalas buvo Prahos vyskupas šv. Tada imperatoriu
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Jadvyga Jogailienė]] pastate Praha
-- [[objektai/asmenys/Butrimas]] keliavo_i Praha
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Praha

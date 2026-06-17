@@ -58,8 +58,7 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia sąlyginį karaliaus atsakymą į maskvėnų reikalavimus.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Ivanas (Maskvos valdovas)|Ivanas (Maskvos valdovas)]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -168,6 +167,3 @@ Ivanas kaltino Aleksandrą rusų tikėjimo varžymu ir grasino karu, jei būtų 
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Ivanas (Maskvos valdovas) buvo_valdovas [[objektai/vietos/Lietuva]]

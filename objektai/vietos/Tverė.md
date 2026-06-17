@@ -73,7 +73,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - t-004
   global_id: t-180679
   teiginys: 'Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Maskva; location: Naugardas; location: Pskovas; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'location: Maskva; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-012
 
@@ -90,9 +90,9 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
 - t-006
   global_id: t-180681
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Riazanė; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Riazanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -205,7 +205,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   global_id: t-180699
   teiginys: '1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.'
   sudarymo_pagrindimas: 'Citata leidžia glaustai įvardyti Tverės kunigaikščių atvykimą.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Maskva; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Maskva; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Valakija; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -297,45 +297,19 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti turiningesnį faktą apie Tverę.'
-  susije_objektai: 'territory: Florencija; territory: Livonija; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Livonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Livonija'
   pagrindžia:
     - c-019
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
-- susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
-- susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-183741|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.
 - susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-39538|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.
-- susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/asmenys/Kazimieras Jogailaitis.md#claim-t-184753|Kazimieras Jogailaitis]]: Karalius Kazimieras Jogailaitis, mėgdamas ramybę, vengė karo su maskvėnais ir teisinosi paliaubomis su Vasiljevičiumi.
-- susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79108|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
 - susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185616|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185617|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Kojelavičiaus vertinimu, maskvėnų stiprėjimas kėlė pavojų lietuviams, tačiau karalius Kazimieras vengė karo.
-- susijęs iš Didysis Naugardas: Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.
-- susijęs iš Maskva: Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.
-- susijęs iš Riazanė: Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.
-- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
-- susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/posakiai/bedieviškąją Lietuvą.md#claim-t-28730|bedieviškąją Lietuvą]]: Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.
-- susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
 - susijęs iš Maskva: Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.
-- susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
-- susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
 - susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
-- susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-184369|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30193|Aleksandras (Mykolo sūnus)]]: Dėl Kalitos įkalbinėjimų 1338 m. Volgos totorių chanas Uzbekas išsikvietė Tverės kunigaikštį Aleksandrą (Mykolo sūnų).
 - susijęs iš [[objektai/asmenys/Aleksandras (Mykolo sūnus).md#claim-t-30194|Aleksandras (Mykolo sūnus)]]: Aleksandras su sūnumi greičiausiai dėl artimų ryšių su Gediminu buvo nužudyti totorių ordoje.
@@ -863,20 +837,7 @@ Kad ji nekliudytų, Gediminas su ja susigiminiavo, išleisdamas už Tverės kuni
     - t-026
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Tverė
 - [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Tverė
-- [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Tverė
 - [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]] buvo_valdovas Tverė
-- [[objektai/asmenys/Jonas Kalita]] buvo_valdovas Tverė
-- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]] buvo_valdovas Tverė
-- [[objektai/asmenys/Kazimieras Jogailaitis]] buvo_valdovas Tverė
-- [[objektai/asmenys/Madykas]] buvo_valdovas Tverė
 - [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Tverė
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]] buvo_valdovas Tverė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Tverė
-- [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Tverė
-- [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Tverė
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Tverė
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Tverė
-- [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Tverė
 - [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Tverė

@@ -63,10 +63,9 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   global_id: t-59995
   teiginys: '1295 m. Konradas iš Foichtvangeno atvyko į Prūsiją, parėmė brolius dovanomis ir paguodė juos pamokymais.'
   sudarymo_pagrindimas: 'Teiginys yra sklandus ir tiksliai perteikia citatos faktą.'
-  susije_objektai: 'location: Kimelis; location: Prūsai; location: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimelis; mentioned_place: Prūsai; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]] keliavo į Kimelis; [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]] keliavo į Prūsai; [[objektai/asmenys/Konradas iš Foichtvangeno|Konradas iš Foichtvangeno]] keliavo į Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_place: Kimelis; mentioned_place: Prūsai; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1295 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas iš Foichtvangeno keliavo į Kimelis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas iš Foichtvangeno keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas iš Foichtvangeno keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra sklandus ir tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-001
@@ -156,8 +155,3 @@ Dusburgietis teigia, kad apie tą patį Viename Vokietijos vienuolyne gyveno die
   pagrindžia:
     - t-001
     - t-005
-
-## Ryšiai
-- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Kimelis]]
-- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsai]]
-- Konradas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsija]]

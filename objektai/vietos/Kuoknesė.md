@@ -105,7 +105,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Viena'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79047|Jonas Karolis Katkevičius]]: Jonas Karolis Katkevičius 1608 m. rudenį grįžo į Livoniją ir per trumpą laiką išvadavo Kuoknesę bei Viljandį.
 - susijęs iš [[objektai/asmenys/Jonas Sicinskis.md#claim-t-40228|Jonas Sicinskis]]: Birželio 2–3 d. Kristupas Radvila Perkūnas pasiuntė rotmistrą Joną Sicinskį su daliniu smogti K. Carlsono Gyllenhielmo kariams.
 - susijęs iš [[objektai/asmenys/Karina Nilsdotter.md#claim-t-40260|Karina Nilsdotter]]: Karina Nilsdotter buvo Karolio Carlsono Gyllenhielmo motina.
@@ -244,6 +243,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- [[objektai/asmenys/Karolis IX]] buvo_valdovas Kuoknesė

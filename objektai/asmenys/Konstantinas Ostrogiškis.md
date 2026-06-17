@@ -70,8 +70,7 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Konstantiną Ostrogiškį ir yra paremtas citata.'
-  susije_objektai: 'territory: Krymas; territory: Maskva; territory: Volynė; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] buvo valdovas Krymas; [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] buvo valdovas Maskva; [[objektai/asmenys/Konstantinas Ostrogiškis|Konstantinas Ostrogiškis]] buvo valdovas Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Volynė'
   pagrindžia:
     - c-004
 
@@ -227,8 +226,3 @@ Gotikos stiliumi perstatydinęs Vilniaus ir Naugarduko cerkves, Konstantinas Ost
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- Konstantinas Ostrogiškis buvo_valdovas [[objektai/vietos/Krymas]]
-- Konstantinas Ostrogiškis buvo_valdovas [[objektai/vietos/Maskva]]
-- Konstantinas Ostrogiškis buvo_valdovas [[objektai/vietos/Volynė]]

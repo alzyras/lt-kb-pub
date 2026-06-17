@@ -27,10 +27,9 @@ amziai:
   global_id: t-28314
   teiginys: 'Nuo 1949 m. J. Jakštas emigracijoje gyveno Clevelande ir produktyviai reiškėsi Lietuvos istorijos lauke.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Clevelandas; mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Gediminas|Gediminas]] gyveno Clevelandas'
+  susije_objektai: 'location: Lietuva; mentioned_author: [[objektai/autoriai/J. Jakštas|J. Jakštas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: po 1949 m.; gyvenimo laikotarpis: 1949 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas gyveno Clevelandas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip gyvenimo laikotarpis su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
@@ -49,6 +48,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Gediminas]] gyveno Clevelandas

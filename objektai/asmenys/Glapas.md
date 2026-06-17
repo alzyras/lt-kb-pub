@@ -63,8 +63,7 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   global_id: t-89792
   teiginys: 'Varmių vadas Glapas, gavęs pabėgusios prūsės pranešimą, su daugybe karių atvyko ir užėmė pilį.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad teiginio veikėjas būtų Glapas ir sakinys būtų enciklopedinis.'
-  susije_objektai: 'location: Prūsai; location: Viena; mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Prūsai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Glapas|Glapas]] keliavo į Prūsai; [[objektai/asmenys/Glapas|Glapas]] keliavo į Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Varmiai|Varmiai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_place: Prūsai; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -185,7 +184,3 @@ Dusburgietis teigia, kad [dienos) išvakarėse, prūsai, matydami, jog broliai �
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- Glapas keliavo_i [[objektai/vietos/Prūsai]]
-- Glapas keliavo_i [[objektai/vietos/Viena]]

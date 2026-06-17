@@ -43,8 +43,7 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinė formuluotė paremta citata, bet reikia aiškesnių veikėjų.'
-  susije_objektai: 'territory: Chotinas; territory: Valachija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Chotinas; mentioned_place: Valachija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Tarnovskis|Jonas Tarnovskis]] buvo valdovas Chotinas; [[objektai/asmenys/Jonas Tarnovskis|Jonas Tarnovskis]] buvo valdovas Valachija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Chotinas; mentioned_place: Valachija'
   pagrindžia:
     - c-003
 
@@ -99,7 +98,3 @@ Pasiuntė tada į Lietuvą delegaciją iš didžiausių Vytauto ka­ rūnacijos 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Jonas Tarnovskis buvo_valdovas [[objektai/vietos/Chotinas]]
-- Jonas Tarnovskis buvo_valdovas [[objektai/vietos/Valachija]]

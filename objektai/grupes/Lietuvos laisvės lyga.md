@@ -61,10 +61,10 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18826|Antanas Terleckas]]: Antanas Terleckas priklausė prieš sovietų santvarką kovojusiems asmenims ir buvo teistas tris kartus.
-- susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
 - susijęs iš [[objektai/asmenys/Antanas Terleckas.md#claim-t-18827|Antanas Terleckas]]: Antanas Terleckas, LLL įkūrėjas ir vadovas, save vadino rezistentu ir siekė taikiomis priemonėmis atkurti Lietuvos nepriklausomybę.
 - susijęs iš [[objektai/asmenys/Nijolė Sadūnaitė.md#claim-t-19173|Nijolė Sadūnaitė]]: Nijolė Sadūnaitė buvo kalinta už kovą prieš sovietų santvarką.
 - susijęs iš [[objektai/asmenys/Petras Cidzikas.md#claim-t-19190|Petras Cidzikas]]: Petras Cidzikas buvo kalintas už kovą prieš sovietų santvarką.
+- susijęs iš [[objektai/asmenys/Romaldas Juozas Ragaišis.md#claim-t-19206|Romaldas Juozas Ragaišis]]: Romaldas Juozas Ragaišis priklausė Lietuvos laisvės lygai ir buvo tris kartus teistas.
 - susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74670|Lietuvos disidentai]]: Sovietinė valdžia žinomus Lietuvos disidentus išsiųsdavo iš Sovietų Sąjungos, o kitus suimdavo ir nuteisdavo.
 - susijęs iš [[objektai/grupes/Lietuvos disidentai.md#claim-t-74672|Lietuvos disidentai]]: Lietuvos disidentai, skirtingai nei katalikų opozicija, kėlė Lietuvos laisvės klausimus.
 - susijęs iš [[objektai/ivykiai/LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.).md#claim-t-20247|LLL mitingas prie Adomo Mickevičiaus paminklo Vilniuje (1987 m. rugpjūčio 23 d.)]]: Lietuvos laisvės lyga Vilniuje surengė pirmąjį sovietmečiu viešą nesankcionuotą mitingą Molotovo–Ribentropo paktui paminėti.
@@ -127,7 +127,3 @@ LLL Lietuvos laisvės lyga. Savo aktyvumu išsiskyrė 1978 m. įkurta Lietuvos l
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Antanas Terleckas]] susije_su Lietuvos laisvės lyga
-- [[objektai/asmenys/Petras Cidzikas]] susije_su Lietuvos laisvės lyga

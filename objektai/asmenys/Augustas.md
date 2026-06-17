@@ -22,8 +22,7 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti Augustą kaip teiginio objektą.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] buvo valdovas Lietuva; [[objektai/asmenys/Augustas|Augustas]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -38,8 +37,6 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86693|Vilniaus gyventojai]]: Dalis Šv. Jono bažnyčios pajamų priklausė Vilniaus gyventojams, priklausiusiems Šv. Jono brolijai.
-- susijęs iš [[objektai/grupes/Šv. Jono brolija.md#claim-t-54836|Šv. Jono brolija]]: Dalis Šv. Jono bažnyčios pajamų priklausė Šv. Jono brolijai priklausiusiems Vilniaus gyventojams.
 - susijęs iš [[objektai/asmenys/Albinas (Vilniaus sufraganas).md#claim-t-87611|Albinas (Vilniaus sufraganas)]]: Po Vilniaus sufragano Albino mirties kapitula jo biblioteką atidavė jėzuitams.
 - susijęs iš [[objektai/asmenys/Andrius Volanas.md#claim-t-87626|Andrius Volanas]]: Andrius Volanas garsėjo mokslu ir rašytojo talentu, o Vilniuje uoliai skleidė reformatų idėjas.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173121|Barbora Radvilaitė]]: Barbora Radvilaitė buvo Vilniaus kašteliono Jurgio dukra ir Trakų vaivados Goštauto našlė.
@@ -370,26 +367,5 @@ Augustas gavo valdyti Lietuvos Didžiąją Kunigaikštystę, kai karalius dėl m
     - t-002
 
 ## Ryšiai
-- Augustas mire [[objektai/vietos/Vilniaus katedra]]
-- Augustas mire [[objektai/vietos/Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b]]
-- Augustas valde_teritorija [[objektai/vietos/Kaimas]]
-- Augustas valde_teritorija [[objektai/vietos/Lietuva]]
-- Augustas valde_teritorija [[objektai/vietos/Vilnelė]]
-- Augustas valde_teritorija [[objektai/vietos/Vitebskas]]
-- Augustas gyveno [[objektai/vietos/Vilnius]]
-- Augustas buvo_valdovas [[objektai/vietos/Krokuva]]
-- Augustas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Augustas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Augustas buvo_valdovas [[objektai/vietos/Maskva]]
-- Augustas buvo_valdovas [[objektai/vietos/Prancūzija]]
-- Augustas buvo_valdovas [[objektai/vietos/Vilnius]]
-- Augustas keliavo_i [[objektai/vietos/Anglija]]
-- Augustas keliavo_i [[objektai/vietos/Inovroclavas]]
 - Augustas keliavo_i [[objektai/vietos/Krokuva]]
-- Augustas keliavo_i [[objektai/vietos/Lietuva]]
-- Augustas keliavo_i [[objektai/vietos/Prūsija]]
-- Augustas keliavo_i [[objektai/vietos/Rūdninkai]]
-- Augustas keliavo_i [[objektai/vietos/Torunė]]
 - Augustas keliavo_i [[objektai/vietos/Vilnius]]
-- [[objektai/grupes/Vilniaus gyventojai]] priklause Augustas
-- [[objektai/grupes/Šv. Jono brolija]] priklause Augustas

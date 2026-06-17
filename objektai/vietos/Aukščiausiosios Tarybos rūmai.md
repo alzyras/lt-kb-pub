@@ -57,8 +57,6 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Jonas Gečas.md#claim-t-40217|Jonas Gečas]]: 1991 m. Jonas Gečas priklausė Aukščiausiosios Tarybos gynybos štabui.
-- susijęs iš [[objektai/asmenys/Virginijus Česnulevičius.md#claim-t-79217|Virginijus Česnulevičius]]: Virginijus Česnulevičius 1991 m. priklausė Aukščiausiosios Tarybos gynybos štabui.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77984|A. Smetona]]: 1919 m. rugsėjo 26 d. Kaune prezidentas A. Smetona iš balkono sveikino minias, susirinkusias dėl Didžiosios Britanijos de facto pripažinimo.
 - susijęs iš [[objektai/asmenys/Aloyzas Sakalas.md#claim-t-18803|Aloyzas Sakalas]]: 1990 m. kovo 11 d. Aloyzas Sakalas buvo Lietuvos Respublikos Aukščiausiosios Tarybos Prezidiumo narys.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75729|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: 1919 m. rugsėjo 26 d. Kaune prezidentas Antanas Smetona iš balkono sveikino minias po Didžiosios Britanijos de facto pripažinimo.
@@ -215,6 +213,3 @@ Aukščiausiosios Tarybos rūmai šiame šaltinyje aprašomi kaip pagrindinė 19
   pagrindžia:
     - t-006
     - t-004
-
-## Ryšiai
-- [[objektai/grupes/Aukščiausiosios Tarybos gynybos štabas|Aukščiausiosios Tarybos gynybos štabas (institucija)]] priklause Aukščiausiosios Tarybos rūmai (institucija)

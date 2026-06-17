@@ -32,10 +32,10 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
   global_id: t-60195
   teiginys: '1292 m. Lietuvos karalius Pukuveras pasiuntė sūnų Vytenį su didele kariuomene į Lenkijos Bresto žemę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata bei jos datos paaiškinimu.'
-  susije_objektai: 'territory: Kujavija; territory: Lenkija; territory: Lietuva; territory: Prūsija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Kujavija; [[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lenkija; [[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lietuva; [[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Prūsija'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kujavija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Pukuveras|Pukuveras]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1292 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Kujavija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pukuveras (Lietuvos karalius, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus ir paremtas citata bei jos datos paaiškinimu.'
   pagrindžia:
     - c-001
@@ -109,7 +109,4 @@ Dusburgietis mini ir Lietuvos valdovus — karalius (rex Lethowie; rex Lethowino
     - t-002
 
 ## Ryšiai
-- Pukuveras (Lietuvos karalius, XIII a.) buvo_valdovas [[objektai/vietos/Kujavija]]
-- Pukuveras (Lietuvos karalius, XIII a.) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Pukuveras (Lietuvos karalius, XIII a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Pukuveras (Lietuvos karalius, XIII a.) buvo_valdovas [[objektai/vietos/Prūsija]]

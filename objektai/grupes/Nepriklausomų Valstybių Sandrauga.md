@@ -29,10 +29,9 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   global_id: t-19957
   teiginys: 'Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata.'
-  susije_objektai: 'location: Lietuva; location: Rusija; mentioned_place: Lietuva; mentioned_place: Rusija'
-  semantiniai_rysiai: '[[objektai/grupes/Nepriklausomų Valstybių Sandrauga|Nepriklausomų Valstybių Sandrauga]] keliavo į Lietuva; [[objektai/grupes/Nepriklausomų Valstybių Sandrauga|Nepriklausomų Valstybių Sandrauga]] keliavo į Rusija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'kelionės data: 1998 m.; kelionės data: 1998-1999; kelionės data: 1999 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Nepriklausomų Valstybių Sandrauga keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Nepriklausomų Valstybių Sandrauga keliavo į Rusija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja NVS su Lietuvos prekių eksporto kryptimi prieš krizę ir remiasi citata.'
   pagrindžia:
     - c-001
@@ -55,7 +54,3 @@ Kadangi iki krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valst
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Nepriklausomų Valstybių Sandrauga keliavo_i [[objektai/vietos/Lietuva]]
-- Nepriklausomų Valstybių Sandrauga keliavo_i [[objektai/vietos/Rusija]]

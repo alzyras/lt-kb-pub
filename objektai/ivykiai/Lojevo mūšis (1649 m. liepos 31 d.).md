@@ -44,7 +44,7 @@ Nenurodyta
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, glaustas ir tiesiogiai paremtas citata.'
   susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Radvilos|Radvilos]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
   pagrindžia:
     - c-003
 
@@ -75,7 +75,7 @@ Nenurodyta
   teiginys: 'Lojevo mūšis buvo pirmoji svari kunigaikščio J. Radvilos pergalė, o žinia apie ją pasklido visoje Europoje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie mūšio padarinius.'
   susije_objektai: 'event: [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Europa; mentioned_place: Lojevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Radvila|Radvila]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Radvilos|Radvilos]] dalyvavo mūšyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)|Lojevo mūšis (1649 m. liepos 31 d.)]]'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.
@@ -166,4 +166,4 @@ Nenurodyta
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Radvila]] dalyvavo_musyje Lojevo mūšis (1649 m. liepos 31 d.)
+- [[objektai/grupes/Radvilos]] dalyvavo_musyje Lojevo mūšis (1649 m. liepos 31 d.)

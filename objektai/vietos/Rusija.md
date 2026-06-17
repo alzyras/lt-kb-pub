@@ -259,26 +259,6 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   temporalinis_llm_pakomentavimas: 'Teiginys tikslus, datuotas ir paremtas citata.'
   pagrindžia:
     - c-016
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63843|Kotryna II]]: Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.
-- susijęs iš Jadvygos laiškas Vytautui (1398 m.): Jadvyga laišku priminė Vytautui, kad Lietuvos ir Rusijos žemės, kurias Jogaila valdė prieš ją vesdamas, buvusios užrašytos jai kraičiu, todėl reikalavo iš Vytauto metinio činšo.
-- susijęs iš [[objektai/paprociai/JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika.md#claim-t-67096|JAV lietuvių spaudos, draugijų, chorų ir politinių akcijų praktika]]: 1910 m. JAV gyveno 207 tūkst. lietuvių, kurie kūrė spaudą, draugijas ir organizacijas, chorų veiklą bei politines akcijas.
-- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
-- susijęs iš Čikaga: 1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.
-- susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
-- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
-- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40211|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
-- susijęs iš [[objektai/posakiai/Vilniuje karalius turi gan puikios artilerijos.md#claim-t-41470|Vilniuje karalius turi gan puikios artilerijos]]: Posakyje „Vilniuje karalius turi gan puikios artilerijos“ teigiama, kad karalius Vilniuje turėjo 180 sunkiosios artilerijos vienetų.
-- susijęs iš Fulvio Ruggieri aprašymas apie ATR valdovo artileriją Vilniuje: Fulvio Ruggieri 1572 m. rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
-- susijęs iš Fulvio Ruggieri aprašymas apie Lenkijos ir Lietuvos kariuomenes (1572 m.): Fulvio Ruggieri 1572 m. aprašyme rašė, kad Vilniuje karalius turėjo 180 sunkiosios artilerijos vienetų ir daug lengvosios artilerijos.
-- susijęs iš [[objektai/zodynas/dignitoriai.md#claim-t-77793|dignitoriai]]: 1792 m. liepos 23 d. Varšuvoje Lenkijos ir Lietuvos Valstybės valdovas Stanislovas Augustas Poniatovskis posėdžiavo su 12 (po šešis nuo Lenkijos ir Lietuvos) dignitorių – ministrų.
-- susijęs iš [[objektai/asmenys/Andrius Vosylius Jastrzębiecas.md#claim-t-35030|Andrius Vosylius Jastrzębiecas]]: Cereteno vyskupas Andrius Vosylius atvyko kartu su Jogailos broliais, dvasininkais ir lietuvių bei lenkų didikais.
-- susijęs iš [[objektai/grupes/Nepriklausomų Valstybių Sandrauga.md#claim-t-19957|Nepriklausomų Valstybių Sandrauga]]: Iki 1998–1999 m. Rusijos finansų krizės dauguma lietuviškų prekių keliavo į Nepriklausomų Valstybių Sandraugą, pirmiausia į Rusiją.
-- susijęs iš [[objektai/grupes/Vilniaus sukilimo centrinis komitetas.md#claim-t-55098|Vilniaus sukilimo centrinis komitetas]]: Vilniaus sukilimo centriniam komitetui priklausė Antanas Goreckis, Stanislovas Šumskis, Justinas Hrebnickis, Leonas Rogalskis, Edvardas Riomeris, Mykolas Balinskis ir Liudvikas Zambrzyckis.
-- susijęs iš Smolenskas: Smolenskas ir visa pietų Rusija priklausė Vytautui, kai jis siekė sumušti totorius ir veržtis į Rytus.
-- susijęs iš Smolenskas: Vytautui priklausė Smolenskas ir visa pietų Rusia, tačiau jis siekė sumušti totorius ir plėsti įtaką rytuose.
-- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45784|autokratinė monarchinė imperija]]: 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
 - susijęs iš [[objektai/asmenys/A. Suvorovas.md#claim-t-18745|A. Suvorovas]]: A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą.
 - susijęs iš [[objektai/asmenys/Adolfas Jofė.md#claim-t-18755|Adolfas Jofė]]: Adolfo Jofės vadovaujami sovietai Lietuvą laikė nauju politiniu vienetu ir sutiko ją pripažinti remdamiesi nacijų apsisprendimo teise.
 - susijęs iš [[objektai/asmenys/Adomas Jurgis Čartoriskis.md#claim-t-18759|Adomas Jurgis Čartoriskis]]: Adomas Jurgis Čartoriskis savo globojamą apygardą laikė plano atkurti Lenkijos arba Lenkijos ir Lietuvos valstybę parengiamąja grandimi.
@@ -1550,19 +1530,3 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   statusas: verified
   pagrindžia:
     - t-021
-
-## Ryšiai
-- [[objektai/asmenys/Jadvyga]] valde_teritorija Rusija
-- [[objektai/asmenys/Kotryna II]] valde_teritorija Rusija
-- [[objektai/asmenys/Fridrichas fon Bebirsteynas]] buvo_valdovas Rusija
-- [[objektai/asmenys/Fulvio Ruggieri]] buvo_valdovas Rusija
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] buvo_valdovas Rusija
-- [[objektai/asmenys/Kotryna II]] buvo_valdovas Rusija
-- [[objektai/asmenys/Stanislovas Augustas Poniatovskis|Stanislovas Augustas Poniatovskis (valdovas)]] buvo_valdovas Rusija
-- [[objektai/asmenys/Steponas Batoras]] buvo_valdovas Rusija
-- [[objektai/asmenys/Andrius Vosylius Jastrzębiecas]] keliavo_i Rusija
-- [[objektai/grupes/Nepriklausomų Valstybių Sandrauga]] keliavo_i Rusija
-- Rusija priklause [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Smolenskas]] priklause Rusija
-- [[objektai/grupes/Vilniaus sukilimo centrinis komitetas]] priklause Rusija
-- [[objektai/zodynas/autokratinė monarchinė imperija]] priklause Rusija

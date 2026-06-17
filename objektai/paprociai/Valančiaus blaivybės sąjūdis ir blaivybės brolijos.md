@@ -62,10 +62,9 @@ Nenurodyta
   global_id: t-54361
   teiginys: 'Apie 1860 m. blaivybės brolijoms priklausė daugiau kaip 80 proc. vyskupijos gyventojų katalikų.'
   sudarymo_pagrindimas: 'Reikia pakeisti kontekstinę nuorodą „po poros metų“ aiškia data.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/paprociai/Valančiaus blaivybės sąjūdis ir blaivybės brolijos|Valančiaus blaivybės sąjūdis ir blaivybės brolijos]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1858 m.; priklausymo laikotarpis: 1860 m.; priklausymo laikotarpis: apie 1860 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklausė Lietuviai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip priklausymo laikotarpis su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Reikia pakeisti kontekstinę nuorodą „po poros metų“ aiškia data.'
   pagrindžia:
     - c-002
@@ -108,6 +107,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Valančiaus blaivybės sąjūdis ir blaivybės brolijos priklause [[objektai/grupes/Lietuviai]]

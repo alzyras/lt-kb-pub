@@ -27,7 +27,6 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Kražiai; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš [[objektai/asmenys/Bohdanas Ankevičius.md#claim-t-87635|Bohdanas Ankevičius]]: Vilniaus tarėjas Bohdanas Ankevičius gavo leidimą surinkti jam priklausančius pinigus iš Bobruisko ir Svisločės smuklių už devynerius metus.
 - susijęs iš [[objektai/daiktai/Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės.md#claim-t-87007|Vilniaus pirklių prekybos objektai vaškas, kailiai, kepurės, sandėlis ir vytinės]]: Karaliaus raštu Vilniaus vaitui leista į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/grupes/Vilniaus pirkliai.md#claim-t-172857|Vilniaus pirkliai]]: Kaune buvęs Vilniaus pirklių prekių sandėlis buvo atleistas nuo mokesčių.
@@ -73,6 +72,3 @@ Bžostausko fundacija), Naugarduke (sudėtinė fundacija), Bobruiske (Triznos fu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Bobruiskas

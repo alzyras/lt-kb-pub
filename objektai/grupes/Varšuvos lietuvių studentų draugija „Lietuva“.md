@@ -28,10 +28,9 @@ amziai:
   global_id: t-20060
   teiginys: 'Varšuvos lietuvių studentų draugija „Lietuva“ įsteigė 1889 m. pradėtą leisti žurnalą „Varpas“, plėtojusį „Aušros“ idėjas.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad sakinio centras būtų pati draugija, pašalinant OCR laužymus.'
-  susije_objektai: 'object: Varšuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Varšuva'
-  semantiniai_rysiai: '[[objektai/grupes/Varšuvos lietuvių studentų draugija „Lietuva“|Varšuvos lietuvių studentų draugija „Lietuva“]] pastatė Varšuva'
-  temporaliniai_duomenys: 'pastatymo data: 1889 m.; pastatymo data: 1889-1890; pastatymo data: 1890 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Varšuvos lietuvių studentų draugija „Lietuva“ pastatė Varšuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Varšuva'
+  temporaliniai_duomenys: 'įkūrimo data: 1889 m.; įkūrimo data: 1889-1890; įkūrimo data: 1890 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad sakinio centras būtų pati draugija, pašalinant OCR laužymus.'
   pagrindžia:
     - c-001
@@ -62,6 +61,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Varšuvos lietuvių studentų draugija „Lietuva“ pastate [[objektai/vietos/Varšuva]]

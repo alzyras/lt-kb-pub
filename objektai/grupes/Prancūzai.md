@@ -66,8 +66,8 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
   global_id: t-81593
   teiginys: 'Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.'
   sudarymo_pagrindimas: 'Teiginys buvo OCR fragmentas; citata pagrindžia prancūzų savanorių atvykimą į žygį.'
-  susije_objektai: 'location: Anglija; location: Lietuva; location: Prancūzija; location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Anglija; [[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Lietuva; [[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prancūzija; [[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prūsija'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_place: Anglija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Prancūzai|Prancūzai]] keliavo į Prūsija'
   pagrindžia:
     - c-003
 
@@ -336,7 +336,4 @@ Dusburgietis teigia, kad apie Konstantinopolio miesto užėmimą 1200 viešpatie
 
 ## Ryšiai
 - Prancūzai dalyvavo_musyje [[objektai/ivykiai/Klaipėdos prisijungimas prie Lietuvos (1923 m.)]]
-- Prancūzai keliavo_i [[objektai/vietos/Anglija]]
-- Prancūzai keliavo_i [[objektai/vietos/Lietuva]]
-- Prancūzai keliavo_i [[objektai/vietos/Prancūzija]]
 - Prancūzai keliavo_i [[objektai/vietos/Prūsija]]

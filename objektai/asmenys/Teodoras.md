@@ -94,4 +94,3 @@ periodo_grupes:
 
 ## Ryšiai
 - Teodoras buvo_valdovas [[objektai/vietos/Lietuva]]
-- Teodoras buvo_valdovas [[objektai/vietos/Podolė]]

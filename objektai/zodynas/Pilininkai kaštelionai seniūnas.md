@@ -23,7 +23,7 @@ Kaip Lenkijoje kaštelionai, taip Lietuvoje anuomet pilininkai valdė miestą, v
   global_id: t-86638
   teiginys: 'Lietuvoje pilininkai valdė miestą ir vykdė teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie pilininkų vaidmenį ir remiasi citata.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

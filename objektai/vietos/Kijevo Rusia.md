@@ -174,7 +174,7 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis sakinys nutrūkęs; citata leidžia suformuoti pilną faktą.'
-  susije_objektai: 'territory: Belzas; territory: Lenkija; territory: Volynė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Volynė'
   pagrindžia:
     - c-009
 
@@ -189,12 +189,6 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Bajazitas|Bajazitas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/asmenys/Jaroslavas (Kijevo valdovas).md#claim-t-39556|Jaroslavas (Kijevo valdovas)]]: 1040 m. Kijevo valdovas Jaroslavas surengė didelį žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Jaroslavas.md#claim-t-18955|Jaroslavas]]: Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.
-- susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
-- susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
-- susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
-- susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05159|Algirdas (Lietuvos valdovas)]]: Algirdas paliuosavo Rusios žemes iš totorių jungo, paliko jose ankstesnę tvarką ir išplėtė valdžią į rytus bei pietus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176283|Algirdas (Lietuvos valdovas)]]: Algirdas iš senosios Kijevo Rusios įsigijo plačias teritorijas.
@@ -447,11 +441,3 @@ Kijevo Rusia aprašoma kaip buvusių stačiatikiškų žemių erdvė, kurią už
   statusas: verified
   pagrindžia:
     - t-015
-
-## Ryšiai
-- [[objektai/asmenys/Adalbertas]] buvo_valdovas Kijevo Rusia
-- [[objektai/asmenys/Jaroslavas]] buvo_valdovas Kijevo Rusia
-- [[objektai/asmenys/Jaroslavas (Kijevo valdovas)]] buvo_valdovas Kijevo Rusia
-- [[objektai/asmenys/Mieška]] buvo_valdovas Kijevo Rusia
-- [[objektai/asmenys/Olafas (Norvegijos valdovas)]] buvo_valdovas Kijevo Rusia
-- [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Kijevo Rusia

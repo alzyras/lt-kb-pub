@@ -23,8 +23,8 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
   global_id: t-40109
   teiginys: 'Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, matydamas besirikiuojančius lietuvius, savo 300 raitelių įsakė persikelti į dešinįjį krantą.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatinis ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'territory: Dauguva; territory: Kuršas; territory: Lietuva; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Ketleris|Fridrichas Ketleris]] buvo valdovas Dauguva; [[objektai/asmenys/Fridrichas Ketleris|Fridrichas Ketleris]] buvo valdovas Kuršas; [[objektai/asmenys/Fridrichas Ketleris|Fridrichas Ketleris]] buvo valdovas Lietuva'
+  susije_objektai: 'territory: Kuršas; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas Ketleris|Fridrichas Ketleris]] buvo valdovas Kuršas'
   pagrindžia:
     - c-002
 
@@ -68,6 +68,4 @@ Kairiajame Dauguvos krante buvęs Kuršo kunigaikštis Fridrichas Ketleris, maty
     - t-001
 
 ## Ryšiai
-- Fridrichas Ketleris buvo_valdovas [[objektai/vietos/Dauguva]]
 - Fridrichas Ketleris buvo_valdovas [[objektai/vietos/Kuršas]]
-- Fridrichas Ketleris buvo_valdovas [[objektai/vietos/Lietuva]]

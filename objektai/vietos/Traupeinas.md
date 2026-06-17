@@ -30,9 +30,9 @@ Dusburgietis teigia, kad apie dvylikos brolių ir penkių šimtų vyrų žūtį,
   global_id: t-58481
   teiginys: 'Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.'
   sudarymo_pagrindimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
-  susije_objektai: 'object: [[objektai/grupes/Bartai|Bartai]]; object: Kristburgas; object: Kulmas; object: [[objektai/asmenys/Linkas|Linkas]]; object: [[objektai/grupes/Pagudėnai|Pagudėnai]]; object: Pilaitė; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
+  susije_objektai: 'object: Kristburgas; object: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Bartai|Bartai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Divanas|Divanas]]; mentioned_person: [[objektai/asmenys/Linkas|Linkas]]; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Pilaitė'
   temporaliniai_duomenys: 'mūšio data: 1265 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Divanas puolė Linkas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Bartai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Pilaitė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Divanas puolė Pagudėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Divanas puolė Kristburgas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata nurodo Traupeino pilies vietą ir apgulties aplinkybes.'
   pagrindžia:
     - c-001

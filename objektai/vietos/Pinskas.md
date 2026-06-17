@@ -62,9 +62,9 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   global_id: t-180415
   teiginys: 'Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis sąrašas ir OCR iškraipymas.'
-  susije_objektai: 'territory: Lietuva; territory: Nesvyžius; territory: Turovas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Turovas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Turovas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Turovas; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Nesvyžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Turovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Narimantas (Pinsko kunigaikštis) valdė teritoriją Turovas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis sąrašas ir OCR iškraipymas.'
   pagrindžia:
     - c-004
@@ -141,14 +141,7 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
   susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Naugardukiečiai|Naugardukiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96111|Gediminaičių dinastija]]: Kiti Gediminaičiai valdė Turovo-Pinsko kunigaikštijoje, Podolėje, Zaslavlyje ir Volinijoje.
-- susijęs iš Polesė: Senojoje Turovo ir Pinsko kunigaikštijoje, vadintoje Polese, valdė Algirdo brolio Narimanto sūnus.
-- susijęs iš Zaslavlis: Zaslavlyje, tarp Volinijos ir Podolės, valdė Jaunučio sūnus.
 - susijęs iš [[objektai/asmenys/Narimantas (Pinsko kunigaikštis).md#claim-t-186073|Narimantas (Pinsko kunigaikštis)]]: Pinsko kunigaikštis Narimantas su savo vyrais gynė ugnies apgriautą Žemutinę pilį ir teikė pagalbą Moskožovskiui.
-- susijęs iš [[objektai/asmenys/Tautvila.md#claim-t-87601|Tautvila]]: Lietuvos kunigaikštis Tautvila, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121174|Tautvilas]]: Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.
-- susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-121175|Tautvilas]]: Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš [[objektai/asmenys/Algardas Hohenšteino grafas.md#claim-t-87618|Algardas Hohenšteino grafas]]: Hohenšteino grafas Algardas žuvo prie Vilniaus, kai buvo pakirstas šūvio per pilies apsiaustį.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176289|Algirdas (Lietuvos valdovas)]]: Po politinių pokyčių Vilniuje Lietuvos ir Rusios valdymas bei pats Vilnius perėjo į Algirdo rankas.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
@@ -394,9 +387,4 @@ Mindaugui žuvus, Vaišvilkas buvo Graikijoj, bet veikiai po to grįžo ir apsig
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Pinskas
-- [[objektai/grupes/Gediminaičių dinastija]] valde_teritorija Pinskas
 - [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] buvo_valdovas Pinskas
-- [[objektai/asmenys/Tautvila]] buvo_valdovas Pinskas
-- [[objektai/asmenys/Tautvilas]] buvo_valdovas Pinskas
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Pinskas

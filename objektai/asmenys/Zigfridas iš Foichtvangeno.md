@@ -77,7 +77,3 @@ Dusburgietis teigia, kad jam atsisakius šios pareigybės, netrukus ten pat buvo
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- Zigfridas iš Foichtvangeno keliavo_i [[objektai/vietos/Elbingas]]
-- Zigfridas iš Foichtvangeno keliavo_i [[objektai/vietos/Prūsija]]

@@ -31,10 +31,9 @@ tags:
   global_id: t-42359
   teiginys: 'Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys, tiksliai nusakantis traukinio maršrutą į Šeštokus.'
-  susije_objektai: 'location: Alytus; location: Kaunas; location: Smalėnai; location: Suvalkai; location: Varėna; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai; mentioned_place: Varėna'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai; mentioned_place: Varėna'
   pagrindžia:
     - c-001
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
 - susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
 ## Reikšmingi paminėjimai
 

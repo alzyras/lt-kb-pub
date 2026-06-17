@@ -62,7 +62,7 @@ Vėliau, po ketu­ rių dienų, Vilnius gavo jau užmirštų miesto Magdeburgo 1
   global_id: t-88219
   teiginys: 'Žygimanto privilegijos nustatė, kad Vilniaus vaitą į teismą galėjo kviesti tik pats kunigaikštis raštu su valdovo antspaudu.'
   sudarymo_pagrindimas: 'Pradinis sakinys buvo nutrūkęs, todėl perrašytas į pilną citatos paremtą faktą.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vaškas|Vaškas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

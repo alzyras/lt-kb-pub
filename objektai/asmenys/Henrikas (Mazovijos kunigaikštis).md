@@ -24,8 +24,8 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
   global_id: t-87685
   teiginys: 'Mazovijos kunigaikštis Henrikas, atvykęs pas Vytautą su slaptu Jogailos pavedimu, vedė Ringailę.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki citata tiesiogiai pagrįsto fakto.'
-  susije_objektai: 'territory: Mazovija; territory: Plockas; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)|Henrikas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija; [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)|Henrikas (Mazovijos kunigaikštis)]] buvo valdovas Plockas; [[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)|Henrikas (Mazovijos kunigaikštis)]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Mazovija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ringailė|Ringailė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Mazovijos kunigaikštis)|Henrikas (Mazovijos kunigaikštis)]] buvo valdovas Mazovija'
   pagrindžia:
     - c-001
 
@@ -56,5 +56,3 @@ Nepaprastas Rin­ gailės grožis taip pakerėjo Mazovijos kunigaikštį Henrik�
 
 ## Ryšiai
 - Henrikas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mazovija]]
-- Henrikas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Plockas]]
-- Henrikas (Mazovijos kunigaikštis) buvo_valdovas [[objektai/vietos/Vilnius]]

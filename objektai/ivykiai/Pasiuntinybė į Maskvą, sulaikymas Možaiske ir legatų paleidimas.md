@@ -46,7 +46,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki pagrindinio citatos palaikomo fakto.'
-  susije_objektai: 'location: Maskva; location: Možaiskas; location: Vilnius; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_place: Vilnius'
+  susije_objektai: 'location: Maskva; mentioned_group: [[objektai/grupes/Valachai|Valachai]]; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Možaiskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

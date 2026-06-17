@@ -196,12 +196,6 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   temporalinis_llm_pakomentavimas: 'Teiginys yra enciklopedinis, gramatiškas ir paremtas archeologinių tyrimų aprašymu citatoje.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Liudvikas (Torunės komtūras).md#claim-t-186064|Liudvikas (Torunės komtūras)]]: Liudvikas, Torunės komtūras, gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184511|Kryžiuočių ordinas]]: Torunės komtūras Liudvikas su trimis kryžiuočių riteriais gyveno Vilniuje kaip pasiuntinys, bet iš tikrųjų ėjo žvalgo pareigas.
-- susijęs iš [[objektai/asmenys/Konradas.md#claim-t-79083|Konradas]]: Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
-- susijęs iš [[objektai/posakiai/Pusę darbo padaro tasai, kas netrunka jo imtis.md#claim-t-59158|Pusę darbo padaro tasai, kas netrunka jo imtis]]: Posakis „Pusę darbo padaro tasai, kas netrunka jo imtis“ kronikoje pateikiamas kaip poeto žodžiai, kuriuos prisiminęs Lenkijos kunigaikštis pastatė pilį prie Torunės.
-- susijęs iš Knišinas: 1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59879|Bertoldas, vadinamas Briuhavenu]]: 1298 m. didysis magistras Gotfridas Hohenlohė pasiuntė Karaliaučiaus komtūrą Bertoldą Briuhaveną į pagalbą Livonijos broliams.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59834|Ditrichas (Sembos fogtas)]]: Ditrichas Sembos fogtu buvo 1278-1292 m.
 - susijęs iš [[objektai/asmenys/Druzigeris.md#claim-t-60012|Druzigeris]]: Stalininkas Druzigeris Torunėje klaidingai pranešė, kad visa krikščionių kariuomenė žuvo mūšyje.
@@ -568,10 +562,3 @@ Ordino magistras iš lenkų jam dovanotų žemių, savo pilių kairiajame Vyslos
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] gyveno Torunė
-- [[objektai/asmenys/Liudvikas (Torunės komtūras)]] gyveno Torunė
-- [[objektai/asmenys/Konradas]] buvo_valdovas Torunė
-- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Torunė
-- [[objektai/asmenys/Augustas]] keliavo_i Torunė

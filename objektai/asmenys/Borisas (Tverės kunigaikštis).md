@@ -33,8 +33,8 @@ periodo_grupes:
   global_id: t-87596
   teiginys: 'Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.'
   sudarymo_pagrindimas: 'Citata palaiko tik giminystės faktą apie Borisą; papildomas kontekstas apie Sofiją jam šalutinis.'
-  susije_objektai: 'territory: Florencija; territory: Lietuva; territory: Livonija; territory: Tverė; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Florencija; [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Livonija; [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė'
+  susije_objektai: 'territory: Tverė; mentioned_person: [[objektai/asmenys/Eugenijus IV|Eugenijus IV]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Florencija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė'
   pagrindžia:
     - c-001
 
@@ -43,10 +43,10 @@ periodo_grupes:
   global_id: t-87597
   teiginys: '1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
-  susije_objektai: 'territory: Maskva; territory: Tverė; territory: Valakija; territory: Vokietija; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė; [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Valakija; [[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Vokietija'
+  susije_objektai: 'territory: Tverė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vokietija'
+  semantiniai_rysiai: '[[objektai/asmenys/Borisas (Tverės kunigaikštis)|Borisas (Tverės kunigaikštis)]] buvo valdovas Tverė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Borisas (Tverės kunigaikštis) buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą apie Boriso dalyvavimą, bet pradinis tekstas yra fragmentiškas ir triukšmingas.'
   pagrindžia:
     - c-002
@@ -125,10 +125,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Florencija]]
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Livonija]]
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
 - Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Tverė]]
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Valakija]]
-- Borisas (Tverės kunigaikštis) buvo_valdovas [[objektai/vietos/Vokietija]]

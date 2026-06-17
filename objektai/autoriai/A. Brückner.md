@@ -41,7 +41,7 @@ A. Brückner minimas kaip istorikas ir kultūros istorikas; šiame tome jo varda
   global_id: t-64508
   teiginys: 'Al. Brückneris priklausė senosios istorikų kartai, kuri XIII a. pradžios lietuvius vaizdavo kaip vargšus ir skurdžius.'
   sudarymo_pagrindimas: 'Citata remia konkretesnį teiginį nei vien priskyrimą istorikų kartai.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Fr. Papée|Fr. Papée]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-001
 

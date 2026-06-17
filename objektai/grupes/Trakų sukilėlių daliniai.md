@@ -25,7 +25,6 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
   susije_objektai: 'mentioned_group: [[objektai/grupes/Poznanės raitininkų eskadronai|Poznanės raitininkų eskadronai]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Paneriai; mentioned_place: Poznanė; mentioned_place: Trakai'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/7-asis pėstininkų pulkas.md#claim-t-38934|7-asis pėstininkų pulkas]]: Panerių mūšyje Lenkijos sukilėlių pajėgoms priklausė 7-asis pėstininkų pulkas.
 - susijęs iš [[objektai/asmenys/H. Dembinskis.md#claim-t-40131|H. Dembinskis]]: Panerių mūšyje H. Dembinskio daliniai turėjo imituoti puolimą per Neries Žaliąjį tiltą, tačiau šio plano įgyvendinti nepavyko.
 - susijęs iš [[objektai/grupes/12-asis ulonų pulkas.md#claim-t-38925|12-asis ulonų pulkas]]: 12-asis ulonų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
 - susijęs iš [[objektai/grupes/2-asis pėstininkų pulkas.md#claim-t-38927|2-asis pėstininkų pulkas]]: 2-asis pėstininkų pulkas buvo vienas iš Lietuvos sukilėlių dalinių, sudariusių sukilėlių kariuomenės pagrindą Panerių mūšyje.
@@ -54,6 +53,3 @@ Sukilėlių pajėgos Sukilėlių kariuomenės pagrindą Panerių mūšyje sudar�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/7-asis pėstininkų pulkas]] priklause Trakų sukilėlių daliniai

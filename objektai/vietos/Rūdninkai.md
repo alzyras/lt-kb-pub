@@ -58,9 +58,7 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
-- susijęs iš Knišinas: 1576 m. valdžią perėmęs karalius Steponas Batoras nuvyko į Knišiną.
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
-- susijęs iš Rūdninkų giria: Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.
 - susijęs iš [[objektai/asmenys/Julijona (Vytauto žmona).md#claim-t-113839|Julijona (Vytauto žmona)]]: Pasiligojusi Vytauto žmona Julijona buvo apsistojusi kunigaikščių kaime Memitz prie Vilniaus.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87436|Kazimieras IV]]: Kazimieras IV, mėgęs medžioti, Rūdninkuose pasirinko medžioklės buveinę ir pasistatydino dvarą.
 - susijęs iš [[objektai/asmenys/Kazimieras IV.md#claim-t-87438|Kazimieras IV]]: Kazimieras IV pamėgo Rūdninkus ir dažnai juose buvodavo.
@@ -201,6 +199,4 @@ tags:
     - t-004
 
 ## Ryšiai
-- [[objektai/asmenys/Augustas]] keliavo_i Rūdninkai
 - [[objektai/vietos/Mendzižečės giria]] priklause Rūdninkai
-- [[objektai/vietos/Rūdninkų giria]] priklause Rūdninkai

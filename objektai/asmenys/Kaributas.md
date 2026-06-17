@@ -43,10 +43,10 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
   global_id: t-97456
   teiginys: 'Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.'
   sudarymo_pagrindimas: 'Pirminis teiginys yra lentelės fragmentas; citata leidžia suformuluoti pilną faktą apie Kaributą.'
-  susije_objektai: 'territory: Dubysa; territory: Livonija; territory: Naugardas; territory: Prūsai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] valdė teritoriją Dubysa; [[objektai/asmenys/Kaributas|Kaributas]] valdė teritoriją Livonija; [[objektai/asmenys/Kaributas|Kaributas]] valdė teritoriją Naugardas; [[objektai/asmenys/Kaributas|Kaributas]] valdė teritoriją Prūsai'
+  susije_objektai: 'territory: Naugardas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Dubysa; mentioned_place: Livonija; mentioned_place: Naugardas; mentioned_place: Prūsai'
+  semantiniai_rysiai: '[[objektai/asmenys/Kaributas|Kaributas]] valdė teritoriją Naugardas'
   temporaliniai_duomenys: 'valdymo pabaiga: iki 1393 m.; valdymo pabaiga: 1393 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kaributas valdė teritoriją Dubysa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kaributas valdė teritoriją Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kaributas valdė teritoriją Naugardas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kaributas valdė teritoriją Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kaributas valdė teritoriją Naugardas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys yra lentelės fragmentas; citata leidžia suformuluoti pilną faktą apie Kaributą.'
   pagrindžia:
     - c-004
@@ -260,13 +260,4 @@ Kaributo pinigas (abu kalti prieš 1393 m., nes tais metais jie buvo Vytauto pa�
 ## Ryšiai
 - [[objektai/asmenys/Prokopas]] kariavo_pries Kaributas
 - [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Kaributas
-- Kaributas valde_teritorija [[objektai/vietos/Dubysa]]
-- Kaributas valde_teritorija [[objektai/vietos/Livonija]]
 - Kaributas valde_teritorija [[objektai/vietos/Naugardas]]
-- Kaributas valde_teritorija [[objektai/vietos/Prūsai]]
-- Kaributas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Kaributas buvo_valdovas [[objektai/vietos/Prūsai]]
-- Kaributas buvo_valdovas [[objektai/vietos/Ryga]]
-- Kaributas buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Kaributas buvo_valdovas [[objektai/vietos/Viena]]
-- Kaributas buvo_valdovas [[objektai/vietos/Vilnius]]

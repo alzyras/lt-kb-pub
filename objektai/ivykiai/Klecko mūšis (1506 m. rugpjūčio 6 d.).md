@@ -54,7 +54,7 @@ Nenurodyta
   global_id: t-171467
   teiginys: 'Klecko mūšyje kunigaikštis Mykolas su kairiuoju sparnu perėjo upę, smogė totorių pulkams ir perskėlė juos į dvi dalis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/daiktai/Lankai|Lankai]]; mentioned_person: [[objektai/asmenys/Mykolas|Mykolas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -92,7 +92,7 @@ Nenurodyta
   sudarymo_pagrindimas: 'Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą.'
   susije_objektai: 'event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_event: [[objektai/ivykiai/Klecko mūšis|Klecko mūšis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Rusija'
   temporaliniai_duomenys: 'mūšio data: 1500-1503; mūšio data: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Totoriai dalyvavo mūšyje Klecko mūšis (mūšis, XVI a.)“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys dubliuoja paremtą ir gramatiškai tinkamą faktą.'
   pagrindžia:
     - c-004

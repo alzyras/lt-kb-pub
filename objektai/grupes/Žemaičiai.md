@@ -178,8 +178,7 @@ amziai:
   global_id: t-176132
   teiginys: 'Atgavus Žemaičių žemę, karalius ir Vytautas iš Vilniaus ėmėsi jos gyventojų atvertimo į krikščionybę.'
   sudarymo_pagrindimas: 'Pašalintas nutrūkęs fragmentas ir paliktas citata paremtas faktas apie žemaičius.'
-  susije_objektai: 'territory: Lenkija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] susiję su Lenkija; [[objektai/grupes/Žemaičiai|Žemaičiai]] susiję su Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-010
 
@@ -566,8 +565,8 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatinis ir paremtas citata.'
-  susije_objektai: 'territory: Nemunas; territory: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] valdė teritoriją Nemunas; [[objektai/grupes/Žemaičiai|Žemaičiai]] valdė teritoriją Trakai'
+  susije_objektai: 'territory: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Nemunas; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/grupes/Žemaičiai|Žemaičiai]] valdė teritoriją Trakai'
   pagrindžia:
     - c-050
 
@@ -1889,7 +1888,4 @@ amziai:
 
 ## Ryšiai
 - [[objektai/grupes/Kalavijuočių ordinas]] kariavo_pries Žemaičiai
-- Žemaičiai valde_teritorija [[objektai/vietos/Nemunas]]
 - Žemaičiai valde_teritorija [[objektai/vietos/Trakai]]
-- Žemaičiai susije_su [[objektai/vietos/Lenkija]]
-- Žemaičiai susije_su [[objektai/vietos/Vilnius]]

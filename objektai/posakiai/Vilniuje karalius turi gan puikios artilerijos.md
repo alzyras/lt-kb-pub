@@ -28,9 +28,9 @@ grESHIC astiicnnems Saro valdoms ir jo „Vilniuje karalius turi gan puikios art
 - t-001
   global_id: t-41470
   teiginys: 'Posakyje „Vilniuje karalius turi gan puikios artilerijos“ teigiama, kad karalius Vilniuje turėjo 180 sunkiosios artilerijos vienetų.'
-  susije_objektai: 'territory: Pskovas; territory: Rusija; territory: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: iki 1582 m.; valdymo laikotarpis: 1572 m.; valdymo laikotarpis: 1582 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Pskovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Rusija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fulvio Ruggieri buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Fulvio Ruggieri|Fulvio Ruggieri]]; mentioned_place: Pskovas; mentioned_place: Rusija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1582 m.; įvykio data: 1572 m.; įvykio data: 1582 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

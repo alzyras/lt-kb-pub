@@ -155,10 +155,9 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   global_id: t-91247
   teiginys: 'Augustinų ordino mokytojas Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Paryžius; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Avinjonas; mentioned_place: Lionas'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustinas|Augustinas]] mirė Paryžius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_object: [[objektai/daiktai/Balti vilnoniai marškiniai|Balti vilnoniai marškiniai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Augustinas|Augustinas]]; mentioned_person: [[objektai/asmenys/Egidijus|Egidijus]]; mentioned_place: Avinjonas; mentioned_place: Lionas'
   temporaliniai_duomenys: 'mirties data: 1316 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustinas mirė Paryžius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-013
@@ -186,8 +185,6 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Andrejus Sacharovas.md#claim-t-75687|Andrejus Sacharovas]]: Andrejus Sacharovas buvo Jelenos Boner vyras ir bendražygis.
 - susijęs iš [[objektai/asmenys/Augustas Zaleskis.md#claim-t-18838|Augustas Zaleskis]]: Augustas Zaleskis buvo Lenkijos užsienio reikalų ministras, su kuriuo Paryžiuje susitiko Augustinas Voldemaras.
@@ -518,6 +515,4 @@ Lenkų ir lietuvių delegacijoms atvažiavus į Paryžių, pats Henrikas ir jo b
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Augustinas]] mire Paryžius
 - [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] mire Paryžius
-- [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]] buvo_valdovas Paryžius

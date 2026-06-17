@@ -31,10 +31,10 @@ periodo_grupes:
   global_id: t-40085
   teiginys: 'Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Nemunas; territory: Tverė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Michailas Aleksandrovičius|Michailas Aleksandrovičius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemunas; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Lietuva; [[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Maskva; [[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Nemunas; [[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Tverė'
+  susije_objektai: 'territory: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Michailas Aleksandrovičius|Michailas Aleksandrovičius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemunas; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Ivanovičius|Dmitrijus Ivanovičius]] buvo valdovas Maskva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1368 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Nemunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Ivanovičius buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Dmitrijų Ivanovičių.'
   pagrindžia:
     - c-001
@@ -91,9 +91,4 @@ periodo_grupes:
     - t-002
 
 ## Ryšiai
-- Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Bizantija]]
-- Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Konstantinopolis]]
-- Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Lietuva]]
 - Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Maskva]]
-- Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Nemunas]]
-- Dmitrijus Ivanovičius buvo_valdovas [[objektai/vietos/Tverė]]

@@ -30,10 +30,10 @@ periodo_grupes:
   global_id: t-39620
   teiginys: '1396 m. Riazanės didysis kunigaikštis Olegas su kitais puolė Lietuvą ir padarė daug žalos.'
   sudarymo_pagrindimas: 'Perrašyta į vientisą enciklopedinį sakinį be tiesioginės citatos fragmento.'
-  susije_objektai: 'territory: Lietuva; territory: Riazanė; territory: Smolenskas; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)|Olegas (Riazanės didysis kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)|Olegas (Riazanės didysis kunigaikštis)]] buvo valdovas Riazanė; [[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)|Olegas (Riazanės didysis kunigaikštis)]] buvo valdovas Smolenskas'
+  susije_objektai: 'territory: Riazanė; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Olegas (Riazanės didysis kunigaikštis)|Olegas (Riazanės didysis kunigaikštis)]] buvo valdovas Riazanė'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Olegas (Riazanės didysis kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olegas (Riazanės didysis kunigaikštis) buvo valdovas Riazanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Olegas (Riazanės didysis kunigaikštis) buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Olegas (Riazanės didysis kunigaikštis) buvo valdovas Riazanė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta į vientisą enciklopedinį sakinį be tiesioginės citatos fragmento.'
   pagrindžia:
     - c-001
@@ -56,6 +56,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Olegas (Riazanės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
 - Olegas (Riazanės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Riazanė]]
-- Olegas (Riazanės didysis kunigaikštis) buvo_valdovas [[objektai/vietos/Smolenskas]]

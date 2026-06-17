@@ -146,6 +146,3 @@ Karolis IV minimas kaip Šv. Romos imperatorius, siūlęs Lietuvai krikštą ir 
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Karolis IV gyveno [[objektai/vietos/Praga]]

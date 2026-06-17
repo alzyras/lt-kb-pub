@@ -34,7 +34,7 @@ Jogaila ir Vytautas, arkivyskupo Baltramiejaus Kapros skatinami, antrą kartą s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie sutarties sąlygą ir šalis.'
-  susije_objektai: 'territory: Pomeranija; territory: Poznanė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pomeranija; mentioned_place: Poznanė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Pomeranija; mentioned_place: Poznanė'
   pagrindžia:
     - c-002
 

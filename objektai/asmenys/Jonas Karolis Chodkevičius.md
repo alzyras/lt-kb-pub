@@ -73,5 +73,3 @@ Chodkevičiaus vadovaujama Lietuvos Didžiosios Kunigaikštijos kariuomenė (kai
 
 ## Ryšiai
 - Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Chodkevičiai]]
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Lenkai]]
-- Jonas Karolis Chodkevičius kariavo_pries [[objektai/grupes/Lietuviai]]

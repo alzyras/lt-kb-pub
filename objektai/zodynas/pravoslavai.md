@@ -21,8 +21,7 @@ amziai:
   global_id: t-11775
   teiginys: 'Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.'
   sudarymo_pagrindimas: 'Reikia aiškiai įvardyti objektą ir pašalinti neapibrėžtą įvardį.'
-  susije_objektai: 'owner: Kijevas; owner: Konstantinopolis; owner: Lietuva; owner: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/zodynas/pravoslavai|pravoslavai]] priklausė [[objektai/grupes/Rusai|Rusai]]; [[objektai/zodynas/pravoslavai|pravoslavai]] priklausė Kijevas; [[objektai/zodynas/pravoslavai|pravoslavai]] priklausė Konstantinopolis; [[objektai/zodynas/pravoslavai|pravoslavai]] priklausė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Kijevas; mentioned_place: Konstantinopolis; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -74,9 +73,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- pravoslavai priklause [[objektai/vietos/Kijevas]]
-- pravoslavai priklause [[objektai/vietos/Konstantinopolis]]
-- pravoslavai priklause [[objektai/vietos/Lietuva]]
-- pravoslavai priklause [[objektai/grupes/Rusai]]

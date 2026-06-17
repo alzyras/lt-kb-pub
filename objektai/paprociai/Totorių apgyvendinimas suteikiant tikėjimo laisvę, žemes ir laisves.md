@@ -50,9 +50,9 @@ Nenurodyta
   global_id: t-87166
   teiginys: 'Vytauto įkurdinti totoriai gyveno prie Vokės, Vilniuje, Nemėžyje ir Lydos, Ašmenos bei Naugarduko pavietuose.'
   sudarymo_pagrindimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
-  susije_objektai: 'location: Ašmena; location: Lietuva; location: Naugardukas; location: Nemėžis; location: Trakai; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Nemėžis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_place: Ašmena; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Ašmena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Naugardukas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Nemėžis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jadvyga Jogailienė gyveno Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia totorių įkurdinimo vietas; pašalintas vertinamasis ir fragmentiškas tekstas.'
   pagrindžia:
     - c-002

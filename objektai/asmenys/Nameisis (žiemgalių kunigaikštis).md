@@ -24,8 +24,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   global_id: t-40366
   teiginys: 'Traidenio valdymo laikotarpiu žiemgalių kunigaikštis Nameisis buvo Traidenio karvedys ir vadovavo jo kariuomenei Ordino vakarų fronte.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir aiškiai apibūdina Nameisio vaidmenį.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)|Nameisis (žiemgalių kunigaikštis)]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -46,8 +45,7 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Nameisio vadovavimą Traidenio kariuomenei.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Nameisis (žiemgalių kunigaikštis)|Nameisis (žiemgalių kunigaikštis)]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Žiemgaliai|Žiemgaliai]]; mentioned_person: [[objektai/asmenys/Nameisis|Nameisis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
 
@@ -92,6 +90,3 @@ Traidenio valdymo laikotarpiu vyko aktyvus lietuvių ir žiemgalių bendradarbia
   pagrindžia:
     - t-003
     - t-001
-
-## Ryšiai
-- Nameisis (žiemgalių kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]

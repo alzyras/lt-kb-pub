@@ -32,10 +32,9 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   global_id: t-87898
   teiginys: 'Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.'
   sudarymo_pagrindimas: 'Citata perteikia pasakojimo teiginį apie Šventaragį, bet pradinis tekstas buvo fragmentiškas ir su OCR triukšmu.'
-  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Šventaragis|Šventaragis]] buvo valdovas Europa; [[objektai/asmenys/Šventaragis|Šventaragis]] buvo valdovas Lietuva; [[objektai/asmenys/Šventaragis|Šventaragis]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1268 m.; valdymo laikotarpis: apie 1268 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Šventaragis buvo valdovas Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Šventaragis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Šventaragis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Germantas|Germantas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1268 m.; įvykio data: apie 1268 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui. Ši data interpretuojama kaip įvykio data su riba „circa“, o ne kaip tiksli pilna data.'
   temporalinis_llm_pakomentavimas: 'Citata perteikia pasakojimo teiginį apie Šventaragį, bet pradinis tekstas buvo fragmentiškas ir su OCR triukšmu.'
   pagrindžia:
     - c-001
@@ -186,11 +185,3 @@ Esą pirmasis toje vietovėje įkurdinęs gy­ venvietę Germantas, vykdydamas s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Šventaragis buvo_valdovas [[objektai/vietos/Europa]]
-- Šventaragis buvo_valdovas [[objektai/vietos/Islandija]]
-- Šventaragis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Šventaragis buvo_valdovas [[objektai/vietos/Salos]]
-- Šventaragis buvo_valdovas [[objektai/vietos/Skandinavija]]
-- Šventaragis buvo_valdovas [[objektai/vietos/Vilnius]]

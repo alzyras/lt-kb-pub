@@ -57,7 +57,7 @@ Nenurodyta
   global_id: t-86896
   teiginys: 'Jogailos atsiųstas Skirgaila atvyko į Kęstučio stovyklą ir pareiškė esąs pasirengęs taikytis.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir pagrįstas pateikta citata.'
-  susije_objektai: 'location: Trakai; location: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Hanulaitis|Jonas Hanulaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Hanulaitis|Jonas Hanulaitis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

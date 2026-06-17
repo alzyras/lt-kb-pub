@@ -36,7 +36,6 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys gramatiškai stringa, bet citata palaiko aiškų perrašymą.'
   pagrindžia:
     - c-001
-- susijęs iš Vilniaus katedra: Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.
 - susijęs iš [[objektai/asmenys/Manvydas.md#claim-t-87375|Manvydas]]: 1396 m. Vilniuje Manvydas minėtas kaip Vilniaus vaivada tarp dokumento liudytojų.
 - susijęs iš [[objektai/grupes/Vilniaus kapitula.md#claim-t-176085|Vilniaus kapitula]]: 1396 m. Vytautas, Vladislovui Jogailai sutikus, dovanojo Vilniaus kapitulai Cudzeniškių valdą netoli Medininkų pilies.
 - susijęs iš [[objektai/ivykiai/Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.).md#claim-t-86969|Vytauto privilegijos Vilniaus katedrai dėl Cudzeniškių išdavimas (1396 m.)]]: 1396 m. Vilniuje rašyta privilegija Vytautas, Jogailai sutikus, Vilniaus katedros kapitulai dovanojo Cudzeniškių valdą prie Medininkų.
@@ -67,6 +66,3 @@ Yra jo privilegija, rašyta Vilniuje, pažymėta 1396 metų data, kuria, karaliu
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Cudzeniškiai

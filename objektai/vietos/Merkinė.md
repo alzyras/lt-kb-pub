@@ -99,9 +99,9 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   global_id: t-180311
   teiginys: '1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną su kunigija ir diduomene.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Merkinę ir atitinka citatos informaciją.'
-  susije_objektai: 'location: Dubysa; location: Kaunas; location: Nemunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Nemunas'
+  susije_objektai: 'location: Nemunas; mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Nemunas'
   temporaliniai_duomenys: 'kelionės data: 1413 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Dubysa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Kaunas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jogaila (kunigaikštis, XIV–XV a.) keliavo į Nemunas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Merkinę ir atitinka citatos informaciją.'
   pagrindžia:
     - c-009
@@ -161,7 +161,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - t-013
   global_id: t-180317
   teiginys: 'Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.'
-  susije_objektai: 'location: Aukokalnis; location: Betygala; location: Dubysa; location: Kaunas; location: Nemunas; location: Torno; mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Torno'
+  susije_objektai: 'location: Nemunas; mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Aukokalnis; mentioned_place: Betygala; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Torno'
   pagrindžia:
     - c-007
 
@@ -172,14 +172,8 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lazūnai; mentioned_place: Nemunas'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
-- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86692|Vilniaus gyventojai]]: Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.
-- susijęs iš Aukokalnis: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Betygala: 1413 m. rudenį Vytautas ir Jogaila keliavo Dubysa iki Aukokalnio, buvusio ties dabartine Betygala.
-- susijęs iš Dubysa: 1413 m. Vytautas ir Jogaila Nemunu keliavo iki Dubysos upės, o ja pasiekė Aukokalnį ties dabartine Betygala.
 - susijęs iš Kaunas: 1413 metų rudenį Vytautas ir Jogaila Nemunu keliavo iš Merkinės į Kauną, o iš Kauno plaukė iki Dubysos.
 - susijęs iš Nemunas: 1413 m. rudenį Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau Nemunu pasiekė Dubysos upę.
-- susijęs iš Subartonys: Viena kovotojų grupė nuvyko Subartonių miško link sulaikyti galimo pastiprinimo iš Alytaus.
 - susijęs iš [[objektai/asmenys/Jonas iš Zabrežjės.md#claim-t-87525|Jonas iš Zabrežjės]]: 1503 m. Vilniuje Jonas iš Zabrežjės dalyvavo rašto išdavimo paliudijime kaip LDK didysis maršalka, Trakų vaivada ir Merkinės laikytojas.
 - susijęs iš [[objektai/asmenys/Kazimieras Skirgaila.md#claim-t-185950|Kazimieras Skirgaila (Lenkijos karalius)]]: Kazimieras Skirgaila turėjo pasitenkinti gautomis kunigaikštystėmis ir nesiekti Lietuvos didžiojo kunigaikščio vardo.
 - susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
@@ -191,6 +185,7 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
 - susijęs iš [[objektai/daiktai/Tanketė.md#claim-t-40775|Tanketė]]: Per Merkinės puolimą 1945 m. gruodžio 15 d. plentų kryžkelėje pasirodžiusi tanketė atidengė ugnį į miestelį.
 - susijęs iš [[objektai/daiktai/Vokiškas universalusis kulkosvaidis MG 42.md#claim-t-183689|Vokiškas universalusis kulkosvaidis MG 42]]: Vokiškas universalusis kulkosvaidis MG 42 naudojo 7,92x57 mm Mauser šovinius, svėrė 11,57 kg be trikojo ir šaudė 900–1500 šūvių per minutę.
 - susijęs iš [[objektai/grupes/Merkinės batalionas.md#claim-t-38986|Merkinės batalionas]]: Rugpjūtį Vanago vadovaujama 140 vyrų Merkinės ir Alovės partizanų kuopa buvo performuota į Merkinės batalioną.
+- susijęs iš [[objektai/grupes/Vilniaus gyventojai.md#claim-t-86692|Vilniaus gyventojai]]: Valdovas Vilniaus gyventojų ištikimybę ir prieraišumą paminėjo suteikdamas miestui Magdeburgo teises Merkinėje rašytu aktu.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-183675|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: 1945 m. gruodžio 15 d. 11 val. Adolfas Ramanauskas-Vanagas balta raketa paskelbė Merkinės puolimo pradžią.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66775|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Adolfas Ramanauskas-Vanagas, pasitaręs su Juozu Vitkumi-Kazimieraičiu, nutarė telkti partizanus Merkinės puolimui.
 - susijęs iš [[objektai/ivykiai/Merkinės puolimas (1945 m. gruodžio 15 d.).md#claim-t-66776|Merkinės puolimas (1945 m. gruodžio 15 d.)]]: Per Merkinės puolimą partizanai užėmė NKVD būstinę, paštą, valsčiaus ir milicijos įstaigas.
@@ -444,7 +439,5 @@ Merkinė šiame šaltinyje minima kaip Jogailos krikšto kelionės miestelis ir 
     - t-003
 
 ## Ryšiai
-- [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]] buvo_valdovas Merkinė
-- [[objektai/grupes/Vilniaus gyventojai]] susije_su Merkinė
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Merkinė
 - [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Merkinė

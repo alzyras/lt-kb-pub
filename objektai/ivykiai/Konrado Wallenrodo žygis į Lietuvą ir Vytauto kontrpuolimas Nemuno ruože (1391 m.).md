@@ -43,10 +43,9 @@ Nenurodyta
 - t-001
   global_id: t-31433
   teiginys: '1391 m. rudeniop surengtas didelis žygis į Lietuvą, o rugsėjo 1 d. prie Kauno Nemuno saloje iškelta didelė puota svečiams piligrimams.'
-  susije_objektai: 'event: [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]; mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] dalyvavo mūšyje [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)|Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mickevičius|Mickevičius]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mūšio data: 1391 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lenkai dalyvavo mūšyje Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -69,7 +68,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Lenkai]] dalyvavo_musyje Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)

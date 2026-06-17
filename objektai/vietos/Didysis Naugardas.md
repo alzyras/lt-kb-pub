@@ -168,7 +168,7 @@ Naugardu (Pskovą valdė buvęs Gardino kunigaikštis Dovydas, o D. Algirdo įta
 - t-015
   global_id: t-179792
   teiginys: 'Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.'
-  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Tverė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 

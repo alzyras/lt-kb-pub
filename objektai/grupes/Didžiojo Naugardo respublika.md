@@ -121,7 +121,6 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   susije_objektai: 'mentioned_group: [[objektai/grupes/Pskoviečiai|Pskoviečiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Naugardas'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/grupes/Vilniaus miestiečių luomas.md#claim-t-55084|Vilniaus miestiečių luomas]]: Vilniaus miestiečių luomui priklausė narystė Lietuvos suvažiavimuose arba seimuose.
 - susijęs iš [[objektai/asmenys/Chariničius.md#claim-t-87643|Chariničius]]: Didžiojo Naugardo bojarinas Chariničius su Ivanu Jermoliničiumi Vilniuje sudarė sutartį su Švitrigaila dėl saugumo ir prekybos laisvės.
 - susijęs iš [[objektai/asmenys/Ivanas Jermoliničius.md#claim-t-87694|Ivanas Jermoliničius]]: Ivanas Jermoliničius buvo Didžiojo Naugardo bojarinas, Vilniuje su Švitrigaila sudaręs saugumo ir prekybos sutartį.
 - susijęs iš [[objektai/asmenys/Lengvenis.md#claim-t-47954|Lengvenis]]: Jogaila paskyrė savo brolį Lengvenį Didžiojo Naugardo kunigaikščiu, ir Lengvenis ten buvo pakviestas.
@@ -334,8 +333,3 @@ Didžiojo Naugardo respublika šiame šaltinyje pateikiama kaip turtinga šiauri
   statusas: verified
   pagrindžia:
     - t-010
-
-## Ryšiai
-- Didžiojo Naugardo respublika dalyvavo_musyje [[objektai/ivykiai/Kazimiero žygis atsiimti Smolenską]]
-- Didžiojo Naugardo respublika dalyvavo_musyje [[objektai/ivykiai/LDK ir Maskvos Didžiosios Kunigaikštystės karai (1406—1408 m.)]]
-- [[objektai/grupes/Vilniaus miestiečių luomas]] priklause Didžiojo Naugardo respublika

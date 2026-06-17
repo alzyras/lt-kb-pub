@@ -22,8 +22,8 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
   global_id: t-59036
   teiginys: 'Lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje, kartu su skalviais.'
   sudarymo_pagrindimas: 'Nutrūkęs teiginys perrašytas į aiškų sakinį apie objektą.'
-  susije_objektai: 'location: Lietuva; location: Minija; location: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/grupes/Lamatiečiai|Lamatiečiai]] gyveno Lietuva; [[objektai/grupes/Lamatiečiai|Lamatiečiai]] gyveno Minija; [[objektai/grupes/Lamatiečiai|Lamatiečiai]] gyveno Nemunas'
+  susije_objektai: 'location: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Skalviai|Skalviai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
+  semantiniai_rysiai: '[[objektai/grupes/Lamatiečiai|Lamatiečiai]] gyveno Nemunas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/grupes/Skalviai.md#claim-t-89215|Skalviai]]: Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.
@@ -45,6 +45,4 @@ Dusburgietis teigia, kad į šiaurę nuo Nemuno žiočių, Minijos žemupyje, gy
     - t-001
 
 ## Ryšiai
-- Lamatiečiai gyveno [[objektai/vietos/Lietuva]]
-- Lamatiečiai gyveno [[objektai/vietos/Minija]]
 - Lamatiečiai gyveno [[objektai/vietos/Nemunas]]

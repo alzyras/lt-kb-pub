@@ -32,7 +32,6 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
   teiginys: 'Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.'
   pagrindžia:
     - c-004
-- susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
 - susijęs iš Rūdninkų giria: Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.
 - susijęs iš [[objektai/asmenys/Abramas (iždininkas).md#claim-t-87605|Abramas (iždininkas)]]: Karaliaus raštu iždininkui Abramui nurodyta leisti Vilniaus vaitui į užsienį parduoti tris vaško gabalus po 50 akmenų.
 - susijęs iš [[objektai/asmenys/Zigmantas Augustas.md#claim-t-93758|Zigmantas Augustas]]: Kai kurių nuomone, naujų žemių suskirstymas ir žmonių įkurdinimas sodžiais padėjo susidaryti vėlesnei Zigmanto Augusto valakų sistemai.
@@ -118,5 +117,4 @@ Valakai šiame fragmente veikia ir kaip sutartinė, ir kaip karinė grupė.
     - t-002
 
 ## Ryšiai
-- [[objektai/vietos/Mendzižečės giria]] priklause Valakai
 - [[objektai/vietos/Rūdninkų giria]] priklause Valakai

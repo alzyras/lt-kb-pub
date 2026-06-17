@@ -70,7 +70,6 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
-- susijęs iš [[objektai/asmenys/Dominykas Radvila.md#claim-t-87655|Dominykas Radvila]]: Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.
 - susijęs iš [[objektai/ivykiai/Antrasis valstybės padalijimas.md#claim-t-86940|Antrasis valstybės padalijimas]]: Antrasis valstybės padalijimas Igną Balinskį užklupo rusų kareivių saugomame namų arešte Vitebske.
 - susijęs iš Jašiūnai: 1811 m. I. Balinskis perėmė Dominyko Radvilos valdytus Jašiūnus ir vėliau įsigijo juos kaip nuosavybę.
 ## Reikšmingi paminėjimai
@@ -124,6 +123,3 @@ Persekiojimas, kurio metu įvyko keletas susidūrimų (didžiausias jau už Tere
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Dominykas Radvila]] valde_teritorija Terespolis

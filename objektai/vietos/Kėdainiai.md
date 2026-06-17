@@ -50,7 +50,6 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   susije_objektai: 'mentioned_group: [[objektai/grupes/Protestantai|Protestantai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_place: Sluckas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Kėdainių-Šėtos kautynės.md#claim-t-41295|Kėdainių-Šėtos kautynės]]: Po Kėdainių-Šėtos kautynių Naujosiose Kėdainių kapinėse buvo palaidota 40 žuvusių lietuvių karių.
 - susijęs iš [[objektai/asmenys/J. Aukštuolaitis.md#claim-t-40151|J. Aukštuolaitis]]: J. Aukštuolaitis vadovavo Tauragėje besikūrusiam Žemaičių batalionui, kuris netrukus buvo išformuotas.
 - susijęs iš [[objektai/asmenys/J. Mikoliūnas.md#claim-t-40159|J. Mikoliūnas]]: J. Mikoliūnas ir K. Dragunevičius, surinkę apie 80 savanorių, šautuvų ugnimi sustabdė priešo puolimą prie Kėdainių-Šėtos vieškelio.
 - susijęs iš [[objektai/asmenys/J. Variakojis.md#claim-t-40167|J. Variakojis]]: 1918 m. gruodžio 29 d. Panevėžio srities apsaugos viršininku paskirtas J. Variakojis organizavo savanorių būrį.

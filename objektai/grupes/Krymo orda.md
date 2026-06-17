@@ -60,8 +60,7 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   global_id: t-86729
   teiginys: 'Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.'
   sudarymo_pagrindimas: 'Teiginys sutvarkytas į sklandų sakinį be laužytų žodžių.'
-  susije_objektai: 'location: Krymas; location: Liublinas; location: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Krymo orda|Krymo orda]] keliavo į Krymas; [[objektai/grupes/Krymo orda|Krymo orda]] keliavo į Liublinas; [[objektai/grupes/Krymo orda|Krymo orda]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Krymas; mentioned_place: Liublinas; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -156,8 +155,3 @@ Krymo totorių orda, Ivano Vasiljevičiaus pakurstyta, ėmė puldinėti žemes, 
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- Krymo orda keliavo_i [[objektai/vietos/Krymas]]
-- Krymo orda keliavo_i [[objektai/vietos/Liublinas]]
-- Krymo orda keliavo_i [[objektai/vietos/Vilnius]]

@@ -64,8 +64,6 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)|Narimantas (Pinsko kunigaikštis)]]'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
-- susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/asmenys/A. Džiuvė.md#claim-t-39695|A. Džiuvė]]: Birželio 1 d. A. Džiuvė su 3-iąja kuopa žvalgė Sudeikių, Talaikių ir Kušneriūnų rajoną.
 - susijęs iš [[objektai/asmenys/Aaron Klug.md#claim-t-18753|Aaron Klug]]: Želvoje gimęs Aaron Klug 1982 m. tapo Nobelio premijos laureatu biochemijos srityje.
 - susijęs iš [[objektai/asmenys/Bernard Lown.md#claim-t-18851|Bernard Lown]]: Utenoje gimęs kardiologas Bernard Lown 1985 m. tapo Nobelio taikos premijos laureatu už kovą dėl branduolinio ginklo neplatinimo.
@@ -174,6 +172,3 @@ Lietuvoje didžiausią pasisekimą ji turėjo vyskupo Valančiaus valdomoje Žem
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/grupes/Sėliai]] gyveno Utena

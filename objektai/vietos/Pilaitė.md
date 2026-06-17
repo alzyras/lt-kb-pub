@@ -28,12 +28,8 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59996|Pipinas]]: Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.
-- susijęs iš Kristburgas: Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.
-- susijęs iš [[objektai/ivykiai/Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.).md#claim-t-89382|Meiseno markos valdovo Ditricho žygis į Notangą (1272 m.)]]: Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.
-- susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
-- susijęs iš [[objektai/daiktai/Pilaitės kunigaikščių pilis.md#claim-t-87088|Pilaitės kunigaikščių pilis]]: Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.
-- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
 - susijęs iš [[objektai/asmenys/Divanas.md#claim-t-59910|Divanas]]: Divanas, pravarde Klokinis, buvo bartų vadas ir su pagudėnu Linku bei didele kariuomene įsibrovė į Kulmo žemę.
+- susijęs iš [[objektai/asmenys/Fričinskis.md#claim-t-87677|Fričinskis]]: Pilaitė prie Vilniaus tuo metu priklausė buvusiam agronomijos instituto direktoriui Fričinskiui.
 - susijęs iš [[objektai/asmenys/Giunteris iš Regenšteino.md#claim-t-184071|Giunteris iš Regenšteino]]: Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.
 - susijęs iš [[objektai/asmenys/Giunteris iš Regenšteino.md#claim-t-60293|Giunteris iš Regenšteino]]: Giunteris iš Regenšteino su broliu Ditrichu ir pasitelktais kariais sugriovė pilaitę prie įeigos į Notangos žemę.
 - susijęs iš [[objektai/asmenys/Kaltis.md#claim-t-60152|Kaltis]]: Kaltis buvo paskirtas pėstininkų, paliktų Traupeino pilies apgulai, vadu.
@@ -105,7 +101,3 @@ Pilaitė, jėzuitų buvusi, per mylią nuo Vilniaus atstu, dešiniajame Vilijos 
 
 ## Ryšiai
 - [[objektai/asmenys/Pipinas]] gyveno Pilaitė
-- [[objektai/asmenys/Giunteris (Mazovijos vyskupas)]] buvo_valdovas Pilaitė
-- [[objektai/asmenys/Divanas]] puole Pilaitė
-- [[objektai/daiktai/Pilaitės kunigaikščių pilis]] priklause Pilaitė
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] susije_su Pilaitė

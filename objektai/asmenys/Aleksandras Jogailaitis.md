@@ -128,10 +128,9 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   global_id: t-54941
   teiginys: 'Aleksandras Jogailaitis mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį ir buvo palaidotas koplyčioje prie katedros.'
   sudarymo_pagrindimas: 'Išplėstas vardas, kad teiginys būtų aiškus be konteksto.'
-  susije_objektai: 'location: Krokuva; location: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] mirė Krokuva; [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]] mirė Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis mirė Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis mirė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Išplėstas vardas, kad teiginys būtų aiškus be konteksto.'
   pagrindžia:
     - c-016
@@ -349,8 +348,6 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
   susije_objektai: 'mentioned_place: Radomas; mentioned_place: Vilnius'
   pagrindžia:
     - c-025
-- susijęs iš Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis): Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
-- susijęs iš Vingrių šaltiniai: Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
@@ -1065,36 +1062,4 @@ Aleksandras Jogailaitis patvirtino ir plėtė Vilniaus privilegijas, rūpinosi l
     - t-028
 
 ## Ryšiai
-- Aleksandras Jogailaitis mire [[objektai/vietos/Kernavė]]
-- Aleksandras Jogailaitis mire [[objektai/vietos/Krokuva]]
-- Aleksandras Jogailaitis mire [[objektai/vietos/Krėva]]
-- Aleksandras Jogailaitis mire [[objektai/vietos/Lietuva]]
-- Aleksandras Jogailaitis mire [[objektai/vietos/Vilnius]]
-- Aleksandras Jogailaitis kariavo_pries [[objektai/asmenys/Aleksandras]]
-- Aleksandras Jogailaitis kariavo_pries [[objektai/asmenys/Steponas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Borisovas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Brasta]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Kaunas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Krokuva]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Krymas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lenkija]]
 - Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Lietuva]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Luckas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Maskva]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Parčevas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Polockas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Prūsija]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Radomas]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Ritersverderis]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Užupis]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vakarų Prūsija]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Varmė]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vilija]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vilnelė]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vilnius]]
-- Aleksandras Jogailaitis buvo_valdovas [[objektai/vietos/Vitebskas]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Kamenecas]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Lietuva]]
-- Aleksandras Jogailaitis keliavo_i [[objektai/vietos/Vilniaus pilis]]
-- [[objektai/vietos/Vingrių šaltiniai]] priklause Aleksandras Jogailaitis
-- [[objektai/vietos/Vingrių šaltiniai upokšnis (sujungti pirminiai pavadinimai Vingrių šaltiniai; Vingrių upokšnis; Vingrių šaltinis)]] priklause Aleksandras Jogailaitis

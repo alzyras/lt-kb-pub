@@ -24,8 +24,8 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
   global_id: t-87808
   teiginys: 'Riazanės kunigaikštis Olegas atkakliai prašė ir laidavo, kad Dmitrijus Kaributas būtų paleistas iš Vilniaus Aukštutinės pilies.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Olego vaidmenį paleidžiant Kaributą.'
-  susije_objektai: 'territory: Naugardas; territory: Podolė; territory: Riazanė; territory: Severskas; territory: Vilnius; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Naugardas; [[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Podolė; [[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Riazanė; [[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Severskas; [[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Riazanė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Dmitrijus Kaributas|Dmitrijus Kaributas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Naugardas; mentioned_place: Podolė; mentioned_place: Riazanė; mentioned_place: Severskas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Olegas (Riazanės kunigaikštis)|Olegas (Riazanės kunigaikštis)]] buvo valdovas Riazanė'
   pagrindžia:
     - c-001
 
@@ -61,8 +61,4 @@ Paimtas su žmona ir vaikais, kuni­ gaikštis buvo uždarytas Vilniaus Aukštut
     - t-001
 
 ## Ryšiai
-- Olegas (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Naugardas]]
-- Olegas (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Podolė]]
 - Olegas (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Riazanė]]
-- Olegas (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Severskas]]
-- Olegas (Riazanės kunigaikštis) buvo_valdovas [[objektai/vietos/Vilnius]]

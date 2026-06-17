@@ -32,7 +32,6 @@ menės mokymą (ypačiai Voroneže įsteigtose lietuviškose gimnazijose).
   susije_objektai: 'mentioned_group: [[objektai/grupes/Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti|Centralinis Komitetas Nukentėjusiems Dėl Karo Šelpti]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Petrapilis; mentioned_place: Rusija'
   pagrindžia:
     - c-001
-- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113996|Steponas Batoras]]: Po Stepono Batoro kampanijų Didieji Lukai, Zavoločė, Sebežas, Nevelis ir Voronežas buvo sugrąžinti Rusijai.
 - susijęs iš [[objektai/grupes/JAV lietuviai.md#claim-t-74138|JAV lietuviai]]: JAV lietuvius 1917 m. suaktyvino JAV įstojimas į karą prieš Vokietiją ir Woodrow Wilsono paskelbti „14 punktų“.
 - susijęs iš Vudro Vilsono 14 punktų: Vudro Vilsono paskelbti „14 punktų“ suteikė JAV lietuvių imigrantams progą kelti Lietuvos klausimą.

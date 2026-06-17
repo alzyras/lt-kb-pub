@@ -46,7 +46,7 @@ Nenurodyta
   global_id: t-89409
   teiginys: 'Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda įvardžiu ir yra per ilgas; citata leidžia įvardyti Petrą.'
-  susije_objektai: 'location: Italija; location: Jeruzalė; location: Viena; location: Šventoji; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Simeonas|Simeonas]]; mentioned_place: Italija; mentioned_place: Jeruzalė; mentioned_place: Viena; mentioned_place: Šventoji'
   pagrindžia:
     - c-002
 

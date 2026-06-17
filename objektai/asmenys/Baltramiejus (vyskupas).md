@@ -31,10 +31,10 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 - t-001
   global_id: t-30210
   teiginys: 'Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.'
-  susije_objektai: 'location: Avinjonas; location: Naugardas; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Avinjonas; mentioned_place: Naugardas'
-  semantiniai_rysiai: '[[objektai/asmenys/Baltramiejus (vyskupas)|Baltramiejus (vyskupas)]] keliavo į Avinjonas; [[objektai/asmenys/Baltramiejus (vyskupas)|Baltramiejus (vyskupas)]] keliavo į Naugardas'
+  susije_objektai: 'location: Avinjonas; mentioned_object: [[objektai/zodynas/legatai|legatai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Avinjonas; mentioned_place: Naugardas'
+  semantiniai_rysiai: '[[objektai/asmenys/Baltramiejus (vyskupas)|Baltramiejus (vyskupas)]] keliavo į Avinjonas'
   temporaliniai_duomenys: 'kelionės data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Baltramiejus (vyskupas) keliavo į Avinjonas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Baltramiejus (vyskupas) keliavo į Naugardas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Baltramiejus (vyskupas) keliavo į Avinjonas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -61,4 +61,3 @@ Baltramiejus ir abatas Bernardas), Gediminas diplomatiškai išsisukinėjo, veng
 
 ## Ryšiai
 - Baltramiejus (vyskupas) keliavo_i [[objektai/vietos/Avinjonas]]
-- Baltramiejus (vyskupas) keliavo_i [[objektai/vietos/Naugardas]]

@@ -34,7 +34,6 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
   temporalinis_llm_pakomentavimas: 'Sakinys gramatiškai perteikia bibliografinį faktą apie Augsburgą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
 - susijęs iš [[objektai/asmenys/Jonas Hlebavičius.md#claim-t-87391|Jonas Hlebavičius]]: Polocko vaivada Jonas Hlebavičius 1542 m. Vilniuje dalyvavo tarp karaliaus Žygimanto rašto liudininkų.
 - susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
@@ -56,6 +55,3 @@ Bibliografijoje Augsburgas nurodomas kaip Miechovitos veikalo leidimo vieta 1518
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo_valdovas Augsburgas

@@ -31,9 +31,9 @@ periodo_grupes:
   global_id: t-18978
   teiginys: 'Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.'
   sudarymo_pagrindimas: 'Pradinis teiginys neakcentuoja asmens; citata tiesiogiai nurodo jo narystę TTGK.'
-  susije_objektai: 'owner: Lietuva; owner: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Juozas Zdebskis (kunigas) susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Juozas Zdebskis (kunigas) susiję su Maskva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys neakcentuoja asmens; citata tiesiogiai nurodo jo narystę TTGK.'
   pagrindžia:
     - c-001
@@ -82,8 +82,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jonas Kauneckas susije_su [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]]
-- Jonas Kauneckas susije_su [[objektai/vietos/Lietuva]]
-- Jonas Kauneckas susije_su [[objektai/vietos/Maskva]]

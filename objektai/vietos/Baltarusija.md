@@ -120,10 +120,6 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   temporalinis_llm_pakomentavimas: 'Pašalintas citatos puslapio triukšmo sukeltas sakinio lūžis ir išlaikyta paremta faktinė mintis.'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-183743|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis faktiškai vadovavo Rusijos kariuomenei, nors oficialiu vadu buvo caras Aleksejus Michailovičius.
-- susijęs iš [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis.md#claim-t-40211|Jokūbas Kudenekovičius Čerkaskis]]: Kunigaikštis Jokūbas Kudenekovičius Čerkaskis iš tikrųjų vadovavo Rusijos kariuomenei kare su Lenkijos-Lietuvos valstybe.
-- susijęs iš [[objektai/grupes/Lenkų socialistų partija.md#claim-t-19793|Lenkų socialistų partija]]: Lenkų socialistų partijos Lietuvoje delegatai dalyvavo susirinkime, į kurį atvyko apie 2 000 delegatų.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
 - susijęs iš [[objektai/asmenys/Aleksandras Lukašenka.md#claim-t-17438|Aleksandras Lukašenka]]: Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
@@ -328,8 +324,3 @@ Būtent visa šios valstybės teritorija (ne tik dabartinė Lietuva, bet ir Balt
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- [[objektai/asmenys/Jokūbas Kudenekovičius Čerkaskis]] buvo_valdovas Baltarusija
-- [[objektai/vietos/Kijevas]] priklause Baltarusija
-- [[objektai/grupes/Lenkų socialistų partija]] keliavo_i Baltarusija

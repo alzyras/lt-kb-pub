@@ -43,6 +43,3 @@ Albertas buvo Rygos vyskupas ir vienas Livonijos vokiečių valdžios kūrėjų.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Albertas (Rygos vyskupas) buvo_valdovas [[objektai/vietos/Polockas]]

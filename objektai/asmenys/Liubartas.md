@@ -41,10 +41,9 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   global_id: t-05197
   teiginys: 'Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Bajorai|Bajorai]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Volinija'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] kariavo prieš [[objektai/grupes/Bajorai|Bajorai]]; [[objektai/asmenys/Liubartas|Liubartas]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lenkija; mentioned_place: Volinija'
   temporaliniai_duomenys: 'mūšio data: 1340 m.; mūšio data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liubartas kariavo prieš Bajorai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liubartas kariavo prieš Lenkai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
@@ -92,8 +91,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   global_id: t-93461
   teiginys: 'Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.'
   sudarymo_pagrindimas: 'Sutrumpinta ir sutelkta į Liubartą, išlaikant citatos remiamus faktus.'
-  susije_objektai: 'territory: Belzas; territory: Lenkija; territory: Voluinė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Voluinė'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] valdė teritoriją Belzas; [[objektai/asmenys/Liubartas|Liubartas]] valdė teritoriją Lenkija; [[objektai/asmenys/Liubartas|Liubartas]] valdė teritoriją Voluinė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Voluinė'
   pagrindžia:
     - c-006
 
@@ -129,8 +127,7 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'territory: Druckas; territory: Luckas; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Druckas; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Liubartas|Liubartas]] buvo valdovas Druckas; [[objektai/asmenys/Liubartas|Liubartas]] buvo valdovas Luckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Druckas; mentioned_place: Luckas'
   pagrindžia:
     - c-008
 
@@ -492,13 +489,4 @@ Liubartas šiame korpuse minimas kaip Gedimino sūnus, Voluinės valdovas ir jos
     - t-014
 
 ## Ryšiai
-- Liubartas kariavo_pries [[objektai/grupes/Bajorai]]
-- Liubartas kariavo_pries [[objektai/grupes/Lenkai]]
-- Liubartas valde_teritorija [[objektai/vietos/Belzas]]
-- Liubartas valde_teritorija [[objektai/vietos/Karačevas]]
-- Liubartas valde_teritorija [[objektai/vietos/Lenkija]]
-- Liubartas valde_teritorija [[objektai/vietos/Lietuva]]
 - Liubartas valde_teritorija [[objektai/vietos/Lvovas]]
-- Liubartas valde_teritorija [[objektai/vietos/Voluinė]]
-- Liubartas buvo_valdovas [[objektai/vietos/Druckas]]
-- Liubartas buvo_valdovas [[objektai/vietos/Luckas]]

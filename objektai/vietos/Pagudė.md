@@ -90,7 +90,7 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   global_id: t-91229
   teiginys: 'Pavergę pamedėnus, magistras ir broliai 1237 m. atvyko į Pagudės žemę pradėti karo prieš pagudėnus.'
   sudarymo_pagrindimas: 'Perrašyta taip, kad teiginys būtų aiškiau susietas su Pagudės žeme ir citatoje nurodytais veiksmais.'
-  susije_objektai: 'location: Elbingas; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas'
   temporaliniai_duomenys: 'kelionės data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta taip, kad teiginys būtų aiškiau susietas su Pagudės žeme ir citatoje nurodytais veiksmais.'
@@ -105,13 +105,9 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
   susije_objektai: 'mentioned_place: Elbingas; mentioned_place: Pasarė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89156|Pagudėnai]]: Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89161|Pagudėnai]]: Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89155|Pagudėnai]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.
-- susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89160|Pagudėnai]]: Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.
 - susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-183977|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
 - susijęs iš [[objektai/ivykiai/Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.).md#claim-t-62962|Žygis į Pagudę ir Elbingo pilies pastatymas (1237 m.)]]: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.
-- susijęs iš Elbingas: Antrosios atskalūnybės metais keli Pagudės kilmingieji su namais ir šeimyna atvyko į Elbingą ir prisidėjo prie brolių.
 - susijęs iš Elbingas: 1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį prie Elbingo upės žiočių.
 - susijęs iš [[objektai/asmenys/Bansas.md#claim-t-60089|Bansas]]: Bansas, Pabečių valsčiaus kamerarijus, buvo kaltinamas sukurstęs prūsus atsimesti nuo krikščionybės.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60101|Derska]]: Derska su Numa pasitiko lietuvių kariuomenę, išžudė lietuvius ir visą grobį išsigabeno į Pagudę.
@@ -294,6 +290,4 @@ Remiant kryžininkams iš Vokietijos, 1237 m. buvo užgrobta Pagudė su svarbiu 
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Pagudėnai]] gyveno Pagudė
-- [[objektai/grupes/Pagudėnai]] uzkariavo Pagudė
 - [[objektai/grupes/Pagudėnai]] keliavo_i Pagudė

@@ -45,10 +45,10 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   global_id: t-60050
   teiginys: '1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.'
   sudarymo_pagrindimas: 'Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata.'
-  susije_objektai: 'territory: Konstantinopolis; territory: Paryžius; territory: Prancūzija; mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Konstantinopolis; [[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Paryžius; [[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Prancūzija'
+  susije_objektai: 'territory: Prancūzija; mentioned_place: Konstantinopolis; mentioned_place: Paryžius; mentioned_place: Prancūzija'
+  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas (Prancūzijos karalius)|Liudvikas (Prancūzijos karalius)]] buvo valdovas Prancūzija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1239 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Konstantinopolis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Paryžius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Liudvikas (Prancūzijos karalius) buvo valdovas Prancūzija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra tikslus, gramatiškas ir visiškai paremtas citata.'
   pagrindžia:
     - c-001
@@ -105,6 +105,4 @@ Dusburgietis teigia, kad apie viešpaties erškėčių vainiko perkėlimą 1239 
   statusas: verified
 
 ## Ryšiai
-- Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Konstantinopolis]]
-- Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Paryžius]]
 - Liudvikas (Prancūzijos karalius) buvo_valdovas [[objektai/vietos/Prancūzija]]

@@ -31,8 +31,7 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
   global_id: t-60474
   teiginys: 'Mūšyje netoli Kelno, prie Vurungeno kaimo, Brabanto kunigaikštis Jonas nugalėjo Kelno arkivyskupą Zigfridą iš Runkelės.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie asmenį ir atitinka citatą.'
-  susije_objektai: 'territory: Kaimas; territory: Kelnas; mentioned_place: Kaimas; mentioned_place: Kelnas'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigfridas iš Runkelės|Zigfridas iš Runkelės]] buvo valdovas Kaimas; [[objektai/asmenys/Zigfridas iš Runkelės|Zigfridas iš Runkelės]] buvo valdovas Kelnas'
+  susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Kelnas'
   pagrindžia:
     - c-001
 
@@ -56,7 +55,3 @@ Dusburgietis teigia, kad apie mūšį netoli Kelno, prie Vurungeno kaimo Tuo met
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Zigfridas iš Runkelės (arkivyskupas, XIII a.) buvo_valdovas [[objektai/vietos/Kaimas]]
-- Zigfridas iš Runkelės (arkivyskupas, XIII a.) buvo_valdovas [[objektai/vietos/Kelnas]]

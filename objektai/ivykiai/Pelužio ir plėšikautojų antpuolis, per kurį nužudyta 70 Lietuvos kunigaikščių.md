@@ -64,9 +64,9 @@ Nenurodyta
   global_id: t-89388
   teiginys: 'Pelužis, įžeistas savo viešpaties, atvyko pas Sembos žemės brolius keršyti už patirtas skriaudas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Prūsai; location: Ragainė; location: Semba; location: Viena; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Viena'
+  susije_objektai: 'location: Semba; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė; mentioned_place: Semba; mentioned_place: Viena'
   temporaliniai_duomenys: 'kelionės data: 1289 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Martynas iš Golino keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Ragainė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Martynas iš Golino keliavo į Viena“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001

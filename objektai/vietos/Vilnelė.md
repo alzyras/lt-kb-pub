@@ -72,7 +72,7 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   global_id: t-85120
   teiginys: 'Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Kiščinos namus prie Vilnelės.'
-  susije_objektai: 'territory: Kaimas; territory: Lietuva; territory: Vitebskas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/daiktai/Antspaudas|Antspaudas]]; mentioned_object: [[objektai/daiktai/Vamzdžiai|Vamzdžiai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Kaimas; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 
@@ -155,11 +155,6 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Kiščina valdė Markučius ir ant kalno prie Vilnelės turėjo didelius kaimo stiliaus namus.
-- susijęs iš [[objektai/asmenys/Maksimas Vasiljevičius.md#claim-t-87769|Maksimas Vasiljevičius]]: Didysis kunigaikštis Aleksandras dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės.
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
-- susijęs iš Voluinė: Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.
-- susijęs iš Voluinė: Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.
 - susijęs iš [[objektai/asmenys/Eustachijus (raštininkas).md#claim-t-87662|Eustachijus (raštininkas)]]: Raštininkas Eustachijus pasirašė 1538 m. rugsėjo 1 d. Žygimanto Augusto laišką dėl Drujos vandens tiekimo į Vilnių.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176351|Gediminas]]: Balińskis manė, kad Gediminas, statydindamas pilį Rusios belaisvių rankomis, iškasė Vilnelei kitą vagą ir paaukštino Pilies kalną.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
@@ -391,9 +386,3 @@ Sėkmingai medžiodamas kalne (Neries ir Vilnelės san­ takoje), Gediminas nuko
   statusas: verified
   pagrindžia:
     - t-014
-
-## Ryšiai
-- [[objektai/asmenys/Augustas]] valde_teritorija Vilnelė
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Vilnelė
-- [[objektai/asmenys/Maksimas Vasiljevičius]] buvo_valdovas Vilnelė
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] buvo_valdovas Vilnelė

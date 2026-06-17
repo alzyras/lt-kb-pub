@@ -118,8 +118,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179137
   teiginys: 'Į Vilnių kartu su Jogaila atvyko Jadvyga, Gniezno arkivyskupas, Krokuvos vyskupas ir daugybė lenkų didikų bei kunigaikščių.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir tiesiogiai pagrįstas citata apie lenkų didikus bei kunigaikščius.'
-  susije_objektai: 'location: Gniezno; location: Krokuva; location: Mazovija; location: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Gniezno; [[objektai/grupes/Lenkai|Lenkai]] keliavo į Krokuva; [[objektai/grupes/Lenkai|Lenkai]] keliavo į Mazovija; [[objektai/grupes/Lenkai|Lenkai]] keliavo į Vilnius'
+  susije_objektai: 'location: Gniezno; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] keliavo į Gniezno'
   pagrindžia:
     - c-025
 
@@ -210,8 +210,8 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   global_id: t-179150
   teiginys: 'Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje neaiškus įvardis.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Traidenis|Traidenis]]; counterparty: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] kariavo prieš [[objektai/asmenys/Traidenis|Traidenis]]; [[objektai/grupes/Lenkai|Lenkai]] kariavo prieš [[objektai/asmenys/Vytautas|Vytautas]]'
+  susije_objektai: 'counterparty: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Traidenis|Traidenis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krokuva; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] kariavo prieš [[objektai/asmenys/Traidenis|Traidenis]]'
   pagrindžia:
     - c-015
 
@@ -857,8 +857,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškus ir paremtas citata apie Kazimierą bei lenkų didikus.'
-  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] susiję su Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-083
 
@@ -921,8 +920,7 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo per bendras, o citata leidžia nurodyti konkrečią pasekmę.'
-  susije_objektai: 'territory: Lenkija; territory: Piotrkovas; territory: Podolė; territory: Viena; territory: Volynė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lenkija; mentioned_place: Piotrkovas; mentioned_place: Podolė; mentioned_place: Viena; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/grupes/Lenkai|Lenkai]] susiję su Lenkija; [[objektai/grupes/Lenkai|Lenkai]] susiję su Piotrkovas; [[objektai/grupes/Lenkai|Lenkai]] susiję su Podolė; [[objektai/grupes/Lenkai|Lenkai]] susiję su Viena; [[objektai/grupes/Lenkai|Lenkai]] susiję su Volynė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/luomai|luomai]]; mentioned_place: Lenkija; mentioned_place: Piotrkovas; mentioned_place: Podolė; mentioned_place: Viena; mentioned_place: Volynė'
   pagrindžia:
     - c-088
 
@@ -985,17 +983,6 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krokuva; mentioned_place: Lietuva; mentioned_place: Lvovas'
   pagrindžia:
     - c-093
-- susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-183525|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antano Smetonos redaguojamos „Vilties“ grupuotė kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-05197|Liubartas]]: Remdamasis giminystės ir paveldėjimo teisėmis, Liubartas įsitvirtino Volinijoje ir beveik iki mirties 1385 m. kovojo su Lenkija dėl kitos palikimo dalies.
-- susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176212|Vėliavos]]: Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.
-- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-183186|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš [[objektai/grupes/Tautininkų grupuotė apie „Viltį“.md#claim-t-20038|Tautininkų grupuotė apie „Viltį“]]: Tautininkų grupuotė apie Antano Smetonos redaguojamą „Viltį“ kovojo už lietuvių kalbos teises Vilniaus vyskupijos bažnyčiose.
-- susijęs iš Didysis Naugardas Naugardas (sujungti pirminiai pavadinimai Naugardas; Didysis Naugardas; Naugardas ir Pskovas): Vytautas senatvėje kovojo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai padarytas skriaudas.
-- susijęs iš Naugardas: Senyvo amžiaus Vytautas kariavo su Pskovu ir Naugardu, siekdamas atkeršyti už Lietuvai patirtas skriaudas.
-- susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
-- susijęs iš Smolenskas: 1615–1616 m. Jonas Karolis Chodkevičius kovojo su Maskvos kariuomene, gindamas Smolenską.
-- susijęs iš Vilnius: Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77973|A. Smetona]]: A. Smetona demokratiją Lietuvoje lygino su vaikams nupirktais per dideliais batais, nes parlamentarizmo tradicija dar nebuvo įsitvirtinusi.
 - susijęs iš [[objektai/asmenys/Adomas Jakštas-Dambrauskas.md#claim-t-18757|Adomas Jakštas-Dambrauskas]]: 1902 m. Adomas Jakštas-Dambrauskas lenkiškai išleido knygelę apie jaunosios lietuvių kartos siekius ir programą.
 - susijęs iš [[objektai/asmenys/Adomas Mickevičius.md#claim-t-45927|Adomas Mickevičius (poetas)]]: Adomas Mickevičius buvo žymus XIX a. lenkų poetas ir tapo istorinės Lietuvos dainiumi.
@@ -4431,24 +4418,5 @@ Lenkai siekė įrodyti Lietuvos priklausymą lenkų kultūros įtakai ir lenkiš
     - t-092
 
 ## Ryšiai
-- [[objektai/asmenys/Antanas Smetona|Antanas Smetona (Lietuvos prezidentas, XX a.)]] kariavo_pries Lenkai
-- [[objektai/asmenys/Jonas Karolis Chodkevičius]] kariavo_pries Lenkai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Lenkai
 - Lenkai kariavo_pries [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]]
-- Lenkai kariavo_pries [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/asmenys/Liubartas]] kariavo_pries Lenkai
-- [[objektai/grupes/Tautininkų grupuotė apie „Viltį“]] kariavo_pries Lenkai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] kariavo_pries Lenkai
-- [[objektai/asmenys/Zyndramas iš Moškovicų]] kariavo_pries Lenkai
-- Lenkai dalyvavo_musyje [[objektai/ivykiai/Konrado Wallenrodo žygis į Lietuvą ir Vytauto kontrpuolimas Nemuno ruože (1391 m.)]]
-- Lenkai susije_su [[objektai/vietos/Lenkija]]
-- Lenkai susije_su [[objektai/vietos/Piotrkovas]]
-- Lenkai susije_su [[objektai/vietos/Podolė]]
-- Lenkai susije_su [[objektai/vietos/Viena]]
-- Lenkai susije_su [[objektai/vietos/Volynė]]
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] puole Lenkai
 - Lenkai keliavo_i [[objektai/vietos/Gniezno]]
-- Lenkai keliavo_i [[objektai/vietos/Krokuva]]
-- Lenkai keliavo_i [[objektai/vietos/Mazovija]]
-- Lenkai keliavo_i [[objektai/vietos/Vilnius]]
-- Lenkai priklause [[objektai/grupes/Rusai]]

@@ -21,8 +21,7 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
 - t-001
   global_id: t-64008
   teiginys: 'Kunigaikštis Mykolas su lietuviais ir lenkais žygiavo pasitikti priešo.'
-  susije_objektai: 'territory: Gelvonai; territory: Pašilė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gelvonai; mentioned_place: Pašilė'
-  semantiniai_rysiai: '[[objektai/asmenys/Mykolas|Mykolas]] buvo valdovas Gelvonai; [[objektai/asmenys/Mykolas|Mykolas]] buvo valdovas Pašilė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Gelvonai; mentioned_place: Pašilė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Daugirdas (Vilniaus vaivada).md#claim-t-87650|Daugirdas (Vilniaus vaivada)]]: 1440 m. balandį Vilniaus vaivada Daugirdas laikinai užėmė žemutinę Vilniaus pilį Švitrigailai.
@@ -104,9 +103,3 @@ Vytautas sutiko ir pasiuntė įkaitais savo brolį Zigmantą su šio sūnum Myko
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- Mykolas buvo_valdovas [[objektai/vietos/Gelvonai]]
-- Mykolas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Mykolas buvo_valdovas [[objektai/vietos/Pašilė]]
-- Mykolas buvo_valdovas [[objektai/vietos/Podolė]]

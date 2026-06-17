@@ -22,19 +22,9 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
 - t-001
   global_id: t-36295
   teiginys: 'Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.'
-  susije_objektai: 'location: Bizantija; location: Maskva; location: Pskovas; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Maskva; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89629|Aleksandras]]: Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173336|Žygimantas Senasis]]: Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.
-- susijęs iš Maskva: Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
-- susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89628|Aleksandras]]: Po Mykolo Glinskio pergalės žinia apie mūšį spėjo pasiekti mirštantį valdovą Aleksandrą.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-89629|Aleksandras]]: Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.
 - susijęs iš [[objektai/asmenys/Mahometas Aminas.md#claim-t-40324|Mahometas Aminas]]: Kazanės chanas Mahometas Aminas laiške siūlė Lietuvai sąjungą prieš Maskvą.
@@ -71,9 +61,3 @@ Atkeliavo ir Vytauto giminaičiai, Mo­ zūrijos kunigaikščiai, Maskvos d. kun
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras]] buvo_valdovas Kazanė
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Kazanė
-- [[objektai/asmenys/Žygimantas Senasis]] buvo_valdovas Kazanė
-- [[objektai/asmenys/Barbora Radvilaitė]] keliavo_i Kazanė

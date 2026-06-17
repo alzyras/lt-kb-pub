@@ -267,9 +267,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-025
   global_id: t-177732
   teiginys: '1496 m. sausį iš Maskvos išvykusi kunigaikštytė Elena vasarį atvyko į Vilnių.'
-  susije_objektai: 'location: Lietuva; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Lietuva; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.; kelionės data: 1496 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-017
 
@@ -478,9 +478,9 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177753
   teiginys: '1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Riazanė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Tverė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Valakija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas (Hertvigo iš Pokarvių sūnus) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas.'
   pagrindžia:
     - c-023
@@ -502,7 +502,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177755
   teiginys: 'Maskvos kunigaikštis gavo mongolų leidimą rinkti Aukso ordai duoklę iš kitų senosios Rusios kunigaikštijų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Tverė; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Tverė'
   pagrindžia:
     - c-054
 
@@ -571,7 +571,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-055
   global_id: t-177764
   teiginys: 'Pas Vytautą atvyko Maskvos didysis kunigaikštis, Tverės, Riazanės, Naugardo ir Pskovo kunigaikščiai.'
-  susije_objektai: 'location: Bizantija; location: Kazanė; location: Naugardas; location: Pskovas; location: Silezija; location: Vokietija; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
+  susije_objektai: 'location: Naugardas; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_place: Bizantija; mentioned_place: Kazanė; mentioned_place: Naugardas; mentioned_place: Pskovas; mentioned_place: Silezija; mentioned_place: Vokietija'
   pagrindžia:
     - c-039
 
@@ -588,7 +588,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - t-057
   global_id: t-177766
   teiginys: 'Į suvažiavimą atvyko Vytautas, Jogaila, Maskvos, Tverės ir Riazanės kunigaikščiai, imperatorius Zigmantas ir popiežiaus legatas.'
-  susije_objektai: 'location: Lietuva; location: Riazanė; location: Tverė; location: Vokietija; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Tverė; mentioned_place: Vokietija'
+  susije_objektai: 'location: Tverė; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/popiežiaus legatas|popiežiaus legatas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_person: [[objektai/asmenys/imperatorius Zigmantas|imperatorius Zigmantas]]; mentioned_place: Lietuva; mentioned_place: Riazanė; mentioned_place: Tverė; mentioned_place: Vokietija'
   pagrindžia:
     - c-012
 
@@ -777,7 +777,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   global_id: t-177792
   teiginys: '1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir atitinka citatoje nurodytus asmenis bei vietas.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Livonija; location: Mazovija; location: Prūsija; location: Riazanė; location: Trakai; location: Tverė; location: Valakija; location: Vilnius; mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Mazovijos kunigaikščiai|Mazovijos kunigaikščiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Tverės ir Riazanės kunigaikščiai|Tverės ir Riazanės kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/metropolitas|metropolitas]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vasilijus Vasiljevičius|Vasilijus Vasiljevičius]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Mazovija; mentioned_place: Prūsija; mentioned_place: Riazanė; mentioned_place: Trakai; mentioned_place: Tverė; mentioned_place: Valakija; mentioned_place: Vilnius'
   pagrindžia:
     - c-023
 
@@ -990,127 +990,36 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
   temporalinis_llm_pakomentavimas: 'Teiginys geras, bet perrašomas kaip švarus enciklopedinis sakinys be OCR konteksto.'
   pagrindžia:
     - c-076
-- susijęs iš [[objektai/asmenys/Birutė.md#claim-t-176318|Birutė]]: Birutė neįgijo krikščioniško vardo, buvo palaidota kaip pagonė, o jos legenda išliko ir įsigalint krikščionybei.
-- susijęs iš [[objektai/asmenys/Mykolas (Švitrigailos sūnus).md#claim-t-87798|Mykolas (Švitrigailos sūnus)]]: Kunigaikštis Mykolas, Švitrigailos sūnus ir bendrininkas, mirė nunuodytas tremtyje Maskvoje ir buvo palaidotas Vilniaus katedroje.
 - susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
 - susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51192|Vosylius]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.
-- susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176291|Algirdas (Lietuvos valdovas)]]: Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.
-- susijęs iš [[objektai/asmenys/Andrejus Kurbskis.md#claim-t-186030|Andrejus Kurbskis]]: Maskvėnai derybose reikalavo, kad karalius išduotų perbėgėlį Andrejų Kurbskį su visais palydovais.
-- susijęs iš [[objektai/asmenys/Bazilijus Serebrianas.md#claim-t-40066|Bazilijus Serebrianas]]: Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei.
-- susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87597|Borisas (Tverės kunigaikštis)]]: 1430 m. Tverės kunigaikštis Borisas buvo tarp svečių, suvažiavusių pas Vytautą kartu su kitų žemių valdovais ir didikais.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
 - susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
 - susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
-- susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-183741|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą su šeima ir bajorais, o vėliau buvo garbingai išlydėtas su dovanomis.
-- susijęs iš [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis).md#claim-t-39538|Ivanas (Tverės didysis kunigaikštis)]]: Tverės didysis kunigaikštis Ivanas prieš mūšį lankėsi pas Vytautą ir buvo garbingai išlydėtas su daugybe dovanų.
-- susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-26597|Ivanas Fiodorovas]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-184713|Ivanas Vasiljevičius]]: Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.
-- susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186047|Jonas Gornostajus]]: Karalius pavedė Jonui Gornostajui, Lietuvos raštininkui, kartu su kitais pasiuntiniais vykti pas Vasilijų į Maskvą.
 - susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
 - susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
-- susijęs iš [[objektai/asmenys/Madykas.md#claim-t-40323|Madykas]]: Kunigaikštis Madykas buvo murzos Sivinduko tėvas.
-- susijęs iš [[objektai/asmenys/Martynas Volodkovičius.md#claim-t-186066|Martynas Volodkovičius]]: Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79107|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79108|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-79109|Michailas Aleksandrovičius]]: 1370 m. Tverės kunigaikštis Michailas Aleksandrovičius siekė, kad Algirdas surengtų antrąjį žygį prieš Maskvą.
-- susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186359|Mikalojus Radvila]]: Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto.
-- susijęs iš [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas.md#claim-t-186156|Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]]: Karalius pavedė Petrui Kiškai, Bogušui Bogovitinui ir Jonui Gornostajui vykti į Maskvą kaip pasiuntiniams pas Vasilijų.
-- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
 - susijęs iš [[objektai/asmenys/Simonas (Maskvos kunigaikštis).md#claim-t-87851|Simonas (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Simonas buvo valdovas, pas kurį pabėgęs Jaunutis pasislėpė ir priėmė graikų apeigų tikėjimą.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
-- susijęs iš [[objektai/asmenys/Vaitiekus Kiočka.md#claim-t-186262|Vaitiekus Kiočka]]: Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
 - susijęs iš [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis).md#claim-t-185992|Vasilijus (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai Marienburge surengtos palydėtuvės.
-- susijęs iš [[objektai/asmenys/Vasilijus Berezuiskis.md#claim-t-39663|Vasilijus Berezuiskis]]: Kunigaikštis Vasilijus Berezuiskis buvo mirtinai sužeistas lietuvio ietimi ant Volokolamsko tilto.
-- susijęs iš [[objektai/asmenys/Vasilijus.md#claim-t-185977|Vasilijus]]: Kunigaikštis Vasilijus, gavęs žinią apie pralaimėjimą, paliko kariuomenę prie Smolensko ir pabėgo į Maskvą.
-- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
-- susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
-- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-183768|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/asmenys/Vladimiras Andrejevičius.md#claim-t-39674|Vladimiras Andrejevičius]]: Kunigaikštis Vladimiras Andrejevičius su pulku stovėjo prie Peremyšlio, kai didysis kunigaikštis Dmitrijus buvo užsidaręs Kremliuje.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-184860|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Karalius Vladislovas atkakliai ragino valdovą nusileisti.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/asmenys/Vosylius (Maskvos kunigaikštis).md#claim-t-35328|Vosylius (Maskvos kunigaikštis)]]: 1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.
 - susijęs iš [[objektai/asmenys/Vosylius I.md#claim-t-64267|Vosylius I]]: 1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.
-- susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72025|Atskiri Lietuvos seimai]]: XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.
-- susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
-- susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
-- susijęs iš [[objektai/ivykiai/1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis.md#claim-t-186802|1503 m. LDK ir Maskvos paliaubų sudarymas ir patvirtinimas priesaikomis]]: Maskvos didysis kunigaikštis Ivanas III Vasiljevičius ir jo įpėdinis Vasilijus paliaubas prisiekė 1503 m. balandžio 2 d.
 - susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas.md#claim-t-187467|Algirdo žygis į Maskvą ir taika su Dimitrijumi per Velykas]]: Algirdas ir Maskvos valdovas Dimitrijus sutarė sudaryti taiką, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros.
-- susijęs iš [[objektai/ivykiai/Algirdo žygis į Maskvą.md#claim-t-187458|Algirdo žygis į Maskvą]]: Lietuvos metraštis pasakoja, kad po susitarimo Maskvos didysis kunigaikštis susitiko su Algirdu ir dovanojo jam daug aukso, sidabro, perlų ir kailių.
-- susijęs iš [[objektai/ivykiai/Jonas III pirmasis kardu užatakavo Lietuvą.md#claim-t-31420|Jonas III pirmasis kardu užatakavo Lietuvą]]: 1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.
-- susijęs iš [[objektai/ivykiai/Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.).md#claim-t-185616|Maskvos kunigaikščio įsitvirtinimas Tverėje ir Tverės kunigaikščio pabėgimas pas Kazimierą (1486 m.)]]: Tverėje kilus maištui, teisėtas kunigaikštis buvo išvytas, o Tverė susivienijo su maskvėnais.
-- susijęs iš [[objektai/ivykiai/Maskvos valdovo karo paskelbimas Aleksandrui.md#claim-t-185749|Maskvos valdovo karo paskelbimas Aleksandrui]]: Maskvos valdovas paskelbė Aleksandrui karą, kaltindamas jį sutarčių laužymu ir Elenos spaudimu pereiti į Romos tikėjimą.
-- susijęs iš [[objektai/paprociai/Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas.md#claim-t-185869|Diplomatinis pasiuntinių sutikimas, priėmimas ir vaišinimas atskiriant derybų pareigas]]: Karalius senatoriams atskyrė pareigas: vieni turėjo sutikti, priimti ir vaišinti maskvėnų pasiuntinius, o kiti derėtis dėl valstybės reikalų.
 - susijęs iš [[objektai/paprociai/Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius.md#claim-t-185854|Taikos sudarymas per tarpininką, senato pritarimą ir įgaliotus pasiuntinius]]: Maskvos kunigaikštis Vasilijus per tarpininką siūlė taiką, žadėjo siųsti įgaliotus legatus, o didikai paragino karalių taikai pritarti.
-- susijęs iš [[objektai/posakiai/būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros.md#claim-t-09682|būsiu tavo žemėje po skaistaus pavasario, po tykios vasaros]]: Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros.
 - susijęs iš [[objektai/posakiai/daugiau nebelieti krikščionių kraujo.md#claim-t-185476|daugiau nebelieti krikščionių kraujo]]: Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau nebelieti krikščionių kraujo.
 - susijęs iš Algirdo ir Dimitrijaus taikos sutartis: Algirdas ir Maskvos valdovas Dimitrijus susitarė dėl taikos, pagal kurią Lietuvos sienos turėjo būti praplėstos iki Možaisko ir Ugros upės.
 - susijęs iš Lietuvos metraštis (Bychovco kronika): Bychovco kronikoje teigiama, kad 1368 m. Maskvos didysis kunigaikštis Dmitrijus sulaužė taiką, pasiųsdamas Algirdui karo paskelbimą.
-- susijęs iš Didysis Naugardas: Algirdas ir Maskvos kunigaikštis siekė išplėsti savo įtaką Didžiajame Naugarde, Pskove, Smolenske ir Tverėje.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš Riazanė: Maskvos valdovas į slaptą sąjungą prieš Vytautą buvo įtraukęs Riazanę ir Tverės kunigaikštį Mykolą.
 - susijęs iš Viazma: Po amžinos taikos sutarties Maskvos valdovas Ivanas Vasiljevičius pasiliko Viazmą ir kitus minėtus miestus bei valsčius sau.
-- susijęs iš Zabluduvas: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš Švedija: Švedijos karalius atsisakė siūlomos karo sąjungos, bijodamas galimo Maskvos puolimo.
-- susijęs iš [[objektai/zodynas/Romos tikėjimas.md#claim-t-185409|Romos tikėjimas]]: Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Soltanui raginti Eleną pereiti į Romos tikėjimą.
 - susijęs iš [[objektai/zodynas/legatai.md#claim-t-185419|legatai]]: Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti didesnių įgaliojimų turinčius legatus.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-05453|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187528|seimas]]: Po Maskvos Didžiosios Kunigaikštystės pralaimėjimo karalius Aleksandras rudenį paskyrė Lenkijos ponams seimą Radome.
-- susijęs iš [[objektai/zodynas/taikytojas.md#claim-t-185369|taikytojas]]: Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuostolius.
-- susijęs iš [[objektai/asmenys/Andrius Mackevičius.md#claim-t-186094|Andrius Mackevičius]]: Andrius Mackevičius, slaptosios karaliaus tarybos narys, priklausė pasiuntinybei į Maskvą.
-- susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Elena.md#claim-t-54957|Elena (vyskupas, XV–XVI a.)]]: 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82288|Elena (vyskupas, XV–XVI a.)]]: 1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Jonas Kauneckas.md#claim-t-18978|Jonas Kauneckas]]: Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/asmenys/Mykolas Rusalka.md#claim-t-87801|Mykolas Rusalka]]: Mykolas Rusalka lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. vasarį atvyko iš Maskvos į Vilnių.
 - susijęs iš [[objektai/asmenys/Simonas Rapolovskis.md#claim-t-87852|Simonas Rapolovskis]]: Kunigaikštis Simonas Rapolovskis lydėjo didžiąją kunigaikštytę Eleną, kai ji 1496 m. atvyko iš Maskvos į Vilnių.
-- susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
-- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
-- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
-- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
-- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
 - susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
-- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-184334|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
-- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96867|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
-- susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/ivykiai/LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia.md#claim-t-186801|LDK ir Lenkijos talkos delegacijos kelionė į Maskvą ir derybų pradžia]]: LDK ir Lenkijos talkos delegacija į Maskvą išvyko 1503 m. vasario pradžioje ir atvyko kovo 4 d.
 - susijęs iš [[objektai/ivykiai/Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas.md#claim-t-185529|Pasiuntinybė į Maskvą, sulaikymas Možaiske ir legatų paleidimas]]: Kai karaliaus legatai keliavo namo, Maskvą pasiekė žinia apie valachų pasiuntinių sulaikymą ir nuvarymą į Vilnių.
-- susijęs iš [[objektai/paprociai/Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas.md#claim-t-87198|Aleksandro ir Elenos sutikimo, mišrių apeigų santuokos ir vestuvių vaišių ritualas]]: 1496 m. vasarį Elena atvyko į Vilnių iš Maskvos su bojarinų ir dvariškių palyda, o Aleksandras ją pasitiko kelyje į Nemėžį.
-- susijęs iš Kazanė: Į Vytauto suvažiavimą atvyko ir Kazanės pasiuntiniai.
-- susijęs iš Kijevas: Lietuvos metraštyje pasakojama, kad kunigaikštis Vladimiras atvyko iš Kijevo pas Vytautą, kuris tais pačiais metais jį iškėlė iš Kijevo.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo kunigaikščiai ir kitų kraštų valdovai bei pasiuntiniai.
-- susijęs iš Naugardas: Į Vytauto susitikimą atvyko Naugardo ir Pskovo kunigaikščiai, taip pat kitų valstybių valdovai bei pasiuntiniai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Naugardo bei Pskovo kunigaikščiai.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko Pskovo kunigaikščiai ir kitų kraštų valdovų bei miestų atstovai.
-- susijęs iš Pskovas: 1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.
-- susijęs iš Pskovas: Į Vytauto suvažiavimą atvyko ir Pskovo kunigaikščiai.
-- susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
-- susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
 - susijęs iš Tverė: Į Vytauto suvažiavimą atvyko Maskvos didysis kunigaikštis, Tverės-Riazanės, Naugardo ir Pskovo kunigaikščiai bei kiti pasiuntiniai.
-- susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
-- susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
 - susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
-- susijęs iš Vilnius: 1495 m. vasario 15 d. Maskvos kunigaikštytė Elena atvyko į Vilnių, kur tą pačią dieną Vilniaus katedroje įvyko jos jungtuvės su Aleksandru.
-- susijęs iš [[objektai/zodynas/bojarinai.md#claim-t-86460|bojarinai]]: Didžioji kunigaikštytė Elena į Vilnių atvyko lydima bojarinų Simono Rapolovskio, Mykolo Rusalkos ir Prokopo Zinovjevičiaus.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75628|A. Hitleris]]: 1939 m. balandį Lietuvos kariuomenės vadas S. Raštikis dalyvavo A. Hitlerio 50-mečio šventime.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77967|A. Smetona]]: Grėsmės akivaizdoje A. Smetona leido A. Merkiui pasirašyti sutartis, jei jos nepažeistų 1939 m. spalio 10 d. sutarties.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
@@ -1160,6 +1069,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-40085|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
 - susijęs iš [[objektai/asmenys/Dovydas Gardiniškis.md#claim-t-30225|Dovydas Gardiniškis]]: Pagal M. Stryjkovskio kroniką, Dovydo Gardiniškio žmona buvo Gediminaitė.
 - susijęs iš [[objektai/asmenys/Edvardas Rydzas-Smiglas.md#claim-t-18881|Edvardas Rydzas-Smiglas]]: Edvardas Rydzas-Smiglas pakvietė generolą Stasį Raštikį oficialiai apsilankyti Lenkijoje.
+- susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-184695|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena, didikams išvykus į seimą, pamėgino pabėgti į Maskvos kunigaikštystę.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54956|Elena (vyskupas, XV–XVI a.)]]: Elena buvo Ivano Vasiljevičiaus duktė, kurią Aleksandras nusprendė vesti siekdamas užgesinti politinius vaidus.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54957|Elena (vyskupas, XV–XVI a.)]]: 1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.
@@ -1222,6 +1132,7 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Jonas Gornostajus.md#claim-t-186048|Jonas Gornostajus]]: Lietuvos raštininkas Jonas Gornostajus karaliaus vardu atsakė į prašymus dėl valachų pasiuntinių ir Severino Norvedo.
 - susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30308|Jonas Kalita]]: Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.
 - susijęs iš [[objektai/asmenys/Jonas Kalita.md#claim-t-30309|Jonas Kalita]]: Totorių palaikomas Jonas Kalita savo valdžion užiminėjo rusų žemes.
+- susijęs iš [[objektai/asmenys/Jonas Kauneckas.md#claim-t-18978|Jonas Kauneckas]]: Jonas Kauneckas priklausė 1978 m. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/asmenys/Jonas Olbrachtas.md#claim-t-185966|Jonas Olbrachtas]]: Jonas Olbrachtas per Aleksandrą Skorutą ragino Ivaną sutikti su teisingomis taikos sąlygomis.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Jonas Semenavičius Zažeckis.md#claim-t-87732|Jonas Semenavičius Zažeckis]]: Jonas Semenavičius Zažeckis savo iniciatyva ir lėšomis prisidėjo prie 1575 metais Vilniuje išspausdintos knygos „Cztėry Ewangelje“.
@@ -1371,6 +1282,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64237|Viačeslavas Molotovas]]: Viačeslavas Molotovas pakvietė Lietuvos ministrą Juozą Urbšį atvykti į Maskvą.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64238|Viačeslavas Molotovas]]: 1940 m. birželio 14 d. Juozas Urbšys iš Viačeslavo Molotovo gavo ultimatumą, kuriuo reikalauta įsileisti papildomus sovietų karinius dalinius ir pakeisti vyriausybę.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64239|Viačeslavas Molotovas]]: Viačeslavas Molotovas 1940 m. birželio 7 d. Maskvoje brutaliu elgesiu sukrėtė Antaną Merkį.
+- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
+- susijęs iš [[objektai/asmenys/Vincentas Vėlavičius.md#claim-t-19318|Vincentas Vėlavičius (kunigas)]]: Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.
 - susijęs iš [[objektai/asmenys/Višnioveckis.md#claim-t-186170|Višnioveckis]]: Skitai paėmė kunigaikštį Višnioveckį, jo žmoną ir visą šeimyną ir išvežė juos į Skitiją.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-183767|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
 - susijęs iš [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis).md#claim-t-39673|Vladimiras (Pronsko kunigaikštis)]]: Pronsko kunigaikštis Vladimiras su Riazanės kariais žygiavo Maskvos link.
@@ -1451,6 +1364,8 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-10166|Vėliavos]]: 1368 m. Algirdas su savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/daiktai/Vėliavos.md#claim-t-176217|Vėliavos]]: Algirdas su visomis savo pajėgomis ir išskleistomis vėliavomis pasirodė ant Pasveikinimo kalno prie Maskvos.
 - susijęs iš [[objektai/grupes/Alšėniškių giminė.md#claim-t-187770|Alšėniškių giminė]]: Fedoras Ivanovičius Jaroslavičius LDK buvo susigiminiavęs su Goštautais, Olelkaičiais ir Alšėniškiais.
+- susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72025|Atskiri Lietuvos seimai]]: XVII a., lietuviams pradėjus rinkti karalius bendrai su lenkais nuo Vladislovo Vazos, atskiri Lietuvos seimai ėmė nykti.
+- susijęs iš [[objektai/grupes/Atskiri Lietuvos seimai.md#claim-t-72026|Atskiri Lietuvos seimai]]: Pats karalius ne kartą sušaukdavo atskirus seimus, nepaisydamas unijos akto nuostatų.
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05238|Auksinė Orda]]: Auksinė Orda šiame šaltinyje tiesiogiai įvardijama kaip XIV amžiaus gale silpnėjusi totorių valstybė.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-05239|Auksinė Orda]]: Vytautas žadėjo Tochtamišą pasodinti Aukso ordoje ir tikėjosi už tai įtakos Maskvoje.
@@ -3727,73 +3642,23 @@ Maskva šiame šaltinyje aprašoma kaip svarbiausias Lietuvos rytinis kaimynas i
     - t-102
 
 ## Ryšiai
-- [[objektai/asmenys/Birutė]] mire Maskva
-- [[objektai/asmenys/Mykolas (Švitrigailos sūnus)]] mire Maskva
 - [[objektai/asmenys/Vosylius]] valde_teritorija Maskva
 - [[objektai/asmenys/Vosylius II]] valde_teritorija Maskva
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Maskva
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Andrejus Kurbskis]] buvo_valdovas Maskva
-- [[objektai/grupes/Atskiri Lietuvos seimai]] susije_su Maskva
-- [[objektai/asmenys/Augustas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Bazilijus Serebrianas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/grupes/Chodkevičiai]] pastate Maskva
 - [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]] buvo_valdovas Maskva
 - [[objektai/asmenys/Dimitrijus]] buvo_valdovas Maskva
+- [[objektai/asmenys/Dmitrijus]] buvo_valdovas Maskva
 - [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Eustachijus Valavičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Gediminas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Ivanas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Ivanas (Tverės didysis kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Ivanas Fiodorovas]] pastate Maskva
 - [[objektai/asmenys/Ivanas Vasiljevičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Jonas Gornostajus]] buvo_valdovas Maskva
 - [[objektai/asmenys/Jonas Kalita]] buvo_valdovas Maskva
 - [[objektai/asmenys/Jurgis (Danieliaus sūnus)]] buvo_valdovas Maskva
 - [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Konstantinas Ostrogiškis]] buvo_valdovas Maskva
 - [[objektai/grupes/Krymo chanatas]] susije_su Maskva
-- [[objektai/asmenys/Madykas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Martynas Volodkovičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Maskva
-- [[objektai/asmenys/Petras Kiška, Bogušas Bogovitinas ir Stanislovas Daugirdas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Petras Šuiskis]] buvo_valdovas Maskva
 - [[objektai/asmenys/Simonas (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Skirmantas]] buvo_valdovas Maskva
-- [[objektai/asmenys/Steponas Batoras]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vaitiekus Kiočka]] buvo_valdovas Maskva
 - [[objektai/asmenys/Vasilijus]] buvo_valdovas Maskva
 - [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vasilijus Berezuiskis]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vladimiras (Pronsko kunigaikštis)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vladimiras Andrejevičius]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Maskva
 - [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)]] buvo_valdovas Maskva
 - [[objektai/asmenys/Vosylius I]] buvo_valdovas Maskva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] buvo_valdovas Maskva
-- [[objektai/asmenys/Aleksandras]] keliavo_i Maskva
-- [[objektai/asmenys/Barbora Radvilaitė]] keliavo_i Maskva
 - [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] keliavo_i Maskva
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Maskva
-- [[objektai/asmenys/Jonas Kauneckas]] susije_su Maskva
-- [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis (kunigas)]] susije_su Maskva
-- [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause Maskva
-- [[objektai/grupes/Maskvos Helsinkio grupė]] priklause Maskva
 - [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Maskva
-- [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Maskva
 - [[objektai/asmenys/Mykolas Rusalka]] keliavo_i Maskva
-- [[objektai/grupes/Riurikaičių dinastija]] priklause Maskva
-- [[objektai/vietos/Saremos]] priklause Maskva
 - [[objektai/asmenys/Simonas Rapolovskis]] keliavo_i Maskva
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Maskva
-- [[objektai/asmenys/Tomas Venclova]] susije_su Maskva
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Maskva
-- [[objektai/grupes/Valachai]] priklause Maskva
-- [[objektai/asmenys/Vasilijus]] keliavo_i Maskva
-- [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Maskva
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Maskva

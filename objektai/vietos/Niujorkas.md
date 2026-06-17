@@ -43,8 +43,6 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai mini Niujorką ir citata patvirtina nurodytą imigrantų suaktyvėjimą.'
   pagrindžia:
     - c-002
-- susijęs iš Pensilvanija: Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.
-- susijęs iš Čikaga: 1910 m. JAV Pensilvanijoje, Čikagoje ir Niujorke gyveno 207 tūkst. lietuvių.
 - susijęs iš [[objektai/asmenys/Juozas Gabrys-Paršaitis.md#claim-t-19014|Juozas Gabrys-Paršaitis]]: Juozas Gabrys-Paršaitis vadovavo Lietuvių informacijos biurui Lozanoje, kurio veiklą finansiškai rėmė JAV lietuviai.
 - susijęs iš [[objektai/asmenys/Magdalena Avietėnaitė.md#claim-t-19122|Magdalena Avietėnaitė]]: Magdalena Avietėnaitė vadovavo rengiant specialų Lietuvos skyrių 1939 m. pasaulinei parodai Niujorke.
 - susijęs iš [[objektai/asmenys/Stasys Girėnas.md#claim-t-183570|Stasys Girėnas]]: 1933 m. liepos 15–17 d. Steponas Darius ir Stasys Girėnas lėktuvėliu „Lituanica“ atliko tiesioginį skrydį iš Niujorko į Lietuvą.

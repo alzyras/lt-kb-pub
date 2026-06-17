@@ -31,8 +31,8 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
   global_id: t-89794
   teiginys: 'Helmerichas buvo šeštasis Prūsijos žemės magistras, vadovavo trejus metus ir buvo palaidotas Kulmenzės bažnyčioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Kulmenzė; location: Prūsija; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Helmerichas|Helmerichas]] mirė Kulmenzė; [[objektai/asmenys/Helmerichas|Helmerichas]] mirė Prūsija'
+  susije_objektai: 'location: Kulmenzė; mentioned_place: Kulmenzė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Helmerichas|Helmerichas]] mirė Kulmenzė'
   pagrindžia:
     - c-001
 
@@ -102,4 +102,3 @@ Dusburgietis teigia, kad apie brolį Helmerichą, Prūsijos žemės magistrą, 1
 
 ## Ryšiai
 - Helmerichas mire [[objektai/vietos/Kulmenzė]]
-- Helmerichas mire [[objektai/vietos/Prūsija]]

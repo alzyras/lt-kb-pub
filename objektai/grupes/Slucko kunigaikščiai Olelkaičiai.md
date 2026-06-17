@@ -28,10 +28,9 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys turi konkretų asmenį, valdas ir mirties datą, todėl yra tinkamas faktinis sakinys. Nepridėta genealoginė informacija apie Vladimiro palikuonis.'
-  susije_objektai: 'territory: Sluckas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Sluckas'
-  semantiniai_rysiai: '[[objektai/grupes/Slucko kunigaikščiai Olelkaičiai|Slucko kunigaikščiai Olelkaičiai]] valdė teritoriją Sluckas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1505 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Slucko kunigaikščiai Olelkaičiai valdė teritoriją Sluckas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Sluckas'
+  temporaliniai_duomenys: 'įvykio data: 1505 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys turi konkretų asmenį, valdas ir mirties datą, todėl yra tinkamas faktinis sakinys. Nepridėta genealoginė informacija apie Vladimiro palikuonis.'
   pagrindžia:
     - c-001
@@ -84,6 +83,3 @@ Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Slucko kunigaikščiai Olelkaičiai valde_teritorija [[objektai/vietos/Sluckas]]

@@ -32,7 +32,7 @@ amziai:
   global_id: t-85965
   teiginys: 'Po gaisrų karalius atstatė Vilniaus pilį iš griuvėsių ir pavertė ją patogiais savo apartamentais.'
   sudarymo_pagrindimas: 'Citata pagrindžia pilies atstatymą ir paskirtį, o pradiniame teiginyje buvo tik puslapio triukšmas.'
-  susije_objektai: 'territory: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -65,7 +65,7 @@ amziai:
   global_id: t-85968
   teiginys: 'Karalius Žygimantas savo sukauptas knygas lotynų, lenkų, rusų ir čekų kalbomis saugojo Vilniaus pilyje.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatą.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Čekai|Čekai]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-003
 

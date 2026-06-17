@@ -83,7 +83,7 @@ amziai:
   global_id: t-123005
   teiginys: 'Vytauto tėvas, gindamas Žemaitijos ir lietuvių laisvę, nuolat kariavo su kardininkais iš šiaurės ir kryžiuočiais iš vakarų.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi OCR pažeistą pabaigą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; counterparty: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -134,7 +134,7 @@ amziai:
   global_id: t-123010
   teiginys: 'Kęstutis su stipriais pulkais iš Žemaitijos atvyko į pagalbą sūnui Vytautui Trakų pilyje.'
   sudarymo_pagrindimas: 'Perrašyta, kad būtų aiškiai įvardytas sūnus ir kontekstas.'
-  susije_objektai: 'location: Trakai; location: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
+  susije_objektai: 'location: Trakai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-034
 
@@ -164,8 +164,7 @@ amziai:
   global_id: t-123013
   teiginys: 'Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui.'
   sudarymo_pagrindimas: 'Sakinys yra aiškus faktinis teiginys apie Žemaitiją.'
-  susije_objektai: 'owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: 'Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Žemaitija priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Žemaitija priklausė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -546,8 +545,7 @@ amziai:
   global_id: t-123055
   teiginys: 'Po Lietuvos krikšto Žemaitija vis dar priklausė Vokiečių ordinui, kuris kėlė egzistencinį pavojų Lietuvos valstybei.'
   sudarymo_pagrindimas: 'Sakinys tiksliai perteikia citatos informaciją.'
-  susije_objektai: 'owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: 'Žemaitija priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Žemaitija priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]; Žemaitija priklausė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-010
 
@@ -673,7 +671,7 @@ amziai:
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia išsamesnį faktą apie pasiuntinių veiklą Žemaitijoje.'
-  susije_objektai: 'location: Vilnius; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Vilnius'
   pagrindžia:
     - c-050
 
@@ -691,7 +689,6 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Tai ne kronikos faktas apie Žemaitiją, o šaltinio vertinimas, todėl reikia priskyrimo.'
   pagrindžia:
     - c-051
-- susijęs iš [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas).md#claim-t-186234|Liudvikas (Brandenburgo markgrafas)]]: Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją.
 - susijęs iš [[objektai/asmenys/Germantas.md#claim-t-184706|Germantas]]: Po Germanto mirties Kernavės didikų sueigoje jo vyresnysis sūnus Giliginas paskelbtas Lietuvos valdovu.
 - susijęs iš [[objektai/asmenys/Jonas Domicini iš Rogūzos.md#claim-t-35146|Jonas Domicini iš Rogūzos]]: Kardinolas Jonas Domicini iš Rogūzos pasisiūlė vykti į Lietuvą, o jam į pagalbą buvo paskirti dar du vyskupai.
 - susijęs iš [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas).md#claim-t-186234|Liudvikas (Brandenburgo markgrafas)]]: Liudvikas, Brandenburgo markgrafas ir imperatoriaus Liudviko sūnus, su rinktine kariuomene atvyko į Prūsiją.
@@ -1786,9 +1783,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-067
-
-## Ryšiai
-- [[objektai/asmenys/Liudvikas (Brandenburgo markgrafas)]] keliavo_i Žemaitija
-- Žemaitija priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Žemaitija priklause [[objektai/vietos/Lietuva]]
-- Žemaitija priklause [[objektai/grupes/Vokiečiai]]

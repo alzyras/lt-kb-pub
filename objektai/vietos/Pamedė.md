@@ -60,14 +60,9 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   global_id: t-116520
   teiginys: 'Pamedės kilmingasis Samilis padėjo badaujančiai Kristburgo piliai, nors gyveno tarp priešų ir tikėjimą bei brolius gerbė slapta.'
   sudarymo_pagrindimas: 'Nutrūkęs tekstas perrašytas į aiškų faktą apie Pamedės asmenį.'
-  susije_objektai: 'location: Pamedė; mentioned_person: [[objektai/asmenys/Samilis|Samilis]]; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Zirgūna'
-  semantiniai_rysiai: '[[objektai/asmenys/Samilis|Samilis]] gyveno Pamedė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Samilis|Samilis]]; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Prūsai; mentioned_place: Zirgūna'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Pipinas.md#claim-t-59996|Pipinas]]: Pamedės kilmingasis Pipinas gyveno pilaitėje ir su būriais puldinėjo iš pilies išėjusius krikščionis.
-- susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
-- susijęs iš [[objektai/asmenys/P. Speratas.md#claim-t-60403|P. Speratas]]: Pamedės vyskupui P. Speratui priklausė knyga, iš kurios 1540 m. pradėtas perrašinėti Karaliaučiaus bibliotekos tekstas.
-- susijęs iš [[objektai/ivykiai/Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas.md#claim-t-66557|Henriko Meiseno markgrafo žygis į Pamedę, pilių naikinimas ir pamedėnų pavergimas]]: Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.
 - susijęs iš [[objektai/asmenys/Albrechtas (Pamedės vyskupas).md#claim-t-60229|Albrechtas (Pamedės vyskupas)]]: Albrechtas, Pamedės vyskupas, Prūsijos žemėje pastatė Rizenburgo pilį ir miestą.
 - susijęs iš [[objektai/asmenys/Albrechtas (Prūsijos hercogas).md#claim-t-60230|Albrechtas (Prūsijos hercogas)]]: Karaliaučiaus karališkos bibliotekos nuorašo viršelyje buvo Prūsijos hercogo Albrechto herbas, rodęs tuometinį jo šeimininką.
 - susijęs iš [[objektai/asmenys/Anonas (didysis magistras).md#claim-t-60083|Anonas (didysis magistras)]]: Didysis magistras Anonas įsakė Prūsijos magistrui ir broliams pastatyti pilį Osos pakrantėje, Kulmo ir Pamedės vyskupysčių pasienyje.
@@ -239,9 +234,3 @@ Tuo būdu, greta ordino komturijų, krašte dar buvo vyskupų valdomų kunigaik�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Pipinas]] gyveno Pamedė
-- [[objektai/asmenys/Samilis]] gyveno Pamedė
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Pamedė
-- [[objektai/grupes/Lotynai]] priklause Pamedė

@@ -129,7 +129,7 @@ Dusburgas viešuose įrašuose jau minimas kaip Kryžiuočių ordino kronikinink
   global_id: t-102851
   teiginys: 'Dusburgas rašė, kad brolių vėliava nuo ryto iki vidurdienio kovojo kalne priešais Gedimino pilį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Dusburgo pasakojimą ir atitinka citatą.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Gediminas|Gediminas]]; counterparty: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Pagraudenė; mentioned_place: Prūsija'
+  susije_objektai: 'counterparty: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_object: [[objektai/zodynas/komtūras|komtūras]]; mentioned_object: [[objektai/zodynas/vėliava|vėliava]]; mentioned_person: [[objektai/asmenys/Eberhardas (Varmės vyskupas)|Eberhardas (Varmės vyskupas)]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Pagraudenė; mentioned_place: Prūsija'
   pagrindžia:
     - c-010
 

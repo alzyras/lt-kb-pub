@@ -39,7 +39,7 @@ Sukilėlių pajėgos buvo suskirstytos į tris grupes - Klaipėdos, Pagėgių ir
 - t-003
   global_id: t-41998
   teiginys: 'Sausio 14 d. iš Pagėgių atvyko dalis II ir III grupių sukilėlių pagrindinėms pajėgoms sustiprinti.'
-  susije_objektai: 'location: Šilutė; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Šilutė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_place: Šilutė'
   pagrindžia:
     - c-003
 

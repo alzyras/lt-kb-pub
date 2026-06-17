@@ -90,7 +90,6 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai apibūdina kazokų rūšį ir karinę paskirtį.'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79042|Jonas Karolis Katkevičius]]: 1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.
 - susijęs iš [[objektai/asmenys/Antoine Gramont.md#claim-t-40035|Antoine Gramont]]: Prancūzijos grafas Antoine Gramont 1663-1664 m. pasakojo apie kazokus, tarnavusius Lenkijos-Lietuvos kariuomenėse.
 - susijęs iš [[objektai/asmenys/B. Zenavičius.md#claim-t-40059|B. Zenavičius]]: Etmono svainis B. Zenavičius žuvo mūšyje su turkais.
 - susijęs iš [[objektai/asmenys/Eustachijus Daškevičius.md#claim-t-186199|Eustachijus Daškevičius]]: Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.
@@ -310,5 +309,4 @@ amziai:
     - t-007
 
 ## Ryšiai
-- [[objektai/asmenys/Jonas Karolis Katkevičius]] kariavo_pries Kazokai
 - Kazokai dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]

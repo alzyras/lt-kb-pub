@@ -76,7 +76,6 @@ Nenurodyta
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas.md#claim-t-186619|Žemaičių krikštas ir Žemaičių vyskupijos įsteigimas (krikštas, XV a.)]]: Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.
 - susijęs iš [[objektai/asmenys/Aleksas Jefremovičius.md#claim-t-87617|Aleksas Jefremovičius]]: 1432 metais Aleksas Jefremovičius su Joachimu ir Pskovo bojarinais atvyko pas Švitrigailą sudaryti sutarties.
 - susijęs iš [[objektai/asmenys/Joachimas (Pskovo vietininkas).md#claim-t-87706|Joachimas (Pskovo vietininkas)]]: 1432 m. Pskovo vietininkas Joachimas su Aleksu Jefremovičiumi ir Pskovo bajorais sudarė sutartį su Švitrigaila.
 - susijęs iš [[objektai/asmenys/Klemensas Moskorzewskis.md#claim-t-30333|Klemensas Moskorzewskis]]: Klemensas Moskorzewskis vadovavo lenkų įgulai, kurią Jogaila atsiuntė į sau pasiliktą Vilnių.
@@ -311,6 +310,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate metraštis

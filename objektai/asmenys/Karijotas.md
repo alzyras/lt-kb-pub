@@ -37,8 +37,8 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas aiškiai citatos paremtas faktas apie Karijotą.'
-  susije_objektai: 'territory: Lietuva; territory: Naugardukas; territory: Podolė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Podolė'
-  semantiniai_rysiai: '[[objektai/asmenys/Karijotas|Karijotas]] valdė teritoriją Lietuva; [[objektai/asmenys/Karijotas|Karijotas]] valdė teritoriją Naugardukas; [[objektai/asmenys/Karijotas|Karijotas]] valdė teritoriją Podolė'
+  susije_objektai: 'territory: Naugardukas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Naugardukas; mentioned_place: Podolė'
+  semantiniai_rysiai: '[[objektai/asmenys/Karijotas|Karijotas]] valdė teritoriją Naugardukas'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
@@ -121,6 +121,4 @@ Lietuvos kariuomenė buvo sudaryta iš Lietuvos valdovo Algirdo ir jo brolio Kar
     - t-002
 
 ## Ryšiai
-- Karijotas valde_teritorija [[objektai/vietos/Lietuva]]
 - Karijotas valde_teritorija [[objektai/vietos/Naugardukas]]
-- Karijotas valde_teritorija [[objektai/vietos/Podolė]]

@@ -140,12 +140,9 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš citatos atkurta aiški veiksmo kryptis ir objektas.'
-  susije_objektai: 'territory: Ritersverderis; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Ritersverderis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Vygandas|Vygandas]]; mentioned_place: Ritersverderis'
   pagrindžia:
     - c-011
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
-- susijęs iš [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas.md#claim-t-87276|Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]: Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90048|Traidenis (valdovas, XIII a.)]]: Pirmasis iškilo Kernavės kunigaikštis Traidenis.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
@@ -450,7 +447,4 @@ kai kurie mokslininkai spėja tai buvus Liškiavą ar Kernavę.
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] mire Kernavė
-- [[objektai/asmenys/Kazimieras Karigaila]] mire Kernavė
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Kernavė
 - [[objektai/asmenys/Traidenis|Traidenis (valdovas, XIII a.)]] buvo_valdovas Kernavė

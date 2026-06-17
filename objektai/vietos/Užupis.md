@@ -73,7 +73,6 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   temporalinis_llm_pakomentavimas: 'Pašalintas perteklinis kontekstas ir aiškiai susietas padegimas su Užupiu.'
   pagrindžia:
     - c-004
-- susijęs iš Vilnia Vilnelė (sujungti pirminiai pavadinimai Vilnia; Vilnelė): Didysis kunigaikštis Aleksandras dovanojo Maksimui Vasiljevičiui šienaujamą pievą už Vilnelės prie kelio į Užupį.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82171|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis dovanojo Vilniaus miestiečiui Maksimui Vasiljevičiui šienaujamą pievą prie kelio į Užupį.
 - susijęs iš [[objektai/asmenys/M. Dejevas.md#claim-t-40311|M. Dejevas]]: Plk. M. Dejevas žuvo per ataką, kurioje Užupio gyventojai iš apdegusių pastatų apšaudė besitraukiantį priešą.
 - susijęs iš [[objektai/grupes/Kauno jėzuitų kolegija.md#claim-t-86798|Kauno jėzuitų kolegija]]: 1746 m. Kazimieras ir Mykolas Vežbickiai nupirko sklypus Užupyje su Kauno jėzuitų kolegijos pastatais.
@@ -170,6 +169,3 @@ Keli rusų jėgerių batalionai patyrė nuostolių ir išsibėgiojo, tačiau dal
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Užupis

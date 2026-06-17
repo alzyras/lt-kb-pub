@@ -24,8 +24,8 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   global_id: t-60121
   teiginys: 'Gerhardas gyveno Marienburgo pilyje ir prieš tapdamas vienuoliu buvo Brandenburgo markgrafo šeimynykštis bei karo pabūklų meistras.'
   sudarymo_pagrindimas: 'Teiginys aiškiai apibūdina Gerhardo statusą ir veiklą pagal citatą.'
-  susije_objektai: 'location: Marienburgas; location: Viena; mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_place: Marienburgas; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] gyveno Marienburgas; [[objektai/asmenys/Gerhardas|Gerhardas]] gyveno Viena'
+  susije_objektai: 'location: Marienburgas; mentioned_object: [[objektai/zodynas/šeimynykštis|šeimynykštis]]; mentioned_place: Marienburgas; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] gyveno Marienburgas'
   pagrindžia:
     - c-002
 
@@ -34,8 +34,8 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
   global_id: t-60122
   teiginys: 'Gerhardas, išsigandęs perspėjimo dėl savo gyvenimo būdo, atvyko į Prūsiją ir davė įžadus Teutonų ordinui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškesnį sakinį be perteklinės atribucijos.'
-  susije_objektai: 'location: Prūsija; location: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] keliavo į Prūsija; [[objektai/asmenys/Gerhardas|Gerhardas]] keliavo į Viena'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Prūsija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Gerhardas|Gerhardas]] keliavo į Prūsija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Gerhardas iš Reino.md#claim-t-184070|Gerhardas iš Reino]]: Gerhardas iš Reino su kitais broliais ir ginklanešiais nusivijo Pobravą, jį nužudė ir atėmė grobį.
@@ -105,6 +105,4 @@ Dusburgietis teigia, kad apie vieną nuostabų atsivertimą Tuo metu Marienburgo
 
 ## Ryšiai
 - Gerhardas (valdovas) gyveno [[objektai/vietos/Marienburgas]]
-- Gerhardas (valdovas) gyveno [[objektai/vietos/Viena]]
 - Gerhardas (valdovas) keliavo_i [[objektai/vietos/Prūsija]]
-- Gerhardas (valdovas) keliavo_i [[objektai/vietos/Viena]]

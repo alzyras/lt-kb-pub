@@ -32,8 +32,8 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
   global_id: t-187317
   teiginys: 'Rūdninkų medžionė priklausė daugiau kaip 3000 valakų Mendzižečės giriai, kuri buvo smarkiai nuniokota.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'owner: Rūdninkai; owner: [[objektai/grupes/Valakai|Valakai]]; owner: Viena; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Rūdninkai; mentioned_place: Viena'
-  semantiniai_rysiai: 'Rūdninkų giria priklausė [[objektai/grupes/Valakai|Valakai]]; Rūdninkų giria priklausė Rūdninkai; Rūdninkų giria priklausė Viena'
+  susije_objektai: 'owner: [[objektai/grupes/Valakai|Valakai]]; mentioned_group: [[objektai/grupes/Valakai|Valakai]]; mentioned_place: Rūdninkai; mentioned_place: Viena'
+  semantiniai_rysiai: 'Rūdninkų giria priklausė [[objektai/grupes/Valakai|Valakai]]'
   pagrindžia:
     - c-002
 
@@ -147,6 +147,4 @@ Nors Mendzižečės girios daugiau negu 3 000 valakų plotas, kuriam priklauso i
     - t-001
 
 ## Ryšiai
-- Rūdninkų giria priklause [[objektai/vietos/Rūdninkai]]
 - Rūdninkų giria priklause [[objektai/grupes/Valakai]]
-- Rūdninkų giria priklause [[objektai/vietos/Viena]]

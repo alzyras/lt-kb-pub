@@ -107,6 +107,3 @@ atnaujinta: ''
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Pisimantas buvo_valdovas [[objektai/vietos/Druckas]]

@@ -78,25 +78,10 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
   global_id: t-69001
   teiginys: 'Nuniokojus Pomeraniją, kunigaikštis Sventopelkas paprašė brolių atkurti taiką.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, o pradinis teiginys buvo nebaigtas ir perkrautas kronikos retorika.'
-  susije_objektai: 'territory: Prūsija; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
-- susijęs iš [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis).md#claim-t-63808|Kazimieras (Kujavijos kunigaikštis)]]: Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
-- susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
-- susijęs iš [[objektai/ivykiai/Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje.md#claim-t-62925|Sventopelko mirtis, Mstivojaus sukilimas ir brolių keršto žygiai Pomeranijoje (sukilimas, XIII a.)]]: Pats nusiaubtas Pomeranijos kunigaikštis Mstivojus paprašė magistro atnaujinti ankstesnį taikos susitarimą su magistru ir broliais.
 - susijęs iš [[objektai/ivykiai/Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.).md#claim-t-62496|Taikos atkūrimas tarp Sventopelko ir brolių (1246 m.)]]: Po ilgų derybų Ordino broliai ir Pomeranijos kunigaikštis Sventopelkas atnaujino ankstesnę taikos sutartį.
-- susijęs iš Dvejų metų paliaubų sutartis su kryžiuočiais: Danijos karalius ir Pomeranijos kunigaikštis perėjo į Jogailos ir Vytauto pusę ir pasižadėjo padėti kovoti prieš kryžiuočius, jei šie nepaisytų paliaubų.
-- susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93420|Konradas (Mozūrijos kunigaikštis)]]: Kunigaikštis Konradas su kitais Lenkijos kunigaikščiais atvyko į Kulmą ir prisidėjo prie Marienverderio miesto pastatymo.
-- susijęs iš [[objektai/asmenys/Odoničius.md#claim-t-60396|Odoničius]]: Gnezno kunigaikštis Odoničius su kitais Lenkijos ir Pomeranijos kilmingaisiais atvyko į Prūsiją statyti Marienverderio miesto.
-- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
-- susijęs iš [[objektai/asmenys/Samboras.md#claim-t-60202|Samboras]]: Samboras su broliu Sventopelku ir kitais kunigaikščiais atvyko į Prūsiją ir sustiprino Marienverderio pilį.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90030|Sventopelkas]]: Sventopelkas, Pomeranijos kunigaikštis, su broliu Samboru atvyko padėti statyti Marienverderio miestą.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90037|Sventopelkas]]: Sventopelkas su kariuomene atvyko stiprinti Marienverderio miesto ir pilies.
-- susijęs iš Didžioji Lenkija: Po paliaubų sutarties Vytautas nuvyko į Lietuvą, o Jogaila išvyko į Didžiąją Lenkiją.
-- susijęs iš Lietuva: Pasirašius paliaubų sutartį, Vytautas nuvyko į Lietuvą, o karalius išvyko į Didžiąją Lenkiją.
 - susijęs iš [[objektai/asmenys/Hanulas.md#claim-t-186207|Hanulas]]: 1385 m. Jogailos pasiuntinybėje į Lenkiją Hanulas dalyvavo kaip Vilniaus seniūnas.
 - susijęs iš [[objektai/asmenys/Henrikas iš Lichtenšteino.md#claim-t-60025|Henrikas iš Lichtenšteino]]: Henrikas iš Lichtenšteino 1246 m. atvyko į Prūsiją su daugeliu maldininkų ir dalyvavo žygyje į Pomeraniją.
 - susijęs iš [[objektai/asmenys/Jokūbas (vėliau Urbonas IV).md#claim-t-60337|Jokūbas (vėliau Urbonas IV)]]: Jokūbas, Liežo arkidiakonas ir vėlesnis popiežius Urbonas IV, sudarė sutartį tarp Sventopelko ir brolių.
@@ -138,6 +123,7 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78407|Notangai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pagudėnai.md#claim-t-89169|Pagudėnai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89172|Pomeranai]]: Prie Svečės pilies broliai nukovė tūkstantį penkis šimtus Pomeranijos vyrų.
+- susijęs iš [[objektai/grupes/Pomeranai.md#claim-t-89174|Pomeranai]]: Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.
 - susijęs iš [[objektai/grupes/Varmiai.md#claim-t-78547|Varmiai]]: Pamedėnai, pagudėnai, varmiai, notangai ir bartai sugrįžo į tikėjimą, davė broliams įkaitų ir iš naujo pasidavė.
 - susijęs iš [[objektai/ivykiai/Elbingo pilies ir miesto puolimas.md#claim-t-62256|Elbingo pilies ir miesto puolimas (miestas)]]: Pomeranijos kunigaikštis Sventopelkas sutelkė didelę kariuomenę ir patraukė užimti Elbingo pilies bei miesto.
 - susijęs iš [[objektai/ivykiai/Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris).md#claim-t-59646|Inovroclavo teismas dėl Pomeranijos (1320 m. balandis—1321 m. vasaris)]]: Vladislovo Lokietkos suvienyta Lenkija diplomatinėmis priemonėmis bandė atgauti kryžiuočių užgrobtą Pomeraniją.
@@ -269,15 +255,4 @@ Tik Pomeranijoje, Vyslos žemupyje bei Sembos pusiasalyje pasimaišė vienas kit
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Mstivojus]] valde_teritorija Pomeranija
-- [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)]] buvo_valdovas Pomeranija
-- [[objektai/grupes/Pomeranai]] susije_su Pomeranija
 - [[objektai/asmenys/Sventopelkas]] buvo_valdovas Pomeranija
-- [[objektai/asmenys/Henrikas iš Lichtenšteino]] keliavo_i Pomeranija
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Pomeranija
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] keliavo_i Pomeranija
-- [[objektai/asmenys/Odoničius]] keliavo_i Pomeranija
-- [[objektai/asmenys/Pilypas (Fermo vyskupas)]] keliavo_i Pomeranija
-- [[objektai/asmenys/Samboras]] keliavo_i Pomeranija
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Pomeranija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Pomeranija

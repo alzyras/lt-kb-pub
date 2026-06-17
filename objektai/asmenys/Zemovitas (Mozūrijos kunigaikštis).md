@@ -31,10 +31,10 @@ periodo_grupes:
   global_id: t-40545
   teiginys: '1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.'
   sudarymo_pagrindimas: 'Citata rodo, kad sutartį sudarė Zemovitas ir Ordinas, todėl patikslintas veiksmo dalyvis.'
-  susije_objektai: 'territory: Lietuva; territory: Mozūrija; territory: Sūduva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Lietuva; mentioned_place: Mozūrija; mentioned_place: Sūduva'
-  semantiniai_rysiai: '[[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)|Zemovitas (Mozūrijos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)|Zemovitas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija; [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)|Zemovitas (Mozūrijos kunigaikštis)]] buvo valdovas Sūduva'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zemovitas|Zemovitas]]; mentioned_place: Lietuva; mentioned_place: Mozūrija; mentioned_place: Sūduva'
+  semantiniai_rysiai: '[[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)|Zemovitas (Mozūrijos kunigaikštis)]] buvo valdovas Mozūrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1260 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zemovitas (Mozūrijos kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zemovitas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zemovitas (Mozūrijos kunigaikštis) buvo valdovas Sūduva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zemovitas (Mozūrijos kunigaikštis) buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata rodo, kad sutartį sudarė Zemovitas ir Ordinas, todėl patikslintas veiksmo dalyvis.'
   pagrindžia:
     - c-001
@@ -58,6 +58,4 @@ periodo_grupes:
     - t-001
 
 ## Ryšiai
-- Zemovitas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
 - Zemovitas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Mozūrija]]
-- Zemovitas (Mozūrijos kunigaikštis) buvo_valdovas [[objektai/vietos/Sūduva]]

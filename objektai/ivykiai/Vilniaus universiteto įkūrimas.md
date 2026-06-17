@@ -81,9 +81,9 @@ Nenurodyta
 - t-004
   global_id: t-71777
   teiginys: '1579 m. balandžio 1 d. karalius Steponas Batoras, paremdamas vyskupo Valerijono Protasevičiaus sumanymą ir pastangas, išdavė Vilniaus universiteto Didysis kiemas ir Šv.'
-  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]]; mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1579 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Grigalius XIII buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus universitetas|Vilniaus universitetas]]; mentioned_person: [[objektai/asmenys/Grigalius XIII|Grigalius XIII]]; mentioned_person: [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1579 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 

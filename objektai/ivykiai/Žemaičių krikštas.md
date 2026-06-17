@@ -47,7 +47,7 @@ Nenurodyta
   global_id: t-35925
   teiginys: 'Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir perteikia citatoje išsakytą faktinę išvadą.'
-  susije_objektai: 'event: Torno taika (1411 m.); mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; mentioned_place: Torno'
+  susije_objektai: 'mentioned_event: Torno taika (1411 m.); mentioned_object: [[objektai/zodynas/unija|unija]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Kaunas; mentioned_place: Merkinė; mentioned_place: Nemunas; mentioned_place: Torno'
   pagrindžia:
     - c-001
 

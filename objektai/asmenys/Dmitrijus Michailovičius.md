@@ -32,10 +32,9 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
   global_id: t-87653
   teiginys: 'Rusios didysis kunigaikštis Dmitrijus Michailovičius buvo vedęs vieną iš Gedimino dukterų ir 1326 m. spalio 15 d. nužudytas totorių chano Uzbeko įsakymu.'
   sudarymo_pagrindimas: 'Citata pagrindžia santuoką ir nužudymo datą, o pradinis teiginys buvo fragmentiškas.'
-  susije_objektai: 'territory: Lenkija; territory: Mazovija; territory: Viena; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Rusios didysis kunigaikštis|Rusios didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Dmitrijus Michailovičius|Dmitrijus Michailovičius]] buvo valdovas Lenkija; [[objektai/asmenys/Dmitrijus Michailovičius|Dmitrijus Michailovičius]] buvo valdovas Mazovija; [[objektai/asmenys/Dmitrijus Michailovičius|Dmitrijus Michailovičius]] buvo valdovas Viena'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1326 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dmitrijus Michailovičius buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Michailovičius buvo valdovas Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dmitrijus Michailovičius buvo valdovas Viena“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Rusios didysis kunigaikštis|Rusios didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Marija|Marija]]; mentioned_person: [[objektai/asmenys/Uzbeko|Uzbeko]]; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Viena'
+  temporaliniai_duomenys: 'įvykio data: 1326 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia santuoką ir nužudymo datą, o pradinis teiginys buvo fragmentiškas.'
   pagrindžia:
     - c-001
@@ -64,8 +63,3 @@ Danmilė, pakrikštyta Elž­ bieta, už Vaclovo - Mazovijos kuni­ gaikščio, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Dmitrijus Michailovičius buvo_valdovas [[objektai/vietos/Lenkija]]
-- Dmitrijus Michailovičius buvo_valdovas [[objektai/vietos/Mazovija]]
-- Dmitrijus Michailovičius buvo_valdovas [[objektai/vietos/Viena]]

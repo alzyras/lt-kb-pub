@@ -119,17 +119,7 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
   susije_objektai: 'mentioned_object: [[objektai/zodynas/gotika|gotika]]; mentioned_place: Kremlius; mentioned_place: Maskva; mentioned_place: Myro pilis; mentioned_place: Naugardukas; mentioned_place: Ukraina; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš Pinskas: Narimantas valdė Turovą ir Pinską kaip jam paskirtą sritį.
-- susijęs iš [[objektai/asmenys/Pranciškus Gonzaga.md#claim-t-186249|Pranciškus Gonzaga]]: Mirus Mantujos kunigaikščiui Pranciškui Gonzagai, jo našlė Kotryna gyveno tėvo Ferdinando rūmuose.
-- susijęs iš Lietuva: Nuo 1586 m. Nesvyžiaus jėzuitų bažnyčios iki 1784–1787 m. Vilniaus katedros fasado skulptūrų Lietuva gyveno baroko dvasia.
-- susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-26597|Ivanas Fiodorovas]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103051|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila buvo kardinolas, Vilniaus vyskupijos nuolatinis administratorius, Olykos ir Nesvyžiaus kunigaikštis.
 - susijęs iš [[objektai/asmenys/Mikalojus Radvila.md#claim-t-186360|Mikalojus Radvila]]: Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.
-- susijęs iš [[objektai/asmenys/Zigmantas I.md#claim-t-114074|Zigmantas I]]: Karalius Zigmantas I buvo Jono II, 1519 m. paskelbto Vilniaus vyskupu, tėvas.
-- susijęs iš [[objektai/grupes/Chodkevičiai.md#claim-t-19665|Chodkevičiai]]: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš Zabluduvas: 1569 m. Chodkevičiai Zabluduve įsteigė spaustuvę ir priglobė pirmąjį Maskvos spaustuvininką Ivaną Fiodorovą.
-- susijęs iš [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais.md#claim-t-185894|Taikos susitarimo tvirtinimas priesaika ir parašais]]: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.
-- susijęs iš Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą.
 - susijęs iš [[objektai/asmenys/Adomas Chreptavičius.md#claim-t-87606|Adomas Chreptavičius]]: Grafas Adomas Chreptavičius tyrinėtojui plačiai atvėrė savo Ščorsų bibliotekos turtus.
 - susijęs iš [[objektai/asmenys/Inocentas IX.md#claim-t-87693|Inocentas IX]]: Inocentas IX buvo vienas iš dviejų popiežių, kurių elektorius buvo kardinolas Jurgis Radvila.
 - susijęs iš [[objektai/asmenys/Ivanas Fiodorovas.md#claim-t-23198|Ivanas Fiodorovas]]: Ivanas Fiodorovas buvo pirmasis Maskvos spaustuvininkas, kurį 1569 m. Zabluduve priglobė Chodkevičiai.
@@ -363,10 +353,4 @@ Vienos centras buvo Biržai ir Kėdainiai, o kitos — Nesvyžius ir Olyka (Volu
     - t-008
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas (Pinsko kunigaikštis)]] valde_teritorija Nesvyžius
-- [[objektai/asmenys/Pranciškus Gonzaga]] gyveno Nesvyžius
-- [[objektai/grupes/Chodkevičiai]] pastate Nesvyžius
-- [[objektai/asmenys/Ivanas Fiodorovas]] pastate Nesvyžius
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] buvo_valdovas Nesvyžius
 - [[objektai/asmenys/Mikalojus Radvila]] buvo_valdovas Nesvyžius
-- [[objektai/asmenys/Zigmantas I]] buvo_valdovas Nesvyžius

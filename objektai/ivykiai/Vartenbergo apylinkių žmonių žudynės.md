@@ -41,7 +41,7 @@ Nenurodyta
   teiginys: 'Vartenbergo pilis stovėjo Kulmo žemėje ant kalno ežero viduryje, o joje gyveno Ordino broliai su ginklanešiais.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys gramatiškas ir pagrįstas citatoje pateiktu Vartenbergo aprašymu.'
-  susije_objektai: 'location: Kulmas; location: Sūduva; location: Vartenbergas; location: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Vartenbergas; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_place: Kulmas; mentioned_place: Sūduva; mentioned_place: Vartenbergas; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

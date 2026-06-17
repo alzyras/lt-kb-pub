@@ -72,8 +72,6 @@ Nenurodyta
   susije_objektai: 'mentioned_author: [[objektai/autoriai/Robert Gordon Latham|Robert Gordon Latham]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/posakiai/„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“|„Be abejonės, sanskrito giminingumas su lietuvių kalba yra didesnis, negu su bet kuria kita kalba šioje žemėje“]]; mentioned_place: Europa; mentioned_place: Kaukazas; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169877|Alfonsas Eidintas]]: Alfonsas Eidintas buvo leidinio „Lietuvos istorija“ redaktorius.
 - susijęs iš [[objektai/autoriai/Alfonsas Eidintas.md#claim-t-169880|Alfonsas Eidintas]]: Alfonsas Eidintas buvo „Lietuvos istorijos“ redaktorius.
 - susijęs iš [[objektai/autoriai/Robert Gordon Latham.md#claim-t-75426|Robert Gordon Latham]]: Robert Gordon Latham veikale „Descriptive Ethnology“ teigė, kad sanskritas ypač giminingas lietuvių kalbai.
@@ -151,6 +149,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/grupes/Hanza]] priklause Europos geografinis centras

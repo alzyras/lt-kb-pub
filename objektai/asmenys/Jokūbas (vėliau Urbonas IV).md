@@ -91,6 +91,3 @@ Dusburgietis teigia, kad ir nepakeldamas didelių išlaidų, liovėsi toliau pri
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jokūbas (vėliau Urbonas IV) buvo_valdovas [[objektai/vietos/Austrija]]

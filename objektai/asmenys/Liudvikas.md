@@ -22,8 +22,7 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
   global_id: t-63883
   teiginys: 'Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.'
   sudarymo_pagrindimas: 'Pradinėje formuluotėje neaiškus įvardinis subjektas.'
-  susije_objektai: 'territory: Dobrynė; territory: Galicija; territory: Visla; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Dobrynė; mentioned_place: Galicija; mentioned_place: Visla'
-  semantiniai_rysiai: '[[objektai/asmenys/Liudvikas|Liudvikas]] buvo valdovas Dobrynė; [[objektai/asmenys/Liudvikas|Liudvikas]] buvo valdovas Galicija; [[objektai/asmenys/Liudvikas|Liudvikas]] buvo valdovas Visla'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Dobrynė; mentioned_place: Galicija; mentioned_place: Visla'
   pagrindžia:
     - c-002
 
@@ -133,8 +132,4 @@ Kazimieras mirė bevaikis, ir po jo sostas atiteko jo sesers sūnui, Vengrijos k
     - t-002
 
 ## Ryšiai
-- Liudvikas mire [[objektai/vietos/Kulmenzė]]
 - [[objektai/asmenys/Liudvikas iš Libencelės]] kariavo_pries Liudvikas
-- Liudvikas buvo_valdovas [[objektai/vietos/Dobrynė]]
-- Liudvikas buvo_valdovas [[objektai/vietos/Galicija]]
-- Liudvikas buvo_valdovas [[objektai/vietos/Visla]]

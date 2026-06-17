@@ -83,10 +83,9 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-88527
   teiginys: '1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.'
   sudarymo_pagrindimas: 'claim_quality_pipeline deterministic repair'
-  susije_objektai: 'location: Barta; mentioned_place: Barta'
-  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] gyveno Barta'
+  susije_objektai: 'mentioned_place: Barta'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1251 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Bartai gyveno Barta“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'claim_quality_pipeline deterministic repair'
   pagrindžia:
     - c-004
@@ -96,8 +95,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-88528
   teiginys: 'Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata apie Bartą ir bartus.'
-  susije_objektai: 'location: Barta; mentioned_place: Barta'
-  semantiniai_rysiai: '[[objektai/grupes/Bartai|Bartai]] gyveno Barta'
+  susije_objektai: 'mentioned_place: Barta'
   pagrindžia:
     - c-004
     - c-008
@@ -185,8 +183,6 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Numa|Numa]]; mentioned_place: Lenkija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-016
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
-- susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
 - susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-184690|Derska]]: Prūsų didikas Derska, pabėgęs iš Prūsijos, gyveno Lietuvoje ir tikėjosi kryžiuočių atleidimo už naują išdavystę.
 - susijęs iš [[objektai/asmenys/Derska.md#claim-t-60100|Derska]]: Derska su Numa tarpininkavo bartams, kad broliai grąžintų į nelaisvę paimtas jų žmonas ir vaikus.
@@ -561,8 +557,3 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   statusas: verified
   pagrindžia:
     - t-014
-
-## Ryšiai
-- Bartai gyveno [[objektai/vietos/Barta]]
-- [[objektai/asmenys/Divanas]] puole Bartai
-- [[objektai/grupes/Sembai]] priklause Bartai

@@ -77,11 +77,6 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   temporalinis_llm_pakomentavimas: 'Citata remia faktą apie Bartos pavadinimus ir gyventojus.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88527|Bartai]]: 1251 m. dokumente — Barta major et minor Didžiąja ir Mažąja Barta ir kurioje gyveno bartai, arba bartėnai.
-- susijęs iš [[objektai/grupes/Bartai.md#claim-t-88528|Bartai]]: Didžiojoje ir Mažojoje Bartoje gyveno bartai, dar vadinti bartėnais.
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90015|Sventopelkas]]: 1253 m. Sventopelko karas baigėsi, o Pomeranijos kunigaikštis iki gyvenimo pabaigos laikėsi sutarties su broliais.
-- susijęs iš Partigala: Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.
-- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58785|kuoras propugnaculum pilaitė]]: Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59837|Ditrichas (Sembos fogtas)]]: Konradas iš Tirbergo pasiuntė Sembos fogtą Ditrichą su kariuomene į Nadruvą.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
@@ -224,8 +219,3 @@ Dusburgietis teigia, kad pirmoji — Kulmo bei Lubavo (Colmensis et Lubovia), to
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/grupes/Bartai]] gyveno Barta
-- [[objektai/asmenys/Pomandas]] buvo_valdovas Barta
-- [[objektai/asmenys/Sventopelkas]] buvo_valdovas Barta

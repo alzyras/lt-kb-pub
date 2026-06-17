@@ -48,7 +48,7 @@ Ties ta puikiąja upe, laikantis senų tradicijų, kronikininkų perduo­ tų, s
   global_id: t-86452
   teiginys: 'Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.'
   sudarymo_pagrindimas: 'Citata palaiko terminų apibūdinimą, o pradinis tekstas turi puslapio žymę ir OCR triukšmo.'
-  susije_objektai: 'location: Lietuva; location: Nevėžis; location: Romainiai; location: Romuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai; mentioned_place: Romuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai; mentioned_place: Romuva'
   pagrindžia:
     - c-001
 

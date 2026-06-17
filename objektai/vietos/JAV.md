@@ -47,7 +47,7 @@ Sportui išėjus į tarptautinę areną atėjo ir pirmosios pergalės – JAV li
   global_id: t-109255
   teiginys: 'Per trejus–ketverius metus į JAV atvyko apie 30 tūkst. norėjusių lietuvių tremtinių ir pabėgėlių.'
   sudarymo_pagrindimas: 'Sukoncentruota į JAV ir pašalinta kitų šalių detalė, svarbesnė kitų vietų teiginiams.'
-  susije_objektai: 'location: Australija; location: Baltija; location: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Australija; mentioned_place: Baltija; mentioned_place: Lenkija'
   pagrindžia:
     - c-001
 

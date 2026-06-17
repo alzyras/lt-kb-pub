@@ -30,10 +30,9 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
 - t-001
   global_id: t-30401
   teiginys: 'Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.'
-  susije_objektai: 'territory: Lietuva; territory: Mozūrija; territory: Sochačevas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mozūrija; mentioned_place: Sochačevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis I|Traidenis I]] buvo valdovas Lietuva; [[objektai/asmenys/Traidenis I|Traidenis I]] buvo valdovas Mozūrija; [[objektai/asmenys/Traidenis I|Traidenis I]] buvo valdovas Sochačevas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1316-1341; valdymo laikotarpis: 1341 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Traidenis I buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Traidenis I buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Traidenis I buvo valdovas Sochačevas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Mozūrija; mentioned_place: Sochačevas'
+  temporaliniai_duomenys: 'įvykio data: 1316-1341; įvykio data: 1341 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -53,8 +52,3 @@ Ji buvo ištekėjusi už Mozūrijos (Čersko-Socliačevo) kunigaikščio «Traid
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Traidenis I buvo_valdovas [[objektai/vietos/Lietuva]]
-- Traidenis I buvo_valdovas [[objektai/vietos/Mozūrija]]
-- Traidenis I buvo_valdovas [[objektai/vietos/Sochačevas]]

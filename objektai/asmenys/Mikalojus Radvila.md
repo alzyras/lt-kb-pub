@@ -116,8 +116,7 @@ periodo_grupes:
   teiginys: 'Karalius Mikalojui Radvilai, Lietuvos maršalui, atidavė Raigardą ir Goniondzą iš Glinskio turto.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Lietuva; [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos pasiuntiniai|Maskvos pasiuntiniai]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-006
 
@@ -127,8 +126,8 @@ periodo_grupes:
   teiginys: 'Vilniaus vaivada ir Olykos bei Nesvyžiaus kunigaikštis Mikalojus Radvila buvo įtrauktas į karaliaus pasiuntinybę į Vieną.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Mikalojų Radvilą ir jo dalyvavimą pasiuntinybėje.'
-  susije_objektai: 'territory: Krokuva; territory: Nesvyžius; territory: Olyka; territory: Viena; territory: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Krokuva; [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Nesvyžius; [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Olyka; [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Viena; [[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Nesvyžius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_place: Krokuva; mentioned_place: Nesvyžius; mentioned_place: Olyka; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Mikalojus Radvila|Mikalojus Radvila]] buvo valdovas Nesvyžius'
   pagrindžia:
     - c-011
 
@@ -436,10 +435,4 @@ periodo_grupes:
     - t-010
 
 ## Ryšiai
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Krokuva]]
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Lietuva]]
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Maskva]]
 - Mikalojus Radvila buvo_valdovas [[objektai/vietos/Nesvyžius]]
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Olyka]]
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Viena]]
-- Mikalojus Radvila buvo_valdovas [[objektai/vietos/Vilnius]]

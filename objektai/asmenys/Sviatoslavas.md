@@ -24,8 +24,8 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   global_id: t-179683
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Mstislavlis; territory: Polockas; territory: Smolenskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mstislavlis; mentioned_place: Polockas; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Sviatoslavas|Sviatoslavas]] buvo valdovas Mstislavlis; [[objektai/asmenys/Sviatoslavas|Sviatoslavas]] buvo valdovas Polockas; [[objektai/asmenys/Sviatoslavas|Sviatoslavas]] buvo valdovas Smolenskas'
+  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mstislavlis; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Sviatoslavas|Sviatoslavas]] buvo valdovas Smolenskas'
   pagrindžia:
     - c-002
     - c-003
@@ -49,8 +49,6 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
 - susijęs iš [[objektai/asmenys/Jurgis (Sviatoslavo sūnus).md#claim-t-30317|Jurgis (Sviatoslavo sūnus)]]: Pačiam Sviatoslavui žuvus prie Mstislavlio ant Vechros kranto, jo sūnus Jurgis pažadėjo Jogailai paklusnumą.
 - susijęs iš [[objektai/asmenys/Jurijus.md#claim-t-186226|Jurijus]]: Sviatoslavo sūnus Jurijus po atkaklios kovos sužeistas pateko į nugalėtojų rankas, o vėliau prisiekęs atgavo tėvoniją.
@@ -128,7 +126,4 @@ Jo sąjungininkas, Smolensko kunigaikštis Sviatoslavas, žuvo mūšyje, o šio 
     - t-003
 
 ## Ryšiai
-- Sviatoslavas buvo_valdovas [[objektai/vietos/Mstislavlis]]
-- Sviatoslavas buvo_valdovas [[objektai/vietos/Polockas]]
 - Sviatoslavas buvo_valdovas [[objektai/vietos/Smolenskas]]
-- [[objektai/asmenys/Skirgaila]] puole Sviatoslavas

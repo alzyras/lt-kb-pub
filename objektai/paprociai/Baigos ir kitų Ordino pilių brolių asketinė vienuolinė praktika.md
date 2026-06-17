@@ -43,7 +43,7 @@ Nenurodyta
   global_id: t-89443
   teiginys: 'Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citatos turiniu.'
-  susije_objektai: 'location: Baiga; location: Engelsbergas; mentioned_place: Baiga; mentioned_place: Engelsbergas'
+  susije_objektai: 'mentioned_place: Baiga; mentioned_place: Engelsbergas'
   pagrindžia:
     - c-001
 

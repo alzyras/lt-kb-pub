@@ -62,8 +62,6 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
-- susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103042|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103037|Jurgis Radvila (vyskupas, XVI a.)]]: Jurgis Radvila, dar būdamas Vilniaus vyskupijos koadjutoriumi, su broliu paveldėjo mūrinį Goštautų namą priešais Šv. Jono bažnyčią.
 - susijęs iš [[objektai/asmenys/Jurgis Radvila.md#claim-t-103040|Jurgis Radvila (vyskupas, XVI a.)]]: Kardinolas Jurgis Radvila Goštautų mūru vadintoje dalyje įrengė koplyčią ir kurį laiką pats ten gyveno.
@@ -188,6 +186,3 @@ Moks­ lininkui ir gerbiamam bičiuliui Mikalojui Malinovskiui dėkingas už gal
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Jurgis Radvila|Jurgis Radvila (vyskupas, XVI a.)]] gyveno Kardinalija

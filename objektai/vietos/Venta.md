@@ -24,8 +24,6 @@ tags:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Dubysa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Minija; mentioned_place: Šušvė'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
-- susijęs iš [[objektai/zodynas/Medė.md#claim-t-70027|medė]]: Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62620|J. Venta]]: J. Venta iškėlė mintį, kad išlikusi Dusburgiečio kronika yra 1326 m. redakcija arba jos cenzūruotas antrininkas.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62621|J. Venta]]: J. Venta parašė darbą „Kronika“.
 - susijęs iš [[objektai/autoriai/J. Venta.md#claim-t-62622|J. Venta]]: J. Venta 1980 m. paskelbė darbą apie Petro Dusburgiečio kroniką ir Oliavos kronikoje pateiktą Vokiečių ordino istoriją.
@@ -59,6 +57,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Notangai]] gyveno Venta

@@ -31,9 +31,9 @@ Dusburgietis teigia, kad speratui priklausiusios knygos.
   global_id: t-60403
   teiginys: 'Pamedės vyskupui P. Speratui priklausė knyga, iš kurios 1540 m. pradėtas perrašinėti Karaliaučiaus bibliotekos tekstas.'
   sudarymo_pagrindimas: 'Pirminis teiginys per silpnai suformuluotas; citata palaiko konkretesnį faktą.'
-  susije_objektai: 'owner: Pamedė; owner: Prūsija; mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lotynai|Lotynai]]; mentioned_place: Pamedė; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1540 m.; priklausymo laikotarpis: 1568 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lotynai priklausė Pamedė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lotynai priklausė Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys per silpnai suformuluotas; citata palaiko konkretesnį faktą.'
   pagrindžia:
     - c-001

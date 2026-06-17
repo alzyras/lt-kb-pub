@@ -104,8 +104,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113904
   teiginys: 'Gediminas laiške popiežiui ir kardinolams rašė, kad karalius Mindaugas su visa tauta buvo priėmęs krikščioniškąjį tikėjimą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Gedimino laiške pateiktą Mindaugo krikšto vertinimą.'
-  susije_objektai: 'territory: Prūsija; territory: Ryga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Prūsija; [[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-011
 
@@ -221,8 +220,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - t-018
   global_id: t-113917
   teiginys: 'Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet vėliau nuo jo atkrito.'
-  susije_objektai: 'territory: Ryga; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga'
   pagrindžia:
     - c-010
 
@@ -230,10 +228,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 - t-019
   global_id: t-113919
   teiginys: 'Mindaugas buvo pirmasis Lietuvos Didžiosios Kunigaikštijos valdovas ir XIII a. viduryje krikštijosi.'
-  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1253 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1253 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-012
 
@@ -251,8 +248,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113922
   teiginys: 'Genealoginėje ištraukoje Mindaugas nurodomas kaip Lietuvos kunigaikštis 1240 m., Erdeno nužudytas 1263 m. arba 1265 m.'
   sudarymo_pagrindimas: 'Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį.'
-  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1240 m.; valdymo laikotarpis: 1263 m.; valdymo laikotarpis: 1265 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys buvo OCR ir lentelės fragmentas; citata leidžia suformuoti pilną sakinį.'
@@ -284,8 +280,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113925
   teiginys: 'Gedimino laiške teigta, kad karalius Mindaugas su visa karalyste buvo atsivertęs į Kristaus tikėjimą, bet dėl teutonų išdavysčių nuo jo atkrito.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia laiško turinį ir yra paremtas citata.'
-  susije_objektai: 'territory: Ryga; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Isamas (Rygos arkivyskupas)|Isamas (Rygos arkivyskupas)]]; mentioned_place: Ryga'
   pagrindžia:
     - c-010
 
@@ -324,8 +319,7 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   global_id: t-113929
   teiginys: 'Gedimino laiške teigta, kad karalius Mindaugas su tauta priėmė krikščionybę, bet dėl kryžiuočių smurto nuo jos atsimetė.'
   sudarymo_pagrindimas: 'Claimas buvo nutrūkęs; citata palaiko užbaigtą sakinį apie Mindaugo krikštą ir atsimetimo priežastį.'
-  susije_objektai: 'territory: Prūsija; territory: Ryga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Prūsija; [[objektai/asmenys/Mindaugas|Mindaugas]] buvo valdovas Ryga'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Prūsija; mentioned_place: Ryga'
   pagrindžia:
     - c-011
 
@@ -417,16 +411,9 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Mindaugu ir pašalinti negrabų junginį.'
-  susije_objektai: 'location: Nalšia; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Nalšia'
-  semantiniai_rysiai: '[[objektai/asmenys/Mindaugas|Mindaugas]] keliavo į Nalšia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_place: Nalšia'
   pagrindžia:
     - c-028
-- susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176310|Algirdas (Lietuvos valdovas)]]: Labiau linkstama manyti, kad Algirdas prijungė Kijevą po pergalės prieš Aukso ordą prie Mėlynųjų Vandenų 1362 ar 1363 m.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-183522|Andrius Štirlandas]]: Mindaugas papirko Livonijos ordino magistrą Andrių Štirlandą ir per pasiuntinį popiežiui išdėstė Lietuvai palankesnes sąlygas.
 - susijęs iš [[objektai/asmenys/Andrius Štirlandas.md#claim-t-18808|Andrius Štirlandas]]: Andrių Štirlandą Mindaugas papirko, o per savo pasiuntinį popiežiui išdėstė Lietuvai naudingesnes sąlygas.
@@ -1361,26 +1348,5 @@ Grindžiama mintis, kad Lietuvos valdovų (Vytauto, Gedimino, o gal ir Mindaugo)
 
 ## Ryšiai
 - Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Rusai]]
 - Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Totoriai]]
 - Mindaugas (valdovas, XIII a.) kariavo_pries [[objektai/grupes/Vokiečiai]]
-- Mindaugas (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Mindaugas (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Livonija]]
-- Mindaugas (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Polockas]]
-- Mindaugas (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Prūsija]]
-- Mindaugas (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Ryga]]
-- [[objektai/vietos/Gardinas]] priklause Mindaugas (valdovas, XIII a.)
-- [[objektai/vietos/Kaunas]] priklause Mindaugas (valdovas, XIII a.)
-- [[objektai/vietos/Lyda]] priklause Mindaugas (valdovas, XIII a.)
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Mindaugas (valdovas, XIII a.)
-- Mindaugas (valdovas, XIII a.) keliavo_i [[objektai/vietos/Nalšia]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/grupes/Kryžiuočių ordinas]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Kulmas]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/grupes/Lietuviai]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Prieglius]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Prūsai]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Semba]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/grupes/Sūduviai]]
-- Mindaugas (valdovas, XIII a.) puole [[objektai/vietos/Vėluva]]
-- [[objektai/grupes/Sūduviai]] puole Mindaugas (valdovas, XIII a.)
-- [[objektai/grupes/Sūduviai-jotvingiai]] puole Mindaugas (valdovas, XIII a.)

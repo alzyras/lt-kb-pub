@@ -60,10 +60,9 @@ Nenurodyta
   global_id: t-41393
   teiginys: 'Šklovo mūšyje LDK kariuomenei vadovavo didysis etmonas kunigaikštis Jonušas Radvila.'
   sudarymo_pagrindimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'event: [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; mentioned_place: Šklovas'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]; [[objektai/grupes/Radvilos|Radvilos]] dalyvavo mūšyje [[objektai/ivykiai/Šklovo mūšis (1654 m. rugpjūčio 12 d.)|Šklovo mūšis (1654 m. rugpjūčio 12 d.)]]'
-  temporaliniai_duomenys: 'mūšio data: 1654 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Radvilos dalyvavo mūšyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/etmonas|etmonas]]; mentioned_place: Lietuva; mentioned_place: Šklovas'
+  temporaliniai_duomenys: 'įvykio data: 1654 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
@@ -108,7 +107,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/grupes/Lietuviai]] dalyvavo_musyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)
-- [[objektai/grupes/Radvilos]] dalyvavo_musyje Šklovo mūšis (1654 m. rugpjūčio 12 d.)

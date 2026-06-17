@@ -76,7 +76,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir sakinys suformuluotas taisyklingai.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46003|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Tyzenhauzo reformos buvo vienas iš svarbiausių XVIII a.
 - susijęs iš [[objektai/asmenys/Antanas Tyzenhauzas.md#claim-t-46008|Antanas Tyzenhauzas (ūkio reformų veikėjas)]]: Antano Tyzenhauzo reformos buvo vienas svarbiausių XVIII a. pabaigos Lietuvos gyvenimo reiškinių.
 - susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
@@ -165,6 +164,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]] pastate Vežimai

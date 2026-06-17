@@ -81,9 +81,6 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Vitebskas'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
-- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
-- susijęs iš Luckas: Mūšyje žuvo Drucko kunigaikštis Michailas, Lucko valdovas Andrejus ir Treniotos broliai Pisimantas bei Liubartas.
 - susijęs iš [[objektai/asmenys/Jurijus Sviatoslavovičius.md#claim-t-186120|Jurijus Sviatoslavovičius]]: Jurijus Sviatoslavovičius, išsigandęs Vytauto kariuomenės, nuslėpė priešiškumą ir prijungė savo pajėgas prie Vytauto.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184773|Liubartas]]: Liubartas ir Pisimantas iš šiaurinės Rusios buvo pakviesti į pagalbą su savo pulkais.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
@@ -202,8 +199,3 @@ Paėmė Drucką, Oršą ir prisi­ artino prie Vitebsko.
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- [[objektai/asmenys/Liubartas]] buvo_valdovas Druckas
-- [[objektai/asmenys/Petras Šuiskis]] buvo_valdovas Druckas
-- [[objektai/asmenys/Pisimantas]] buvo_valdovas Druckas

@@ -35,10 +35,10 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89155
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudės žemę kariauti su pagudėnais ir pastatė Elbingo pilį.'
   sudarymo_pagrindimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
+  susije_objektai: 'location: Pagudė; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
   temporaliniai_duomenys: 'kelionės data: 1237 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pagudėnai keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pagudėnai keliavo į Pagudė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pagudėnai keliavo į Pagudė“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginį reikia aiškiau susieti su pagudėnais, kuriuos citata tiesiogiai mini.'
   pagrindžia:
     - c-017
@@ -48,8 +48,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89156
   teiginys: 'Magistras ir broliai užkariavo pagudėnų rankose buvusią Heilsbergo pilį, dalį žmonių paėmė į nelaisvę, o kitus išžudė.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu junginiu.'
-  susije_objektai: 'territory: Heilsbergas; territory: Pagudė; territory: Prūsija; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Heilsbergas; [[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Pagudė; [[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Prūsija'
+  susije_objektai: 'territory: Heilsbergas; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Heilsbergas; mentioned_place: Pagudė; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] užkariavo Heilsbergas'
   pagrindžia:
     - c-008
 
@@ -92,8 +92,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89160
   teiginys: 'Antrosios atskalūnybės metais keli Pagudės kilmingieji paliko tėvonijas, atvyko į Elbingą ir prisidėjo prie brolių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir paremtas citata apie tikinčiuosius pagudėnus.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_place: Elbingas; mentioned_place: Pagudė'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Pagudė'
+  susije_objektai: 'location: Elbingas; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] keliavo į Elbingas'
   pagrindžia:
     - c-015
 
@@ -102,8 +102,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   global_id: t-89161
   teiginys: 'Pagudėnai gyveno prūsų žemėje į šiaurės rytus nuo Pamedės, vakaruose siekusioje dabartinio Elbingo apylinkes, o rytuose Alnos upę.'
   sudarymo_pagrindimas: 'Citata pagrindžia Pagudės geografinį apibūdinimą.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; location: Prūsai; location: Prūsų žemė; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
-  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Elbingas; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Pagudė; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsai; [[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsų žemė'
+  susije_objektai: 'location: Prūsai; mentioned_author: [[objektai/autoriai/K. Būga|K. Būga]]; mentioned_place: Elbingas; mentioned_place: Pagudė; mentioned_place: Prūsai; mentioned_place: Prūsų žemė'
+  semantiniai_rysiai: '[[objektai/grupes/Pagudėnai|Pagudėnai]] gyveno Prūsai'
   pagrindžia:
     - c-006
 
@@ -193,7 +193,6 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai įvardija pagudėną Linką ir jo veiksmą.'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
 - susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Sembos fogtas).md#claim-t-59833|Ditrichas (Sembos fogtas)]]: 1286 m. Sembos fogtas Ditrichas baiminosi bartų, pagudėnų ir kitų prūsų sumanyto naujo sukilimo prieš brolius.
@@ -587,14 +586,8 @@ Dusburgietis teigia, kad trečia — Pagudė193, kurioje [gyveno] pagudėnai. Du
     - t-001
 
 ## Ryšiai
-- Pagudėnai gyveno [[objektai/vietos/Elbingas]]
-- Pagudėnai gyveno [[objektai/vietos/Pagudė]]
 - Pagudėnai gyveno [[objektai/vietos/Prūsai]]
-- Pagudėnai gyveno [[objektai/vietos/Prūsų žemė]]
 - Pagudėnai uzkariavo [[objektai/vietos/Heilsbergas]]
-- Pagudėnai uzkariavo [[objektai/vietos/Pagudė]]
-- Pagudėnai uzkariavo [[objektai/vietos/Prūsija]]
 - [[objektai/asmenys/Divanas]] puole Pagudėnai
 - Pagudėnai keliavo_i [[objektai/vietos/Elbingas]]
 - Pagudėnai keliavo_i [[objektai/vietos/Pagudė]]
-- [[objektai/grupes/Sembai]] priklause Pagudėnai

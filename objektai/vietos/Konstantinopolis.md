@@ -104,15 +104,6 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citatos pasakojimu apie Konstantinopolio užėmimą.'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
-- susijęs iš [[objektai/grupes/Lotynai.md#claim-t-63146|Lotynai]]: Po Konstantinopolio užėmimo imperatoriumi tapo Flandrijos grafas Balduinas, o lotynai ten valdė 57 metus.
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Dmitrijus Ivanovičius.md#claim-t-183734|Dmitrijus Ivanovičius]]: Maskvos didysis kunigaikštis Dmitrijus Ivanovičius, siekdamas plėsti savo valdžią ir remiamas Ordos, puolė Tverę.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/asmenys/Michailas Aleksandrovičius.md#claim-t-183753|Michailas Aleksandrovičius]]: Tverės kunigaikštis Michailas Aleksandrovičius pabėgo į Lietuvą, prašė Algirdo pagalbos ir kvietė žygiuoti į Maskvą.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11775|pravoslavai]]: Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176311|Algirdas (Lietuvos valdovas)]]: Remdamas paskutinį Tverės bandymą atsiimti iš Maskvos prarastą pirmenybę, Algirdas net triskart – 1368, 1370 ir 1372 m. – surengė žygį į Maskvą, tačiau Kremliaus užimti nepajėgė.
 - susijęs iš [[objektai/asmenys/Balduinas (Flandrijos grafas).md#claim-t-60244|Balduinas (Flandrijos grafas)]]: Po Konstantinopolio užėmimo Balduinas, Flandrijos grafas, tapo imperatoriumi, o lotynai miestą valdė 57 metus.
@@ -300,13 +291,3 @@ Tas susitarimas buvo paskelbtas Konstantinopoly 1452 m., tik jau nebebuvo laiko 
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- [[objektai/asmenys/Balduinas (Flandrijos grafas)]] valde_teritorija Konstantinopolis
-- [[objektai/grupes/Lotynai]] valde_teritorija Konstantinopolis
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Konstantinopolis
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Konstantinopolis
-- [[objektai/asmenys/Dmitrijus Ivanovičius]] buvo_valdovas Konstantinopolis
-- [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]] buvo_valdovas Konstantinopolis
-- [[objektai/asmenys/Michailas Aleksandrovičius]] buvo_valdovas Konstantinopolis
-- [[objektai/zodynas/pravoslavai]] priklause Konstantinopolis

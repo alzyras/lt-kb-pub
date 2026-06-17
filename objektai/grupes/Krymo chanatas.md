@@ -32,10 +32,10 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
   global_id: t-05262
   teiginys: 'Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'territory: Dniepras; territory: Krymas; territory: Lietuva; territory: Maskva; territory: Turkija; territory: Viena; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Dniepras; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Krymas; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Lietuva; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Maskva; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Turkija; [[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Viena'
+  susije_objektai: 'territory: Maskva; mentioned_place: Dniepras; mentioned_place: Krymas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Turkija; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/grupes/Krymo chanatas|Krymo chanatas]] susiję su Maskva'
   temporaliniai_duomenys: 'įvykio data: po 1478 m.; įvykio data: 1478 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krymo chanatas susiję su Dniepras“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Krymas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Turkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Krymo chanatas susiję su Viena“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Krymo chanatas susiję su Maskva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -163,9 +163,4 @@ Krymo chanatas šiame šaltinyje rodomas kaip Maskvos sąjungininkas prieš Liet
     - t-006
 
 ## Ryšiai
-- Krymo chanatas susije_su [[objektai/vietos/Dniepras]]
-- Krymo chanatas susije_su [[objektai/vietos/Krymas]]
-- Krymo chanatas susije_su [[objektai/vietos/Lietuva]]
 - Krymo chanatas susije_su [[objektai/vietos/Maskva]]
-- Krymo chanatas susije_su [[objektai/vietos/Turkija]]
-- Krymo chanatas susije_su [[objektai/vietos/Viena]]

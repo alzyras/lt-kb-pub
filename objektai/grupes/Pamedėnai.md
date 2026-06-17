@@ -40,8 +40,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78415
   teiginys: 'Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir paremtas citata apie tikinčiuosius pamedėnus.'
-  susije_objektai: 'location: Belichovas; location: Elbingas; location: Kristburgas; location: Kulmas; location: Marienverderis; location: Viena; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Kristburgas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] gyveno Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kristburgas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
   pagrindžia:
     - c-006
     - c-011
@@ -70,8 +69,8 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78420
   teiginys: 'Belichovo pilis prie Osos priklausė kilmingam pamedėnui Jonui, Sarginio sūnui.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie pamedėną Joną ir jo pilį.'
-  susije_objektai: 'owner: Belichovas; owner: Elbingas; owner: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Belichovas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Elbingas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Kulmas; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Marienverderis; [[objektai/grupes/Pamedėnai|Pamedėnai]] priklausė Viena'
+  susije_objektai: 'owner: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  semantiniai_rysiai: 'Belichovas priklausė [[objektai/grupes/Pamedėnai|Pamedėnai]]'
   pagrindžia:
     - c-010
 
@@ -117,8 +116,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   pagrindžia:
     - c-004
     - c-008
-- susijęs iš [[objektai/asmenys/Sventopelkas.md#claim-t-90028|Sventopelkas]]: Sventopelkas pastatė Svečės pilį ir kelis kartus kariavo prieš brolius bei Kazimierą.
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-184083|Henrikas iš Veidos]]: Henrikas iš Veidos užimtoje pamedėnų pilyje įkurdino brolius ir daug ginklanešių.
 - susijęs iš [[objektai/asmenys/Henrikas iš Veidos.md#claim-t-60137|Henrikas iš Veidos]]: Henrikas iš Veidos su broliais ir maldininkais užėmė pamedėnų pilį, stovėjusią vietoje, vėliau vadintoje Senuoju Kristburgu.
 - susijęs iš [[objektai/asmenys/Hermanas (Ordino magistras).md#claim-t-60029|Hermanas (Ordino magistras)]]: Magistras Hermanas su broliais 1233 m. Kvedino saloje pastatė pilį ir pavadino ją Marienverderiu.
@@ -357,17 +354,4 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] kariavo_pries Pamedėnai
-- Pamedėnai gyveno [[objektai/vietos/Belichovas]]
-- Pamedėnai gyveno [[objektai/vietos/Elbingas]]
-- Pamedėnai gyveno [[objektai/vietos/Kristburgas]]
-- Pamedėnai gyveno [[objektai/vietos/Kulmas]]
-- Pamedėnai gyveno [[objektai/vietos/Marienverderis]]
-- Pamedėnai gyveno [[objektai/vietos/Viena]]
-- Pamedėnai priklause [[objektai/vietos/Belichovas]]
-- Pamedėnai priklause [[objektai/vietos/Elbingas]]
-- Pamedėnai priklause [[objektai/asmenys/Konradas Švabas iš Elbingo]]
-- Pamedėnai priklause [[objektai/vietos/Kulmas]]
-- Pamedėnai priklause [[objektai/vietos/Marienverderis]]
-- Pamedėnai priklause [[objektai/vietos/Viena]]
-- [[objektai/grupes/Sembai]] priklause Pamedėnai
+- [[objektai/vietos/Belichovas]] priklause Pamedėnai

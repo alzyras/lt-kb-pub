@@ -23,8 +23,8 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
 - t-001
   global_id: t-35024
   teiginys: 'Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.'
-  susije_objektai: 'territory: Lietuva; territory: Polockas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Andriejus|Andriejus]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zöllneris|Zöllneris]]; mentioned_place: Lietuva; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Andriejus (Polocko kunigaikštis)|Andriejus (Polocko kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Andriejus (Polocko kunigaikštis)|Andriejus (Polocko kunigaikštis)]] buvo valdovas Polockas'
+  susije_objektai: 'territory: Polockas; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Andriejus|Andriejus]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Zöllneris|Zöllneris]]; mentioned_place: Lietuva; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Andriejus (Polocko kunigaikštis)|Andriejus (Polocko kunigaikštis)]] buvo valdovas Polockas'
   pagrindžia:
     - c-001
 
@@ -48,5 +48,4 @@ Ordino magistras Zöllneris, bet šis atsisakė ir dar du kartu su Polocko kunig
     - t-001
 
 ## Ryšiai
-- Andriejus (Polocko kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
 - Andriejus (Polocko kunigaikštis) buvo_valdovas [[objektai/vietos/Polockas]]

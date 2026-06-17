@@ -95,7 +95,6 @@ amziai:
   pagrindžia:
     - c-007
 - susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56962|Abelis]]: Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56963|Abelis]]: 1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56964|Abelis]]: Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.
@@ -358,4 +357,3 @@ amziai:
 
 ## Ryšiai
 - [[objektai/asmenys/Prokopas]] kariavo_pries Čekai
-- [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Čekai

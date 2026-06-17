@@ -88,8 +88,8 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
 - t-007
   global_id: t-169591
   teiginys: 'XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.'
-  susije_objektai: 'location: Baltija; location: Dauguva; location: Kuršas; location: Latgalija; location: Latvija; location: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
-  semantiniai_rysiai: '[[objektai/grupes/Latviai|Latviai]] gyveno Baltija; [[objektai/grupes/Latviai|Latviai]] gyveno Dauguva; [[objektai/grupes/Latviai|Latviai]] gyveno Kuršas; [[objektai/grupes/Latviai|Latviai]] gyveno Latgalija; [[objektai/grupes/Latviai|Latviai]] gyveno Latvija; [[objektai/grupes/Latviai|Latviai]] gyveno Vidžemė'
+  susije_objektai: 'location: Dauguva; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
+  semantiniai_rysiai: '[[objektai/grupes/Latviai|Latviai]] gyveno Dauguva'
   pagrindžia:
     - c-004
 
@@ -377,9 +377,4 @@ Kai XIII amž. daugumas šitų kilčių pateko į vokiečių ordino valdžią, t
     - t-009
 
 ## Ryšiai
-- Latviai gyveno [[objektai/vietos/Baltija]]
 - Latviai gyveno [[objektai/vietos/Dauguva]]
-- Latviai gyveno [[objektai/vietos/Kuršas]]
-- Latviai gyveno [[objektai/vietos/Latgalija]]
-- Latviai gyveno [[objektai/vietos/Latvija]]
-- Latviai gyveno [[objektai/vietos/Vidžemė]]

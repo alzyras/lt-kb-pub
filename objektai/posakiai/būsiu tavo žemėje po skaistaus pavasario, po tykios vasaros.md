@@ -29,7 +29,7 @@ Formulė perteikia Maskvos didžiojo kunigaikščio grasinimą Algirdui, perduot
   global_id: t-09682
   teiginys: 'Maskvos didysis kunigaikštis per pasiuntinį perdavė Algirdui grasinimą būti jo žemėje po pavasario ir vasaros.'
   sudarymo_pagrindimas: 'Reikia vengti abstraktaus „ši frazė“ ir tiksliau nusakyti citatoje aprašytą veiksmą.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

@@ -55,7 +55,6 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Draika|Draika]]; mentioned_place: Aukaimio pilis'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-184694|Draika]]: Aukaimio pilies viršininkas Draika pradėjo linkti į krikščionių tikėjimą.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60108|Draika]]: Draika slapta atidarė Aukaimio pilies vartus, o vėliau Ragainėje buvo pakrikštytas su visa šeimyna.
 - susijęs iš [[objektai/asmenys/Draika.md#claim-t-60109|Draika]]: 1301 m. Aukaimio pilėnas Draika slapta pasiuntė sūnų Piną pas Ragainės komtūrą Folradą prašyti pagalbos.
@@ -182,6 +181,3 @@ Poetas išskaičiavo, jog pilgrimai esą, be Medvėgalio (Medouagle), dar paėm�
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Jonas Liuksemburgietis]] buvo_valdovas Aukaimis

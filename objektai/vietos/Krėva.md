@@ -64,7 +64,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   global_id: t-111658
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą, o pradinis sakinys buvo nutrūkęs.'
-  susije_objektai: 'territory: Lietuva; territory: Prūsija; territory: Rusia; territory: Ukmergė; territory: Vilnius; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-004
 
@@ -115,7 +115,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - t-010
   global_id: t-111664
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.'
-  susije_objektai: 'territory: Lietuva; territory: Prūsija; territory: Rusia; territory: Ukmergė; territory: Vilnius; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  susije_objektai: 'territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Ukmergė; mentioned_place: Vilnius; mentioned_place: Vitebskas'
   pagrindžia:
     - c-004
 
@@ -154,18 +154,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Drabužiai|Drabužiai]]; mentioned_object: [[objektai/zodynas/budeliai|budeliai]]'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/asmenys/Kazimieras Karigaila.md#claim-t-173193|Kazimieras Karigaila]]: Kazimieras Karigaila buvo palaidotas katedroje, o šalia jo iškilmingai palaidotas Aleksandras Vygantas.
-- susijęs iš [[objektai/ivykiai/Paskutinės Kęstučio kovos ir mirtis.md#claim-t-66819|Paskutinės Kęstučio kovos ir mirtis]]: Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.
-- susijęs iš [[objektai/paprociai/Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas.md#claim-t-87276|Kunigaikščio iškilmingas laidojimas katedroje ir visuotinis gedulas]]: Aleksandras Vygantas buvo iškilmingai palaidotas katedroje šalia Karigailos, o jo mirtį lydėjo visuotinis gedulas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-183536|Jogaila (kunigaikštis, XIV–XV a.)]]: Pagal 1385 m. Krėvos sutartį su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
-- susijęs iš [[objektai/ivykiai/Krėvos sutarties priėmimas.md#claim-t-20234|Krėvos sutarties priėmimas (sutartis)]]: 1385 m. sudaryta Krėvos sutartis su Lenkija lėmė, kad Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45349|Krėvos sutartis (1385 m.)]]: Krėvos sutartimi Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/ivykiai/Krėvos sutartis (1385 m.).md#claim-t-45350|Krėvos sutartis (1385 m.)]]: 1385 m. sudaryta Krėvos sutartimi su Lenkija Lietuvos didysis kunigaikštis Jogaila tapo Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176517|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.
-- susijęs iš [[objektai/ivykiai/Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją.md#claim-t-185542|Vytauto kalinimas Krėvoje, pabėgimas į Mazoviją ir pasitraukimas į Prūsiją]]: Krėvoje vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir Jogailos siųsti budeliai jau atvyko.
 - susijęs iš [[objektai/zodynas/budeliai.md#claim-t-185381|budeliai]]: Vienas sargybinis įspėjo Oną, kad Vytautui gresia mirtis ir kad Jogailos siųsti budeliai jau atvyko į Krėvą.
 - susijęs iš [[objektai/asmenys/Aleksandras Vygantas.md#claim-t-87423|Aleksandras Vygantas]]: Aleksandras Vygantas, Kernavės ir Krėvos kunigaikštis, tuo metu dažniausiai gyvendavo Vilniuje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
@@ -198,6 +187,7 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176643|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas savo sostinėje iškilmingai priėmė Vladislovą Jogailą, atvykusį malšinti kivirčų su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176767|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1418 m. mirus žmonai Onai, Vytautas nusprendė vesti jos dukterėčią Julijoną Alšėniškę.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176770|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Po Kęstučio mirties Vytautas buvo pervežtas iš Vilniaus į Krėvą ir įkalintas.
+- susijęs iš [[objektai/grupes/Bajorų seimas.md#claim-t-19651|Bajorų seimas (seimas)]]: Lenkijoje jau buvo pradėjęs veikti bajorų seimas, o Lietuvoje valstybės valią reiškė tik didysis kunigaikštis.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179052|Kryžiuočių ordinas]]: Po Lietuvos krikšto popiežiai uždraudė Vokiečių ordinui kariauti su Lietuva.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-184488|Kryžiuočių ordinas]]: Kojelavičiaus vertinimu, Jogailos slaptieji sandėriai su kryžiuočiais buvo morališkai nepateisinami, nors Jogaila nusipelnė lenkų pagarbos.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179127|Lenkai]]: Po Ostrovos sutarties lenkai, remdamiesi Krėvos unijos aktu, laikė Lietuvą savo provincija.
@@ -486,12 +476,4 @@ Kęstučio ir Vytauto kariuomenė buvo paleista, o jie patys buvo uždaryti kal�
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] mire Krėva
-- [[objektai/asmenys/Kazimieras Karigaila]] mire Krėva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] mire Krėva
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Krėva
-- [[objektai/asmenys/Andrius (Druško kunigaikštis)]] valde_teritorija Krėva
-- [[objektai/grupes/Bajorų seimas|Bajorų seimas (seimas)]] susije_su Krėva
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Krėva
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Krėva
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Krėva

@@ -87,7 +87,7 @@ Nenurodyta
   teiginys: 'Pabaisko mūšyje žuvo Livonijos magistras Kerskorfas ir maršalas Nesselrodė, o imperatoriaus laiške mūšis lygintas su Tanenbergo-Žalgirio kautynėmis.'
   sudarymo_pagrindimas: 'Teiginys gramatiškai apibendrina mūšio padarinius ir vertinimą.'
   susije_objektai: 'event: [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Livonijos ordinas|Livonijos ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Kerskorfas|Kerskorfas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Kerskorfas|Kerskorfas]] dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]; [[objektai/asmenys/Švitrigaila|Švitrigaila]] dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]'
+  semantiniai_rysiai: '[[objektai/asmenys/Kerskorfas|Kerskorfas]] dalyvavo mūšyje [[objektai/ivykiai/Pabaisko mūšis (1435 m. rugsėjo 1 d.)|Pabaisko mūšis (1435 m. rugsėjo 1 d.)]]'
   pagrindžia:
     - c-005
 
@@ -228,4 +228,3 @@ Nenurodyta
 
 ## Ryšiai
 - [[objektai/asmenys/Kerskorfas]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)
-- [[objektai/asmenys/Švitrigaila]] dalyvavo_musyje Pabaisko mūšis (1435 m. rugsėjo 1 d.)

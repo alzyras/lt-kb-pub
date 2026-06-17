@@ -22,8 +22,8 @@ Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pas
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Reikia sutelkti sakinį į note objektą ir pašalinti boilerplate.'
-  susije_objektai: 'location: Lenkija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]] keliavo į Lenkija; [[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]] keliavo į Vilnius'
+  susije_objektai: 'location: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]] keliavo į Lenkija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/ivykiai/Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.).md#claim-t-185635|Piotrkovo ir Vilniaus seimai bei Podolės ginčo atidėjimas Parčevui (1463 m.)]]: Į Vilniuje susirinkusį lietuvių seimą atvyko Lenkijos pasiuntiniai Stanislovas Ostrorogas ir Jonas Ritvianskis.
@@ -49,4 +49,3 @@ Vilniuje susirinkus lietuvių seimui, Jonas Ritvianskis atvyko kaip Lenkijos pas
 
 ## Ryšiai
 - Jonas Ritvianskis keliavo_i [[objektai/vietos/Lenkija]]
-- Jonas Ritvianskis keliavo_i [[objektai/vietos/Vilnius]]

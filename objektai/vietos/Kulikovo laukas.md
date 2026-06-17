@@ -31,9 +31,9 @@ Tuo metu, kai Andrius, nuolatinis Dmitrijaus Do­ niškio bendražygis, karo rū
   global_id: t-86201
   teiginys: 'Andrius, Polocko kunigaikštis ir Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke prisidėjo prie pergalės prieš totorius.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie Andriaus vaidmenį Kulikovo lauke.'
-  susije_objektai: 'territory: Polockas; territory: Vilnius; territory: Vitebskas; mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1380 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Polockas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Vitebskas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Polockiečiai|Polockiečiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Polockas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'įvykio data: 1380 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus ir tiesiogiai paremtas citata apie Andriaus vaidmenį Kulikovo lauke.'
   pagrindžia:
     - c-001

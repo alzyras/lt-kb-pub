@@ -131,7 +131,3 @@ Dusburgietis teigia, kad tais pačiais metais ir tuo pat laiku Eberhardas, Varm�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Eberhardas (Varmės vyskupas) kariavo_pries [[objektai/asmenys/Gediminas]]
-- Eberhardas (Varmės vyskupas) kariavo_pries [[objektai/grupes/Rytas]]

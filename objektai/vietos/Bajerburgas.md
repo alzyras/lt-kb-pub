@@ -75,12 +75,7 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas, išnaša ir perteiktas citata pagrįstas veiksmas.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
-- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
-- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš [[objektai/grupes/Gelgaudai.md#claim-t-86792|Gelgaudai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176326|Gediminas]]: Gediminas, pasak citatos, buvo nužudytas 1337 m. prie Bajerburgo pilies mūšyje su kryžiuočiais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176328|Gediminas]]: Prie Veliuonos esantis Gedimino kalnas siejamas su tikėtina netoli Bajerburgo žuvusio Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176343|Gediminas]]: Gedimino rūpesčiu Vilnius iš mažareikšmės gyvenvietės iškilo į galingos valstybės sostinę.
@@ -90,6 +85,7 @@ amziai:
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176373|Gediminas]]: Prie Veliuonos esantis Gedimino kalno pilkapis laikytas tikėtina Gedimino kapaviete.
 - susijęs iš [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis).md#claim-t-87684|Henrikas (Bavarijos kunigaikštis)]]: Bavarijos kunigaikštis Henrikas apie 1337 m. padėjo Ordinui pastatyti Bajerburgo pilį ir dalyvavo daugelyje žygių į Lietuvą.
 - susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
+- susijęs iš [[objektai/asmenys/Mykolas Zaleskis.md#claim-t-87804|Mykolas Zaleskis]]: Mykolui Zaleskiui priklausė Veliuona.
 - susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
 - susijęs iš [[objektai/grupes/Gelgaudai.md#claim-t-86792|Gelgaudai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
@@ -189,9 +185,4 @@ amziai:
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas (Bavarijos kunigaikštis)]] buvo_valdovas Bajerburgas
-- [[objektai/grupes/Eperješai]] priklause Bajerburgas
-- [[objektai/asmenys/Gediminas]] susije_su Bajerburgas
-- [[objektai/grupes/Gelgaudai]] priklause Bajerburgas
 - [[objektai/asmenys/Henrikas Duseneris]] keliavo_i Bajerburgas
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Bajerburgas

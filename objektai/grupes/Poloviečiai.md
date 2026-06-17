@@ -22,8 +22,8 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Patikslintas priešininkas pagal citatos kontekstą ir išlaikytas pilnas sakinys.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Rusai|Rusai]]; counterparty: [[objektai/asmenys/Tautvila|Tautvila]]; counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]'
-  semantiniai_rysiai: '[[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/asmenys/Tautvila|Tautvila]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'counterparty: [[objektai/grupes/Rusai|Rusai]]; counterparty: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Namas|Namas]]; mentioned_person: [[objektai/asmenys/Tautvila|Tautvila]]'
+  semantiniai_rysiai: '[[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Rusai|Rusai]]; [[objektai/grupes/Poloviečiai|Poloviečiai]] kariavo prieš [[objektai/grupes/Vokiečiai|Vokiečiai]]'
   pagrindžia:
     - c-001
 
@@ -85,5 +85,4 @@ Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečiu
 
 ## Ryšiai
 - Poloviečiai kariavo_pries [[objektai/grupes/Rusai]]
-- Poloviečiai kariavo_pries [[objektai/asmenys/Tautvila]]
 - Poloviečiai kariavo_pries [[objektai/grupes/Vokiečiai]]

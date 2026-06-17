@@ -42,8 +42,7 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   global_id: t-89174
   teiginys: 'Magistras, broliai ir kunigaikštis Kazimieras devynias dienas bei naktis niokojo Pomeranijos žemę plėšimais ir gaisrais.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir nutrūkęs.'
-  susije_objektai: 'territory: Pomeranija; territory: Prūsai; territory: Prūsija; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/grupes/Pomeranai|Pomeranai]] susiję su Pomeranija; [[objektai/grupes/Pomeranai|Pomeranai]] susiję su Prūsai; [[objektai/grupes/Pomeranai|Pomeranai]] susiję su Prūsija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/gurguolė|gurguolė]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Pomeranija; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -154,8 +153,3 @@ Dusburgietis teigia, kad apie laimėtą mūšį, kuriame broliai nukovė tūksta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Pomeranai susije_su [[objektai/vietos/Pomeranija]]
-- Pomeranai susije_su [[objektai/vietos/Prūsai]]
-- Pomeranai susije_su [[objektai/vietos/Prūsija]]

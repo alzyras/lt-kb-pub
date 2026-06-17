@@ -27,7 +27,6 @@ Galicijoje.
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
-- susijęs iš [[objektai/asmenys/Liudvikas.md#claim-t-63883|Liudvikas]]: Lenkų ir Vengrų karalius Liudvikas paskyrė Vladislovą iš Opolės valdyti Galiciją.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93547|Vladislovas iš Opolės]]: Kazimieras III buvo atidavęs Galiciją Vladislovui iš Opolės.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolės.md#claim-t-93548|Vladislovas iš Opolės]]: Vladislovas iš Opolės pasiūlė Vengrijos karaliui ir keliems kunigaikščiams pasidalyti Lenkijos žemes.
 - susijęs iš Dobrynė: Lenkijoje nuo seniau vyko ginčas dėl Dobrynės žemės.
@@ -45,6 +44,3 @@ Galicijoje.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Liudvikas]] buvo_valdovas Galicija

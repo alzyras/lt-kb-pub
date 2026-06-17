@@ -52,7 +52,7 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   global_id: t-182085
   teiginys: 'Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Mstislavlį ir tiksliai atitinka citatos informaciją.'
-  susije_objektai: 'territory: Polockas; territory: Smolenskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Polockas; mentioned_place: Smolenskas'
+  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Polockas; mentioned_place: Smolenskas'
   pagrindžia:
     - c-003
 
@@ -91,12 +91,6 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
-- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-- susijęs iš [[objektai/asmenys/Skirgaila.md#claim-t-179658|Skirgaila]]: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Juodoji Rusia: Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
-- susijęs iš Polockas: Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.
-- susijęs iš Vitebskas: Vilniaus valdovui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82179|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis rašte titulavosi Lietuvos, Žemaitijos, Rusios ir Kijevo didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/asmenys/Andrius Polockietis.md#claim-t-30207|Andrius Polockietis]]: Skirgaila, sėkmingai apgulęs Polocką, paėmė Andrių Polockietį į nelaisvę ir išsiuntė į Lenkiją.
@@ -250,10 +244,3 @@ Glaubitzo kūrinys – Basųjų karmelitų bažnyčia Mstislavlyje.
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]] buvo_valdovas Mstislavlis
-- [[objektai/asmenys/Sviatoslavas]] buvo_valdovas Mstislavlis
-- [[objektai/vietos/Juodoji Rusia]] priklause Mstislavlis
-- [[objektai/asmenys/Skirgaila]] puole Mstislavlis
-- [[objektai/vietos/Vitebskas]] priklause Mstislavlis

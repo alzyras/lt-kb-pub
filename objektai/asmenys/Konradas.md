@@ -32,10 +32,10 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
   global_id: t-79083
   teiginys: 'Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.'
   sudarymo_pagrindimas: 'Sakinys sutvarkytas, kad aiškiai įvardytų asmenį, veiksmą ir citatoje pateiktą laiką.'
-  susije_objektai: 'territory: Kulmas; territory: Mozūrija; territory: Prūsija; territory: Torunė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsija; mentioned_place: Torunė'
-  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo valdovas Kulmas; [[objektai/asmenys/Konradas|Konradas]] buvo valdovas Mozūrija; [[objektai/asmenys/Konradas|Konradas]] buvo valdovas Prūsija; [[objektai/asmenys/Konradas|Konradas]] buvo valdovas Torunė'
+  susije_objektai: 'territory: Mozūrija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)|Konradas (Mozūrijos kunigaikštis)]]; mentioned_place: Kulmas; mentioned_place: Mozūrija; mentioned_place: Prūsija; mentioned_place: Torunė'
+  semantiniai_rysiai: '[[objektai/asmenys/Konradas|Konradas]] buvo valdovas Mozūrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1226-1228; valdymo laikotarpis: 1228 m.; valdymo laikotarpis: 1231 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Torunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Konradas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Konradas buvo valdovas Mozūrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys sutvarkytas, kad aiškiai įvardytų asmenį, veiksmą ir citatoje pateiktą laiką.'
   pagrindžia:
     - c-001
@@ -198,22 +198,4 @@ Tada Mozūrų kunigaikštis Konradas, kuriam ypatingai rūpėjo pakrikštyti pr�
     - t-002
 
 ## Ryšiai
-- Konradas valde_teritorija [[objektai/vietos/Kulmas]]
-- Konradas valde_teritorija [[objektai/vietos/Lenkija]]
-- Konradas valde_teritorija [[objektai/vietos/Prūsai]]
-- Konradas valde_teritorija [[objektai/vietos/Prūsija]]
-- Konradas buvo_valdovas [[objektai/vietos/Dobrynė]]
-- Konradas buvo_valdovas [[objektai/vietos/Europa]]
-- Konradas buvo_valdovas [[objektai/vietos/Krokuva]]
-- Konradas buvo_valdovas [[objektai/vietos/Kujavija]]
-- Konradas buvo_valdovas [[objektai/vietos/Kulmas]]
-- Konradas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Konradas buvo_valdovas [[objektai/vietos/Lenčica]]
-- Konradas buvo_valdovas [[objektai/vietos/Mazovija]]
 - Konradas buvo_valdovas [[objektai/vietos/Mozūrija]]
-- Konradas buvo_valdovas [[objektai/vietos/Oliva]]
-- Konradas buvo_valdovas [[objektai/vietos/Prūsai]]
-- Konradas buvo_valdovas [[objektai/vietos/Prūsija]]
-- Konradas buvo_valdovas [[objektai/vietos/Sedlcai]]
-- Konradas buvo_valdovas [[objektai/vietos/Torunė]]
-- Konradas buvo_valdovas [[objektai/vietos/Viena]]

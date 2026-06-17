@@ -48,8 +48,7 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
 - t-001
   global_id: t-54943
   teiginys: 'Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.'
-  susije_objektai: 'territory: Livonija; territory: Polockas; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]] buvo valdovas Livonija; [[objektai/asmenys/Andrius Algirdaitis|Andrius Algirdaitis]] buvo valdovas Polockas'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Livonija; mentioned_place: Polockas'
   pagrindžia:
     - c-001
     - c-003
@@ -230,7 +229,3 @@ Andrius Algirdaitis šaltinyje įvardijamas kaip Algirdo ir Julijonos sūnus, Jo
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- Andrius Algirdaitis buvo_valdovas [[objektai/vietos/Livonija]]
-- Andrius Algirdaitis buvo_valdovas [[objektai/vietos/Polockas]]

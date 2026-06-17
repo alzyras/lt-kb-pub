@@ -61,7 +61,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinio teiginio įvardis neaiškus; citata leidžia aiškiai įvardyti teritoriją.'
-  susije_objektai: 'location: Austrija; location: Lenkija; location: Lietuva; location: Vilnius; location: Vokietija; mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltarusiai|Baltarusiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 

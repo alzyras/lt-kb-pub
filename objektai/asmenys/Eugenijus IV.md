@@ -86,7 +86,3 @@ Tačiau ši jo žmo­ na Sofija, Tverės kunigaikščio Bori­ so duktė, vėlia
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Eugenijus IV buvo_valdovas [[objektai/vietos/Florencija]]
-- Eugenijus IV buvo_valdovas [[objektai/vietos/Livonija]]

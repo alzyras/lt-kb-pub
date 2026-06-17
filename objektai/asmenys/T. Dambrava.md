@@ -42,8 +42,7 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   global_id: t-40454
   teiginys: 'Teigta, kad per mūšį nuo rotmistro T. Dambravos kirčio žuvo karaliaus žentas kunigaikštis Fridrichas Liuneburgietis.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir išlaikyta šaltinyje esanti atsargi formuluotė.'
-  susije_objektai: 'territory: Dambrava; mentioned_place: Dambrava'
-  semantiniai_rysiai: '[[objektai/asmenys/T. Dambrava|T. Dambrava]] buvo valdovas Dambrava'
+  susije_objektai: 'mentioned_place: Dambrava'
   pagrindžia:
     - c-003
 
@@ -99,6 +98,3 @@ Dambravos raiteliai susikauna su atakuojančia švedų kavalerija flanguose. Dam
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- T. Dambrava buvo_valdovas [[objektai/vietos/Dambrava]]

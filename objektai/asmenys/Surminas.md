@@ -64,10 +64,9 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   global_id: t-60003
   teiginys: '1313 m. lietuvių karalius pasiuntė kilmingą ir karingą Surminą su šimtu laivų sunaikinti Ordino laivo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos turinį.'
-  susije_objektai: 'territory: Nemunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/asmenys/Surminas|Surminas]] buvo valdovas Nemunas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1313 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Surminas buvo valdovas Nemunas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir atitinka citatos turinį.'
   pagrindžia:
     - c-001
@@ -215,6 +214,3 @@ Dusburgietis teigia, kad pilyje buvo [jos] vadas Surminas, o su juo 120 karingų
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- Surminas buvo_valdovas [[objektai/vietos/Nemunas]]

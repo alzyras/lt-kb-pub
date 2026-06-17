@@ -45,8 +45,8 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
   global_id: t-86033
   teiginys: 'Vingrių šaltinių vandenys kadaise priklausė Vilniaus miestui, bet vėliau tapo Švč. Trejybės klebonijos nuosavybe.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje nurodytą nuosavybės kaitą.'
-  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Vingrių šaltiniai priklausė [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; Vingrių šaltiniai priklausė Vilnius'
+  susije_objektai: 'owner: Vilnius; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Vilnius'
+  semantiniai_rysiai: 'Vingrių šaltiniai priklausė Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš Vilnius: Valdant Žygimantui, Vingrių šaltiniai tapo svarbiu Vilniaus saugumo ir patogumo klausimu.
@@ -114,5 +114,4 @@ Atkaklus mūšis užvirė prie pat miesto, ant tilto, kur Vingrių versmės, nuo
     - t-001
 
 ## Ryšiai
-- Vingrių šaltiniai priklause [[objektai/asmenys/Aleksandras Jogailaitis]]
 - Vingrių šaltiniai priklause [[objektai/vietos/Vilnius]]

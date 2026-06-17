@@ -22,10 +22,9 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   global_id: t-31176
   teiginys: 'Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.'
   sudarymo_pagrindimas: 'Teiginys sutelktas į note objektą ir pašalinta perteklinė informacija apie krivičius.'
-  susije_objektai: 'location: Bizantija; location: Dauguva; location: Europa; location: Kijevas; location: Rusia; mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
-  semantiniai_rysiai: '[[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Bizantija; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Dauguva; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Europa; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Kijevas; [[objektai/grupes/Dregovičiai|Dregovičiai]] gyveno Rusia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krivičiai|Krivičiai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Bizantija; mentioned_place: Dauguva; mentioned_place: Europa; mentioned_place: Kijevas; mentioned_place: Rusia'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 988 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dregovičiai gyveno Bizantija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Dauguva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dregovičiai gyveno Rusia“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys sutelktas į note objektą ir pašalinta perteklinė informacija apie krivičius.'
   pagrindžia:
     - c-001
@@ -52,10 +51,3 @@ Artimiausieji rytų kaimynai dregovičiai (Beržūnės baseine) ir krivičiai (D
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Dregovičiai gyveno [[objektai/vietos/Bizantija]]
-- Dregovičiai gyveno [[objektai/vietos/Dauguva]]
-- Dregovičiai gyveno [[objektai/vietos/Europa]]
-- Dregovičiai gyveno [[objektai/vietos/Kijevas]]
-- Dregovičiai gyveno [[objektai/vietos/Rusia]]

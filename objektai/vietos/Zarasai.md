@@ -33,8 +33,6 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   susije_objektai: 'mentioned_person: [[objektai/asmenys/A. Voldemaras|A. Voldemaras]]; mentioned_place: Lietuva; mentioned_place: Paryžius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
-- susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78003|A. Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti A. Voldemarą į valdžią.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75778|Augustinas Voldemaras]]: A. Voldemaras buvo kooptuotas į Lietuvos Tarybą vietoj nuo jos atsiskyrusių kairiųjų pažiūrų narių.
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75784|Augustinas Voldemaras]]: Kariuomenėje įtakingi voldemarininkai pučais bandė grąžinti Augustiną Voldemarą į valdžią.
@@ -74,6 +72,3 @@ Ukmergėje, Zarasuose, Kėdainiuose ir Jurbarke buvo pastatytos naujos cerkvės,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Sėliai]] gyveno Zarasai

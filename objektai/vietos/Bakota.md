@@ -26,7 +26,6 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   susije_objektai: 'mentioned_group: [[objektai/grupes/Karijotaičiai|Karijotaičiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Teodoras|Teodoras]]; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-001
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171343|Karijotaičiai]]: Algirdo remiami Karijotaičiai Mažojoje Podolėje organizavo krašto gynybą nuo totorių puolimų ir statė Smotričo, Bakotos bei Kameneco pilis.
 - susijęs iš Bakotos pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
 - susijęs iš Kameneco pilis (pilis): Karijotaičiai Podolėje pastatė Smotričo, Bakotos ir Kameneco pilis.
@@ -55,6 +54,3 @@ Podolėje Karijotaičiai ėmė įvesti tvarką, statyti pilis (Kamieniecą, Smot
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Kijevas]] priklause Bakota

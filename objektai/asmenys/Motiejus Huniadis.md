@@ -32,10 +32,9 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
   global_id: t-79132
   teiginys: 'Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir apima citatoje nurodytą statusą bei mirties metus.'
-  susije_objektai: 'territory: Azovas; territory: Kijevas; territory: Krymas; territory: Lvovas; territory: Turkija; territory: Vengrija; territory: Vilnius; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Azovas; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lvovas; mentioned_place: Turkija; mentioned_place: Vengrija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Azovas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Kijevas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Krymas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Lvovas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Turkija; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vengrija; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1484 m.; valdymo laikotarpis: 1490 m.; valdymo laikotarpis: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Azovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Krymas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Lvovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Turkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vengrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Azovas; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lvovas; mentioned_place: Turkija; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1484 m.; įvykio data: 1490 m.; įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir apima citatoje nurodytą statusą bei mirties metus.'
   pagrindžia:
     - c-001
@@ -45,10 +44,10 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
   global_id: t-79133
   teiginys: 'Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie Motiejų Huniadį ir paremtas citata.'
-  susije_objektai: 'territory: Azovas; territory: Kijevas; territory: Krymas; territory: Lvovas; territory: Turkija; territory: Vengrija; territory: Vilnius; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Azovas; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lvovas; mentioned_place: Turkija; mentioned_place: Vengrija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Azovas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Kijevas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Krymas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Lvovas; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Turkija; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vengrija; [[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Vengrija; mentioned_group: [[objektai/grupes/Jogailaičiai|Jogailaičiai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Azovas; mentioned_place: Kijevas; mentioned_place: Krymas; mentioned_place: Lvovas; mentioned_place: Turkija; mentioned_place: Vengrija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Motiejus Huniadis|Motiejus Huniadis]] buvo valdovas Vengrija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1484 m.; valdymo laikotarpis: 1490 m.; valdymo laikotarpis: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Azovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Krymas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Lvovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Turkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vengrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Motiejus Huniadis buvo valdovas Vengrija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie Motiejų Huniadį ir paremtas citata.'
   pagrindžia:
     - c-001
@@ -89,10 +88,4 @@ mirė Jogailaičiams priešiškas (A oN Vengrijos karalius Motiejus Huniadis oo 
     - t-002
 
 ## Ryšiai
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Azovas]]
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Kijevas]]
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Krymas]]
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Lvovas]]
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Turkija]]
 - Motiejus Huniadis buvo_valdovas [[objektai/vietos/Vengrija]]
-- Motiejus Huniadis buvo_valdovas [[objektai/vietos/Vilnius]]

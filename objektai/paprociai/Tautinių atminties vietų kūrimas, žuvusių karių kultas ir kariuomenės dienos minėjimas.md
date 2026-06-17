@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-77940
   teiginys: '1934 m. lapkričio 23 d. Kauno Karo muziejaus sodelyje palaidotas Nežinomas kareivis, o lapkričio 23-ioji kasmet iškilmingai minima kaip kariuomenės įkūrimo diena.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą atminties praktiką.'
-  susije_objektai: 'location: Kaunas; location: Lietuva; mentioned_place: Kaunas; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_place: Kaunas; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mirties data: 1934 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir tiksliai perteikia citatoje nurodytą atminties praktiką.'

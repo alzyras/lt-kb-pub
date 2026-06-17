@@ -27,8 +27,6 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_person: [[objektai/asmenys/Vaidila|Vaidila]]; mentioned_place: Brasta; mentioned_place: Dubnas; mentioned_place: Lietuva; mentioned_place: Tauragnai; mentioned_place: Verkiai; mentioned_place: Vilniaus katedra; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Eperješai.md#claim-t-86790|Eperješai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
-- susijęs iš [[objektai/grupes/Gelgaudai.md#claim-t-86792|Gelgaudai]]: Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176382|Gediminas]]: Gediminas Vilniuje pastatydino mūro tvirtovę, saugomą aukštų sienų ir trijų bokštų.
 - susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23204|Jonas Kristupas Glaubicas]]: J. K. Glaubico 1737–1767 m. kūrybos laikotarpis įvardijamas kaip vienas ryškiausių senosios Lietuvos civilizacijos reiškinių.
 - susijęs iš [[objektai/asmenys/Jonas Kristupas Glaubicas.md#claim-t-23205|Jonas Kristupas Glaubicas]]: Jonas Kristupas Glaubicas laikomas pagrindiniu originalios Vilniaus baroko mokyklos architektu.
@@ -100,7 +98,3 @@ I1l ## Puslapis 128 VILNIAUS MIESTO ISTORIJA / TOMAS vyskupui, iškilmingu aktu 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Eperješai]] priklause Bokštai
-- [[objektai/grupes/Gelgaudai]] priklause Bokštai

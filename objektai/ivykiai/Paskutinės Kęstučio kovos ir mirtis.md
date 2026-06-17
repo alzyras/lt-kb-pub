@@ -40,7 +40,7 @@ Nenurodyta
   global_id: t-66819
   teiginys: 'Kęstučio lavonas buvo atvežtas iš Krėvos į Vilnių, iškilmingai palaidotas ir sudegintas su jo mėgtais daiktais, ginklais bei gyvuliais.'
   sudarymo_pagrindimas: 'Patikslinta, kad kartu minimi ne tik daiktai, bet ir ginklai bei gyvuliai.'
-  susije_objektai: 'location: Krėva; location: Vilnius; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Laužas|Laužas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Krėva; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

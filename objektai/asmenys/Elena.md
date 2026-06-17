@@ -64,10 +64,9 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
 - t-002
   global_id: t-54957
   teiginys: '1495 m. sužadėtinė Elena iš Maskvos atvyko į Vilnių, lydima bojarinų ir dvariškių, o Aleksandras ją sutiko prie Nemėžio kelio.'
-  susije_objektai: 'location: Lietuva; location: Maskva; location: Nemėžis; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Lietuva; [[objektai/asmenys/Elena|Elena]] keliavo į Maskva; [[objektai/asmenys/Elena|Elena]] keliavo į Nemėžis; [[objektai/asmenys/Elena|Elena]] keliavo į Trakai; [[objektai/asmenys/Elena|Elena]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Nemėžis; mentioned_place: Trakai; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Nemėžis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -173,10 +172,9 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   global_id: t-82287
   teiginys: 'Karalienė Elena mirė Vilniuje 1513 m. ir buvo palaidota graikų apeigų koplyčioje.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata, nepaisant OCR triukšmo šaltinio fragmente.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] mirė Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1513 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) mirė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas ir paremtas citata, nepaisant OCR triukšmo šaltinio fragmente.'
   pagrindžia:
     - c-008
@@ -186,10 +184,10 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
   global_id: t-82288
   teiginys: '1495 m. carui sutikus su vedybomis, sužadėtinė Elena kitų metų vasarį atvyko iš Maskvos į Vilnių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos turinį.'
-  susije_objektai: 'location: Lietuva; location: Maskva; location: Trakai; location: Vilnius; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Lietuva; [[objektai/asmenys/Elena|Elena]] keliavo į Maskva; [[objektai/asmenys/Elena|Elena]] keliavo į Trakai; [[objektai/asmenys/Elena|Elena]] keliavo į Vilnius'
+  susije_objektai: 'location: Maskva; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Trakai; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Elena|Elena]] keliavo į Maskva'
   temporaliniai_duomenys: 'kelionės data: 1494 m.; kelionės data: 1495 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elena (vyskupas, XV–XVI a.) keliavo į Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys ir tiksliai perteikia citatos turinį.'
   pagrindžia:
     - c-001
@@ -701,15 +699,5 @@ Elena šaltinyje identifikuojama kaip Ivano Vasiljevičiaus duktė ir Aleksandro
     - t-017
 
 ## Ryšiai
-- Elena (vyskupas, XV–XVI a.) mire [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) buvo_valdovas [[objektai/vietos/Krymas]]
-- Elena (vyskupas, XV–XVI a.) buvo_valdovas [[objektai/vietos/Liublinas]]
-- Elena (vyskupas, XV–XVI a.) buvo_valdovas [[objektai/vietos/Maskva]]
-- Elena (vyskupas, XV–XVI a.) buvo_valdovas [[objektai/vietos/Pskovas]]
-- Elena (vyskupas, XV–XVI a.) buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Elena (vyskupas, XV–XVI a.) buvo_valdovas [[objektai/vietos/Vilnius]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Lietuva]]
 - Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Maskva]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Nemėžis]]
-- Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Trakai]]
 - Elena (vyskupas, XV–XVI a.) keliavo_i [[objektai/vietos/Vilnius]]

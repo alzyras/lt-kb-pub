@@ -68,7 +68,6 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Stanislovas Hozijus.md#claim-t-186254|Stanislovas Hozijus]]: Stanislovas Hozijus 1568 m. Braunsberge įsteigė kolegiją, netrukus tapusią svarbia jėzuitų atrama.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173122|Barbora Radvilaitė]]: Karalienės Barboros apdarai, saugoti Gzovskio ir kitur, buvo padovanoti karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54955|Barbora Radvilaitė]]: Karalienės Barboros apdarai testamente buvo dovanojami karalaitei Onai.
 - susijęs iš [[objektai/asmenys/Gzovskis.md#claim-t-87907|Gzovskis]]: Gzovskis saugojo karalienės Barboros apdarus, kurie vėliau turėjo būti perduoti karalaitei Onai.
@@ -159,6 +158,3 @@ Jie buvo įkurdinti Varmijos vyskupystės centre Braunsberge, o iš ten paplito 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Stanislovas Hozijus]] pastate Braunsbergas

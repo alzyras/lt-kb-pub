@@ -23,8 +23,8 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
   global_id: t-87503
   teiginys: 'Geremferdenas, padedamas Vytauto, įveikė priešininkus ir atvyko į Vilnių būti pripažintas Lietuvos vasalu.'
   sudarymo_pagrindimas: 'Pradinis teiginys per ilgas ir fragmentiškas; citata palaiko aiškų faktą.'
-  susije_objektai: 'location: Lietuva; location: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Geremferdenas|Geremferdenas]] keliavo į Lietuva; [[objektai/asmenys/Geremferdenas|Geremferdenas]] keliavo į Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Geremferdenas|Geremferdenas]] keliavo į Vilnius'
   pagrindžia:
     - c-001
 
@@ -56,5 +56,4 @@ Tačiau nau­ jasis chanas, išvykęs iš Vilniaus, netrukus žuvo mūšyje su s
     - t-001
 
 ## Ryšiai
-- Geremferdenas keliavo_i [[objektai/vietos/Lietuva]]
 - Geremferdenas keliavo_i [[objektai/vietos/Vilnius]]

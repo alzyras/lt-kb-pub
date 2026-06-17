@@ -75,9 +75,6 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   susije_objektai: 'mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lietuva; mentioned_place: Moldavija; mentioned_place: Severskas'
   pagrindžia:
     - c-004
-- susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
-- susijęs iš Voluinė: Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims.
 - susijęs iš [[objektai/asmenys/Jurga (pasienio seniūnas).md#claim-t-186222|Jurga (pasienio seniūnas)]]: Pasienio seniūnas Jurga dovanomis išpirko lietuviams priklausomas valdas nuo skitų antpuolių.
 - susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
 - susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184531|Lenkai]]: Lenkai įtarė lietuvius ir karalių dėl Podolės nuniokojimo, teigdami, kad lietuviai sukurstė skitus prieš lenkus.
@@ -193,8 +190,3 @@ Lietuvos valstybės teritorija po unijos buvo labai sumažėjusi, nes didžiulia
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Kiška]] buvo_valdovas Braclavas
-- [[objektai/asmenys/Vincentas iš Šamotulų]] buvo_valdovas Braclavas
-- [[objektai/vietos/Voluinė]] priklause Braclavas

@@ -33,8 +33,8 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
   global_id: t-59864
   teiginys: 'Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.'
   sudarymo_pagrindimas: 'Teiginys glaustai ir tiksliai apibendrina citatoje aprašytą apgulą.'
-  susije_objektai: 'object: Bisenė; object: Nemunas; object: Pilėnai; object: Prūsija; object: Salos; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Bisenė; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Nemunas; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Pilėnai; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Prūsija; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Salos'
+  susije_objektai: 'object: Bisenė; object: Prūsija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_place: Bisenė; mentioned_place: Nemunas; mentioned_place: Pilėnai; mentioned_place: Prūsija; mentioned_place: Salos'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Bisenė; [[objektai/asmenys/Henrikas iš Plockės|Henrikas iš Plockės]] puolė Prūsija'
   pagrindžia:
     - c-007
 
@@ -248,7 +248,4 @@ Dusburgietis teigia, kad tų pačių metų vasarą brolis Henrikas iš Plockės,
 
 ## Ryšiai
 - Henrikas iš Plockės puole [[objektai/vietos/Bisenė]]
-- Henrikas iš Plockės puole [[objektai/vietos/Nemunas]]
-- Henrikas iš Plockės puole [[objektai/vietos/Pilėnai]]
 - Henrikas iš Plockės puole [[objektai/vietos/Prūsija]]
-- Henrikas iš Plockės puole [[objektai/vietos/Salos]]

@@ -34,7 +34,6 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
   temporalinis_llm_pakomentavimas: 'Citatos ir antraščių fragmentai perrašyti į trumpą faktą apie asmenį.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/autokratinė monarchinė imperija.md#claim-t-45784|autokratinė monarchinė imperija]]: 1795–1915 m. Lietuva, išskyrus Užnemunę ir 1812 m. Napoleono interliudą, priklausė autokratinei Rusijos imperijai.
 - susijęs iš [[objektai/asmenys/Kristijonas Gotlibas Milkus.md#claim-t-63850|Kristijonas Gotlibas Milkus]]: Immanuelio Kanto tekstas apie lietuvių kalbą buvo išspausdintas Kristijono Gotlibo Milkaus lietuvių ir vokiečių kalbų žodyno pratarmėje.
 - susijęs iš [[objektai/asmenys/Kristijonas Gotlibas Milkus.md#claim-t-63851|Kristijonas Gotlibas Milkus]]: Kristijono Gotlibo Milkaus „Lietuvių–vokiečių ir vokiečių–lietuvių kalbų žodyno“ pratarmėje cituotas Immanuelis Kantas.
 - susijęs iš [[objektai/posakiai/„Iš tikrųjų jokia kita pasaulio kalba...“.md#claim-t-20842|„Iš tikrųjų jokia kita pasaulio kalba...“]]: Lietuvių kalba apibūdinama kaip sulaukusi daugiau aukščiausių pagyrimų nei bet kuri kita pasaulio kalba.
@@ -73,6 +72,3 @@ Be to, pagal lyginamąją kalbotyrą, lietuvių kalba yra labiausiai gebanti ats
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/zodynas/autokratinė monarchinė imperija]] priklause Immanuel Kant

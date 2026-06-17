@@ -49,8 +49,7 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškią nuorodą „čia“.'
-  susije_objektai: 'location: Seversko Naugardas; mentioned_group: [[objektai/grupes/Seversko kunigaikščiai|Seversko kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Severskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] gyveno Seversko Naugardas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Seversko kunigaikščiai|Seversko kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Naugardas; mentioned_place: Severskas'
   pagrindžia:
     - c-003
 - susijęs iš Severskas: Vytautas, pasiuntęs lengvuosius raitelius persekioti bėgančiųjų, su pagrindinėmis jėgomis patraukė į Severską.
@@ -130,6 +129,3 @@ Kitais metais, Švitrigailai atsitraukus nuo Vilniaus, gy­ ventojai vilniečiai
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] gyveno Seversko Naugardas

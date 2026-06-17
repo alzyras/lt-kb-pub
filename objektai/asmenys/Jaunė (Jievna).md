@@ -29,8 +29,7 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   global_id: t-34795
   teiginys: 'Gedimino našlė Jaunė tikriausiai buvo jungiantis veiksnys, kai Vilniuje gyveno kartu su Jaunučiu.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas, pašalintas sunkus žodžių junginys ir palikta citatos remiama mintis.'
-  susije_objektai: 'location: Vilnius; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaunė (Jievna)|Jaunė (Jievna)]] gyveno Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -50,6 +49,3 @@ Greičiausia jungiančiu veiksniu tuo laikotarpiu bus buvusi taip pat Vilniuje s
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jaunė (Jievna) gyveno [[objektai/vietos/Vilnius]]

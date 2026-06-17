@@ -61,8 +61,6 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
-- susijęs iš Tverė: Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.
-- susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
 - susijęs iš [[objektai/asmenys/Eugenijus IV.md#claim-t-87661|Eugenijus IV]]: Popiežius Eugenijus IV 1434 m. spalio 20 d. laiške Žygimantui Kęstutaičiui užtarė Švitrigailos žmoną Sofiją.
 - susijęs iš [[objektai/asmenys/Juozapas (Konstantinopolio patriarchas).md#claim-t-186221|Juozapas (Konstantinopolio patriarchas)]]: Konstantinopolio patriarchas Juozapas dalyvavo Florencijos suvažiavime, kuriame tartasi dėl Rytų ir Romos bažnyčių tikėjimo santarvės.
 - susijęs iš [[objektai/asmenys/Sofija (Švitrigailos žmona).md#claim-t-87855|Sofija (Švitrigailos žmona)]]: Sofija, Tverės kunigaikščio Boriso duktė ir Švitrigailos žmona, vėliau pateko į Žygimanto Kęstutaičio galią.
@@ -138,7 +136,3 @@ Tačiau galutinai dėl unijos buvo susitarta kiek vėliau Florencijoje.
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Florencija
-- [[objektai/asmenys/Eugenijus IV]] buvo_valdovas Florencija

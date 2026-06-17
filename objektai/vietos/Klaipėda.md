@@ -294,8 +294,7 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   global_id: t-90698
   teiginys: 'Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.'
   sudarymo_pagrindimas: 'Pataisyta forma ir pašalintas išnašos triukšmas.'
-  susije_objektai: 'owner: Dubysa; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Nemunas; owner: [[objektai/asmenys/Palemonas|Palemonas]]; owner: Torno; owner: Veliuona; owner: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Nemunas; mentioned_place: Torno; mentioned_place: Veliuona'
-  semantiniai_rysiai: 'Klaipėda priklausė [[objektai/asmenys/Palemonas|Palemonas]]; Klaipėda priklausė [[objektai/asmenys/Vytautas|Vytautas]]; Klaipėda priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Klaipėda priklausė Dubysa; Klaipėda priklausė Nemunas; Klaipėda priklausė Torno; Klaipėda priklausė Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Palemonas|Palemonas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Dubysa; mentioned_place: Nemunas; mentioned_place: Torno; mentioned_place: Veliuona'
   pagrindžia:
     - c-006
 
@@ -394,7 +393,6 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Kaunas'
   pagrindžia:
     - c-013
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75736|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona teigė, kad be faktinės Klaipėdos kontrolės Lietuva neturės juridinės kontrolės.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75763|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: Antanas Smetona laikėsi nuostatos, kad be faktinės Klaipėdos kontrolės Lietuva neįgis juridinės krašto kontrolės.
 - susijęs iš [[objektai/asmenys/Ernestas Galvanauskas.md#claim-t-183531|Ernestas Galvanauskas]]: Ernestas Galvanauskas nusistatė Klaipėdos kraštą užimti jėga, manydamas, kad Lietuva jo negaus per Tautų Sąjungą ar Ambasadorių konferenciją.
@@ -1015,13 +1013,3 @@ Klaipėda aprašoma kaip pilis ir miestas prie Baltijos bei Kuršmarių sąsiaur
   statusas: verified
   pagrindžia:
     - t-036
-
-## Ryšiai
-- Klaipėda priklause [[objektai/vietos/Dubysa]]
-- Klaipėda priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Klaipėda priklause [[objektai/vietos/Nemunas]]
-- Klaipėda priklause [[objektai/asmenys/Palemonas]]
-- Klaipėda priklause [[objektai/vietos/Torno]]
-- Klaipėda priklause [[objektai/vietos/Veliuona]]
-- Klaipėda priklause [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]]
-- [[objektai/vietos/Veliuona]] priklause Klaipėda

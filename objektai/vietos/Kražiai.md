@@ -34,7 +34,6 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_place: Bobruiskas; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kaunas; mentioned_place: Minskas; mentioned_place: Pinskas; mentioned_place: Sluckas; mentioned_place: Smolenskas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-001
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
 - susijęs iš [[objektai/autoriai/L. Vladimirovas.md#claim-t-30785|L. Vladimirovas]]: L. Vladimirovas parašė straipsnių apie caro valdžios kultūros ir švietimo politiką Lietuvoje, bibliotekų istoriją ir lietuvių kultūros-švietimo draugijas.
 - susijęs iš [[objektai/autoriai/Lietuvos istorikai ir socialinės istorijos tyrėjai.md#claim-t-179537|Lietuvos istorikai ir socialinės istorijos tyrėjai]]: L. Vladimirovas rašė apie caro vyriausybės politiką kultūros ir švietimo srityje Lietuvoje 1871-1904 m.
 - susijęs iš [[objektai/grupes/Kazokai.md#claim-t-65308|Kazokai]]: 1893 m. po visą Europą nuskambėjo Kražių įvykiai – raiti kazokai šturmavo Kražių bažnyčią, kurią nuo uždarymo gynė susirinkę miestelio gyventojai.
@@ -88,6 +87,3 @@ Tuo būdu atsirado jėzuitų kolegijos Kražiuose (didžiojo hetmono Jono Karoli
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Kražiai

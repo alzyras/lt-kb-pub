@@ -22,8 +22,8 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Vytautą, todėl perrašyta apie Vasilijų.'
-  susije_objektai: 'territory: Marienburgas; territory: Maskva; territory: Plockas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Marienburgas; [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Plockas'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Ona Vytautienė|Ona Vytautienė]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Marienburgas; mentioned_place: Maskva; mentioned_place: Plockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vasilijus (Maskvos kunigaikštis)|Vasilijus (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
 
@@ -171,6 +171,4 @@ Maskvos kunigaikštis Vasilijus turėjo vesti Vytauto dukterį Sofiją, kuriai M
     - t-004
 
 ## Ryšiai
-- Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Marienburgas]]
 - Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
-- Vasilijus (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Plockas]]

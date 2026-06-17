@@ -63,10 +63,10 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
   global_id: t-113196
   teiginys: 'Po Vytauto žygių Pskovo pasiuntiniai 1427 m. atvyko į Vilnių prašyti paleisti belaisvius.'
   sudarymo_pagrindimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
-  susije_objektai: 'location: Lietuva; location: Pskovas; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Lietuva; [[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Pskovas; [[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Pskovo respublika|Pskovo respublika]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1427 m.; kelionės data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pskovo respublika keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pskovo respublika keliavo į Pskovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Pskovo respublika keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Pskovo respublika keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys buvo nutrūkęs; citata pagrindžia Pskovo pasiuntinių atvykimą ir tikslą.'
   pagrindžia:
     - c-003
@@ -187,6 +187,4 @@ Jie pasiekdavo plotus turtingųjų Didžiojo Naugardo ir Pskovo respublikų. Nuo
     - t-002
 
 ## Ryšiai
-- Pskovo respublika keliavo_i [[objektai/vietos/Lietuva]]
-- Pskovo respublika keliavo_i [[objektai/vietos/Pskovas]]
 - Pskovo respublika keliavo_i [[objektai/vietos/Vilnius]]

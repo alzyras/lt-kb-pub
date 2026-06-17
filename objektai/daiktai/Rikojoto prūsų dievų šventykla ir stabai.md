@@ -59,8 +59,7 @@ Nenurodyta
 - t-003
   global_id: t-75344
   teiginys: 'Prūsų dievų trejybei priklausė požemio dievas Pakulas, žaibų ir griausmų dievas Perkūnas bei javų dievas Patrimpas.'
-  susije_objektai: 'owner: Prūsai; mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/daiktai/Rikojoto prūsų dievų šventykla ir stabai|Rikojoto prūsų dievų šventykla ir stabai]] priklausė Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Simono Grunau|Simono Grunau]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-001
 
@@ -106,6 +105,3 @@ Nenurodyta
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- Rikojoto prūsų dievų šventykla ir stabai priklause [[objektai/vietos/Prūsai]]

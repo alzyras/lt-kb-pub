@@ -159,7 +159,3 @@ Tverei susivienijus su maskvėnais, Vasiljevičius galėjo smarkiai sustiprinti 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Vasiljevičius (Maskvos valdovas) buvo_valdovas [[objektai/vietos/Maskva]]
-- Vasiljevičius (Maskvos valdovas) buvo_valdovas [[objektai/vietos/Tverė]]

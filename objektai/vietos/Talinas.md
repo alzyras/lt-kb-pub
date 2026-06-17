@@ -90,7 +90,6 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys yra nutrūkęs, bet citata leidžia jį perrašyti.'
   pagrindžia:
     - c-001
-- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
 - susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-183737|Eilartas fon Hobergas]]: Danų vietininkas Taline Eilartas fon Hobergas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
 - susijęs iš [[objektai/asmenys/Eilartas fon Hobergas.md#claim-t-40100|Eilartas fon Hobergas]]: Eilartas fon Hobergas buvo danų vietininkas Taline ir žuvo mūšyje kartu su Livonijos ordino magistru Ernestu fon Racburgu.
 - susijęs iš [[objektai/asmenys/Ernestas fon Racburgas.md#claim-t-183738|Ernestas fon Racburgas]]: Livonijos ordino magistras Ernestas fon Racburgas žuvo mūšyje, iš kurio tik kai kuriems kariams pavyko ištrūkti.
@@ -211,6 +210,3 @@ Tuo pat metu Maskva turėjo užgrobusi Tartų (Dorpato) vyskupystę, Švedai —
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/vietos/Saremos]] priklause Talinas

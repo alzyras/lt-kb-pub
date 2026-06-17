@@ -179,17 +179,11 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
   susije_objektai: 'mentioned_group: [[objektai/grupes/Notangai|Notangai]]; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/ginklanešiai|ginklanešiai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsai; mentioned_place: Varmė'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/asmenys/Vytenis.md#claim-t-176843|Vytenis]]: Vytenio brolis Gediminas davė vardą Gediminaičių dinastijai ir valdė 1316–1341 m.
 - susijęs iš [[objektai/asmenys/Tame (Baigos brolis).md#claim-t-60444|Tame (Baigos brolis)]]: 1321 m. brolis Tame iš Meiseno penkiasdešimt šeštus metus gyveno Baigoje ir tiek pat metų buvo išbuvęs Teutonų ordine.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-183983|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
-- susijęs iš [[objektai/paprociai/Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika.md#claim-t-89443|Baigos ir kitų Ordino pilių brolių asketinė vienuolinė praktika]]: Baigos ir kitų minėtų pilių broliai gyveno skaisčiai, laikėsi dorovingo santūrumo ir griežtų vienuoliškų regulų.
-- susijęs iš Partigala: Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.
-- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58785|kuoras propugnaculum pilaitė]]: Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/asmenys/Ruseinis.md#claim-t-60199|Ruseinis]]: Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.
 - susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-183961|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
 - susijęs iš [[objektai/ivykiai/Ruseinio atsivertimas ir mirtis.md#claim-t-59407|Ruseinio atsivertimas ir mirtis]]: Kilmingas sūduvis Ruseinis su šeimyna atvyko pas Baigos komtūrą, pasikrikštijo ir po krikšto prašė pamokyti Kristaus tikėjimo.
 - susijęs iš [[objektai/paprociai/Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto.md#claim-t-59737|Kilmingų sūduvių atvykimas pas brolius su namais bei šeimyna priimti krikšto (krikštas)]]: Kilmingas sūduvis Ruseinis su savo namais ir šeimyna atvyko pas Baigos komtūrą, norėdamas išklausyti pamaldų.
-- susijęs iš [[objektai/zodynas/maldininkai maldininko įžadai.md#claim-t-70231|maldininkai / maldininko įžadai]]: Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.
 - susijęs iš [[objektai/asmenys/Aleksandra (Mozūrijos kunigaikštienė).md#claim-t-39998|Aleksandra (Mozūrijos kunigaikštienė)]]: Mozūrijos kunigaikštienė Aleksandra, Jogailos ir Švitrigailos sesuo, tarpininkavo Jogailai.
 - susijęs iš [[objektai/asmenys/Bertoldas, vadinamas Briuhavenu.md#claim-t-59881|Bertoldas, vadinamas Briuhavenu]]: Karaliaučiaus komtūras Bertoldas pavedė Henrikui Cutsvertui su kariuomene traukti link Lietuvos ir siaubti Vytenio žemes.
 - susijęs iš [[objektai/asmenys/Ditrichas iš Altenburgo.md#claim-t-59949|Ditrichas iš Altenburgo]]: Ditrichas iš Altenburgo, Baigos komtūras, gavęs didžiojo magistro leidimą pastatė Lunenburgo pilį Bartos žemėje.
@@ -610,7 +604,5 @@ Dusburgietis teigia, kad pats Kristus padėjęs apsuptiems Baigoje broliams, par
     - t-015
 
 ## Ryšiai
-- [[objektai/asmenys/Vytenis]] valde_teritorija Baiga
 - [[objektai/asmenys/Tame (Baigos brolis)]] gyveno Baiga
-- [[objektai/asmenys/Pomandas]] buvo_valdovas Baiga
 - [[objektai/asmenys/Ruseinis]] keliavo_i Baiga

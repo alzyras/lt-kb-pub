@@ -38,7 +38,7 @@ Misiūnas nuolat keliavo po Ukmergės ir Trakų apskritis ir nevengdamas susidū
   global_id: t-42223
   teiginys: '1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.'
   sudarymo_pagrindimas: 'Įtrauktas citatoje nurodytas laikas ir paliktas aiškus faktinis teiginys.'
-  susije_objektai: 'location: Trakai; location: Trakų apskritis; location: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
+  susije_objektai: 'location: Ukmergė; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Trakai; mentioned_place: Trakų apskritis; mentioned_place: Ukmergė'
   temporaliniai_duomenys: 'kelionės data: 1944 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įtrauktas citatoje nurodytas laikas ir paliktas aiškus faktinis teiginys.'

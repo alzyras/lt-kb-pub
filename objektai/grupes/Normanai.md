@@ -42,7 +42,6 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Baltija; mentioned_place: Lietuva; mentioned_place: Skandinavija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse.md#claim-t-87178|Normanų jūros kelionės, plėšikavimas ir prekyba Baltijos pakrantėse]]: IX a. Rusioje variagais vadinti normanai iš Skandinavijos plėšikavo ir prekiavo Baltijos gintarinėse pakrantėse.
 - susijęs iš [[objektai/daiktai/Laivai, valtys, sieliai ir plaustai.md#claim-t-86992|Laivai, valtys, sieliai ir plaustai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179488|Laivai]]: Po Karolio Didžiojo monarchijos žlugimo piratų valdomi lengvi laivai pasklido iš Skandinavijos po Baltijos pakrantę.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179276|Lietuviai]]: Cituojamame aiškinime teigiama, kad žemaičiai nuo senų laikų save vadino lietuviais.
@@ -146,6 +145,3 @@ Pirmieji normanai iš Skandina­ vijos, IX amžiuje Rusioje žinomi variagų var
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] prekiavo_su Normanai

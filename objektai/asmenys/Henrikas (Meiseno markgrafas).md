@@ -42,10 +42,9 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
   global_id: t-63617
   teiginys: 'Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Europa; location: Lietuva; location: Pamedė; location: Prūsai; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pamedė; mentioned_place: Prūsai'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Europa; [[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Lietuva; [[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Pamedė; [[objektai/asmenys/Henrikas (Meiseno markgrafas)|Henrikas (Meiseno markgrafas)]] keliavo į Prūsai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Pamedė; mentioned_place: Prūsai'
   temporaliniai_duomenys: 'kelionės data: 1236 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Pamedė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Henrikas (Meiseno markgrafas) keliavo į Prūsai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra konkretus, pilnas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
@@ -110,8 +109,4 @@ Ordinui į pagalbą atvyko Meiseno markgrafas Henrikas su 500 riterių ir su „
     - t-002
 
 ## Ryšiai
-- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Europa]]
-- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Lietuva]]
-- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Pamedė]]
-- Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Prūsai]]
 - Henrikas (Meiseno markgrafas) keliavo_i [[objektai/vietos/Prūsija]]

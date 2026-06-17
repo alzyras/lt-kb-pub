@@ -43,8 +43,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   global_id: t-55109
   teiginys: 'Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir paremtas citata apie Šubravcų draugijos sudėtį.'
-  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; owner: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; owner: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; owner: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; owner: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -80,8 +79,7 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   global_id: t-81752
   teiginys: 'Vilniuje veikusiai Šubravcų draugijai priklausė universiteto elitas, profesoriai ir įtakingi miesto gyventojai.'
   sudarymo_pagrindimas: 'Teiginys palaikomas, bet reikia pašalinti OCR triukšmą ir sutvarkyti sakinį.'
-  susije_objektai: 'owner: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; owner: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; owner: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; owner: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; owner: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Vilnius; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; [[objektai/grupes/Šubravcų draugija|Šubravcų draugija]] priklausė Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Janas Chodzka|Janas Chodzka]]; mentioned_person: [[objektai/asmenys/Jokūbas Šimkevičius|Jokūbas Šimkevičius]]; mentioned_person: [[objektai/asmenys/Juozapas Zavadskis|Juozapas Zavadskis]]; mentioned_person: [[objektai/asmenys/Kazimieras Kontrimas|Kazimieras Kontrimas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Janas Chodzka.md#claim-t-87698|Janas Chodzka]]: Janas Chodzka priklausė Vilniaus šubravcų draugijai ir joje pasivadino Vaižgantu.
@@ -162,13 +160,3 @@ Vilniuje veikusi kultūrinė ir švietėjiška draugija.
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Balinskis]] susije_su Šubravcų draugija
-- Šubravcų draugija priklause [[objektai/asmenys/Aleksandras Balinskis]]
-- Šubravcų draugija priklause [[objektai/asmenys/Janas Chodzka]]
-- Šubravcų draugija priklause [[objektai/asmenys/Jokūbas Šimkevičius]]
-- Šubravcų draugija priklause [[objektai/asmenys/Juozapas Zavadskis]]
-- Šubravcų draugija priklause [[objektai/asmenys/Kazimieras Kontrimas]]
-- Šubravcų draugija priklause [[objektai/grupes/Lietuviai]]
-- Šubravcų draugija priklause [[objektai/vietos/Vilnius]]

@@ -42,7 +42,6 @@ Dusburgietis teigia, kad paskui jis atžygiavo į Kvedenavos324, Valdavos325, Ka
   susije_objektai: 'mentioned_place: Kaimas; mentioned_place: Tepliava'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/ivykiai/Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių.md#claim-t-62825|Kilmingų sembų prisidėjimas prie Karaliaučiaus brolių]]: Kai kurie kilmingi sembai su šeimomis paliko gimtuosius namus, atvyko į Karaliaučiaus pilį ir prisidėjo prie brolių.
 - susijęs iš [[objektai/asmenys/Henrikas Ulenbušas.md#claim-t-60140|Henrikas Ulenbušas]]: Henrikas Ulenbušas nepasitraukė iš mūšio lauko ir narsiu gynimusi paskatino kitus grįžti į kovą su sembais.
 - susijęs iš [[objektai/asmenys/Noliubas.md#claim-t-89993|Noliubas]]: Noliubas, Sklodo iš Kvedenavos sūnus, atsisakė paklusti Karaliaučiaus broliams ir nesekė savo tėvų pavyzdžiu.
 - susijęs iš [[objektai/asmenys/Sklodas iš Kvedenavos.md#claim-t-60205|Sklodas iš Kvedenavos]]: Sembas Sklodas iš Kvedenavos sušaukė giminaičius ir bičiulius, ragindamas juos kovoti už tikėjimą ir brolius.

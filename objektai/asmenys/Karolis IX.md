@@ -93,10 +93,9 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
 - t-007
   global_id: t-79082
   teiginys: 'Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.'
-  susije_objektai: 'territory: Kuoknesė; territory: Kuoknesės pilis; territory: Švedija; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Kuoknesė; [[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Kuoknesės pilis; [[objektai/asmenys/Karolis IX|Karolis IX]] buvo valdovas Švedija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Kuoknesė; mentioned_place: Kuoknesės pilis; mentioned_place: Švedija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1574-1650; valdymo laikotarpis: 1616 m.; valdymo laikotarpis: 1650 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis IX buvo valdovas Kuoknesė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis IX buvo valdovas Kuoknesės pilis (pilis)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karolis IX buvo valdovas Švedija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Henrikas Vrede.md#claim-t-40135|Henrikas Vrede]]: Švedų reitaras Henrikas Vrede atidavė karaliui savo žirgą ir žuvo, o Karolis IX dėl to išsigelbėjo.
@@ -203,6 +202,4 @@ Savo kandidatūrą statė ir Zigmanto Augusto sesers, Kotrynos, vyras — Šved�
     - t-002
 
 ## Ryšiai
-- Karolis IX buvo_valdovas [[objektai/vietos/Kuoknesė]]
-- Karolis IX buvo_valdovas [[objektai/vietos/Kuoknesės pilis|Kuoknesės pilis (pilis)]]
 - Karolis IX buvo_valdovas [[objektai/vietos/Švedija]]

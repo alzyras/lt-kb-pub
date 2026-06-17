@@ -62,14 +62,6 @@ amziai:
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Latviai.md#claim-t-169591|Latviai]]: XII-XIII a. sandūroje latviai gyveno dešiniajame Dauguvos krante, dabartinėje Latgalijoje ir rytinėje Vidžemėje.
-- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96812|Lybiai]]: XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.
-- susijęs iš [[objektai/grupes/Lybiai.md#claim-t-96813|Lybiai]]: Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.
-- susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52441|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
-- susijęs iš [[objektai/grupes/Sėliai.md#claim-t-52442|Sėliai]]: Sėliai gyveno kairiajame Dauguvos vidurupio krante ir siekė dabartines Utenos bei Zarasų apskritis.
-- susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77971|A. Smetona]]: 1936 m. kovą Kaune pasakyta A. Smetonos kalba užvėrė duris kompromisui su Lenkija.
 - susijęs iš [[objektai/asmenys/Aleksandras Lukašenka.md#claim-t-17438|Aleksandras Lukašenka]]: Aleksandro Lukašenkos diktatūrinis valdymas komplikavo politinius santykius su Baltarusija.
 - susijęs iš [[objektai/asmenys/Antanas Smetona.md#claim-t-75720|Antanas Smetona (Lietuvos prezidentas, XX a.)]]: A. Smetona buvo Vykdomojo Komiteto biuro narys.
@@ -311,8 +303,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/grupes/Latviai]] gyveno Latvija
-- [[objektai/grupes/Lybiai]] gyveno Latvija
-- [[objektai/grupes/Sėliai]] gyveno Latvija

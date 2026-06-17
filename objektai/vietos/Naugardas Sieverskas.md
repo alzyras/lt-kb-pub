@@ -30,7 +30,7 @@ amziai:
   global_id: t-182020
   teiginys: 'Sieversko Naugardo kunigaikštis Dimitras Kaributas pirmasis pakėlė ginklą prieš Vytautą.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Sieversko Naugardą ir Dimitrą Kaributą.'
-  susije_objektai: 'territory: Lietuva; territory: Naugardas; territory: Vilnius; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Naugardas; mentioned_person: [[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

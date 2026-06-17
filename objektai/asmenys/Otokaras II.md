@@ -42,10 +42,10 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   global_id: t-175269
   teiginys: '1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
-  susije_objektai: 'territory: Austrija; territory: Kulmas; territory: Reinas; territory: Varmė; territory: Vokietija; territory: Čekija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Austrija; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Kulmas; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Reinas; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Varmė; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Vokietija; [[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Čekija'
+  susije_objektai: 'territory: Čekija; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_object: [[objektai/zodynas/pagonys|pagonys]]; mentioned_place: Austrija; mentioned_place: Kulmas; mentioned_place: Reinas; mentioned_place: Varmė; mentioned_place: Vokietija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Otokaras II|Otokaras II]] buvo valdovas Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1254 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Reinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Varmė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Vokietija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs ir turi antraštės bei sąrašo triukšmo.'
   pagrindžia:
     - c-004
@@ -149,11 +149,4 @@ Dusburgietis teigia, kad dublino kodekse išlikusio „Pasaulio aprašymo pradž
   statusas: verified
 
 ## Ryšiai
-- Otokaras II buvo_valdovas [[objektai/vietos/Austrija]]
-- Otokaras II buvo_valdovas [[objektai/vietos/Kulmas]]
-- Otokaras II buvo_valdovas [[objektai/vietos/Prūsija]]
-- Otokaras II buvo_valdovas [[objektai/vietos/Reinas]]
-- Otokaras II buvo_valdovas [[objektai/vietos/Semba]]
-- Otokaras II buvo_valdovas [[objektai/vietos/Varmė]]
-- Otokaras II buvo_valdovas [[objektai/vietos/Vokietija]]
 - Otokaras II buvo_valdovas [[objektai/vietos/Čekija]]

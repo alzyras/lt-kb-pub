@@ -69,7 +69,7 @@ Nenurodyta
   teiginys: 'Redakcinė pastaba nurodo, kad Lenkijos delegacija atvyko pas Aleksandrą į Melniką ir pateikė jam naują Lenkijos ir Lietuvos unijos aktą kaip išrinkimo karaliumi sąlygą.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išskleistas delegacijos veiksmas ir kontekstas, o sąlygos formulavimas paliktas kaip redakcinės pastabos informacija. Nepridėta vėlesnio ratifikavimo atmetimo ar Aleksandro motyvų.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; location: Melnikas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
+  susije_objektai: 'location: Melnikas; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Melnikas'
   pagrindžia:
     - c-001
 

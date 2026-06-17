@@ -45,9 +45,9 @@ Nenurodyta
   global_id: t-66681
   teiginys: '1792 m. liepos 23 d. Lietuvos Brastos mūšis prasidėjo rusų kavalerijos ataka, kurią lietuvių kavalerija iš pradžių atmušė.'
   susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Kazokai|Kazokai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
   temporaliniai_duomenys: 'mūšio data: 1792 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kazokai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Rusai dalyvavo mūšyje Lietuvos Brastos mūšis (1792 m. liepos 23 d.)“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -65,7 +65,7 @@ Nenurodyta
   teiginys: 'Zikaro sudarytame leidinyje Lietuvos Brastos mūšis nelaikomas nei pergale, nei pralaimėjimu, nes LDK kariuomenė pasitraukė tvarkingai.'
   sudarymo_pagrindimas: 'Citata pateikia vertinimą, todėl reikia aiškios atribucijos ir trumpesnio sakinio.'
   susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Brasta; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuviai|Lietuviai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
   pagrindžia:
     - c-001
 
@@ -86,8 +86,7 @@ Nenurodyta
   global_id: t-66685
   teiginys: 'Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė, S. Zabielos raportais, neteko apie 300 karių.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas ir pagrįstas pateikta citata.'
-  susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
   pagrindžia:
     - c-004
 
@@ -109,7 +108,7 @@ Nenurodyta
   global_id: t-66687
   teiginys: 'Lietuvos Brastos mūšis truko apie 8 valandas, o Lietuvos kariuomenė neteko apie 300 karių.'
   susije_objektai: 'event: [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Brasta; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]; [[objektai/grupes/Rusai|Rusai]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)|Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]'
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/autoriai/Karolis Zikaras.md#claim-t-171500|Karolis Zikaras]]: Karolis Zikaras buvo šio leidinio skyrių įvadų autorius.

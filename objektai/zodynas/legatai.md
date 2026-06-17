@@ -22,7 +22,7 @@ Maskvos kunigaikštis Vasilijus pasiūlė karaliui taiką ir žadėjo atsiųsti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta nereikalinga atribucija ir išplėstas neaiškus įvardis.'
-  susije_objektai: 'territory: Maskva; territory: Riazanė; territory: Rževas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.

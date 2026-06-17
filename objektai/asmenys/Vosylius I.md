@@ -55,10 +55,10 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
   global_id: t-64267
   teiginys: '1425 m. mirštantis Maskvos kunigaikštis Vosylius paliko savo nepilnametį sūnų Vosylių Vytauto globai.'
   sudarymo_pagrindimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Lietuva; [[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Maskva; [[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Palanga'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius I|Vosylius I]] buvo valdovas Maskva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1425 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius I buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius I buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius I buvo valdovas Palanga“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius I buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata tiesiogiai patvirtina faktą, o pradinis teiginys buvo per daug kontekstinis.'
   pagrindžia:
     - c-002
@@ -153,6 +153,4 @@ Iš Smolensko puldamas Riazanių, kuris savo globon paėmė Jurgį Sviatoslovait
     - t-004
 
 ## Ryšiai
-- Vosylius I buvo_valdovas [[objektai/vietos/Lietuva]]
 - Vosylius I buvo_valdovas [[objektai/vietos/Maskva]]
-- Vosylius I buvo_valdovas [[objektai/vietos/Palanga]]

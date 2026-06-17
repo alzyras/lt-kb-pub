@@ -114,13 +114,7 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai susijęs su Jeruzale ir yra paremtas citatos formuluote.'
   pagrindžia:
     - c-007
-- susijęs iš [[objektai/asmenys/Henrikas Valpotas.md#claim-t-60141|Henrikas Valpotas]]: Henrikas Valpotas buvo pirmasis Šventosios Marijos Teutonų namų Jeruzalėje ligoninės magistras, daug metų vadovavo ir buvo palaidotas Akone.
-- susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.
 - susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės karalius).md#claim-t-60306|Henrikas (Jeruzalės karalius)]]: Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Omaras.md#claim-t-60397|Omaras]]: Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė.
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60224|Celestinas III]]: Popiežius Celestinas III Jeruzalėje įkūrė Šv. Marijos Teutonų ordino ligoninę ir paskyrė septynis kraštų valdytojus.
 - susijęs iš [[objektai/asmenys/Celestinas III.md#claim-t-60225|Celestinas III]]: Celestinas III Jeruzalėje įkūrė ir pašventino Šv. Marijos Teutonų ordino vienuolių ligoninę.
@@ -398,9 +392,4 @@ Kai 1099 m. iš turkų buvo išvaduota Jeruzalė, į ją pradėjo traukti minios
     - t-001
 
 ## Ryšiai
-- [[objektai/asmenys/Henrikas Valpotas]] mire Jeruzalė
-- [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)]] buvo_valdovas Jeruzalė
 - [[objektai/asmenys/Henrikas (Jeruzalės karalius)]] buvo_valdovas Jeruzalė
-- [[objektai/asmenys/Henrikas VI]] buvo_valdovas Jeruzalė
-- [[objektai/asmenys/Omaras]] buvo_valdovas Jeruzalė
-- [[objektai/asmenys/Simeonas]] keliavo_i Jeruzalė

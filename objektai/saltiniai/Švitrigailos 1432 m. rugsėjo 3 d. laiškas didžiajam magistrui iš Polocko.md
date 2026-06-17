@@ -27,9 +27,9 @@ Antrasis laiškas yra paties Švitrigailos rašytas didžia­ jam magistrui iš 
   global_id: t-88511
   teiginys: '1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.'
   sudarymo_pagrindimas: 'Pradinė formuluotė nutrūkusi, o citata leidžia suformuoti pilną sakinį.'
-  susije_objektai: 'territory: Alšėnai; territory: Ašmena; territory: Polockas; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Polockas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Alšėnai; mentioned_place: Ašmena; mentioned_place: Polockas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1432 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila buvo valdovas Ašmena“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila buvo valdovas Polockas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila buvo valdovas Alšėnai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė nutrūkusi, o citata leidžia suformuoti pilną sakinį.'
   pagrindžia:
     - c-001

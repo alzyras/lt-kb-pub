@@ -55,10 +55,9 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   global_id: t-87407
   teiginys: 'Karalius Steponas patvirtino Martyno Paleckio, jo žmonos ir miesto sutartį dėl stiklo liejyklos ir stiklo supirkimo.'
   sudarymo_pagrindimas: 'Citata palaiko sutarties patvirtinimo faktą, o įvestyje yra puslapio ir OCR triukšmo.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Martynas Paleckis|Martynas Paleckis]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1619 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Martynas Paleckis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/maršalka|maršalka]]; mentioned_object: [[objektai/zodynas/vaitas|vaitas]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1619 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko sutarties patvirtinimo faktą, o įvestyje yra puslapio ir OCR triukšmo.'
   pagrindžia:
     - c-001
@@ -146,6 +145,3 @@ Karaliaus dvariškis Martynas Paleckis, žmogus išradingas ir apsukrus, atvykę
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Martynas Paleckis buvo_valdovas [[objektai/vietos/Vilnius]]

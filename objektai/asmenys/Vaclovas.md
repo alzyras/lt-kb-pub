@@ -57,10 +57,9 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko enciklopedinį faktą apie Vaclovą; pašalinta abstrakti ramybės formuluotė.'
-  susije_objektai: 'territory: Mazovija; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mazovija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaclovas|Vaclovas]] buvo valdovas Mazovija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1336 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vaclovas buvo valdovas Mazovija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Mazovija'
+  temporaliniai_duomenys: 'įvykio data: 1336 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko enciklopedinį faktą apie Vaclovą; pašalinta abstrakti ramybės formuluotė.'
   pagrindžia:
     - c-003
@@ -129,6 +128,3 @@ Tarpininkaujant imperatoriui (čekų karaliui) Vaclovui, 1409 m. rudenį (X.8) i
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Vaclovas buvo_valdovas [[objektai/vietos/Mazovija]]

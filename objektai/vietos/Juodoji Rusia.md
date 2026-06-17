@@ -38,8 +38,7 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   global_id: t-68027
   teiginys: 'Didžiajam kunigaikščiui tiesiogiai priklausė Vilniaus žemė su artimomis Juodosios Rusios, Vitebsko, Minsko ir Mstislavlio sritimis.'
   sudarymo_pagrindimas: 'Pakeistas neaiškus įvardis į aiškų veikėją.'
-  susije_objektai: 'owner: Minskas; owner: Mstislavlis; owner: Vilnius; mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
-  semantiniai_rysiai: 'Juodoji Rusia priklausė Minskas; Juodoji Rusia priklausė Mstislavlis; Juodoji Rusia priklausė Vilnius'
+  susije_objektai: 'mentioned_place: Minskas; mentioned_place: Mstislavlis; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Jotvingiai.md#claim-t-178774|Jotvingiai]]: XIII a. duomenimis, Jotvingija tęsėsi į šiaurę nuo Bebro aukštupio ir Nemuno prie Gardino.
@@ -76,8 +75,3 @@ Jau Vytauto laikais išryškėjo Lietuvos gotikos epicentras – tai Vilnius, Tr
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Juodoji Rusia priklause [[objektai/vietos/Minskas]]
-- Juodoji Rusia priklause [[objektai/vietos/Mstislavlis]]
-- Juodoji Rusia priklause [[objektai/vietos/Vilnius]]

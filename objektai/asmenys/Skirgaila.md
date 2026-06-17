@@ -177,10 +177,10 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   global_id: t-179658
   teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi kontekstinį jungtuką ir archajišką, neenciklopedinę formuluotę.'
-  susije_objektai: 'object: Lenkija; object: Mstislavlis; object: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; object: [[objektai/grupes/Totoriai|Totoriai]]; object: Vechra; object: Vorskla; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Lenkija; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
-  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] puolė [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; [[objektai/asmenys/Skirgaila|Skirgaila]] puolė [[objektai/grupes/Totoriai|Totoriai]]; [[objektai/asmenys/Skirgaila|Skirgaila]] puolė Lenkija; [[objektai/asmenys/Skirgaila|Skirgaila]] puolė Mstislavlis; [[objektai/asmenys/Skirgaila|Skirgaila]] puolė Vechra; [[objektai/asmenys/Skirgaila|Skirgaila]] puolė Vorskla'
+  susije_objektai: 'object: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Lenkija; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
+  semantiniai_rysiai: '[[objektai/asmenys/Skirgaila|Skirgaila]] puolė Lenkija'
   temporaliniai_duomenys: 'mūšio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila puolė Sviatoslavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Totoriai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Mstislavlis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Vechra“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Vorskla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi kontekstinį jungtuką ir archajišką, neenciklopedinę formuluotę.'
   pagrindžia:
     - c-019
@@ -400,9 +400,6 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
   susije_objektai: 'mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Šventaragis|Šventaragis]]; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-030
-- susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171393|Totoriai]]: Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171429|Totoriai]]: Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.
 - susijęs iš [[objektai/asmenys/Aleksandra (Jogailos sesuo).md#claim-t-87614|Aleksandra (Jogailos sesuo)]]: Jogaila išleido savo seserį Aleksandrą už jaunesniojo Mazovijos kunigaikščio Ziemovito.
 - susijęs iš [[objektai/asmenys/Aleksandras Vyguntas.md#claim-t-35011|Aleksandras Vyguntas]]: Vygunto mirtis 1392 m. birželio 28 d. suardė reformos planus.
 - susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54944|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Polocko kunigaikštis, Algirdo sūnus iš antrosios santuokos su Vitebsko kunigaikštyte Julijona.
@@ -1204,25 +1201,5 @@ Skirgaila šiame šaltinyje rodomas kaip Jogailos brolis, jo ištikimas bendrada
     - t-039
 
 ## Ryšiai
-- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Skirgaila
-- [[objektai/grupes/Totoriai]] kariavo_pries Skirgaila
-- Skirgaila valde_teritorija [[objektai/vietos/Kaunas]]
-- Skirgaila valde_teritorija [[objektai/vietos/Lietuva]]
-- Skirgaila valde_teritorija [[objektai/vietos/Polockas]]
-- Skirgaila valde_teritorija [[objektai/vietos/Vilnius]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Brasta]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Gardinas]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Lenkija]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Lietuva]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Suražas]]
-- Skirgaila buvo_valdovas [[objektai/vietos/Vilnius]]
-- Skirgaila keliavo_i [[objektai/vietos/Krokuva]]
-- Skirgaila keliavo_i [[objektai/vietos/Lenkija]]
-- Skirgaila keliavo_i [[objektai/vietos/Lietuva]]
 - Skirgaila keliavo_i [[objektai/vietos/Vilnius]]
 - Skirgaila puole [[objektai/vietos/Lenkija]]
-- Skirgaila puole [[objektai/vietos/Mstislavlis]]
-- Skirgaila puole [[objektai/asmenys/Sviatoslavas]]
-- Skirgaila puole [[objektai/grupes/Totoriai]]
-- Skirgaila puole [[objektai/vietos/Vechra]]
-- Skirgaila puole [[objektai/vietos/Vorskla]]

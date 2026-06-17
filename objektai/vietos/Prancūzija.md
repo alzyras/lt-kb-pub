@@ -59,7 +59,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   global_id: t-112065
   teiginys: 'Rugpjūtį į Prūsiją atvyko savanorių iš Anglijos ir Prancūzijos kariauti su pagonimis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus ir paremtas citata apie savanorius iš Prancūzijos.'
-  susije_objektai: 'location: Anglija; location: Prūsija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
+  susije_objektai: 'location: Anglija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -91,7 +91,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - t-006
   global_id: t-112068
   teiginys: 'Prancūzija minima kaip absoliutinio valdymo pavyzdys, kuriuo norėjo sekti Krokuvoje vainikuotas valdovas.'
-  susije_objektai: 'territory: Krokuva; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-001
 
@@ -141,7 +141,7 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
 - t-011
   global_id: t-112073
   teiginys: 'Į Prūsijoje rengiamus mūšius atvyko savanorių iš Anglijos ir Prancūzijos.'
-  susije_objektai: 'location: Anglija; location: Prūsija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
+  susije_objektai: 'location: Anglija; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Karolis IX|Karolis IX]]; mentioned_place: Anglija; mentioned_place: Prūsija'
   pagrindžia:
     - c-004
 
@@ -198,18 +198,10 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Krokuva'
   pagrindžia:
     - c-011
-- susijęs iš [[objektai/asmenys/Henrikas IV.md#claim-t-30261|Henrikas IV]]: Būsimasis Anglijos karalius Henrikas IV dalyvavo žygyje kaip Lancasterio grafas Derby ir paliko smulkias jo sąskaitas.
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63840|Kotryna II]]: Karalius siūlė Kotrynai II užleisti jos vaikaičiui Konstantinui sostą, kad ji paliktų seimo padarytas reformas.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-184107|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
 - susijęs iš [[objektai/asmenys/Liudvikas (Prancūzijos karalius).md#claim-t-60050|Liudvikas (Prancūzijos karalius)]]: 1239 m. Prancūzijos karalius Liudvikas perkėlė Viešpaties erškėčių vainiką iš Konstantinopolio į Paryžių.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
-- susijęs iš Krokuva: Krokuvoje vainikuotas valdovas nepaisė pažadų, atidėliojo vedybas su Ona ir svajojo valdyti kaip Prancūzijoje.
-- susijęs iš [[objektai/grupes/Prancūzai.md#claim-t-81593|Prancūzai]]: Prancūzijos savanoriai atvyko į Prūsiją dalyvauti žygyje prieš pagonimis laikytus lietuvius.
-- susijęs iš [[objektai/ivykiai/Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis).md#claim-t-54711|Vilniaus apgultis ir Kreivosios pilies sudeginimas (1390 m. rugsėjis-spalis)]]: 1390 m. žygiui į Vilnių vadovavo Ordino maršalas Engelhardas Rabė, o į parengtį Prūsijoje atvyko savanoriai iš Anglijos ir Prancūzijos.
 - susijęs iš Anglija: Rugpjūtį, baigus karinę parengtį Prūsijoje, į žygį atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš Anglija: Rugpjūtį, pasibaigus pasirengimui mūšiams Prūsijoje, atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Prūsija: Baigus pasirengimą mūšiams Prūsijoje, rugpjūtį atvyko savanorių iš Anglijos ir Prancūzijos.
-- susijęs iš Prūsija: Kai rugpjūtį Prūsijoje baigta pasirengtis mūšiams, atvyko savanorių iš Anglijos ir Prancūzijos.
 - susijęs iš [[objektai/asmenys/A. Suvorovas.md#claim-t-18745|A. Suvorovas]]: A. Suvorovas vadovavo Rusijos kariuomenei, kuriai įvykiai tapo pretekstu imtis veiksmų prieš sukilimą.
 - susijęs iš [[objektai/asmenys/Aaronas.md#claim-t-87604|Aaronas]]: Aaronas buvo pirmasis Tyneco abatas ir vėliau septintasis Krokuvos vyskupas, miręs 1059 m. spalio 9 d.
 - susijęs iš [[objektai/asmenys/Albrechtas (Romos karalius).md#claim-t-63416|Albrechtas (Romos karalius)]]: Dusburgietis pasakoja, kad 1303 m. Bonifacas VIII paskelbė Albrechtą imperatoriumi ir atidavė jam Prancūzijos karalystę.
@@ -650,9 +642,4 @@ Tie, kurie ruošėsi dvasininkais, paprastai vykdavo mokytis į Krokuvos univers
     - t-017
 
 ## Ryšiai
-- [[objektai/asmenys/Augustas]] buvo_valdovas Prancūzija
-- [[objektai/asmenys/Henrikas IV]] buvo_valdovas Prancūzija
-- [[objektai/asmenys/Kotryna II]] buvo_valdovas Prancūzija
 - [[objektai/asmenys/Liudvikas (Prancūzijos karalius)]] buvo_valdovas Prancūzija
-- [[objektai/asmenys/Vaclovas Čekietis]] buvo_valdovas Prancūzija
-- [[objektai/grupes/Prancūzai]] keliavo_i Prancūzija

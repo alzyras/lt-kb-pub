@@ -39,10 +39,9 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
 - t-001
   global_id: t-05188
   teiginys: 'Kęstutis buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1382 m. palaidotas pagoniškais papročiais.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] mirė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mirties data: iki 1385 m.; mirties data: 1259 m.; mirties data: 1377 m.; mirties data: 1382 m.; mirties data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mirė Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip mirties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-015
 
@@ -138,8 +137,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   global_id: t-176517
   teiginys: 'Kęstutis su Vytautu atvyko į priešo stovyklą tartis, bet buvo priverstas vykti į Vilnių, vėliau perkeltas į Krėvą ir pasmaugtas.'
   sudarymo_pagrindimas: 'Citata pagrindžia įvykių seką, o pradinis tekstas buvo sumaišytas su išnašų triukšmu.'
-  susije_objektai: 'location: Krėva; location: Trakai; location: Vilnius; mentioned_person: [[objektai/asmenys/Jonas Hanulaitis|Jonas Hanulaitis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krėva; mentioned_place: Trakai; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] keliavo į Krėva; [[objektai/asmenys/Kęstutis|Kęstutis]] keliavo į Trakai; [[objektai/asmenys/Kęstutis|Kęstutis]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas Hanulaitis|Jonas Hanulaitis]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Krėva; mentioned_place: Trakai; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -239,8 +237,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   global_id: t-176531
   teiginys: 'Kęstutis valdė Žemaitijoje ir dar Gediminui gyvam esant buvo išgarsėjęs mūšiais su Mazovija, Rusia ir Prūsijos ordinu.'
   sudarymo_pagrindimas: 'Citata pagrindžia Kęstučio valdą ir karinę reputaciją.'
-  susije_objektai: 'territory: Lietuva; territory: Prūsija; territory: Rusia; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Lietuva; [[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Prūsija; [[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Rusia; [[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Vitebskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas'
   pagrindžia:
     - c-018
 
@@ -300,8 +297,7 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pagrindžia glaustą faktą apie Kęstučio valdas Rusioje.'
-  susije_objektai: 'territory: Lvovas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lvovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] valdė teritoriją Lvovas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Lvovas'
   pagrindžia:
     - c-026
 
@@ -400,14 +396,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
   susije_objektai: 'mentioned_object: [[objektai/zodynas/budeliai|budeliai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Krėva; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-034
-- susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171393|Totoriai]]: Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171429|Totoriai]]: Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96100|Gediminaičių dinastija]]: Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96105|Gediminaičių dinastija]]: Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96116|Gediminaičių dinastija]]: Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
-- susijęs iš Palenkė: Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.
 - susijęs iš [[objektai/asmenys/Aleksandras Grybinas-Faustas.md#claim-t-40000|Aleksandras Grybinas-Faustas]]: Aleksandras Grybinas-Faustas buvo Tauro apygardos vadas.
 - susijęs iš [[objektai/asmenys/Aleksandras Milaševičius-Ruonis.md#claim-t-40001|Aleksandras Milaševičius-Ruonis]]: Aleksandras Milaševičius-Ruonis buvo Vakarų Lietuvos srities vadas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-05157|Algirdas (Lietuvos valdovas)]]: Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais.
@@ -1705,29 +1693,6 @@ Kęstutis šiame šaltinyje rodomas kaip vakarų pasienio valdovas ir nuolatinis
     - t-035
 
 ## Ryšiai
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mire [[objektai/vietos/Krėva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mire [[objektai/vietos/Lietuva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) mire [[objektai/vietos/Vilnius]]
-- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/grupes/Totoriai]] kariavo_pries Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Lietuva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Lvovas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Prūsija]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Rusia]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Vitebskas]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) gyveno [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Austrija]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Mazovija]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Prūsija]]
-- [[objektai/vietos/Brasta]] priklause Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- [[objektai/grupes/Gediminaičių dinastija]] priklause Kęstutis (vakarų pasienio valdovas, XIV–XV a.)
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Krėva]]
+- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Gardinas]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Polockas]]
 - Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Kęstutis (vakarų pasienio valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Šalčininkai]]
-- [[objektai/vietos/Palenkė]] priklause Kęstutis (vakarų pasienio valdovas, XIV–XV a.)

@@ -61,8 +61,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   global_id: t-121174
   teiginys: 'Prie Vilniaus šūvio pakirstas žuvo Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Pinskas; territory: Prūsija; territory: Rusia; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Pinskas; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Prūsija; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Rusia; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-003
 
@@ -71,8 +71,8 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
   global_id: t-121175
   teiginys: 'Lietuvos kunigaikštis Tautvilas, Kęstučio sūnus ir Vytauto brolis, žuvo prie Vilniaus, pakirstas šūvio.'
   sudarymo_pagrindimas: 'Teiginys aiškus, pilnas ir tiesiogiai atitinka citatos informaciją.'
-  susije_objektai: 'territory: Lietuva; territory: Pinskas; territory: Prūsija; territory: Rusia; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Pinskas; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Prūsija; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Rusia; [[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kalavijas|Kalavijas]]; mentioned_object: [[objektai/posakiai/Ugnimi ir kalaviju|Ugnimi ir kalaviju]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Pinskas; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Tautvilas|Tautvilas]] buvo valdovas Lietuva'
   pagrindžia:
     - c-003
 
@@ -256,9 +256,4 @@ Tautvilas su Erdvilu, ir jų dėdė, Žemaičių kunigaikštis Vykintas, Mindaug
 
 ## Ryšiai
 - Tautvilas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Tautvilas buvo_valdovas [[objektai/vietos/Pinskas]]
-- Tautvilas buvo_valdovas [[objektai/vietos/Prūsija]]
-- Tautvilas buvo_valdovas [[objektai/vietos/Rusia]]
-- Tautvilas buvo_valdovas [[objektai/vietos/Vilnius]]
-- Tautvilas keliavo_i [[objektai/vietos/Lietuva]]
 - Tautvilas keliavo_i [[objektai/vietos/Polockas]]

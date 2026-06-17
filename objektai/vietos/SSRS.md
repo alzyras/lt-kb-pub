@@ -142,10 +142,6 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
   susije_objektai: 'mentioned_group: [[objektai/grupes/Baltijos valstybės|Baltijos valstybės]]; mentioned_place: Anglija; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prancūzija; mentioned_place: Suomija; mentioned_place: Vokietija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Tomas Venclova.md#claim-t-19285|Tomas Venclova]]: Tomas Venclova priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
-- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
-- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74677|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupė priklausė SSRS Helsinkio grupių tinklui, stebėjusiam Helsinkio Baigiamojo akto įgyvendinimą.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-77996|A. Voldemaras]]: A. Voldemaras Vilniaus klausimo sprendimą siejo su Maskva ir Berlynu, todėl ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Adolfas Ramanauskas-Vanagas.md#claim-t-63404|Adolfas Ramanauskas-Vanagas]]: Adolfas Ramanauskas-Vanagas 1956 m. buvo suimtas, žiauriai kankintas ir kitais metais sušaudytas.
@@ -158,6 +154,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - susijęs iš [[objektai/asmenys/Augustinas Voldemaras.md#claim-t-75777|Augustinas Voldemaras]]: Augustinas Voldemaras Vilniaus klausimu pragmatiškai ieškojo SSRS paramos prieš Lenkiją.
 - susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-183529|Eduardas Vilkas]]: Eduardas Vilkas su kitais ekonomistais viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir rėmė rinkos laisvę.
 - susijęs iš [[objektai/asmenys/Eduardas Vilkas.md#claim-t-18880|Eduardas Vilkas]]: Eduardas Vilkas viešai svarstė Lietuvos ekonominio savarankiškumo klausimus ir pasisakė už įmonių savarankiškumą bei rinkos laisvę.
+- susijęs iš [[objektai/asmenys/Eitanas Finkelšteinas.md#claim-t-18883|Eitanas Finkelšteinas]]: Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.
 - susijęs iš [[objektai/asmenys/Georgijus Čičerinas.md#claim-t-18915|Georgijus Čičerinas]]: Georgijaus Čičerino nota prie pakto patvirtino Lietuvos interesus Vilniuje ir Maskvos poziciją dėl Lietuvos teritorinio suverenumo.
 - susijęs iš [[objektai/asmenys/I. Drakša.md#claim-t-39436|I. Drakša]]: Savanoris I. Drakša 1991 m. pagamino savadarbį 16,5 mm kalibro lygiavamzdį šautuvą.
 - susijęs iš [[objektai/asmenys/J. Stalinas.md#claim-t-101639|J. Stalinas]]: Po J. Stalino mirties ir jo kulto pasmerkimo Lietuvoje susilpnėjo rusinimas, o valdžia pradėjo labiau pasitikėti vietiniais lietuviais.
@@ -198,6 +195,7 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64236|Viačeslavas Molotovas]]: Agresyviai spaudžiant Josifui Stalinui ir Viačeslavui Molotovui, 1939 m. spalio 10 d. pasirašyta Vilniaus perdavimo ir SSRS bei Lietuvos savitarpio pagalbos sutartis.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64237|Viačeslavas Molotovas]]: Viačeslavas Molotovas pakvietė Lietuvos ministrą Juozą Urbšį atvykti į Maskvą.
 - susijęs iš [[objektai/asmenys/Viačeslavas Molotovas.md#claim-t-64240|Viačeslavas Molotovas]]: 1939 m. rugsėjo 28 d. Viačeslavas Molotovas ir Joachimas von Ribbentropas pasirašė sutartį, kurios slaptasis protokolas Lietuvą priskyrė SSRS įtakos sferai.
+- susijęs iš [[objektai/asmenys/Viktoras Petkus.md#claim-t-19313|Viktoras Petkus]]: Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.
 - susijęs iš [[objektai/asmenys/Vladimiras Leninas.md#claim-t-64247|Vladimiras Leninas]]: Sovietmečiu tautiniais drabužiais vilkintys choristai dainavo apie Vladimirą Leniną.
 - susijęs iš [[objektai/asmenys/Vladimiras Putinas.md#claim-t-19325|Vladimiras Putinas]]: Prezidento Vladimiro Putino „valdomos demokratijos“ režimas siekia susigrąžinti įtaką vadinamojoje pokomunistinėje erdvėje, pirmiausia sugriuvusios SSRS teritorijoje.
 - susijęs iš [[objektai/asmenys/Vladislavas Ačalovas.md#claim-t-40514|Vladislavas Ačalovas]]: Sausio 13-osios naktį karinėms operacijoms Vilniuje ėmė vadovauti SSRS gynybos viceministras Vladislavas Ačalovas.
@@ -753,5 +751,3 @@ Tačiau rugsėjo 28-ąją Viačeslavui Molotovui ir Joachimui fon Ribentropui (J
 
 ## Ryšiai
 - [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause SSRS
-- [[objektai/grupes/Maskvos Helsinkio grupė]] priklause SSRS
-- [[objektai/asmenys/Tomas Venclova]] susije_su SSRS

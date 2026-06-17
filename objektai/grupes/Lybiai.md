@@ -33,8 +33,8 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
   global_id: t-96812
   teiginys: 'XII-XIII a. sandūroje lybiai gyveno abipus Dauguvos žemupio, šiauriniame Kurše ir Latvijos Baltijos pajūryje.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas, teiginys suformuluotas kaip sakinys apie lybius.'
-  susije_objektai: 'location: Baltija; location: Dauguva; location: Kuršas; location: Latgalija; location: Latvija; location: Lietuva; location: Vidžemė; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vidžemė'
-  semantiniai_rysiai: '[[objektai/grupes/Lybiai|Lybiai]] gyveno Baltija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Dauguva; [[objektai/grupes/Lybiai|Lybiai]] gyveno Kuršas; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latgalija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latvija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Lietuva; [[objektai/grupes/Lybiai|Lybiai]] gyveno Vidžemė'
+  susije_objektai: 'location: Dauguva; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Lietuva; mentioned_place: Vidžemė'
+  semantiniai_rysiai: '[[objektai/grupes/Lybiai|Lybiai]] gyveno Dauguva'
   pagrindžia:
     - c-002
 
@@ -42,8 +42,7 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
 - t-003
   global_id: t-96813
   teiginys: 'Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žiotyse ir dešiniajam jos žemupio krante gyveno jau net ir nearijų tauta — lybiai.'
-  susije_objektai: 'location: Baltija; location: Dauguva; location: Kuršas; location: Latgalija; location: Latvija; location: Vidžemė; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
-  semantiniai_rysiai: '[[objektai/grupes/Lybiai|Lybiai]] gyveno Baltija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Dauguva; [[objektai/grupes/Lybiai|Lybiai]] gyveno Kuršas; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latgalija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Latvija; [[objektai/grupes/Lybiai|Lybiai]] gyveno Vidžemė'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Latviai|Latviai]]; mentioned_place: Baltija; mentioned_place: Dauguva; mentioned_place: Kuršas; mentioned_place: Latgalija; mentioned_place: Latvija; mentioned_place: Vidžemė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-05162|Daumantas (kunigaikštis, XV a.)]]: Daumantas buvo Mindaugo svogeris ir Treniotos sąjungininkas prieš Mindaugą.
@@ -110,10 +109,4 @@ Dabartinio Kuršių iškyšulio šiaurinėje jūros pakrantėje, Dauguvos žioty
     - t-001
 
 ## Ryšiai
-- Lybiai gyveno [[objektai/vietos/Baltija]]
 - Lybiai gyveno [[objektai/vietos/Dauguva]]
-- Lybiai gyveno [[objektai/vietos/Kuršas]]
-- Lybiai gyveno [[objektai/vietos/Latgalija]]
-- Lybiai gyveno [[objektai/vietos/Latvija]]
-- Lybiai gyveno [[objektai/vietos/Lietuva]]
-- Lybiai gyveno [[objektai/vietos/Vidžemė]]

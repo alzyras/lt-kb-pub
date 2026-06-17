@@ -275,3 +275,6 @@ Martynas V jiems grąžino popie­ žiaus Jono XXIII atimtas privilegijas valdyt
   statusas: verified
   pagrindžia:
     - t-010
+
+## Ryšiai
+- Zigmantas Liuksemburgietis buvo_valdovas [[objektai/vietos/Vengrija]]

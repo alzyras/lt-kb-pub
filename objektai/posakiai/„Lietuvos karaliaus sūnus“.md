@@ -28,9 +28,9 @@ Kronikininkas Dusburgas, kuriam anksčiau Vytenis tebuvo « Lietuvos karaliaus s
   global_id: t-186401
   teiginys: 'Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.'
   teiginio_tipas: 'faktas'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1296 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytenis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytenis buvo valdovas Livonija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Vytenis|Vytenis]]; mentioned_place: Lietuva; mentioned_place: Livonija'
+  temporaliniai_duomenys: 'įvykio data: 1296 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

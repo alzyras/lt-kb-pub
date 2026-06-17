@@ -34,7 +34,7 @@ Kojelavičius svarstė, kad alanai, arba herulai, paliko tėvynę ir pasuko į k
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia vietos pasiekimą ir autoriaus tapatinimą.'
-  susije_objektai: 'location: Nevėžis; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Nevėžis'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Nevėžis'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/grupes/Herulai.md#claim-t-184477|Herulai]]: Kojelavičius spėjo, kad alanai arba herulai, ilgėdamiesi taikos, galėjo pirmieji pasitraukti iš tėvynės į karo neniokotas žemes.

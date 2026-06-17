@@ -28,7 +28,7 @@ Daugiau kaip 300 000 JAV (daugiausia Čikagoje, Niujorke ir Pensilvanijoje) gyve
   global_id: t-21693
   teiginys: 'Pensilvanija buvo viena iš JAV vietų, kuriose gyveno daugiau kaip 300 000 lietuvių imigrantų.'
   sudarymo_pagrindimas: 'Pradinė formuluotė klaidingai sieja visą skaičių su Pensilvanija.'
-  susije_objektai: 'location: Lietuva; location: Niujorkas; location: Peterburgas; location: Rusija; location: Viena; location: Vokietija; location: Voronežas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vokietija; mentioned_place: Voronežas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Niujorkas; mentioned_place: Peterburgas; mentioned_place: Rusija; mentioned_place: Viena; mentioned_place: Vokietija; mentioned_place: Voronežas'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1917 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinė formuluotė klaidingai sieja visą skaičių su Pensilvanija.'

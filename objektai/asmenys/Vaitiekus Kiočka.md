@@ -22,8 +22,7 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko Vaitiekaus Kiočkos vaidmenį kaip pasiuntinio; pradinė formuluotė turi OCR triukšmo.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Severskas; territory: Vengrija; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Lietuva; [[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Maskva; [[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Severskas; [[objektai/asmenys/Vaitiekus Kiočka|Vaitiekus Kiočka]] buvo valdovas Vengrija'
+  susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Severskas; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 
@@ -56,9 +55,3 @@ Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaik
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Vaitiekus Kiočka buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vaitiekus Kiočka buvo_valdovas [[objektai/vietos/Maskva]]
-- Vaitiekus Kiočka buvo_valdovas [[objektai/vietos/Severskas]]
-- Vaitiekus Kiočka buvo_valdovas [[objektai/vietos/Vengrija]]

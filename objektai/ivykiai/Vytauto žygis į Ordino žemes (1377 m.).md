@@ -45,10 +45,9 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   global_id: t-66998
   teiginys: '1377 m. žygis buvo pirmas žinomas Vytauto savarankiškas pasirodymas karo lauke.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'event: [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)|Vytauto žygis į Ordino žemes (1377 m.)]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
-  semantiniai_rysiai: '[[objektai/asmenys/Kęstutis|Kęstutis]] dalyvavo mūšyje [[objektai/ivykiai/Vytauto žygis į Ordino žemes (1377 m.)|Vytauto žygis į Ordino žemes (1377 m.)]]'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]'
   temporaliniai_duomenys: 'mūšio data: 1377 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kęstutis (vakarų pasienio valdovas, XIV–XV a.) dalyvavo mūšyje Vytauto žygis į Ordino žemes (1377 m.)“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-003
@@ -123,6 +122,3 @@ Vytauto veiksmai sutrikdė ordino kariuomenės aprūpinimą.
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] dalyvavo_musyje Vytauto žygis į Ordino žemes (1377 m.)

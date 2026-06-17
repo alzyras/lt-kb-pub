@@ -33,10 +33,9 @@ periodo_grupes:
   global_id: t-40177
   teiginys: '1234 m. rusų kunigaikštis Jaroslavas ir Naugardas sudarė prieš Lietuvą nukreiptą taiką su kalavijuočiais.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Estija; territory: Kuršas; territory: Lietuva; territory: Naugardas; territory: Vokietija; mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Estija; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)|Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo valdovas Estija; [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)|Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo valdovas Kuršas; [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)|Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo valdovas Lietuva; [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)|Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo valdovas Naugardas; [[objektai/asmenys/Jaroslavas (rusų kunigaikštis, 1234 m.)|Jaroslavas (rusų kunigaikštis, 1234 m.)]] buvo valdovas Vokietija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1234 m.; valdymo laikotarpis: 1236 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jaroslavas (rusų kunigaikštis, 1234 m.) buvo valdovas Estija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas (rusų kunigaikštis, 1234 m.) buvo valdovas Kuršas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas (rusų kunigaikštis, 1234 m.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas (rusų kunigaikštis, 1234 m.) buvo valdovas Naugardas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas (rusų kunigaikštis, 1234 m.) buvo valdovas Vokietija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kalavijuočių ordinas|Kalavijuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_person: [[objektai/asmenys/Jaroslavas|Jaroslavas]]; mentioned_place: Estija; mentioned_place: Kuršas; mentioned_place: Lietuva; mentioned_place: Naugardas; mentioned_place: Vokietija'
+  temporaliniai_duomenys: 'įvykio data: 1234 m.; įvykio data: 1236 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001
@@ -64,10 +63,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jaroslavas (rusų kunigaikštis, 1234 m.) buvo_valdovas [[objektai/vietos/Estija]]
-- Jaroslavas (rusų kunigaikštis, 1234 m.) buvo_valdovas [[objektai/vietos/Kuršas]]
-- Jaroslavas (rusų kunigaikštis, 1234 m.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Jaroslavas (rusų kunigaikštis, 1234 m.) buvo_valdovas [[objektai/vietos/Naugardas]]
-- Jaroslavas (rusų kunigaikštis, 1234 m.) buvo_valdovas [[objektai/vietos/Vokietija]]

@@ -27,15 +27,13 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   global_id: t-15332
   teiginys: 'Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.'
   sudarymo_pagrindimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus faktas.'
-  susije_objektai: 'owner: Lietuva; owner: Lietuvos Užnemunė; owner: Suvalkai; owner: Užnemunė; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Užnemunė'
-  semantiniai_rysiai: 'Suvalkų gubernija priklausė Lietuva; Suvalkų gubernija priklausė Lietuvos Užnemunė; Suvalkų gubernija priklausė Suvalkai; Suvalkų gubernija priklausė Užnemunė'
+  susije_objektai: 'owner: Suvalkų gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Užnemunė'
+  semantiniai_rysiai: 'Lietuvos Užnemunė priklausė Suvalkų gubernija; Užnemunė priklausė Suvalkų gubernija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Suvalkų gubernija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Suvalkų gubernija priklausė Suvalkai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuva priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Užnemunė priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR ir antraštės triukšmas, suformuluotas aiškus faktas.'
   pagrindžia:
     - c-001
-- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
-- susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 ## Reikšmingi paminėjimai
@@ -57,9 +55,5 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     - t-001
 
 ## Ryšiai
-- [[objektai/vietos/Augustavo gubernija]] priklause Suvalkų gubernija
-- Suvalkų gubernija priklause [[objektai/vietos/Lietuva]]
-- Suvalkų gubernija priklause [[objektai/vietos/Lietuvos Užnemunė]]
-- Suvalkų gubernija priklause [[objektai/vietos/Suvalkai]]
-- Suvalkų gubernija priklause [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Lietuvos Užnemunė]] priklause Suvalkų gubernija
 - [[objektai/vietos/Užnemunė]] priklause Suvalkų gubernija

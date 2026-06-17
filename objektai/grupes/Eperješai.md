@@ -22,8 +22,7 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
   global_id: t-86790
   teiginys: 'Fridbergo pilis anksčiau priklausė Eperješams, o vėliau perėjo Gelgaudams.'
   sudarymo_pagrindimas: 'Teiginys sutrumpintas iki fakto apie Eperješus.'
-  susije_objektai: 'owner: Bajerburgas; owner: Bokštai; owner: [[objektai/grupes/Gelgaudai|Gelgaudai]]; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Nemunas; owner: Veliuona; mentioned_group: [[objektai/grupes/Gelgaudai|Gelgaudai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Veliuona'
-  semantiniai_rysiai: '[[objektai/grupes/Eperješai|Eperješai]] priklausė [[objektai/grupes/Gelgaudai|Gelgaudai]]; [[objektai/grupes/Eperješai|Eperješai]] priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; [[objektai/grupes/Eperješai|Eperješai]] priklausė Bajerburgas; [[objektai/grupes/Eperješai|Eperješai]] priklausė Bokštai; [[objektai/grupes/Eperješai|Eperješai]] priklausė Nemunas; [[objektai/grupes/Eperješai|Eperješai]] priklausė Veliuona'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Gelgaudai|Gelgaudai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Bajerburgas; mentioned_place: Bokštai; mentioned_place: Nemunas; mentioned_place: Veliuona'
   pagrindžia:
     - c-001
 
@@ -48,11 +47,3 @@ Se­ niau ji priklausė Eperješams, vėliau - Gelgaudams; kadangi išvengė gai
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Eperješai priklause [[objektai/vietos/Bajerburgas]]
-- Eperješai priklause [[objektai/vietos/Bokštai]]
-- Eperješai priklause [[objektai/grupes/Gelgaudai]]
-- Eperješai priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Eperješai priklause [[objektai/vietos/Nemunas]]
-- Eperješai priklause [[objektai/vietos/Veliuona]]

@@ -54,10 +54,9 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   global_id: t-85930
   teiginys: '1864 m. sausio 1 d. Michałas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą mirties bei palaidojimo informaciją.'
-  susije_objektai: 'location: Jašiūnai; mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]] mirė Jašiūnai'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Mykolas Balinskis|Mykolas Balinskis]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'mirties data: 1863 m.; mirties data: 1864 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Balinskis mirė Jašiūnai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir atitinka citatoje pateiktą mirties bei palaidojimo informaciją.'
   pagrindžia:
     - c-002
@@ -71,6 +70,7 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   pagrindžia:
     - c-004
 - susijęs iš [[objektai/ivykiai/M. Balinskio mirtis ir palaidojimas.md#claim-t-86956|M. Balinskio mirtis ir palaidojimas]]: 1864 m. sausio 1 d. Mykolas Balinskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
+- susijęs iš Vilnius: 1864 m. sausio 1 d. Michałas Balińskis mirė Vilniuje ir buvo palaidotas Jašiūnų dvare.
 - susijęs iš [[objektai/asmenys/Michailas Muravjovas-Korikas.md#claim-t-87779|Michailas Muravjovas-Korikas]]: Michailas Muravjovas-Korikas po 1863 m. sukilimo buvo naujai paskirtas Vilniaus generalgubernatorius ir vykdė represijas krašte.
 - susijęs iš [[objektai/asmenys/Vladislovas (Mykolo Balinskio sūnus).md#claim-t-87885|Vladislovas (Mykolo Balinskio sūnus)]]: Vladislovo savižudybė buvo viena iš nelaimių šeimoje, pagreitinusių M. Balinskio sugrįžimą į Lietuvą 1848 m.
 - susijęs iš [[objektai/grupes/J. Baranovskio brigada.md#claim-t-40892|J. Baranovskio brigada]]: Lapkričio 17 d. gen. J. Baranovskio brigada atakavo 2-ojo pėstininkų pulko pozicijas ir privertė lietuvius pasitraukti iš Giedraičių.

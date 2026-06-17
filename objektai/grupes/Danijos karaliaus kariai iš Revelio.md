@@ -38,10 +38,9 @@ amziai:
 - t-002
   global_id: t-40872
   teiginys: 'Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.'
-  susije_objektai: 'territory: Europa; territory: Lietuva; territory: Livonija; territory: Prūsija; territory: Revelis; territory: Vokietija; mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]] susiję su Europa; [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]] susiję su Lietuva; [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]] susiję su Livonija; [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]] susiję su Prūsija; [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]] susiję su Revelis; [[objektai/grupes/Danijos karaliaus kariai iš Revelio|Danijos karaliaus kariai iš Revelio]] susiję su Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Estai|Estai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_object: [[objektai/zodynas/kryžininkai|kryžininkai]]; mentioned_place: Europa; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Prūsija; mentioned_place: Revelis; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'įvykio data: 1260 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Danijos karaliaus kariai iš Revelio susiję su Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Danijos karaliaus kariai iš Revelio susiję su Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Danijos karaliaus kariai iš Revelio susiję su Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Danijos karaliaus kariai iš Revelio susiję su Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Danijos karaliaus kariai iš Revelio susiję su Revelis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Danijos karaliaus kariai iš Revelio susiję su Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/posakiai/Palikime savo žirgus toli užpakalyje.md#claim-t-09674|Palikime savo žirgus toli užpakalyje]]: Matas pasiūlė kryžiuočiams palikti žirgus užnugaryje ir pulti priešus pėsčiomis.
@@ -94,11 +93,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Danijos karaliaus kariai iš Revelio susije_su [[objektai/vietos/Europa]]
-- Danijos karaliaus kariai iš Revelio susije_su [[objektai/vietos/Lietuva]]
-- Danijos karaliaus kariai iš Revelio susije_su [[objektai/vietos/Livonija]]
-- Danijos karaliaus kariai iš Revelio susije_su [[objektai/vietos/Prūsija]]
-- Danijos karaliaus kariai iš Revelio susije_su [[objektai/vietos/Revelis]]
-- Danijos karaliaus kariai iš Revelio susije_su [[objektai/vietos/Vokietija]]

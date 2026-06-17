@@ -35,10 +35,10 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
   global_id: t-79042
   teiginys: '1604 m. Karoliui IX tapus Švedijos karaliumi, Jonas Karolis Katkevičius Livonijoje toliau kovojo su švedais.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo labiau apie karo eigą, todėl perrašytas kaip faktas apie užrašo objektą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; counterparty: [[objektai/grupes/Kazokai|Kazokai]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Estija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Salaspilis; mentioned_place: Valakija; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; [[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Kazokai|Kazokai]]; [[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
+  susije_objektai: 'counterparty: [[objektai/grupes/Švedai|Švedai]]; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Kazokai|Kazokai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Estija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Ryga; mentioned_place: Salaspilis; mentioned_place: Valakija; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Karolis Katkevičius|Jonas Karolis Katkevičius]] kariavo prieš [[objektai/grupes/Švedai|Švedai]]'
   temporaliniai_duomenys: 'mūšio data: 1590 m.; mūšio data: 1595 m.; mūšio data: 1599 m.; mūšio data: 1600 m.; mūšio data: 1601-1602; mūšio data: 1602 m.; mūšio data: 1603 m.; mūšio data: 1604 m.; mūšio data: 1605 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Chodkevičiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Kazokai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Lenkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Švedai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Karolis Katkevičius kariavo prieš Švedai“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo labiau apie karo eigą, todėl perrašytas kaip faktas apie užrašo objektą.'
   pagrindžia:
     - c-001
@@ -182,8 +182,5 @@ Jonas Karolis Katkevičius: jos nebeišgelbėjo nė karaliaus atsiųstas Katkevi
     - t-003
 
 ## Ryšiai
-- Jonas Karolis Katkevičius kariavo_pries [[objektai/grupes/Chodkevičiai]]
-- Jonas Karolis Katkevičius kariavo_pries [[objektai/grupes/Kazokai]]
-- Jonas Karolis Katkevičius kariavo_pries [[objektai/grupes/Lenkai]]
 - Jonas Karolis Katkevičius kariavo_pries [[objektai/grupes/Švedai]]
 - Jonas Karolis Katkevičius dalyvavo_musyje [[objektai/ivykiai/Chotino mūšis (1621 m. rugsėjo 22 d. – spalio 10 d.)]]

@@ -45,10 +45,9 @@ periodo_grupes:
   global_id: t-173148
   teiginys: 'Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.'
   sudarymo_pagrindimas: 'Pašalintas puslapio ir OCR triukšmas, palikti citatos pagrįsti faktai.'
-  susije_objektai: 'location: Trakai; location: Vengrija; location: Vilnius; location: Čekija; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Trakai; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Vengrija; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Vilnius; [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)|Elžbieta (Žygimanto Augusto žmona)]] mirė Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   temporaliniai_duomenys: 'mirties data: 1543 m.; mirties data: 1545 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Trakai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Vengrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Elžbieta (Žygimanto Augusto žmona) mirė Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio ir OCR triukšmas, palikti citatos pagrįsti faktai.'
   pagrindžia:
     - c-001
@@ -131,9 +130,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Trakai]]
-- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Vengrija]]
-- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Vilnius]]
-- Elžbieta (Žygimanto Augusto žmona) mire [[objektai/vietos/Čekija]]

@@ -31,10 +31,9 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
 - t-001
   global_id: t-93196
   teiginys: 'Ostrogo kunigaikštis Feodoras 1396 m. iš Vytauto priėmė privilegiją, tvirtinusią ir išplėtusią jo žemes.'
-  susije_objektai: 'territory: Luckas; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]] buvo valdovas Luckas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1395 m.; valdymo laikotarpis: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Feodoras (Ostrogo kunigaikštis) buvo valdovas Luckas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1395 m.; įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -43,10 +42,9 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   global_id: t-93197
   teiginys: '1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.'
   sudarymo_pagrindimas: 'Citata pagrindžia aiškesnį faktą apie Feodorą, o pradinis tekstas yra fragmentiškas.'
-  susije_objektai: 'territory: Luckas; mentioned_place: Luckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)|Feodoras (Ostrogo kunigaikštis)]] buvo valdovas Luckas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Feodoras (Ostrogo kunigaikštis) buvo valdovas Luckas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Luckas'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia aiškesnį faktą apie Feodorą, o pradinis tekstas yra fragmentiškas.'
   pagrindžia:
     - c-002
@@ -88,6 +86,3 @@ Bet šis bandymas atplėšti Vo­ lynijos dalį nuo Vytautui priklausančios Luc
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Feodoras (Ostrogo kunigaikštis) buvo_valdovas [[objektai/vietos/Luckas]]

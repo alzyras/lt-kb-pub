@@ -66,10 +66,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   global_id: t-75713
   teiginys: '1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, lankė maldos namus ir aiškino naujos vadovybės planus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] keliavo į Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1926-1940; kelionės data: 1927 m.; kelionės data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-003
@@ -119,10 +118,9 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   global_id: t-75718
   teiginys: '1927 m. vasarą ir rudenį Antanas Smetona keliavo po miestelius, aiškindamas naujos vadovybės planus įvesti tvarką šalyje.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] keliavo į Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Stačiatikiai|Stačiatikiai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/A. Smetona|A. Smetona]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'kelionės data: 1926-1940; kelionės data: 1927 m.; kelionės data: 1940 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo į Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas, aiškus ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
@@ -600,8 +598,8 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pirminis teiginys per ilgas ir prasideda neaiškiu kontekstu.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Krikščionys|Krikščionys]]; counterparty: [[objektai/grupes/Lenkai|Lenkai]]; counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] kariavo prieš [[objektai/grupes/Krikščionys|Krikščionys]]; [[objektai/asmenys/Antanas Smetona|Antanas Smetona]] kariavo prieš [[objektai/grupes/Lenkai|Lenkai]]; [[objektai/asmenys/Antanas Smetona|Antanas Smetona]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'counterparty: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Antanas Smetona|Antanas Smetona]] kariavo prieš [[objektai/grupes/Lietuviai|Lietuviai]]'
   pagrindžia:
     - c-031
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77980|A. Smetona]]: 1927 m. vasarą ir rudenį A. Smetona keliavo po Lietuvos miestelius, lydimas karininkų, ministrų, žurnalistų ir kino kronikos kamerų.
@@ -1213,7 +1211,4 @@ Kartu su būsimų tautininkų, susispietusių apie „Vilties“ žurnalą, reda
     - t-057
 
 ## Ryšiai
-- Antanas Smetona (Lietuvos prezidentas, XX a.) kariavo_pries [[objektai/grupes/Krikščionys]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) kariavo_pries [[objektai/grupes/Lenkai]]
 - Antanas Smetona (Lietuvos prezidentas, XX a.) kariavo_pries [[objektai/grupes/Lietuviai]]
-- Antanas Smetona (Lietuvos prezidentas, XX a.) keliavo_i [[objektai/vietos/Lietuva]]

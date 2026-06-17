@@ -22,8 +22,7 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   global_id: t-34766
   teiginys: 'Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.'
   sudarymo_pagrindimas: 'Pradinis teiginys buvo neaiškus fragmentas, bet citata palaiko konkretesnį faktą.'
-  susije_objektai: 'territory: Europa; territory: Konstancija; mentioned_place: Europa; mentioned_place: Konstancija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Konstancija'
+  susije_objektai: 'mentioned_place: Europa; mentioned_place: Konstancija'
   pagrindžia:
     - c-001
 
@@ -35,8 +34,7 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Vilhelmo veiksmą.'
-  susije_objektai: 'territory: Europa; territory: Konstancija; mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_place: Europa; mentioned_place: Konstancija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Europa; [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)|Vilhelmas (Klivijos kunigaikštis)]] buvo valdovas Konstancija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Husitai|Husitai]]; mentioned_place: Europa; mentioned_place: Konstancija'
   pagrindžia:
     - c-002
 
@@ -75,7 +73,3 @@ Tai buvo viešai užak­ centuota Klivijos kunigaikščio Vilhelmo ir kitų visu
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Vilhelmas (Klivijos kunigaikštis) buvo_valdovas [[objektai/vietos/Europa]]
-- Vilhelmas (Klivijos kunigaikštis) buvo_valdovas [[objektai/vietos/Konstancija]]

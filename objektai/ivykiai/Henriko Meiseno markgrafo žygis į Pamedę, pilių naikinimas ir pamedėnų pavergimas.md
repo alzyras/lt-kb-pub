@@ -49,7 +49,7 @@ Nenurodyta
   global_id: t-66557
   teiginys: 'Henrikas Meiseno markgrafas 1236 m. atvyko į Prūsiją ir niokojo Pamedę.'
   sudarymo_pagrindimas: 'Bibliografinis triukšmas pašalintas, o pastabos faktas sujungtas su objekto pavadinimu.'
-  susije_objektai: 'location: Pamedė; location: Prūsija; location: Rizenburgas; location: Rudinas; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
+  susije_objektai: 'location: Prūsija; mentioned_group: [[objektai/grupes/Pamedėnai|Pamedėnai]]; mentioned_object: [[objektai/zodynas/naujakrikščiai|naujakrikščiai]]; mentioned_place: Pamedė; mentioned_place: Prūsija; mentioned_place: Rizenburgas; mentioned_place: Rudinas'
   temporaliniai_duomenys: 'kelionės data: 1236 m.; kelionės data: 1300 m.; kelionės data: 1437 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Bibliografinis triukšmas pašalintas, o pastabos faktas sujungtas su objekto pavadinimu.'

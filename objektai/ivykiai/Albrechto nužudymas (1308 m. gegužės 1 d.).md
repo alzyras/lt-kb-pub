@@ -46,9 +46,9 @@ Nenurodyta
   teiginys: '1308 m. gegužės 1 d. kunigaikštis Jonas Anlantas nužudė Romos karalių Albrechtą, kuris iš jo buvo atėmęs Austrijos kunigaikštystę.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Reikia išsklaidyti dviprasmybę, kas iš ko buvo atėmęs Austrijos kunigaikštystę.'
-  susije_objektai: 'territory: Austrija; mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Austrija'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1308 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jokūbas (vėliau Urbonas IV) buvo valdovas Austrija“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jokūbas (vėliau Urbonas IV)|Jokūbas (vėliau Urbonas IV)]]; mentioned_place: Austrija'
+  temporaliniai_duomenys: 'įvykio data: 1308 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia išsklaidyti dviprasmybę, kas iš ko buvo atėmęs Austrijos kunigaikštystę.'
   pagrindžia:
     - c-001

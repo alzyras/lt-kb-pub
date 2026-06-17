@@ -254,7 +254,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   global_id: t-177670
   teiginys: 'Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.'
   sudarymo_pagrindimas: 'Pašalintas perteklinis kontekstas, paliktas faktas apie Lucką.'
-  susije_objektai: 'territory: Brasta; territory: Gardinas; territory: Lenkija; territory: Lietuva; territory: Suražas; territory: Vilnius; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suražas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Suražas; mentioned_place: Vilnius'
   pagrindžia:
     - c-013
 
@@ -397,7 +397,7 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys ir nurodo Lucko valdovo žūtį.'
-  susije_objektai: 'territory: Druckas; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Druckas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Treniota|Treniota]]; mentioned_place: Druckas'
   pagrindžia:
     - c-028
 
@@ -472,15 +472,6 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
   pagrindžia:
     - c-034
-- susijęs iš [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis).md#claim-t-93196|Feodoras (Ostrogo kunigaikštis)]]: Ostrogo kunigaikštis Feodoras 1396 m. iš Vytauto priėmė privilegiją, tvirtinusią ir išplėtusią jo žemes.
-- susijęs iš [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis).md#claim-t-93197|Feodoras (Ostrogo kunigaikštis)]]: 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.
-- susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184774|Liubartas]]: Liubartas, Pisimantas, Drucko kunigaikštis Michailas ir Lucko valdovas Andrejus žuvo tame pačiame mūšyje.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
-- susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, patvirtinusią ir išplėtusią jo žemes.
-- susijęs iš Ostrogo kunigaikščio Feodoro privilegija (1396 m.): 1396 m. Ostrogo kunigaikštis Feodoras iš Vytauto priėmė privilegiją, kuri tvirtino ir plėtė jo žemes.
-- susijęs iš [[objektai/zodynas/seimas.md#claim-t-187527|seimas]]: Bychovco kronikos pasakojime karalius Aleksandras Brastos seime nepagrįstai pyko ant didikų dėl Droždžai atiduotos Lydos.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
 - susijęs iš [[objektai/asmenys/Boleslovas Pamaldusis.md#claim-t-87638|Boleslovas Pamaldusis]]: Boleslovas Pamaldusis XIII a. paskelbė atmintiną privilegiją žydų tautos gyventojams Didžiojoje Lenkijoje.
 - susijęs iš [[objektai/asmenys/Boleslovas Švitrigaila.md#claim-t-185935|Boleslovas Švitrigaila]]: Kazimieras potvarkiu sugrąžino savo dėdei Boleslovui Švitrigailai Lucką.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
@@ -1394,11 +1385,3 @@ Luckas šiame šaltinyje minimas kaip Vytauto politinių susitikimų, valdovų s
   statusas: verified
   pagrindžia:
     - t-044
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Luckas
-- [[objektai/asmenys/Feodoras (Ostrogo kunigaikštis)]] buvo_valdovas Luckas
-- [[objektai/asmenys/Levas (Haličo kunigaikštis)]] buvo_valdovas Luckas
-- [[objektai/asmenys/Liubartas]] buvo_valdovas Luckas
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo_valdovas Luckas
-- [[objektai/asmenys/Gediminas]] keliavo_i Luckas

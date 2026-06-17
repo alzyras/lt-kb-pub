@@ -50,9 +50,9 @@ Nenurodyta
   global_id: t-77924
   teiginys: 'Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatos faktą.'
-  susije_objektai: 'object: Gardinas; object: [[objektai/daiktai/Ginklai|Ginklai]]; object: Lietuva; object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'pastatymo data: 1800 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Antanas Tyzenhauzas (ūkio reformų veikėjas) pastatė Ginklai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas Tyzenhauzas (ūkio reformų veikėjas) pastatė Vežimai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas Tyzenhauzas (ūkio reformų veikėjas) pastatė Gardinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Antanas Tyzenhauzas (ūkio reformų veikėjas) pastatė Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Vežimai|Vežimai]]; mentioned_person: [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas]]; mentioned_place: Gardinas; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įkūrimo data: 1800 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai perteikia citatos faktą.'
   pagrindžia:
     - c-001

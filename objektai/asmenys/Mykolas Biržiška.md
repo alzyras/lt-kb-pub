@@ -29,9 +29,9 @@ Biržiška iš jos pasitraukė.
   global_id: t-25694
   teiginys: 'Mykolas Biržiška 1917 m. priklausė Vilniaus konferencijos organizaciniam komitetui.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūksta OCR fragmente, bet citata pakankamai palaiko Biržiškos narystę komitete.'
-  susije_objektai: 'owner: Austrija; owner: Lenkija; owner: Lietuva; owner: Vilnius; owner: Vokietija; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Austrija; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1917 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Lietuviai priklausė Vokiečiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai priklausė Austrija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai priklausė Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai priklausė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuviai priklausė Vokietija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūksta OCR fragmente, bet citata pakankamai palaiko Biržiškos narystę komitete.'
   pagrindžia:
     - c-001

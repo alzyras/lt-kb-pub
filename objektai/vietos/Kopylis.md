@@ -27,7 +27,6 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
-- susijęs iš [[objektai/asmenys/Levas (Haličo kunigaikštis).md#claim-t-40306|Levas (Haličo kunigaikštis)]]: Haličo kunigaikštis Levas su totoriais paėmė Naugarduko papilį, bet pati Naugarduko pilis nebuvo paimta.
 - susijęs iš Petrikovičiai: Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai apie Kopylį ir Petrikovičius nukovė daug skitų.
 ## Reikšmingi paminėjimai
 
@@ -52,6 +51,3 @@ Slucko kunigaikštienės Anastazijos išstatyti bajorų ir kaimiečių būriai a
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Levas (Haličo kunigaikštis)]] buvo_valdovas Kopylis

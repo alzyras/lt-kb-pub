@@ -23,11 +23,9 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   global_id: t-60387
   teiginys: 'Dusburgiečio pateiktame Pradžios knygos epizode karalius ir kunigas Melchizedekas Abraomui padovanojo duonos ir vyno.'
   sudarymo_pagrindimas: 'Citata remiasi bibline scena, todėl tinka šaltinio pasakojimo atribucija.'
-  susije_objektai: 'territory: Prūsija; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Melchizedekas|Melchizedekas]] buvo valdovas Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Abraomas|Abraomas]]; mentioned_place: Prūsija'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
 - susijęs iš [[objektai/asmenys/Abraomas.md#claim-t-60226|Abraomas]]: Abraomas su 318 tarnų kovojo dėl savo dievobaimingo brolio laisvės ir nekalto kalinio sugrąžinimo.
 ## Reikšmingi paminėjimai
 
@@ -50,7 +48,3 @@ Dusburgietis teigia, kad štai ir senajame testamente (Pr 14) skaitome, kad didy
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Abraomas]] kariavo_pries Melchizedekas (kunigas)
-- Melchizedekas (kunigas) buvo_valdovas [[objektai/vietos/Prūsija]]

@@ -328,9 +328,9 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179858
   teiginys: '1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.'
   sudarymo_pagrindimas: 'Teiginys aiškiai sieja Gardiną su 1503 m. privilegijos išleidimu.'
-  susije_objektai: 'territory: Krymas; territory: Lenkija; territory: Lietuva; territory: Prūsija; territory: Vakarų Prūsija; territory: Varmė; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vakarų Prūsija; mentioned_place: Varmė; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_place: Krymas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Vakarų Prūsija; mentioned_place: Varmė; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo laikotarpis: po 1466 m.; valdymo laikotarpis: 1466 m.; valdymo laikotarpis: 1503 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Krymas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Vakarų Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Varmė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai sieja Gardiną su 1503 m. privilegijos išleidimu.'
   pagrindžia:
     - c-016
@@ -340,8 +340,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   global_id: t-179859
   teiginys: 'Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.'
   sudarymo_pagrindimas: 'Pradinis teiginys per platus, o Gardiną geriau tiesiogiai susieti su objektu.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: Kaunas; owner: Lietuva; owner: [[objektai/asmenys/Mindaugas|Mindaugas]]; owner: Polockas; owner: Pskovas; owner: Voluinė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
-  semantiniai_rysiai: 'Gardinas priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Gardinas priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Gardinas priklausė [[objektai/asmenys/Mindaugas|Mindaugas]]; Gardinas priklausė Kaunas; Gardinas priklausė Lietuva; Gardinas priklausė Polockas; Gardinas priklausė Pskovas; Gardinas priklausė Voluinė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Polockas; mentioned_place: Pskovas; mentioned_place: Voluinė'
   pagrindžia:
     - c-024
 
@@ -756,25 +755,7 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
   temporalinis_llm_pakomentavimas: 'Teiginys pašalina citatos OCR triukšmą ir yra pilnas faktinis sakinys apie Gardino seimą.'
   pagrindžia:
     - c-054
-- susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10666|Algirdas (Lietuvos valdovas)]]: Algirdas valdė Krėvą ir Vitebską.
-- susijęs iš [[objektai/asmenys/Daumantas.md#claim-t-82252|Daumantas (kunigaikštis, XV a.)]]: Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.
-- susijęs iš [[objektai/asmenys/Boleslovas Maldingasis.md#claim-t-35039|Boleslovas Maldingasis]]: Boleslovo Maldingojo 1264 m. privilegijos buvo vienas iš pavyzdžių privilegijoms, pagal kurias žydai Lietuvoje gyveno ilgus šimtmečius.
-- susijęs iš [[objektai/asmenys/Jonas Liuksemburgietis.md#claim-t-30310|Jonas Liuksemburgietis]]: 1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.
-- susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
-- susijęs iš [[objektai/daiktai/Gardino ekonomijos manufaktūrų gaminiai.md#claim-t-77924|Gardino ekonomijos manufaktūrų gaminiai]]: Antanas Tyzenhauzas Gardino ekonomijoje įsteigė tekstilės, popieriaus, galanterijos, ginklų ir vežimų manufaktūras.
-- susijęs iš Brasta: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
-- susijęs iš Luckas: Karalius užėmė Vytauto valdžioje buvusias Lucko, Brastos ir Suražo pilis.
-- susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Liudvikas (Antiochijos patriarchas).md#claim-t-186142|Liudvikas (Antiochijos patriarchas)]]: Žiemos pabaigoje į Lietuvą pas karalių atvyko Liudvikas, Antiochijos patriarchas ir popiežiaus pasiuntinys.
-- susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
-- susijęs iš [[objektai/ivykiai/Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.).md#claim-t-185531|Popiežiaus ir imperatoriaus mėginimas per Liudviką įtraukti skitus į karą su turkais (1465 m.)]]: Žiemos pabaigoje į Lietuvą pas karalių atvyko popiežiaus pasiuntinys Liudvikas, Antiochijos patriarchas.
-- susijęs iš Brasta: Kęstutis buvo gavęs ilgą vakarų pasienio ruožą, kuriam priklausė Trakai, Palenkė, Gardinas ir Brasta.
 - susijęs iš Brasta: Lietuvos metraštis pasakoja, kad Kęstutis atvyko į Gardiną pas sūnų, o žmoną pasiuntė į Brastą, pasikliaudamas žentu Jonušu.
-- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Palenkė: Palenkės sritis kartu su Trakų kunigaikštija ir Gardino sritimi priklausė Kęstučio valdomai vakarinei valstybės daliai.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Albertas (Vilniaus vyskupas).md#claim-t-87422|Albertas (Vilniaus vyskupas)]]: Albertas kaip vyskupas dalyvavo 1501 m. Gardine aktuotame dokumente tarp patikimų liudytojų.
 - susijęs iš [[objektai/asmenys/Albertas fon Hagenas.md#claim-t-186092|Albertas fon Hagenas]]: Konradas įsakė Albertui fon Hagenui staiga užpulti ir užimti Gardino pilį bei miestą, manydamas, kad jie liko be gynėjų.
@@ -2296,28 +2277,4 @@ Gardinas šiame šaltinyje iškyla kaip ankstyvoji Vytauto valdų vieta, jo reli
     - t-073
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Gardinas
-- [[objektai/asmenys/Daumantas|Daumantas (kunigaikštis, XV a.)]] valde_teritorija Gardinas
-- [[objektai/asmenys/Boleslovas Maldingasis]] gyveno Gardinas
-- [[objektai/asmenys/Antanas Tyzenhauzas|Antanas Tyzenhauzas (ūkio reformų veikėjas)]] pastate Gardinas
-- [[objektai/asmenys/Jonas Liuksemburgietis]] buvo_valdovas Gardinas
-- [[objektai/asmenys/Otokaras (Čekijos karalius)]] buvo_valdovas Gardinas
-- [[objektai/asmenys/Skirgaila]] buvo_valdovas Gardinas
-- [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]] keliavo_i Gardinas
-- [[objektai/vietos/Brasta]] priklause Gardinas
-- Gardinas priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Gardinas priklause [[objektai/asmenys/Gediminas]]
-- Gardinas priklause [[objektai/vietos/Kaunas]]
-- Gardinas priklause [[objektai/vietos/Lietuva]]
-- Gardinas priklause [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]]
-- Gardinas priklause [[objektai/vietos/Polockas]]
-- Gardinas priklause [[objektai/vietos/Pskovas]]
-- Gardinas priklause [[objektai/vietos/Voluinė]]
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Gardinas
-- [[objektai/vietos/Kaunas]] priklause Gardinas
-- [[objektai/asmenys/Liudvikas (Antiochijos patriarchas)]] keliavo_i Gardinas
-- [[objektai/vietos/Lyda]] priklause Gardinas
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Gardinas
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Gardinas
-- [[objektai/vietos/Palenkė]] priklause Gardinas
-- [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]] keliavo_i Gardinas
+- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Gardinas

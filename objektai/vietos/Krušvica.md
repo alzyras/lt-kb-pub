@@ -22,8 +22,7 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   global_id: t-86081
   teiginys: 'Boleslovo laikais Krušvica ir Poznanė priklausė turtais ir gyventojų gausa garsėjusiems Didžiosios Lenkijos miestams.'
   sudarymo_pagrindimas: 'Pradinis tekstas sugadintas OCR; citata leidžia atkurti aiškų faktinį teiginį.'
-  susije_objektai: 'owner: Lenkija; owner: Poznanė; mentioned_place: Lenkija; mentioned_place: Poznanė'
-  semantiniai_rysiai: 'Krušvica priklausė Lenkija; Krušvica priklausė Poznanė'
+  susije_objektai: 'mentioned_place: Lenkija; mentioned_place: Poznanė'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Martynas iš Krušvicos.md#claim-t-60384|Martynas iš Krušvicos]]: Martynas iš Krušvicos buvo riteris ir vėliavininkas, kuris kartu su kunigaikščiu Kazimieru nepabėgo pamatęs Sventopelko raitelius.
@@ -58,7 +57,3 @@ Jau jam valdant Krušvica, Poznanė ir kiti b) Martini Gaili, Chronicon, ed. sta
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Krušvica priklause [[objektai/vietos/Lenkija]]
-- Krušvica priklause [[objektai/vietos/Poznanė]]

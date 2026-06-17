@@ -31,10 +31,10 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   global_id: t-30308
   teiginys: 'Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Naugarde Maskvos įtaką ir 1327 m. pasiuntė tenai vietininku savo kunigaikštį.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Maskva; territory: Naugardas; territory: Tverė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Maskva; [[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Naugardas; [[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Tverė'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Maskva; mentioned_place: Naugardas; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Kalita|Jonas Kalita]] buvo valdovas Maskva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1325 m.; valdymo laikotarpis: 1327 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Kalita buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Kalita buvo valdovas Naugardas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Kalita buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Kalita buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
@@ -50,7 +50,6 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
   temporalinis_llm_pakomentavimas: 'Citata palaiko faktą, bet pradiniame teiginyje likęs kontekstinis žodis „taip pat“.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96867|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
 - susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
 - susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96866|Riurikaičių dinastija]]: Smulkūs Riurikaičiai Lietuvos valdžioje buvo daliniai kunigaikščiai, bet ne savarankiški valdovai.
 - susijęs iš [[objektai/grupes/Riurikaičių dinastija.md#claim-t-96867|Riurikaičių dinastija]]: Lietuvoje išlikę smulkūs Riurikaičiai nebuvo savarankiški valdovai ir labiau negu Maskvoje priklausė nuo didžiojo kunigaikščio.
@@ -93,6 +92,3 @@ Veiklus didysis Maskvos kunigaikštis Jonas Kalita (1325-41) greitai atstatė Na
 
 ## Ryšiai
 - Jonas Kalita buvo_valdovas [[objektai/vietos/Maskva]]
-- Jonas Kalita buvo_valdovas [[objektai/vietos/Naugardas]]
-- Jonas Kalita buvo_valdovas [[objektai/vietos/Tverė]]
-- [[objektai/grupes/Riurikaičių dinastija]] priklause Jonas Kalita

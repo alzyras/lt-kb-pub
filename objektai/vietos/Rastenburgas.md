@@ -118,6 +118,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/grupes/Kryžiuočių ordinas]] susije_su Rastenburgas

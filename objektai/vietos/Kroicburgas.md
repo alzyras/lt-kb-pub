@@ -93,7 +93,6 @@ Dusburgietis teigia, kad 138), o jau po to aprašoma, kaip broliai pasitraukė i
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Bartenšteinas; mentioned_place: Prūsai'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/ivykiai/Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai.md#claim-t-183927|Karaliaučiaus, Kroicburgo ir Bartenšteino pilių apsiaustis bei Karaliaučiaus apgulties epizodai]]: Apsuptieji, visiškai pritrūkę maisto, paliko pilį, slapta atvyko į Elbingą ir ten išlupo akis dvylikai prūsų įkaitų.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Holdenštetės.md#claim-t-60120|Fridrichas iš Holdenštetės]]: Fridrichas iš Holdenštetės, Brandenburgo komtūras, su broliais ir ginklanešiais nusiaubė Saldavos valsčių Notangoje.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175536|Kalavijuočių ordinas]]: Folkvinas, antrasis Kristaus karių ordino Livonijoje magistras, šešerius metus ragino prijungti jo ordiną prie Teutonų ordino.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178878|Kryžiuočių ordinas]]: Apgulus Karaliaučiaus, Kroicburgo ir Bartenšteino pilis, Kryžiuočių ordino broliai kentė badą ir stygių.

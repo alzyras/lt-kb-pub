@@ -59,8 +59,7 @@ Akonas čia rodomas kaip miestas ir uostas, susijęs su kryžininkų karo, ligon
   global_id: t-179737
   teiginys: 'Henrikas Valpotas mirė lapkričio pradžioje ir buvo palaidotas Akone.'
   sudarymo_pagrindimas: 'Citata pagrindžia konkretų faktą apie palaidojimą Akone.'
-  susije_objektai: 'location: Akonas; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]] mirė Akonas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Henrikas Valpotas|Henrikas Valpotas]]; mentioned_person: [[objektai/asmenys/Verneris iš Orzelno|Verneris iš Orzelno]]; mentioned_place: Bremenas; mentioned_place: Jeruzalė; mentioned_place: Liubekas; mentioned_place: Vokietija'
   pagrindžia:
     - c-007
 

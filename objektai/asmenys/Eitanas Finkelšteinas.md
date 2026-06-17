@@ -29,9 +29,9 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   global_id: t-18883
   teiginys: 'Fizikas Eitanas Finkelšteinas priklausė grupei, palaikiusiai ryšius su Maskvos, kitų SSRS regionų ir tarptautinėmis žmogaus teisių gynimo grupėmis.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Eitaną Finkelšteiną ir atitinka citatą.'
-  susije_objektai: 'owner: Maskva; owner: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; owner: SSRS; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Maskva; mentioned_place: SSRS'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Maskva; mentioned_place: SSRS'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas Venclova susiję su Maskvos Helsinkio grupė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas Venclova susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas Venclova susiję su SSRS“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Eitaną Finkelšteiną ir atitinka citatą.'
   pagrindžia:
     - c-001

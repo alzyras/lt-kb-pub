@@ -58,10 +58,10 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
   global_id: t-60021
   teiginys: '1302 m. didysis magistras Gotfridas Hohenlohė su 50 brolių per Prūsiją atvyko į Livoniją, o kitais metais Elbinge atsisakė pareigų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
-  susije_objektai: 'location: Elbingas; location: Prūsija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]] keliavo į Elbingas; [[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]] keliavo į Prūsija'
+  susije_objektai: 'location: Elbingas; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  semantiniai_rysiai: '[[objektai/asmenys/Gotfridas Hohenlohė|Gotfridas Hohenlohė]] keliavo į Elbingas'
   temporaliniai_duomenys: 'kelionės data: 1302 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gotfridas Hohenlohė keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gotfridas Hohenlohė keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gotfridas Hohenlohė keliavo į Elbingas“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, faktinis ir paremtas citata.'
   pagrindžia:
     - c-001
@@ -132,4 +132,3 @@ Dusburgietis teigia, kad tais pačiais metais Prūsijos žemėje lankėsi brolis
 
 ## Ryšiai
 - Gotfridas Hohenlohė keliavo_i [[objektai/vietos/Elbingas]]
-- Gotfridas Hohenlohė keliavo_i [[objektai/vietos/Prūsija]]

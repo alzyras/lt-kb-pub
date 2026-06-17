@@ -106,6 +106,3 @@ Po pasitarimo Leliušas su įgula užėmė Trakus, o Daugirdas nuskubėjo į Vil
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Daugirdas buvo_valdovas [[objektai/vietos/Trakai]]

@@ -54,7 +54,3 @@ Dalyva­ vimas valachų Vytauto būriuose leidžia tarti, jog jis Dniepro žemu�
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Valachai priklause [[objektai/vietos/Maskva]]
-- Valachai priklause [[objektai/vietos/Viena]]

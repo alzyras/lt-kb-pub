@@ -30,8 +30,8 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
   global_id: t-86799
   teiginys: 'Kiršenšteinų giminė, vėliau gavusi pilietybę, keletą šimtmečių valdė Raudonės pilį.'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lietuva; territory: Oliva; territory: Raudonė; territory: Viena; territory: Vilnius; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Raudonė; mentioned_place: Viena; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Lietuva; [[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Oliva; [[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Raudonė; [[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Viena; [[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Vilnius'
+  susije_objektai: 'territory: Raudonė; mentioned_group: [[objektai/grupes/Anglai|Anglai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/daiktai/Ginklai|Ginklai]]; mentioned_object: [[objektai/daiktai/Kryžius|Kryžius]]; mentioned_object: [[objektai/daiktai/Strėlės|Strėlės]]; mentioned_object: [[objektai/daiktai/Žirgai|Žirgai]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lietuva; mentioned_place: Oliva; mentioned_place: Raudonė; mentioned_place: Viena; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Kiršenšteinai|Kiršenšteinai]] valdė teritoriją Raudonė'
   pagrindžia:
     - c-001
 - susijęs iš Bajerburgas Bajerburgo pilis (sujungti pirminiai pavadinimai Bajerburgo pilis; Bajerburgas Raudonė): Raudonės pilį, dar vadintą Bajerburgu, kelis šimtmečius valdė Kiršenšteinų giminė.
@@ -93,8 +93,4 @@ Jos sūnus buvo vadinamas Kiršenšteinu, ir toji giminė, vėliau gavusi piliet
     - t-001
 
 ## Ryšiai
-- Kiršenšteinai valde_teritorija [[objektai/vietos/Lietuva]]
-- Kiršenšteinai valde_teritorija [[objektai/vietos/Oliva]]
 - Kiršenšteinai valde_teritorija [[objektai/vietos/Raudonė]]
-- Kiršenšteinai valde_teritorija [[objektai/vietos/Viena]]
-- Kiršenšteinai valde_teritorija [[objektai/vietos/Vilnius]]

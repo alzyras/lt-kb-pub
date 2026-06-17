@@ -105,10 +105,6 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Salynas; mentioned_place: Suvalkai; mentioned_place: Šešupė'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/paprociai/Romuvų šventos girios ir Perkūno garbinimas.md#claim-t-87251|Romuvų šventos girios ir Perkūno garbinimas]]: Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.
-- susijęs iš [[objektai/zodynas/Medė.md#claim-t-70027|medė]]: Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.
-- susijęs iš [[objektai/zodynas/alanai.md#claim-t-185379|alanai]]: Ateiviai persikėlė per Nevėžį ir pasiekė vietas, kuriose, pasak Kojelavičiaus, gyveno alanai, arba lietuviai.
-- susijęs iš [[objektai/zodynas/Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija.md#claim-t-86452|Šventaragio, Gabijos, Krivių Krivaičio ir Romuvų terminija]]: Romuvos buvo senovės lietuvių šventvietės šventose giriose, kur garbintas Perkūnas ir gyveno Krivių Krivaitis.
 - susijęs iš [[objektai/asmenys/Galminas.md#claim-t-30231|Galminas]]: Galminas su Rumbaudu, Getautu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Getautas.md#claim-t-30255|Getautas]]: Getautas su Rumbaudu, Galminu, Klausigaila ir Vasibutu persikėlė per Nevėžį ir pradėjo užimti sukilusį kraštą.
 - susijęs iš [[objektai/asmenys/Gimbutas.md#claim-t-186110|Gimbutas]]: Gimbutui buvo paskirta valdyti Žemaitiją.
@@ -299,6 +295,3 @@ Ja Vytautas sutiko užleisti ordinui Žemaičius iki pat Nevėžio; ordinui, be 
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Gediminas]] gyveno Nevėžis

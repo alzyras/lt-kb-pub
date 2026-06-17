@@ -30,10 +30,9 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   global_id: t-18955
   teiginys: 'Kijevo Rusios valdovas Jaroslavas XI a. viduryje rengė žygius.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas.'
-  susije_objektai: 'territory: Kijevas; territory: Kijevo Rusia; territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Jaroslavas|Jaroslavas]] buvo valdovas Kijevas; [[objektai/asmenys/Jaroslavas|Jaroslavas]] buvo valdovas Kijevo Rusia; [[objektai/asmenys/Jaroslavas|Jaroslavas]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1009 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jaroslavas buvo valdovas Kijevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas buvo valdovas Kijevo Rusia“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jaroslavas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Kijevas; mentioned_place: Kijevo Rusia; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1009 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, todėl paliktas tik citatos remiamas faktas.'
   pagrindžia:
     - c-001
@@ -65,9 +64,3 @@ Didžiausia tikimybė, kad tai nulėmė Kijevo Rusios valdovo Jaroslavo žygiai 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jaroslavas dalyvavo_musyje [[objektai/ivykiai/Kijevo Mstislavo žygiai į Lietuvą (1131–1132 m.)]]
-- Jaroslavas buvo_valdovas [[objektai/vietos/Kijevas]]
-- Jaroslavas buvo_valdovas [[objektai/vietos/Kijevo Rusia]]
-- Jaroslavas buvo_valdovas [[objektai/vietos/Lietuva]]

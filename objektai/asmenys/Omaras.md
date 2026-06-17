@@ -24,8 +24,7 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   global_id: t-60397
   teiginys: 'Arabų kunigaikštis Omaras, trečias Mahometo karalystės paveldėtojas, įsiveržė į Šventąją žemę ir ją užėmė.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Omarą.'
-  susije_objektai: 'territory: Jeruzalė; mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
-  semantiniai_rysiai: '[[objektai/asmenys/Omaras|Omaras]] buvo valdovas Jeruzalė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Arabai|Arabai]]; mentioned_person: [[objektai/asmenys/Heraklijus|Heraklijus]]; mentioned_place: Jeruzalė'
   pagrindžia:
     - c-001
 - susijęs iš Jeruzalė: Omarui užėmus Šventąją žemę, Šventajame Jeruzalės mieste gyvenę krikščionys 490 metų kentė svetimą valdžią.
@@ -48,6 +47,3 @@ Dusburgietis teigia, kad apie šventosios žemės reikalus Neilgai trukus po to,
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Omaras buvo_valdovas [[objektai/vietos/Jeruzalė]]

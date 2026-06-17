@@ -38,7 +38,6 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
-- susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185996|Andrius Vingaudas]]: Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per Dauguvą ir ėmė niokoti lietuvių valdas.
 - susijęs iš [[objektai/asmenys/Andrius Vingaudas.md#claim-t-185997|Andrius Vingaudas]]: Vytautas per susitikimą rūpinosi Andriaus Vingaudo paleidimu, siekdamas pelnyti Jogailos brolių palankumą.
 - susijęs iš [[objektai/ivykiai/Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.).md#claim-t-100031|Jogailos paliaubos su Livonijos ordinu (1380 m. vasario 27 d.)]]: Dėl Andriaus Algirdaičio sukilimo Jogailos padėtis pasunkėjo, todėl jis ieškojo artimesnio ryšio su kryžiuočiais.
 - susijęs iš Desna: Dniepro ir Desnos upyne buvo užimtos Briansko, Trubčevsko ir Naugardo Sieversko kunigaikštystės.
@@ -63,6 +62,3 @@ Nuvykęs Maskvon, jis prikalbėjo kunigaikštį Dimitrą žygiui į Lietuvą, ir
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Andrius Vingaudas]] buvo_valdovas Trubčevskas

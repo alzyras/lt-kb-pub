@@ -45,7 +45,6 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.
-- susijęs iš [[objektai/asmenys/Andrius (Druško kunigaikštis).md#claim-t-87622|Andrius (Druško kunigaikštis)]]: Druško kunigaikščio Andriaus sūnūs valdė Blušą prie Svisločės upės.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176745|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis lenkų pasiuntinius apdovanojo ir išvykstant pats palydėjo iki Volkovisko.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1411 m. Trakuose rašyta Vytauto privilegija Vilniaus kapitulai mainais už Vechatnicos kaimą suteikė valdas Krėvos ir Svisločiaus apylinkėse.
 - susijęs iš Vytauto privilegijos Vilniaus kapitulai: 1412 m. ketvirtoji Vytauto privilegija Vilniaus kapitulai buvo rašyta Trakuose antradienį prieš Kristaus Kūno šventę.
@@ -83,6 +82,3 @@ Vytautas Didysis Volkoviske pastatė bažnyčią. Iš pradžių jie įvykdavo Vo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Andrius (Druško kunigaikštis)]] valde_teritorija Volkoviskas

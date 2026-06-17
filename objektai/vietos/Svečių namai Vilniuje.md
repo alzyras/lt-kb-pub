@@ -51,7 +51,7 @@ Karalius leido miestui pastatyti Svečių namus, kuriuose rusų pirkliai prival�
   global_id: t-85956
   teiginys: 'Karalius leido Vilniui pastatyti Svečių namus, kuriuose rusų pirkliai turėjo apsistoti, mokėti prekių muitą ir pranešti pilininkui apie atvykimą.'
   sudarymo_pagrindimas: 'Reikia pašalinti išnašų triukšmą ir patikslinti sakinį pagal citatą.'
-  susije_objektai: 'territory: Pskovas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusų pirkliai|Rusų pirkliai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Pskovas; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -37,9 +37,6 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   temporalinis_llm_pakomentavimas: 'Stebuklinį pasakojimą geriau pateikti su šaltinio pobūdį rodančia atribucija.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-179326|Lietuviai]]: Anglų riteriai kryžiaus žygiuose kartu su kryžiuočiais kovojo prieš pagonis lietuvius.
-- susijęs iš [[objektai/daiktai/Pilaitės kunigaikščių pilis.md#claim-t-87088|Pilaitės kunigaikščių pilis]]: Pilaitėje nuo neatmenamų laikų stovėjusi kunigaikščių pilis vėliau priklausė Viršiloms, Glebavičiams, jėzuitams ir Vilniaus universitetui.
-- susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
 - susijęs iš [[objektai/asmenys/Albrechtas Radvila.md#claim-t-87613|Albrechtas Radvila]]: Apie 1601 m. Albrechto Radvilos laikais Goštautų ir Filipovo namai buvo sujungti ir gavo bendrą Kardinalijos pavadinimą.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54937|Aleksandras Jogailaitis]]: Aleksandras siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82173|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis siekė užgesinti vaidus su Ivanu Vasiljevičiumi vesdamas jo dukterį Eleną.
@@ -740,41 +737,3 @@ Dusburgietis teigia, kad apie vieno berniuko prisikėlimą iš numirusiųjų Bra
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Lietuviai]] kariavo_pries Tomas (Hertvigo iš Pokarvių sūnus)
-- Tomas (Hertvigo iš Pokarvių sūnus) dalyvavo_musyje [[objektai/ivykiai/Vilniaus mūšis prie Vingrių tilto ir miesto gaisras (1383 m.)]]
-- Tomas (Hertvigo iš Pokarvių sūnus) valde_teritorija [[objektai/vietos/Lietuva]]
-- Tomas (Hertvigo iš Pokarvių sūnus) valde_teritorija [[objektai/vietos/Oliva]]
-- Tomas (Hertvigo iš Pokarvių sūnus) valde_teritorija [[objektai/vietos/Raudonė]]
-- Tomas (Hertvigo iš Pokarvių sūnus) valde_teritorija [[objektai/vietos/Viena]]
-- Tomas (Hertvigo iš Pokarvių sūnus) valde_teritorija [[objektai/vietos/Vilnius]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Kijevas]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Naugardas]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Pskovas]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Romainiai]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Trakai]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Viena]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Vilija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Vilnelė]]
-- Tomas (Hertvigo iš Pokarvių sūnus) buvo_valdovas [[objektai/vietos/Vilnius]]
-- [[objektai/vietos/Mendzižečės giria]] priklause Tomas (Hertvigo iš Pokarvių sūnus)
-- [[objektai/daiktai/Pilaitės kunigaikščių pilis]] priklause Tomas (Hertvigo iš Pokarvių sūnus)
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Lenkija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Lietuva]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Livonija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Maskva]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Mazovija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Praha]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Prūsija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Riazanė]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Trakai]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Tverė]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Valakija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) keliavo_i [[objektai/vietos/Vilnius]]
-- Tomas (Hertvigo iš Pokarvių sūnus) susije_su [[objektai/vietos/Lietuva]]
-- Tomas (Hertvigo iš Pokarvių sūnus) susije_su [[objektai/vietos/Pilaitė]]
-- Tomas (Hertvigo iš Pokarvių sūnus) susije_su [[objektai/vietos/Vilija]]
-- Tomas (Hertvigo iš Pokarvių sūnus) susije_su [[objektai/vietos/Vilnius]]

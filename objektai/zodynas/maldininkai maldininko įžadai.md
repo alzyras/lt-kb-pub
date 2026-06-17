@@ -51,7 +51,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   global_id: t-70221
   teiginys: 'Anglijos karalius Eduardas atvyko su daugybe frizų ir maldininkų į kariuomenę, kuri siekė užkariauti Šventąją Žemę.'
   sudarymo_pagrindimas: 'Sutrumpinta iki aiškaus fakto apie maldininkų dalyvavimą.'
-  susije_objektai: 'location: Anglija; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Anglija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_group: [[objektai/grupes/Saracėnai|Saracėnai]]; mentioned_place: Anglija'
   pagrindžia:
     - c-001
 
@@ -142,7 +142,7 @@ Vartojama kryžiaus žygių, piligrimystės ir Ordino karinės pagalbos kalboje.
   global_id: t-70231
   teiginys: 'Vokietijos maldininkai atvyko į pagalbą prūsų apsiaustai Baigos piliai.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'
-  susije_objektai: 'location: Baiga; location: Prūsai; location: Vokietija; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Vokietija'
+  susije_objektai: 'location: Prūsai; mentioned_group: [[objektai/grupes/Vokietijos maldininkai|Vokietijos maldininkai]]; mentioned_object: [[objektai/zodynas/maldininkai|maldininkai]]; mentioned_place: Baiga; mentioned_place: Prūsai; mentioned_place: Vokietija'
   temporaliniai_duomenys: 'kelionės data: po 1236 m.; kelionės data: 1236 m.'
   temporalinis_paaiskinimas: 'Ši data interpretuojama kaip kelionės data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia suformuluoti aiškų faktą apie maldininkus ir Baigos apgultį.'

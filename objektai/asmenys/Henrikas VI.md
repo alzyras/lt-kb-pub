@@ -33,8 +33,8 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
 - t-001
   global_id: t-63621
   teiginys: 'Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.'
-  susije_objektai: 'location: Anglija; location: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gilbert de Lannoy|Gilbert de Lannoy]]; mentioned_person: [[objektai/asmenys/Henne|Henne]]; mentioned_place: Anglija; mentioned_place: Krymas'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas VI|Henrikas VI]] keliavo į Anglija; [[objektai/asmenys/Henrikas VI|Henrikas VI]] keliavo į Krymas'
+  susije_objektai: 'location: Krymas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Gilbert de Lannoy|Gilbert de Lannoy]]; mentioned_person: [[objektai/asmenys/Henne|Henne]]; mentioned_place: Anglija; mentioned_place: Krymas'
+  semantiniai_rysiai: '[[objektai/asmenys/Henrikas VI|Henrikas VI]] keliavo į Krymas'
   pagrindžia:
     - c-001
 
@@ -43,8 +43,7 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
   global_id: t-63622
   teiginys: 'Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata pagrindžia Henriko VI vaidmenį dėl ligoninės patvirtinimo.'
-  susije_objektai: 'territory: Austrija; territory: Jeruzalė; territory: Reinas; territory: Saksonija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
-  semantiniai_rysiai: '[[objektai/asmenys/Henrikas VI|Henrikas VI]] buvo valdovas Austrija; [[objektai/asmenys/Henrikas VI|Henrikas VI]] buvo valdovas Jeruzalė; [[objektai/asmenys/Henrikas VI|Henrikas VI]] buvo valdovas Reinas; [[objektai/asmenys/Henrikas VI|Henrikas VI]] buvo valdovas Saksonija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_object: [[objektai/zodynas/landgrafas|landgrafas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_object: [[objektai/zodynas/maršalas|maršalas]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Gardolfas|Gardolfas]]; mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_place: Austrija; mentioned_place: Jeruzalė; mentioned_place: Reinas; mentioned_place: Saksonija'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178851|Kryžiuočių ordinas]]: Teutonų namų ordinas gavo pradžią 1190 Viešpaties metais, kai viešpatavo popiežius Celestinas III ir imperatorius Henrikas VI.
@@ -120,9 +119,4 @@ Ir tikrai, kada Gilbert de Lannoy, Ang­ lijos karaliaus Henriko VI pasiuntinys 
     - t-002
 
 ## Ryšiai
-- Henrikas VI buvo_valdovas [[objektai/vietos/Austrija]]
-- Henrikas VI buvo_valdovas [[objektai/vietos/Jeruzalė]]
-- Henrikas VI buvo_valdovas [[objektai/vietos/Reinas]]
-- Henrikas VI buvo_valdovas [[objektai/vietos/Saksonija]]
-- Henrikas VI keliavo_i [[objektai/vietos/Anglija]]
 - Henrikas VI keliavo_i [[objektai/vietos/Krymas]]

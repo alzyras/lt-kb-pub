@@ -32,10 +32,10 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
   global_id: t-87910
   teiginys: 'Pskovo pasiuntinys Joachimas Pavlovičius 1427 m. atvyko į Vilnių prašyti Vytauto paleisti belaisvius.'
   sudarymo_pagrindimas: 'Citata pagrindžia Joachimo Pavlovičiaus pasiuntinybę ir jos tikslą.'
-  susije_objektai: 'location: Lietuva; location: Pskovas; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]] keliavo į Lietuva; [[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]] keliavo į Pskovas; [[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]] keliavo į Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Pskovas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Joachimas Pavlovičius|Joachimas Pavlovičius]] keliavo į Vilnius'
   temporaliniai_duomenys: 'kelionės data: 1427 m.; kelionės data: 1429 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Joachimas Pavlovičius keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Joachimas Pavlovičius keliavo į Pskovas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Joachimas Pavlovičius keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Joachimas Pavlovičius keliavo į Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Joachimo Pavlovičiaus pasiuntinybę ir jos tikslą.'
   pagrindžia:
     - c-001
@@ -67,6 +67,4 @@ Pergalė jam buvo lemta ir tąsyk: du­ syk pakartotas žygis, nepaisant dideli�
     - t-001
 
 ## Ryšiai
-- Joachimas Pavlovičius keliavo_i [[objektai/vietos/Lietuva]]
-- Joachimas Pavlovičius keliavo_i [[objektai/vietos/Pskovas]]
 - Joachimas Pavlovičius keliavo_i [[objektai/vietos/Vilnius]]

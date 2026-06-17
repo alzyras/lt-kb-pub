@@ -30,10 +30,9 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'territory: Belzas; territory: Lenkija; territory: Mazovija; territory: Volynė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras Narimantaitis|Aleksandras Narimantaitis]] buvo valdovas Belzas; [[objektai/asmenys/Aleksandras Narimantaitis|Aleksandras Narimantaitis]] buvo valdovas Lenkija; [[objektai/asmenys/Aleksandras Narimantaitis|Aleksandras Narimantaitis]] buvo valdovas Mazovija; [[objektai/asmenys/Aleksandras Narimantaitis|Aleksandras Narimantaitis]] buvo valdovas Volynė'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1367 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Narimantaitis buvo valdovas Belzas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Narimantaitis buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Narimantaitis buvo valdovas Mazovija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Narimantaitis buvo valdovas Volynė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija; mentioned_place: Mazovija; mentioned_place: Volynė'
+  temporaliniai_duomenys: 'įvykio data: 1367 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
   pagrindžia:
     - c-001
@@ -68,9 +67,3 @@ Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukšči
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Aleksandras Narimantaitis buvo_valdovas [[objektai/vietos/Belzas]]
-- Aleksandras Narimantaitis buvo_valdovas [[objektai/vietos/Lenkija]]
-- Aleksandras Narimantaitis buvo_valdovas [[objektai/vietos/Mazovija]]
-- Aleksandras Narimantaitis buvo_valdovas [[objektai/vietos/Volynė]]

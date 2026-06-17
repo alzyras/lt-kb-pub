@@ -29,10 +29,9 @@ amziai:
   global_id: t-86819
   teiginys: '1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
-  susije_objektai: 'object: Hamburgas; object: Reinas; mentioned_place: Hamburgas; mentioned_place: Reinas'
-  semantiniai_rysiai: '[[objektai/grupes/Reino konfederacija|Reino konfederacija]] pastatė Hamburgas; [[objektai/grupes/Reino konfederacija|Reino konfederacija]] pastatė Reinas'
-  temporaliniai_duomenys: 'pastatymo data: 1241 m.; pastatymo data: 1255 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Reino konfederacija pastatė Hamburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Reino konfederacija pastatė Reinas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Hamburgas; mentioned_place: Reinas'
+  temporaliniai_duomenys: 'įkūrimo data: 1241 m.; įkūrimo data: 1255 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys ir atitinka citatos informaciją.'
   pagrindžia:
     - c-001
@@ -58,7 +57,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Reino konfederacija pastate [[objektai/vietos/Hamburgas]]
-- Reino konfederacija pastate [[objektai/vietos/Reinas]]

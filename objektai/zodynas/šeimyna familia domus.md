@@ -48,7 +48,7 @@ Dusburgietis teigia, kad apie tai, kaip buvo pastatytas ir išgriautas malūnas 
   global_id: t-58820
   teiginys: 'Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda nereikalinga atribucija; citata palaiko aiškų faktą.'
-  susije_objektai: 'location: Galinda; location: Heilsbergas; location: Prūsija; location: Varmė; location: Vokietija; mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vokietija'
+  susije_objektai: 'mentioned_place: Galinda; mentioned_place: Heilsbergas; mentioned_place: Prūsija; mentioned_place: Varmė; mentioned_place: Vokietija'
   pagrindžia:
     - c-003
 

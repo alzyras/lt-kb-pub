@@ -33,11 +33,9 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   global_id: t-85927
   teiginys: 'Karalius Alantos dvarą Ukmergės apskrityje po Grigaliaus Astiko atidavė Gabrieliui Bekešui.'
   sudarymo_pagrindimas: 'Reikia išplėsti dalinę nuorodą „po jo“ ir patikslinti Bekešo vardą pagal kontekstą.'
-  susije_objektai: 'territory: Ukmergė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_place: Ukmergė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Astikas|Astikas]]; mentioned_place: Ukmergė; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
-- susijęs iš Vaitiekaus Slavenckio Alantos valdų sąrašai ir rejestrai: Valdovas davė Gabrieliui Bekešui Vaitiekaus Slavenckio sudarytų Alantos valdų rejestrų nuorašą.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54972|Gabrielius Bekešas]]: Už nuopelnus Gabrieliui Bekešui tėvonijos teise perduotas Alantos dvaras su Kristupiškių, Kirdeikiškių, Germaniškio ir Gelminiškio priklausiniais.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-54973|Gabrielius Bekešas]]: Bekešo vaikams, palikuonims, paveldėtojams ir giminaičiams leista paveldimai valdyti suteiktas valdas.
 - susijęs iš [[objektai/asmenys/Gabrielius Bekešas.md#claim-t-82311|Gabrielius Bekešas]]: Gabrieliui Bekešui po Astiko Varšuvos seime pagal paveldėjimo teisę buvo atiduotas Alantos dvaras.
@@ -126,6 +124,3 @@ Kitą Astiko dvarą, esantį Ukmergės ap­ skrityje, vadinamą Alanta, karalius
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Astikas]] buvo_valdovas Alanta

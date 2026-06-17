@@ -63,10 +63,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   global_id: t-110149
   teiginys: 'Žygimanto Augusto žmona Elžbieta mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje šalia karaliaus Aleksandro.'
   sudarymo_pagrindimas: 'Pirminis teiginys sugadintas OCR triukšmo, bet citata leidžia suformuluoti rišlų faktą.'
-  susije_objektai: 'location: Vilniaus katedra; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] mirė Vilniaus katedra'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   temporaliniai_duomenys: 'mirties data: 1545 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas mirė Vilniaus katedra“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pirminis teiginys sugadintas OCR triukšmo, bet citata leidžia suformuluoti rišlų faktą.'
   pagrindžia:
     - c-008
@@ -104,9 +103,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - t-007
   global_id: t-110153
   teiginys: 'Didysis kunigaikštis didino Vilniaus katedros lobius ir 1396 m. jos kapitulai dovanojo Cudzeniškių valdą.'
-  susije_objektai: 'territory: Cudzeniškiai; territory: Medininkai; territory: Vilnius; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cudzeniškiai; mentioned_place: Medininkai; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1396 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Cudzeniškiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Medininkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Cudzeniškiai; mentioned_place: Medininkai; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1396 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-009
 
@@ -191,10 +190,9 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
 - t-016
   global_id: t-110163
   teiginys: 'Elžbieta, ištekinta už Žygimanto Augusto, mirė Vilniuje 1545 m. ir buvo palaidota katedros bažnyčios koplyčioje.'
-  susije_objektai: 'location: Vilniaus katedra; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Augustas|Augustas]] mirė Vilniaus katedra'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Barbora Radvilaitė|Barbora Radvilaitė]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Trakai; mentioned_place: Vengrija; mentioned_place: Vilnius; mentioned_place: Čekija'
   temporaliniai_duomenys: 'mirties data: 1545 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustas mirė Vilniaus katedra“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-008
 
@@ -566,6 +564,3 @@ Didžiojo valdovo lavonas buvo laikomas 8 dienas gimtojoje pilyje; paskui jis bu
   statusas: verified
   pagrindžia:
     - t-020
-
-## Ryšiai
-- [[objektai/asmenys/Augustas]] mire Vilniaus katedra

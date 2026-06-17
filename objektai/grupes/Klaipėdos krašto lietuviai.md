@@ -37,10 +37,9 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
 - t-002
   global_id: t-74190
   teiginys: 'Klaipėdos krašto surašymo duomenimis, krašte gyveno 37 000 lietuvių ir 34 000 lietuviškai namuose kalbėjusių „klaipėdiečių“.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Klaipėdos krašto lietuviai|Klaipėdos krašto lietuviai]] gyveno Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1925 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Klaipėdos krašto lietuviai (kraštas) gyveno Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-002
 
@@ -77,6 +76,3 @@ Klaipėdos krašto lietuviai, ilgus amžius gyvenę veikiami vokiečių kultūro
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Klaipėdos krašto lietuviai (kraštas) gyveno [[objektai/vietos/Lietuva]]

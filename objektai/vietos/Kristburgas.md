@@ -128,11 +128,10 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
   global_id: t-90730
   teiginys: 'Pagudėnai prie Kristburgo užpuolė netoliese buvusią pilaitę, kurioje gyveno tikintieji pamedėnai, ir ją sugriovė.'
   sudarymo_pagrindimas: 'Teiginys tiksliai perteikia citatoje aprašytą pilaitės prie Kristburgo užpuolimą.'
-  susije_objektai: 'location: Pilaitė; location: Viena; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Pilaitė; mentioned_place: Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_place: Pilaitė; mentioned_place: Viena'
   pagrindžia:
     - c-003
 - susijęs iš [[objektai/asmenys/Engelkė.md#claim-t-60273|Engelkė]]: Engelkė gyveno Kristburgo pilyje, buvo gimęs Vestfalijoje ir garsėjo pamaldumu bei savitvarda.
-- susijęs iš [[objektai/grupes/Pamedėnai.md#claim-t-78415|Pamedėnai]]: Pagudėnai prie Kristburgo užpuolė pilaitę, kurioje gyveno tikintieji pamedėnai, į ją įsiveržė ir ją sugriovė.
 - susijęs iš Traupeinas: Traupeino pilis buvo tarp Kristburgo ir Marienburgo, o pagudėnai ją apgulė Divano žygio metu.
 - susijęs iš [[objektai/asmenys/Andrius (račius).md#claim-t-60236|Andrius (račius)]]: 1324 m. Kristburgo pilyje iš račiaus Andriaus aluje dažytos duonos pradėjo varvėti kraujo lašai.
 - susijęs iš [[objektai/asmenys/Bertoldas iš Nordhauzeno.md#claim-t-60251|Bertoldas iš Nordhauzeno]]: Bertoldas iš Nordhauzeno buvo Kulmo žemės krašto komtūras, labiau tikęs ūkio reikalams negu karui.
@@ -410,5 +409,4 @@ Dusburgietis teigia, kad štai todėl, sušaukęs brolius ir maldininkus, patrau
 
 ## Ryšiai
 - [[objektai/asmenys/Engelkė]] gyveno Kristburgas
-- [[objektai/grupes/Pamedėnai]] gyveno Kristburgas
 - [[objektai/asmenys/Divanas]] puole Kristburgas

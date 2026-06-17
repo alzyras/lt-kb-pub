@@ -40,7 +40,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys pilnas, faktinis ir paremtas citatos informacija.'
-  susije_objektai: 'location: Lenkija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Ostrorogas|Stanislovas Ostrorogas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'location: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Jonas Ritvianskis|Jonas Ritvianskis]]; mentioned_person: [[objektai/asmenys/Stanislovas Ostrorogas|Stanislovas Ostrorogas]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

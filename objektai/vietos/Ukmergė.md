@@ -79,8 +79,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - t-005
   global_id: t-180709
   teiginys: 'Ukmergė su pilimi priklausė Jaunučiui paskirtam palyginti nedideliam žemių daliniui.'
-  susije_objektai: 'owner: Breslauja; owner: [[objektai/asmenys/Gediminas|Gediminas]]; owner: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja'
-  semantiniai_rysiai: 'Ukmergė priklausė [[objektai/asmenys/Gediminas|Gediminas]]; Ukmergė priklausė [[objektai/asmenys/Jaunutis|Jaunutis]]; Ukmergė priklausė Breslauja'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Breslauja'
   pagrindžia:
     - c-011
 
@@ -254,14 +253,6 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   susije_objektai: 'mentioned_place: Želviai'
   pagrindžia:
     - c-013
-- susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis valdė Žemaitiją dar jų tėvui esant gyvam.
-- susijęs iš Krėva: Algirdas valdė Vitebską ir Krėvą, o Kęstutis viešpatavo Žemaitijoje.
-- susijęs iš [[objektai/asmenys/Jurgis (Maskvos kunigaikštis).md#claim-t-87738|Jurgis (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Jurgis kartu su savo dėde Švitrigaila išvengė sutriuškinimo po pralaimėjimo prie Ukmergės.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
-- susijęs iš Stepono Batoro privilegija Gabrieliui Bekešui dėl Alantos dvaro: Karalius Steponas po Astiko atidavė Gabrieliui Bekešui Ukmergės apskrityje buvusį Alantos dvarą.
-- susijęs iš Alanta: Karalius Alantos dvarą Ukmergės apskrityje po Grigaliaus Astiko atidavė Gabrieliui Bekešui.
-- susijęs iš Breslauja: Jaunučiui paskirtam žemių daliniui, be Vilniaus, priklausė Ašmena, Ukmergė ir Breslauja.
 - susijęs iš Trakų apskritis: J. Misiūnas su maždaug 200 partizanų daliniu nuolat keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš Ukmergės apskritis: 1944 m. Juozas Misiūnas su maždaug 200 partizanų daliniu keliavo po Ukmergės ir Trakų apskritis ir kovėsi su sovietais.
 - susijęs iš [[objektai/asmenys/D. Kuruta.md#claim-t-40078|D. Kuruta]]: Mūšiui pasibaigus, generolas leitenantas D. Kuruta įsakė nutraukti sukilėlių persekiojimą.
@@ -286,6 +277,7 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
 - susijęs iš [[objektai/grupes/Didžiosios kovos apygarda (DKA).md#claim-t-40874|Didžiosios kovos apygarda (DKA)]]: Junginys, rugsėjį pavadintas Didžiosios kovos rinktine, vėliau tapo Didžiosios kovos apygarda.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178823|Kryžiuočių ordinas]]: 1384 m. Ordino antpuoliai Lietuvoje siekdavo Kernavę, tačiau pralaimėjimas prie Vilniaus ir Ukmergės apsaugojo sostinę.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179408|Livonijos ordinas]]: Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
 - susijęs iš [[objektai/grupes/Panevėžio rinktinė.md#claim-t-38893|Panevėžio rinktinė]]: Kariuomenės vadovybė sustabdė puolimą, nes Ukmergės rinktinė buvo išsiveržusi į priekį, o Panevėžio rinktinė atsiliko apie 20 km.
 - susijęs iš [[objektai/grupes/Stepono Batoro vengrų kariuomenė.md#claim-t-86827|Stepono Batoro vengrų kariuomenė]]: Žygyje prieš Maskvos kunigaikštį ties Velikije Lūki Gabrielis Bekešas vadovavo Stepono Batoro vengrų kariuomenės riteriams.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171402|Totoriai]]: Švitrigaila į Lietuvą kreipė įvairias totorių ir rusų ordas, siekdamas atimti valdžią iš Žygimanto.
@@ -721,14 +713,3 @@ Tuo tarpu jų livoniškė šaka, apsidorojusi su arkivyskupu ir rygiečiais, dau
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Ukmergė
-- [[objektai/asmenys/Astikas]] buvo_valdovas Ukmergė
-- [[objektai/asmenys/Jurgis (Maskvos kunigaikštis)]] buvo_valdovas Ukmergė
-- [[objektai/grupes/Livonijos ordinas]] susije_su Ukmergė
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] buvo_valdovas Ukmergė
-- [[objektai/vietos/Breslauja]] priklause Ukmergė
-- Ukmergė priklause [[objektai/vietos/Breslauja]]
-- Ukmergė priklause [[objektai/asmenys/Gediminas]]
-- Ukmergė priklause [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]]

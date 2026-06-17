@@ -31,10 +31,10 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 - t-001
   global_id: t-35334
   teiginys: 'Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.'
-  susije_objektai: 'territory: Maskva; territory: Odojevas; territory: Pskovas; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Maskva; [[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Odojevas; [[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Pskovas'
+  susije_objektai: 'territory: Maskva; mentioned_place: Maskva; mentioned_place: Odojevas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius II|Vosylius II]] valdė teritoriją Maskva'
   temporaliniai_duomenys: 'valdymo pradžia: po 1425 m.; valdymo pradžia: 1425 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius II valdė teritoriją Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius II valdė teritoriją Odojevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius II valdė teritoriją Pskovas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius II valdė teritoriją Maskva“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -84,5 +84,3 @@ Bet dar Minske jį sutiko duktė Sofija, Maskvos kunigaikštienė su nepilnameč
 
 ## Ryšiai
 - Vosylius II valde_teritorija [[objektai/vietos/Maskva]]
-- Vosylius II valde_teritorija [[objektai/vietos/Odojevas]]
-- Vosylius II valde_teritorija [[objektai/vietos/Pskovas]]

@@ -34,10 +34,9 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   global_id: t-79162
   teiginys: 'LDK valdovas Aleksandras vyriausiais kariuomenės vadais paskyrė etmoną Stanislovą Kišką ir dvaro maršalką Mykolą Glinskį.'
   sudarymo_pagrindimas: 'Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį.'
-  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]] buvo valdovas Smolenskas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1502 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Stanislovas Kiška buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1502 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata leidžia patikslinti Stanislovo Kiškos pareigas ir pašalinti trumpinį.'
   pagrindžia:
     - c-002
@@ -208,6 +207,3 @@ Stanislovas Kiška nebuvo labai gabus karvedys, bet jau turėjo tam tikros patir
   statusas: verified
   pagrindžia:
     - t-005
-
-## Ryšiai
-- Stanislovas Kiška buvo_valdovas [[objektai/vietos/Smolenskas]]

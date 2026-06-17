@@ -24,8 +24,8 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
   global_id: t-60199
   teiginys: 'Kilmingas sūduvis Ruseinis su visa šeimyna atvyko pas Baigos komtūrą ir netrukus leidosi pakrikštijamas.'
   sudarymo_pagrindimas: 'Perrašyta sklandžiau, pašalinant pažodinę neenciklopedinę formuluotę.'
-  susije_objektai: 'location: Baiga; location: Viena; mentioned_place: Baiga; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Ruseinis|Ruseinis]] keliavo į Baiga; [[objektai/asmenys/Ruseinis|Ruseinis]] keliavo į Viena'
+  susije_objektai: 'location: Baiga; mentioned_place: Baiga; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Ruseinis|Ruseinis]] keliavo į Baiga'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Medinis kryžius.md#claim-t-59693|Medinis kryžius]]: Po krikšto susirgęs sūduvis Ruseinis buvo liepęs padirbdinti medinį kryžių, stovėjusį jo kojūgalyje.
@@ -55,4 +55,3 @@ Dusburgietis teigia, kad apie vieno sūduvio atsivertimą ir nuostabų įvykį T
 
 ## Ryšiai
 - Ruseinis keliavo_i [[objektai/vietos/Baiga]]
-- Ruseinis keliavo_i [[objektai/vietos/Viena]]

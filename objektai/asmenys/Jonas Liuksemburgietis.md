@@ -31,10 +31,10 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
 - t-001
   global_id: t-30310
   teiginys: '1329 m. pradžioje Čekijos karalius Jonas Liuksemburgietis surengė pirmąjį žygį į pietvakarių Žemaičius.'
-  susije_objektai: 'territory: Aukaimis; territory: Gardinas; territory: Karšuva; territory: Prūsai; territory: Putvė; territory: Čekija; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_place: Aukaimis; mentioned_place: Gardinas; mentioned_place: Karšuva; mentioned_place: Prūsai; mentioned_place: Putvė; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Aukaimis; [[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Gardinas; [[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Karšuva; [[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Prūsai; [[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Putvė; [[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Čekija'
+  susije_objektai: 'territory: Čekija; mentioned_group: [[objektai/grupes/Prancūzai|Prancūzai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Guillaume de Machaut|Guillaume de Machaut]]; mentioned_place: Aukaimis; mentioned_place: Gardinas; mentioned_place: Karšuva; mentioned_place: Prūsai; mentioned_place: Putvė; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Jonas Liuksemburgietis|Jonas Liuksemburgietis]] buvo valdovas Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1329 m.; valdymo laikotarpis: 1357 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Aukaimis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Gardinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Karšuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Putvė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Liuksemburgietis buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/daiktai/Ietis.md#claim-t-186836|Ietis]]: 1329 m. Jonas Liuksemburgietis ir lietuvių didikas Margalis raiti susirėmė ietimis, o jas sulaužę ėmė kautis kalavijais.
@@ -59,9 +59,4 @@ Iš kitų puolimų yra išskirtinas 1329 pradžioje pirmasis Čekijos karaliaus 
     - t-001
 
 ## Ryšiai
-- Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Aukaimis]]
-- Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Gardinas]]
-- Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Karšuva]]
-- Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Prūsai]]
-- Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Putvė]]
 - Jonas Liuksemburgietis buvo_valdovas [[objektai/vietos/Čekija]]

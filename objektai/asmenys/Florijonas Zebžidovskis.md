@@ -22,8 +22,7 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys klaidingai priskiria veiksmus Florijonui; citata palaiko tik jam duotą įsakymą.'
-  susije_objektai: 'territory: Polockas; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Florijonas Zebžidovskis|Florijonas Zebžidovskis]] buvo valdovas Polockas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Polockas'
   pagrindžia:
     - c-001
 
@@ -47,6 +46,3 @@ Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus �
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Florijonas Zebžidovskis buvo_valdovas [[objektai/vietos/Polockas]]

@@ -31,10 +31,9 @@ periodo_grupes:
   global_id: t-18766
   teiginys: 'Kunigaikštis Albrechtas Prūsijoje priglobė 1542 m. iš Vilniaus emigravusį A. Kulvietį.'
   sudarymo_pagrindimas: 'Citata pagrindžia Albrechto veiksmą, o pradinis teiginys buvo apie Kulvietį ir tik netiesiogiai minėjo Albrechtą.'
-  susije_objektai: 'territory: Prūsija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Albrechtas|Albrechtas]] buvo valdovas Prūsija; [[objektai/asmenys/Albrechtas|Albrechtas]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: po 1525 m.; valdymo laikotarpis: 1525 m.; valdymo laikotarpis: 1542 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albrechtas buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Albrechtas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Abraomas Kulvietis|Abraomas Kulvietis]]; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: po 1525 m.; įvykio data: 1525 m.; įvykio data: 1542 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „after“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata pagrindžia Albrechto veiksmą, o pradinis teiginys buvo apie Kulvietį ir tik netiesiogiai minėjo Albrechtą.'
   pagrindžia:
     - c-001
@@ -83,7 +82,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Albrechtas buvo_valdovas [[objektai/vietos/Prūsija]]
-- Albrechtas buvo_valdovas [[objektai/vietos/Vilnius]]

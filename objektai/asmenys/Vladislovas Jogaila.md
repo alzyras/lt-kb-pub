@@ -103,7 +103,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173236
   teiginys: 'Pagal Vladislovo Jogailos potvarkį Vilniaus sargyba ir policija laikinai priklausė pilies tarnybai.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis ir paremtas citata.'
-  susije_objektai: 'owner: Krokuva; owner: Vilnius; mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Patrankos|Patrankos]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-004
 
@@ -121,8 +121,7 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   global_id: t-173238
   teiginys: 'Karalius Vladislovas ir karalienė Jadvyga prašė pripažinti Vilnių miestu, o Šv. Stanislovo bažnyčią - katedra.'
   sudarymo_pagrindimas: 'Citata palaiko prašymo faktą, pašalintas ilgas kontekstas.'
-  susije_objektai: 'territory: Poznanė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo valdovas Poznanė; [[objektai/asmenys/Vladislovas Jogaila|Vladislovas Jogaila]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Dobrogostas|Dobrogostas]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_person: [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Poznanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-006
 
@@ -796,7 +795,3 @@ Mažai težinoma mums patiems, o Europai visai negirdė­ ta, istorija, garsi ri
   statusas: verified
   pagrindžia:
     - t-021
-
-## Ryšiai
-- Vladislovas Jogaila buvo_valdovas [[objektai/vietos/Poznanė]]
-- Vladislovas Jogaila buvo_valdovas [[objektai/vietos/Vilnius]]

@@ -74,9 +74,9 @@ amziai:
   global_id: t-85889
   teiginys: 'Dievo Kūno koplyčios pajamas sudarė mokestis nuo įvairių mūrinių namų, o dalį tų namų valdė Vilniaus magistratas.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį.'
-  susije_objektai: 'territory: Lenkija; territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
+  susije_objektai: 'territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus magistratas|Vilniaus magistratas]]; mentioned_person: [[objektai/asmenys/Kūnas|Kūnas]]; mentioned_person: [[objektai/asmenys/Vladislovas IV|Vladislovas IV]]; mentioned_place: Lenkija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'valdymo pradžia: 1601 m.; valdymo pradžia: 1633 m.; valdymo pradžia: 1664 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kūnas valdė teritoriją Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Kūnas valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Kūnas valdė teritoriją Vilnius“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas nutrūkęs ir turi šaltinio fragmentų; perrašyta į vientisą sakinį.'
   pagrindžia:
     - c-001

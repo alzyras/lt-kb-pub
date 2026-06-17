@@ -29,10 +29,9 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   global_id: t-19661
   teiginys: 'Blaivybės brolijoms priklausė per 80 proc. vyskupijos gyventojų katalikų.'
   sudarymo_pagrindimas: 'Pašalinta neaiški laiko nuoroda ir OCR triukšmas.'
-  susije_objektai: 'owner: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
-  semantiniai_rysiai: '[[objektai/grupes/Blaivybės brolijos|Blaivybės brolijos]] priklausė [[objektai/grupes/Lietuviai|Lietuviai]]'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Motiejus Valančius|Motiejus Valančius]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1858 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Blaivybės brolijos priklausė Lietuviai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta neaiški laiko nuoroda ir OCR triukšmas.'
   pagrindžia:
     - c-001
@@ -56,6 +55,3 @@ Valančius, remdamasis kituose katalikiškuose kraštuose platinamomis blaivybė
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Blaivybės brolijos priklause [[objektai/grupes/Lietuviai]]

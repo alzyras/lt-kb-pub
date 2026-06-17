@@ -39,10 +39,9 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114002
   teiginys: '1569 m. spalio 4 d. Vilniaus vyskupas Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą.'
-  susije_objektai: 'object: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius'
-  temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiksliai perteikia citatoje pateiktą faktą.'
   pagrindžia:
     - c-013
@@ -106,8 +105,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114009
   teiginys: 'Valerijonas Protasevičius įsteigė neturtingiems studentams Valerijono bursą ir padovanojo jai tris mūrinius namus.'
   sudarymo_pagrindimas: 'Teiginys yra konkretus, gramatiškas ir paremtas citatos informacija.'
-  susije_objektai: 'object: Vilnius; object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius; [[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė [[objektai/zodynas/įpėdinis|įpėdinis]]'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 
@@ -156,10 +154,9 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114014
   teiginys: '1569 m. spalio 4 d. Valerijonas Protasevičius fundavo ir įsteigė įvairių mokslų viešąsias mokyklas.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Vilnius; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] pastatė Vilnius'
-  temporaliniai_duomenys: 'pastatymo data: 1569 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Valerijonas Protasevičius (vyskupas) pastatė Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įkūrimo data: 1569 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įkūrimo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-013
@@ -198,8 +195,7 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   global_id: t-114018
   teiginys: 'Valerijonas Protasevičius fundavo ir aprūpino jėzuitų kolegiją, kurią karalius pakėlė iki universiteto laipsnio.'
   sudarymo_pagrindimas: 'Pradinis teiginys triukšmingas; perrašyta į glaustą sakinį apie asmens veiksmą.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Valerijonas Protasevičius|Valerijonas Protasevičius]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/įpėdinis|įpėdinis]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-005
 - susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113983|Steponas Batoras]]: 1579 m. balandžio 1 d. Steponas Batoras parėmė vyskupo Valerijono Protasevičiaus sumanymą ir pastangas dėl Vilniaus universiteto.
@@ -564,8 +560,3 @@ Valerijonas Protasevičius aprašomas kaip Vilniaus vyskupas, kurio kvietimu 156
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- Valerijonas Protasevičius (vyskupas) buvo_valdovas [[objektai/vietos/Vilnius]]
-- Valerijonas Protasevičius (vyskupas) pastate [[objektai/vietos/Vilnius]]
-- Valerijonas Protasevičius (vyskupas) pastate [[objektai/zodynas/įpėdinis]]

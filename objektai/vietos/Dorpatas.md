@@ -28,10 +28,10 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 - t-001
   global_id: t-36197
   teiginys: 'Dorpatas priklausė Hanzai ir palaikė santykius su Vytautu, kurių nenorėta gadinti dėl prekybos interesų šiaurėje.'
-  susije_objektai: 'owner: [[objektai/grupes/Hanza|Hanza]]; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
-  semantiniai_rysiai: 'Dorpatas priklausė [[objektai/grupes/Hanza|Hanza]]; Dorpatas priklausė [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  susije_objektai: 'owner: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Hanza|Hanza]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]'
+  semantiniai_rysiai: 'Dorpatas priklausė [[objektai/grupes/Hanza|Hanza]]'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1422 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Dorpatas priklausė Vokiečiai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dorpatas priklausė Hanza“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -210,4 +210,3 @@ Naugardas, Dorpatas, Psko­ vas, Ryga, Dancigas, Krokuva ir k. Bet ši atsisakė
 
 ## Ryšiai
 - Dorpatas priklause [[objektai/grupes/Hanza]]
-- Dorpatas priklause [[objektai/grupes/Vokiečiai]]

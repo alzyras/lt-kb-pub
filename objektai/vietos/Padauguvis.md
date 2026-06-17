@@ -55,7 +55,6 @@ kai į Padauguvio kraštus liovėsi lankytis skandinavai, čia pradėjo lankytis
   temporalinis_llm_pakomentavimas: 'Pašalinta kontekstinė pradžia, teiginys sutrumpintas ir sugramatintas.'
   pagrindžia:
     - c-002
-- susijęs iš Padauguvio Sėla: Užėmę Padauguvio Sėlą tarp Dysnos ir Egluonos, lietuviai persikėlė į dešinįjį Dauguvos krantą ir gyveno Daugpilio apylinkėje.
 - susijęs iš [[objektai/asmenys/Traidenis.md#claim-t-90052|Traidenis (valdovas, XIII a.)]]: 1272 m. Traidenis pasiuntė gardiniečius prie Vakarų Bugo ir užėmė Drohičiną dabartinėje Rytų Lenkijoje.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175538|Kalavijuočių ordinas]]: Kalavijuočiai atsikraustė į Padauguvį, o kryžiuočiai į Pavyslį.
 - susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175543|Kalavijuočių ordinas]]: Kalavijuočių ordinas pirmiausia ėmė stiprintis prie Dauguvos krantų.

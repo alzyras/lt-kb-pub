@@ -66,8 +66,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi neaiškų įvardį, todėl perrašytas be nepagrįstų vardų.'
   pagrindžia:
     - c-001
-- susijęs iš Klaipėda: Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.
-- susijęs iš Merkinė: Vytautas ir Jogaila keliavo Nemunu iš Merkinės į Kauną, o vėliau pasiekė Aukokalnį prie Betygalos.
 - susijęs iš [[objektai/asmenys/Benediktas Makra.md#claim-t-184370|Benediktas Makra]]: 1413 m. imperatoriaus Zigmanto arbitras Benediktas Makra apvažiavo ginčijamas sienas.
 - susijęs iš [[objektai/asmenys/Benediktas Makras.md#claim-t-93183|Benediktas Makras]]: Benediktas Makras buvo pasiųstas į Lietuvą ištirti Žemaitijos sienų ir išspręsti Vytauto ginčo su Ordinu.
 - susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184269|Jogaila (kunigaikštis, XIV–XV a.)]]: Po Torno taikos Jogaila davė Vytautui lėno teisėmis vakarinę Podolijos dalį su Kamieniecu.
@@ -163,7 +161,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Torno
-- [[objektai/vietos/Klaipėda]] priklause Torno

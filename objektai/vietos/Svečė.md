@@ -45,7 +45,6 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Fridrichas|Fridrichas]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Elbingas; mentioned_place: Kulmas'
   pagrindžia:
     - c-001
-- susijęs iš Višogrudas: Magistras Poponas su savo ir kunigaikščio Kazimiero kariuomene atvyko prie Višogrudo pilies ir ten įsirengė stovyklą.
 - susijęs iš [[objektai/asmenys/Fridrichas iš Veidos.md#claim-t-60278|Fridrichas iš Veidos]]: Fridrichas iš Veidos susigrūmė su Sventopelko kariaunos vadu; šis perdūrė jam žandą ietimi, tačiau Fridrichas jį nukovė.
 - susijęs iš [[objektai/asmenys/Poponas iš Osternos.md#claim-t-59948|Poponas iš Osternos]]: Magistras Poponas pasiuntė žvalgus stebėti Sventopelko ir su savo bei kunigaikščio Kazimiero kariuomene įsikūrė prie Višogrudo.
 - susijęs iš [[objektai/asmenys/Samboras (Sventopelko sūnus).md#claim-t-60062|Samboras (Sventopelko sūnus)]]: Broliai Sartovicų pilį su visa kuo perdavė savo bičiuliui Samborui, Sventopelko sūnui.
@@ -120,6 +119,3 @@ Dusburgietis teigia, kad kadangi klastinga piktybė ir piktas vylius neša džia
   pagrindžia:
     - t-005
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Sventopelkas]] keliavo_i Svečė

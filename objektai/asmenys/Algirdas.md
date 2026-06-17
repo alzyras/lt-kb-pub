@@ -41,10 +41,9 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
 - t-001
   global_id: t-05157
   teiginys: 'Algirdas buvo vienas paskutinių pagoniškų Lietuvos valdovų ir 1377 m. palaidotas pagoniškais papročiais.'
-  susije_objektai: 'location: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] mirė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Kristijonas|Kristijonas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'mirties data: iki 1385 m.; mirties data: 1259 m.; mirties data: 1377 m.; mirties data: 1382 m.; mirties data: 1385 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) mirė Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip mirties data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „mirties data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-022
 
@@ -106,8 +105,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   global_id: t-10666
   teiginys: 'Algirdas valdė Krėvą ir Vitebską.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Brasta; territory: Gardinas; territory: Kernavė; territory: Krėva; territory: Naugardukas; territory: Turovas; territory: Vitebskas; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Naugardukas; mentioned_place: Turovas; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Brasta; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Gardinas; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Kernavė; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Krėva; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Naugardukas; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Turovas; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Vitebskas'
+  susije_objektai: 'territory: Krėva; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Brasta; mentioned_place: Gardinas; mentioned_place: Kernavė; mentioned_place: Krėva; mentioned_place: Naugardukas; mentioned_place: Turovas; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Krėva'
   pagrindžia:
     - c-013
 
@@ -275,10 +274,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   global_id: t-176291
   teiginys: 'Lietuvos valdovas Algirdas prie Mėlynųjų vandenų vedė Lietuvos kariuomenę, kuri sutriuškino su lietuviais konkuravusius mongolus.'
   sudarymo_pagrindimas: 'Pašalintas puslapio triukšmas, sakinys suformuluotas taisyklingai.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Tverė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Lietuva; [[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Maskva; [[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Tverė'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Mongolai|Mongolai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Tverė'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1328 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Algirdas (Lietuvos valdovas) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas puslapio triukšmas, sakinys suformuluotas taisyklingai.'
   pagrindžia:
     - c-011
@@ -300,8 +299,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   global_id: t-176293
   teiginys: 'Algirdas valdė Vitebską ir Krėvą, o dar Gediminui gyvam esant išgarsėjo mūšiuose su Mazovija, Rusia ir Prūsijos ordinu.'
   sudarymo_pagrindimas: 'Citata palaiko faktą, bet pradinis teiginys yra nutrūkęs ir su OCR klaidomis.'
-  susije_objektai: 'territory: Lietuva; territory: Prūsija; territory: Rusia; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Lietuva; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Prūsija; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Rusia; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Vitebskas'
+  susije_objektai: 'territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Lietuva; mentioned_place: Prūsija; mentioned_place: Rusia; mentioned_place: Vitebskas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Vitebskas'
   pagrindžia:
     - c-016
 
@@ -367,8 +366,8 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   global_id: t-176303
   teiginys: 'Algirdas valdė Lietuvą Vilniuje, o Kęstutis tuo pat metu valdė Trakuose.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą, bet teiginį reikia pataisyti į glaustą enciklopedinį sakinį.'
-  susije_objektai: 'territory: Lietuva; territory: Trakai; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_place: Lietuva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Lietuva; [[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Trakai'
+  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/zodynas/diarchija|diarchija]]; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] valdė teritoriją Lietuva'
   pagrindžia:
     - c-014
 
@@ -377,7 +376,7 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   global_id: t-176304
   teiginys: 'Algirdas kartais gyvendavo Paneriuose, kurie Balińskio laikais priklausė Vilniaus kapitulai.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų „šiandien“ ir tiksliai perteikti šaltinio laiko perspektyvą.'
-  susije_objektai: 'owner: Vilnius; owner: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Julijona|Julijona]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-007
 
@@ -554,22 +553,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata apie Algirdą pateikia tik genealoginę nuorodą, todėl tinka siauras, atribucinis teiginys.'
-  susije_objektai: 'territory: Lietuva; territory: Sluckas; mentioned_person: [[objektai/asmenys/Simonas Olelkaitis|Simonas Olelkaitis]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
-  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Lietuva; [[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Sluckas'
+  susije_objektai: 'territory: Sluckas; mentioned_person: [[objektai/asmenys/Simonas Olelkaitis|Simonas Olelkaitis]]; mentioned_place: Lietuva; mentioned_place: Sluckas'
+  semantiniai_rysiai: '[[objektai/asmenys/Algirdas|Algirdas]] buvo valdovas Sluckas'
   pagrindžia:
     - c-049
-- susijęs iš [[objektai/asmenys/Dmitrijus Doniškis.md#claim-t-87652|Dmitrijus Doniškis]]: Dmitrijus Doniškis kovojo prieš totorius kartu su Andriumi, kuris daug prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171393|Totoriai]]: Andrius kartu su Dmitrijumi Doniškiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke 1380 m. rugsėjo 8 d.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171422|Totoriai]]: Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171429|Totoriai]]: Andrius kartu su Dmitrijumi Doniečiu kovojo prieš totorius ir prisidėjo prie pergalės Kulikovo lauke.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96100|Gediminaičių dinastija]]: Kęstutis turėjo didesnes teises negu kiti Gediminaičiai, kurie savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96105|Gediminaičių dinastija]]: Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Gediminaičių dinastija.md#claim-t-96116|Gediminaičių dinastija]]: Kiti Gediminaičiai savo žemėse priklausė nuo didžiojo kunigaikščio valios.
-- susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171342|Karijotaičiai]]: Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.
-- susijęs iš Dniepras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
-- susijęs iš Paneriai: Algirdas kartais gyvendavo Paneriuose, kurie Balińskio aprašytu metu priklausė Vilniaus kapitulai.
 - susijęs iš [[objektai/asmenys/Aleksandras Karijotaitis.md#claim-t-186174|Aleksandras Karijotaitis]]: Aleksandras Karijotaitis su Algirdu nuniokojo daug Prūsijos vietų, sugriovė Tilžę ir Ragainę bei išsivarė 800 belaisvių.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Aleksandras.md#claim-t-184656|Aleksandras]]: Po Jurgio ir Teodoro pasitraukimo visa Podolė liko kunigaikščių Aleksandro ir Konstantino valdžioje.
@@ -2125,57 +2112,10 @@ Algirdas šiame šaltinyje rodomas kaip Lietuvos valdovas, valdęs rytines žeme
     - t-053
 
 ## Ryšiai
-- Algirdas (Lietuvos valdovas) mire [[objektai/vietos/Lietuva]]
-- Algirdas (Lietuvos valdovas) kariavo_pries [[objektai/grupes/Totoriai]]
-- [[objektai/asmenys/Dmitrijus Doniškis]] kariavo_pries Algirdas (Lietuvos valdovas)
-- [[objektai/grupes/Totoriai]] kariavo_pries Algirdas (Lietuvos valdovas)
-- Algirdas (Lietuvos valdovas) dalyvavo_musyje [[objektai/ivykiai/Mėlynųjų Vandenų mūšis (1362 m.)]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Brasta]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Brianskas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Gardinas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Kernavė]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Kijevas]]
 - Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Krėva]]
 - Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Lietuva]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Naugardukas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Pinskas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Podolė]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Polesė]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Polockas]]
 - Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Pripetė]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Prūsija]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Rusia]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Trakai]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Turovas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Ukmergė]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Vilnius]]
 - Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Vitebskas]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Vladimiras]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Volinija]]
-- Algirdas (Lietuvos valdovas) valde_teritorija [[objektai/vietos/Zaslavlis]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Antakalnis]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Baltija]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Belzas]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Brasta]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Konstantinopolis]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Livonija]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Maskva]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Možaiskas]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Polockas]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Pskovas]]
 - Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Sluckas]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Tverė]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Vilnius]]
 - Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Vitebskas]]
-- Algirdas (Lietuvos valdovas) buvo_valdovas [[objektai/vietos/Volynė]]
-- Algirdas (Lietuvos valdovas) pastate [[objektai/vietos/Desna]]
-- Algirdas (Lietuvos valdovas) pastate [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Dniepras]] priklause Algirdas (Lietuvos valdovas)
-- [[objektai/vietos/Gardinas]] priklause Algirdas (Lietuvos valdovas)
-- [[objektai/grupes/Gediminaičių dinastija]] priklause Algirdas (Lietuvos valdovas)
-- [[objektai/grupes/Karijotaičiai]] priklause Algirdas (Lietuvos valdovas)
-- [[objektai/vietos/Kijevas]] priklause Algirdas (Lietuvos valdovas)
-- [[objektai/vietos/Paneriai]] priklause Algirdas (Lietuvos valdovas)

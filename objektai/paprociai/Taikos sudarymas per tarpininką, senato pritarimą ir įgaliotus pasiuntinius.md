@@ -37,7 +37,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiau susieti tarpininką, įgaliotus pasiuntinius ir didikų pritarimą.'
-  susije_objektai: 'territory: Maskva; territory: Riazanė; territory: Rževas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
 

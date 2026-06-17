@@ -22,8 +22,7 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
 - t-001
   global_id: t-35615
   teiginys: 'Krokuvos profesoriai rašte įrodinėjo, kad Romos karalius Zigmantas neturi teisės suteikti karūnos.'
-  susije_objektai: 'territory: Krokuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Krokuva'
-  semantiniai_rysiai: '[[objektai/grupes/Krokuvos profesoriai|Krokuvos profesoriai]] susiję su Krokuva'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Krokuva'
   pagrindžia:
     - c-002
 
@@ -74,6 +73,3 @@ Pirmieji tuo klausimu susirūpino Krokuvos profesoriai, iš­ leisdami raštą, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Krokuvos profesoriai susije_su [[objektai/vietos/Krokuva]]

@@ -87,13 +87,6 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Baltija; mentioned_place: Lenkija; mentioned_place: Malburgas; mentioned_place: Prūsai; mentioned_place: Torunė; mentioned_place: Čekija'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/grupes/Notangai.md#claim-t-78399|Notangai]]: Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.
-- susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš [[objektai/zodynas/šeimyna familia domus.md#claim-t-58820|šeimyna familia domus]]: Kilmingieji ir vasalai iš Vokietijos kraštų į Prūsiją atvyko su namais, šeimynomis ir giminėmis.
 - susijęs iš [[objektai/asmenys/Andrius Kopernikas.md#claim-t-87483|Andrius Kopernikas]]: Andrius Kopernikas 1514 m. buvo Varmės kanauninkas, kuriam rašė Lenkijos karalius Žygimantas.
 - susijęs iš [[objektai/asmenys/Anzelmas.md#claim-t-60084|Anzelmas (vyskupas, XIII a.)]]: Varmės vyskupas Anzelmas pastatė Brunsbergo pilį ir miestą Serijos upės žemupio saloje.
 - susijęs iš [[objektai/asmenys/Eberhardas (Varmės vyskupas).md#claim-t-82281|Eberhardas (Varmės vyskupas)]]: Varmės vyskupas Eberhardas Elblionge surengė pasitarimą dėl taikos sutarties ir su kitais vyskupais paskelbė ją pražūtinga Prūsijai.
@@ -121,6 +114,7 @@ amziai:
 - susijęs iš [[objektai/autoriai/Boetticher A.md#claim-t-64570|Boetticher A]]: Boetticherio darbas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir didelį papilį.
 - susijęs iš [[objektai/autoriai/Jordanas.md#claim-t-62623|Jordanas]]: Jordanas buvo gotų istorikas.
 - susijęs iš [[objektai/autoriai/Тоерреn M.md#claim-t-60666|Тоерреn M]]: M. Toeppenas cituojamas teiginiui, kad kryžiuočiai Baigoje įsitvirtino, pastatė mūrinę pilį ir rytinėje pusėje įrengė didelį papilį.
+- susijęs iš [[objektai/grupes/Apaštalų Sostas.md#claim-t-172076|Apaštalų Sostas]]: Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96080|Baltai]]: Kronikoje vaizduojamu laikotarpiu prūsai, lietuviai ir latviai priskiriami baltams, siejamiems kalbos, kultūros, tradicijų, senosios religijos ir teritorijos bendrumo.
 - susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178957|Kryžiuočių ordinas]]: Teutonų ordinas XIII a. pavergė prūsus, slopino lietuvių pagonybę ir Baltijos pakrantėse daugino miestus bei pilis.
@@ -349,10 +343,3 @@ amziai:
   pagrindžia:
     - t-001
     - t-004
-
-## Ryšiai
-- [[objektai/grupes/Notangai]] gyveno Varmė
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Varmė
-- [[objektai/asmenys/Andrius Kopernikas]] buvo_valdovas Varmė
-- [[objektai/grupes/Apaštalų Sostas]] susije_su Varmė
-- [[objektai/asmenys/Otokaras II]] buvo_valdovas Varmė

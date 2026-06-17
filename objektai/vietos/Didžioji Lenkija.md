@@ -97,7 +97,7 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Iš citatos konteksto galima aiškiai įvardyti karalių Jogailą.'
-  susije_objektai: 'location: Lenkija; location: Pomeranija; location: Poznanė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Poznanė'
+  susije_objektai: 'location: Lenkija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Poznanė'
   pagrindžia:
     - c-006
 - susijęs iš [[objektai/daiktai/Didysis Lietuvos antspaudas.md#claim-t-19514|Didysis Lietuvos antspaudas]]: Po Liublino unijos LDK išlaikė atskirą iždą, kariuomenę, teismus ir Trečiojo Lietuvos Statuto įformintą teisinę sistemą.

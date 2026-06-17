@@ -57,7 +57,7 @@ Nenurodyta
   teiginys: 'Vasario 8-osios rytą Kėdainių gynėjai sudarė 17 žmonių žvalgybos patrulį, kuriam vadovavo V. Vainauskas, o padėjėju paskirtas P. Lukšys.'
   sudarymo_pagrindimas: 'Perrašyta tiksliau pagal citatos formuluotę.'
   susije_objektai: 'event: [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; mentioned_group: [[objektai/grupes/Rytas|Rytas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Kėdainiai'
-  semantiniai_rysiai: '[[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]; [[objektai/grupes/Vokiečiai|Vokiečiai]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
+  semantiniai_rysiai: '[[objektai/grupes/Rytas|Rytas]] dalyvavo mūšyje [[objektai/ivykiai/Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)|Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)]]'
   pagrindžia:
     - c-003
 
@@ -250,4 +250,3 @@ Nenurodyta
 
 ## Ryšiai
 - [[objektai/grupes/Rytas]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)
-- [[objektai/grupes/Vokiečiai]] dalyvavo_musyje Kėdainių-Šėtos kautynės (1919 m. vasario 7-10 d.)

@@ -57,8 +57,6 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Pisimantas|Pisimantas]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Kaidanovas; mentioned_place: Mozyrius; mentioned_place: Starodubas; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad po Skirmanto mirties Treniota sėdo valdyti Naugarduką ir valdė šį miestą daugelį metų.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
 - susijęs iš [[objektai/asmenys/Skirmantas.md#claim-t-186016|Skirmantas]]: Skirmantas iš priešo rankų atėmė Mozyrių, Starodubą, Černigovą, Karačevą ir beveik visą Seversko žemę.
 - susijęs iš [[objektai/grupes/Černigovo kunigaikštystė.md#claim-t-187777|Černigovo kunigaikštystė]]: Černigovas, Starodubas ir Karačevas buvo suskilusios Černigovo kunigaikštystės smulkesnių valdų sostinės.
 - susijęs iš [[objektai/ivykiai/Skirmanto pergalė prie Kaidanovo.md#claim-t-187489|Skirmanto pergalė prie Kaidanovo]]: Lietuvos metraštis teigia, kad Skirmantas prie Kaidanovo nugalėjo chaną Balaklajų ir nukovė jį mūšyje.
@@ -106,7 +104,3 @@ Liubartas sėdo valdyti Karačevą. Karačevas šiame gabale siejamas su atskiru
   pagrindžia:
     - t-001
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Liubartas]] valde_teritorija Karačevas
-- [[objektai/asmenys/Skirmantas]] buvo_valdovas Karačevas

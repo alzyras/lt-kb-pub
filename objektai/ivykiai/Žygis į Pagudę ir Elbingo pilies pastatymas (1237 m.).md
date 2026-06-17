@@ -47,7 +47,7 @@ Nenurodyta
   teiginys: '1237 m. magistras su broliais ir maldininkais atvyko į Pagudę ir pastatė Elbingo pilį saloje prie Elbingo upės žiočių.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir paliktas konkretus šaltinio palaikomas faktas.'
-  susije_objektai: 'location: Elbingas; location: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
+  susije_objektai: 'location: Pagudė; mentioned_group: [[objektai/grupes/Pagudėnai|Pagudėnai]]; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Elbingas; mentioned_place: Pagudė'
   temporaliniai_duomenys: 'pastatymo data: 1237 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas boilerplate ir paliktas konkretus šaltinio palaikomas faktas.'

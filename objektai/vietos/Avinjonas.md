@@ -50,7 +50,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Egidijus.md#claim-t-184059|Egidijus (arkivyskupas, XIV a.)]]: Egidijus mirė Avinjone 1316 m. sausio 1 d. ir buvo palaidotas Paryžiuje su savo ordino broliais.
 - susijęs iš [[objektai/asmenys/Baltramiejus (vyskupas).md#claim-t-30210|Baltramiejus (vyskupas)]]: Vyskupas Baltramiejus 1324 m. vasarop atvyko į Rygą kaip vienas iš dviejų Avinjono legatų.
 - susijęs iš [[objektai/asmenys/Bernardas (abatas).md#claim-t-30211|Bernardas (abatas)]]: Abatas Bernardas 1324 m. vasarop su vyskupu Baltramiejumi atvyko iš Avinjono į Rygą kaip popiežiaus legatas.
 - susijęs iš [[objektai/asmenys/Karolis Tryrietis.md#claim-t-87435|Karolis Tryrietis]]: Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.
@@ -116,7 +115,6 @@ Jau 1349 m., norėdamas laimėti Avignono palankumą ir drauge susidaryti patoge
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Egidijus|Egidijus (arkivyskupas, XIV a.)]] mire Avinjonas
 - [[objektai/asmenys/Baltramiejus (vyskupas)]] keliavo_i Avinjonas
 - [[objektai/asmenys/Bernardas (abatas)]] keliavo_i Avinjonas
 - [[objektai/asmenys/Karolis Tryrietis]] keliavo_i Avinjonas

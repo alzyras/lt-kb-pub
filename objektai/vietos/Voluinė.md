@@ -43,7 +43,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112336
   teiginys: 'Užėmęs Rusios kunigaikščių tėvonijas Voluinėje, valdovas įsakė Vilnelės ir Vilijos santakoje pastatyti mūrinę pilį.'
   sudarymo_pagrindimas: 'Perrašyta į sklandesnį sakinį, nekeičiant citatos patvirtintų faktų.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Romainiai; territory: Trakai; territory: Viena; territory: Vilija; territory: Vilnelė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romainiai; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romainiai; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilija; mentioned_place: Vilnelė; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -101,7 +101,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112343
   teiginys: 'Lietuvos kunigaikštis užėmė įvairias Rusios kunigaikščių tėvonijas Voluinėje ir savo užkariavimais nusigavo net už Kijevo.'
   sudarymo_pagrindimas: 'Citata pagrindžia faktą apie užkariavimus Voluinėje, pašalintas puslapio triukšmas.'
-  susije_objektai: 'territory: Kijevas; territory: Lenkija; territory: Lietuva; territory: Romainiai; territory: Trakai; territory: Viena; territory: Vilnelė; territory: Vilnius; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romainiai; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Kijevas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Romainiai; mentioned_place: Trakai; mentioned_place: Viena; mentioned_place: Vilnelė; mentioned_place: Vilnius'
   pagrindžia:
     - c-012
 
@@ -148,8 +148,7 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
 - t-012
   global_id: t-112348
   teiginys: 'Kazimiero laikais Voluinė priklausė tankiau gyvenamoms Lietuvos Didžiosios Kunigaikštijos sritims.'
-  susije_objektai: 'owner: Braclavas; owner: Lietuva; owner: Podolė; mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Podolė'
-  semantiniai_rysiai: 'Voluinė priklausė Braclavas; Voluinė priklausė Lietuva; Voluinė priklausė Podolė'
+  susije_objektai: 'mentioned_place: Braclavas; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-003
 
@@ -178,9 +177,9 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   global_id: t-112352
   teiginys: 'Ginčijamą Voluinę valdė Švitrigaila, o Podolę valdė lenkai.'
   sudarymo_pagrindimas: 'Reikia pašalinti neaiškų laiko įvardį ir pataisyti rašybą.'
-  susije_objektai: 'territory: Lietuva; territory: Podolė; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Podolė'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1413 m.; valdymo laikotarpis: 1452 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švitrigaila valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švitrigaila valdė teritoriją Podolė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Podolė'
+  temporaliniai_duomenys: 'įvykio data: 1413 m.; įvykio data: 1452 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pašalinti neaiškų laiko įvardį ir pataisyti rašybą.'
   pagrindžia:
     - c-002
@@ -269,12 +268,6 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   temporalinis_llm_pakomentavimas: 'Pridėta citatoje nurodyta data, kad faktas būtų tikslesnis.'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-93461|Liubartas]]: Prieš Gedimino mirtį Liubartas buvo vedęs Voluinės kunigaikštytę ir valdė dalį Voluinės.
-- susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176439|Jaunutis (valdovas, XIV a.)]]: Jaunutis gyveno prie tėvų Vilniuje, o po Gedimino mirties tapo Vilniaus ir gretimų sričių valdovu.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
 - susijęs iš [[objektai/asmenys/Boleslovas.md#claim-t-89676|Boleslovas]]: Boleslovas kartu su Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordinui Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/F. Rolandas.md#claim-t-80732|F. Rolandas]]: Priešo šaulių ir artilerijos ugnis privertė F. Rolando pajėgas pasukti Neries link ir susikauti su rusų pėstininkais.
 - susijęs iš [[objektai/asmenys/Gediminas.md#claim-t-176401|Gediminas]]: Vytenio ir Gedimino laikais prie Lietuvos buvo prijungta Baltoji Rusia ir Voluinė.
@@ -749,14 +742,3 @@ Voluinė šiame šaltinyje iškyla kaip Vytautui atitekusi ir su Lenkija ginčyt
   statusas: verified
   pagrindžia:
     - t-011
-
-## Ryšiai
-- [[objektai/asmenys/Liubartas]] valde_teritorija Voluinė
-- [[objektai/asmenys/Jaunutis|Jaunutis (valdovas, XIV a.)]] gyveno Voluinė
-- [[objektai/vietos/Gardinas]] priklause Voluinė
-- [[objektai/vietos/Kaunas]] priklause Voluinė
-- [[objektai/vietos/Lyda]] priklause Voluinė
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Voluinė
-- Voluinė priklause [[objektai/vietos/Braclavas]]
-- Voluinė priklause [[objektai/vietos/Lietuva]]
-- Voluinė priklause [[objektai/vietos/Podolė]]

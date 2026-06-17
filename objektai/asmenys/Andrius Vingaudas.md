@@ -22,8 +22,7 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Sakinys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'territory: Dauguva; territory: Lietuva; territory: Trubčevskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Trubčevskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Andrius Vingaudas|Andrius Vingaudas]] buvo valdovas Dauguva; [[objektai/asmenys/Andrius Vingaudas|Andrius Vingaudas]] buvo valdovas Lietuva; [[objektai/asmenys/Andrius Vingaudas|Andrius Vingaudas]] buvo valdovas Trubčevskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_place: Dauguva; mentioned_place: Lietuva; mentioned_place: Trubčevskas'
   pagrindžia:
     - c-001
 
@@ -122,8 +121,3 @@ Andrius Vingaudas, Trubčevsko kunigaikštis ir Jogailos brolis, persikėlė per
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Dauguva]]
-- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Lietuva]]
-- Andrius Vingaudas buvo_valdovas [[objektai/vietos/Trubčevskas]]

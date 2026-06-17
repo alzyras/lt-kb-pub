@@ -44,8 +44,7 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   global_id: t-60146
   teiginys: 'Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti aiškesnį teiginį apie asmenį, išlaikant šaltinio priskyrimą.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; counterparty: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Prūsija'
-  semantiniai_rysiai: '[[objektai/asmenys/Hugonas Butyras|Hugonas Butyras]] kariavo prieš [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; [[objektai/asmenys/Hugonas Butyras|Hugonas Butyras]] kariavo prieš [[objektai/grupes/Teutonai|Teutonai]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Dobrynės broliai|Dobrynės broliai]]; mentioned_group: [[objektai/grupes/Teutonai|Teutonai]]; mentioned_place: Dobrynė; mentioned_place: Prūsai; mentioned_place: Prūsija'
   pagrindžia:
     - c-002
 
@@ -84,7 +83,3 @@ Dusburgietis teigia, kad cezaris176, devyni broliai iš Švedijos, vardu Gamptai
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Hugonas Butyras kariavo_pries [[objektai/grupes/Dobrynės broliai]]
-- Hugonas Butyras kariavo_pries [[objektai/grupes/Teutonai]]

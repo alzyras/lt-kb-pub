@@ -70,8 +70,6 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   susije_objektai: 'mentioned_place: Donas; mentioned_place: Maskva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
-- susijęs iš [[objektai/asmenys/Vosylius.md#claim-t-51192|Vosylius]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius valdė Didžiąją Maskvos kunigaikštiją.
 - susijęs iš [[objektai/asmenys/Chudandachas.md#claim-t-34713|Chudandachas]]: Chudandacho vadovauti Užvolgio totoriai 1424 m. užpuolė Riazanės ir Odojevo kunigaikščius, bet buvo sumušti Vytauto kariuomenės.
 - susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35334|Vosylius II]]: Nuo 1425 m. Vytauto globojamas jo anūkas Vosylius II valdė Didžiąją Maskvos kunigaikštiją.
 - susijęs iš [[objektai/asmenys/Vosylius II.md#claim-t-35335|Vosylius II]]: Vosylius II, Vytauto anūkas ir didysis Maskvos kunigaikštis, buvo pakviestas į iškilmes kartu su kitais valdovais ir didikais.
@@ -147,7 +145,3 @@ Ten jis žygiavo, norėdamas suvaldyti ne­ paklusnius jam Okos ir Dono aukštup
   statusas: verified
   pagrindžia:
     - t-004
-
-## Ryšiai
-- [[objektai/asmenys/Vosylius]] valde_teritorija Odojevas
-- [[objektai/asmenys/Vosylius II]] valde_teritorija Odojevas

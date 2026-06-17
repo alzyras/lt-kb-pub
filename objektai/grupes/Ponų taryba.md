@@ -42,10 +42,9 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   global_id: t-72608
   teiginys: 'Didysis kunigaikštis pasižadėjo be ponų tarybos patarimo nebedalyti valstybinių vietų.'
   sudarymo_pagrindimas: 'Įvardytas veikėjas ir pataisyta sakinio forma.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Ponų taryba|Ponų taryba]] susiję su Lenkija; [[objektai/grupes/Ponų taryba|Ponų taryba]] susiję su Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   temporaliniai_duomenys: 'įvykio data: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ponų taryba (institucija) susiję su Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Ponų taryba (institucija) susiję su Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Įvardytas veikėjas ir pataisyta sakinio forma.'
   pagrindžia:
     - c-003
@@ -412,7 +411,3 @@ Lenkijoje prie karaliaus buvo ponų taryba, vadinama senatu, — panaši didžio
   statusas: verified
   pagrindžia:
     - t-014
-
-## Ryšiai
-- Ponų taryba (institucija) susije_su [[objektai/vietos/Lenkija]]
-- Ponų taryba (institucija) susije_su [[objektai/vietos/Lietuva]]

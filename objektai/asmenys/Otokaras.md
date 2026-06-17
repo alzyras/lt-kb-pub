@@ -23,8 +23,7 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   global_id: t-60399
   teiginys: 'Romos karalius Rudolfas kare nukovė Čekijos karalių Otokarą ir Austrijos kunigaikštystę atidavė savo sūnui Albrechtui.'
   sudarymo_pagrindimas: 'Teiginys yra gramatinis ir paremtas citata.'
-  susije_objektai: 'territory: Austrija; territory: Čekija; mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Austrija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Otokaras|Otokaras]] buvo valdovas Austrija; [[objektai/asmenys/Otokaras|Otokaras]] buvo valdovas Čekija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/Romos karalius|Romos karalius]]; mentioned_place: Austrija; mentioned_place: Čekija'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Otokaras (Čekijos karalius).md#claim-t-35259|Otokaras (Čekijos karalius)]]: Čekijos karalius Otokaras 1254 m. suteikė privilegijas, kurių pavyzdžiu remtasi Lietuvoje.
@@ -48,7 +47,3 @@ Dusburgietis teigia, kad apie Rudolfo, Romos karaliaus, pergalę prieš Otokarą
   pagrindžia:
     - t-001
     - t-002
-
-## Ryšiai
-- Otokaras buvo_valdovas [[objektai/vietos/Austrija]]
-- Otokaras buvo_valdovas [[objektai/vietos/Čekija]]

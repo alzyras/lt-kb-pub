@@ -23,7 +23,7 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   global_id: t-58466
   teiginys: 'Kunigaikštis ir broliai su kariuomene paėmė Partigalos pilį ir kuorą, juos sudegino, o žmones išsivedė į nelaisvę arba išžudė.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas ir padarytas gramatiškai užbaigtas.'
-  susije_objektai: 'territory: Baiga; territory: Barta; mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Pomandas|Pomandas]]; mentioned_place: Baiga; mentioned_place: Barta'
   pagrindžia:
     - c-002
 
@@ -43,7 +43,6 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   sudarymo_pagrindimas: 'Citata palaiko vietos vėlesnį vardą, lokalizaciją ir pilies kalno buvimą.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/zodynas/kuoras propugnaculum pilaitė.md#claim-t-58785|kuoras propugnaculum pilaitė]]: Braunšveigo kunigaikštis ir Ordino broliai paėmė Partigalos pilį bei kuorą, sudegino juos, o žmones išsivedė į nelaisvę arba išžudė.
 - susijęs iš [[objektai/asmenys/Pomandas.md#claim-t-60193|Pomandas]]: Pomandas iš Baigos pilies grįžo pas prusus, dėdamasis krikščionių priešu.
 - susijęs iš [[objektai/grupes/Gubučiai.md#claim-t-183882|Gubučiai]]: Varmės žemėje gyvenę Gubučiai sutelkė daug karių ir pastatė Partigalos pilį bei įtvirtinimą Skrando kalne.
 - susijęs iš [[objektai/ivykiai/Partigalos pilies ir Skrando kuoro pastatymas.md#claim-t-91917|Partigalos pilies ir Skrando kuoro pastatymas]]: Varmės galingieji Gubučiai sutelkė daug karių, pastatė Partigalos pilį ir Skrando kalne įrengė kuorą.
@@ -102,6 +101,3 @@ Dusburgietis teigia, kad apie Partigalos pilies ir Skrando kuoro pastatymą Varm
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Pomandas]] buvo_valdovas Partigala

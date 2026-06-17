@@ -42,8 +42,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
 - t-002
   global_id: t-10757
   teiginys: 'Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.'
-  susije_objektai: 'object: Dauguva; object: Kaunas; object: Nemunas; object: Polockas; mentioned_place: Dauguva; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] pastatė Dauguva; [[objektai/grupes/Hanza|Hanza]] pastatė Kaunas; [[objektai/grupes/Hanza|Hanza]] pastatė Nemunas; [[objektai/grupes/Hanza|Hanza]] pastatė Polockas'
+  susije_objektai: 'mentioned_place: Dauguva; mentioned_place: Kaunas; mentioned_place: Nemunas; mentioned_place: Polockas'
   pagrindžia:
     - c-002
 
@@ -103,8 +102,7 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   global_id: t-116692
   teiginys: 'Hanza dviejuose prekybos centruose veikiai įsteigė savo agentūras, vadintas pirklių kontoromis.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiški nuoroda „tuose centruose“.'
-  susije_objektai: 'object: Lietuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] pastatė Lietuva'
+  susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-005
 
@@ -113,8 +111,8 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
   global_id: t-116693
   teiginys: 'Hanzos miestų tinklui priklausė Kauno miestas.'
   sudarymo_pagrindimas: 'Reikia aiškiau susieti faktą su Hanza kaip užrašo objektu.'
-  susije_objektai: 'owner: Europa; owner: Europos geografinis centras; owner: Italija; owner: Kaunas; owner: Lietuva; owner: Suomija; owner: Šveicarija; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
-  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] priklausė Europa; [[objektai/grupes/Hanza|Hanza]] priklausė Europos geografinis centras; [[objektai/grupes/Hanza|Hanza]] priklausė Italija; [[objektai/grupes/Hanza|Hanza]] priklausė Kaunas; [[objektai/grupes/Hanza|Hanza]] priklausė Lietuva; [[objektai/grupes/Hanza|Hanza]] priklausė Suomija; [[objektai/grupes/Hanza|Hanza]] priklausė Šveicarija'
+  susije_objektai: 'owner: Kaunas; mentioned_place: Europa; mentioned_place: Europos geografinis centras; mentioned_place: Italija; mentioned_place: Kaunas; mentioned_place: Lietuva; mentioned_place: Suomija; mentioned_place: Šveicarija'
+  semantiniai_rysiai: '[[objektai/grupes/Hanza|Hanza]] priklausė Kaunas'
   pagrindžia:
     - c-006
 
@@ -356,16 +354,5 @@ Hanza yra vokiečių miestų sąjunga ir prekybos valdovė. Hanzos veiklos konte
     - t-006
 
 ## Ryšiai
-- Hanza pastate [[objektai/vietos/Dauguva]]
-- Hanza pastate [[objektai/vietos/Kaunas]]
-- Hanza pastate [[objektai/vietos/Lietuva]]
-- Hanza pastate [[objektai/vietos/Nemunas]]
-- Hanza pastate [[objektai/vietos/Polockas]]
 - [[objektai/vietos/Dorpatas]] priklause Hanza
-- Hanza priklause [[objektai/vietos/Europa]]
-- Hanza priklause [[objektai/vietos/Europos geografinis centras]]
-- Hanza priklause [[objektai/vietos/Italija]]
 - Hanza priklause [[objektai/vietos/Kaunas]]
-- Hanza priklause [[objektai/vietos/Lietuva]]
-- Hanza priklause [[objektai/vietos/Suomija]]
-- Hanza priklause [[objektai/vietos/Šveicarija]]

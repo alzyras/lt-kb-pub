@@ -27,14 +27,12 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   global_id: t-42043
   teiginys: 'Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir pašalina sąrašo numeravimo triukšmą.'
-  susije_objektai: 'location: Kretinga; location: Latvija; location: Mažeikiai; location: Šiauliai; mentioned_place: Kretinga; mentioned_place: Latvija; mentioned_place: Mažeikiai; mentioned_place: Šiauliai'
+  susije_objektai: 'location: Kretinga; mentioned_place: Kretinga; mentioned_place: Latvija; mentioned_place: Mažeikiai; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'kelionės data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys ir pašalina sąrašo numeravimo triukšmą.'
   pagrindžia:
     - c-001
-- susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš Mažeikiai: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 ## Reikšmingi paminėjimai

@@ -108,14 +108,6 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   susije_objektai: 'mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_person: [[objektai/asmenys/Papakoda|Papakoda]]; mentioned_place: Lenkija; mentioned_place: Maskva'
   pagrindžia:
     - c-006
-- susijęs iš [[objektai/asmenys/Deziderijus.md#claim-t-186195|Deziderijus]]: Karalius Deziderijus, tikėdamasis Galijos maištų suteiktos progos, vėl pradėjo niokoti Romos ir popiežiaus valdas.
-- susijęs iš [[objektai/autoriai/Machiavellio.md#claim-t-01108|Machiavellio]]: Machiavellio mokslu vadintas įsitikinimas, kad valdovas turi siekti valdžios nesiskaitydamas su priemonėmis.
-- susijęs iš [[objektai/zodynas/Machiavellio mokslas.md#claim-t-02946|Machiavellio mokslas]]: Bona iš Italijos atsinešė Machiavellio mokslui priskirtą įsitikinimą, kad valdovas turi siekti valdžios bet kokiomis priemonėmis.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/ivykiai/Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime.md#claim-t-185570|Italų atvykimas į Lietuvą A. Kojelavičiaus pasakojime]]: Kojelavičius patikimiausia laikė prielaidą, kad italai į šias žemes atvyko po devintojo amžiaus nuo Kristaus gimimo.
-- susijęs iš [[objektai/ivykiai/Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę.md#claim-t-89409|Urbono II susirinkimas ir 1096 m. kryžiaus žygis į Jeruzalę]]: Petras su Jeruzalės patriarcho Simeono ir kitų tikinčiųjų laiškais nuvyko pas popiežių Urboną II, kuris jį maloniai priėmė.
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-173119|Barbora Radvilaitė]]: Barborai Radvilaitei Šv. Stanislovo bažnyčioje italų meistrai pastatė brangaus marmuro antkapį.
 - susijęs iš [[objektai/asmenys/Barbora Radvilaitė.md#claim-t-54952|Barbora Radvilaitė]]: Barborai Šv. Stanislovo bažnyčioje buvo pastatytas marmurinis antkapis, kuris XVIII a. pražuvo senosios Katedros griuvėsiuose.
 - susijęs iš [[objektai/asmenys/Belizarijus.md#claim-t-186183|Belizarijus]]: Justinianui viešpataujant Belizarijus, nugalėjęs persus, pasinaudojo Getero vadovaujamų herulų pagalba.
@@ -343,10 +335,3 @@ Dar prieš Mozūrų kunigaikščio Konrado pasiūlymą ordinui, jo centras jau b
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- [[objektai/asmenys/Deziderijus]] buvo_valdovas Italija
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] buvo_valdovas Italija
-- [[objektai/grupes/Hanza]] priklause Italija
-- [[objektai/vietos/Olandija]] priklause Italija
-- [[objektai/asmenys/Simeonas]] keliavo_i Italija

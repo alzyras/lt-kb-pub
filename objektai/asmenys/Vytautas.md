@@ -104,8 +104,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-006
   global_id: t-05213
   teiginys: 'Vytautas įsteigė ir aprūpino Medininkų vyskupiją bei organizavo eilę parapinių bažnyčių Lietuvoje.'
-  susije_objektai: 'object: Lietuva; object: Medininkai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Medininkai'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] pastatė Lietuva; [[objektai/asmenys/Vytautas|Vytautas]] pastatė Medininkai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Lietuva; mentioned_place: Medininkai'
   pagrindžia:
     - c-029
 
@@ -382,10 +381,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176634
   teiginys: 'Vytautas valdė 1392–1430 m. ir šaltinyje vadinamas žymiausiu Lietuvos valdovu.'
   sudarymo_pagrindimas: 'Pradinis tekstas yra lentelės fragmentas, ne sakinys.'
-  susije_objektai: 'territory: Lietuva; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1392-1430; valdymo laikotarpis: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas yra lentelės fragmentas, ne sakinys.'
   pagrindžia:
     - c-132
@@ -417,10 +415,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176638
   teiginys: 'Vytauto Didžiojo kulto pasakojime jis vaizduotas kaip Žalgirio mūšį laimėjęs karvedys ir Lietuvos karūnos siekęs valdovas.'
   sudarymo_pagrindimas: 'Pradinis tekstas nutrūksta ir turi būti perrašytas į užbaigtą sakinį.'
-  susije_objektai: 'territory: Lietuva; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1930 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1930 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis tekstas nutrūksta ir turi būti perrašytas į užbaigtą sakinį.'
   pagrindžia:
     - c-049
@@ -442,10 +439,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176640
   teiginys: 'Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas.'
-  susije_objektai: 'territory: Europa; territory: Lenkija; territory: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Europa; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lenkija; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1392-1430; valdymo laikotarpis: 1430 m.; valdymo laikotarpis: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir paliktas citatos palaikomas faktas.'
   pagrindžia:
     - c-074
@@ -499,10 +495,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-043
   global_id: t-176646
   teiginys: 'Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.'
-  susije_objektai: 'territory: Europa; territory: Lenkija; territory: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Europa; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lenkija; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1392-1430; valdymo laikotarpis: 1430 m.; valdymo laikotarpis: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-074
 
@@ -563,10 +558,10 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176653
   teiginys: '1430 m. spalio 27 d. mirė Lietuvos valdovas Vytautas Didysis Kęstutaitis.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto mirtį.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lenkija; [[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lietuva'
+  susije_objektai: 'territory: Lietuva; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lietuva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1430 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytauto mirtį.'
   pagrindžia:
     - c-040
@@ -641,8 +636,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176661
   teiginys: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu atvyko pas Vytautą.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie atvykimą pas Vytautą.'
-  susije_objektai: 'location: Mazovija; location: Plockas; location: Vilnius; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] keliavo į Mazovija; [[objektai/asmenys/Vytautas|Vytautas]] keliavo į Plockas; [[objektai/asmenys/Vytautas|Vytautas]] keliavo į Vilnius'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Mazovija; mentioned_place: Plockas; mentioned_place: Vilnius'
   pagrindžia:
     - c-121
 
@@ -939,10 +933,9 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176700
   teiginys: 'Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus faktinis sakinys apie Vytautą Didįjį.'
-  susije_objektai: 'territory: Europa; territory: Lenkija; territory: Lietuva; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Europa; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lenkija; [[objektai/asmenys/Vytautas|Vytautas]] valdė teritoriją Lietuva'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1392-1430; valdymo laikotarpis: 1430 m.; valdymo laikotarpis: 1838 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Europa“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) valdė teritoriją Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/daiktai/Įsivaizduojami Lietuvos valdovų portretai|Įsivaizduojami Lietuvos valdovų portretai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Europa; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1392-1430; įvykio data: 1430 m.; įvykio data: 1838 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus faktinis sakinys apie Vytautą Didįjį.'
   pagrindžia:
     - c-074
@@ -1244,8 +1237,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   global_id: t-176737
   teiginys: 'Vytauto seserį Oną vedė vyresnysis Mazovijos kunigaikštis Jonušas.'
   sudarymo_pagrindimas: 'Citata palaiko konkretų faktą apie Vytauto giminystę.'
-  susije_objektai: 'territory: Lietuva; territory: Mazovija; territory: Vilnius; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Lietuva; [[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Mazovija; [[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_place: Lietuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
   pagrindžia:
     - c-057
 
@@ -1432,8 +1424,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - t-141
   global_id: t-176758
   teiginys: 'Mazovijos kunigaikštis Henrikas su slaptu Jogailos pavedimu buvo atvykęs pas Vytautą.'
-  susije_objektai: 'territory: Mazovija; territory: Plockas; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Mazovija; [[objektai/asmenys/Vytautas|Vytautas]] buvo valdovas Plockas'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_place: Mazovija; mentioned_place: Plockas'
   pagrindžia:
     - c-084
 
@@ -1805,21 +1796,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
   sudarymo_pagrindimas: 'Citata apie Vytautą remia tik kapo ir palaikų faktą.'
   pagrindžia:
     - c-155
-- susijęs iš [[objektai/asmenys/Prokopas.md#claim-t-35268|Prokopas]]: Prokopas buvo čekų vadas, su kuriuo susidėjęs Kaributas kariavo prieš Zigmantą.
-- susijęs iš [[objektai/asmenys/Zigmantas Kaributas.md#claim-t-176869|Zigmantas Kaributas]]: Zigmantas Kaributas savo valia vėl išvyko į Čekiją, kariavo su Zigmantu ir pradėjęs derybas su popiežiumi buvo išvytas.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-179150|Lenkai]]: Traidenis dažnai kariavo su lenkais ir pasiekdavo ne tik Mozūrus, bet ir Krokuvą.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/daiktai/Bombardos.md#claim-t-113458|Bombardos]]: 1384 m. rudenį Jogaila ir Vytautas su bombardomis apgulė Kauno Marienwerderį.
-- susijęs iš [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų.md#claim-t-35999|galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]]: Ostrovos akto galia priklausė ne nuo pergamento, o nuo faktinių jėgų santykių ir diplomatinių sugebėjimų.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Klaipėda: Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas seniau priklausė jo protėviams.
-- susijęs iš Prūsija: Vytautas pareiškė galįs siekti Prūsijos, nes šis kraštas esą anksčiau priklausė jo protėviams.
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
-- susijęs iš Viazma: Maskviečiai nesėkmingai apgulė Viazmą, o po kelių dienų buvo sudarytos paliaubos.
-- susijęs iš Vilnius: Vytautas su visomis pajėgomis apgulė Vilnių, šturmavo Kreivąją pilį, šaudė iš patrankų ir ją paėmė.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
-- susijęs iš Žemutinė pilis Kreivoji pilis (pilis): Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176298|Algirdas (Lietuvos valdovas)]]: Algirdas, nelaukdamas pripažinimo ir karūnos iš svetur, vadinosi karaliumi.
@@ -1844,6 +1821,7 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30228|Ediga]]: Edigos dalinių laukęs Timuras derybomis siekė laimėti laiko prieš kautynes su Vytauto pajėgomis.
 - susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-183735|Edigėjus]]: Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais.
 - susijęs iš [[objektai/asmenys/Edigėjus.md#claim-t-40096|Edigėjus]]: Prieš mūšį Edigėjus padrąsino chaną, vedė derybas su Vytautu ir reikalavo Lietuvos pinigus žymėti Ordos ženklais.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Elžbieta Granauskaitė.md#claim-t-35056|Elžbieta Granauskaitė]]: Jogaila 1417 m. vedė Elžbietą Granauskaitę be Vytauto ir jo didžiūnų žinios bei valios.
 - susijęs iš [[objektai/asmenys/Focijus (Maskvos „visos Rusijos“ metropolitas).md#claim-t-184258|Focijus (Maskvos „visos Rusijos“ metropolitas)]]: Po Gregorijaus Cemblako mirties Vytautas 1421 m. pripažino Maskvos Focijų Kijevo metropolitu.
@@ -6166,70 +6144,13 @@ Vytautas vaizduojamas kaip savarankišku tapęs Lietuvos valdovas, derinęs kov�
     - t-179
 
 ## Ryšiai
-- [[objektai/grupes/Lenkai]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Prokopas]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kalavijuočių ordinas]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Kryžiuočių ordinas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Lenkai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) kariavo_pries [[objektai/grupes/Lietuviai]]
-- [[objektai/asmenys/Zigmantas Kaributas]] kariavo_pries Vytautas (Lietuvos valdovas, XIV–XV a.)
-- Vytautas (Lietuvos valdovas, XIV–XV a.) dalyvavo_musyje [[objektai/ivykiai/Torno taika (1411 m.)]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Europa]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Lenkija]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) valde_teritorija [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) gyveno [[objektai/vietos/Seversko Naugardas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Cudzeniškiai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Maskva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Mazovija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Medininkai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Plockas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Poznanė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Riazanė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Sroda]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Tverė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) buvo_valdovas [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Dniepras]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Dniestras]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Kijevas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Medininkai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/vietos/Varniai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/zodynas/didysis kunigaikštis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) pastate [[objektai/zodynas/metraštis]]
 - [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] puole Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/vietos/Kijevas]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/vietos/Klaipėda]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Konstantinas (Karijotaitis)]] puole Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/vietos/Prūsija]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Tochtamišas]] susije_su Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/vietos/Veliuona]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
-- [[objektai/asmenys/Vosylius]] puole Vytautas (Lietuvos valdovas, XIV–XV a.)
 - Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Aukokalnis]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Betygala]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Dubysa]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Heilsbergas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Kaunas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Krėva]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lenkija]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Lietuva]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Livonija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Marienburgas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Mazovija]]
 - Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Merkinė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Nemunas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Plockas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Pomeranija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Poznanė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Prūsija]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Semba]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Severskas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Sluckas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Vilnius]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Volynė]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) susije_su [[objektai/grupes/Auksinė Orda]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) susije_su [[objektai/vietos/Krymas]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) susije_su [[objektai/grupes/Totoriai]]
-- Vytautas (Lietuvos valdovas, XIV–XV a.) susije_su [[objektai/grupes/Totorių pajėgos]]
-- [[objektai/posakiai/galia parėjo ne nuo pergamento, kuriame buvo surašytas jos tekstas, bet nuo faktiškųjų jėgų santykiavimo ir nuo diplomatinių sugebėjimų]] priklause Vytautas (Lietuvos valdovas, XIV–XV a.)
+- Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo_i [[objektai/vietos/Trakai]]
+- Vytautas (Lietuvos valdovas, XIV–XV a.) puole [[objektai/vietos/Vilnius]]

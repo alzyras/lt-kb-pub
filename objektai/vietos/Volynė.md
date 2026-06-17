@@ -77,7 +77,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Kazimiero veiksmą dėl Volynės ir atitinka citatos turinį.'
-  susije_objektai: 'territory: Belzas; territory: Lenkija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Belzas; mentioned_place: Lenkija'
   pagrindžia:
     - c-004
 
@@ -125,7 +125,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Valdovo valdymo ir titulų apimtis palikta su metraščio atribucija, nes profilyje titulų vartosena jautri. Nepridėta platesnio teisinio ar politinio statuso aiškinimo.'
-  susije_objektai: 'location: Drohičinas; location: Melnikas; location: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Drohičinas; mentioned_place: Melnikas; mentioned_place: Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Jurgis Nosuta|Jurgis Nosuta]]; mentioned_place: Drohičinas; mentioned_place: Melnikas; mentioned_place: Vilnius'
   pagrindžia:
     - c-008
 
@@ -140,17 +140,6 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/asmenys/Mstivojus.md#claim-t-59894|Mstivojus]]: Mstivojus užgrobė tris Pomeranijos kunigaikštystės dalis ir ilgus metus jas valdė prieš brolių valią.
-- susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
-- susijęs iš [[objektai/asmenys/Jogaila.md#claim-t-184730|Jogaila (kunigaikštis, XIV–XV a.)]]: Matydamas kryžiuočių sėkmę, karalius Jogaila įsakė visoms Lenkijos žemėms stoti į kovą su Prūsija.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
-- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
-- susijęs iš Kijevo Rusia: Kazimieras Belzą ir Volynę perdavė su sąlyga, kad aukščiausią valdžią Rusioje turės Lenkijos karalius.
-- susijęs iš Vilnius: Rugsėjo pabaigoje luomai susirinko Vilniuje į seimą, kuriame karalius ragino nutraukti Radvilos ir Kiškos kivirčą.
-- susijęs iš [[objektai/zodynas/metropolitas.md#claim-t-97284|metropolitas]]: Algirdas ir Maskvos kunigaikštis stengėsi savo valstybėse atnaujinti arba išlaikyti arkivyskupo-metropolito sostą graikų tikėjimo gyventojams.
-- susijęs iš [[objektai/asmenys/Pilypas (Fermo vyskupas).md#claim-t-60411|Pilypas (Fermo vyskupas)]]: Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.
-- susijęs iš [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.).md#claim-t-62859|Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]: 1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.
-- susijęs iš Smolenskas: Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais.
 - susijęs iš [[objektai/asmenys/Aleksandras Narimantaitis.md#claim-t-186175|Aleksandras Narimantaitis]]: Kazimieras atidavė Aleksandrui Narimantaičiui Volynę su sąlyga, kad aukščiausią galią Rusioje turės Lenkijos karalius.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184669|Algirdas (Lietuvos valdovas)]]: Algirdas išstūmė svetimšalius iš Kijevo ir Volynės žemių, o užimtą kraštą padalijo brolio Karijoto sūnums.
 - susijęs iš [[objektai/asmenys/Eustachijus Daškevičius.md#claim-t-186199|Eustachijus Daškevičius]]: Senas kazokų vadas Eustachijus Daškevičius slaptai perbėgo į lietuvių stovyklą.
@@ -167,6 +156,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš [[objektai/asmenys/Žygimantas Kęstutaitis.md#claim-t-184917|Žygimantas Kęstutaitis (Lietuvos didysis kunigaikštis, XIV–XV a.)]]: 1432 m. Žygimantas Kęstutaitis sutiko su sąlygomis, kuriomis tapo Lietuvos didžiuoju kunigaikščiu.
 - susijęs iš [[objektai/daiktai/Kalavijas.md#claim-t-186870|Kalavijas]]: Žygimanto Kęstutaičio pakėlimo didžiuoju kunigaikščiu ceremonijoje kalaviją Gardine 1432 m. spalio 15 d. įteikė Krokuvos vyskupas Zbignevas Olesnickis.
 - susijęs iš [[objektai/daiktai/Kristaus Kančios relikvija.md#claim-t-186861|Kristaus Kančios relikvija]]: Komentare nurodoma, kad J. Dlugošas pasakojo legendą apie Algirdo ir Kęstučio pagrobtą šventojo kryžiaus relikviją.
+- susijęs iš [[objektai/grupes/Lenkai.md#claim-t-184532|Lenkai]]: Po visą Lenkiją sklidusios paskalos paskatino luomus reikalauti, kad valdovas neatplėštų žemių nuo karalystės.
 - susijęs iš [[objektai/grupes/Pamarėnai.md#claim-t-63189|Pamarėnai]]: 1218 m. popiežiaus Honorijaus II organizuotame kryžiaus žygyje į Prūsiją dalyvavo ir pamarėnai.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175134|Sūduviai-jotvingiai]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose siejami su 1205 m., tai yra 1209–1210 m., įvykiais.
 - susijęs iš [[objektai/ivykiai/Brastos seimas 1505 m..md#claim-t-186806|Brastos seimas 1505 m. (seimas, XVI a.)]]: 1971 m. leidinio pastaba nurodo, kad Bychovco kronikos pasakojimas apie 1505 m. Brastos seimą skiriasi nuo platesnio M. Miechovitos pasakojimo.
@@ -179,6 +169,7 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
 - susijęs iš [[objektai/ivykiai/Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę.md#claim-t-66638|Kresmenos valsčiaus nusiaubimas ir Liudviko paėmimas į nelaisvę]]: Kresmenos valsčiaus ieškoma ir į šiaurės rytus nuo Skomanto ežero, tarp Suvalkų ir Seinų.
 - susijęs iš [[objektai/ivykiai/Kryžiaus žygis į Prūsiją (1218 m.).md#claim-t-62842|Kryžiaus žygis į Prūsiją (1218 m.)]]: 1218 m. popiežius Honorijus II organizavo didelį kryžiaus žygį į Prūsiją, kuriame dalyvavo vokiečiai, čekai, moravai, danai, lenkai ir pamarėnai.
 - susijęs iš [[objektai/ivykiai/Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje.md#claim-t-186717|Lietuvių nekrikščionių masinis krikštijimas Vilniuje ir Rytų Lietuvoje]]: Lietuvių nekrikščionių masinis krikštijimas katalikais vyko Vilniuje ir visoje Rytų Lietuvoje 1387 m. pirmojoje pusėje.
+- susijęs iš [[objektai/ivykiai/Lietuvos ir jotvingių puolimas Lenkijai (1219 m.).md#claim-t-62859|Lietuvos ir jotvingių puolimas Lenkijai (1219 m.)]]: 1219 m. Lietuvos ir jotvingių jėgos puolė Lenkiją, kuri priklausė antiprūsiškai kryžiaus žygio koalicijai.
 - susijęs iš [[objektai/ivykiai/Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.).md#claim-t-59656|Lietuvos ir jotvingių veiksmai prieš Volynę (apie 1205 1209—1210 m.)]]: Lietuvos ir jotvingių veiksmai prieš Volynę šaltiniuose priskiriami 1205 m. įrašui, aiškinamam kaip 1209–1210 m. įvykiai.
 - susijęs iš [[objektai/ivykiai/Lietuvos sutartis su Volyne (1219 m.).md#claim-t-62862|Lietuvos sutartis su Volyne (1219 m.)]]: 1219 m. Živinbudo valdoma priešmindauginė Lietuva sudarė sutartį su Volyne, kilus pavojui Lietuvai ir siekiant ginti prūsų kraštą.
 - susijęs iš [[objektai/ivykiai/Mūšis prie Jieseldos.md#claim-t-186683|Mūšis prie Jieseldos (mūšis, XIII a.)]]: Pasakojimas apie mūšį prie Jieseldos 1971 m. komentare papildomai siejamas su 1251–1252 m. Mindaugo ir Danieliaus Romanovičiaus karo aprašymu.
@@ -431,15 +422,3 @@ Dusburgietis teigia, kad organizavo didžiulį kryžiaus žygį į Prūsiją, ku
   statusas: verified
   pagrindžia:
     - t-009
-
-## Ryšiai
-- [[objektai/asmenys/Mstivojus]] valde_teritorija Volynė
-- [[objektai/asmenys/Aleksandras Narimantaitis]] buvo_valdovas Volynė
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Volynė
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] buvo_valdovas Volynė
-- [[objektai/asmenys/Kiška]] buvo_valdovas Volynė
-- [[objektai/asmenys/Konstantinas Ostrogiškis]] buvo_valdovas Volynė
-- [[objektai/grupes/Lenkai]] susije_su Volynė
-- [[objektai/asmenys/Pilypas (Fermo vyskupas)]] keliavo_i Volynė
-- [[objektai/asmenys/Popiežius Honorijus II]] susije_su Volynė
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Volynė

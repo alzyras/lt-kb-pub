@@ -23,8 +23,8 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
   global_id: t-60411
   teiginys: 'Pilypas, Fermo vyskupas ir apaštališkojo sosto legatas, atvyko į Lenkijos žemę, kur Konradas iš Tirbergo jam skundėsi dėl Mstivojaus skriaudų.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys ir citata paremia Pilypo pareigas bei atvykimą į Lenkiją.'
-  susije_objektai: 'location: Lenkija; location: Pomeranija; location: Prūsija; location: Volynė; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Lenkija; [[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Pomeranija; [[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Prūsija; [[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Volynė'
+  susije_objektai: 'location: Lenkija; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Konradas|Konradas]]; mentioned_person: [[objektai/asmenys/Mstivojus|Mstivojus]]; mentioned_place: Lenkija; mentioned_place: Pomeranija; mentioned_place: Prūsija; mentioned_place: Volynė'
+  semantiniai_rysiai: '[[objektai/asmenys/Pilypas (Fermo vyskupas)|Pilypas (Fermo vyskupas)]] keliavo į Lenkija'
   pagrindžia:
     - c-001
 
@@ -52,6 +52,3 @@ Dusburgietis teigia, kad galop atvyko jo šventenybė Pilypas, Fermo vyskupas, a
 
 ## Ryšiai
 - Pilypas (Fermo vyskupas) keliavo_i [[objektai/vietos/Lenkija]]
-- Pilypas (Fermo vyskupas) keliavo_i [[objektai/vietos/Pomeranija]]
-- Pilypas (Fermo vyskupas) keliavo_i [[objektai/vietos/Prūsija]]
-- Pilypas (Fermo vyskupas) keliavo_i [[objektai/vietos/Volynė]]

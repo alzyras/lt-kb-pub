@@ -90,8 +90,7 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   global_id: t-78399
   teiginys: 'Notangai gyveno Notangoje, teritorijoje į šiaurės rytus nuo Pagudės, palei Aismares nuo Elbingo.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir paremtas citata apie notangų gyvenamą teritoriją.'
-  susije_objektai: 'location: Aismares; location: Elbingas; location: Varmė; location: Venta; mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Aismares; mentioned_place: Elbingas; mentioned_place: Varmė; mentioned_place: Venta'
-  semantiniai_rysiai: '[[objektai/grupes/Notangai|Notangai]] gyveno Aismares; [[objektai/grupes/Notangai|Notangai]] gyveno Elbingas; [[objektai/grupes/Notangai|Notangai]] gyveno Varmė; [[objektai/grupes/Notangai|Notangai]] gyveno Venta'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Sembai|Sembai]]; mentioned_place: Aismares; mentioned_place: Elbingas; mentioned_place: Varmė; mentioned_place: Venta'
   pagrindžia:
     - c-017
 
@@ -230,7 +229,6 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Herkus Mantas|Herkus Mantas]]; mentioned_person: [[objektai/asmenys/Mantas|Mantas]]'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/grupes/Sembai.md#claim-t-175082|Sembai]]: Sembai priklausė sembų-notangų kultūrinei grupei, kurioje išskiriamos sembų, varmių, notangų, pagudėnų ir pamedėnų gentinės teritorijos.
 - susijęs iš [[objektai/asmenys/Auktumas.md#claim-t-60242|Auktumas]]: Prūsams atkritus nuo tikėjimo, pagudėnai savo kariuomenės vadu ir vyresniuoju išsirinko Auktumą.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89686|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą per mūšį su Helmericho kariuomene.
 - susijęs iš [[objektai/asmenys/Ditrichas (Prūsijos žemės maršalas).md#claim-t-89688|Ditrichas (Prūsijos žemės maršalas)]]: Lubavos žemėje prūsai nukovė Prūsijos žemės maršalą Ditrichą, magistrą Helmerichą ir keturiasdešimt brolių.
@@ -642,9 +640,4 @@ Klaipėdoje prieš Lietuvą buvo sutelktos Livonijos ir Prūsijos kryžiuočių 
     - t-006
 
 ## Ryšiai
-- Notangai gyveno [[objektai/vietos/Aismares]]
-- Notangai gyveno [[objektai/vietos/Elbingas]]
 - Notangai gyveno [[objektai/vietos/Prieglius]]
-- Notangai gyveno [[objektai/vietos/Varmė]]
-- Notangai gyveno [[objektai/vietos/Venta]]
-- [[objektai/grupes/Sembai]] priklause Notangai

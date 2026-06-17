@@ -47,9 +47,9 @@ Nenurodyta
   global_id: t-31420
   teiginys: '1492 m. Maskvos didysis kunigaikštis Jonas III pirmasis karine jėga puolė Lietuvą.'
   sudarymo_pagrindimas: 'Reikia pataisyti formuluotę ir pašalinti pažodinį šaltinio stilistinį fragmentą.'
-  susije_objektai: 'territory: Bizantija; territory: Kremlius; territory: Lietuva; territory: Maskva; territory: Vilnius; mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bizantija; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1492 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Gediminas buvo valdovas Bizantija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas buvo valdovas Kremlius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Gediminas buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Kardas|Kardas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Bizantija; mentioned_place: Kremlius; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1492 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti formuluotę ir pašalinti pažodinį šaltinio stilistinį fragmentą.'
   pagrindžia:
     - c-001

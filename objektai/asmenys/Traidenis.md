@@ -73,8 +73,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
   global_id: t-90044
   teiginys: 'Viename dokumente pasakojama, kad kunigaikštis Traidenis įsiveržė į Dobrynės žemę.'
   sudarymo_pagrindimas: 'Citata palaiko faktą apie Traidenio įsiveržimą, bet pradinė formuluotė turi kontekstinį fragmentą.'
-  susije_objektai: 'territory: Dobrynė; mentioned_place: Dobrynė'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Dobrynė'
+  susije_objektai: 'mentioned_place: Dobrynė'
   pagrindžia:
     - c-009
 
@@ -102,8 +101,8 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-008
   global_id: t-90048
   teiginys: 'Pirmasis iškilo Kernavės kunigaikštis Traidenis.'
-  susije_objektai: 'territory: Dobrynė; territory: Kernavė; mentioned_place: Dobrynė; mentioned_place: Kernavė'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Dobrynė; [[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Kernavė'
+  susije_objektai: 'territory: Kernavė; mentioned_place: Dobrynė; mentioned_place: Kernavė'
+  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Kernavė'
   pagrindžia:
     - c-008
 
@@ -154,8 +153,7 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 - t-013
   global_id: t-90058
   teiginys: 'Žymus Lietuvos valdovas ir karo vadas Traidenis atkakliai gynė Lietuvą bei kitus baltus plačiuose frontuose.'
-  susije_objektai: 'territory: Kujavija; territory: Lietuva; territory: Liublinas; mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Liublinas'
-  semantiniai_rysiai: '[[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Kujavija; [[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Lietuva; [[objektai/asmenys/Traidenis|Traidenis]] buvo valdovas Liublinas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Baltai|Baltai]]; mentioned_place: Kujavija; mentioned_place: Lietuva; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
 
@@ -425,8 +423,4 @@ Traidenis šiame šaltinyje vaizduojamas kaip vienas žymiausių XIII a. Lietuvo
 
 ## Ryšiai
 - [[objektai/grupes/Lenkai]] kariavo_pries Traidenis (valdovas, XIII a.)
-- Traidenis (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Dobrynė]]
 - Traidenis (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Kernavė]]
-- Traidenis (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Kujavija]]
-- Traidenis (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Traidenis (valdovas, XIII a.) buvo_valdovas [[objektai/vietos/Liublinas]]

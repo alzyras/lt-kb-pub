@@ -54,6 +54,3 @@ Dusburgietis teigia, kad šitaip sugalvojęs, pamatė sapne šventuosius Bernard
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Augustinas mire [[objektai/vietos/Paryžius]]

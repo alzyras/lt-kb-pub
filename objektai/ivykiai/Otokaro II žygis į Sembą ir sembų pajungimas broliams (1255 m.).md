@@ -47,9 +47,9 @@ Nenurodyta
   global_id: t-66805
   teiginys: 'Čekijos karalius Otokaras II ir kryžiuočiai 1255 m. dalyvavo puolime prieš Sembą.'
   sudarymo_pagrindimas: 'Citata patvirtina žygį į Sembą, bet pradinė formuluotė turi netikslią atribuciją ir bibliografinį triukšmą.'
-  susije_objektai: 'territory: Prūsija; territory: Semba; territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Otokaras II|Otokaras II]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Čekija'
+  susije_objektai: 'territory: Čekija; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Otokaras II|Otokaras II]]; mentioned_place: Prūsija; mentioned_place: Semba; mentioned_place: Čekija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1255 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Otokaras II buvo valdovas Čekija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata patvirtina žygį į Sembą, bet pradinė formuluotė turi netikslią atribuciją ir bibliografinį triukšmą.'
   pagrindžia:
     - c-004

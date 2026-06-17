@@ -79,8 +79,8 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
   global_id: t-120189
   teiginys: 'Lietuvos didysis kunigaikštis Vytautas LDK apgyvendino ryškias musulmonų totorių ir karaimų bendruomenes.'
   sudarymo_pagrindimas: 'Teiginys aiškiai nusako Vytauto veiksmą ir karaimų bendruomenės apgyvendinimą LDK.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Liublinas; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] susiję su Lenkija; [[objektai/grupes/Karaimai|Karaimai]] susiję su Lietuva; [[objektai/grupes/Karaimai|Karaimai]] susiję su Liublinas; [[objektai/grupes/Karaimai|Karaimai]] susiję su Vilnius'
+  susije_objektai: 'territory: Lietuva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Liublinas; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/grupes/Karaimai|Karaimai]] susiję su Lietuva'
   pagrindžia:
     - c-002
 
@@ -263,7 +263,4 @@ Antra vertus, kunigaikščiams visi buvo valdiniai – netgi labiau pasitikėta 
     - t-008
 
 ## Ryšiai
-- Karaimai susije_su [[objektai/vietos/Lenkija]]
 - Karaimai susije_su [[objektai/vietos/Lietuva]]
-- Karaimai susije_su [[objektai/vietos/Liublinas]]
-- Karaimai susije_su [[objektai/vietos/Vilnius]]

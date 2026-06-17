@@ -47,9 +47,6 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
   pagrindžia:
     - c-002
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš Sučiava: Karalius Olbrachtas kelias dienas stovėjo prie Sučiavos, bet suprato miesto nepaimsiąs ir nuo jo pasitraukė.
-- susijęs iš [[objektai/daiktai/Rogės.md#claim-t-186847|Rogės]]: Lietuvos metraščio pasakojime Moldavijos vaivada Steponas, skaudant kojai, įsakė vežti save rogėse ir atvyko su savo žmonėmis.
-- susijęs iš Kolomyja: Moldavijos vaivada Steponas atvyko į Kolomyją tarp 1485 m. rugsėjo 6 ir 12 d.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Jonas Paleologas.md#claim-t-35152|Jonas Paleologas]]: Jonas Paleologas buvo Konstantinopolio ciesoriaus Manuelio sūnus, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
 - susijęs iš [[objektai/asmenys/Manuelis.md#claim-t-35214|Manuelis]]: Manuelis buvo Konstantinopolio ciesorius ir Jono Paleologo tėvas, už kurio Vytautas išleido savo dukraitę Maskvos kunigaikštytę.
@@ -153,5 +150,3 @@ Kad Lenkija neitų į pagalbą Lietuvai, prieš ją buvo sukelta Moldavija ir kr
 
 ## Ryšiai
 - [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Moldavija
-- [[objektai/asmenys/Steponas]] buvo_valdovas Moldavija
-- [[objektai/asmenys/Steponas]] keliavo_i Moldavija

@@ -63,10 +63,9 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   global_id: t-87365
   teiginys: '1515 m. karalius leido Ulrikui Hozijui savo lėšomis statytis malūną ir iki gyvos galvos imti trečią grūdą.'
   sudarymo_pagrindimas: 'Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis.'
-  susije_objektai: 'territory: Vilnius; mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Ulrikas Hozijus|Ulrikas Hozijus]] buvo valdovas Vilnius'
-  temporaliniai_duomenys: 'valdymo pabaiga: 1515 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Ulrikas Hozijus buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/posakiai/Iki gyvos galvos|Iki gyvos galvos]]; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1515 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko papildomą esminę sąlygą, o sakinys tampa tikslesnis.'
   pagrindžia:
     - c-005
@@ -348,6 +347,3 @@ Vilniaus mo­ netų kalykla, prižiūrima Ulriko Hozijaus, veikė vis energingia
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- Ulrikas Hozijus buvo_valdovas [[objektai/vietos/Vilnius]]

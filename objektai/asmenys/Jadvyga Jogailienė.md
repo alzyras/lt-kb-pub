@@ -83,8 +83,8 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-176416
   teiginys: 'Jadvyga Jogailienė 1387 metų sausį atvyko į Vilnių kartu su Vladislovu Jogaila ir kitais krikščionybės skleidėjais.'
   sudarymo_pagrindimas: 'Citata palaiko Jadvygos atvykimą į Vilnių kartu su Jogaila.'
-  susije_objektai: 'location: Gniezno; location: Krokuva; location: Mazovija; location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Gniezno; [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Krokuva; [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Mazovija; [[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Vilnius'
+  susije_objektai: 'location: Vilnius; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Gniezno; mentioned_place: Krokuva; mentioned_place: Mazovija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] keliavo į Vilnius'
   pagrindžia:
     - c-004
 
@@ -111,8 +111,7 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
   global_id: t-176422
   teiginys: 'Karalius Liudvikas savo karalystes paskyrė dukterims Jadvygai ir Marijai.'
   sudarymo_pagrindimas: 'Pradinis teiginys prasideda kontekstiniu fragmentu, bet faktas citatoje palaikomas.'
-  susije_objektai: 'territory: Austrija; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Austrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jadvyga Jogailienė|Jadvyga Jogailienė]] buvo valdovas Austrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Vengrai|Vengrai]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Zigmantas (Romos imperatorius)|Zigmantas (Romos imperatorius)]]; mentioned_place: Austrija'
   pagrindžia:
     - c-002
 
@@ -472,17 +471,4 @@ Onos Vytautienės raštas Jadvygai Jogailienei (rašytas Astravoje 1392 m. rugpi
     - t-018
 
 ## Ryšiai
-- Jadvyga Jogailienė gyveno [[objektai/vietos/Ašmena]]
-- Jadvyga Jogailienė gyveno [[objektai/vietos/Lietuva]]
-- Jadvyga Jogailienė gyveno [[objektai/vietos/Naugardukas]]
-- Jadvyga Jogailienė gyveno [[objektai/vietos/Nemėžis]]
-- Jadvyga Jogailienė gyveno [[objektai/vietos/Trakai]]
-- Jadvyga Jogailienė gyveno [[objektai/vietos/Vilnius]]
-- Jadvyga Jogailienė buvo_valdovas [[objektai/vietos/Austrija]]
-- Jadvyga Jogailienė pastate [[objektai/vietos/Krokuva]]
-- Jadvyga Jogailienė pastate [[objektai/vietos/Lietuva]]
-- Jadvyga Jogailienė pastate [[objektai/vietos/Praha]]
-- Jadvyga Jogailienė keliavo_i [[objektai/vietos/Gniezno]]
-- Jadvyga Jogailienė keliavo_i [[objektai/vietos/Krokuva]]
-- Jadvyga Jogailienė keliavo_i [[objektai/vietos/Mazovija]]
 - Jadvyga Jogailienė keliavo_i [[objektai/vietos/Vilnius]]

@@ -89,10 +89,9 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   global_id: t-54968
   teiginys: '1325 m. balandį po Gedimino laiškų paskelbimo Rygos arkivyskupas nuvyko į popiežiaus rūmus.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Ryga; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]] keliavo į Lietuva; [[objektai/asmenys/Fridrichas (Rygos arkivyskupas)|Fridrichas (Rygos arkivyskupas)]] keliavo į Ryga'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_place: Lietuva; mentioned_place: Ryga'
   temporaliniai_duomenys: 'kelionės data: 1325 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Fridrichas (Rygos arkivyskupas) keliavo į Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Fridrichas (Rygos arkivyskupas) keliavo į Ryga“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, aiškus ir paremtas citata.'
   pagrindžia:
     - c-006
@@ -415,7 +414,3 @@ Fridrichas vaizduojamas kaip Rygos arkivyskupas, kurį šaltinis sieja su Gedimi
   statusas: verified
   pagrindžia:
     - t-010
-
-## Ryšiai
-- Fridrichas (Rygos arkivyskupas) keliavo_i [[objektai/vietos/Lietuva]]
-- Fridrichas (Rygos arkivyskupas) keliavo_i [[objektai/vietos/Ryga]]

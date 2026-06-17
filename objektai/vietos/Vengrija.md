@@ -192,26 +192,14 @@ amziai:
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Jonas|Jonas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]'
   pagrindžia:
     - c-011
-- susijęs iš [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona).md#claim-t-173148|Elžbieta (Žygimanto Augusto žmona)]]: Elžbieta, Ferdinando duktė, 1543 m. ištekėjo už Žygimanto Augusto, 1545 m. mirė Vilniuje ir buvo palaidota katedroje.
-- susijęs iš [[objektai/asmenys/Jurgis Algimantaitis.md#claim-t-186223|Jurgis Algimantaitis]]: Alšėnų kunigaikštis Jurgis Algimantaitis pasiūlė valdovu rinkti karaliaus Vladislovo brolį Kazimierą.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
 - susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
 - susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-183572|Steponas (Vengrijos valdovas)]]: Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.
 - susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-19264|Steponas (Vengrijos valdovas)]]: Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.
-- susijęs iš [[objektai/asmenys/Vaitiekus Kiočka.md#claim-t-186262|Vaitiekus Kiočka]]: Karalius per pasiuntinį Vaitiekų Kiočką užprotestavo dėl Seversko kunigaikščių valdų prijungimo prie Maskvos.
 - susijęs iš [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis).md#claim-t-186023|Vladislovas (karalius, Kazimiero brolis)]]: Vengrijos karalius Vladislovas pradėjo karą ir patyrė pralaimėjimą Varnos mūšyje.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-183769|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
-- susijęs iš [[objektai/asmenys/Vladislovas Jogailaitis.md#claim-t-40515|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]]: Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179087|Kryžiuočių ordinas]]: 1211 m. Vengrijos karalius Andrius II įkurdino kryžiuočius Burcos žemėje, kad jie gintų kraštą nuo polovcų.
 - susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171443|Totoriai]]: 1326 m. Vengrijos karalius nukovė 30 tūkstančių totorių, kurių kariuomenė siaubė jo karalystę.
 - susijęs iš Kujavija: Vengrijos karalius Zigmantas Liuksemburgietis laikė Kujaviją savo suvereniteto žeme ir norėjo ją parduoti Ordinui.
-- susijęs iš [[objektai/asmenys/Butrimas.md#claim-t-100068|Butrimas]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
-- susijęs iš [[objektai/asmenys/Cibulka.md#claim-t-100069|Cibulka]]: Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.
-- susijęs iš [[objektai/asmenys/Jonas (Čekijos karalius).md#claim-t-39558|Jonas (Čekijos karalius)]]: 1345 m. sausį Čekijos karalius Jonas su sūnumi Karoliu ir kitais valdovais bei kilmingaisiais atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Liudvikas (Vengrijos karalius).md#claim-t-39587|Liudvikas (Vengrijos karalius)]]: 1345 m. sausį Vengrijos karalius Liudvikas atvyko į Prūsiją su kitais valdovais ir kilmingaisiais.
-- susijęs iš [[objektai/ivykiai/Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.).md#claim-t-97032|Prahos sprendimas dėl Žemaičių ir Sūduvos (1410 m. vasario 15 d.)]]: Lietuvos vardu protestuoti į Prahą nuvyko Butrimas ir Vytauto sekretorius Cibulka.
 - susijęs iš Kezmarkas: Vytautas nuvyko tartis į Vengrijos pasienio miestą Kezmarką.
-- susijęs iš Neris Vilija (sujungti pirminiai pavadinimai Neris; Vilija; Neris Vilija; Vilijos upė): Pasakojime apie Vilniaus įkūrimą Gediminas atvyko į Šventaragio slėnį, kur Vilnios upė įteka į Viliją.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176274|Algirdas (Lietuvos valdovas)]]: Algirdas buvo Gedimino sūnus ir Jogailos tėvas.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184667|Algirdas (Lietuvos valdovas)]]: Algirdas išvarė Teodorą Karijotaitį iš valdų, užėmė Podolės pilis ir paskyrė Goštautą Podolės seniūnu.
 - susijęs iš [[objektai/asmenys/Andrius iš Vasilevo Važila.md#claim-t-87624|Andrius iš Vasilevo Važila]]: Vladislovas Jogaila pirmuoju Vilniaus diecezijos vyskupu išrinko Andrių iš Vasilevo Važilą.
@@ -654,19 +642,9 @@ amziai:
     - t-016
 
 ## Ryšiai
-- [[objektai/asmenys/Elžbieta (Žygimanto Augusto žmona)]] mire Vengrija
-- [[objektai/asmenys/Jurgis Algimantaitis]] buvo_valdovas Vengrija
 - [[objektai/grupes/Kryžiuočių ordinas]] susije_su Vengrija
 - [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Vengrija
 - [[objektai/asmenys/Steponas (Vengrijos valdovas)]] buvo_valdovas Vengrija
 - [[objektai/grupes/Totoriai]] susije_su Vengrija
-- [[objektai/asmenys/Vaitiekus Kiočka]] buvo_valdovas Vengrija
-- [[objektai/asmenys/Vladislovas]] buvo_valdovas Vengrija
 - [[objektai/asmenys/Vladislovas (karalius, Kazimiero brolis)]] buvo_valdovas Vengrija
-- [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis (Lenkijos karalius, XV a.)]] buvo_valdovas Vengrija
-- [[objektai/asmenys/Butrimas]] keliavo_i Vengrija
-- [[objektai/asmenys/Cibulka]] keliavo_i Vengrija
-- [[objektai/asmenys/Gediminas]] keliavo_i Vengrija
-- [[objektai/asmenys/Jonas (Čekijos karalius)]] keliavo_i Vengrija
-- [[objektai/asmenys/Liudvikas (Vengrijos karalius)]] keliavo_i Vengrija
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Vengrija
+- [[objektai/asmenys/Zigmantas Liuksemburgietis]] buvo_valdovas Vengrija

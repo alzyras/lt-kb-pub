@@ -24,8 +24,8 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
   global_id: t-87435
   teiginys: 'Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.'
   sudarymo_pagrindimas: 'Citata leidžia suformuluoti pilną sakinį apie Karolio atvykimą ir priėmimą.'
-  susije_objektai: 'location: Avinjonas; location: Livonija; location: Ryga; mentioned_place: Avinjonas; mentioned_place: Livonija; mentioned_place: Ryga'
-  semantiniai_rysiai: '[[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Avinjonas; [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Livonija; [[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Ryga'
+  susije_objektai: 'location: Avinjonas; mentioned_place: Avinjonas; mentioned_place: Livonija; mentioned_place: Ryga'
+  semantiniai_rysiai: '[[objektai/asmenys/Karolis Tryrietis|Karolis Tryrietis]] keliavo į Avinjonas'
   pagrindžia:
     - c-001
 
@@ -93,5 +93,3 @@ Karolis, iki tol dažniausiai gyvenęs Try re, atvyko lydimas keleto gerai iš­
 
 ## Ryšiai
 - Karolis Tryrietis keliavo_i [[objektai/vietos/Avinjonas]]
-- Karolis Tryrietis keliavo_i [[objektai/vietos/Livonija]]
-- Karolis Tryrietis keliavo_i [[objektai/vietos/Ryga]]

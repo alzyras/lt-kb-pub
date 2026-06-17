@@ -24,7 +24,7 @@ Kaip lenkų daliniai buvo padėję prieš Smolensko kunigaikštį ir Andrių, ta
   global_id: t-32502
   teiginys: 'Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila.'
   sudarymo_pagrindimas: 'Reikia pataisyti neenciklopedinę formuluotę „gelbėjo atgauti“ ir išlaikyti citatos faktus.'
-  susije_objektai: 'location: Lietuva; location: Lvovas; location: Smolenskas; location: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_person: [[objektai/asmenys/Jadvyga|Jadvyga]]; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

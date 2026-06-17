@@ -31,10 +31,10 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
   global_id: t-35328
   teiginys: '1425 m. mirdamas Maskvos kunigaikštis Vosylius savo nepilnametį sūnų Vosylių paliko senelio Vytauto globai.'
   sudarymo_pagrindimas: 'Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; territory: Palanga; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
-  semantiniai_rysiai: '[[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Maskva; [[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Palanga'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vosylius|Vosylius]]; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Palanga'
+  semantiniai_rysiai: '[[objektai/asmenys/Vosylius (Maskvos kunigaikštis)|Vosylius (Maskvos kunigaikštis)]] buvo valdovas Maskva'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1425 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Palanga“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vosylius (Maskvos kunigaikštis) buvo valdovas Maskva“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Reikia aiškiau įvardyti globos ryšį ir pašalinti dviprasmybę.'
   pagrindžia:
     - c-001
@@ -65,6 +65,4 @@ Tuo pačiu metu dar įvyko vienas svar­ bus faktas, kuris dar aukščiau iškė
     - t-001
 
 ## Ryšiai
-- Vosylius (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
 - Vosylius (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Maskva]]
-- Vosylius (Maskvos kunigaikštis) buvo_valdovas [[objektai/vietos/Palanga]]

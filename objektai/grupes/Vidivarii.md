@@ -23,10 +23,9 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
 - t-001
   global_id: t-31369
   teiginys: 'Vidivarii gyveno prie Vyslos, o Jordanes Aesti lokalizavo į rytus nuo jų.'
-  susije_objektai: 'location: Vysla; mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Vysla'
-  semantiniai_rysiai: '[[objektai/grupes/Vidivarii|Vidivarii]] gyveno Vysla'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Kassiodoras|Kassiodoras]]; mentioned_group: [[objektai/grupes/Aisčiai|Aisčiai]]; mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_place: Vysla'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 375 m'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vidivarii gyveno Vysla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176683|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: 1420 m. Vytautas laiške Romos imperatoriui Zigmantui rašė apie Lietuvos ir Žemaitijos tapatumą.
@@ -56,6 +55,3 @@ Padarydamas santrauką vėliau dingusios Kassiodoro rašytos gotų istorijos, ra
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Vidivarii gyveno [[objektai/vietos/Vysla]]

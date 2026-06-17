@@ -80,9 +80,9 @@ Tačiau jis kiek apsivylė: Maskvos pasienio sritys prie jo maišto neprisidėjo
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos.'
-  susije_objektai: 'territory: Karačevas; territory: Lietuva; territory: Maskva; territory: Minskas; territory: Sluckas; territory: Starodubas; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Starodubas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1535 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirmantas buvo valdovas Karačevas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirmantas buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirmantas buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirmantas buvo valdovas Minskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirmantas buvo valdovas Sluckas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirmantas buvo valdovas Starodubas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Skirmantas|Skirmantas]]; mentioned_place: Karačevas; mentioned_place: Lietuva; mentioned_place: Maskva; mentioned_place: Minskas; mentioned_place: Sluckas; mentioned_place: Starodubas'
+  temporaliniai_duomenys: 'įvykio data: 1535 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Kronikos valdovo titului ir pasakojimo faktui reikia atribucijos.'
   pagrindžia:
     - c-004

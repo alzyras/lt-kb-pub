@@ -60,11 +60,6 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Gardinas; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
-- susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
-- susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
-- susijęs iš Varėna: Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.
-- susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 - susijęs iš [[objektai/asmenys/Donatas Malinauskas.md#claim-t-18878|Donatas Malinauskas]]: Donatas Malinauskas 1914 m. liepą Vilniuje su Jonu Basanavičiumi ir Stasiu Šilingu surašė Gintarinę deklaraciją.
 - susijęs iš [[objektai/asmenys/J. Pilsudskis.md#claim-t-108755|J. Pilsudskis]]: J. Pilsudskis turėjo gausių lenkų šalininkų, kurie siekė išlaikyti Lietuvą Lenkijos sudėtyje.
 - susijęs iš [[objektai/asmenys/J. Čaplikas.md#claim-t-40170|J. Čaplikas]]: J. Čaplikas puolė Jestšembną, sustabdė lenkus ir galėjo atsitraukti į Gruškų-Liepynės liniją.
@@ -224,8 +219,3 @@ Gimnazijų Užnemunėje buvo dvi — Marijampolėje ir Suvalkuose.
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/vietos/Augustavo gubernija]] priklause Suvalkai
-- [[objektai/vietos/Suvalkų gubernija]] priklause Suvalkai
-- [[objektai/vietos/Užnemunė]] priklause Suvalkai

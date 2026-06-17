@@ -138,8 +138,8 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
   global_id: t-89829
   teiginys: 'Hermanas iš Zalcos buvo ketvirtasis Kryžiuočių ordino magistras, mirė liepos 24 dieną ir buvo palaidotas Barletoje.'
   sudarymo_pagrindimas: 'Pašalintas antraštės ir OCR triukšmas, paliktas cituojamas biografinis faktas.'
-  susije_objektai: 'location: Barleta; location: Viena; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Barleta; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] mirė Barleta; [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] mirė Viena'
+  susije_objektai: 'location: Barleta; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Barleta; mentioned_place: Viena'
+  semantiniai_rysiai: '[[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos]] mirė Barleta'
   pagrindžia:
     - c-006
 
@@ -482,9 +482,4 @@ Hermanas iš Zalcos pateikiamas kaip ilgametis Kryžiuočių ordino magistras, s
 ## Ryšiai
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mire [[objektai/vietos/Barleta]]
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mire [[objektai/vietos/Salernas]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) mire [[objektai/vietos/Viena]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_valdovas [[objektai/vietos/Mozūrija]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) buvo_valdovas [[objektai/vietos/Prūsai]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo_i [[objektai/vietos/Kimelis]]
-- Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo_i [[objektai/vietos/Prūsai]]
 - Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.) keliavo_i [[objektai/vietos/Prūsija]]

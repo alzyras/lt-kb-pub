@@ -48,24 +48,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
   susije_objektai: 'mentioned_group: [[objektai/grupes/Kafos gyventojai|Kafos gyventojai]]; mentioned_place: Lietuva'
   pagrindžia:
     - c-002
-- susijęs iš Juodmarių pakraštys: Vytautas savo valdymo pabaigoje valdė Juodmarių pakraščio totorius.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
-- susijęs iš [[objektai/asmenys/Konstantinas Ostrogiškis.md#claim-t-184757|Konstantinas Ostrogiškis]]: Užbaigęs karą su Maskva, karalius pasiuntė Konstantiną Ostrogiškį su dalimi algininkų į Volynę.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/asmenys/Šach Achmedas.md#claim-t-87417|Šach Achmedas]]: Šach Achmedas su savo palyda klajojo palapinėse aplink Vilnių, kol karalius tvarkė totorių reikalus.
-- susijęs iš [[objektai/asmenys/Šich Achmetas.md#claim-t-186026|Šich Achmetas]]: Karalius įsakė parūpinti Šich Achmetui puikią svitą ir palydėti jį į Radomą.
-- susijęs iš [[objektai/asmenys/Žygimantas Senasis.md#claim-t-173336|Žygimantas Senasis]]: Žygimantas Senasis patvirtino sąjungą su Krymu, nes naujasis LDK valdovas turėjo daug reikalų.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Gardinas: 1503 m. Gardine Lietuvos didysis kunigaikštis Aleksandras išleido privilegiją statyti Vilniaus gynybinę mūro sieną.
-- susijęs iš Liublinas: Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais.
-- susijęs iš Liublinas: Iš Liublino seimo į Vilnių atvykęs karalius ėmėsi reikalų su totoriais.
-- susijęs iš Vilnius: Į Vilnių iš Liublino seimo atvykęs karalius ėmėsi reikalų su totoriais.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63621|Henrikas VI]]: Henrikas VI buvo Anglijos karalius, kurio pasiuntinys Gilbert de Lannoy keliavo į Krymą.
-- susijęs iš [[objektai/grupes/Krymo orda.md#claim-t-86729|Krymo orda]]: Krymo ir Nogajaus ordų pasiuntiniai už Vilniaus sienų laukė karaliaus, kai šis atvyko į Vilnių tvarkyti totorių reikalų.
 - susijęs iš [[objektai/asmenys/Aleksandras II.md#claim-t-82167|Aleksandras II]]: Caras Aleksandras II su aplinka rengė baudžiavos panaikinimo projektus Rusijos imperijoje.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-54939|Aleksandras Jogailaitis]]: Michałas Balińskis vertino, kad Aleksandrui Jogailaičiui stigo ryžto, nors 1501 m. jis buvo išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82170|Aleksandras Jogailaitis]]: Ivano Vasiljevičiaus pakurstyta Krymo totorių orda puldinėjo Aleksandro Jogailaičio valdas ir kėlė grėsmę Kijevui.
@@ -77,6 +60,8 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78962|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78963|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų, kurių kariuomenė susirėmė su Lietuvos kariuomene.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-63557|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54960|Elena (vyskupas, XV–XVI a.)]]: Karalienė Elena lydėjo paliegusį Aleksandrą, kai jis buvo vežamas į Vilnių.
 - susijęs iš [[objektai/asmenys/Georgas Fridrikas Valdekas.md#claim-t-40122|Georgas Fridrikas Valdekas]]: Georgas Fridrikas Valdekas vadovavo maždaug 7000 švedų, brandenburgiečių ir prūsų karių jungtinei kariuomenei.
 - susijęs iš [[objektai/asmenys/Gilbert de Lannoy.md#claim-t-35079|Gilbert de Lannoy]]: Gilbert de Lannoy kelionėje į Krymą per totorių žemes Vytauto kepurė atstojo lydimąjį raštą.
@@ -119,6 +104,7 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
 - susijęs iš [[objektai/grupes/Aukso orda.md#claim-t-187443|Aukso orda]]: 1501 m. Aukso orda sudarė sąjungą su LDK prieš Krymo chaną Mengli-Girėjų ir Maskvos Didžiąją Kunigaikštystę.
 - susijęs iš [[objektai/grupes/Karijotaičiai.md#claim-t-171344|Karijotaičiai]]: Lietuvos kariuomenėje buvo Lietuvos valdovo Algirdo pajėgos ir jo brolio Karijoto trijų sūnų, Karijotaičių, vadovaujami kariai.
 - susijęs iš [[objektai/grupes/Krimo totoriai.md#claim-t-92088|Krimo totoriai]]: 1427 m. pabaigoje Vytauto palaikomas Machmetas galutinai įsigalėjo tarp Pavolgio, Juodmarių pakraščio ir Krymo totorių.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187448|Krymo chanatas]]: Nuo 1502 m. Krymo totoriai niokojo Naugarduko ir Vilniaus vaivadijas į šiaurę nuo Pripetės pelkių ir pasiekdavo LDK centrą.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-187449|Krymo chanatas]]: Ač-Girėjaus valdymo metais Krymo totorių sostinė buvo Solchatas, arba Senasis Krymas, prie Kafos.
@@ -285,17 +271,4 @@ Pereskopo (Krymo) ordos chanui Tochtamyšui buvo pasisekę sujungti Ordą vėl, 
     - t-002
 
 ## Ryšiai
-- [[objektai/asmenys/Machmetas]] valde_teritorija Krymas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Krymas
-- [[objektai/asmenys/Dimitrijus]] buvo_valdovas Krymas
-- [[objektai/asmenys/Elena|Elena (vyskupas, XV–XVI a.)]] buvo_valdovas Krymas
-- [[objektai/asmenys/Konstantinas Ostrogiškis]] buvo_valdovas Krymas
-- [[objektai/grupes/Krymo chanatas]] susije_su Krymas
-- [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Krymas
-- [[objektai/asmenys/Šach Achmedas]] buvo_valdovas Krymas
-- [[objektai/asmenys/Šich Achmetas]] buvo_valdovas Krymas
-- [[objektai/asmenys/Žygimantas Senasis]] buvo_valdovas Krymas
 - [[objektai/asmenys/Henrikas VI]] keliavo_i Krymas
-- [[objektai/grupes/Krymo orda]] keliavo_i Krymas
-- [[objektai/asmenys/Tochtamišas]] susije_su Krymas
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] susije_su Krymas

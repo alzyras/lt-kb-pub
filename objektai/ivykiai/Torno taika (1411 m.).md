@@ -83,7 +83,6 @@ Nenurodyta
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi kontekstinę pradžią ir neįvardija Torno taikos.'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/ivykiai/Žemaičių krikštas.md#claim-t-35925|Žemaičių krikštas (krikštas)]]: Žalgirio mūšis ir Torno taika galutinai išsprendė Žemaičių krikšto klausimą.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178805|Kryžiuočių ordinas]]: Vytautas 1410 m. Žalgirio mūšyje palaužė Ordino galybę ir grąžino Žemaitijai laisvę.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Vokietijos kunigaikščiai.md#claim-t-31373|Vokietijos kunigaikščiai]]: Vokietijos kunigaikščiai galėjo paremti ordiną.
@@ -161,7 +160,3 @@ Nenurodyta
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] dalyvavo_musyje Torno taika (1411 m.)
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] dalyvavo_musyje Torno taika (1411 m.)

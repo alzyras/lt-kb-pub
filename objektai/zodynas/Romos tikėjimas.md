@@ -23,7 +23,7 @@ Maskvos valdovas kaltino Aleksandrą įsakius Vaitiekui Taborui ir Juozapui Solt
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata pateikia kaltinimą, todėl reikia nurodyti pranešamą poziciją.'
-  susije_objektai: 'territory: Maskva; territory: Smolenskas; territory: Vilnius; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Elena|Elena]]; mentioned_place: Maskva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

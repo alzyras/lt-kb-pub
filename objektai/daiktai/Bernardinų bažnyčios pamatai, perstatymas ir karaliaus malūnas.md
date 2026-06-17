@@ -57,9 +57,9 @@ Nenurodyta
   global_id: t-87023
   teiginys: '1500 m. karalius Aleksandras įsakė nugriauti prie bernardinų vienuolyno buvusį savo malūną, nes jo drebėjimas judino pastatų pamatus.'
   sudarymo_pagrindimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys.'
-  susije_objektai: 'territory: Borisovas; mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Borisovas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1500 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Borisovas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_object: [[objektai/daiktai/Malūnas|Malūnas]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Korčiakas|Korčiakas]]; mentioned_place: Borisovas'
+  temporaliniai_duomenys: 'pastatymo data: 1500 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „pastatymo data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuotas aiškus sakinys.'
   pagrindžia:
     - c-001

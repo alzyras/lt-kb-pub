@@ -27,14 +27,12 @@ Budrio traukinys per Mažeikius, per Latvijos teritoriją (Priekulę) atvyksta �
   global_id: t-41916
   teiginys: 'Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas sakinys apie maršrutą per Mažeikius.'
-  susije_objektai: 'location: Kretinga; location: Latvija; location: Priekulė; location: Šiauliai; mentioned_place: Kretinga; mentioned_place: Latvija; mentioned_place: Priekulė; mentioned_place: Šiauliai'
+  susije_objektai: 'location: Kretinga; mentioned_place: Kretinga; mentioned_place: Latvija; mentioned_place: Priekulė; mentioned_place: Šiauliai'
   temporaliniai_duomenys: 'kelionės data: 1936 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas sakinys apie maršrutą per Mažeikius.'
   pagrindžia:
     - c-001
-- susijęs iš Kretinga: Jono Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
-- susijęs iš Priekulė: Budrio traukinys per Mažeikius ir Latvijos Priekulę atvyko į Kretingą.
 - susijęs iš [[objektai/asmenys/Michailas Gorbačiovas.md#claim-t-101678|Michailas Gorbačiovas]]: 1991 m. sausio 10 d. Michailas Gorbačiovas pareikalavo, kad Lietuvos AT-AS atkurtų SSRS konstitucijos galiojimą.
 - susijęs iš [[objektai/daiktai/Sovietų tankai ir šarvuočiai.md#claim-t-13461|Sovietų tankai ir šarvuočiai]]: Naktį iš 1991 m. sausio 10 į 11 dieną Vilniaus gatvėmis važinėjo kariniai šarvuočiai.
 - susijęs iš [[objektai/ivykiai/SSRS ekonominė blokada Lietuvai (1990 m. balandžio 18 d. – birželio 29 d.).md#claim-t-45439|SSRS ekonominė blokada Lietuvai (1990 m. balandžio 18 d. – birželio 29 d.)]]: SSRS ekonominė blokada smarkiai paveikė Lietuvą: trūko kuro, nedirbo Mažeikių naftos perdirbimo įmonė, užsidarė kai kurios gamyklos ir atsirado pirmieji bedarbiai.

@@ -40,8 +40,7 @@ Vilniaus religinė miesto brolija.
 - t-002
   global_id: t-54836
   teiginys: 'Dalis Šv. Jono bažnyčios pajamų priklausė Šv. Jono brolijai priklausiusiems Vilniaus gyventojams.'
-  susije_objektai: 'owner: [[objektai/asmenys/Augustas|Augustas]]; owner: Vilnius; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Šv. Jono brolija|Šv. Jono brolija]] priklausė [[objektai/asmenys/Augustas|Augustas]]; [[objektai/grupes/Šv. Jono brolija|Šv. Jono brolija]] priklausė Vilnius'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 
@@ -66,7 +65,3 @@ Vilniaus religinė miesto brolija.
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- Šv. Jono brolija priklause [[objektai/asmenys/Augustas]]
-- Šv. Jono brolija priklause [[objektai/vietos/Vilnius]]

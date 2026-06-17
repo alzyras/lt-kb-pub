@@ -23,8 +23,7 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
 - t-001
   global_id: t-35715
   teiginys: 'Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei.'
-  susije_objektai: 'territory: Dniepras; territory: Lietuva; territory: Mozūrija; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Mozūrija'
-  semantiniai_rysiai: '[[objektai/grupes/Liuksemburgiečių dinastija|Liuksemburgiečių dinastija]] valdė teritoriją Dniepras; [[objektai/grupes/Liuksemburgiečių dinastija|Liuksemburgiečių dinastija]] valdė teritoriją Lietuva; [[objektai/grupes/Liuksemburgiečių dinastija|Liuksemburgiečių dinastija]] valdė teritoriją Mozūrija'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_place: Dniepras; mentioned_place: Lietuva; mentioned_place: Mozūrija'
   pagrindžia:
     - c-001
 
@@ -46,8 +45,3 @@ Tokiai didelei Vytauto valstybei anais laikais galėjo prilygti tik Vokiečiu im
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Liuksemburgiečių dinastija valde_teritorija [[objektai/vietos/Dniepras]]
-- Liuksemburgiečių dinastija valde_teritorija [[objektai/vietos/Lietuva]]
-- Liuksemburgiečių dinastija valde_teritorija [[objektai/vietos/Mozūrija]]

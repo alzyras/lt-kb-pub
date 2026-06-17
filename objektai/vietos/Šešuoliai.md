@@ -36,7 +36,6 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pašalintas OCR triukšmas ir suformuluotas aiškus sakinys.'
   pagrindžia:
     - c-001
-- susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
 - susijęs iš Lebedevas: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Lebedevą kartu su Alšėnais, Pumais, Svyruotais ir Šešuoliais.
 - susijęs iš Pumos: Aleksandrui Jurjevičiui Lietuvoje priklausė Pumos.
 - susijęs iš Svyruotai: Aleksandras Jurjevičius Alšėniškis Lietuvoje turėjo Svyruotus kartu su kitomis valdomis.
@@ -53,6 +52,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Pumos]] priklause Šešuoliai

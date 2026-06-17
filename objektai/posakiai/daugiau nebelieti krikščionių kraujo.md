@@ -22,7 +22,7 @@ Maskvos kunigaikštis Vasilijus prašė taikos, jeigu karalius sutiktų daugiau 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti veikėją, veiksmą ir sąlygą.'
-  susije_objektai: 'territory: Maskva; territory: Riazanė; territory: Rževas; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
+  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Vasilijus|Vasilijus]]; mentioned_place: Maskva; mentioned_place: Riazanė; mentioned_place: Rževas'
   pagrindžia:
     - c-001
 

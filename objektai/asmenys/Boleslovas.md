@@ -111,7 +111,4 @@ Prie jo buvo prisegti 6 antspaudai: 1) Vytauto, 2) Mozūrų kunigaikščio Boles
     - t-002
 
 ## Ryšiai
-- Boleslovas buvo_valdovas [[objektai/vietos/Belskas]]
-- Boleslovas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Boleslovas buvo_valdovas [[objektai/vietos/Lietuva]]
 - Boleslovas buvo_valdovas [[objektai/vietos/Mazovija]]

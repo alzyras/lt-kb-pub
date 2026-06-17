@@ -240,9 +240,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180225
   teiginys: 'Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.'
   sudarymo_pagrindimas: 'Pradinis teiginys negramatiškas, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'territory: Polockas; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas (Rygos vyskupas)|Albertas (Rygos vyskupas)]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas'
-  temporaliniai_duomenys: 'valdymo pabaiga: 1229 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Albertas (Rygos vyskupas) buvo valdovas Polockas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_object: [[objektai/zodynas/paliaubos|paliaubos]]; mentioned_person: [[objektai/asmenys/Albertas|Albertas]]; mentioned_person: [[objektai/asmenys/Albertas (Rygos vyskupas)|Albertas (Rygos vyskupas)]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Kęstutis|Kęstutis]]; mentioned_place: Polockas'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1229 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys negramatiškas, todėl perrašytas į pilną sakinį.'
   pagrindžia:
     - c-042
@@ -296,9 +296,9 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   global_id: t-180233
   teiginys: '1302 m. didysis magistras Gotfridas su 50 brolių per Prūsiją atvyko į Livoniją.'
   sudarymo_pagrindimas: 'Teiginys konkrečiai nusako Gotfrido atvykimą į Livoniją.'
-  susije_objektai: 'location: Elbingas; location: Prūsija; mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis magistras|didysis magistras]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_person: [[objektai/asmenys/Zigfridas iš Foichtvangeno|Zigfridas iš Foichtvangeno]]; mentioned_place: Elbingas; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1302 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigfridas iš Foichtvangeno keliavo į Elbingas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Zigfridas iš Foichtvangeno keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys konkrečiai nusako Gotfrido atvykimą į Livoniją.'
   pagrindžia:
     - c-044
@@ -737,58 +737,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
   susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Dauguva; mentioned_place: Druja; mentioned_place: Lietuva; mentioned_place: Nesvyžius; mentioned_place: Sėlpilis'
   pagrindžia:
     - c-058
-- susijęs iš [[objektai/asmenys/Daugirdas Gedgaila.md#claim-t-87651|Daugirdas Gedgaila]]: Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.
-- susijęs iš [[objektai/asmenys/Kaributas.md#claim-t-97456|Kaributas]]: Kaributas iki 1393 m. valdė Naugardo Sieversko kunigaikštiją, iš kurios jį pašalino Vytautas.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
-- susijęs iš [[objektai/asmenys/Borisas (Tverės kunigaikštis).md#claim-t-87596|Borisas (Tverės kunigaikštis)]]: Tverės kunigaikštis Borisas buvo Sofijos, Švitrigailos žmonos, tėvas.
-- susijęs iš [[objektai/asmenys/Fridrichas fon Bebirsteynas.md#claim-t-87675|Fridrichas fon Bebirsteynas]]: Didysis kunigaikštis Švitrigaila pranešė priėmęs Fridrichą fon Bebirsteyną į savo dvariškių būrį kaip patikėtinį.
-- susijęs iš [[objektai/asmenys/Ivanas Vasiljevičius.md#claim-t-184713|Ivanas Vasiljevičius]]: Ivanas Vasiljevičius laiške prisiskyrė Livonijos valdovo titulą, kurį karalius uždraudė minėti laiškuose.
-- susijęs iš [[objektai/asmenys/Jurgis (Danieliaus sūnus).md#claim-t-30316|Jurgis (Danieliaus sūnus)]]: Maskvos kunigaikštis Jurgis, Danieliaus sūnus, 1325 m. žuvo totorių ordoje.
-- susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
-- susijęs iš [[objektai/asmenys/Konradas (Mazovijos kunigaikštis).md#claim-t-59932|Konradas (Mazovijos kunigaikštis)]]: Kunigaikštis Konradas, vyskupo Kristijono ir kai kurių didikų patartas, savo žemei ginti ėmė burti Kristaus karius.
-- susijęs iš [[objektai/asmenys/Martynas Volodkovičius.md#claim-t-186066|Martynas Volodkovičius]]: Karalius pasiuntė Martyną Volodkovičių pas Maskvos valdovą, kai sužinojo, kad šis galvoja apie karą.
-- susijęs iš [[objektai/asmenys/Mykolas (Žygimanto sūnus).md#claim-t-87558|Mykolas (Žygimanto sūnus)]]: Žygimanto sūnus kunigaikštis Mykolas, vedęs lenkų ir lietuvių pulkus, netoli Ukmergės nugalėjo Švitrigailą ir Livonijos magistrą.
-- susijęs iš [[objektai/asmenys/Vaclovas (čekų kunigaikštis).md#claim-t-60455|Vaclovas (čekų kunigaikštis)]]: Dusburgiečio pasakojime šventas čekų kunigaikštis Vaclovas išpranašavo Danijos karaliaus Henriko nužudymą.
-- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172075|Anglai]]: Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.
-- susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija (1253 m.).md#claim-t-24563|Mindaugo karūnacija (1253 m.)]]: Karūnos tikslas buvo pasiektas 1253 m. liepos 6 d., o Mindaugas įvardijamas kaip pirmas ir vienintelis vainikuotas Lietuvos karalius.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija.md#claim-t-183264|Mindaugo karūnacija]]: Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.
-- susijęs iš [[objektai/ivykiai/Mindaugo karūnacija.md#claim-t-66787|Mindaugo karūnacija]]: Mindaugas buvo pirmas ir vienintelis vainikuotas Lietuvos karalius.
-- susijęs iš [[objektai/ivykiai/Vytenio užimta Karkuso pilis (1298 m.).md#claim-t-62953|Vytenio užimta Karkuso pilis (1298 m.)]]: 1298 m. Rygos miestiečių pakviestas Lietuvos karalius Vytenis užėmė Karkuso pilį, paėmė belaisvių ir nusiaubė pilies apylinkes.
-- susijęs iš [[objektai/posakiai/„Lietuvos karaliaus sūnus“.md#claim-t-186401|„Lietuvos karaliaus sūnus“]]: Dusburgas Vytenį anksčiau vadino Lietuvos karaliaus sūnumi, o 1296 m. jau rašė, kad karalius Vytenis žygiavo į Livoniją.
-- susijęs iš Kriava: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Pskovas: Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.
-- susijęs iš Tverė: Tverė teikė karinę pagalbą Švitrigailai, nes jos didysis kunigaikštis Borisas Aleksandravičius buvo jo giminaitis ir laikėsi sutarties su LDK.
 - susijęs iš [[objektai/asmenys/Gerlachas Rudasis.md#claim-t-60289|Gerlachas Rudasis]]: Gerlachas Rudasis atvyko iš Livonijos ir pranešė, kad magistras Folkvinas, daug brolių bei maldininkų krito kovoje.
-- susijęs iš [[objektai/asmenys/Karolis Tryrietis.md#claim-t-87435|Karolis Tryrietis]]: Karolis Tryrietis atvyko į Avinjoną su teisininkais ir riteriais, o popiežius jį priėmė maloniai ir pagarbiai.
-- susijęs iš [[objektai/asmenys/Vasilijus Vasiljevičius.md#claim-t-87932|Vasilijus Vasiljevičius]]: Vasilijus Vasiljevičius, vadintas Akluoju, 1430 metais atvyko į Trakus ir Vilnių Vytauto karūnavimo proga.
-- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179359|Livonijos ordinas]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92735|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Maskvos kunigaikštystė.md#claim-t-92739|Maskvos kunigaikštystė]]: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, vadintas Akluoju.
-- susijęs iš [[objektai/grupes/Mazovijos kunigaikščiai.md#claim-t-86735|Mazovijos kunigaikščiai]]: 1430 m. į Trakus ir Vilnių atvyko Mazovijos kunigaikščiai, pakviesti dalyvauti Vytauto karūnavimo sumanyme.
-- susijęs iš [[objektai/grupes/Tverės ir Riazanės kunigaikščiai.md#claim-t-86772|Tverės ir Riazanės kunigaikščiai]]: 1430 m. Tverės ir Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš [[objektai/ivykiai/Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara).md#claim-t-31497|Vytauto paliaubos ir taikos derybos su Livonijos ordinu (1410 m. vasara)]]: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
-- susijęs iš [[objektai/paprociai/Taikos susitarimo tvirtinimas priesaika ir parašais.md#claim-t-185894|Taikos susitarimo tvirtinimas priesaika ir parašais]]: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir pasirašė ilgalaikį taikos susitarimą.
-- susijęs iš [[objektai/posakiai/bedieviškąją Lietuvą.md#claim-t-28730|bedieviškąją Lietuvą]]: Iš Pskovo į Livoniją atvyko 200 karių kaip Kalavijuočių ordino sąjungininkai kariauti prieš „bedieviškąją Lietuvą“.
-- susijęs iš Pasvalio ilgalaikis taikos susitarimas tarp Žygimanto Augusto ir Livonijos magistro: Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas Mikalojaus Radvilos, pasirašė ilgalaikį taikos susitarimą.
-- susijęs iš Maskva: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
-- susijęs iš Maskva: 1430 metais į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius ir Maskvos metropolitas Fotijas.
-- susijęs iš Riazanė: 1430 m. Riazanės kunigaikščiai atvyko į Trakus ir Vilnių, kai Vytautas rengėsi karūnuotis Lietuvos karaliumi.
-- susijęs iš Riazanė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai bei daugelis kitų Rusios atstovų.
-- susijęs iš Rusia Rusios žemės: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Rusia: 1430 m. į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės, Riazanės kunigaikščiai ir daugelis kitų iš Rusios.
-- susijęs iš Saksonija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš Saremos: Tuo metu Danams priklausė Saremos, arba Eželio, vyskupystė.
-- susijęs iš Semba: 1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.
-- susijęs iš Silezija: Į Vilnių atvyko nemažai amatininkų iš Vokietijos, įskaitant Saksoniją, Sileziją, Liubeką ir kitus Hanzos miestus.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Maskvos, Tverės, Riazanės, Mazovijos bei kitų kraštų valdovai ir pasiuntiniai.
-- susijęs iš Trakai: 1430 m. į Trakus ir Vilnių atvyko Vytauto karūnacijai sukviesti šiaurės šalių kunigaikščiai ir pasiuntiniai.
-- susijęs iš Tverė: 1430 m. į Trakus ir Vilnių atvyko Tverės ir Riazanės kunigaikščiai, Maskvos valdovas bei daug kitų svečių iš Rusios.
-- susijęs iš Tverė: 1430 metais į Vytauto karūnavimo iškilmes Trakuose ir Vilniuje atvyko Tverės kunigaikščiai.
-- susijęs iš Vilnius: 1430 m. į Trakus ir Vilnių atvyko Maskvos didysis kunigaikštis Vasilijus Vasiljevičius, Tverės ir Riazanės kunigaikščiai.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56962|Abelis]]: Dusburgietis pasakoja, kad Abelis nužudė savo brolį Henriką, siekdamas karaliauti jo vietoje.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56963|Abelis]]: 1250 m. Abelis nužudė savo vyresnįjį brolį Danijos karalių Henriką, norėdamas užimti jo sostą, bet kitais metais jį nužudė frizai.
 - susijęs iš [[objektai/asmenys/Abelis.md#claim-t-56964|Abelis]]: Kitais metais Abelis žuvo nuo frizų ir taip nepasinaudojo savo piktadaryste.
@@ -1079,8 +1028,10 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80774|Abiejų Tautų Respublika]]: Lenkijoje gyvuoja tradicija Lietuvą net iki Liublino unijos laikyti Lenkijos dalimi, o Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
 - susijęs iš [[objektai/grupes/Abiejų Tautų Respublika.md#claim-t-80780|Abiejų Tautų Respublika]]: Lenkijoje gyvuoja tradicija Liublino unijos sukurtą valstybę vadinti ne Abiejų Tautų, o Lenkijos Respublika.
 - susijęs iš [[objektai/grupes/Abiejų Tautų konfederacija.md#claim-t-19623|Abiejų Tautų konfederacija]]: 1792 m. rugsėjo 11 d. Targovicos ir Vilniaus konfederacijos Brastoje susijungė į Abiejų Tautų konfederaciją.
+- susijęs iš [[objektai/grupes/Anglai.md#claim-t-172075|Anglai]]: Vilniaus puolimo metu Derbio kunigaikštis ir anglų pėstininkai kartu su Vytautu bei žemaičiais kovėsi su Karigaila.
 - susijęs iš [[objektai/grupes/Augsburgo tikėjimo išpažinėjai Livonijoje.md#claim-t-86752|Augsburgo tikėjimo išpažinėjai Livonijoje]]: Ketlerio perduodamų Livonijos apskričių žmonėms buvo siūlyta leisti laisvai naudotis apeigomis, papročiais ir religija, išpažįstančia Augsburgo tikėjimą.
 - susijęs iš [[objektai/grupes/Baltų žyniai.md#claim-t-58994|Baltų žyniai]]: Žynio pasiuntinys su krivūle ar kitu ženklu susilaukdavo pagarbos iš kunigaikščių, kilmingųjų ir prastuomenės.
+- susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
 - susijęs iš [[objektai/grupes/Dobrynės broliai.md#claim-t-65111|Dobrynės broliai]]: Kristaus karių ordino broliai buvo burti žemei ginti Prūsijos vyskupo Kristijono ir didikų patariamo kunigaikščio iniciatyva.
 - susijęs iš [[objektai/grupes/Dominikonų ordinas.md#claim-t-172080|Dominikonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonams, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo klastote.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112515|Domininkonų ordinas]]: Michałas Balińskis Gedimino vardu dominikonų ordinui, minoritams ir Vokietijos miestams rašytus laiškus laikė Rygos arkivyskupo prasimanymu ir klastote.
@@ -1198,6 +1149,7 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179408|Livonijos ordinas]]: Livonijos magistro vedami pulkai prisijungė prie Valenrodo lauktos kariuomenės, kuri po Ukmergės ir Visevaldės užėmimo pasuko Vilniaus link.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179409|Livonijos ordinas]]: Livonijos ordino atstovai nebuvo įsileisti į taikos derybas, todėl Aleksandras turėjo atsisakyti savo sąjungininko.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179410|Livonijos ordinas]]: 1251 m. Mindaugas krikštijosi, mainais perleidęs didelę dalį Žemaitijos Livonijos ordinui.
+- susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179411|Livonijos ordinas]]: Kunigaikštis Mykolas vedė lenkų ir lietuvių pulkus prieš Švitrigailą ir Livonijos magistrą ir laimėjo netoli Ukmergės.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179412|Livonijos ordinas]]: Lietuvos valdovai į kovą prieš Ordiną įtraukė visą Lietuvos Didžiąją Kunigaikštiją.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179413|Livonijos ordinas]]: 1372 m. kryžiuočiai Lietuvą puolė vienu metu iš Prūsijos ir Livonijos.
 - susijęs iš [[objektai/grupes/Livonijos ordinas.md#claim-t-179414|Livonijos ordinas]]: Livonijos ordinas sudarė su Pskovu 10 metų sutartį, nukreiptą prieš Vytautą.
@@ -3168,34 +3120,4 @@ Gediminas padarė žygį į Livoniją ir ją didžiai nusiaubė. Livonijos valst
     - t-071
 
 ## Ryšiai
-- [[objektai/asmenys/Daugirdas Gedgaila]] valde_teritorija Livonija
-- [[objektai/asmenys/Kaributas]] valde_teritorija Livonija
-- [[objektai/asmenys/Narimantas Gediminaitis]] valde_teritorija Livonija
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Livonija
-- [[objektai/asmenys/Andrius Algirdaitis]] buvo_valdovas Livonija
-- [[objektai/grupes/Anglai]] susije_su Livonija
-- [[objektai/asmenys/Borisas (Tverės kunigaikštis)]] buvo_valdovas Livonija
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]] susije_su Livonija
-- [[objektai/asmenys/Eugenijus IV]] buvo_valdovas Livonija
-- [[objektai/asmenys/Fridrichas fon Bebirsteynas]] buvo_valdovas Livonija
-- [[objektai/asmenys/Ivanas Vasiljevičius]] buvo_valdovas Livonija
-- [[objektai/asmenys/Jurgis (Danieliaus sūnus)]] buvo_valdovas Livonija
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]] buvo_valdovas Livonija
-- [[objektai/asmenys/Konradas (Mazovijos kunigaikštis)]] buvo_valdovas Livonija
-- [[objektai/grupes/Livonijos ordinas]] susije_su Livonija
-- [[objektai/asmenys/Martynas Volodkovičius]] buvo_valdovas Livonija
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_valdovas Livonija
-- [[objektai/asmenys/Mykolas (Žygimanto sūnus)]] buvo_valdovas Livonija
-- [[objektai/asmenys/Vaclovas (čekų kunigaikštis)]] buvo_valdovas Livonija
-- [[objektai/asmenys/Vytenis]] buvo_valdovas Livonija
 - [[objektai/asmenys/Gerlachas Rudasis]] keliavo_i Livonija
-- [[objektai/asmenys/Karolis Tryrietis]] keliavo_i Livonija
-- [[objektai/grupes/Livonijos ordinas]] keliavo_i Livonija
-- [[objektai/grupes/Maskvos kunigaikštystė]] keliavo_i Livonija
-- [[objektai/grupes/Mazovijos kunigaikščiai]] keliavo_i Livonija
-- [[objektai/vietos/Saremos]] priklause Livonija
-- [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)]] keliavo_i Livonija
-- [[objektai/grupes/Tverės ir Riazanės kunigaikščiai]] keliavo_i Livonija
-- [[objektai/asmenys/Vasilijus Vasiljevičius]] keliavo_i Livonija
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Livonija
-- [[objektai/asmenys/Zigmantas (Romos imperatorius)]] keliavo_i Livonija

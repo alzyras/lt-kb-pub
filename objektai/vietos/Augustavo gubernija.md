@@ -56,10 +56,10 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus sakinys apie Augustavo gubernijos pavadinimą ir Užnemunės priklausomybę.'
-  susije_objektai: 'owner: Augustavas; owner: Lietuva; owner: Lietuvos Užnemunė; owner: Suvalkai; owner: Suvalkų gubernija; owner: Užnemunė; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Augustavas; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Užnemunė'
-  semantiniai_rysiai: 'Augustavo gubernija priklausė Augustavas; Augustavo gubernija priklausė Lietuva; Augustavo gubernija priklausė Lietuvos Užnemunė; Augustavo gubernija priklausė Suvalkai; Augustavo gubernija priklausė Suvalkų gubernija; Augustavo gubernija priklausė Užnemunė'
+  susije_objektai: 'owner: Augustavo gubernija; mentioned_object: [[objektai/zodynas/gubernija|gubernija]]; mentioned_place: Augustavas; mentioned_place: Lietuva; mentioned_place: Lietuvos Užnemunė; mentioned_place: Suvalkai; mentioned_place: Suvalkų gubernija; mentioned_place: Užnemunė'
+  semantiniai_rysiai: 'Lietuvos Užnemunė priklausė Augustavo gubernija; Užnemunė priklausė Augustavo gubernija'
   temporaliniai_duomenys: 'priklausymo laikotarpis: po 1867 m.; priklausymo laikotarpis: 1867 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Augustavo gubernija priklausė Suvalkai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Suvalkų gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Užnemunė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Augustavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Augustavo gubernija priklausė Lietuvos Užnemunė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Užnemunė priklausė Augustavo gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuva priklausė Augustavo gubernija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Lietuvos Užnemunė priklausė Augustavo gubernija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Augustavo gubernijos pavadinimą ir Užnemunės priklausomybę.'
   pagrindžia:
     - c-003
@@ -128,9 +128,5 @@ Lietuvos Užnemunė pri- 3 skyrius • R U S I J O S I M P E R I J O S VA L D O 
     - t-003
 
 ## Ryšiai
-- Augustavo gubernija priklause [[objektai/vietos/Augustavas]]
-- Augustavo gubernija priklause [[objektai/vietos/Lietuva]]
-- Augustavo gubernija priklause [[objektai/vietos/Lietuvos Užnemunė]]
-- Augustavo gubernija priklause [[objektai/vietos/Suvalkai]]
-- Augustavo gubernija priklause [[objektai/vietos/Suvalkų gubernija]]
-- Augustavo gubernija priklause [[objektai/vietos/Užnemunė]]
+- [[objektai/vietos/Lietuvos Užnemunė]] priklause Augustavo gubernija
+- [[objektai/vietos/Užnemunė]] priklause Augustavo gubernija

@@ -38,7 +38,7 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
   teiginys: 'Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Išplėstas subjektas ir pridėta citatoje nurodyta vietos reikšmė.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Aleksandras|Aleksandras]]; counterparty: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Krokuva; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 
@@ -50,7 +50,7 @@ Stepono kariuomenė pasiekė net Tamovą. Tamovas šiame gabale apibrėžia puol
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys patikslintas pagal citatos eigą ir sutrumpintas.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Aleksandras|Aleksandras]]; counterparty: [[objektai/asmenys/Steponas|Steponas]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Moldavija'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/vaivada|vaivada]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Steponas|Steponas]]; mentioned_place: Kamenecas; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Lvovas; mentioned_place: Moldavija'
   pagrindžia:
     - c-001
 

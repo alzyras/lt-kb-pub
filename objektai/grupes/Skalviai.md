@@ -66,8 +66,8 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   global_id: t-89215
   teiginys: 'Skalviai ir lamatiečiai gyveno į šiaurę nuo Nemuno žiočių, Minijos žemupyje.'
   sudarymo_pagrindimas: 'Teiginys aiškus, gramatiškas ir paremtas citata.'
-  susije_objektai: 'location: Lietuva; location: Minija; location: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lamatiečiai|Lamatiečiai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
-  semantiniai_rysiai: '[[objektai/grupes/Skalviai|Skalviai]] gyveno Lietuva; [[objektai/grupes/Skalviai|Skalviai]] gyveno Minija; [[objektai/grupes/Skalviai|Skalviai]] gyveno Nemunas'
+  susije_objektai: 'location: Nemunas; mentioned_group: [[objektai/grupes/Kuršiai|Kuršiai]]; mentioned_group: [[objektai/grupes/Lamatiečiai|Lamatiečiai]]; mentioned_place: Lietuva; mentioned_place: Minija; mentioned_place: Nemunas'
+  semantiniai_rysiai: '[[objektai/grupes/Skalviai|Skalviai]] gyveno Nemunas'
   pagrindžia:
     - c-002
 
@@ -174,8 +174,7 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pradinis teiginys yra silpnas fragmentas; citata remia pilną sakinį.'
-  susije_objektai: 'counterparty: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_place: Skalva; mentioned_place: Skalvos žemė'
-  semantiniai_rysiai: '[[objektai/grupes/Skalviai|Skalviai]] kariavo prieš [[objektai/asmenys/Svisdeta|Svisdeta]]'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Svisdeta|Svisdeta]]; mentioned_place: Skalva; mentioned_place: Skalvos žemė'
   pagrindžia:
     - c-009
 - susijęs iš [[objektai/asmenys/Albrechtas iš Hageno.md#claim-t-60004|Albrechtas iš Hageno]]: Albrechtas iš Hageno su broliu Konradu ir ginklanešiais gynė Skalvių pilį nuo lietuvių karaliaus karių.
@@ -487,7 +486,4 @@ Apie kiltinį susiskirstymą pas vakarinius baltus (prusus) jau galima kalbėti 
     - t-010
 
 ## Ryšiai
-- Skalviai kariavo_pries [[objektai/asmenys/Svisdeta]]
-- Skalviai gyveno [[objektai/vietos/Lietuva]]
-- Skalviai gyveno [[objektai/vietos/Minija]]
 - Skalviai gyveno [[objektai/vietos/Nemunas]]

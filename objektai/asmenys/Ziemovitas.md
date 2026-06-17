@@ -30,8 +30,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   global_id: t-93745
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas, faktinis ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Austrija; territory: Gniezno; territory: Lenkija; territory: Mažlenkiai; territory: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Austrija; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Gniezno; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Lenkija; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Mažlenkiai; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -49,8 +48,7 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   global_id: t-93748
   teiginys: 'Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.'
   sudarymo_pagrindimas: 'Teiginys aiškiai perteikia citatos faktus apie Ziemovitą.'
-  susije_objektai: 'territory: Austrija; territory: Gniezno; territory: Lenkija; territory: Mažlenkiai; territory: Viena; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Austrija; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Gniezno; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Lenkija; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Mažlenkiai; [[objektai/asmenys/Ziemovitas|Ziemovitas]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Austrija; mentioned_place: Gniezno; mentioned_place: Lenkija; mentioned_place: Mažlenkiai; mentioned_place: Viena'
   pagrindžia:
     - c-001
 
@@ -130,10 +128,3 @@ Pretendentas į Jadvygos ranką, Mozūrų kunigaikštis Ziemovitas, ketino smurt
   pagrindžia:
     - t-003
     - t-004
-
-## Ryšiai
-- Ziemovitas buvo_valdovas [[objektai/vietos/Austrija]]
-- Ziemovitas buvo_valdovas [[objektai/vietos/Gniezno]]
-- Ziemovitas buvo_valdovas [[objektai/vietos/Lenkija]]
-- Ziemovitas buvo_valdovas [[objektai/vietos/Mažlenkiai]]
-- Ziemovitas buvo_valdovas [[objektai/vietos/Viena]]

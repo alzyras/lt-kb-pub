@@ -24,8 +24,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   global_id: t-172076
   teiginys: 'Valdovas siekė išrūpinti Šventojo Tėvo patvirtinimą artikulams, kuriems turėjo pritarti Apaštalų Sostas.'
   sudarymo_pagrindimas: 'Fragmentas perrašytas į aiškų faktą apie Apaštalų Sosto patvirtinimo siekį.'
-  susije_objektai: 'territory: Varmė; mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_place: Varmė'
-  semantiniai_rysiai: '[[objektai/grupes/Apaštalų Sostas|Apaštalų Sostas]] susiję su Varmė'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/globėjas|globėjas]]; mentioned_person: [[objektai/asmenys/Fabijonas (Varmės vyskupas)|Fabijonas (Varmės vyskupas)]]; mentioned_place: Varmė'
   pagrindžia:
     - c-001
 
@@ -43,8 +42,7 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   global_id: t-172079
   teiginys: 'Vilniaus kapitula teigė besivadovaujanti teise, kurią patvirtino Apaštalų Sostas, Lietuvos kunigaikščiai ir valdovas.'
   sudarymo_pagrindimas: 'Pašalinta nutrūkusi pabaiga ir išsaugotas citata pagrįstas faktas apie Apaštalų Sosto patvirtintą teisę.'
-  susije_objektai: 'territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/grupes/Apaštalų Sostas|Apaštalų Sostas]] susiję su Lietuva; [[objektai/grupes/Apaštalų Sostas|Apaštalų Sostas]] susiję su Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Vilniaus kapitula|Vilniaus kapitula]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_object: [[objektai/zodynas/jurisdikcija|jurisdikcija]]; mentioned_object: [[objektai/zodynas/kapitula|kapitula]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_object: [[objektai/zodynas/prelatai ir kanauninkai|prelatai ir kanauninkai]]; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 - susijęs iš Vilniaus katedra (sujungti pirminiai pavadinimai Vilniaus katedra; Vilniaus Šv. Stanislovo katedra; Šv. Stanislovo katedra; Šv. Stanislovo b: Vilniaus katedros kapitula teigė, kad jos jurisdikciją patvirtino Apaštalų Sostas ir Lietuvos kunigaikščiai.
@@ -141,8 +139,3 @@ No­ rėdami, kad vėliau čia negalėtų įvykti kas nors panašaus, kas pakenk
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Apaštalų Sostas susije_su [[objektai/vietos/Lietuva]]
-- Apaštalų Sostas susije_su [[objektai/vietos/Varmė]]
-- Apaštalų Sostas susije_su [[objektai/vietos/Vilnius]]

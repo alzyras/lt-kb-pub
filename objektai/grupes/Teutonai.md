@@ -24,7 +24,6 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   pagrindžia:
     - c-001
     - c-002
-- susijęs iš [[objektai/asmenys/Hugonas Butyras.md#claim-t-60146|Hugonas Butyras]]: Pasak kronikos, Hugonas, vadinamas Potyre, senaisiais laikais kariavo su prūsais.
 - susijęs iš [[objektai/asmenys/Agota.md#claim-t-56967|Agota (kunigaikščio žmona, XIII a.)]]: Agota kartu su Boleslovu, Kazimieru ir Zemovitu pritarė Konrado sprendimui atiduoti Teutonų ordino broliams Kulmo ir Lubavos žemes.
 - susijęs iš [[objektai/asmenys/Albertas (Rygos vyskupas).md#claim-t-09984|Albertas (Rygos vyskupas)]]: Rygos vyskupas Albertas nugalėjo Visvaldį.
 - susijęs iš [[objektai/asmenys/Aleksandras IV.md#claim-t-60233|Aleksandras IV]]: 1253 m. popiežius Aleksandras IV sėdėjo apaštališkajame soste, o imperatoriaus sostas buvo neužimtas.
@@ -404,6 +403,3 @@ Teutonai čia siejami su kraštovardžių formavimu ir ankstesnių pajūrio gyve
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Hugonas Butyras]] kariavo_pries Teutonai

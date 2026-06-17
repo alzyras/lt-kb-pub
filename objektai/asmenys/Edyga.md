@@ -34,7 +34,7 @@ Unijos darbui nemažai sutrukdė ir totoriai, kurie, vadovau­ jant Vorsklos nug
   global_id: t-63557
   teiginys: 'Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.'
   sudarymo_pagrindimas: 'Pradinis teiginys yra sąrašo fragmentas, todėl perrašytas į pilną sakinį.'
-  susije_objektai: 'owner: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; owner: Krymas; owner: [[objektai/grupes/Totoriai|Totoriai]]; owner: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Auksinė Orda|Auksinė Orda]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totorių pajėgos|Totorių pajėgos]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Krymas'
   pagrindžia:
     - c-001
 

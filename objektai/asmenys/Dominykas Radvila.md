@@ -29,10 +29,9 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   global_id: t-87655
   teiginys: 'Dominykas Radvila valdė Jašiūnus, kuriuos 1811 m. iš jo perėmė Balinskis.'
   sudarymo_pagrindimas: 'Pradinis teiginys labiau akcentuoja Balinskį, todėl perrašyta apie pastabos objektą.'
-  susije_objektai: 'territory: Terespolis; mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Terespolis'
-  semantiniai_rysiai: '[[objektai/asmenys/Dominykas Radvila|Dominykas Radvila]] valdė teritoriją Terespolis'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1811 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Dominykas Radvila valdė teritoriją Terespolis“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Radvilos|Radvilos]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Radvila|Radvila]]; mentioned_place: Terespolis'
+  temporaliniai_duomenys: 'įvykio data: 1811 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys labiau akcentuoja Balinskį, todėl perrašyta apie pastabos objektą.'
   pagrindžia:
     - c-001
@@ -52,6 +51,3 @@ Balinskis perėmė iš Dominyko Radvilos valdytus Jašiūnus, kuriuos vėliau į
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Dominykas Radvila valde_teritorija [[objektai/vietos/Terespolis]]

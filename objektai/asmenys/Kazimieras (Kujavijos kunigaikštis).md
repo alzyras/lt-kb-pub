@@ -24,8 +24,7 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   global_id: t-63803
   teiginys: 'Kunigaikštis Kazimieras nusprendė kviesti Henriką iš Lichtenšteino į pagalbą, kai lenkai išsigando Sventopelko raitelių.'
   sudarymo_pagrindimas: 'Sakinys išvalytas nuo perteklinių detalių ir turi aiškų veikėją.'
-  susije_objektai: 'territory: Viena; mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Viena'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Viena'
+  susije_objektai: 'mentioned_author: [[objektai/autoriai/Henrikas|Henrikas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Henrikas iš Lichtenšteino|Henrikas iš Lichtenšteino]]; mentioned_person: [[objektai/asmenys/Martynas iš Golino|Martynas iš Golino]]; mentioned_person: [[objektai/asmenys/Sventopelkas|Sventopelkas]]; mentioned_place: Viena'
   pagrindžia:
     - c-002
 
@@ -61,8 +60,8 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
   global_id: t-63808
   teiginys: 'Lenkijos kunigaikštis Kazimieras buvo pakviestas žygiuoti su kariuomene prieš Sventopelką.'
   sudarymo_pagrindimas: 'Sakinys sutrumpintas iki aiškaus, citata pagrįsto veiksmo.'
-  susije_objektai: 'territory: Lenkija; territory: Naklas; territory: Pomeranija; mentioned_place: Lenkija; mentioned_place: Naklas; mentioned_place: Pomeranija'
-  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Lenkija; [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Naklas; [[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Pomeranija'
+  susije_objektai: 'territory: Lenkija; mentioned_place: Lenkija; mentioned_place: Naklas; mentioned_place: Pomeranija'
+  semantiniai_rysiai: '[[objektai/asmenys/Kazimieras (Kujavijos kunigaikštis)|Kazimieras (Kujavijos kunigaikštis)]] buvo valdovas Lenkija'
   pagrindžia:
     - c-004
 
@@ -197,6 +196,3 @@ Dusburgietis teigia, kad pasikvietė pas save iš Lenkijos kunigaikštį Kazimie
 
 ## Ryšiai
 - Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Naklas]]
-- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Pomeranija]]
-- Kazimieras (Kujavijos kunigaikštis) buvo_valdovas [[objektai/vietos/Viena]]

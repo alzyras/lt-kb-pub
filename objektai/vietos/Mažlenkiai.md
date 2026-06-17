@@ -36,8 +36,6 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   susije_objektai: 'mentioned_place: Didlenkiai; mentioned_place: Lenkija; mentioned_place: Liublinas'
   pagrindžia:
     - c-002
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93745|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir savo šalininkų buvo dukart išrinktas Lenkijos karaliumi.
-- susijęs iš [[objektai/asmenys/Ziemovitas.md#claim-t-93748|Ziemovitas]]: Mozūrų kunigaikštis Ziemovitas reiškė pretenzijas į Lenkijos sostą ir buvo dukart savo šalininkų išrinktas Lenkijos karaliumi.
 - susijęs iš [[objektai/asmenys/Andriejus.md#claim-t-35028|Andriejus]]: Vyriausias Jogailos brolis Andriejus rengė koaliciją prieš Jogailą.
 - susijęs iš [[objektai/asmenys/Vladislovas iš Opolijos.md#claim-t-35323|Vladislovas iš Opolijos]]: Vladislovas iš Opolijos buvo vienas kandidatų tapti Jadvygos vyru, bet lenkams nepatiko dėl kilmės iš Silezijos kunigaikščių giminės.
 - susijęs iš [[objektai/asmenys/Ziemovitas III.md#claim-t-30474|Ziemovitas III]]: Jogaila geruoju susitarė su Mozūrijos Ziemovitu III po to, kai mažlenkių ponai jėga išvarė Vilhelmą.
@@ -97,6 +95,3 @@ Sudarant Liublino uniją, Lenkijoje, be seimelių, dar būdavo daromi dviejų jo
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Ziemovitas]] buvo_valdovas Mažlenkiai

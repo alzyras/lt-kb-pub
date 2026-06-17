@@ -165,21 +165,12 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia konkretų faktą apie Švedijos karaliaus sprendimą.'
-  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_person: [[objektai/asmenys/Augustas|Augustas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40368|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Narimantas Gediminaitis.md#claim-t-40369|Narimantas Gediminaitis]]: Narimantas Gediminaitis valdė Orechovą, svarbų strateginį punktą Ladogos paežerėje prie Nevos ištakų.
-- susijęs iš [[objektai/asmenys/Jonas (Suomijos kunigaikštis).md#claim-t-87712|Jonas (Suomijos kunigaikštis)]]: Suomijos kunigaikštis Jonas Vilniuje sudarė santuoką su Kotryna Jogailaite ir vėliau tapo Švedijos karaliumi.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79076|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX rengėsi duoti nurodymą siųsti gvardijos kavaleriją į lemiamą ataką.
 - susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79077|Karolis IX]]: Salaspilio mūšyje Švedijos karalius Karolis IX vos nepateko į nelaisvę.
-- susijęs iš [[objektai/asmenys/Karolis IX.md#claim-t-79082|Karolis IX]]: Karolis IX buvo Švedijos karalius ir Karolio Karlsono Gyllenhielmo tėvas.
-- susijęs iš [[objektai/asmenys/Mieška.md#claim-t-78066|Mieška]]: Lenkijos valdovas Mieška krikštijosi 966 m.
-- susijęs iš [[objektai/asmenys/Olafas (Norvegijos valdovas).md#claim-t-19180|Olafas (Norvegijos valdovas)]]: Norvegijos valdovas Olafas 997 m. pradėjo šalies christianizaciją.
 - susijęs iš [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis).md#claim-t-19181|Olafas (pietų Švedijos kunigaikštis)]]: Pietų Švedijos kunigaikštis Olafas buvo pakrikštytas 1008 m.
-- susijęs iš [[objektai/asmenys/Steponas Batoras.md#claim-t-113967|Steponas Batoras]]: Stepono Batoro laikais Vilnius tapo pagrindine kariuomenių susibūrimo vieta, o pats karalius čia dažnai būdavo.
-- susijęs iš [[objektai/zodynas/christianizacija.md#claim-t-22093|christianizacija]]: 997 m. Norvegijos valdovas Olafas pradėjo šalies christianizaciją, o 1009 m. buvo pakrikštytas Lietuvos „karalius“ Netimeras.
-- susijęs iš [[objektai/asmenys/Zigmantas Vaza.md#claim-t-82987|Zigmantas Vaza]]: 1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.
 - susijęs iš [[objektai/grupes/Švedijos kariuomenė.md#claim-t-41214|Švedijos kariuomenė]]: Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Adalbertas.md#claim-t-18754|Adalbertas]]: Šv. Adalberto misija Prūsijoje 997 m. baigėsi kankinyste.
@@ -579,13 +570,6 @@ Livonija tada buvo suskaldyta tarp kelių valstybių: vieną dalį valdė Lietuv
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Narimantas Gediminaitis]] valde_teritorija Švedija
-- [[objektai/asmenys/Adalbertas]] buvo_valdovas Švedija
-- [[objektai/asmenys/Jonas (Suomijos kunigaikštis)]] buvo_valdovas Švedija
 - [[objektai/asmenys/Karolis IX]] buvo_valdovas Švedija
-- [[objektai/asmenys/Mieška]] buvo_valdovas Švedija
-- [[objektai/asmenys/Olafas (Norvegijos valdovas)]] buvo_valdovas Švedija
 - [[objektai/asmenys/Olafas (pietų Švedijos kunigaikštis)]] buvo_valdovas Švedija
-- [[objektai/asmenys/Steponas Batoras]] buvo_valdovas Švedija
-- [[objektai/asmenys/Zigmantas Vaza]] keliavo_i Švedija
 - [[objektai/grupes/Švedijos kariuomenė]] puole Švedija

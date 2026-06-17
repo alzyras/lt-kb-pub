@@ -30,10 +30,9 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
   teiginys: 'XIV a. antrojoje pusėje Smotričius priklausė Jurgiui Karijotaičiui, o po jo mirties 1375 m. - Aleksandrui Karijotaičiui.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Citata teigia priklausymą, todėl „valdė“ pakeista tikslesne formuluote.'
-  susije_objektai: 'owner: Podolė; owner: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Podolė'
-  semantiniai_rysiai: 'Smotričius priklausė [[objektai/grupes/Totoriai|Totoriai]]; Smotričius priklausė Podolė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Podolė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1240 m.; priklausymo laikotarpis: 1375 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Smotričius priklausė Totoriai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Smotričius priklausė Podolė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata teigia priklausymą, todėl „valdė“ pakeista tikslesne formuluote.'
   pagrindžia:
     - c-001
@@ -99,7 +98,3 @@ Smotričius yra sena Podolės gyvenvietė, minima jau XII a. 1240 m. ją sunaiki
     - t-002
     - t-001
     - t-004
-
-## Ryšiai
-- Smotričius priklause [[objektai/vietos/Podolė]]
-- Smotričius priklause [[objektai/grupes/Totoriai]]

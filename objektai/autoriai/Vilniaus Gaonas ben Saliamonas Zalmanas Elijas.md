@@ -89,7 +89,7 @@ Vilniaus Gaonas ben Saliamonas Zalmanas Elijas pristatomas kaip viena iškiliaus
   global_id: t-75437
   teiginys: 'Vilniaus Gaonas ben Saliamonas Zalmanas Elijas gyveno 1720–1797 m. ir laikomas viena iškiliausių pasaulio žydų istorijos asmenybių.'
   sudarymo_pagrindimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'
-  susije_objektai: 'location: Lietuva; location: Viena; location: Vilnius; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
+  susije_objektai: 'location: Viena; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_object: [[objektai/zodynas/akcijos|akcijos]]; mentioned_place: Lietuva; mentioned_place: Viena; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'gyvenimo laikotarpis: 1720-1797; gyvenimo laikotarpis: 1797 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „gyvenimo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Sakinys aiškiai apibūdina asmenį ir jo reikšmę pagal citatą.'

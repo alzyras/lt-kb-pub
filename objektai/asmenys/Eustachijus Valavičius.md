@@ -93,8 +93,3 @@ tags:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Eustachijus Valavičius buvo_valdovas [[objektai/vietos/Maskva]]
-- Eustachijus Valavičius buvo_valdovas [[objektai/vietos/Trakai]]
-- Eustachijus Valavičius buvo_valdovas [[objektai/vietos/Vilnius]]

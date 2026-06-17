@@ -91,9 +91,6 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
 - susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
 - susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
 - susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
-- susijęs iš Augustavo gubernija: Lietuvos Užnemunė priklausė gubernijai, kuri iš pradžių vadinta Augustavo gubernija, o nuo 1867 m. – Suvalkų gubernija.
-- susijęs iš Suvalkų gubernija: Nuo 1867 m. Lietuvos Užnemunė priklausė Suvalkų gubernijai, apėmusiai maždaug šeštadalį dabartinės Lietuvos teritorijos.
-- susijęs iš Užnemunė: Lietuvos Užnemunė priklausė gubernijai, iš pradžių vadintai Augustavo, o nuo 1867 m. Suvalkų gubernija.
 ## Reikšmingi paminėjimai
 
 - c-001
@@ -201,6 +198,5 @@ Lietuvos Užnemunėje nurodyta kurti mokyklas rusų dėstomąja kalba, lietuvių
     - t-007
 
 ## Ryšiai
-- [[objektai/vietos/Augustavo gubernija]] priklause Lietuvos Užnemunė
-- [[objektai/vietos/Suvalkų gubernija]] priklause Lietuvos Užnemunė
-- [[objektai/vietos/Užnemunė]] priklause Lietuvos Užnemunė
+- Lietuvos Užnemunė priklause [[objektai/vietos/Augustavo gubernija]]
+- Lietuvos Užnemunė priklause [[objektai/vietos/Suvalkų gubernija]]

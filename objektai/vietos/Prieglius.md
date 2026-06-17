@@ -42,9 +42,9 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   global_id: t-58369
   teiginys: 'Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie Vėluvos pilį prie Priegliaus.'
-  susije_objektai: 'object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; object: Kulmas; object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: Prūsai; object: Semba; object: [[objektai/grupes/Sūduviai|Sūduviai]]; object: Vėluva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
-  temporaliniai_duomenys: 'mūšio data: 1262 m.; mūšio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Sūduviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Semba“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Vėluva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prūsai; mentioned_place: Semba; mentioned_place: Vėluva'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys pilnas ir tiesiogiai paremtas citata apie Vėluvos pilį prie Priegliaus.'
   pagrindžia:
     - c-004
@@ -77,11 +77,9 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Kuorai|Kuorai]]; mentioned_place: Prūsai'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/grupes/Notangai.md#claim-t-78406|Notangai]]: Notangai gyveno Notangoje, teritorijoje į rytus nuo Varmės, siekusioje Priegliaus pakrantes ir Alnos upę.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Vėluva: Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10071|Algirdas (Lietuvos valdovas)]]: 1358 m. derybose su Šv. Romos imperatoriumi Karoliu IV Algirdas reikalavo iškelti kryžiuočius į rytų stepes kovoti su mongolais.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-10072|Algirdas (Lietuvos valdovas)]]: Tose pačiose derybose Algirdas reikalavo sugrąžinti Lietuvai baltų žemes vakaruose iki Alnos, Priegliaus ir Dauguvos.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-176301|Algirdas (Lietuvos valdovas)]]: Algirdas 1358 m. derybose su Karoliu IV reikalavo iškelti kryžiuočius į rytų stepes ir sugrąžinti Lietuvai vakarines baltų žemes.
@@ -236,7 +234,5 @@ Dusburgietis teigia, kad priegliaus intako), o vietovardžiai, kilę iš atitink
 
 ## Ryšiai
 - [[objektai/grupes/Notangai]] gyveno Prieglius
-- [[objektai/asmenys/Tirskas]] uzkariavo Prieglius
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Prieglius
 - [[objektai/grupes/Sūduviai]] puole Prieglius
 - [[objektai/grupes/Sūduviai-jotvingiai]] puole Prieglius

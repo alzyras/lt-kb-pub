@@ -327,7 +327,3 @@ Kai imperatorius (Romos karalius) pranešė, jog esąs parengęs du vainikus (Vy
   pagrindžia:
     - t-003
     - t-009
-
-## Ryšiai
-- Martynas V buvo_valdovas [[objektai/vietos/Kulmas]]
-- Martynas V buvo_valdovas [[objektai/vietos/Lietuva]]

@@ -102,38 +102,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Lietuvos švietimo integravimą į Europą.'
   pagrindžia:
     - c-005
-- susijęs iš Vilnius: Vytautas tarpukario Lietuvoje įkūnijo tautinį ir politinį idealą, nes laikytas Lietuvos vaduotoju iš priklausomybės nuo lenkų ir palaidotas Vilniuje.
-- susijęs iš [[objektai/asmenys/Kotryna II.md#claim-t-63843|Kotryna II]]: Kotryna II valdė 1762-1796 m., o jos laikais Rusija pradėjo vadovauti rytų Europos politikai ir kištis į centro bei vakarų Europos konfliktus.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176640|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis, Kęstučio sūnus, valdė 1392–1430 m. ir šaltinyje vadinamas iškiliausiu Gediminaičių dinastijos atstovu.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176646|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Kęstučio sūnus Vytautas Didysis valdė 1392–1430 m. ir laikytas iškiliausiu dinastijos atstovu.
-- susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176700|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas Didysis buvo Kęstučio sūnus ir valdė 1392–1430 m.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92027|Auksinė Orda]]: Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.
-- susijęs iš [[objektai/grupes/Dregovičiai.md#claim-t-31176|Dregovičiai]]: Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.
-- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
-- susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Dauguva: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš Vysla: Pirmajame tūkstantmetyje po Kristaus baltų gentys gyveno plačioje teritorijoje nuo maždaug Vyslos ir Dauguvos žemupių iki dabartinės Maskvos.
-- susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-184255|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras kartu su Algirdu puolė totorių galybę, kuri Vytauto laikais jau buvo nusilpusi.
-- susijęs iš [[objektai/asmenys/Dimitras (Maskvos kunigaikštis).md#claim-t-34718|Dimitras (Maskvos kunigaikštis)]]: Maskvos kunigaikštis Dimitras puolė totorių galybę, kuri Vytauto laikais jau buvo žlugusi.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
-- susijęs iš [[objektai/asmenys/Karolis (švedų kunigaikštis).md#claim-t-40261|Karolis (švedų kunigaikštis)]]: Švedų kunigaikštis Karolis vadovavo Revelio danų kariuomenei ir turėjo savo būrį.
-- susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93426|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.
-- susijęs iš [[objektai/asmenys/Mechmedas.md#claim-t-186147|Mechmedas]]: Pasak Liudviko, turkų valdovas Mechmedas rengėsi kariauti prieš krikščionių pasaulį.
-- susijęs iš [[objektai/asmenys/Steponas (Vengrijos valdovas).md#claim-t-19264|Steponas (Vengrijos valdovas)]]: Vengrijos valdovas Steponas įgijo aukštesnį statusą nei Didysis ir tapo šventuoju Steponu.
-- susijęs iš [[objektai/asmenys/Vaclovas Čekietis.md#claim-t-35305|Vaclovas Čekietis]]: Vaclovas Čekietis buvo Čekijos karalius ir Zigmanto brolis, pas kurį Henrikas von Plauenas vyko prašyti pagalbos prieš Vytautą.
-- susijęs iš [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis).md#claim-t-184290|Vilhelmas (Klivijos kunigaikštis)]]: Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai.
-- susijęs iš [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis).md#claim-t-34766|Vilhelmas (Klivijos kunigaikštis)]]: Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.
-- susijęs iš [[objektai/asmenys/Šventaragis.md#claim-t-87898|Šventaragis]]: Pasakojime kunigaikštis Šventaragis vaizduojamas kaip apie 1268 m. Lietuvoje viešpatavęs Germanto tėvas.
-- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12354|Auksinė Orda]]: Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.
-- susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
-- susijęs iš [[objektai/ivykiai/Kryžiuočių ordino atsikraustymas į Prūsus.md#claim-t-01678|Kryžiuočių ordino atsikraustymas į Prūsus]]: Kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir rūpintis vietinių bei aplinkinių krikščionių apsauga.
-- susijęs iš [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje.md#claim-t-87305|Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]: Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.
-- susijęs iš [[objektai/asmenys/Henrikas (Meiseno markgrafas).md#claim-t-63617|Henrikas (Meiseno markgrafas)]]: Meiseno markgrafas Henrikas atvyko Ordinui į pagalbą su 500 riterių ir kartu su Kryžiuočių ordinu niokojo Pamedę.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116693|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-116696|Hanza]]: Hanzos miestų tinklui priklausė Kauno miestas.
-- susijęs iš Olandija: XVII-XVIII a. Olandija ir Anglija priklausė šiaurinei, dinamiškajai Vakarų Europos daliai.
 - susijęs iš [[objektai/asmenys/A. Hitleris.md#claim-t-75633|A. Hitleris]]: A. Smetona 1935 m. privačiai apibūdino A. Hitlerį kaip pavojingą politinį pamišėlį, galintį dėl savo pseudoidėjų išnaikinti pusę Europos.
 - susijęs iš [[objektai/asmenys/A. Smetona.md#claim-t-77979|A. Smetona]]: 1940 m. birželį iš Lietuvos išvykęs A. Smetona per Vokietiją, Šveicariją ir Portugaliją pasiekė JAV.
 - susijęs iš [[objektai/asmenys/A. Voldemaras.md#claim-t-78001|A. Voldemaras]]: Stiprėjant Europos sienų neliečiamumo tendencijai, A. Voldemaras negalėjo pakeisti Lietuvos padėties Vilniaus klausimu.
@@ -425,6 +394,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Abveras.md#claim-t-19624|Abveras]]: Karinė LAF dalis bendradarbiavo su Abveru ir turėjo pirmiausia užimti tiltus, geležinkelio mazgus, oro uostus bei fabrikus.
 - susijęs iš [[objektai/grupes/Amerikos lietuvių taryba.md#claim-t-23465|Amerikos lietuvių taryba (institucija)]]: Amerikos lietuvių taryba, įsteigta 1940 m., buvo viena svarbiausių ir stipriausių JAV lietuvių išeivijos organizacijų.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12353|Auksinė Orda]]: Aukso Orda šiame šaltinyje apibūdinama kaip prie Kaspijos jūros įsikūrusi totorių valstybė.
+- susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-12354|Auksinė Orda]]: Tamerlano smūgis išvijo Tochtamyšą, o Auksinėje Ordoje buvo pasodintas naujas valdovas.
 - susijęs iš [[objektai/grupes/Auksinė Orda.md#claim-t-92027|Auksinė Orda]]: Tamerlanas išvijo Auksinės Ordos valdytoją Tochtamyšą, kuris buvo įsigalėjęs Rytų Europoje ir valdė nemažus rusų žemių plotus.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169560|Bajorai]]: Lenkijoje ir Lietuvoje bajorų luomas sudarė apie 6,5 proc. krašto gyventojų ir buvo santykinai gausesnis nei kitur Europoje.
 - susijęs iš [[objektai/grupes/Bajorai.md#claim-t-169565|Bajorai]]: Bajorai dvarininkai sudarė tik ketvirtadalį vietos bajorų luomo, o dauguma buvo mažažemiai ir bežemiai bajorai.
@@ -433,6 +403,7 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 - susijęs iš [[objektai/grupes/Baltai.md#claim-t-96077|Baltai]]: Viduriniame geležies amžiuje baltai liko gyventi Nemuno, Dauguvos ir Dniepro plote ir nedaug judėjo.
 - susijęs iš [[objektai/grupes/Baltų kovų brolija „Vilkatlakai“.md#claim-t-40863|Baltų kovų brolija „Vilkatlakai“]]: Baltų kovų brolija „Vilkatlakai“ rekonstravo X-XI a. Vakarų Europos dviašmenį kalaviją.
 - susijęs iš [[objektai/grupes/Bizantijos imperija.md#claim-t-01290|Bizantijos imperija]]: Bizantijos imperiją su skandinavais siejo nuolatinis upių susisiekimas.
+- susijęs iš [[objektai/grupes/Danijos karaliaus kariai iš Revelio.md#claim-t-40872|Danijos karaliaus kariai iš Revelio]]: Revelio danų kariuomenei vadovavo švedų kunigaikštis Karolis, turėjęs ir savo būrį.
 - susijęs iš [[objektai/grupes/Domininkonų ordinas.md#claim-t-112521|Domininkonų ordinas]]: Domininkonai, iš naujo skelbdami kryžiaus karą, turėjo atvesti naujus piligrimų būrius iš kelių Europos kraštų.
 - susijęs iš [[objektai/grupes/Dregovičiai.md#claim-t-31176|Dregovičiai]]: Dregovičiai Beržūnės baseine, nors Kijevo Rusia 988 m. priėmė Bizantijos krikštą, gyveno gana žemame kultūros laipsnyje.
 - susijęs iš [[objektai/grupes/Edukacinė Komisija.md#claim-t-107736|Edukacinė Komisija]]: Edukacinė Komisija buvo laikoma pirmu Europoje atveju, kai švietimą perėmė valstybė.
@@ -1323,22 +1294,3 @@ Kartu jis atsuko į Europą jos politinį veidą ir eile sėkmingų karų pasiek
 
 ## Ryšiai
 - [[objektai/grupes/Auksinė Orda]] valde_teritorija Europa
-- [[objektai/asmenys/Kotryna II]] valde_teritorija Europa
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] valde_teritorija Europa
-- [[objektai/grupes/Dregovičiai]] gyveno Europa
-- [[objektai/grupes/Krivičiai]] gyveno Europa
-- [[objektai/grupes/Auksinė Orda]] susije_su Europa
-- [[objektai/grupes/Danijos karaliaus kariai iš Revelio]] susije_su Europa
-- [[objektai/asmenys/Dimitras (Maskvos kunigaikštis)]] buvo_valdovas Europa
-- [[objektai/asmenys/Dimitrijus]] buvo_valdovas Europa
-- [[objektai/asmenys/Karolis (švedų kunigaikštis)]] buvo_valdovas Europa
-- [[objektai/asmenys/Konradas]] buvo_valdovas Europa
-- [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] buvo_valdovas Europa
-- [[objektai/asmenys/Mechmedas]] buvo_valdovas Europa
-- [[objektai/asmenys/Steponas (Vengrijos valdovas)]] buvo_valdovas Europa
-- [[objektai/asmenys/Vaclovas Čekietis]] buvo_valdovas Europa
-- [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)]] buvo_valdovas Europa
-- [[objektai/asmenys/Šventaragis]] buvo_valdovas Europa
-- [[objektai/grupes/Hanza]] priklause Europa
-- [[objektai/asmenys/Henrikas (Meiseno markgrafas)]] keliavo_i Europa
-- [[objektai/vietos/Olandija]] priklause Europa

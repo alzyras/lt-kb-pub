@@ -65,10 +65,9 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135436
   teiginys: '1412 m. Lietuvos bajorai pareiškė, kad Karaliaučius kitados priklausė Lietuvai ir turi būti atgautas kaip Vytauto tėvonija.'
   sudarymo_pagrindimas: 'Pašalintas netikslus autorystės priskyrimas ir suformuotas aiškus faktinis sakinys.'
-  susije_objektai: 'owner: [[objektai/grupes/Bajorai|Bajorai]]; owner: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; owner: Lietuva; owner: [[objektai/grupes/Lietuviai|Lietuviai]]; owner: Prūsai; owner: Ragainė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė'
-  semantiniai_rysiai: 'Karaliaučius priklausė [[objektai/grupes/Bajorai|Bajorai]]; Karaliaučius priklausė [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; Karaliaučius priklausė [[objektai/grupes/Lietuviai|Lietuviai]]; Karaliaučius priklausė Lietuva; Karaliaučius priklausė Prūsai; Karaliaučius priklausė Ragainė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Prūsai; mentioned_place: Ragainė'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1412 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Karaliaučius priklausė Bajorai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karaliaučius priklausė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karaliaučius priklausė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karaliaučius priklausė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karaliaučius priklausė Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Karaliaučius priklausė Ragainė“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalintas netikslus autorystės priskyrimas ir suformuotas aiškus faktinis sakinys.'
   pagrindžia:
     - c-025
@@ -283,7 +282,7 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   global_id: t-135460
   teiginys: 'Ignas Onacevičius nuvyko į Karaliaučių rinkti istorinių dokumentų iš slaptojo Kryžiuočių ordino archyvo.'
   sudarymo_pagrindimas: 'Teiginys yra faktinis, aiškus ir tiesiogiai atitinka citatą.'
-  susije_objektai: 'location: Lenkija; location: Lietuva; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Ignas Onacevičius|Ignas Onacevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_object: [[objektai/daiktai/Duona|Duona]]; mentioned_person: [[objektai/asmenys/Aleksandras Balinskis|Aleksandras Balinskis]]; mentioned_person: [[objektai/asmenys/Ignas Onacevičius|Ignas Onacevičius]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-021
 
@@ -570,8 +569,6 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   susije_objektai: 'mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-042
-- susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams pareiškė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
-- susijęs iš Ragainė: 1412 m. Lietuvos bajorai kryžiuočių pasiuntiniams teigė, kad Ragainė ir Karaliaučius kitados priklausė Lietuvai.
 - susijęs iš [[objektai/autoriai/A. Alekna.md#claim-t-64506|A. Alekna]]: A. Alekna parašė „Katalikų Bažnyčia Lietuvoje“, išleistą Kaune 1936 m.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178861|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-182899|Kryžiuočių ordinas]]: Lenkijos vasalu likęs Kryžiuočių ordinas savo sostinę perkėlė į Karaliaučių.
@@ -1344,12 +1341,3 @@ Karaliaučius aprašomas kaip stipri Ordino pilis, svarbus prekybos miestas ir p
   statusas: verified
   pagrindžia:
     - t-058
-
-## Ryšiai
-- Karaliaučius priklause [[objektai/grupes/Bajorai]]
-- Karaliaučius priklause [[objektai/grupes/Kryžiuočių ordinas]]
-- Karaliaučius priklause [[objektai/vietos/Lietuva]]
-- Karaliaučius priklause [[objektai/grupes/Lietuviai]]
-- Karaliaučius priklause [[objektai/vietos/Prūsai]]
-- Karaliaučius priklause [[objektai/vietos/Ragainė]]
-- [[objektai/vietos/Ragainė]] priklause Karaliaučius

@@ -29,10 +29,10 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 - t-001
   global_id: t-40404
   teiginys: 'Briansko kunigaikštis Romanas buvo priverstas su sūnumi Olegu dalyvauti antpuolyje prieš Lietuvą.'
-  susije_objektai: 'territory: Brianskas; territory: Lietuva; territory: Smolenskas; territory: Turovas; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Timūras (Tamerlanas)|Timūras (Tamerlanas)]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Turovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]] buvo valdovas Brianskas; [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]] buvo valdovas Lietuva; [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]] buvo valdovas Smolenskas; [[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]] buvo valdovas Turovas'
+  susije_objektai: 'territory: Brianskas; mentioned_group: [[objektai/grupes/Rusėnai|Rusėnai]]; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_object: [[objektai/zodynas/kunigaikščiai|kunigaikščiai]]; mentioned_person: [[objektai/asmenys/Glebas (Smolensko kunigaikštis)|Glebas (Smolensko kunigaikštis)]]; mentioned_person: [[objektai/asmenys/Timūras (Tamerlanas)|Timūras (Tamerlanas)]]; mentioned_place: Brianskas; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Turovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Romanas (Briansko kunigaikštis)|Romanas (Briansko kunigaikštis)]] buvo valdovas Brianskas'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1275 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Romanas (Briansko kunigaikštis) buvo valdovas Brianskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Romanas (Briansko kunigaikštis) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Romanas (Briansko kunigaikštis) buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Romanas (Briansko kunigaikštis) buvo valdovas Turovas“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Romanas (Briansko kunigaikštis) buvo valdovas Brianskas“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Glebas (Smolensko kunigaikštis).md#claim-t-40124|Glebas (Smolensko kunigaikštis)]]: Smolensko kunigaikštis Glebas buvo priverstas kartu su totoriais dalyvauti antpuolyje prieš Lietuvą.
@@ -67,6 +67,3 @@ Taigi Lietuvos antpuolyje su totoriais buvo priversti dalyvauti Briansko kunigai
 
 ## Ryšiai
 - Romanas (Briansko kunigaikštis) buvo_valdovas [[objektai/vietos/Brianskas]]
-- Romanas (Briansko kunigaikštis) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Romanas (Briansko kunigaikštis) buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Romanas (Briansko kunigaikštis) buvo_valdovas [[objektai/vietos/Turovas]]

@@ -50,7 +50,7 @@ Nenurodyta
   global_id: t-87251
   teiginys: 'Romuvomis vadintose šventose vietovėse vidury šventų girių buvo garbinamas Perkūnas ir gyveno Krivių Krivaitis.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR triukšmo, bet citata tiesiogiai pagrindžia sutvarkytą sakinį.'
-  susije_objektai: 'location: Lietuva; location: Nevėžis; location: Romainiai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_place: Lietuva; mentioned_place: Nevėžis; mentioned_place: Romainiai'
   pagrindžia:
     - c-001
 

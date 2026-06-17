@@ -66,9 +66,6 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
   susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkų bajorai|Lenkų bajorai]]; mentioned_group: [[objektai/grupes/Vokiečiai|Vokiečiai]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lenkija'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
-- susijęs iš [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis).md#claim-t-184290|Vilhelmas (Klivijos kunigaikštis)]]: Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto reikšmę Europai.
-- susijęs iš [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis).md#claim-t-34766|Vilhelmas (Klivijos kunigaikštis)]]: Klivijos kunigaikštis Vilhelmas Konstancijos bažnyčios sinode viešai pabrėžė Vytauto vaidmenį ginant Europą nuo turkų.
 - susijęs iš [[objektai/asmenys/Mykolas Sapienskis.md#claim-t-35256|Mykolas Sapienskis]]: Vytauto sekretorius Mykolas Sapienskis vadovavo žemaičių delegacijai, kuri 1415 m. gale atvyko į Konstanciją.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Falkenbergas.md#claim-t-34787|Falkenbergas]]: Kryžiuotis Falkenbergas mėgino padėti Vokiečių ordinui, išleisdamas Jogailą šmeižiančią knygą.
@@ -220,6 +217,4 @@ Europos visuomenė labai juo domėjosi ir į Konstancijos miestą (dabart. Bet d
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras (Moldavijos valdovas)]] buvo_valdovas Konstancija
-- [[objektai/asmenys/Vilhelmas (Klivijos kunigaikštis)]] buvo_valdovas Konstancija
 - [[objektai/asmenys/Mykolas Sapienskis]] keliavo_i Konstancija

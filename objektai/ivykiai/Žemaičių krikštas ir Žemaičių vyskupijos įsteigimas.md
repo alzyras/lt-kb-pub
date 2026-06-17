@@ -70,7 +70,7 @@ Nenurodyta
   teiginys: 'Lietuvos metraštis pasakoja, kad Vytautas įsteigė Žemaičių vyskupiją ir Medininkuose, žemaičių vadintuose Varniais, pastatė švento Petro bažnyčią.'
   teiginio_tipas: 'saltinio_teiginys'
   sudarymo_pagrindimas: 'Papildytas vietovės paaiškinimas, tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Lietuva; object: Varniai; object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Varniai'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žemaičiai|Žemaičiai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/metraštis|metraštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Varniai'
   pagrindžia:
     - c-001
 

@@ -44,9 +44,9 @@ Nenurodyta
 - t-001
   global_id: t-31497
   teiginys: '1410 m. rugpjūtį Livonijos kariuomenė laivais atvyko į Sembą.'
-  susije_objektai: 'location: Heilsbergas; location: Livonija; location: Marienburgas; location: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Heilsbergas; mentioned_place: Livonija; mentioned_place: Marienburgas; mentioned_place: Semba'
+  susije_objektai: 'location: Semba; mentioned_object: [[objektai/daiktai/Laivai|Laivai]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Heilsbergas; mentioned_place: Livonija; mentioned_place: Marienburgas; mentioned_place: Semba'
   temporaliniai_duomenys: 'kelionės data: 1410 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Heilsbergas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Livonija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Marienburgas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) keliavo į Semba“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 

@@ -30,9 +30,9 @@ Vėlyvą 1830 m. rudenį, prasidėjus sukilimui Varšuvoje, Vil­ niuje susikūr
   global_id: t-87746
   teiginys: 'Justinas Hrebnickis 1830 m. rudenį priklausė Vilniuje susikūrusiam sukilimo centriniam komitetui.'
   sudarymo_pagrindimas: 'Citata palaiko Justino Hrebnickio narystę komitete.'
-  susije_objektai: 'owner: Vilnius; mentioned_place: Rusija; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_place: Rusija; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1830 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Rusija priklausė Vilnius“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko Justino Hrebnickio narystę komitete.'
   pagrindžia:
     - c-001

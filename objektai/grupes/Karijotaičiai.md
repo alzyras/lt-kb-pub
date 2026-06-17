@@ -41,8 +41,7 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
 - t-002
   global_id: t-171342
   teiginys: 'Podolės Karijotaičiams priklausė Jurgis, Aleksandras, Konstantinas ir Teodoras.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Kamenecas; owner: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; owner: Lietuva; owner: Podolė; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė'
-  semantiniai_rysiai: '[[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Algirdas|Algirdas]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Kamenecas; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Lietuva; [[objektai/grupes/Karijotaičiai|Karijotaičiai]] priklausė Podolė'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_place: Kamenecas; mentioned_place: Lietuva; mentioned_place: Podolė'
   pagrindžia:
     - c-005
 
@@ -75,7 +74,6 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_place: Podolė'
   pagrindžia:
     - c-001
-- susijęs iš Kijevas: Kijevo kunigaikštystė drauge su Podole buvo įjungta į Lietuvos valstybę ir nuo Gedimino laikų priklausė didžiajam Lietuvos kunigaikščiui.
 - susijęs iš [[objektai/asmenys/Borisas Karijotaitis.md#claim-t-184371|Borisas Karijotaitis]]: Podolėje įsikūrę Borisas ir Konstantinas Karijotaičiai turėjo įtakos Lietuvos ir Lenkijos suartėjimui.
 - susijęs iš [[objektai/asmenys/Chadžibėjus.md#claim-t-39502|Chadžibėjus]]: Chadžibėjus buvo vienas iš trijų vadų-kunigaikščių, kurių kariuomenė susirėmė su Lietuvos kariuomene.
 - susijęs iš [[objektai/asmenys/Dmitrijus (totorių vadas).md#claim-t-78962|Dmitrijus (totorių vadas)]]: Dmitrijus buvo vienas iš trijų Juodosios jūros pajūrio ir Krymo totorių teritorijos vadų-kunigaikščių.
@@ -234,11 +232,3 @@ Dar nėra galutinai išaiškintas klausimas, kada Karijotaičiai yra pasirodę P
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Karijotaičiai priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Karijotaičiai priklause [[objektai/vietos/Kamenecas]]
-- Karijotaičiai priklause [[objektai/asmenys/Konstantinas (Karijotaitis)]]
-- Karijotaičiai priklause [[objektai/vietos/Lietuva]]
-- Karijotaičiai priklause [[objektai/vietos/Podolė]]
-- [[objektai/vietos/Kijevas]] priklause Karijotaičiai

@@ -31,9 +31,9 @@ periodo_grupes:
   global_id: t-19318
   teiginys: 'Kunigas Vincentas Vėlavičius priklausė 1978 m. lapkričio 13 d. Lietuvoje įkurtam Tikinčiųjų teisių gynimo komitetui.'
   sudarymo_pagrindimas: 'Pradinis teiginys nemini objekto; citata remia faktą apie Vincentą Vėlavičių.'
-  susije_objektai: 'owner: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; owner: Lietuva; owner: Maskva; mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_object: [[objektai/zodynas/kulto laisvė|kulto laisvė]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_person: [[objektai/asmenys/Jonas Kauneckas|Jonas Kauneckas]]; mentioned_person: [[objektai/asmenys/Juozas Zdebskis|Juozas Zdebskis]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1978 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas Kauneckas susiję su Juozas Zdebskis (kunigas)“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Kauneckas susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas Kauneckas susiję su Lietuva“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nemini objekto; citata remia faktą apie Vincentą Vėlavičių.'
   pagrindžia:
     - c-001

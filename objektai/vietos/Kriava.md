@@ -32,7 +32,7 @@ amziai:
   global_id: t-180060
   teiginys: 'Kriavo ir Vitebsko kunigaikštis Algirdas sėkmingai gynė Pskovą nuo Livonijos kryžiuočių.'
   sudarymo_pagrindimas: 'Teiginys yra gramatiškas ir aiškiai pagrįstas citata.'
-  susije_objektai: 'territory: Livonija; territory: Pskovas; territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Vitebskas'
+  susije_objektai: 'territory: Vitebskas; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Jaunutis|Jaunutis]]; mentioned_place: Livonija; mentioned_place: Pskovas; mentioned_place: Vitebskas'
   pagrindžia:
     - c-002
 

@@ -22,8 +22,7 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   global_id: t-100069
   teiginys: 'Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius Cibulka.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir mini Cibulkos veiksmą.'
-  susije_objektai: 'location: Lietuva; location: Vengrija; mentioned_person: [[objektai/asmenys/Butrimas|Butrimas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
-  semantiniai_rysiai: '[[objektai/asmenys/Cibulka|Cibulka]] keliavo į Lietuva; [[objektai/asmenys/Cibulka|Cibulka]] keliavo į Vengrija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Butrimas|Butrimas]]; mentioned_person: [[objektai/asmenys/Vaclovas|Vaclovas]]; mentioned_place: Lietuva; mentioned_place: Vengrija'
   pagrindžia:
     - c-001
 - susijęs iš Aukštaitija: Vytautas rašte Zigmantui teigė, kad Aukštaitija ir Žemaitija yra dvi neatskiriamos Lietuvos dalys.
@@ -44,7 +43,3 @@ Lietuvos vardu protesto pareikšti Pragon nuvyko Butrimas ir Vytauto sekretorius
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Cibulka keliavo_i [[objektai/vietos/Lietuva]]
-- Cibulka keliavo_i [[objektai/vietos/Vengrija]]

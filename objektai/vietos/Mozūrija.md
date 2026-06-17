@@ -61,16 +61,10 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
   temporalinis_llm_pakomentavimas: 'Pašalinta perteklinė kontekstinė dalis ir paliktas tiesiogiai su Mozūrija susijęs faktas.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/grupes/Liuksemburgiečių dinastija.md#claim-t-35715|Liuksemburgiečių dinastija]]: Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei.
-- susijęs iš [[objektai/grupes/Kalavijuočių ordinas.md#claim-t-175551|Kalavijuočių ordinas]]: 1202 m. Dauguvos žiotyse susikūręs Kalavijuočių ordinas pamažu užkariavo lybius, latvius, estus ir kuršius.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93423|Konradas (Mozūrijos kunigaikštis)]]: 1230 m. Mozūrijos kunigaikštis Konradas, negalėdamas apsiginti nuo prūsų puolimų, pasikvietė į pagalbą Kryžiuočių ordiną.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93424|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Ordiną ir padovanojo jam Kulmo žemę, po ko prasidėjo metodiški kryžiaus žygiai į Prūsiją.
 - susijęs iš [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis).md#claim-t-93426|Konradas (Mozūrijos kunigaikštis)]]: Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordiną persikelti į Prūsus ir saugoti vietinius bei aplinkinius krikščionis.
 - susijęs iš [[objektai/asmenys/Konradas.md#claim-t-79083|Konradas]]: Mozūrijos kunigaikštis Konradas 1226–1228 m. pakvietė Ordiną ir padovanojo jam Kulmo žemę.
-- susijęs iš [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas.md#claim-t-35250|Mozūrijos kunigaikštis Jonušas]]: Mozūrijos kunigaikštis Jonušas 1380 m. vedė Danutą, kuri krikšte gavo ir Marijos vardą.
-- susijęs iš [[objektai/asmenys/Mozūrų kunigaikštis Henrikas.md#claim-t-34819|Mozūrų kunigaikštis Henrikas]]: 1392 m. Mozūrų kunigaikštis Henrikas Ritesverderyje vedė Ringailę.
-- susijęs iš [[objektai/asmenys/Ringailė.md#claim-t-93490|Ringailė]]: 1392 m. Ringailę vedė Ritesverderyje kitas Mozūrijos kunigaikštis Henrikas.
-- susijęs iš [[objektai/asmenys/Traidenis I.md#claim-t-30401|Traidenis I]]: Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.
 - susijęs iš [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis).md#claim-t-40545|Zemovitas (Mozūrijos kunigaikštis)]]: 1260 m. birželio 5 d. Mozūrijos kunigaikštis Zemovitas su Ordinu sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį.
 - susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-179023|Kryžiuočių ordinas]]: 1230 m. Mozūrijos kunigaikštis Konradas pakvietė Vokiečių ordino riterius kurtis Kulmo žemėje prie Vyslos kovai su prūsais.
 - susijęs iš [[objektai/paprociai/Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas.md#claim-t-09532|Sūduvos pasidalijimo sutartys ir sąjungų stiprinimas]]: 1260 m. birželio 5 d. Ordinas ir Mozūrijos kunigaikštis Zemovitas sudarė dar neužgrobtos Sūduvos pasidalijimo sutartį ir sustiprino tarpusavio sąjungą.
@@ -169,15 +163,8 @@ Išleidęs savo dukterį už Płocko «Vankos », Gediminas ir savo laiškuose k
     - t-001
 
 ## Ryšiai
-- [[objektai/grupes/Liuksemburgiečių dinastija]] valde_teritorija Mozūrija
-- [[objektai/grupes/Kalavijuočių ordinas]] uzkariavo Mozūrija
-- [[objektai/asmenys/Hermanas iš Zalcos|Hermanas iš Zalcos (kryžiuočių ordino magistras, XIII a.)]] buvo_valdovas Mozūrija
 - [[objektai/asmenys/Konradas]] buvo_valdovas Mozūrija
 - [[objektai/asmenys/Konradas (Mozūrijos kunigaikštis)]] buvo_valdovas Mozūrija
 - [[objektai/grupes/Kryžiuočių ordinas]] susije_su Mozūrija
-- [[objektai/asmenys/Mozūrijos kunigaikštis Jonušas]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Mozūrų kunigaikštis Henrikas]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Ringailė]] buvo_valdovas Mozūrija
-- [[objektai/asmenys/Traidenis I]] buvo_valdovas Mozūrija
 - [[objektai/asmenys/Zemovitas]] buvo_valdovas Mozūrija
 - [[objektai/asmenys/Zemovitas (Mozūrijos kunigaikštis)]] buvo_valdovas Mozūrija

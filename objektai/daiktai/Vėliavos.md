@@ -186,7 +186,7 @@ Nenurodyta
   global_id: t-176212
   teiginys: 'Zyndramas iš Moškovicų kovojo prie vyriausios vėliavos, o visos sąjunginės kariuomenės vadovybė atiteko Vytautui.'
   sudarymo_pagrindimas: 'Reikia sklandesnės, enciklopedinės formuluotės be neaiškaus žodžio „vedimui“.'
-  susije_objektai: 'counterparty: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zyndramas iš Moškovicų|Zyndramas iš Moškovicų]]; mentioned_place: Drevenca; mentioned_place: Krokuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_person: [[objektai/asmenys/Zyndramas iš Moškovicų|Zyndramas iš Moškovicų]]; mentioned_place: Drevenca; mentioned_place: Krokuva'
   pagrindžia:
     - c-006
 

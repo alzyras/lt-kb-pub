@@ -51,7 +51,7 @@ O pilies kalno pietų pusėje, tarp jo ir Vilnelės upės, stovėjo didžiuliai 
   teiginys: 'Vytautas su visomis pajėgomis apgulė Vilnių ir pradėjo šturmuoti Kreivąją pilį bei šaudyti iš patrankų.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Pašalintas titulas ir išlaikytas tiesiogiai cituotas veiksmas apie Kreivąją pilį. Dieviškos pagalbos motyvas sąmoningai neįtrauktas.'
-  susije_objektai: 'object: [[objektai/grupes/Bajorai|Bajorai]]; object: Lietuva; object: Smolenskas; object: Vilnius; object: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
+  susije_objektai: 'object: Vilnius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_person: [[objektai/asmenys/Konstantinas (Karijotaitis)|Konstantinas (Karijotaitis)]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Smolenskas; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
 

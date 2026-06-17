@@ -78,6 +78,3 @@ Dusburgietis teigia, kad visa tai plukdydami Zirgūnos upe, broliai bei jų tarn
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Samilis gyveno [[objektai/vietos/Pamedė]]

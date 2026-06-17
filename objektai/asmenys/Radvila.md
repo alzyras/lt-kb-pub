@@ -125,6 +125,3 @@ Radvila kartu su Goštautu ir Rumbaudu lydėjo Vytautą, kai šis išvyko pas im
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Radvila dalyvavo_musyje [[objektai/ivykiai/Lojevo mūšis (1649 m. liepos 31 d.)]]

@@ -210,9 +210,9 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   global_id: t-180445
   teiginys: 'Skirgaila sėkmingai apgulė Polocką, pats jame įsitvirtino, o Andrių paėmė į nelaisvę ir išsiuntė į Lenkiją.'
   sudarymo_pagrindimas: 'Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau.'
-  susije_objektai: 'object: Lenkija; object: Mstislavlis; object: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; object: [[objektai/grupes/Totoriai|Totoriai]]; object: Vechra; object: Vorskla; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Lenkija; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
+  susije_objektai: 'object: Lenkija; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Skirgaila|Skirgaila]]; mentioned_person: [[objektai/asmenys/Sviatoslavas|Sviatoslavas]]; mentioned_place: Lenkija; mentioned_place: Mstislavlis; mentioned_place: Vechra; mentioned_place: Vorskla'
   temporaliniai_duomenys: 'mūšio data: 1399 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila puolė Sviatoslavas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Totoriai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Mstislavlis“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Vechra“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Skirgaila puolė Vorskla“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Skirgaila puolė Lenkija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradiniame teiginyje yra neaiškus vietos pasakymas; citata leidžia suformuluoti aiškiau.'
   pagrindžia:
     - c-016
@@ -587,36 +587,8 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus sakinys apie Stanislovo Hlebavičiaus pareigas Polocke. Paliktas atsargus „bene“, nes citata pati taip riboja datavimą.'
   pagrindžia:
     - c-043
-- susijęs iš Ratne: Ratnėje, Pripetės aukštupyje, valdė Algirdo sūnus Teodoras.
-- susijęs iš Vilniaus Aukštutinė pilis (sujungti pirminiai pavadinimai Vilniaus Aukštutinė pilis; Aukštutinė pilis): Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
-- susijęs iš Vilniaus Aukštutinė pilis: Vilniaus Aukštutinėje pilyje Jogailos paliktas vadas su lenkų įgula valdė ir kitus gyventojus.
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
-- susijęs iš [[objektai/asmenys/Andrius Algirdaitis.md#claim-t-54943|Andrius Algirdaitis]]: Andrius Algirdaitis buvo Jogailos įbrolis, Kęstučiui palankus Polocko kunigaikštis.
-- susijęs iš [[objektai/asmenys/Bazilijus Serebrianas.md#claim-t-40066|Bazilijus Serebrianas]]: Kunigaikštis Bazilijus Serebrianas vadovavo iš Smolensko pajudėjusiai grupei.
-- susijęs iš [[objektai/asmenys/Dimitrijus.md#claim-t-186105|Dimitrijus]]: Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir atsikratė totorių jungo.
-- susijęs iš [[objektai/asmenys/Florijonas Zebžidovskis.md#claim-t-186109|Florijonas Zebžidovskis]]: Karalius Augustas įsakė lauko etmonui Florijonui Zebžidovskiui vesti lenkus į Polocką.
-- susijęs iš [[objektai/asmenys/Mykolas (Glinsko kunigaikštis).md#claim-t-87557|Mykolas (Glinsko kunigaikštis)]]: 1503 m. Vilniuje duotame rašte dalyvavęs Mykolas įvardytas kaip Glinsko kunigaikštis ir Lietuvos rūmų maršalka.
-- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40392|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis su savo kariuomene iš Polocko pajudėjo sausio 23 d.
-- susijęs iš [[objektai/asmenys/Petras Šuiskis.md#claim-t-40393|Petras Šuiskis]]: Kunigaikštis Petras Šuiskis vadovavo kariuomenei, kuri iš Polocko traukė į Drucką.
-- susijęs iš [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas).md#claim-t-173217|Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]]: Povilas, Alšėnų kunigaikštis ir Vilniaus vyskupas, dalyvavo 1542 m. Vilniuje duoto Žygimanto rašto patvirtinime.
-- susijęs iš [[objektai/asmenys/Rostislavas Rogvoldovičius.md#claim-t-87572|Rostislavas Rogvoldovičius]]: 1129 m. didysis kunigaikštis Mstislavas Vladimirovičius išvijo Polocko kunigaikštį Rostislavą Rogvoldovičių su broliais iš Polocko.
-- susijęs iš [[objektai/asmenys/Simonas (Alšėnų kunigaikštis).md#claim-t-87574|Simonas (Alšėnų kunigaikštis)]]: 1432 m. rugsėjo 3 d. Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš [[objektai/asmenys/Sviatoslavas.md#claim-t-179683|Sviatoslavas]]: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
-- susijęs iš [[objektai/grupes/Hanza.md#claim-t-10757|Hanza]]: Hanza Kaune ir Polocke įsteigė savo agentūras, vadintas pirklių kontoromis.
-- susijęs iš [[objektai/ivykiai/Parčevo seimas.md#claim-t-186648|Parčevo seimas (seimas, XV a.)]]: Prieš Parčevo seimą didysis kunigaikštis Aleksandras su Elena ir didikais apžiūrėjo Rusų žemę, lankėsi Smolenske, Vitebske ir Polocke.
-- susijęs iš [[objektai/ivykiai/Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas.md#claim-t-185830|Tautvilo sąmokslas prieš Treniotą, Tautvilo nužudymas ir Polocko užėmimas]]: Tautvilo sąmokslą prieš Treniotą išdavė klastingas Polocko dvariškis, todėl valdovas jį skubiai užgniaužė.
-- susijęs iš Švitrigailos 1432 m. rugsėjo 3 d. laiškas didžiajam magistrui iš Polocko: 1432 m. rugsėjo 3 d. laiške iš Polocko Švitrigaila pranešė, kad Žygimantas ir Alšėnų kunigaikštis Simonas užpuolė jo dvarą Ašmenoje.
-- susijęs iš Kulikovo laukas: Andrius, Polocko kunigaikštis ir Dmitrijaus Doniškio bendražygis, 1380 m. rugsėjo 8 d. Kulikovo lauke prisidėjo prie pergalės prieš totorius.
-- susijęs iš Livonija: Iki mirties 1229 m. vyskupas Albertas buvo naujos vokiečių valstybės Livonijoje valdovas.
-- susijęs iš Mstislavlis: Būdamas sąjungoje su Andriumi, Smolensko kunigaikštis Sviatoslavas užvaldė Mstislavlį.
 - susijęs iš [[objektai/asmenys/Tautvilas.md#claim-t-184840|Tautvilas]]: Tautvilas Treniotos kvietimu atvyko iš Polocko ir slapta su savaisiais rengė naują sąmokslą prieš Treniotą.
-- susijęs iš Gardinas: Gedimino arba Algirdo laikais Gardino pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Kaunas: Valdant Gediminui ar Algirdui Kauno pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį.
-- susijęs iš Lyda: Valdant Gediminui ar Algirdui Lyda priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Medininkų pilis (pilis): Valdant Gediminui ar Algirdui Medininkų pilis priklausė mūro pilių sistemai aplink Lietuvos valstybės branduolį ir sostinę.
-- susijęs iš Prūsija: Skirgaila, gavęs pavedimą, nuvyko į Prūsiją ir ėmė rengti antpuolius prieš Kęstutį bei Lietuvą.
-- susijęs iš Prūsija: Skirgaila nuvyko į Prūsiją ir, remdamasis sandėriu su Ordinu, rengė naujus antpuolius prieš Kęstutį ir Lietuvą.
-- susijęs iš Pskovas: 1411 metų pavasarį Polocke Pskovo pasiuntiniai atvyko pas Vytautą ir užmezgė taikingus santykius.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-184661|Aleksandras Jogailaitis]]: Glinskio raginimų paveiktas Aleksandras Jogailaitis pasmerkė mirčiai kelis žymius Lietuvos didikus.
 - susijęs iš [[objektai/asmenys/Andriejus (Polocko kunigaikštis).md#claim-t-35024|Andriejus (Polocko kunigaikštis)]]: Polocko kunigaikštis Andriejus kartu su Ordino magistru Zöllneriu surengė žygį į Lietuvą Jogailos krikštynų ir vestuvių proga.
@@ -1776,29 +1748,5 @@ Nors jie ir atlikdavo tolimus žygius, tačiau Polockas palengva savo sienas vis
     - t-061
 
 ## Ryšiai
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] valde_teritorija Polockas
-- [[objektai/asmenys/Skirgaila]] valde_teritorija Polockas
-- [[objektai/asmenys/Albertas (Rygos vyskupas)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Aleksandras Jogailaitis]] buvo_valdovas Polockas
-- [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Polockas
 - [[objektai/asmenys/Andriejus (Polocko kunigaikštis)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Andrius Algirdaitis]] buvo_valdovas Polockas
-- [[objektai/asmenys/Bazilijus Serebrianas]] buvo_valdovas Polockas
-- [[objektai/asmenys/Dimitrijus]] buvo_valdovas Polockas
-- [[objektai/asmenys/Florijonas Zebžidovskis]] buvo_valdovas Polockas
-- [[objektai/grupes/Hanza]] pastate Polockas
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Mykolas (Glinsko kunigaikštis)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Petras Šuiskis]] buvo_valdovas Polockas
-- [[objektai/asmenys/Povilas (Alšėnų kunigaikštis, Vilniaus vyskupas)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Rostislavas Rogvoldovičius]] buvo_valdovas Polockas
-- [[objektai/asmenys/Simonas (Alšėnų kunigaikštis)]] buvo_valdovas Polockas
-- [[objektai/asmenys/Sviatoslavas]] buvo_valdovas Polockas
-- [[objektai/asmenys/Švitrigaila]] buvo_valdovas Polockas
-- [[objektai/vietos/Gardinas]] priklause Polockas
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Polockas
-- [[objektai/vietos/Kaunas]] priklause Polockas
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] keliavo_i Polockas
-- [[objektai/vietos/Lyda]] priklause Polockas
-- [[objektai/vietos/Medininkų pilis|Medininkų pilis (pilis)]] priklause Polockas
 - [[objektai/asmenys/Tautvilas]] keliavo_i Polockas

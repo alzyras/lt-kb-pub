@@ -65,10 +65,10 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
 - t-005
   global_id: t-82249
   teiginys: 'Kariuomenei vadovavo Nalšėnų kunigaikštis Daumantas.'
-  susije_objektai: 'territory: Brianskas; territory: Nalšėnai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Brianskas; mentioned_place: Nalšėnai'
-  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] buvo valdovas Brianskas; [[objektai/asmenys/Daumantas|Daumantas]] buvo valdovas Nalšėnai'
+  susije_objektai: 'territory: Nalšėnai; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Brianskas; mentioned_place: Nalšėnai'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] buvo valdovas Nalšėnai'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Daumantas (kunigaikštis, XV a.) buvo valdovas Brianskas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšėnai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Daumantas (kunigaikštis, XV a.) buvo valdovas Nalšėnai“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -77,8 +77,8 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   global_id: t-82252
   teiginys: 'Daumantas, spėjama, dalyvavo Mindaugo nužudyme, vėliau valdė Pskovą ir buvo Dovydo tėvas.'
   sudarymo_pagrindimas: 'Teiginys perrašytas apie Daumantą, išlaikant citatoje nurodytą spėjimo pobūdį.'
-  susije_objektai: 'territory: Gardinas; territory: Pskovas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Pskovas'
-  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] valdė teritoriją Gardinas; [[objektai/asmenys/Daumantas|Daumantas]] valdė teritoriją Pskovas'
+  susije_objektai: 'territory: Pskovas; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Gardinas; mentioned_place: Pskovas'
+  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] valdė teritoriją Pskovas'
   pagrindžia:
     - c-004
 
@@ -90,8 +90,7 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata leidžia aiškiai įvardyti Daumantą ir jo žmonos vaidmenį.'
-  susije_objektai: 'location: Nalšia; mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšia'
-  semantiniai_rysiai: '[[objektai/asmenys/Daumantas|Daumantas]] keliavo į Nalšia'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Krikščionys|Krikščionys]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Nalšia'
   pagrindžia:
     - c-007
 
@@ -453,8 +452,5 @@ Daumantas šiame šaltinyje rodomas kaip Nalšėnų kunigaikštis, susijęs su s
     - t-012
 
 ## Ryšiai
-- Daumantas (kunigaikštis, XV a.) valde_teritorija [[objektai/vietos/Gardinas]]
 - Daumantas (kunigaikštis, XV a.) valde_teritorija [[objektai/vietos/Pskovas]]
-- Daumantas (kunigaikštis, XV a.) buvo_valdovas [[objektai/vietos/Brianskas]]
 - Daumantas (kunigaikštis, XV a.) buvo_valdovas [[objektai/vietos/Nalšėnai]]
-- Daumantas (kunigaikštis, XV a.) keliavo_i [[objektai/vietos/Nalšia]]

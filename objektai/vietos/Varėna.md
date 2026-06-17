@@ -32,7 +32,7 @@ amziai:
   global_id: t-172033
   teiginys: 'Šarvuotas traukinys „Gediminas“ iš Kauno nuvyko į Varėną, o iš ten per Alytų į Šeštokus.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai pagrįstas citata.'
-  susije_objektai: 'location: Alytus; location: Kaunas; location: Smalėnai; location: Suvalkai; location: Šeštokai; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai; mentioned_place: Šeštokai'
+  susije_objektai: 'location: Alytus; mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Alytus; mentioned_place: Kaunas; mentioned_place: Smalėnai; mentioned_place: Suvalkai; mentioned_place: Šeštokai'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,6 @@ amziai:
   susije_objektai: 'mentioned_group: [[objektai/grupes/Lenkai|Lenkai]]; mentioned_object: [[objektai/daiktai/Artilerija|Artilerija]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Smalėnai; mentioned_place: Suvalkai'
   pagrindžia:
     - c-003
-- susijęs iš Šeštokai: Rugsėjo 10 d. šarvuotas traukinys „Gediminas“ iš Kauno per Varėną ir Alytų nuvyko į Šeštokus.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78692|Šarvuotasis traukinys Gediminas]]: Rugsėjo 24 d. „Gediminas“ grįžo į Varėną ir kartu su 7-uoju pėstininkų pulku gynė Varėnos geležinkelio stotį nuo Lenkijos pajėgų.
 - susijęs iš [[objektai/daiktai/Šarvuotasis traukinys Gediminas.md#claim-t-78693|Šarvuotasis traukinys Gediminas]]: Prie Smalėnų „Gediminas“ patrankomis ir kulkosvaidžiais rėmė Lietuvos kariuomenės pėstininkų veiksmus.
 - susijęs iš [[objektai/grupes/Aukščiausioji Santarvininkių Taryba.md#claim-t-72029|Aukščiausioji Santarvininkių Taryba (institucija)]]: Suvalkų sutartis demarkacijos liniją Suvalkų krašte nustatė pagal 1919 m. gruodžio 8 d. Aukščiausiosios Santarvės Tarybos liniją.

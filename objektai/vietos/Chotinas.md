@@ -86,7 +86,6 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   temporalinis_llm_pakomentavimas: 'Sakinys pataisytas į aiškesnę, šaltinio citata paremtą formą apie Chotiną.'
   pagrindžia:
     - c-005
-- susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 - susijęs iš [[objektai/asmenys/Jonas Karolis Katkevičius.md#claim-t-79043|Jonas Karolis Katkevičius]]: Chotino mūšis tapo paskutine Jono Karolio Katkevičiaus pasiekta pergale.
 - susijęs iš [[objektai/asmenys/Jonas Tarnovskis.md#claim-t-184742|Jonas Tarnovskis]]: Jonui Tarnovskiui sutelkus daugiau jėgų, Valachijos kunigaikštis Petras prie Chotino paprašė taikos.
 - susijęs iš [[objektai/asmenys/Stanislovas Liubomirskis.md#claim-t-40442|Stanislovas Liubomirskis]]: LDK kariuomenė sutiko laikinai paklusti Stanislovui Liubomirskiui tik karalaičiui Vladislovui ją įkalbėjus.
@@ -264,6 +263,3 @@ Radvilos Perkūno reidas 1581 Karolis Zikaras 90 Kuoknesės mūšis 1601 Arvydas
   statusas: verified
   pagrindžia:
     - t-007
-
-## Ryšiai
-- [[objektai/asmenys/Jonas Tarnovskis]] buvo_valdovas Chotinas

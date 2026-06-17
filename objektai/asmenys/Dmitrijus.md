@@ -67,3 +67,6 @@ pradžioje, kai mirus abiems Ivano IV (Rūsčiojo) palikuonims Fiodorui ir maža
   statusas: verified
   pagrindžia:
     - t-001
+
+## Ryšiai
+- Dmitrijus buvo_valdovas [[objektai/vietos/Maskva]]

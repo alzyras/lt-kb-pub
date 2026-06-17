@@ -63,10 +63,3 @@ Dusburgietis teigia, kad šitai padaryta apie 1226 (1230) viešpaties metus173, 
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Giunteris (Mazovijos vyskupas) buvo_valdovas [[objektai/vietos/Notanga]]
-- Giunteris (Mazovijos vyskupas) buvo_valdovas [[objektai/vietos/Pilaitė]]
-- Giunteris (Mazovijos vyskupas) buvo_valdovas [[objektai/vietos/Prūsai]]
-- Giunteris (Mazovijos vyskupas) keliavo_i [[objektai/vietos/Notanga]]
-- Giunteris (Mazovijos vyskupas) keliavo_i [[objektai/vietos/Prūsija]]

@@ -120,7 +120,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė.'
-  susije_objektai: 'location: Lenkija; location: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Podolė'
+  susije_objektai: 'location: Podolė; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_place: Lenkija; mentioned_place: Podolė'
   temporaliniai_duomenys: 'kelionės data: 1485 m.'
   temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys perteikia datą, atvykimą į Lvovą ir kariuomenės sušaukimo aplinkybę. Citata yra aiškinamoji chronologinė pastaba, todėl legendos ar poleminės atribucijos čia neprireikė.'
@@ -141,12 +141,7 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
   temporalinis_llm_pakomentavimas: 'Reikia pataisyti linksnį ir pašalinti OCR triukšmą.'
   pagrindžia:
     - c-009
-- susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-184764|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: Kęstutis valdė dideles žemes Rusioje, kai kitas Algirdo brolis Liubartas valdė Lvovą.
 - susijęs iš [[objektai/asmenys/Liubartas.md#claim-t-184775|Liubartas]]: Algirdo brolis Liubartas valdė Lvovą Rusioje.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79132|Motiejus Huniadis]]: Motiejus Huniadis buvo Jogailaičiams priešiškas Vengrijos karalius ir mirė 1490 m.
-- susijęs iš [[objektai/asmenys/Motiejus Huniadis.md#claim-t-79133|Motiejus Huniadis]]: Vengrijos karalius Motiejus Huniadis buvo priešiškas Jogailaičiams.
-- susijęs iš [[objektai/asmenys/Vincentas iš Šamotulų.md#claim-t-186088|Vincentas iš Šamotulų]]: Karalius iš Lvovo pasiuntė Rusios vaivadą Vincentą iš Šamotulų prieš Fiodorą.
-- susijęs iš Raudonoji Rusia: Lietuvos kariuomenė padėjo atgauti Raudonąją Rusią, į kurią vėliau iš Lietuvos nuvyko Jogaila.
 - susijęs iš [[objektai/asmenys/Goštautas.md#claim-t-184709|Goštautas (vyskupas, XV a.)]]: Algirdas, sumušęs nepaklususį Teodorą Karijotaitį, pavertė Podolę savo valda ir paskyrė Goštautą vietininku.
 - susijęs iš [[objektai/asmenys/Jonas (Breslavo vyskupas).md#claim-t-34796|Jonas (Breslavo vyskupas)]]: 1415 m. Breslavo vyskupas Jonas buvo įtrauktas į Lietuvos ir Lenkijos vyskupų delegaciją į Konstanciją.
 - susijęs iš [[objektai/asmenys/Jonas (Lvovo arkivyskupas).md#claim-t-34797|Jonas (Lvovo arkivyskupas)]]: 1415 m. Lvovo arkivyskupas Jonas buvo Lietuvos ir Lenkijos vyskupų delegacijos į Konstanciją narys.
@@ -367,8 +362,4 @@ Lenkams, netvarkingai kariaujantiems, karas labai nesisekė: turkai užėmė sti
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Kęstutis|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]] valde_teritorija Lvovas
 - [[objektai/asmenys/Liubartas]] valde_teritorija Lvovas
-- [[objektai/asmenys/Motiejus Huniadis]] buvo_valdovas Lvovas
-- [[objektai/asmenys/Vincentas iš Šamotulų]] buvo_valdovas Lvovas
-- [[objektai/asmenys/Jadvyga]] keliavo_i Lvovas

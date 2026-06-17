@@ -74,9 +74,9 @@ Nenurodyta
   global_id: t-09883
   teiginys: '1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Lietuva; object: [[objektai/grupes/Maskvėnai|Maskvėnai]]; object: [[objektai/grupes/Rusai|Rusai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva'
-  temporaliniai_duomenys: 'mūšio data: 1632 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas puolė Maskvėnai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Rusai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas puolė Lietuva“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_group: [[objektai/grupes/Rusai|Rusai]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Lietuva'
+  temporaliniai_duomenys: 'įvykio data: 1632 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-001

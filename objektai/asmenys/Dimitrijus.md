@@ -22,8 +22,8 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Dimitrijaus veiksmą ir jo rezultatą.'
-  susije_objektai: 'territory: Europa; territory: Krymas; territory: Maskva; territory: Polockas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Polockas'
-  semantiniai_rysiai: '[[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Europa; [[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Krymas; [[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Maskva; [[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Polockas'
+  susije_objektai: 'territory: Maskva; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Europa; mentioned_place: Krymas; mentioned_place: Maskva; mentioned_place: Polockas'
+  semantiniai_rysiai: '[[objektai/asmenys/Dimitrijus|Dimitrijus]] buvo valdovas Maskva'
   pagrindžia:
     - c-001
 
@@ -98,7 +98,4 @@ Maskvos kunigaikštis Dimitrijus Šemiaka sumušė totorių valdovą Mamajų ir 
     - t-002
 
 ## Ryšiai
-- Dimitrijus buvo_valdovas [[objektai/vietos/Europa]]
-- Dimitrijus buvo_valdovas [[objektai/vietos/Krymas]]
 - Dimitrijus buvo_valdovas [[objektai/vietos/Maskva]]
-- Dimitrijus buvo_valdovas [[objektai/vietos/Polockas]]

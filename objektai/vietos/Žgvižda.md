@@ -26,7 +26,6 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
   susije_objektai: 'mentioned_person: [[objektai/asmenys/Tomas (Hertvigo iš Pokarvių sūnus)|Tomas (Hertvigo iš Pokarvių sūnus)]]; mentioned_place: Rūdninkai; mentioned_place: Viena; mentioned_place: Vilnius'
   pagrindžia:
     - c-001
-- susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
 - susijęs iš [[objektai/daiktai/Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai.md#claim-t-87003|Rūdninkų karališkieji medžioklės rūmai ir dvaro pastatai]]: Prie Rūdninkų, Mendzižečės link, buvo aptvertas žvėrynas, kuriame veisėsi daug briedžių ir stirnų.
 - susijęs iš Mendzižečės giria: Mendzižečės giria apėmė daugiau kaip 3000 valakų plotą, kuriam priklausė ir Rūdninkų medžionė.
 - susijęs iš [[objektai/zodynas/žvėrynas Karaliaus daržas.md#claim-t-86632|žvėrynas Karaliaus daržas]]: Prie Rūdninkų, Mendzižečės link, stūksojęs šilas buvo aptvertas statinių tvora ir vadintas žvėrynu.
@@ -53,6 +52,3 @@ Per pusantros mylios nuo Rūdninkų Mendzižečės link stūksojo nuostabiai gra
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Mendzižečės giria]] priklause Žgvižda

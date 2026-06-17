@@ -33,8 +33,8 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   global_id: t-40515
   teiginys: 'Čekijos karalius Vladislovas Jogailaitis iškovojo Vengrijos sostą.'
   sudarymo_pagrindimas: 'Perrašyta į tiesioginį enciklopedinį sakinį be OCR triukšmo.'
-  susije_objektai: 'territory: Brasta; territory: Kazanė; territory: Maskva; territory: Starodubas; territory: Vengrija; territory: Čekija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Brasta; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Vengrija; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Brasta; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Kazanė; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Maskva; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Starodubas; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Vengrija; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Čekija'
+  susije_objektai: 'territory: Čekija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_place: Brasta; mentioned_place: Kazanė; mentioned_place: Maskva; mentioned_place: Starodubas; mentioned_place: Vengrija; mentioned_place: Čekija'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Čekija'
   pagrindžia:
     - c-002
 
@@ -42,10 +42,10 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
 - t-002
   global_id: t-40516
   teiginys: 'Lenkijos karalius Vladislovas Jogailaitis suteikė Žygimantui Kęstutaičiui prašytą pagalbą prieš žygį į Trakus.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Trakai; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Lenkija; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Lietuva; [[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Trakai'
+  susije_objektai: 'territory: Lenkija; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_object: [[objektai/zodynas/Lietuvos didysis kunigaikštis|Lietuvos didysis kunigaikštis]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas Lokietka|Vladislovas Lokietka]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Trakai'
+  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Lenkija'
   temporaliniai_duomenys: 'valdymo laikotarpis: 1435 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Trakai“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo valdovas Lenkija“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -105,8 +105,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata remia tik siaurą faktą apie Vladislovo raginimą.'
-  susije_objektai: 'territory: Maskva; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Maskva'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Maskva'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_place: Maskva'
   pagrindžia:
     - c-008
 
@@ -118,8 +117,7 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalinta OCR klaida, paliktas citata pagrįstas faktas.'
-  susije_objektai: 'territory: Čekija; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Vladislovas Jogailaitis|Vladislovas Jogailaitis]] buvo valdovas Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Liudvikas|Liudvikas]]; mentioned_person: [[objektai/asmenys/Vladislovas|Vladislovas]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Čekija'
   pagrindžia:
     - c-009
 
@@ -348,13 +346,5 @@ Lietuvos didysis kunigaikštis Žygimantas Kęstutaitis, sukaupęs „kiek galė
     - t-009
 
 ## Ryšiai
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Brasta]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Kazanė]]
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Lenkija]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Lietuva]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Maskva]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Palanga]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Starodubas]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Trakai]]
-- Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Vengrija]]
 - Vladislovas Jogailaitis (Lenkijos karalius, XV a.) buvo_valdovas [[objektai/vietos/Čekija]]

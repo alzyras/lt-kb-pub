@@ -82,9 +82,9 @@ amziai:
   global_id: t-174219
   teiginys: 'Karalius Aleksandras mirė Žemutinėje Vilniaus pilyje 1506 m. rugpjūčio 10 d. naktį.'
   sudarymo_pagrindimas: 'Teiginys tiksliai nurodo citatoje pateiktą vietą ir datą.'
-  susije_objektai: 'territory: Krokuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Krokuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Aleksandras Jogailaitis buvo valdovas Vilnius“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Aleksandras|Aleksandras]]; mentioned_person: [[objektai/asmenys/Aleksandras Jogailaitis|Aleksandras Jogailaitis]]; mentioned_person: [[objektai/asmenys/Žygimantas|Žygimantas]]; mentioned_place: Krokuva; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys tiksliai nurodo citatoje pateiktą vietą ir datą.'
   pagrindžia:
     - c-011
@@ -136,7 +136,6 @@ amziai:
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys buvo apie miestą, citata palaiko pilies faktą.'
   pagrindžia:
     - c-004
-- susijęs iš Vilnius: Po Vytauto mirties Švitrigaila atvyko į Vilnių anksčiau, negu mirė valdovas.
 - susijęs iš [[objektai/asmenys/Jaunutis.md#claim-t-176435|Jaunutis (valdovas, XIV a.)]]: Brolių kivirčai paskatino slaptas sutartis, kuriomis siekta nuversti Jaunutį nuo Lietuvos didžiojo kunigaikščio sosto.
 - susijęs iš [[objektai/asmenys/Kęstutis.md#claim-t-176519|Kęstutis (vakarų pasienio valdovas, XIV–XV a.)]]: 1345 m. lapkričio 22 d. Kęstutis su stipriu pulku užpuolė abi Vilniaus pilis ir apsupo didžiojo kunigaikščio buveinę.
 - susijęs iš [[objektai/asmenys/Tomas Aldenburgas.md#claim-t-87585|Tomas Aldenburgas]]: 1324 m. birželio 11 d. Ragainės komtūras Tomas Aldenburgas su broliais ir vyrais užpuolė Gedimino pilies papilį.
@@ -429,6 +428,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] keliavo_i Vilniaus pilis

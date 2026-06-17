@@ -24,7 +24,7 @@ Dusburgietis teigia, kad apie antrąjį minėtojo Marienverderio miesto sugriovi
   global_id: t-60343
   teiginys: 'Jonas, Sarginio sūnus, buvo kilmingas pamedėnas, kuriam priklausė Osos pakrantėje pastatyta Belichovo pilis.'
   sudarymo_pagrindimas: 'Citata tiesiogiai nurodo Jono kilmę ir jam priklausiusią pilį.'
-  susije_objektai: 'owner: Belichovas; owner: Elbingas; owner: Kulmas; owner: Marienverderis; owner: Viena; mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Konradas Švabas iš Elbingo|Konradas Švabas iš Elbingo]]; mentioned_place: Belichovas; mentioned_place: Elbingas; mentioned_place: Kulmas; mentioned_place: Marienverderis; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

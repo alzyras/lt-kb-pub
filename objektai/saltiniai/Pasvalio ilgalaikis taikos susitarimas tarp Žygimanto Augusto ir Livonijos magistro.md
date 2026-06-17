@@ -22,7 +22,7 @@ Livonijos magistras su trimis šimtais bajorų atvyko pas karalių ir, remiamas 
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Livonija; location: Nesvyžius; mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Nesvyžius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Bajorai|Bajorai]]; mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Livonija; mentioned_place: Nesvyžius'
   pagrindžia:
     - c-001
 

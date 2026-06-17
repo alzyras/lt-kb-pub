@@ -54,9 +54,9 @@ Nenurodyta
   global_id: t-59448
   teiginys: '1313 m. lietuvių karalius pasiuntė Surminą su šimtu laivų, šešiais šimtais ar daugiau vyrų ir šimtu raitelių sunaikinti Ordino karo laivo.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas.'
-  susije_objektai: 'territory: Nemunas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1313 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Surminas buvo valdovas Nemunas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Surminas|Surminas]]; mentioned_place: Nemunas'
+  temporaliniai_duomenys: 'įvykio data: 1313 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės triukšmo, bet citata pagrindžia lietuvių sprendimą ir Surmino pajėgas.'
   pagrindžia:
     - c-001

@@ -39,8 +39,7 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
 - t-002
   global_id: t-50970
   teiginys: 'Dimitras Kaributas valdė Sievero žemę, kurią Vytautas, pritariamas Jogailos, iš jo atėmė.'
-  susije_objektai: 'territory: Kijevas; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas'
-  semantiniai_rysiai: '[[objektai/asmenys/Dimitras Kaributas|Dimitras Kaributas]] valdė teritoriją Kijevas'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_person: [[objektai/asmenys/Kaributas|Kaributas]]; mentioned_person: [[objektai/asmenys/Karijotas|Karijotas]]; mentioned_person: [[objektai/asmenys/Liubartas|Liubartas]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Kijevas'
   pagrindžia:
     - c-001
 
@@ -145,7 +144,4 @@ Bet po Raciąžo taikos Švitrigaila grįžo pas Vytautą ir tuoj gavo valdyti B
     - t-004
 
 ## Ryšiai
-- Dimitras Kaributas valde_teritorija [[objektai/vietos/Kijevas]]
-- Dimitras Kaributas buvo_valdovas [[objektai/vietos/Lietuva]]
 - Dimitras Kaributas buvo_valdovas [[objektai/vietos/Naugardas]]
-- Dimitras Kaributas buvo_valdovas [[objektai/vietos/Vilnius]]

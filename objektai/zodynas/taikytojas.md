@@ -22,7 +22,7 @@ Ivanas pažadėjo atsiųsti taikytojus, kai karalius surašys jam padarytus nuos
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Pašalintas boilerplate ir patikslinta sakinio struktūra.'
-  susije_objektai: 'territory: Lietuva; territory: Maskva; mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Žydai|Žydai]]; mentioned_person: [[objektai/asmenys/Ivanas|Ivanas]]; mentioned_place: Lietuva; mentioned_place: Maskva'
   pagrindžia:
     - c-001
 

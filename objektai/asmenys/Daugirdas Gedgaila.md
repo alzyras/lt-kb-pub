@@ -24,8 +24,8 @@ tags:
   global_id: t-87651
   teiginys: 'Daugirdas Gedgaila Vytauto vardu valdė Podolę, kol Podolės bajorai, vadovaujami Gregoro Kierdėjaus, jį klastingai sugavo.'
   sudarymo_pagrindimas: 'Citata tiesiogiai remia Daugirdo Gedgailos pareigas ir suėmimą.'
-  susije_objektai: 'territory: Lietuva; territory: Livonija; territory: Podolė; territory: Prūsija; territory: Vilnius; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Prūsija; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Daugirdas Gedgaila|Daugirdas Gedgaila]] valdė teritoriją Lietuva; [[objektai/asmenys/Daugirdas Gedgaila|Daugirdas Gedgaila]] valdė teritoriją Livonija; [[objektai/asmenys/Daugirdas Gedgaila|Daugirdas Gedgaila]] valdė teritoriją Podolė; [[objektai/asmenys/Daugirdas Gedgaila|Daugirdas Gedgaila]] valdė teritoriją Prūsija; [[objektai/asmenys/Daugirdas Gedgaila|Daugirdas Gedgaila]] valdė teritoriją Vilnius'
+  susije_objektai: 'territory: Podolė; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_person: [[objektai/asmenys/Švitrigaila|Švitrigaila]]; mentioned_place: Lietuva; mentioned_place: Livonija; mentioned_place: Podolė; mentioned_place: Prūsija; mentioned_place: Vilnius'
+  semantiniai_rysiai: '[[objektai/asmenys/Daugirdas Gedgaila|Daugirdas Gedgaila]] valdė teritoriją Podolė'
   pagrindžia:
     - c-001
 
@@ -57,8 +57,4 @@ tags:
     - t-001
 
 ## Ryšiai
-- Daugirdas Gedgaila valde_teritorija [[objektai/vietos/Lietuva]]
-- Daugirdas Gedgaila valde_teritorija [[objektai/vietos/Livonija]]
 - Daugirdas Gedgaila valde_teritorija [[objektai/vietos/Podolė]]
-- Daugirdas Gedgaila valde_teritorija [[objektai/vietos/Prūsija]]
-- Daugirdas Gedgaila valde_teritorija [[objektai/vietos/Vilnius]]

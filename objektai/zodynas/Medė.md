@@ -28,7 +28,7 @@ Vartojamos formos: `medės`, `medėse`, `mėžė`.
   global_id: t-70027
   teiginys: 'Medininkais vadinti gyventojai tarp Nemuno, Ventos ir Nevėžio, nes jie gyveno didžiose medėse.'
   sudarymo_pagrindimas: 'Citata pagrindžia medžių ryšį su medininkų pavadinimu, bet ne platesnį etnonimų kilmių aiškinimą.'
-  susije_objektai: 'location: Medininkai; location: Nevėžis; location: Venta; mentioned_place: Medininkai; mentioned_place: Nevėžis; mentioned_place: Venta'
+  susije_objektai: 'mentioned_place: Medininkai; mentioned_place: Nevėžis; mentioned_place: Venta'
   pagrindžia:
     - c-002
 

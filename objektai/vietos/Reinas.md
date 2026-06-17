@@ -35,22 +35,6 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys turi antraštės, išnašos ir OCR triukšmo.'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/asmenys/Bernardas iš Svidnicos.md#claim-t-87633|Bernardas iš Svidnicos]]: 1322 m. žiemą Silezijos kunigaikštis Bernardas iš Svidnicos vedė atskirą kryžiuočių ekspedicijos į Prūsiją pulką.
-- susijęs iš [[objektai/asmenys/Henrikas (Brabanto kunigaikštis).md#claim-t-60305|Henrikas (Brabanto kunigaikštis)]]: Brabanto kunigaikštis Henrikas dalyvavo valdovų pasitarime dėl naujai įsteigtos ligoninės patvirtinimo ir tuo metu vadovavo kariuomenei.
-- susijęs iš [[objektai/asmenys/Henrikas (Jeruzalės karalius).md#claim-t-60306|Henrikas (Jeruzalės karalius)]]: Jeruzalės karalius Henrikas buvo tarp valdovų, pritarusių siūlymui siųsti legatus dėl naujai įsteigtos ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-184084|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Henrikas VI.md#claim-t-63622|Henrikas VI]]: Henrikas VI buvo Romos karalius ir būsimasis imperatorius, kurio prašyta kreiptis į popiežių dėl ligoninės patvirtinimo.
-- susijęs iš [[objektai/asmenys/Otokaras II.md#claim-t-175269|Otokaras II]]: 1254 m. Čekijos karalius Otokaras II dalyvavo žygyje, kuriuo siekta pavergti sembus.
-- susijęs iš [[objektai/grupes/Reino konfederacija.md#claim-t-86819|Reino konfederacija]]: 1255 m. šešiasdešimt miestų įsteigė Reino konfederaciją, vadovaujamą aukščiausiųjų dvasininkų.
-- susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
-- susijęs iš [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis).md#claim-t-60249|Bernardas (Vroclavo kunigaikštis)]]: 1322 m. Vroclavo kunigaikštis Bernardas su kitais valdovais ir kariais atvyko į Prūsijos žemę.
-- susijęs iš [[objektai/asmenys/Henrikas Duseneris.md#claim-t-87686|Henrikas Duseneris]]: Ordino maršalas Henrikas Duseneris su Reino palatinu atvyko į pagalbą Bajerburgo pilies gynėjams per Gedimino apsiaustį.
-- susijęs iš [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė).md#claim-t-60323|Hermanas (Petro iš Rozenbergo dėdė)]]: 1324 m. Petras iš Rozenbergo ir jo dėdė Hermanas su daugybe riterių bei ginklanešių atvyko į Prūsiją.
-- susijęs iš [[objektai/asmenys/Jonas.md#claim-t-60338|Jonas]]: 1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.
-- susijęs iš [[objektai/asmenys/Petras iš Rozenbergo.md#claim-t-60408|Petras iš Rozenbergo]]: 1324 m. Petras iš Rozenbergo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
-- susijęs iš [[objektai/asmenys/Pilypas.md#claim-t-60410|Pilypas]]: 1324 m. grafas Pilypas iš Španheimo su kitais kilmingaisiais atvyko į Prūsiją, bet prieš tikėjimo priešus nesiėmė veiksmų dėl plono ledo.
-- susijęs iš [[objektai/asmenys/Verneris fon Hoinbergas.md#claim-t-186264|Verneris fon Hoinbergas (didikas)]]: Grafas Verneris fon Hoinbergas, Adolfas fon Vintimelis ir kiti Reino krašto didikai atvyko į Prūsiją.
-- susijęs iš [[objektai/grupes/Kryžiuočių ordinas.md#claim-t-178790|Kryžiuočių ordinas]]: Per Bajerburgo apsuptį Ordino maršalas Henrikas Duseneris ir Reino palatinas atvyko į pagalbą apsuptiesiems.
 - susijęs iš [[objektai/asmenys/Adolfas fon Vintimelis.md#claim-t-186172|Adolfas fon Vintimelis (didikas)]]: Adolfas fon Vintimelis su kitais Reino krašto didikais atvyko į Prūsiją prieš Konrado žygį į Lietuvą.
 - susijęs iš [[objektai/asmenys/Albertas (Brandenburgo markgrafas).md#claim-t-60227|Albertas (Brandenburgo markgrafas)]]: Brandenburgo markgrafas Albertas buvo tarp didikų, pritarusių, kad Fridrichas prašytų popiežiaus patvirtinti ligoninę.
 - susijęs iš [[objektai/asmenys/Arnoldas iš Elnerio.md#claim-t-60239|Arnoldas iš Elnerio]]: 1316 m. riteris Arnoldas iš Elnerio su maldininkais iš Reino krašto dalyvavo žygyje į Medininkų valsčių.
@@ -148,20 +132,3 @@ Dusburgietis teigia, kad apie Rudolfo, karaliaus, pirmagimio mirtį Tuo metu kar
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Bernardas iš Svidnicos]] buvo_valdovas Reinas
-- [[objektai/asmenys/Henrikas (Brabanto kunigaikštis)]] buvo_valdovas Reinas
-- [[objektai/asmenys/Henrikas (Jeruzalės karalius)]] buvo_valdovas Reinas
-- [[objektai/asmenys/Henrikas VI]] buvo_valdovas Reinas
-- [[objektai/asmenys/Otokaras II]] buvo_valdovas Reinas
-- [[objektai/grupes/Reino konfederacija]] pastate Reinas
-- [[objektai/asmenys/Adolfas fon Vintimelis|Adolfas fon Vintimelis (didikas)]] keliavo_i Reinas
-- [[objektai/asmenys/Bernardas (Vroclavo kunigaikštis)]] keliavo_i Reinas
-- [[objektai/asmenys/Henrikas Duseneris]] keliavo_i Reinas
-- [[objektai/asmenys/Hermanas (Petro iš Rozenbergo dėdė)]] keliavo_i Reinas
-- [[objektai/asmenys/Jonas]] keliavo_i Reinas
-- [[objektai/grupes/Kryžiuočių ordinas]] keliavo_i Reinas
-- [[objektai/asmenys/Petras iš Rozenbergo]] keliavo_i Reinas
-- [[objektai/asmenys/Pilypas]] keliavo_i Reinas
-- [[objektai/asmenys/Verneris fon Hoinbergas|Verneris fon Hoinbergas (didikas)]] keliavo_i Reinas

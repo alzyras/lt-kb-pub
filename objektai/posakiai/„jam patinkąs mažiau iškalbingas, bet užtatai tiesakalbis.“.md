@@ -21,7 +21,7 @@ O kai vėl kartą jo akyse kažkas gyrė vieną iškalbingą kunigaikštį, Vyta
 - t-001
   global_id: t-36031
   teiginys: 'Vytautas, išgirdęs giriant iškalbingą kunigaikštį, tarė, kad jam patinka mažiau iškalbingas, bet tiesakalbis kunigaikštis.'
-  susije_objektai: 'territory: Lietuva; territory: Viena; mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Jogaila|Jogaila]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Viena'
   pagrindžia:
     - c-001
 

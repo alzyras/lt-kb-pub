@@ -53,7 +53,7 @@ Nenurodyta
   global_id: t-55162
   teiginys: 'Pilininkai valdė miestą, vykdydami teisminę priežiūrą kartu su bendruomenės parinktu seniūnu.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -62,7 +62,7 @@ Nenurodyta
   global_id: t-55163
   teiginys: 'Vilniaus kilimo pradžioje pilininkai valdė miestą ir teisminę priežiūrą vykdė su bendruomenės parinktu seniūnu.'
   sudarymo_pagrindimas: 'Pridėtas Vilniaus objektas ir išlaikyta citatos paremta valdymo informacija.'
-  susije_objektai: 'territory: Lenkija; territory: Lietuva; territory: Vilnius; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Gediminas|Gediminas]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Lenkija; mentioned_place: Lietuva; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 

@@ -26,8 +26,6 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
   susije_objektai: 'mentioned_object: [[objektai/daiktai/Varpai|Varpai]]; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje.md#claim-t-87305|Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]: Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.
-- susijęs iš [[objektai/asmenys/Henrikas iš Plockės.md#claim-t-59864|Henrikas iš Plockės]]: Henrikas iš Plockės, Prūsijos žemės maršalas, vasarą nesėkmingai apgulė Bisenės pilį ir pasitraukė.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-12314|Laivai]]: 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos.
 - susijęs iš [[objektai/daiktai/Laivai.md#claim-t-179487|Laivai]]: 1383 m. liepos 19 d. Ordino viršininkas laivu nuvyko iki Christmemelio salos ir ten sustojo.
 - susijęs iš [[objektai/zodynas/apsaugos raštas.md#claim-t-36762|apsaugos raštas]]: Gavęs Jogailos apsaugos raštą, Ordino viršininkas liepos 19 d. laivu nuvyko iki Christmemelio salos.
@@ -94,8 +92,3 @@ Sierakausko nurodymu jie : SUKILĖLIŲ PULKAI Iš Liudvikos Gedgaudienės-Didži
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Šventaragis]] buvo_valdovas Salos
-- [[objektai/asmenys/Henrikas iš Plockės]] puole Salos
-- [[objektai/asmenys/Jogaila|Jogaila (kunigaikštis, XIV–XV a.)]] keliavo_i Salos

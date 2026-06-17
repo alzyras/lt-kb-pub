@@ -32,10 +32,9 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   global_id: t-60338
   teiginys: '1324 m. grafas Jonas iš Španheimo atvyko į Prūsiją, bet dėl plono ledo nesiėmė veiksmų prieš tikėjimo priešus.'
   sudarymo_pagrindimas: 'Citata palaiko glaustesnį sakinį apie Jono atvykimą ir neveikimą.'
-  susije_objektai: 'location: Prūsija; location: Reinas; location: Čekija; mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Čekija'
-  semantiniai_rysiai: '[[objektai/asmenys/Jonas|Jonas]] keliavo į Prūsija; [[objektai/asmenys/Jonas|Jonas]] keliavo į Reinas; [[objektai/asmenys/Jonas|Jonas]] keliavo į Čekija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Hermanas|Hermanas]]; mentioned_place: Prūsija; mentioned_place: Reinas; mentioned_place: Čekija'
   temporaliniai_duomenys: 'kelionės data: 1324 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Jonas keliavo į Prūsija“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas keliavo į Reinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Jonas keliavo į Čekija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustesnį sakinį apie Jono atvykimą ir neveikimą.'
   pagrindžia:
     - c-001
@@ -174,10 +173,3 @@ Dusburgietis teigia, kad 1324 viešpaties metais į Prūsiją atvyko valdovai Jo
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Jonas buvo_valdovas [[objektai/vietos/Vilija]]
-- Jonas buvo_valdovas [[objektai/vietos/Vilnius]]
-- Jonas keliavo_i [[objektai/vietos/Prūsija]]
-- Jonas keliavo_i [[objektai/vietos/Reinas]]
-- Jonas keliavo_i [[objektai/vietos/Čekija]]

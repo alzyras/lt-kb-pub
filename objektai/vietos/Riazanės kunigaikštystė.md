@@ -28,9 +28,9 @@ Vytautas vystė puolimą į Riazanės kunigaikštystę, gindamas savo pozicijas 
   global_id: t-80103
   teiginys: 'Riazanės didysis kunigaikštis Olegas su sąjungininkais puolė Lietuvą ir jai padarė žalos.'
   sudarymo_pagrindimas: 'Pašalinta citatinė, fragmentiška formuluotė ir išlaikyta citatos prasmė.'
-  susije_objektai: 'territory: Lietuva; territory: Riazanė; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1397 m.; valdymo laikotarpis: 1398 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vytautas (Lietuvos valdovas, XIV–XV a.) buvo valdovas Riazanė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/didysis kunigaikštis|didysis kunigaikštis]]; mentioned_person: [[objektai/asmenys/Vytautas|Vytautas]]; mentioned_place: Lietuva; mentioned_place: Riazanė'
+  temporaliniai_duomenys: 'įvykio data: 1397 m.; įvykio data: 1398 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pašalinta citatinė, fragmentiška formuluotė ir išlaikyta citatos prasmė.'
   pagrindžia:
     - c-001

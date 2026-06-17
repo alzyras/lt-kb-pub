@@ -47,8 +47,6 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   susije_objektai: 'mentioned_group: [[objektai/grupes/Gotai|Gotai]]; mentioned_group: [[objektai/grupes/Langobardai|Langobardai]]; mentioned_object: [[objektai/zodynas/kunigas|kunigas]]; mentioned_place: Lietuva; mentioned_place: Romanova'
   pagrindžia:
     - c-001
-- susijęs iš Klaipėda: Vytautas teigė, kad Klaipėda priklausė Žemaitijos plotui.
-- susijęs iš Veliuona: Vytautas pasistatė tvirtą Veliuonos pilį, kai kryžiuočiai teigė, kad dešinysis Nemuno krantas nuo seno priklausė jiems.
 - susijęs iš [[objektai/asmenys/Barkus.md#claim-t-186097|Barkus]]: Barkus prie Jūros žiočių pasistatė Jurbarko pilį ir gavo valdyti Žemaitijos dalį iki Kuršių įlankos.
 - susijęs iš [[objektai/asmenys/Kanutas.md#claim-t-87747|Kanutas]]: Apie 880 m. Danijoje viešpatavęs karalius Kanutas įsakė dėl nederliaus kas trečią žmogų išvaryti iš valsčiaus visiems laikams.
 - susijęs iš [[objektai/asmenys/Riurikas.md#claim-t-87845|Riurikas]]: Riurikas su variagais, autoriaus nuomone, į Rusiją galėjo būti atblokštas Petro Olai „Danų kronikoje“ aprašyto įvykio.
@@ -137,7 +135,3 @@ Lietuvos metraščiuose sukurta atvykusio iš Romos Palemono ir jo ainių legend
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/vietos/Klaipėda]] priklause Palemonas
-- [[objektai/vietos/Veliuona]] priklause Palemonas

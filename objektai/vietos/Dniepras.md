@@ -173,8 +173,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97839
   teiginys: 'Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.'
   sudarymo_pagrindimas: 'Patikslinta formuluotė, kad sakinys būtų sklandesnis ir tiksliau atitiktų citatą.'
-  susije_objektai: 'owner: [[objektai/asmenys/Algirdas|Algirdas]]; owner: Desna; owner: Dniestras; owner: Kijevas; owner: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; owner: Lietuva; owner: Podolė; owner: Smolenskas; mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Smolenskas'
-  semantiniai_rysiai: 'Dniepras priklausė [[objektai/asmenys/Algirdas|Algirdas]]; Dniepras priklausė [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; Dniepras priklausė Desna; Dniepras priklausė Dniestras; Dniepras priklausė Kijevas; Dniepras priklausė Lietuva; Dniepras priklausė Podolė; Dniepras priklausė Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kijevo kunigaikštystė|Kijevo kunigaikštystė]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Dniestras; mentioned_place: Kijevas; mentioned_place: Lietuva; mentioned_place: Podolė; mentioned_place: Smolenskas'
   pagrindžia:
     - c-012
 
@@ -199,7 +198,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   global_id: t-97844
   teiginys: 'Prie Dniepro stovėjusioje lietuvių Tavano pilyje Vytautas įsteigė muitinę, vadintą Vytauto pirtimi.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas, aiškus ir tiesiogiai paremtas citata.'
-  susije_objektai: 'object: Desna; object: Smolenskas; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Smolenskas'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_person: [[objektai/asmenys/Algirdas|Algirdas]]; mentioned_place: Desna; mentioned_place: Smolenskas'
   pagrindžia:
     - c-012
 
@@ -235,17 +234,6 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_place: Lietuva; mentioned_place: Lojevas; mentioned_place: Maskva; mentioned_place: Mozyrius; mentioned_place: Sluckas'
   pagrindžia:
     - c-015
-- susijęs iš [[objektai/grupes/Liuksemburgiečių dinastija.md#claim-t-35715|Liuksemburgiečių dinastija]]: Liuksemburgiečių dinastija valdė Vokiečių imperiją, kuri dydžiu galėjo prilygti Vytauto valstybei.
-- susijęs iš [[objektai/autoriai/A. Kočubinskij.md#claim-t-30512|A. Kočubinskij]]: A. Kočubinskij prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.
-- susijęs iš [[objektai/autoriai/Sobolevskij.md#claim-t-30985|Sobolevskij]]: Sobolevskij dar prieš Pirmąjį pasaulinį karą teigė, kad priešistoriniais laikais baltai gyveno gerokai toliau į rytus.
-- susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
-- susijęs iš Nemuno-Dauguvos-Dniepro plotas: Viduriniame geležies amžiuje baltai ir toliau gyveno Nemuno, Dauguvos ir Dniepro plote, nedaug tepajudėdami.
-- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
-- susijęs iš Tavano pilis: Vytautas lietuvių Tavano pilyje prie Dniepro įsteigė muitinę, vadintą Vytauto pirtimi.
-- susijęs iš Dniestras: Kijevo kunigaikštystė ir Podolė anuomet siekė Dniepro ir Dniestro žiotis ir priklausė Lietuvai.
-- susijęs iš Kijevas: Kijevo kunigaikštystė ir Podolė priklausė Lietuvai, o per Kijevą Vilnius palaikė prekybinius ryšius su Rytais.
-- susijęs iš Lietuva: Kijevo kunigaikštystė ir Podolė tuo metu priklausė Lietuvai, o Kafa buvo svarbiausias Lietuvos prekybinis uostas prie Juodosios jūros.
-- susijęs iš Podolė: Kijevo kunigaikštystė ir Podolė, tuomet nusidriekusi iki Dniepro ir Dniestro žiočių, priklausė Lietuvai.
 - susijęs iš [[objektai/asmenys/Aleksandras Jogailaitis.md#claim-t-82176|Aleksandras Jogailaitis]]: Aleksandras Jogailaitis žmonai Elenai iki gyvos galvos dovanojo Mogiliavo pilį prie Dniepro su jos valdomis.
 - susijęs iš [[objektai/asmenys/Ediga.md#claim-t-30226|Ediga]]: Edigą Vytautas siekė pašalinti iš Aukso Ordos valdžios ir vietoje jo pasodinti Tochtamišą, tačiau žygis baigėsi nesėkmingai.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-54962|Elena (vyskupas, XV–XVI a.)]]: 1503 m. Aleksandras dovanojo Elenai Mogiliavo pilį jos gyvenimo laikui.
@@ -278,6 +266,7 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
 - susijęs iš [[objektai/grupes/Hanza.md#claim-t-116685|Hanza]]: Vytauto laikų Lietuva buvo kraštas, kurio negalėjo aplenkti Hanzos ir kiti pirkliai.
 - susijęs iš [[objektai/grupes/Karaimai.md#claim-t-120190|Karaimai]]: Per 1398 m. Vytauto žygį paimti karaimai, manoma, buvo apgyvendinti Lucke ir Naujuosiuose Trakuose.
 - susijęs iš [[objektai/grupes/Krivičiai.md#claim-t-31222|Krivičiai]]: Zenono Ivinskio vertinimu, krivičiai Dniepro ir Dauguvos aukštupiuose gyveno gana žemame kultūros laipsnyje.
+- susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05262|Krymo chanatas]]: Didysis Maskvos kunigaikštis Jonas III sudarė prieš Lietuvą sąjungą su Krymo chanatu.
 - susijęs iš [[objektai/grupes/Krymo chanatas.md#claim-t-05263|Krymo chanatas]]: Nuo 1478 m. Krymo chanatas buvo Turkijos vasalas.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65555|Kuršiai]]: Vikingų epochoje prie jūros gyvenusiems prūsams ir kuršiams teko atremti plėšikaujančius skandinavus.
 - susijęs iš [[objektai/grupes/Kuršiai.md#claim-t-65560|Kuršiai]]: Kuršiai XI a. jau rengdavo plėšiamuosius žygius į Danijos ir Švedijos pakrantes.
@@ -672,21 +661,3 @@ Dniepras šiame šaltinyje minimas kaip senųjų geografinių žinių, Algirdo r
   statusas: verified
   pagrindžia:
     - t-024
-
-## Ryšiai
-- [[objektai/grupes/Liuksemburgiečių dinastija]] valde_teritorija Dniepras
-- [[objektai/grupes/Krivičiai]] gyveno Dniepras
-- [[objektai/grupes/Krymo chanatas]] susije_su Dniepras
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] pastate Dniepras
-- Dniepras priklause [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]]
-- Dniepras priklause [[objektai/vietos/Desna]]
-- Dniepras priklause [[objektai/vietos/Dniestras]]
-- Dniepras priklause [[objektai/vietos/Kijevas]]
-- Dniepras priklause [[objektai/grupes/Kijevo kunigaikštystė]]
-- Dniepras priklause [[objektai/vietos/Lietuva]]
-- Dniepras priklause [[objektai/vietos/Podolė]]
-- Dniepras priklause [[objektai/vietos/Smolenskas]]
-- [[objektai/vietos/Dniestras]] priklause Dniepras
-- [[objektai/vietos/Kijevas]] priklause Dniepras
-- [[objektai/vietos/Lietuva]] priklause Dniepras
-- [[objektai/vietos/Podolė]] priklause Dniepras

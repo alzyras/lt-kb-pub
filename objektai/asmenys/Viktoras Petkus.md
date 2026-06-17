@@ -29,9 +29,9 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   global_id: t-19313
   teiginys: 'Buvęs politinis kalinys Viktoras Petkus priklausė 1976 m. rudenį Vilniuje įsikūrusiai Helsinkio grupei.'
   sudarymo_pagrindimas: 'Teiginys yra pilnas faktinis sakinys apie Viktorą Petkų.'
-  susije_objektai: 'owner: Maskva; owner: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; owner: SSRS; owner: Vilnius; mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvos Helsinkio grupė|Maskvos Helsinkio grupė]]; mentioned_person: [[objektai/asmenys/Tomas Venclova|Tomas Venclova]]; mentioned_place: Maskva; mentioned_place: SSRS; mentioned_place: Vilnius'
   temporaliniai_duomenys: 'priklausymo laikotarpis: 1976 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Tomas Venclova susiję su Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas Venclova susiję su Maskvos Helsinkio grupė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas Venclova susiję su Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Tomas Venclova susiję su SSRS“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „priklausymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra pilnas faktinis sakinys apie Viktorą Petkų.'
   pagrindžia:
     - c-001
@@ -56,7 +56,6 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   susije_objektai: 'mentioned_place: Lietuva'
   pagrindžia:
     - c-003
-- susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 - susijęs iš [[objektai/asmenys/Balys Gajauskas.md#claim-t-18846|Balys Gajauskas]]: Sovietinė valdžia Balį Gajauską teisė kaip vieną iš disidentų, prieš kuriuos taikė represijas.
 - susijęs iš [[objektai/grupes/Lietuvos Helsinkio grupė.md#claim-t-74674|Lietuvos Helsinkio grupė]]: Lietuvos Helsinkio grupei priklausė Karolis Garuckas, Eitanas Finkelšteinas, Ona Lukauskaitė-Poškienė, Tomas Venclova ir Viktoras Petkus.
 ## Reikšmingi paminėjimai
@@ -113,6 +112,3 @@ Grupei priklausė kun. Karolis Garuckas, fizikas Eitanas Finkelšteinas, poetė,
   statusas: verified
   pagrindžia:
     - t-003
-
-## Ryšiai
-- [[objektai/grupes/Lietuvos Helsinkio grupė]] priklause Viktoras Petkus

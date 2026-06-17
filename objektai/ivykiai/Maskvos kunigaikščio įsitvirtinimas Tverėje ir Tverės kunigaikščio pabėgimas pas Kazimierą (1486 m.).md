@@ -52,9 +52,9 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Citata palaiko aiškų faktą apie Tverės kunigaikščio išvijimą ir miesto sąjungą su maskvėnais.'
-  susije_objektai: 'territory: Maskva; territory: Tverė; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1486 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Vasiljevičius (Maskvos valdovas) buvo valdovas Maskva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Vasiljevičius (Maskvos valdovas) buvo valdovas Tverė“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Maskva; mentioned_place: Tverė'
+  temporaliniai_duomenys: 'įvykio data: 1486 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Citata palaiko aiškų faktą apie Tverės kunigaikščio išvijimą ir miesto sąjungą su maskvėnais.'
   pagrindžia:
     - c-002
@@ -67,7 +67,7 @@ Nenurodyta
   patikimumo_lygis: 'vidutinis'
   patikimumo_saltinis: 'ai'
   sudarymo_pagrindimas: 'Teiginys yra autoriaus vertinimas, todėl palikta aiški atribucija ir pašalintas perteklinis tekstas.'
-  susije_objektai: 'territory: Tverė; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Tverė'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Vasiljevičius (Maskvos valdovas)|Vasiljevičius (Maskvos valdovas)]]; mentioned_place: Tverė'
   pagrindžia:
     - c-003
 

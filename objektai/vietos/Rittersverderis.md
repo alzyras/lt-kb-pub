@@ -51,7 +51,6 @@ amziai:
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
-- susijęs iš [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis).md#claim-t-63619|Henrikas (Mozūrų kunigaikštis)]]: Lenkijai atsidūrus sunkioje padėtyje, Mozūrų kunigaikštis Henrikas išvyko į Prūsus ir rado Vytautą Rittersverderyje.
 - susijęs iš [[objektai/asmenys/Vytautas.md#claim-t-176673|Vytautas (Lietuvos valdovas, XIV–XV a.)]]: Vytautas su lietuviais ir lenkais užklupo Rittersverderio pilį stačiusį magistrą ir ragino jį pasitraukti iš krašto.
 - susijęs iš [[objektai/daiktai/Rittersverderio pilis ir laikini įtvirtinimai.md#claim-t-87033|Rittersverderio pilis ir laikini įtvirtinimai]]: Didysis magistras, siekdamas atimti Vilnių iš Vytauto, vasarą už Nemuno ėmė statydinti ir stiprinti Rittersverderio pilį.
 - susijęs iš [[objektai/ivykiai/Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa).md#claim-t-92943|Rittersverderio, Naujojo Gardino ir Metenos sunaikinimas (1392 m. liepa)]]: 1392 m. liepą Vytautas staiga pasirodė prie Rittersverderio pilies ir ją sudegino, o paskui atsigręžė prieš Naująjį Gardiną ir Meteną.
@@ -109,6 +108,3 @@ amziai:
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- [[objektai/asmenys/Henrikas (Mozūrų kunigaikštis)]] buvo_valdovas Rittersverderis

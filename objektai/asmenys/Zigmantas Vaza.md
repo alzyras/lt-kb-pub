@@ -50,10 +50,9 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   global_id: t-82987
   teiginys: '1598 m. Zigmantas III Vaza su nedidele kariuomene nuvyko į Švediją, bet buvo išstumtas ir priverstas pasitraukti.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
-  susije_objektai: 'location: Švedija; mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/asmenys/Zigmantas Vaza|Zigmantas Vaza]] keliavo į Švedija'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Karolis|Karolis]]; mentioned_person: [[objektai/asmenys/Zigmantas III|Zigmantas III]]; mentioned_place: Švedija'
   temporaliniai_duomenys: 'kelionės data: 1598 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Zigmantas Vaza keliavo į Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir tiesiogiai paremtas citata.'
   pagrindžia:
     - c-003
@@ -136,6 +135,3 @@ Zigmanto Vazos elekcija ir naujasis Lietuvos Statutas 294. Zigmantas Vaza ir jo 
   statusas: verified
   pagrindžia:
     - t-002
-
-## Ryšiai
-- Zigmantas Vaza keliavo_i [[objektai/vietos/Švedija]]

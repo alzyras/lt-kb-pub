@@ -50,10 +50,9 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
 - t-002
   global_id: t-84800
   teiginys: 'Totorių žygis pasiekė Slucko apylinkes, kurios priklausė tankiai apgyventam ir turtingam LDK branduoliui.'
-  susije_objektai: 'owner: Naugardukas; owner: [[objektai/grupes/Totoriai|Totoriai]]; owner: Vilnius; owner: Vitebskas; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Naugardukas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
-  semantiniai_rysiai: 'Sluckas priklausė [[objektai/grupes/Totoriai|Totoriai]]; Sluckas priklausė Naugardukas; Sluckas priklausė Vilnius; Sluckas priklausė Vitebskas'
-  temporaliniai_duomenys: 'priklausymo laikotarpis: 1506 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Sluckas priklausė Totoriai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sluckas priklausė Naugardukas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sluckas priklausė Vilnius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Sluckas priklausė Vitebskas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/žygis|žygis]]; mentioned_place: Naugardukas; mentioned_place: Vilnius; mentioned_place: Vitebskas'
+  temporaliniai_duomenys: 'mūšio data: 1506 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „mūšio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-001
 
@@ -223,12 +222,8 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
   temporalinis_llm_pakomentavimas: 'Teiginys aiškiai nusako Gričino pelkių pobūdį ir padėtį Slucko atžvilgiu. Citatos OCR bei gretimi vietovardžiai neįtraukti.'
   pagrindžia:
     - c-014
-- susijęs iš [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai.md#claim-t-187761|Slucko kunigaikščiai Olelkaičiai]]: Slucko kunigaikštis Simonas Mykolaitis Olelkaitis valdė Slucką ir Kopylių, o mirė 1505 m. rugsėjo 14 d.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184670|Algirdas (Lietuvos valdovas)]]: Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.
 - susijęs iš [[objektai/asmenys/Simonas Olelkaitis.md#claim-t-186078|Simonas Olelkaitis]]: Slucko kunigaikštis Simonas Olelkaitis mirė prieš Biti Girėjaus ir Burnaš Girėjaus puolimą prieš Slucką.
-- susijęs iš Mozyrius: Lietuvos metraštis pasakoja, kad didysis kunigaikštis Skirmantas po pergalės Rusų žemėje paėmė Mozyrių, Černigovą, Starodubą ir Karačevą.
-- susijęs iš Naugardukas: Lietuvos metraštis pasakoja, kad Vaišvilkas su pinskiečiais nuvyko į Naugarduką, pasiėmė naugardukiečius ir grįžo į Lietuvą kunigaikščiauti.
-- susijęs iš Smolenskas: Ivanas Boreikaitis Chodkevičius į sutartą vietą atvyko su Seversko ir Smolensko kariais.
 - susijęs iš [[objektai/asmenys/Algirdas.md#claim-t-184670|Algirdas (Lietuvos valdovas)]]: Simonas Olelkaitis citatoje pristatomas kaip Slucko kunigaikštis ir Algirdo proanūkis.
 - susijęs iš [[objektai/asmenys/Biti Girėjus.md#claim-t-186184|Biti Girėjus]]: Po Simono Olelkaičio mirties Biti Girėjus ir Burnaš Girėjus rugpjūčio viduryje užpuolė Slucką.
 - susijęs iš [[objektai/asmenys/Burnaš Girėjus.md#claim-t-186189|Burnaš Girėjus]]: Burnaš Girėjus su Biti Girėjumi rugpjūčio viduryje užpuolė Slucką po Simono Olelkaičio mirties.
@@ -596,13 +591,5 @@ Tuo būdu į jo valdymo pabaigą atskiros kunigaikštystės liko tik Kopiliuje, 
     - t-017
 
 ## Ryšiai
-- [[objektai/grupes/Slucko kunigaikščiai Olelkaičiai]] valde_teritorija Sluckas
 - [[objektai/asmenys/Algirdas|Algirdas (Lietuvos valdovas)]] buvo_valdovas Sluckas
 - [[objektai/asmenys/Simonas Olelkaitis]] buvo_valdovas Sluckas
-- [[objektai/asmenys/Skirmantas]] buvo_valdovas Sluckas
-- [[objektai/asmenys/Martynas iš Golino]] keliavo_i Sluckas
-- Sluckas priklause [[objektai/vietos/Naugardukas]]
-- Sluckas priklause [[objektai/grupes/Totoriai]]
-- Sluckas priklause [[objektai/vietos/Vilnius]]
-- Sluckas priklause [[objektai/vietos/Vitebskas]]
-- [[objektai/asmenys/Vytautas|Vytautas (Lietuvos valdovas, XIV–XV a.)]] keliavo_i Sluckas

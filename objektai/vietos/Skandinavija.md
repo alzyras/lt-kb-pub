@@ -26,7 +26,6 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   susije_objektai: 'mentioned_object: [[objektai/zodynas/protestantizmas|protestantizmas]]; mentioned_place: Europa; mentioned_place: Italija; mentioned_place: Vakarų Europa; mentioned_place: Viena'
   pagrindžia:
     - c-001
-- susijęs iš [[objektai/paprociai/Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje.md#claim-t-87305|Vaidilų įkurdinimas, kunigaikščių kapavietės ir dievų šlovinimai Šventaragio slėnyje]]: Kronikų pasakojimu, XIII amžiuje kunigaikštis Germantas Šventaragio slėnyje įkurdino vaidilas, įrengė kunigaikščių kapavietes ir rengė dievų šlovinimus.
 - susijęs iš [[objektai/asmenys/Bona Sforca.md#claim-t-173127|Bona Sforca]]: Bona Sforca atsivežė į Lenkiją ir Lietuvą italų architektų, dailininkų ir muzikų, o Žygimantą Augustą išugdė Renesanso dvasia.
 - susijęs iš [[objektai/asmenys/Snorro Sturleson.md#claim-t-87575|Snorro Sturleson]]: Snorro Sturlesonas, 1179 m. Islandijoje gimęs keliautojas, rinko žinias Norvegijos ir Šiaurės istorijai.
 - susijęs iš [[objektai/asmenys/Žygimantas Augustas.md#claim-t-183581|Žygimantas Augustas (arkivyskupas, XVI a.)]]: Bona Sforca Renesanso dvasia išugdė Žygimantą Augustą ir kartu su juo pastatydino Vilniaus Žemutinę pilį.
@@ -86,6 +85,3 @@ Protestantizmas lėmė, kad viena Viduramžių periferija – Šiaurės Europa (
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Šventaragis]] buvo_valdovas Skandinavija

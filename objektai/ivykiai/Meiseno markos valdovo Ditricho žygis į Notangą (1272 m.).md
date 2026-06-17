@@ -46,9 +46,9 @@ Nenurodyta
   global_id: t-89382
   teiginys: 'Meiseno markos valdovas Ditrichas 1272 m. nusiaubė Notangą iki Gerkynės prekyvietės ir ten išbuvo tris dienas bei naktis.'
   sudarymo_pagrindimas: 'Teiginys gramatiškas, konkretus ir pagrįstas pateikta citata.'
-  susije_objektai: 'territory: Notanga; territory: Pilaitė; territory: Prūsai; mentioned_person: [[objektai/asmenys/Giunteris (Mazovijos vyskupas)|Giunteris (Mazovijos vyskupas)]]; mentioned_place: Notanga; mentioned_place: Pilaitė; mentioned_place: Prūsai'
-  temporaliniai_duomenys: 'valdymo pabaiga: 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Giunteris (Mazovijos vyskupas) buvo valdovas Notanga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Giunteris (Mazovijos vyskupas) buvo valdovas Pilaitė“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Giunteris (Mazovijos vyskupas) buvo valdovas Prūsai“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_person: [[objektai/asmenys/Giunteris (Mazovijos vyskupas)|Giunteris (Mazovijos vyskupas)]]; mentioned_place: Notanga; mentioned_place: Pilaitė; mentioned_place: Prūsai'
+  temporaliniai_duomenys: 'valdymo laikotarpis: 1272 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „valdymo laikotarpis“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys gramatiškas, konkretus ir pagrįstas pateikta citata.'
   pagrindžia:
     - c-001
@@ -59,9 +59,9 @@ Nenurodyta
   global_id: t-89383
   teiginys: 'Meiseno markos valdovas Ditrichas 1272 m. atvyko į Prūsiją su daugybe karių ir, padedamas magistro bei brolių, žygiavo į Notangą.'
   sudarymo_pagrindimas: 'Teiginys yra išbaigtas ir jo faktai remiasi citata.'
-  susije_objektai: 'location: Notanga; location: Prūsija; mentioned_person: [[objektai/asmenys/Giunteris (Mazovijos vyskupas)|Giunteris (Mazovijos vyskupas)]]; mentioned_place: Notanga; mentioned_place: Prūsija'
+  susije_objektai: 'location: Prūsija; mentioned_person: [[objektai/asmenys/Giunteris (Mazovijos vyskupas)|Giunteris (Mazovijos vyskupas)]]; mentioned_place: Notanga; mentioned_place: Prūsija'
   temporaliniai_duomenys: 'kelionės data: 1272 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Giunteris (Mazovijos vyskupas) keliavo į Notanga“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Giunteris (Mazovijos vyskupas) keliavo į Prūsija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „kelionės data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra išbaigtas ir jo faktai remiasi citata.'
   pagrindžia:
     - c-002

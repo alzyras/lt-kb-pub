@@ -602,20 +602,3 @@ Minimas kaip vienas iš „krikščioniškųjų plėšikautojų“, teikusių ž
   statusas: verified
   pagrindžia:
     - t-016
-
-## Ryšiai
-- Martynas iš Golino keliavo_i [[objektai/vietos/Bobruiskas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Brasta]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Gardinas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Kaunas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Kražiai]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Lietuva]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Minskas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Pinskas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Prūsai]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Ragainė]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Semba]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Sluckas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Smolenskas]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Viena]]
-- Martynas iš Golino keliavo_i [[objektai/vietos/Vitebskas]]

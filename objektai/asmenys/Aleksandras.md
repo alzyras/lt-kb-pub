@@ -31,10 +31,9 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   global_id: t-89626
   teiginys: 'Mirtinai negaluojantis LDK valdovas Aleksandras kariuomenės vadais paskyrė Stanislovą Kišką ir Mykolą Glinskį.'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
-  susije_objektai: 'territory: Smolenskas; mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_place: Smolenskas'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] buvo valdovas Smolenskas'
-  temporaliniai_duomenys: 'valdymo laikotarpis: 1502 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Aleksandras buvo valdovas Smolenskas“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Maskvėnai|Maskvėnai]]; mentioned_person: [[objektai/asmenys/Kiška|Kiška]]; mentioned_person: [[objektai/asmenys/Stanislovas Kiška|Stanislovas Kiška]]; mentioned_place: Smolenskas'
+  temporaliniai_duomenys: 'įvykio data: 1502 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Teiginys yra aiškus, gramatiškas ir pagrįstas citata.'
   pagrindžia:
     - c-003
@@ -64,8 +63,7 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
 - t-004
   global_id: t-89629
   teiginys: 'Mirštantis valdovas Aleksandras dar spėjo gauti žinią apie totoriams fatališkai pasibaigusį mūšį.'
-  susije_objektai: 'territory: Kazanė; territory: Vilnius; mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Kazanė; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/Aleksandras|Aleksandras]] buvo valdovas Kazanė; [[objektai/asmenys/Aleksandras|Aleksandras]] buvo valdovas Vilnius'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Totoriai|Totoriai]]; mentioned_object: [[objektai/zodynas/chanas|chanas]]; mentioned_person: [[objektai/asmenys/Mykolas Glinskis|Mykolas Glinskis]]; mentioned_place: Kazanė; mentioned_place: Vilnius'
   pagrindžia:
     - c-002
 
@@ -83,9 +81,6 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
   temporalinis_llm_pakomentavimas: 'Citata palaiko glaustą faktą apie Aleksandro valdžią Podolėje.'
   pagrindžia:
     - c-004
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje iki Tamovo, esančio už dešimties mylių nuo Krokuvos.
-- susijęs iš Tamovas: Moldavijos vaivada Steponas su Malkoču kariavo Lenkijos žemėje nuo Kameneco per Lvovą iki Tamovo.
 - susijęs iš [[objektai/asmenys/Aleksandras (Moldavijos valdovas).md#claim-t-35009|Aleksandras (Moldavijos valdovas)]]: Moldavijos valdovas Aleksandras buvo Vytauto remiamas prieš turkus.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis).md#claim-t-87903|Aleksandras (Riazanės kunigaikštis)]]: Riazanės kunigaikštis Aleksandras laidavo karaliui už savo žentą Kaributą.
 - susijęs iš [[objektai/asmenys/Aleksandras (Riazanės kunigaikštis, vadinamas Olegu).md#claim-t-186173|Aleksandras (Riazanės kunigaikštis, vadinamas Olegu)]]: Riazanės kunigaikštis Aleksandras, vadinamas Olegu, užstojo Dimitrą ir laidavo jam Vytauto palankumą.
@@ -313,14 +308,4 @@ Tą pačią dieną ten buvo atvykęs jau mirtinai negaluojantis LDK valdovas Ale
     - t-005
 
 ## Ryšiai
-- [[objektai/asmenys/Aleksandras Jogailaitis]] kariavo_pries Aleksandras
-- Aleksandras buvo_valdovas [[objektai/vietos/Kazanė]]
-- Aleksandras buvo_valdovas [[objektai/vietos/Smolenskas]]
-- Aleksandras buvo_valdovas [[objektai/vietos/Vilnius]]
-- Aleksandras keliavo_i [[objektai/vietos/Lenkija]]
-- Aleksandras keliavo_i [[objektai/vietos/Lietuva]]
-- Aleksandras keliavo_i [[objektai/vietos/Maskva]]
-- Aleksandras keliavo_i [[objektai/vietos/Melnikas]]
-- Aleksandras keliavo_i [[objektai/vietos/Nemėžis]]
-- Aleksandras keliavo_i [[objektai/vietos/Trakai]]
 - Aleksandras keliavo_i [[objektai/vietos/Vilnius]]

@@ -54,10 +54,9 @@ periodo_grupes:
 - t-004
   global_id: t-49402
   teiginys: 'K. Škirpa vadovavo Vilniaus batalionui, kuriam buvo įsakyta saugoti Paltynų-Žaiginio barą iki 1919 m.'
-  susije_objektai: 'event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
-  semantiniai_rysiai: '[[objektai/asmenys/K. Škirpa|K. Škirpa]] dalyvavo mūšyje [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]'
-  temporaliniai_duomenys: 'mūšio data: iki 1919 m.; mūšio data: 1919 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „K. Škirpa dalyvavo mūšyje Radviliškio kautynės (1919 m. lapkričio 21–22 d.)“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_event: [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)|Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]; mentioned_place: Kaunas; mentioned_place: Vilnius'
+  temporaliniai_duomenys: 'įvykio data: iki 1919 m.; įvykio data: 1919 m.'
+  temporalinis_paaiskinimas: 'Ši data interpretuojama kaip įvykio data su riba „before“, o ne kaip tiksli pilna data. Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   pagrindžia:
     - c-003
 
@@ -160,6 +159,3 @@ periodo_grupes:
   statusas: verified
   pagrindžia:
     - t-006
-
-## Ryšiai
-- K. Škirpa dalyvavo_musyje [[objektai/ivykiai/Radviliškio kautynės (1919 m. lapkričio 21–22 d.)]]

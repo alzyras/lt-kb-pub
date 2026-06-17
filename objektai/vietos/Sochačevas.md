@@ -26,7 +26,6 @@ Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį suna
   pagrindžia:
     - c-001
 - susijęs iš [[objektai/asmenys/Traidenis I.md#claim-t-30401|Traidenis I]]: Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.
-- susijęs iš [[objektai/asmenys/Traidenis I.md#claim-t-30401|Traidenis I]]: Traidenis I buvo Mozūrijos, Čersko ir Sochačevo kunigaikštis 1316-1341 m.
 - susijęs iš [[objektai/grupes/Lietuviai.md#claim-t-184546|Lietuviai]]: Lietuviai, kaip sąjungininkai žygiuodami per Mazoviją į Gostininą, ėmė grobstyti atsigavusio krašto turtus.
 - susijęs iš [[objektai/ivykiai/Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją.md#claim-t-185745|Lietuvių pagalba Konradui užimant Gostininą ir vėlesnis įsiveržimas į Mazoviją]]: Po Gostinino žygio lietuviai su didesnėmis pajėgomis grįžo į Konrado valdas ir iš sąjungininkų tapo priešais.
 - susijęs iš [[objektai/posakiai/Ugnimi ir kalaviju.md#claim-t-185465|Ugnimi ir kalaviju]]: Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentus dvarus ir kitą grobį sunaikino ugnimi ir kalaviju.
@@ -64,6 +63,3 @@ Lietuviai užėmė Sochačevo ir Plocko apygardas, o neišsigabentą grobį suna
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- [[objektai/asmenys/Traidenis I]] buvo_valdovas Sochačevas

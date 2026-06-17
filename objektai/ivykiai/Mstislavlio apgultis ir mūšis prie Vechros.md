@@ -50,8 +50,7 @@ Nenurodyta
   teiginys: 'Mstislavlio apgulties metu mūšis įvyko prie Sožo intako Vechros, prie kurios stovi Mstislavlis.'
   teiginio_tipas: 'faktas'
   sudarymo_pagrindimas: 'Teiginys yra aiškus, gramatiškas ir atitinka citatos informaciją.'
-  susije_objektai: 'event: [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros|Mstislavlio apgultis ir mūšis prie Vechros]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Mstislavlis'
-  semantiniai_rysiai: '[[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]] dalyvavo mūšyje [[objektai/ivykiai/Mstislavlio apgultis ir mūšis prie Vechros|Mstislavlio apgultis ir mūšis prie Vechros]]'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_place: Mstislavlis'
   pagrindžia:
     - c-001
 
@@ -82,6 +81,3 @@ Nenurodyta
   pagrindžia:
     - t-002
     - t-001
-
-## Ryšiai
-- [[objektai/grupes/Lietuvos kariuomenė]] dalyvavo_musyje Mstislavlio apgultis ir mūšis prie Vechros (mūšis, XIV a.)

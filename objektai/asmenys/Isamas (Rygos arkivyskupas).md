@@ -113,7 +113,3 @@ Isamas (Rygos arkivyskupas) vėl likęs prie savo tėvų tikėji­ mo, juk ne ka
   statusas: verified
   pagrindžia:
     - t-001
-
-## Ryšiai
-- Isamas (Rygos arkivyskupas) buvo_valdovas [[objektai/vietos/Prūsija]]
-- Isamas (Rygos arkivyskupas) buvo_valdovas [[objektai/vietos/Ryga]]

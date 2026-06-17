@@ -83,9 +83,9 @@ amziai:
   global_id: t-99862
   teiginys: 'Per Didįjį prūsų sukilimą jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.'
   sudarymo_pagrindimas: 'Pradinis teiginys nutrūkęs; citata remia pilną faktą apie Vėluvos pilies apgulą.'
-  susije_objektai: 'object: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; object: Kulmas; object: [[objektai/grupes/Lietuviai|Lietuviai]]; object: Prieglius; object: Prūsai; object: Semba; object: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba'
-  temporaliniai_duomenys: 'mūšio data: 1262 m.; mūšio data: 1263 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Kryžiuočių ordinas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Lietuviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Sūduviai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Kulmas“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Prieglius“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Prūsai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Mindaugas (valdovas, XIII a.) puolė Semba“, o ne visam objekto laikotarpiui.'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Kryžiuočių ordinas|Kryžiuočių ordinas]]; mentioned_group: [[objektai/grupes/Lietuviai|Lietuviai]]; mentioned_group: [[objektai/grupes/Sūduviai|Sūduviai]]; mentioned_person: [[objektai/asmenys/Mindaugas|Mindaugas]]; mentioned_place: Kulmas; mentioned_place: Prieglius; mentioned_place: Prūsai; mentioned_place: Semba'
+  temporaliniai_duomenys: 'įvykio data: 1262 m.; įvykio data: 1263 m.'
+  temporalinis_paaiskinimas: 'Ši data taikoma teiginyje minimai reikšmei „įvykio data“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Pradinis teiginys nutrūkęs; citata remia pilną faktą apie Vėluvos pilies apgulą.'
   pagrindžia:
     - c-009
@@ -161,10 +161,8 @@ amziai:
   susije_objektai: 'mentioned_object: [[objektai/zodynas/magistras|magistras]]; mentioned_place: Prūsija; mentioned_place: Tapiava'
   pagrindžia:
     - c-010
-- susijęs iš [[objektai/asmenys/Tirskas.md#claim-t-60068|Tirskas]]: Tirsko vedamas Karaliaučiaus komtūras su sembų kariuomene įsibrovė į Vonsdorfo žemę ir užkariavo Kapstetos pilį.
 - susijęs iš [[objektai/grupes/Sūduviai-jotvingiai.md#claim-t-175106|Sūduviai-jotvingiai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/grupes/Sūduviai.md#claim-t-89234|Sūduviai]]: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė, kovojusi Sembos rajone, apgulė Vėluvos pilį Priegliaus pakrantėje.
-- susijęs iš Prieglius: Jungtinė prūsų, sūduvių ir lietuvių kariuomenė apgulė Vėluvos pilį Priegliaus pakrantėje.
 - susijęs iš [[objektai/asmenys/Fridrichas Kvicas.md#claim-t-59959|Fridrichas Kvicas]]: 1323 metais Vėluvos valsčiuje lietuviai nužudė brolį Fridrichą Kvicą, vadintą drąsiu ir narsiu kariu.
 - susijęs iš [[objektai/asmenys/Fridrichas fon Quitzas.md#claim-t-87676|Fridrichas fon Quitzas]]: Lietuviai prie Vėluvos nužudė įtakingą kryžiuotį Fridrichą fon Quitzą ir trisdešimt šešis jo karius.
 - susijęs iš [[objektai/asmenys/Herkus Mantas.md#claim-t-175191|Herkus Mantas]]: Herkaus Manto vadovaujami prūsai nusiaubė Kulmo žemę, o 1263 m. mūšio lauke visiškai sutriuškino kryžiuočius.
@@ -425,7 +423,5 @@ amziai:
     - t-013
 
 ## Ryšiai
-- [[objektai/asmenys/Tirskas]] uzkariavo Vėluva
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] puole Vėluva
 - [[objektai/grupes/Sūduviai]] puole Vėluva
 - [[objektai/grupes/Sūduviai-jotvingiai]] puole Vėluva

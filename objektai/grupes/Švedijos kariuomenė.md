@@ -43,10 +43,10 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
   global_id: t-41214
   teiginys: 'Rugsėjo 23 d. Švedijos kariuomenė apgulė Rygą po to, kai J. K. Chodkevičiui nepavyko sutrukdyti švedams susijungti.'
   sudarymo_pagrindimas: 'Perrašyta, kad subjektas būtų Švedijos kariuomenė.'
-  susije_objektai: 'object: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; object: Lietuva; object: [[objektai/grupes/Švedai|Švedai]]; object: Švedija; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Švedija'
-  semantiniai_rysiai: '[[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė [[objektai/grupes/Švedai|Švedai]]; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė Lietuva; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė Švedija'
+  susije_objektai: 'object: [[objektai/grupes/Švedai|Švedai]]; object: Švedija; mentioned_group: [[objektai/grupes/Chodkevičiai|Chodkevičiai]]; mentioned_group: [[objektai/grupes/Švedai|Švedai]]; mentioned_place: Lietuva; mentioned_place: Švedija'
+  semantiniai_rysiai: '[[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė [[objektai/grupes/Švedai|Švedai]]; [[objektai/grupes/Švedijos kariuomenė|Švedijos kariuomenė]] puolė Švedija'
   temporaliniai_duomenys: 'mūšio data: 1619 m.; mūšio data: apie 1619 m.'
-  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švedijos kariuomenė puolė Chodkevičiai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Švedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Lietuva“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Švedija“, o ne visam objekto laikotarpiui.'
+  temporalinis_paaiskinimas: 'Ši data taikoma santykiui „Švedijos kariuomenė puolė Švedai“, o ne visam objekto laikotarpiui. Ši data taikoma santykiui „Švedijos kariuomenė puolė Švedija“, o ne visam objekto laikotarpiui.'
   temporalinis_llm_pakomentavimas: 'Perrašyta, kad subjektas būtų Švedijos kariuomenė.'
   pagrindžia:
     - c-002
@@ -103,7 +103,5 @@ Mūšio išvakarėse 1601 m. balandžio 1 d. Švedijos kariuomenė šturmu užė
     - t-002
 
 ## Ryšiai
-- Švedijos kariuomenė puole [[objektai/grupes/Chodkevičiai]]
-- Švedijos kariuomenė puole [[objektai/vietos/Lietuva]]
 - Švedijos kariuomenė puole [[objektai/grupes/Švedai]]
 - Švedijos kariuomenė puole [[objektai/vietos/Švedija]]

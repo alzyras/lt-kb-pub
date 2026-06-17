@@ -46,8 +46,7 @@ Nenurodyta
 - t-001
   global_id: t-71784
   teiginys: 'Karūnos armija priklausė Lenkijos karalystei, o Lietuvos kariuomenė priklausė Lietuvos Didžiajai Kunigaikštystei.'
-  susije_objektai: 'owner: Lenkija; owner: Lietuva; owner: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklausė [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklausė Lenkija; [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklausė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -56,8 +55,7 @@ Nenurodyta
   global_id: t-71785
   teiginys: 'Karūnos armija priklausė Lenkijos Karalystei, o Lietuvos kariuomenė – Lietuvos Didžiajai Kunigaikštystei, kuri nebuvo pavaldi provincija.'
   sudarymo_pagrindimas: 'Pradinis teiginys turi OCR klaidų ir nėra gramatiškai tvarkingas.'
-  susije_objektai: 'owner: Lenkija; owner: Lietuva; owner: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
-  semantiniai_rysiai: '[[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklausė [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklausė Lenkija; [[objektai/paprociai/Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas|Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas]] priklausė Lietuva'
+  susije_objektai: 'mentioned_group: [[objektai/grupes/Lietuvos kariuomenė|Lietuvos kariuomenė]]; mentioned_object: [[objektai/daiktai/Karūna|Karūna]]; mentioned_place: Lenkija; mentioned_place: Lietuva'
   pagrindžia:
     - c-001
 
@@ -85,8 +83,3 @@ Nenurodyta
     - t-003
     - t-001
     - t-002
-
-## Ryšiai
-- Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas priklause [[objektai/vietos/Lenkija]]
-- Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas priklause [[objektai/vietos/Lietuva]]
-- Abiejų Tautų Respublikos kariuomenių atskiras stovyklavimas ir pavaldumo nebuvimas priklause [[objektai/grupes/Lietuvos kariuomenė]]

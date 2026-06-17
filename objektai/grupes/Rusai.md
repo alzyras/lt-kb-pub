@@ -131,14 +131,6 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
   pagrindžia:
     - c-008
 - susijęs iš [[objektai/grupes/Poloviečiai.md#claim-t-187773|Poloviečiai]]: Danielius išsiuntė Tautvilą, o jam į pagalbą pasiuntė rusus ir poloviečius, kurie ilgai kariavo su vokiečiais.
-- susijęs iš [[objektai/grupes/Totoriai.md#claim-t-171422|Totoriai]]: Vytauto laikais totorių valstybė išgyveno krizę: Orda buvo suskilusi, o atskiri saarai nuolat kariavo.
-- susijęs iš Mohilna: Antroji Lietuvos metraščio redakcija pasakoja, kad 1234 m. Mindaugo tėvas prie Mohilnos kovojo prieš totorius.
-- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
-- susijęs iš [[objektai/asmenys/Kemlickis.md#claim-t-186125|Kemlickis]]: Šimtininkas Kemlickis parodė didelę narsą mūšyje, nuo kurio priklausė lenkų ir rusų kovos baigtis.
-- susijęs iš [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas.md#claim-t-40903|Jozefo Grabinskio Jėgerių batalionas]]: Jozefo Grabinskio Jėgerių batalionas priklausė Vilnių nuo rusų puolimo gynusiai gen. mjr. Jono Mejeno divizijai.
-- susijęs iš [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados.md#claim-t-80647|oji ir 3-ioji Tautinės kavalerijos brigados]]: 2-oji ir 3-ioji Tautinės kavalerijos brigados priklausė gen. mjr. Jono Mejeno divizijai, gynusiai Vilnių nuo rusų puolimo.
-- susijęs iš [[objektai/ivykiai/Smolensko apgultis (1632–1634 m.).md#claim-t-09883|Smolensko apgultis (1632–1634 m.)]]: 1632 m. maskvėnai įsiveržė į Lietuvos teritoriją siekdami atgauti Smolenską, o Michailo Šejino vadovaujama rusų kariuomenė lapkričio 14 d. apgulė miestą.
-- susijęs iš [[objektai/zodynas/pravoslavai.md#claim-t-11775|pravoslavai]]: Pravoslavai priklausė Konstantinopolio patriarchatui ir kadaise buvo valdomi Kijevo metropolito.
 - susijęs iš [[objektai/asmenys/A. Chlapovskis.md#claim-t-39466|A. Chlapovskis]]: Generolas Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/A. N. Trubeckojus.md#claim-t-39979|A. N. Trubeckojus]]: A. N. Trubeckojaus kariuomenė, turėjusi apie 15000 karių, užėmė Mstislavlį ir žygiavo Lietuvos gilumon Minsko link.
 - susijęs iš [[objektai/asmenys/A. Nelepcos.md#claim-t-39698|A. Nelepcos]]: A. Nelepcos vadovaujama maždaug 30 karių grupė puolė Pacų rūmus ir paėmė į nelaisvę generolą N. Arsenjevą.
@@ -176,6 +168,7 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
 - susijęs iš [[objektai/asmenys/E. Doterivas.md#claim-t-39722|E. Doterivas]]: Pulkininkas E. Doterivas ir generolas D. Chlapovskis mėgino atkalbėti A. Gelgaudą nuo puolimo ir siūlė pasitraukti.
 - susijęs iš [[objektai/asmenys/E. Koso.md#claim-t-39723|E. Koso]]: Pulkininkas E. Koso vadovavo 7-ajam lenkų pėstininkų pulkui, atakavusiam rusų gynybos centrinius įtvirtinimus.
 - susijęs iš [[objektai/asmenys/Edividas.md#claim-t-35053|Edividas]]: Mindaugo sūnėnas Edividas įsigyveno Drutske, kai Lietuvos valdžia plito Baltojoje Rusijoje.
+- susijęs iš [[objektai/asmenys/Edyga.md#claim-t-183736|Edyga]]: Krymo emyro Edygos kariai priklausė totorių pajėgoms kartu su Aukso ordos chano Timūr-Kutluko kariais.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82286|Elena (vyskupas, XV–XVI a.)]]: Aleksandro ir Elenos santuoka išplėtė Vilniaus prekybinius ryšius su Maskva, Naugardu, Pskovu ir Tvere.
 - susijęs iš [[objektai/asmenys/Elena.md#claim-t-82290|Elena (vyskupas, XV–XVI a.)]]: Vilniaus vyskupas Vaitiekus Taboras ir graikų tikėjimo dvasininkas Foma sutuokė didįjį kunigaikštį Aleksandrą su Elena.
 - susijęs iš [[objektai/asmenys/Eufimėjus.md#claim-t-35061|Eufimėjus]]: Konstantinopolio patriarchas Eufimėjus nepatvirtino Vytauto siūlyto Polocko vyskupo Teodozijaus Kijevo metropolitu.
@@ -1541,15 +1534,5 @@ Rusai domėjosi Lietuvos istorija dėl savo politikos tikslų.
     - t-010
 
 ## Ryšiai
-- [[objektai/asmenys/Mindaugas|Mindaugas (valdovas, XIII a.)]] kariavo_pries Rusai
 - [[objektai/grupes/Poloviečiai]] kariavo_pries Rusai
-- [[objektai/grupes/Totoriai]] kariavo_pries Rusai
-- Rusai dalyvavo_musyje [[objektai/ivykiai/Klecko mūšis|Klecko mūšis (mūšis, XVI a.)]]
 - Rusai dalyvavo_musyje [[objektai/ivykiai/Lietuvos Brastos mūšis (1792 m. liepos 23 d.)]]
-- Rusai dalyvavo_musyje [[objektai/ivykiai/Žuvinto Palių kautynės (1945 m. rugpjūčio 6-12 d.)]]
-- [[objektai/grupes/Jozefo Grabinskio Jėgerių batalionas]] priklause Rusai
-- [[objektai/grupes/Lenkai]] priklause Rusai
-- [[objektai/asmenys/Tochtamišas]] susije_su Rusai
-- [[objektai/asmenys/Vladislovas]] puole Rusai
-- [[objektai/grupes/oji ir 3-ioji Tautinės kavalerijos brigados]] priklause Rusai
-- [[objektai/zodynas/pravoslavai]] priklause Rusai
