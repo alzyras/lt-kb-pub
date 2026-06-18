@@ -15,6 +15,14 @@ const markdown = `# Objektas
   temporaliniai_duomenys: valdymo laikotarpis: 1392-1430
   temporalinis_paaiskinimas: Ši data taikoma Vytauto valdymui, o ne visam jo gyvenimui.
   temporalinis_llm_pakomentavimas: LLM pažymėjo, kad citata aiškiai nurodo valdymo laikotarpį.
+  ryšio_patikimumas: vede -> Jadvyga: 0.94
+  ryšio_patikimumo_lygis: aukstas
+  ryšio_patikimumo_priezastys: single_candidate_target; owner_before_predicate
+  ryšio_sprendimo_taisykle: rule_marriage_local_spouse
+  ryšio_subjekto_parinkimas: Vytautas: owner_note_path, person
+  ryšio_targeto_parinkimas: Lietuva: nearest_after_predicate, state
+  ryšio_slopinti_kandidatai: Trakai: candidate
+  ryšio_paaiskinimas: Ryšys sukurtas taisykle "rule_marriage_local_spouse".
   pagrindžia:
     - c-001
 
@@ -55,6 +63,9 @@ describe("AdvancedEvidence transformer", () => {
     assert.match(transformed, /temporaliniai_duomenys/)
     assert.match(transformed, /temporalinis_paaiskinimas/)
     assert.match(transformed, /temporalinis_llm_pakomentavimas/)
+    assert.match(transformed, /ryšio_patikimumas/)
+    assert.match(transformed, /ryšio_sprendimo_taisykle/)
+    assert.match(transformed, /rule_marriage_local_spouse/)
     assert.match(transformed, /aiškiai įvardytų subjektą ir kontekstą/)
     assert.doesNotMatch(transformed, /global_id: t-00042/)
     assert.match(transformed, /href="objektai\/asmenys\/Vytautas"/)
@@ -89,5 +100,34 @@ describe("AdvancedEvidence transformer", () => {
 
     assert.match(transformed, /mentioned_place: Nežinoma/)
     assert.doesNotMatch(transformed, /href="[^"]*Nežinoma/)
+  })
+
+  test("does not auto-link stopword-like tokens such as tame", () => {
+    const plugin = AdvancedEvidence()
+    const markdownWithStopword = `# Objektas
+
+## Teiginiai
+- id: t-001
+  global_id: t-00044
+  teiginys: Testinis teiginys
+  susije_objektai: mentioned_person: tame; mentioned_person: Žygimantas
+  pagrindžia:
+    - c-001
+`
+
+    const transformed =
+      plugin.textTransform?.(
+        {
+          allSlugs: [
+            "objektai/asmenys/Tame-(Baigos-brolis)",
+            "objektai/asmenys/Zygimantas",
+          ] as FullSlug[],
+        } as any,
+        markdownWithStopword,
+      ) ?? markdownWithStopword
+
+    assert.match(transformed, /mentioned_person: tame/)
+    assert.doesNotMatch(transformed, /href="objektai\/asmenys\/Tame-\(Baigos-brolis\)"/)
+    assert.match(transformed, /href="objektai\/asmenys\/Zygimantas"/)
   })
 })

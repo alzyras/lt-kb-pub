@@ -18,6 +18,14 @@ const ADVANCED_KEYS = new Set([
   "temporaliniai_duomenys",
   "temporalinis_paaiskinimas",
   "temporalinis_llm_pakomentavimas",
+  "ryšio_patikimumas",
+  "ryšio_patikimumo_lygis",
+  "ryšio_patikimumo_priezastys",
+  "ryšio_sprendimo_taisykle",
+  "ryšio_subjekto_parinkimas",
+  "ryšio_targeto_parinkimas",
+  "ryšio_slopinti_kandidatai",
+  "ryšio_paaiskinimas",
   "ai_siulomas_patikimumas",
   "ai_siulymo_pagrindimas",
   "vertinimo_atnaujinta",
@@ -28,6 +36,7 @@ const ADVANCED_KEYS = new Set([
 const QUOTE_DISPLAY_KEY = "citata_rodoma"
 const QUOTE_ORIGINAL_KEY = "citata_originali"
 const QUOTE_LEGACY_DISPLAY_KEY = "citata"
+const ADVANCED_RESOLVE_STOPWORDS = new Set(["tame"])
 
 interface EvidenceEntry {
   id: string
@@ -125,7 +134,7 @@ function buildSlugResolveIndex(ctx: BuildCtx): SlugResolveIndex {
 
 function resolveCanonicalSlug(label: string, resolveIndex: SlugResolveIndex): FullSlug | null {
   const key = normalizeLabelKey(label)
-  if (!key) {
+  if (!key || ADVANCED_RESOLVE_STOPWORDS.has(key)) {
     return null
   }
   return resolveIndex.get(key) ?? null
@@ -461,6 +470,14 @@ function claimAdvancedRows(entry: EvidenceEntry, resolveIndex: SlugResolveIndex)
     "temporaliniai_duomenys",
     "temporalinis_paaiskinimas",
     "temporalinis_llm_pakomentavimas",
+    "ryšio_patikimumas",
+    "ryšio_patikimumo_lygis",
+    "ryšio_patikimumo_priezastys",
+    "ryšio_sprendimo_taisykle",
+    "ryšio_subjekto_parinkimas",
+    "ryšio_targeto_parinkimas",
+    "ryšio_slopinti_kandidatai",
+    "ryšio_paaiskinimas",
     "ai_siulomas_patikimumas",
     "ai_siulymo_pagrindimas",
     "vertinimo_atnaujinta",
@@ -499,6 +516,14 @@ function advancedRows(
     "temporaliniai_duomenys",
     "temporalinis_paaiskinimas",
     "temporalinis_llm_pakomentavimas",
+    "ryšio_patikimumas",
+    "ryšio_patikimumo_lygis",
+    "ryšio_patikimumo_priezastys",
+    "ryšio_sprendimo_taisykle",
+    "ryšio_subjekto_parinkimas",
+    "ryšio_targeto_parinkimas",
+    "ryšio_slopinti_kandidatai",
+    "ryšio_paaiskinimas",
     "ai_siulomas_patikimumas",
     "ai_siulymo_pagrindimas",
     "vertinimo_atnaujinta",
